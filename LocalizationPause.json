@@ -1,0 +1,37 @@
+{
+    "table":{
+    "en": {
+        "LANGUAGE_NAME": "Deutsch",
+        "LANGUAGE": "Sprache",
+        "PAUSE_PAUSED": "Pausiert",
+        "PAUSE_ARE_YOU_SURE": "Möchtest du wirklich beenden?",
+        "PAUSE_PROGRESS_LOST": "Der Fortschritt wird verloren gehen.",
+        "PAUSE_YES": "Beenden",
+        "PAUSE_NO": "Fortfahren",
+        "PAUSE_SELECT": "Bestätigen",
+        "PAUSE_CLOSE": "Schliessen",
+        "PAUSE_RESUME": "Fortfahren",
+        "PAUSE_RESUME_DESCRIPTION": "",
+        "PAUSE_SETTINGS": "Einstellungen",
+        "PAUSE_SETTINGS_DESCRIPTION": "",
+        "PAUSE_RESTART": "Zurück zum Menü",
+        "PAUSE_RESTART_DESCRIPTION": "",
+        "PAUSE_BACK_TO_PACK": "Zurück zum Pack",
+        "PAUSE_BACK_TO_PACK_DESCRIPTION": "",
+        "PAUSE_EXIT_TO_DESKTOP": "Zurück zum Desktop",
+        "PAUSE_EXIT_TO_DESKTOP_DESCRIPTION": "",
+        "PAUSE_CONFIRMATION_YES": "Ja",
+        "PAUSE_CONFIRMATION_NO": "Nein",
+        "PAUSE_CONFIRMATION_EXIT": "Möchtest du wirklich aufhören?",
+        "PAUSE_CONFIRMATION_RESTART": "Möchtest du das Spiel neu starten?",
+        "PAUSE_CONFIRMATION_BACK_TO_PACK": "Möchtest du ein anderes Spiel spielen?",
+        "PAUSE_CHOOSE_ON_DEVICE": "Wähle auf deinem Gerät",
+        "BACK": "Zurück",
+        "SELECT": "Bestätigen"
+    },
+    "fr": {},
+    "it": {},
+    "de": {},
+    "es": {}
+}
+}
