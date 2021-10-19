@@ -761,11 +761,11 @@
    "id": "80500",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s vorstellung einer *wilden nacht*",
+   "prompt": "{{PLAYER}}'s vorstellung von einer *wilden nacht*",
    "tags": [
     "subjective"
    ],
-   "title": "{{PLAYER}}'s vorstellung einer...",
+   "title": "{{PLAYER}}'s vorstellung von...",
    "x": false
   },
   {
@@ -966,12 +966,12 @@
    "id": "80992",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s vorstellung einer romantischen geste",
+   "prompt": "{{PLAYER}}'s vorstellung von einer romantischen geste",
    "tags": [
     "da-personal",
     "subjective"
    ],
-   "title": "{{PLAYER}}'s vorstellung...",
+   "title": "{{PLAYER}}'s vorstellung von...",
    "x": false
   },
   {
