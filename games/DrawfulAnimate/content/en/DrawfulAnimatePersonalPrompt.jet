@@ -5,7 +5,7 @@
    "id": "77072",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} in seinem element",
+   "prompt": "{{PLAYER}} im eigenen element",
    "tags": [
     "subjective"
    ],
@@ -139,7 +139,7 @@
    "id": "77618",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} händchenhaltend mit seiner grössten angst",
+   "prompt": "{{PLAYER}} händchenhaltend mit der eigenen grössten angst",
    "tags": [
     "da-personal",
     "subjective"
@@ -266,7 +266,7 @@
    "id": "79783",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} stolpert vor seinem idol",
+   "prompt": "{{PLAYER}} stolpert vor dem eigenen idol",
    "tags": [
     "#da-personal",
     "subjective"
@@ -291,7 +291,7 @@
    "id": "80034",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} erreicht seinen traum",
+   "prompt": "{{PLAYER}} erreicht den eigenen traum",
    "tags": [
     "subjective"
    ],
@@ -1378,7 +1378,7 @@
    "id": "82853",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} as an extra in their fave movie",
+   "prompt": "{{PLAYER}} als nebendarsteller in seinem lieblingsfilm",
    "tags": [
     "da-personal"
    ],
@@ -1390,11 +1390,11 @@
    "id": "82858",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} is on the News!",
+   "prompt": "{{PLAYER}} ist in den nachrichten!",
    "tags": [
     "literal"
    ],
-   "title": "{{PLAYER}} is...",
+   "title": "{{PLAYER}} ist...",
    "x": false
   },
   {
@@ -1402,7 +1402,7 @@
    "id": "82901",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} wore this (??!) to be fancy !??>?!",
+   "prompt": "{{PLAYER}} trug das (??!) um gut auszusehen !??>?!",
    "tags": [
     "odd"
    ],
@@ -1414,7 +1414,7 @@
    "id": "82903",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} wouldn't be caught dead here",
+   "prompt": "{{PLAYER}} würde hier nicht gerne sterben wollen",
    "tags": [
     "nonhuman"
    ],
@@ -1426,7 +1426,7 @@
    "id": "83001",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s general vibes",
+   "prompt": "{{PLAYER}}'s allgemeine stimmung",
    "tags": [
     "nonhuman"
    ],
@@ -1438,7 +1438,7 @@
    "id": "83004",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} unsupervised",
+   "prompt": "{{PLAYER}} unbeaufsichtigt",
    "tags": [
     "subjective"
    ],
@@ -1450,7 +1450,7 @@
    "id": "83005",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s ultimate middle school fantasy",
+   "prompt": "{{PLAYER}}'s ultimative mittelstufenfantasie",
    "tags": [
     "nonhuman"
    ],
@@ -1462,7 +1462,7 @@
    "id": "83073",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} wasting genie wishes on frivolous junk",
+   "prompt": "{{PLAYER}} verschwendet ihren wunderlampen wunsch für schrott",
    "tags": [
     "da-personal",
     "literal"
@@ -1475,7 +1475,7 @@
    "id": "83346",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} “with child” but the child is many meatballs",
+   "prompt": "{{PLAYER}} “mit kind” aber das kind ist eine pizza",
    "tags": [
     "literal"
    ],
@@ -1487,7 +1487,7 @@
    "id": "83347",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} trying to express normal healthy human love",
+   "prompt": "{{PLAYER}} versucht normale menschliche liebe auszudrücken",
    "tags": [
     "subjective"
    ],
@@ -1499,7 +1499,7 @@
    "id": "83348",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} would immediately pee if they saw this",
+   "prompt": "{{PLAYER}} würde sofort beim anblick von dem hier pinkeln",
    "tags": [
     "nonhuman"
    ],
@@ -1511,11 +1511,11 @@
    "id": "83349",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} being a horrible role model",
+   "prompt": "{{PLAYER}} als schreckliches vorbild",
    "tags": [
     "subjective"
    ],
-   "title": "{{PLAYER}} being...",
+   "title": "{{PLAYER}} als...",
    "x": false
   },
   {
@@ -1523,11 +1523,11 @@
    "id": "83350",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} being.... patriotic ???",
+   "prompt": "{{PLAYER}} als patriot???",
    "tags": [
     "odd"
    ],
-   "title": "{{PLAYER}} being...",
+   "title": "{{PLAYER}} als...",
    "x": false
   },
   {
@@ -1535,11 +1535,11 @@
    "id": "83351",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} is a crappy off-brand cereal mascot",
+   "prompt": "{{PLAYER}} als verdammtes müsli-maskottchen",
    "tags": [
     "literal"
    ],
-   "title": "{{PLAYER}} is...",
+   "title": "{{PLAYER}} als...",
    "x": false
   },
   {
@@ -1547,11 +1547,11 @@
    "id": "83352",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} when thrown in the middle of the dance circle",
+   "prompt": "{{PLAYER}} in der mitte eines tanzkreises",
    "tags": [
     "odd"
    ],
-   "title": "{{PLAYER}} when...",
+   "title": "{{PLAYER}}...",
    "x": false
   },
   {
@@ -1559,7 +1559,7 @@
    "id": "83353",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s secret \"basement collection\"",
+   "prompt": "{{PLAYER}}'s geheime \"sammlung im keller\"",
    "tags": [
     "nonhuman"
    ],
@@ -1571,7 +1571,7 @@
    "id": "83354",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} ! dont go in there, its full of nightmare",
+   "prompt": "{{PLAYER}} ! geh nicht da rein, dort lauert es von albträumen",
    "tags": [
     "odd"
    ],
@@ -1583,7 +1583,7 @@
    "id": "83355",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} university: there's lots to learn here",
+   "prompt": "{{PLAYER}} universität: hier kann man viel lernen",
    "tags": [
     "odd"
    ],
@@ -1595,11 +1595,11 @@
    "id": "83356",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} is in troouuuble for this one. moooom!!!",
+   "prompt": "{{PLAYER}} ist hierfür in schwierigkeiten. mamaaaaa!!",
    "tags": [
     "odd"
    ],
-   "title": "{{PLAYER}} is...",
+   "title": "{{PLAYER}} ist...",
    "x": false
   },
   {
@@ -1607,7 +1607,7 @@
    "id": "83357",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} will regret this moment forever",
+   "prompt": "{{PLAYER}} wird diesen moment für immer bereuen",
    "tags": [
     "subjective"
    ],
@@ -1619,7 +1619,7 @@
    "id": "83358",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} would be \"athletic\" if this was a sport",
+   "prompt": "{{PLAYER}} wäre \"athletisch\" wenn das ein sport wäre",
    "tags": [
     "odd"
    ],
@@ -1631,7 +1631,7 @@
    "id": "83359",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} daaaaaang, you look good. dang.",
+   "prompt": "{{PLAYER}} sieht verdammt gut aus. hammer.",
    "tags": [
     "odd"
    ],
@@ -1643,7 +1643,7 @@
    "id": "83360",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} eating the spiciest thing they can handle",
+   "prompt": "{{PLAYER}} isst das schärfste essen aller zeiten",
    "tags": [
     "odd"
    ],
@@ -1655,7 +1655,7 @@
    "id": "83448",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} having a bad time!",
+   "prompt": "{{PLAYER}} hat eine schlechte zeit",
    "tags": [
     "subjective"
    ],
@@ -1667,7 +1667,7 @@
    "id": "83450",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s secret ambition",
+   "prompt": "{{PLAYER}}'s geheimes talent",
    "tags": [
     "subjective"
    ],
@@ -1679,7 +1679,7 @@
    "id": "83451",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s last big project",
+   "prompt": "{{PLAYER}}'s letztes grosses projekt",
    "tags": [
     "subjective"
    ],
@@ -1691,7 +1691,7 @@
    "id": "83453",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} does this in the darkness",
+   "prompt": "{{PLAYER}} macht das im dunkeln",
    "tags": [
     "subjective"
    ],
@@ -1703,11 +1703,11 @@
    "id": "83454",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s vacation self",
+   "prompt": "{{PLAYER}} im urlaub",
    "tags": [
     "subjective"
    ],
-   "title": "{{PLAYER}}'s...",
+   "title": "{{PLAYER}}...",
    "x": false
   },
   {
@@ -1715,7 +1715,7 @@
    "id": "83455",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} ...don't do that!",
+   "prompt": "{{PLAYER}} ...mach das nicht!",
    "tags": [
     "odd"
    ],
@@ -1727,7 +1727,7 @@
    "id": "83456",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s third favorite thing",
+   "prompt": "{{PLAYER}}'s dritte lieblingssache",
    "tags": [
     "nonhuman"
    ],
@@ -1739,7 +1739,7 @@
    "id": "83659",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} has seized control of the universe",
+   "prompt": "{{PLAYER}} hat die kontrolle über das universum übernommen",
    "tags": [
     "odd"
    ],
@@ -1751,7 +1751,7 @@
    "id": "83660",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s drawer of beloved keepsakes",
+   "prompt": "{{PLAYER}}'s schublade mit geliebten andenken",
    "tags": [
     "nonhuman"
    ],
@@ -1763,7 +1763,7 @@
    "id": "83662",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} won't stop breakdancing",
+   "prompt": "{{PLAYER}} hört nicht auf zu breakdancen",
    "tags": [
     "literal"
    ],
@@ -1775,7 +1775,7 @@
    "id": "83664",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} has gone rogue ... omg",
+   "prompt": "{{PLAYER}} ist dünn geworden... omg",
    "tags": [
     "odd"
    ],
@@ -1787,7 +1787,7 @@
    "id": "83671",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} wrestling with their conscience",
+   "prompt": "{{PLAYER}} kämpft mit dem eigenen gewissen",
    "tags": [
     "literal"
    ],
@@ -1799,7 +1799,7 @@
    "id": "83695",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} drank from the wrong grail! AHHG!!",
+   "prompt": "{{PLAYER}} hat vom falschen gral getrunken! AHHHG!!",
    "tags": [
     "literal"
    ],
@@ -1811,7 +1811,7 @@
    "id": "83734",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} snackin' on a snacky snack",
+   "prompt": "{{PLAYER}} nascht einen leckeren snack",
    "tags": [
     "literal"
    ],
@@ -1823,7 +1823,7 @@
    "id": "83735",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s own little world :)",
+   "prompt": "{{PLAYER}}'s eigene kleine welt :)",
    "tags": [
     "subjective"
    ],
@@ -1835,7 +1835,7 @@
    "id": "83738",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} isn't allowed in there! nooooo stop",
+   "prompt": "{{PLAYER}} ist hier nicht erlaubt! hör auuuuf",
    "tags": [
     "odd"
    ],
@@ -1847,7 +1847,7 @@
    "id": "83902",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} manually changing the leaves for the season",
+   "prompt": "{{PLAYER}} wechselt händisch die blätter im herbst aus",
    "tags": [
     "da-personal",
     "literal"
@@ -1860,7 +1860,7 @@
    "id": "84246",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} cannot handle this",
+   "prompt": "{{PLAYER}} kann damit nicht umgehen",
    "tags": [
     "subjective"
    ],
@@ -1872,7 +1872,7 @@
    "id": "84248",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s morning routine",
+   "prompt": "{{PLAYER}}'s morgenroutine",
    "tags": [
     "subjective"
    ],
@@ -1884,7 +1884,7 @@
    "id": "84437",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s social media presence",
+   "prompt": "{{PLAYER}}'s social media auftreten",
    "tags": [
     "nonhuman"
    ],
@@ -1896,7 +1896,7 @@
    "id": "84438",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} deadlifts pizza people",
+   "prompt": "{{PLAYER}} stemmt pizzakartons",
    "tags": [
     "da-personal",
     "literal"
@@ -1909,7 +1909,7 @@
    "id": "84439",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} dressed for the wronggg weather",
+   "prompt": "{{PLAYER}} angezogen für das falsche wetter",
    "tags": [
     "odd"
    ],
@@ -1921,11 +1921,11 @@
    "id": "84440",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} is a sparkly vampire now",
+   "prompt": "{{PLAYER}} ist jetzt ein funkelnder vampir",
    "tags": [
     "odd"
    ],
-   "title": "{{PLAYER}} is...",
+   "title": "{{PLAYER}} ist...",
    "x": false
   },
   {
@@ -1933,7 +1933,7 @@
    "id": "84696",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} and their best pal, horsemonster",
+   "prompt": "{{PLAYER}} mit dem besten kumpel, dem pferdemonster",
    "tags": [
     "da-personal",
     "literal"
@@ -1946,7 +1946,7 @@
    "id": "84699",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s boundless rage",
+   "prompt": "{{PLAYER}}'s grenzenlose wut",
    "tags": [
     "literal"
    ],
@@ -1958,7 +1958,7 @@
    "id": "84701",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s wallet contents",
+   "prompt": "{{PLAYER}}'s inhalte der brieftasche",
    "tags": [
     "nonhuman"
    ],
@@ -1970,7 +1970,7 @@
    "id": "84906",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s favorite sauce. is all over.",
+   "prompt": "{{PLAYER}}'s lieblingssosse",
    "tags": [
     "nonhuman"
    ],
@@ -1982,11 +1982,11 @@
    "id": "85096",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} is on sicko mode",
+   "prompt": "{{PLAYER}} ist absolut krank unterwegs",
    "tags": [
     "da-personal"
    ],
-   "title": "{{PLAYER}} is...",
+   "title": "{{PLAYER}} ist...",
    "x": false
   },
   {
@@ -1994,7 +1994,7 @@
    "id": "85097",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} literally eating their feelings",
+   "prompt": "{{PLAYER}} isst buchstäblich die eigenen gefühle",
    "tags": [
     "da-personal",
     "literal"
@@ -2007,12 +2007,12 @@
    "id": "85099",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} is actually who wiped out the dinosaurs",
+   "prompt": "{{PLAYER}} ist schuld an der auslöschung der dinosaurier",
    "tags": [
     "da-personal",
     "literal"
    ],
-   "title": "{{PLAYER}} is...",
+   "title": "{{PLAYER}} ist...",
    "x": false
   },
   {
@@ -2020,9 +2020,9 @@
    "id": "85100",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} is the iceberg that did you know what",
+   "prompt": "{{PLAYER}} ist ein eisberg am strand",
    "tags": [],
-   "title": "{{PLAYER}} is...",
+   "title": "{{PLAYER}} ist...",
    "x": false
   },
   {
@@ -2030,12 +2030,12 @@
    "id": "85106",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} as a sesame street muppety thing",
+   "prompt": "{{PLAYER}} als sesamstrassen muppet dings",
    "tags": [
     "da-personal",
     "literal"
    ],
-   "title": "{{PLAYER}}...",
+   "title": "{{PLAYER}} als...",
    "x": false
   },
   {
@@ -2043,7 +2043,7 @@
    "id": "85146",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} dipping a toe in a blackhole",
+   "prompt": "{{PLAYER}} mit einem zeh in einem schwarzen loch",
    "tags": [
     "literal"
    ],
@@ -2055,7 +2055,7 @@
    "id": "85153",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s pov lookin into a crystal ball",
+   "prompt": "{{PLAYER}}'s blick in eine kristallkugel",
    "tags": [
     "nonhuman"
    ],
@@ -2067,7 +2067,7 @@
    "id": "85625",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} crafting their masterpiece",
+   "prompt": "{{PLAYER}} bastelt ein meisterwerk",
    "tags": [
     "subjective"
    ],
@@ -2079,7 +2079,7 @@
    "id": "85629",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s mom enjoying Sunday",
+   "prompt": "{{PLAYER}}'s mutter geniesst den sonntag",
    "tags": [
     "nonhuman"
    ],
@@ -2091,7 +2091,7 @@
    "id": "85673",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} really going for it with earrings",
+   "prompt": "{{PLAYER}} geht mit ohrringen richtig ab",
    "tags": [
     "literal"
    ],
@@ -2103,7 +2103,7 @@
    "id": "85677",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} falling asleep on the trapeze",
+   "prompt": "{{PLAYER}} schläft beim trampolin springen ein",
    "tags": [
     "literal"
    ],
@@ -2115,7 +2115,7 @@
    "id": "85686",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} doing secret stuff in the attic",
+   "prompt": "{{PLAYER}} macht geheime sachen auf dem dachboden",
    "tags": [
     "odd"
    ],
@@ -2127,7 +2127,7 @@
    "id": "85689",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s brain + the wacky nonsense in there",
+   "prompt": "{{PLAYER}}'s gehirn und die verrückten gedanken dahinter",
    "tags": [
     "odd"
    ],
@@ -2139,7 +2139,7 @@
    "id": "85690",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s greatest achievement so far",
+   "prompt": "{{PLAYER}}'s grösster erfolg bisher",
    "tags": [
     "subjective"
    ],
@@ -2151,7 +2151,7 @@
    "id": "85693",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s wild alien encounter",
+   "prompt": "{{PLAYER}}'s wilde ausserirdische begegnung",
    "tags": [
     "odd"
    ],
@@ -2163,7 +2163,7 @@
    "id": "85723",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} in the gift shop at the zoo??",
+   "prompt": "{{PLAYER}} im souvenirshop im zoo??",
    "tags": [
     "literal"
    ],
@@ -2175,7 +2175,7 @@
    "id": "85725",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} singing with the chickens",
+   "prompt": "{{PLAYER}} singt mit den hühnern",
    "tags": [
     "literal"
    ],
@@ -2187,7 +2187,7 @@
    "id": "85909",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} sees themself like this",
+   "prompt": "{{PLAYER}} sieht sich selbst so",
    "tags": [
     "subjective"
    ],
@@ -2199,11 +2199,11 @@
    "id": "85910",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} if they were a parade float",
+   "prompt": "{{PLAYER}} als wagen auf dem karneval",
    "tags": [
     "subjective"
    ],
-   "title": "{{PLAYER}} if...",
+   "title": "{{PLAYER}} als...",
    "x": false
   },
   {
@@ -2211,7 +2211,7 @@
    "id": "85911",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s special skill",
+   "prompt": "{{PLAYER}}'s besondere fähigkeit",
    "tags": [
     "subjective"
    ],
@@ -2223,9 +2223,9 @@
    "id": "85912",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} if they were on the bachelorette",
+   "prompt": "{{PLAYER}} als bachelor",
    "tags": [],
-   "title": "{{PLAYER}} if...",
+   "title": "{{PLAYER}} als...",
    "x": false
   },
   {
@@ -2233,7 +2233,7 @@
    "id": "85914",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s morning routine",
+   "prompt": "{{PLAYER}}'s morgenroutine",
    "tags": [
     "subjective"
    ],
@@ -2245,7 +2245,7 @@
    "id": "85980",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s one chance at true love",
+   "prompt": "{{PLAYER}}'s letzte chance auf wahre liebe",
    "tags": [
     "da-personal"
    ],
@@ -2257,7 +2257,7 @@
    "id": "85982",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s first sight upon waking",
+   "prompt": "{{PLAYER}}'s erster blick nach dem aufstehen",
    "tags": [
     "da-personal"
    ],
@@ -2269,7 +2269,7 @@
    "id": "85983",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} had this in their HS locker",
+   "prompt": "{{PLAYER}} hatte das im schliessfach in der schule",
    "tags": [
     "da-personal"
    ],
@@ -2281,7 +2281,7 @@
    "id": "85987",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} would hate this vacation",
+   "prompt": "{{PLAYER}} würde diesen urlaub hassen",
    "tags": [
     "subjective"
    ],
@@ -2293,11 +2293,11 @@
    "id": "85999",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} is way too proud of this",
+   "prompt": "{{PLAYER}} ist viel zu stolz darauf",
    "tags": [
     "nonhuman"
    ],
-   "title": "{{PLAYER}} is...",
+   "title": "{{PLAYER}} ist...",
    "x": false
   },
   {
@@ -2305,7 +2305,7 @@
    "id": "86005",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} getting their wish granted",
+   "prompt": "{{PLAYER}} bekommt den eigenen wunsch erfüllt",
    "tags": [
     "subjective"
    ],
@@ -2317,7 +2317,7 @@
    "id": "86021",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} gets nervous about this",
+   "prompt": "{{PLAYER}} wird deswegen nervös",
    "tags": [],
    "title": "{{PLAYER}}...",
    "x": false
@@ -2327,11 +2327,11 @@
    "id": "86040",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s idea of a bad wedding",
+   "prompt": "{{PLAYER}}'s vorstellung einer schlechten hochzeit",
    "tags": [
     "da-personal"
    ],
-   "title": "{{PLAYER}}'s idea of...",
+   "title": "{{PLAYER}}'s vorstellung...",
    "x": false
   },
   {
@@ -2339,11 +2339,11 @@
    "id": "86041",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} when the caffeine finally hits",
+   "prompt": "{{PLAYER}} wenn das koffein endlich wirkt",
    "tags": [
     "da-personal"
    ],
-   "title": "{{PLAYER}} when...",
+   "title": "{{PLAYER}} wenn...",
    "x": false
   },
   {
@@ -2351,11 +2351,11 @@
    "id": "86071",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} being a silly goose",
+   "prompt": "{{PLAYER}} als dumme gans",
    "tags": [
     "da-personal"
    ],
-   "title": "{{PLAYER}} being...",
+   "title": "{{PLAYER}} als...",
    "x": false
   },
   {
@@ -2363,11 +2363,11 @@
    "id": "86072",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} if time travel was possible",
+   "prompt": "{{PLAYER}} wenn zeitreisen möglich wären",
    "tags": [
     "da-personal"
    ],
-   "title": "{{PLAYER}} if...",
+   "title": "{{PLAYER}} wenn...",
    "x": false
   },
   {
@@ -2375,7 +2375,7 @@
    "id": "86073",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} painted by a le fancy artiste",
+   "prompt": "{{PLAYER}} gemalt von einem verrückten künstler",
    "tags": [
     "da-personal"
    ],
@@ -2387,7 +2387,7 @@
    "id": "86074",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} has trouble with this",
+   "prompt": "{{PLAYER}} hat damit probleme",
    "tags": [
     "da-personal"
    ],
@@ -2399,11 +2399,11 @@
    "id": "86075",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} when the lights come on at the club",
+   "prompt": "{{PLAYER}} wenn das licht im club angeht",
    "tags": [
     "da-personal"
    ],
-   "title": "{{PLAYER}} when...",
+   "title": "{{PLAYER}} wenn...",
    "x": false
   },
   {
@@ -2411,11 +2411,11 @@
    "id": "86079",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} is in charge of the clams now",
+   "prompt": "{{PLAYER}} ist jetzt für die muscheln verantwortlich",
    "tags": [
     "da-personal"
    ],
-   "title": "{{PLAYER}} is...",
+   "title": "{{PLAYER}} ist...",
    "x": false
   },
   {
@@ -2423,7 +2423,7 @@
    "id": "86082",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} would totally own this toy",
+   "prompt": "{{PLAYER}} würde dieses spielzeug auf jeden fall haben",
    "tags": [
     "da-personal"
    ],
@@ -2434,8 +2434,8 @@
    "altSpellings": [],
    "id": "86114",
    "isValid": "",
-   "joke": "And yes, we put that typo in there to annoy you, Alan. You need to loosen up.",
-   "prompt": "{{PLAYER}}'s junk underneth their bed",
+   "joke": "Und ja, der Schreibfehler ist Absicht. Wir machen es euch nicht zu leicht.",
+   "prompt": "{{PLAYER}}'s müll untgerm bett",
    "tags": [
     "da-personal",
     "da-typo"
@@ -2448,11 +2448,11 @@
    "id": "86187",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} if they were reassembled haphazardly",
+   "prompt": "{{PLAYER}} als zufällig zusammengebaute person",
    "tags": [
     "da-personal"
    ],
-   "title": "{{PLAYER}} if...",
+   "title": "{{PLAYER}} als...",
    "x": false
   },
   {
@@ -2460,11 +2460,11 @@
    "id": "86190",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s idea of fine dining",
+   "prompt": "{{PLAYER}}'s vorstellung von gutem essen",
    "tags": [
     "da-personal"
    ],
-   "title": "{{PLAYER}}'s idea of...",
+   "title": "{{PLAYER}}'s vorstellung von...",
    "x": false
   },
   {
@@ -2472,7 +2472,7 @@
    "id": "86196",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s nightmare fuel",
+   "prompt": "{{PLAYER}}'s albtraum gedanken",
    "tags": [
     "da-personal"
    ],
@@ -2484,7 +2484,7 @@
    "id": "86202",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} thinks this is the worst thing ever invented",
+   "prompt": "{{PLAYER}} denkt, das ist die schlimmste erfindung aller zeiten",
    "tags": [
     "da-personal"
    ],
@@ -2496,11 +2496,11 @@
    "id": "86205",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} is literally magnetic",
+   "prompt": "{{PLAYER}} ist wortwörtlich magnetisch",
    "tags": [
     "da-personal"
    ],
-   "title": "{{PLAYER}} is...",
+   "title": "{{PLAYER}} ist...",
    "x": false
   },
   {
@@ -2508,7 +2508,7 @@
    "id": "86210",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s hands making a peculiar sandwich",
+   "prompt": "{{PLAYER}}'s hände machen ein leckeres butterbrot",
    "tags": [
     "da-personal"
    ],
@@ -2519,8 +2519,8 @@
    "altSpellings": [],
    "id": "86226",
    "isValid": "",
-   "joke": "Yeah, sometimes there's a typo in the correct answer.",
-   "prompt": "{{PLAYER}} (dun dun dun) was t he murderer all along!!!!",
+   "joke": "Ja, manchmal gibt es auch Schreibfehler in der richtigen Antwort.",
+   "prompt": "{{PLAYER}} (dun dun dun) ist der ware mörder!!!!",
    "tags": [
     "da-personal",
     "da-typo"
@@ -2533,7 +2533,7 @@
    "id": "86329",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s teenage rebellion",
+   "prompt": "{{PLAYER}}'s jugend-trauma",
    "tags": [
     "da-personal"
    ],
@@ -2545,7 +2545,7 @@
    "id": "86332",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s deal with the devil",
+   "prompt": "{{PLAYER}}'s abmachung mit dem teufel",
    "tags": [
     "da-personal"
    ],
@@ -2557,7 +2557,7 @@
    "id": "86334",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s cursed family heirloom",
+   "prompt": "{{PLAYER}}'s verfluchtes familienerbstück",
    "tags": [
     "da-personal"
    ],
@@ -2569,11 +2569,11 @@
    "id": "86335",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s idea of a hot robot butler",
+   "prompt": "{{PLAYER}}'s vorstellung eines heissen roboterbutlers",
    "tags": [
     "da-personal"
    ],
-   "title": "{{PLAYER}}'s idea of...",
+   "title": "{{PLAYER}}'s vorstellung...",
    "x": false
   },
   {
@@ -2581,11 +2581,11 @@
    "id": "86336",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s idea of the end of the world",
+   "prompt": "{{PLAYER}}'s vorstellung vom ende der welt",
    "tags": [
     "da-personal"
    ],
-   "title": "{{PLAYER}}'s idea of...",
+   "title": "{{PLAYER}}'s vorstellung...",
    "x": false
   },
   {
@@ -2593,7 +2593,7 @@
    "id": "86338",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s targeted ads",
+   "prompt": "{{PLAYER}}'s personalisierte werbung",
    "tags": [
     "da-personal"
    ],
@@ -2605,9 +2605,9 @@
    "id": "86369",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} when the stinkman gets them!!!!",
+   "prompt": "{{PLAYER}} wird vom stinkmann erwischt!!!!",
    "tags": [],
-   "title": "{{PLAYER}} when...",
+   "title": "{{PLAYER}} wird...",
    "x": false
   },
   {
@@ -2615,9 +2615,9 @@
    "id": "86373",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s idea of a hundred dollar shirt",
+   "prompt": "{{PLAYER}}'s vorstellung eines 100 euro shirts",
    "tags": [],
-   "title": "{{PLAYER}}'s idea of...",
+   "title": "{{PLAYER}}'s vorstellung...",
    "x": false
   },
   {
@@ -2625,7 +2625,7 @@
    "id": "86374",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s reason to get out of bed",
+   "prompt": "{{PLAYER}}'s grund aufzustehen",
    "tags": [],
    "title": "{{PLAYER}}'s...",
    "x": false
@@ -2635,7 +2635,7 @@
    "id": "86381",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s pathetic snack",
+   "prompt": "{{PLAYER}}'s peinlicher snack",
    "tags": [
     "da-personal"
    ],
@@ -2647,11 +2647,11 @@
    "id": "86385",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s idea of an expensive date",
+   "prompt": "{{PLAYER}}'s vorstellung eines teuren dates",
    "tags": [
     "da-personal"
    ],
-   "title": "{{PLAYER}}'s idea of...",
+   "title": "{{PLAYER}}'s vorstellung...",
    "x": false
   },
   {
@@ -2659,11 +2659,11 @@
    "id": "86387",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} being a scawed wittle bay-bay",
+   "prompt": "{{PLAYER}} als kleines verfressenes baby",
    "tags": [
     "da-personal"
    ],
-   "title": "{{PLAYER}} being...",
+   "title": "{{PLAYER}} als...",
    "x": false
   },
   {
@@ -2671,7 +2671,7 @@
    "id": "86389",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s most recent google",
+   "prompt": "{{PLAYER}}'s letzte google suche",
    "tags": [
     "da-personal"
    ],
@@ -2683,11 +2683,11 @@
    "id": "86394",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} being impulsive!!",
+   "prompt": "{{PLAYER}} ist impulsiv!!",
    "tags": [
     "da-personal"
    ],
-   "title": "{{PLAYER}} being...",
+   "title": "{{PLAYER}} ist...",
    "x": false
   },
   {
@@ -2695,11 +2695,11 @@
    "id": "86401",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} when they have 20 free minutes",
+   "prompt": "{{PLAYER}} mit 20 minuten freizeit",
    "tags": [
     "da-personal"
    ],
-   "title": "{{PLAYER}} when...",
+   "title": "{{PLAYER}} mit...",
    "x": false
   },
   {
@@ -2707,7 +2707,7 @@
    "id": "86402",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s idea to make goats better",
+   "prompt": "{{PLAYER}}'s idee wie man ziegen besser macht",
    "tags": [
     "da-personal"
    ],
@@ -2719,11 +2719,11 @@
    "id": "86403",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} when it's hot hot hot out",
+   "prompt": "{{PLAYER}} wenn es draussen heiss heiss heiss ist",
    "tags": [
     "da-personal"
    ],
-   "title": "{{PLAYER}} when...",
+   "title": "{{PLAYER}} wenn...",
    "x": false
   },
   {
@@ -2731,11 +2731,11 @@
    "id": "86405",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} when there's no more coffee",
+   "prompt": "{{PLAYER}} wenn es keinen kaffee mehr gibt",
    "tags": [
     "da-personal"
    ],
-   "title": "{{PLAYER}} when...",
+   "title": "{{PLAYER}} wenn...",
    "x": false
   },
   {
@@ -2743,11 +2743,11 @@
    "id": "86408",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s idea of the best water slide",
+   "prompt": "{{PLAYER}}'s vorstellung der besten wasserrutsche",
    "tags": [
     "da-personal"
    ],
-   "title": "{{PLAYER}}'s idea of...",
+   "title": "{{PLAYER}}'s vorstellung...",
    "x": false
   },
   {
@@ -2767,7 +2767,7 @@
    "id": "86417",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s idea to solve climate change",
+   "prompt": "{{PLAYER}}'s lösung für den klimawandel",
    "tags": [
     "da-personal"
    ],
@@ -2779,11 +2779,11 @@
    "id": "86418",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s idea of sick transportation",
+   "prompt": "{{PLAYER}}'s vorstellung des krankentransports",
    "tags": [
     "da-personal"
    ],
-   "title": "{{PLAYER}}'s idea of...",
+   "title": "{{PLAYER}}'s vorstellung des...",
    "x": false
   },
   {
@@ -2791,7 +2791,7 @@
    "id": "86419",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s idea for fixing the government",
+   "prompt": "{{PLAYER}}'s idee die politik in den griff zu bekommen",
    "tags": [
     "da-personal"
    ],
@@ -2802,8 +2802,8 @@
    "altSpellings": [],
    "id": "86420",
    "isValid": "",
-   "joke": "Yes, it's a typo. Grow up!",
-   "prompt": "{{PLAYER}} wehn they turn 100",
+   "joke": "Ja, wir haben einen Schreibfehler eingebaut. Werdet erwachsen!",
+   "prompt": "{{PLAYER}} mit 100 jahrne",
    "tags": [
     "da-personal",
     "da-typo"
@@ -2816,7 +2816,7 @@
    "id": "86427",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} after getting nothing from Santa",
+   "prompt": "{{PLAYER}} ohne geschenke vom weihnachtsmann",
    "tags": [
     "da-personal"
    ],
@@ -2828,7 +2828,7 @@
    "id": "86428",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} as a teenager in the 80s",
+   "prompt": "{{PLAYER}} als teenager in den 80ern",
    "tags": [
     "da-personal"
    ],
@@ -2840,11 +2840,11 @@
    "id": "86431",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} being born",
+   "prompt": "{{PLAYER}} bei der geburt",
    "tags": [
     "da-personal"
    ],
-   "title": "{{PLAYER}} being...",
+   "title": "{{PLAYER}} bei...",
    "x": true
   },
   {
@@ -2852,11 +2852,11 @@
    "id": "86432",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s idea of total boredom",
+   "prompt": "{{PLAYER}}'s vorstellung kompletter langeweile",
    "tags": [
     "da-personal"
    ],
-   "title": "{{PLAYER}}'s idea of...",
+   "title": "{{PLAYER}}'s vorstellung...",
    "x": false
   }
  ]
