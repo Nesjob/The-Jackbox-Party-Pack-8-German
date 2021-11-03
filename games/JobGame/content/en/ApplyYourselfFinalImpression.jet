@@ -1,0 +1,102 @@
+{
+ "content": [
+  {
+   "firstPrompt": "ICH HABE {{BLANK}}",
+   "id": "85487",
+   "isValid": "",
+   "secondPrompt": "ICH BRAUCHE {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "ICH BIN {{BLANK}}",
+   "id": "85488",
+   "isValid": "",
+   "secondPrompt": "ICH WILL {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "ICH WERDE {{BLANK}}",
+   "id": "85489",
+   "isValid": "",
+   "secondPrompt": "ICH WERDE NICHT {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "ICH GEBE {{BLANK}}",
+   "id": "85490",
+   "isValid": "",
+   "secondPrompt": "ICH NEHME {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "ICH KANN {{BLANK}}",
+   "id": "85491",
+   "isValid": "",
+   "secondPrompt": "ICH KANN NICHT {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "ICH HOFFE {{BLANK}}",
+   "id": "85492",
+   "isValid": "",
+   "secondPrompt": "ICH WEIß {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "ICH SAGE {{BLANK}}",
+   "id": "85493",
+   "isValid": "",
+   "secondPrompt": "ICH MACHE {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "ICH ERSCHAFFE {{BLANK}}",
+   "id": "85494",
+   "isValid": "",
+   "secondPrompt": "ICH ZERSTÖRE {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "ICH SUCHE {{BLANK}}",
+   "id": "85495",
+   "isValid": "",
+   "secondPrompt": "ICH FINDE {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "ICH VERDIENE {{BLANK}}",
+   "id": "85496",
+   "isValid": "",
+   "secondPrompt": "ICH BEKOMME {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "ICH SCHWÄRME {{BLANK}}",
+   "id": "85497",
+   "isValid": "",
+   "secondPrompt": "ICH FÜRCHTE MICH {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "ICH VERSPRECHE {{BLANK}}",
+   "id": "85498",
+   "isValid": "",
+   "secondPrompt": "ICH LIEFERE {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "ICH GLAUBE {{BLANK}}",
+   "id": "85499",
+   "isValid": "",
+   "secondPrompt": "ICH VERWEIGERE {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "ICH LIEBE {{BLANK}}",
+   "id": "85500",
+   "isValid": "",
+   "secondPrompt": "ICH HASSE {{BLANK}}",
+   "x": false
+  }
+ ]
+}
