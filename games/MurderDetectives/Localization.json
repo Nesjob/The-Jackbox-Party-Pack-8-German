@@ -115,7 +115,7 @@
         "NAMING_ERROR_TEXT": "Jemand hat schon [guest]%s[/guest] eingeladen. Schreibe einen anderen Namen!",
         "NAMING_DONE_TEXT": "Dein Gast ist eingeladen.",
 
-        "DRAWING_HEADER_TEXT": "Male diese Waffe und verschtecke deinen Buchstabe darin:",
+        "DRAWING_HEADER_TEXT": "Male diese Waffe und verstecke deinen Buchstabe darin:",
         "DRAWING_ERROR_TEXT": "ungültige Eingabe",
         "DRAWING_DONE_TEXT": "Danke!",
 
