@@ -927,325 +927,325 @@
   {
    "id": "76689",
    "isValid": "",
-   "prompt": "What's the heartwarming ending to the movie about your life?",
+   "prompt": "Was wäre das herzerwärmendste Ende für einen Liebesfilm?",
    "x": false
   },
   {
    "id": "76690",
    "isValid": "",
-   "prompt": "What's something you can do to soften the blow when delivering bad news?",
+   "prompt": "Was kann man machen oder sagen, um jemand anderem auf eine sanfte Art schlechte Nachrichten mitzuteilen?",
    "x": false
   },
   {
    "id": "76692",
    "isValid": "",
-   "prompt": "What's the first thing you'd do if you suddenly became all-powerful?",
+   "prompt": "Was wäre das erste, das du machen würdest, wenn du alle Superkräfte der Welt hättest?",
    "x": false
   },
   {
    "id": "76706",
    "isValid": "",
-   "prompt": "What would you do if you discovered a monster under your bed?",
+   "prompt": "Was würdest du machen, wenn du ein Monster unter deinem Bett finden würdest?",
    "x": false
   },
   {
    "id": "76708",
    "isValid": "",
-   "prompt": "What's the best way to guarantee you win Student Body President?",
+   "prompt": "Wie kann man garantiert zum Schülersprecher gewählt werden?",
    "x": false
   },
   {
    "id": "76709",
    "isValid": "",
-   "prompt": "Summarize your favorite podcast in one sentence. (Or one you wish existed.)",
+   "prompt": "Beschreibe deinen Lieblings-Podcast in zwei Sätzen. (Oder denke dir einen Podcast aus.)",
    "x": false
   },
   {
    "id": "76710",
    "isValid": "",
-   "prompt": "What would you and your partner do on the perfect third date?",
+   "prompt": "Das würdest du mit deinem Traumpartner auf dem dritten Date unternehmen?",
    "x": true
   },
   {
    "id": "76711",
    "isValid": "",
-   "prompt": "Explain how you're like (or unlike) your favorite animal.",
+   "prompt": "Erkläre die Gemeinsamkeiten zwischen dir und deinem Lieblingstier (oder die Unterschiede).",
    "x": false
   },
   {
    "id": "76712",
    "isValid": "",
-   "prompt": "What's that one little habit you just can't seem to break?",
+   "prompt": "Welche Angewohnheit kannst du dir einfach nicht abgewöhnen?",
    "x": false
   },
   {
    "id": "76714",
    "isValid": "",
-   "prompt": "What's something you might do to prepare for an awkward conversation?",
+   "prompt": "Wie kommt man am schnellsten in eine unangenehme Situation?",
    "x": false
   },
   {
    "id": "76716",
    "isValid": "",
-   "prompt": "Explain your favorite book poorly.",
+   "prompt": "Erkläre kurz die Handlung deines Lieblingsbuches.",
    "x": false
   },
   {
    "id": "76718",
    "isValid": "",
-   "prompt": "What foolish thing did you attempt as a child?",
+   "prompt": "Welche dumme Aktion hast du mal als Kind abgezogen?",
    "x": false
   },
   {
    "id": "76720",
    "isValid": "",
-   "prompt": "What hobby do you have that you're a little embarrassed to tell anyone about?",
+   "prompt": "Welches Hobby ist dir so peinlich, dass du niemandem etwas davon erzählst?",
    "x": false
   },
   {
    "id": "76721",
    "isValid": "",
-   "prompt": "In the dystopian future, what is everyone going to come to your shack for?",
+   "prompt": "Wofür werden in der dystopischen Zukunft alle zu dir nach Hause kommen?",
    "x": false
   },
   {
    "id": "76723",
    "isValid": "",
-   "prompt": "What's the best way to ruin a potluck?",
+   "prompt": "Wie kann man am schnellsten eine Geburtstagsparty ruinieren?",
    "x": false
   },
   {
    "id": "76724",
    "isValid": "",
-   "prompt": "What's something you've been putting off for way, way, way too long?",
+   "prompt": "Was hast du viel, viel, viel zu lange aufgeschoben?",
    "x": false
   },
   {
    "id": "76740",
    "isValid": "",
-   "prompt": "What would be a reasonable first sentence for a toddler to say?",
+   "prompt": "Was wäre ein vernünftiger erster Satz für ein Baby?",
    "x": false
   },
   {
    "id": "76741",
    "isValid": "",
-   "prompt": "What's a relatively normal thing to say while getting a massage?",
+   "prompt": "Was kann man problemlos sagen, während man massiert wird?",
    "x": true
   },
   {
    "id": "76743",
    "isValid": "",
-   "prompt": "Describe what you would typically do at a school dance.",
+   "prompt": "Beschreibe, was du normalerweise auf einem Schulball machen würdest.",
    "x": false
   },
   {
    "id": "76745",
    "isValid": "",
-   "prompt": "What would happen at your ideal 90th birthday party?",
+   "prompt": "Was würde auf deinem perfekten 90. Geburtstag passieren?",
    "x": false
   },
   {
    "id": "76746",
    "isValid": "",
-   "prompt": "What would you ask your great great grandmother, if you could meet her?",
+   "prompt": "Was würdest du deine Ur-Ur-Oma fragen, wenn du sie treffen könntest?",
    "x": false
   },
   {
    "id": "76747",
    "isValid": "",
-   "prompt": "What's a very clichéd thing to say in a wedding toast?",
+   "prompt": "Was wäre eine sehr klischeehafte Aussage auf einer Hochzeitsfeier?",
    "x": false
   },
   {
    "id": "76748",
    "isValid": "",
-   "prompt": "Describe what happens in a basketball game to someone who's never seen one.",
+   "prompt": "Beschreibe, was in einem Basketballspiel passiert, für jemandem, der noch nie eins gesehen hat.",
    "x": false
   },
   {
    "id": "76808",
    "isValid": "",
-   "prompt": "Describe how you would go about climbing a palm tree.",
+   "prompt": "Beschreibe, wie du auf eine Palme klettern würdest.",
    "x": false
   },
   {
    "id": "76809",
    "isValid": "",
-   "prompt": "What are some signs that a plant needs water?",
+   "prompt": "Was sind Anzeichen dafür, dass eine Pflanze Wasser braucht?",
    "x": false
   },
   {
    "id": "76810",
    "isValid": "",
-   "prompt": "If you were moving out of your house/apartment, what's something you'd do right before leaving?",
+   "prompt": "Wenn du aus deiner Wohnung aus- oder umziehst. Was würdest du kurz vor dem Gehen machen?",
    "x": false
   },
   {
    "id": "76811",
    "isValid": "",
-   "prompt": "If you're feeling crabby, what are some things you might do?",
+   "prompt": "Was hilft am besten gegen Schluckauf?",
    "x": false
   },
   {
    "id": "76812",
    "isValid": "",
-   "prompt": "What would you do if you had twice as much energy as usual?",
+   "prompt": "Was würdest du machen, wenn du doppelt so viel Energie hättest wie normalerweise?",
    "x": false
   },
   {
    "id": "76813",
    "isValid": "",
-   "prompt": "What's a special way to greet someone at the airport?",
+   "prompt": "Wie kann man jemanden auf besondere Art am Flughafen grüßen?",
    "x": false
   },
   {
    "id": "76814",
    "isValid": "",
-   "prompt": "Describe an easy prank you've heard of. (Or tested out yourself!)",
+   "prompt": "Beschreibe einen einfachen Prank, den du kennst. (Oder schonmal probiert hast!)",
    "x": false
   },
   {
    "id": "76815",
    "isValid": "",
-   "prompt": "Describe a classic magic trick.",
+   "prompt": "Beschreibe einen klassischen Zaubertrick.",
    "x": false
   },
   {
    "id": "76816",
    "isValid": "",
-   "prompt": "What's the most important duty of the Maid of Honor?",
+   "prompt": "Was ist die wichtigste Pflicht der Trauzeugin?",
    "x": false
   },
   {
    "id": "76817",
    "isValid": "",
-   "prompt": "Describe what you would do to campaign for Prom Queen.",
+   "prompt": "Beschreibe, was man machen muss, um Supermodel zu werden.",
    "x": false
   },
   {
    "id": "76818",
    "isValid": "",
-   "prompt": "What's a tip (or two) for how to get over jet lag?",
+   "prompt": "Was kann man am besten gegen Jetlag machen?",
    "x": false
   },
   {
    "id": "76819",
    "isValid": "",
-   "prompt": "If you had to guess, what are two rules for rugby? (Or two rules you wish existed.)",
+   "prompt": "Was sind zwei Regeln beim Tennis? (Oder welche Regeln wären cool?)",
    "x": false
   },
   {
    "id": "76820",
    "isValid": "",
-   "prompt": "What are the necessary steps for making scrambled eggs?",
+   "prompt": "Welche Schritte sind notwendig, um Rührei zu machen?",
    "x": false
   },
   {
    "id": "76833",
    "isValid": "",
-   "prompt": "What do you think about self-driving cars?",
+   "prompt": "Was hältst du von selbstfahrenden Autos?",
    "x": false
   },
   {
    "id": "76834",
    "isValid": "",
-   "prompt": "Please explain gravity. (Wrong answers encouraged.)",
+   "prompt": "Bitte beschreibe Gravitation. (Falsche Antworten werden bevorzugt.)",
    "x": false
   },
   {
    "id": "76835",
    "isValid": "",
-   "prompt": "What is a common problem in old houses?",
+   "prompt": "Was sind häufig auftretende Probleme in alten Häusern?",
    "x": false
   },
   {
    "id": "76836",
    "isValid": "",
-   "prompt": "What do you think surgeons do all day?",
+   "prompt": "Was glaubst du machen Chirurgen den ganzen Tag?",
    "x": false
   },
   {
    "id": "76837",
    "isValid": "",
-   "prompt": "What would be a fun summer camp prank?",
+   "prompt": "Was wäre ein lustiger Sommercamp-Prank?",
    "x": false
   },
   {
    "id": "76838",
    "isValid": "",
-   "prompt": "What do you think farmers do for fun?",
+   "prompt": "Was glaubst du, machen Bauern zum Spaß?",
    "x": false
   },
   {
    "id": "76839",
    "isValid": "",
-   "prompt": "What might a dog do when no one is looking?",
+   "prompt": "Was machen Hunde, wenn gerade keiner hinschaut?",
    "x": false
   },
   {
    "id": "76840",
    "isValid": "",
-   "prompt": "What is something Shakespeare might say about ice cream?",
+   "prompt": "Was könnte Shakespeare über Eiscreme sagen?",
    "x": false
   },
   {
    "id": "76841",
    "isValid": "",
-   "prompt": "What's a scary thing for a meteorologist to say during a weather report?",
+   "prompt": "Was wäre beängstigend, wenn es ein Meteorologe während dem Wetterbericht sagt?",
    "x": false
   },
   {
    "id": "76842",
    "isValid": "",
-   "prompt": "What would you do if you found an untouched birthday cake at your door?",
+   "prompt": "Was würdest du machen, wenn du eine noch unberührte Geburtstagstorte vor deiner Tür findest?",
    "x": false
   },
   {
    "id": "76843",
    "isValid": "",
-   "prompt": "What is something you do when you are nervous?",
+   "prompt": "Was machst du normalerweise, wenn du nervös bist?",
    "x": false
   },
   {
    "id": "76844",
    "isValid": "",
-   "prompt": "Describe how you think chickens flirt.",
+   "prompt": "Beschreibe wie du denkst, wie Hühner flirten.",
    "x": false
   },
   {
    "id": "76847",
    "isValid": "",
-   "prompt": "What's a line from a nursery rhyme you think you remember?",
+   "prompt": "Was ist eine Zeile aus einem Kinderlied, von dem du glaubst, dich dran zu erinnern?",
    "x": false
   },
   {
    "id": "76885",
    "isValid": "",
-   "prompt": "Tell me about one of your best friends.",
+   "prompt": "Erzähl mir was über deinen besten Freund.",
    "x": false
   },
   {
    "id": "76886",
    "isValid": "",
-   "prompt": "Tell me about one of your neighbors.",
+   "prompt": "Erzähl mir ein paar interessante Dinge über deinen Nachbarn.",
    "x": false
   },
   {
    "id": "76887",
    "isValid": "",
-   "prompt": "Tell me about something you do in the morning.",
+   "prompt": "Erzähl mir, was du morgens normalerweise so machst.",
    "x": false
   },
   {
    "id": "76888",
    "isValid": "",
-   "prompt": "What is something a pirate might say while ordering food?",
+   "prompt": "Was könnte ein Pirat sagen, wenn er Essen am Telefon bestellt?",
    "x": false
   },
   {
    "id": "76889",
    "isValid": "",
-   "prompt": "Tell me about your perfect mall day.",
+   "prompt": "Erzähl mir von einem perfekten Tag im Einkaufszentrum.",
    "x": false
   },
   {
