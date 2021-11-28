@@ -33,7 +33,7 @@
         "HIDE": "Verstecken",
         "UNHIDE": "Zeigen",
         "HIDDEN_ROOM_CODE": "?????",
-        "JOIN": "Mitspielen!",
+        "JOIN": "Beitreten",
         "PLAY": "Spielen",
         "SETTINGS": "Optionen",
         "BACK_TO_PACK": "Zurück",
@@ -51,8 +51,8 @@
         "EVERYBODYS_IN": "Warte auf %s um das Spiel zu starten!",
         "WAITING_FOR_MORE": "%s Spieler werden noch benötigt!",
         "PRESS": "Drücke",
-        "TO_START": "zum starten",
-        "TO_CANCEL": "zum abbrechen",
+        "TO_START": "(starten)",
+        "TO_CANCEL": "(abbrechen)",
         "TO_START_GAME": "um zu starten",
         "TO_CANCEL_GAME": "um abzubrechen",
         "JOIN_AUDIENCE": "Komm ins Publikum!",
@@ -93,7 +93,7 @@
         
         "CREATING_DONE_TEXT": "Danke! Wir haben deine Bewerbung erhalten.",
         "CREATING_PLACEHOLDER_TEXT": "HIER ANTWORTEN",
-        "CREATING_INSTRUCTION_TEXT": "Tippe oder ziehe Wörter in das Feld unten. Du schaffst das!",
+        "CREATING_INSTRUCTION_TEXT": "Tippe oder ziehe Wörter in das Feld. Du schaffst das!",
         "CREATING_ERROR_TEXT": "Ungültige Eingabe!",
         
         "VOTING_INSTRUCTION_TEXT": "Wähle für deine Lieblings-Antwort",

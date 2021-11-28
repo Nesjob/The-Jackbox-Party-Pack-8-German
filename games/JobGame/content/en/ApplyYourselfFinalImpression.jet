@@ -74,7 +74,7 @@
    "firstPrompt": "ICH SCHWÄRME {{BLANK}}",
    "id": "85497",
    "isValid": "",
-   "secondPrompt": "ICH FÜRCHTE MICH {{BLANK}}",
+   "secondPrompt": "ICH FÜRCHTE MICH VOR {{BLANK}}",
    "x": false
   },
   {
