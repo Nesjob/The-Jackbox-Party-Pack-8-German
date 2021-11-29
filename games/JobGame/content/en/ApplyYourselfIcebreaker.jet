@@ -459,7 +459,7 @@
   {
    "id": "76365",
    "isValid": "",
-   "prompt": "If you were a motivational poster, what would your caption read?",
+   "prompt": "Wenn du ein Motivationsposter wärst, was würde auf dir stehen?",
    "x": false
   },
   {
@@ -1791,7 +1791,7 @@
   {
    "id": "77944",
    "isValid": "",
-   "prompt": "What's a supposedly fun thing you've done that you'd never do again? (Or something you'd never try in the first place.)",
+   "prompt": "Was klingt lustig, möchtest du aber nicht nochmal machen? (Oder hast es noch nie probiert.)",
    "x": false
   },
   {
@@ -3003,751 +3003,751 @@
   {
    "id": "81214",
    "isValid": "",
-   "prompt": "What's a good excuse for forgetting your great aunt's birthday?",
+   "prompt": "Was wäre eine gute Ausrede, wenn man den Geburtstag der Tante vergessen hat?",
    "x": false
   },
   {
    "id": "81215",
    "isValid": "",
-   "prompt": "What's a good excuse for robbing a Build-A-Bear Workshop?",
+   "prompt": "Was wäre ein nachvollviehbarer Gründ, eine Bäckerei auszurauben?",
    "x": false
   },
   {
    "id": "81216",
    "isValid": "",
-   "prompt": "Make a list of words that you struggle to spell correctly.",
+   "prompt": "Liste einige Wörter auf, bei denen du dir nicht ganz sicher bist, wie man sie schreibt.",
    "x": false
   },
   {
    "id": "81217",
    "isValid": "",
-   "prompt": "Name an object that you wish ran on batteries and explain why.",
+   "prompt": "Welcher Gegenstand sollte batteriebetrieben sein und wieso?",
    "x": false
   },
   {
    "id": "81219",
    "isValid": "",
-   "prompt": "You just found out you've been robbed! What's the first thing you do?",
+   "prompt": "Du bemerkst, dass bei dir eingebrochen wurde! Was machst du als erstes?",
    "x": false
   },
   {
    "id": "81220",
    "isValid": "",
-   "prompt": "What's probably the worst thing about being a rockstar?",
+   "prompt": "Was ist vermutlich das Schlimmste daran, ein Rockstar zu sein?",
    "x": false
   },
   {
    "id": "81221",
    "isValid": "",
-   "prompt": "What's probably the best thing about having an extra finger on each hand?",
+   "prompt": "Was wäre vermutlich das Beste daran, einen zusätzlichen Finger an jeder Hand zu haben?",
    "x": false
   },
   {
    "id": "81224",
    "isValid": "",
-   "prompt": "What's something you would say to someone to get them to stop smoking cigarettes?",
+   "prompt": "Was würdest du einem Raucher sagen, damit er sofort aufhört zu rauchen?",
    "x": true
   },
   {
    "id": "81225",
    "isValid": "",
-   "prompt": "How would you explain the rules of checkers to a child?",
+   "prompt": "Wie würdest du die Schach-Regeln einem Kleinkind erklären?",
    "x": false
   },
   {
    "id": "81226",
    "isValid": "",
-   "prompt": "Overexplain the game of tag.",
+   "prompt": "Erkläre das Spiel Fangen mit all seinen Details und Möglichen Strategien.",
    "x": false
   },
   {
    "id": "81227",
    "isValid": "",
-   "prompt": "What’s the easiest way to catch Bigfoot that everyone is just ignoring?",
+   "prompt": "Wo würdest du überall nach James Bond suchen?",
    "x": false
   },
   {
    "id": "81228",
    "isValid": "",
-   "prompt": "What's a great excuse to give for missing your anniversary?",
+   "prompt": "Was ist eine tolle Ausrede, die man benutzen kann, wenn man einen Geburtstag vergisst?",
    "x": false
   },
   {
    "id": "81229",
    "isValid": "",
-   "prompt": "What's a great excuse to give to someone for missing their birthday party?",
+   "prompt": "Was ist eine tolle Ausrede, die man benutzen kann, wenn man nicht zur Geburtstagsparty eines Freundes möchte?",
    "x": false
   },
   {
    "id": "81230",
    "isValid": "",
-   "prompt": "What's something you'd say to your spouse if you missed the birth of your child?",
+   "prompt": "Was würdest du deiner Geliebten sagen, wenn du die Geburt deines Kindes verpasst hättest?",
    "x": false
   },
   {
    "id": "81231",
    "isValid": "",
-   "prompt": "How would you explain New Year's Eve to an alien?",
+   "prompt": "Wie würdest du einem Alien Silvester erklären?",
    "x": false
   },
   {
    "id": "81233",
    "isValid": "",
-   "prompt": "What's something you'd bury in a time capsule for future generations to enjoy, and why?",
+   "prompt": "Was würdest du in einer Zeitkapsel für die Nachwelt vergraben und wieso?",
    "x": false
   },
   {
    "id": "81235",
    "isValid": "",
-   "prompt": "If you could hang out with your favorite fictional character for one day, what would you do together?",
+   "prompt": "Wenn du mit einer fiktionalen Figur für einen Tag abhängen könntest, was würdet ihr unternehmen?",
    "x": false
   },
   {
    "id": "81236",
    "isValid": "",
-   "prompt": "What's a better ending for a famous movie or book?",
+   "prompt": "Was wäre ein besseres Ende für ein berühmtes Buch oder einen berühmten Film?",
    "x": false
   },
   {
    "id": "81237",
    "isValid": "",
-   "prompt": "Summarize the events of your last vacation.",
+   "prompt": "Fasse zusammen, was du alles in deinem letzten Urlaub erlebt hast.",
    "x": false
   },
   {
    "id": "81239",
    "isValid": "",
-   "prompt": "Describe what you think fast food restaurants might be like in the future?",
+   "prompt": "Beschreibe, wie du denkst, wie Fast-Food-Restaurants in der Zukunft aussehen werden.",
    "x": false
   },
   {
    "id": "81240",
    "isValid": "",
-   "prompt": "What's a passive-aggressive compliment you might give to an exotic bird?",
+   "prompt": "Welches passiv-aggressive Kompliment würdest du einem exotischen Vogel geben?",
    "x": false
   },
   {
    "id": "81241",
    "isValid": "",
-   "prompt": "What's something you might yell to stop a child from spraying you with a hose?",
+   "prompt": "Was würdest du zu einem Kind sagen, wenn es aufhören soll, mit dem Gartenschlauch alles nass zu machen?",
    "x": false
   },
   {
    "id": "81242",
    "isValid": "",
-   "prompt": "How would you explain the experience of a fine dining restaurant to an alien?",
+   "prompt": "Wie würdest du Freizeitparks einem Alien erklären?",
    "x": false
   },
   {
    "id": "81243",
    "isValid": "",
-   "prompt": "What's on the dedication page of your best-selling novel?",
+   "prompt": "Was steht in der Widmung deines Bestseller-Romans?",
    "x": false
   },
   {
    "id": "81244",
    "isValid": "",
-   "prompt": "What’s something calming you might say to prevent a child from smashing an expensive vase?",
+   "prompt": "Was würdest du einem Kind sagen, um es zu beruhigen, damit es nicht die teure Vase kaputt macht?",
    "x": false
   },
   {
    "id": "81245",
    "isValid": "",
-   "prompt": "What lovely epitaph would you want written on your gravestone?",
+   "prompt": "Welcher liebevolle Satz soll auf deinem Grabstein stehen?",
    "x": true
   },
   {
    "id": "81249",
    "isValid": "",
-   "prompt": "If you built a monument, who would it be for and what would they be doing?",
+   "prompt": "Wenn du ein Denkmal errichten würdest, für wen wäre es und was würde es darstellen?",
    "x": false
   },
   {
    "id": "81250",
    "isValid": "",
-   "prompt": "Take a hard stance on pirates!",
+   "prompt": "Mache eine Ansage gegen alle Piraten!",
    "x": false
   },
   {
    "id": "81251",
    "isValid": "",
-   "prompt": "How would you propose to a spider?",
+   "prompt": "Wie würdest du einer Spinne einen Heiratsantrag machen?",
    "x": false
   },
   {
    "id": "81252",
    "isValid": "",
-   "prompt": "How would you propose to George Clooney?",
+   "prompt": "Wie würdest du Dieter Bohlen einen Heiratsantrag machen?",
    "x": false
   },
   {
    "id": "81253",
    "isValid": "",
-   "prompt": "Overexplain the concept of eating.",
+   "prompt": "Erkläre den Vorgang des Essens mit all seinen Details.",
    "x": false
   },
   {
    "id": "81254",
    "isValid": "",
-   "prompt": "Describe the greatest outfit you've ever seen in real life.",
+   "prompt": "Beschreibe das beste Outfit, das du je in deinem Leben gesehen hast.",
    "x": false
   },
   {
    "id": "81255",
    "isValid": "",
-   "prompt": "What's the best compliment you've received that's NOT about your appearance?",
+   "prompt": "Was war das beste Kompliment, das du je gehört hast, bei dem es aber nicht um dein Äußerliches ging?",
    "x": false
   },
   {
    "id": "81256",
    "isValid": "",
-   "prompt": "How would you catch a runaway chicken?",
+   "prompt": "Wie würdest du ein aufgebrachtes Hühnchen einfangen?",
    "x": false
   },
   {
    "id": "81257",
    "isValid": "",
-   "prompt": "What's something you could say to make a telemarketer hang up immediately?",
+   "prompt": "Was kann man einem Marketing-Anrufer am Telefon sagen, damit er sofort auflegt?",
    "x": false
   },
   {
    "id": "81258",
    "isValid": "",
-   "prompt": "How would you convince someone that you were really abducted by aliens?",
+   "prompt": "Was würdest du jemandem sagen, der die Mondlandung für gefaked hält?",
    "x": false
   },
   {
    "id": "81259",
    "isValid": "",
-   "prompt": "What's something insane that you used to believe as a kid?",
+   "prompt": "Welche verrückte Theorie hast du als Kind gelaubt?",
    "x": false
   },
   {
    "id": "81261",
    "isValid": "",
-   "prompt": "Take a hard stance on birds!",
+   "prompt": "Mache eine knallharte Ansage gegen Vögel!",
    "x": false
   },
   {
    "id": "81262",
    "isValid": "",
-   "prompt": "Describe dragons to me.",
+   "prompt": "Beschreibe mir bitte Drachen.",
    "x": false
   },
   {
    "id": "81263",
    "isValid": "",
-   "prompt": "Explain [i]Pokémon[/i] to me. If you have no idea what that is, make something up.",
+   "prompt": "Beschreibe mir [i]Pokémon[/i]. Wenn du nicht weißt, was das ist, denk dir was aus.",
    "x": false
   },
   {
    "id": "81264",
    "isValid": "",
-   "prompt": "How would you compliment a ghost?",
+   "prompt": "Welches Kompliment würdest du einem Geist machen?",
    "x": false
   },
   {
    "id": "81265",
    "isValid": "",
-   "prompt": "Make a case for being entirely boneless.",
+   "prompt": "Wie stellst du dir den Alltag als Paketbote vor?",
    "x": false
   },
   {
    "id": "81266",
    "isValid": "",
-   "prompt": "What used to keep you up at night as a kid?",
+   "prompt": "Weswegen konntest du Nachts als Kind nicht schlafen?",
    "x": false
   },
   {
    "id": "81267",
    "isValid": "",
-   "prompt": "Describe your favorite emoji with as much detail as possible.",
+   "prompt": "Beschreibe dein Lieblings-Emoji mit so vielen Details wie möglich.",
    "x": false
   },
   {
    "id": "81268",
    "isValid": "",
-   "prompt": "Tell me a weird fact you know!",
+   "prompt": "Erzähle mir einen lustigen Fakt!",
    "x": false
   },
   {
    "id": "81269",
    "isValid": "",
-   "prompt": "If you were a Greek god, how could mortals win your divine favor?",
+   "prompt": "Wenn du ein Griechischer Gott wärst, was müssten die Menschen für deine Aufmerksamkeit tun?",
    "x": false
   },
   {
    "id": "81270",
    "isValid": "",
-   "prompt": "What would you do if you suddenly sprouted gills?",
+   "prompt": "Was würdest du tun, wenn du plötzlich keine Zähne mehr hättest?",
    "x": false
   },
   {
    "id": "81271",
    "isValid": "",
-   "prompt": "What would you do if you were mayor for the day?",
+   "prompt": "Was würdest du machen, wenn du für einen Tag Bürgermeister wärst?",
    "x": false
   },
   {
    "id": "81273",
    "isValid": "",
-   "prompt": "Describe the prettiest bird you ever did see.",
+   "prompt": "Beschreibe den gutaussehendsten Vogel, den du je gesehen hast.",
    "x": false
   },
   {
    "id": "81280",
    "isValid": "",
-   "prompt": "How would a teenager describe you?",
+   "prompt": "Wie würde dich ein Jugendlicher beschreiben?",
    "x": false
   },
   {
    "id": "81281",
    "isValid": "",
-   "prompt": "What's a text you would send to lighten the mood?",
+   "prompt": "Welche Textnachricht würdest du deinem Freund schreiben, um die Stimmung aufzulockern?",
    "x": false
   },
   {
    "id": "81282",
    "isValid": "",
-   "prompt": "Tell me something a little bit scary.",
+   "prompt": "Erzähl mir etwas gruseliges.",
    "x": false
   },
   {
    "id": "81283",
    "isValid": "",
-   "prompt": "Tell me about a weird pet you've seen.",
+   "prompt": "Erzähl mir etwas über ein komisches Tier, welches du mal gesehen hast.",
    "x": false
   },
   {
    "id": "81284",
    "isValid": "",
-   "prompt": "How would your mother describe you?",
+   "prompt": "Wie würde dich deine Mutter beschreiben?",
    "x": false
   },
   {
    "id": "81285",
    "isValid": "",
-   "prompt": "Tell me about a time you got a minor injury.",
+   "prompt": "Erzähle mir, wie du dir mal eine kleine Verletzung zugezogen hast.",
    "x": false
   },
   {
    "id": "81286",
    "isValid": "",
-   "prompt": "Tell me an opinion about breakfast... any opinion!",
+   "prompt": "Erzähl mir eine Meinung zu Frühstück... Irgendeine Meinung!",
    "x": false
   },
   {
    "id": "81287",
    "isValid": "",
-   "prompt": "How would you introduce yourself to a partner's parents?",
+   "prompt": "Wie würdest du dich selber den Eltern deines Partners vorstellen?",
    "x": true
   },
   {
    "id": "81288",
    "isValid": "",
-   "prompt": "Describe what one of your fellow players is wearing.",
+   "prompt": "Beschreibe die Kleidung von einem deiner Mitspieler.",
    "x": false
   },
   {
    "id": "81292",
    "isValid": "",
-   "prompt": "Describe a pretty normal weekend night for you.",
+   "prompt": "Beschreibe einen normalen Samstagabend bei dir.",
    "x": false
   },
   {
    "id": "81293",
    "isValid": "",
-   "prompt": "Describe what you think happens to garbage after it leaves the house.",
+   "prompt": "Beschreibe was du denkst, was mit dem Müll passiert, wenn er abgeholt wird.",
    "x": false
   },
   {
    "id": "81294",
    "isValid": "",
-   "prompt": "Write a sentence you think would interest a fifth grader.",
+   "prompt": "Beschreibe ein Thema, welches einen Fünftklässler interessieren könnte.",
    "x": false
   },
   {
    "id": "81295",
    "isValid": "",
-   "prompt": "Tell me how you think food gets turned into energy.",
+   "prompt": "Erzähle mir, wie du denkst, wie Nahrung in Energie umgewandelt wird.",
    "x": false
   },
   {
    "id": "81296",
    "isValid": "",
-   "prompt": "What's an observation you've made about a movie? (Any movie!)",
+   "prompt": "Welche Beobachtung hast du über einen Film gemacht? (Egal welcher Film!)",
    "x": false
   },
   {
    "id": "81297",
    "isValid": "",
-   "prompt": "Tell me something you would realistically say to your best friend.",
+   "prompt": "Erzähl mir etwas realistisches, was du zu deinem besten Freund sagen würdest.",
    "x": false
   },
   {
    "id": "81360",
    "isValid": "",
-   "prompt": "What's the nicest compliment you've ever been given?",
+   "prompt": "Was war das netteste Kompliment, welches du je einem anderen gegeben hast?",
    "x": false
   },
   {
    "id": "81361",
    "isValid": "",
-   "prompt": "If elephants could talk, how would they describe you?",
+   "prompt": "Wenn Elefanten sprechen könnten, wie würden sich dich beschreiben?",
    "x": false
   },
   {
    "id": "81362",
    "isValid": "",
-   "prompt": "If someone asked you to build a boat, what would you do first?",
+   "prompt": "Wenn du für jemand anderen ein Boot bauen solltest, wie würdest du anfangen?",
    "x": false
   },
   {
    "id": "81363",
    "isValid": "",
-   "prompt": "Describe how you think people train to become butlers.",
+   "prompt": "Wie würdest du einem Kleinkind beschreiben, wie die Autoschaltung genau funktioniert?",
    "x": false
   },
   {
    "id": "81364",
    "isValid": "",
-   "prompt": "What are some things you think French chefs like to do on vacation?",
+   "prompt": "Was glaubst du, machen Französische Köche gerne in ihrem Urlaub?",
    "x": false
   },
   {
    "id": "81721",
    "isValid": "",
-   "prompt": "How does bread become toast? (Or how do you THINK it does?)",
+   "prompt": "Wie wird aus Brot Toast gemacht? (Oder wie DENKST du, wird es gemacht?)",
    "x": false
   },
   {
    "id": "81722",
    "isValid": "",
-   "prompt": "What's something you always wanted to tell your worst roommate (or officemate)?",
+   "prompt": "Was würdest du mal gerne deinem Mitbewohner ins Gesicht brüllen (oder Kollegen im Büro)?",
    "x": false
   },
   {
    "id": "81723",
    "isValid": "",
-   "prompt": "Why do you think some cars can go very fast, while other cars can only go slow?",
+   "prompt": "Warum denkst du können manche Autos ganz schnell fahren, andere aber nur langsam?",
    "x": false
   },
   {
    "id": "81724",
    "isValid": "",
-   "prompt": "What would you do if someone gave you a gift you hated?",
+   "prompt": "Was würdest du sagen, wenn dir jemand etwas schenkt, es dir aber überhaupt nicht gefällt?",
    "x": false
   },
   {
    "id": "81725",
    "isValid": "",
-   "prompt": "Describe what you think public pools will be like in the future.",
+   "prompt": "Beschreibe, wie öffentliche Schwimmbäder in der Zukunft aussehen werden.",
    "x": false
   },
   {
    "id": "81728",
    "isValid": "",
-   "prompt": "Why do you think people like to clap at the end of a flight?",
+   "prompt": "Warum glaubst du, klatschen Leute im Flugzeug nach der Landung gerne?",
    "x": false
   },
   {
    "id": "81729",
    "isValid": "",
-   "prompt": "Describe the best strategy for winning an Easter egg hunt.",
+   "prompt": "Was ist die beste Strategie, um einen Osterei-Such-Wettbewerb zu gewinnen?",
    "x": false
   },
   {
    "id": "81730",
    "isValid": "",
-   "prompt": "How do you get ready for a big night out?",
+   "prompt": "Wie bereitet man sich vor, wenn man Nachts großartig ausgehen möchte?",
    "x": false
   },
   {
    "id": "81731",
    "isValid": "",
-   "prompt": "What's something weird you've seen for sale at a gas station or convenience store?",
+   "prompt": "Was war etwas merkwürdiges, was du zum Verkauf in einer Tankstelle gesehen hast?",
    "x": false
   },
   {
    "id": "81732",
    "isValid": "",
-   "prompt": "Describe everything you need for the perfect nap.",
+   "prompt": "Beschreibe alle Voraussetzungen für ein perfektes Nickerchen.",
    "x": false
   },
   {
    "id": "81857",
    "isValid": "",
-   "prompt": "How would you untangle a long snake that had tied itself in knots?",
+   "prompt": "Wie würdest du eine lange Schlange, die sich verknotet hat, entknoten?",
    "x": false
   },
   {
    "id": "81858",
    "isValid": "",
-   "prompt": "Why do you think many adults are intimidated by cool teens?",
+   "prompt": "Warum denkst du, fühlen sich alte Leute von Jugendlichen oft belästigt?",
    "x": false
   },
   {
    "id": "81868",
    "isValid": "",
-   "prompt": "Explain how you think applesauce is made.",
+   "prompt": "Beschreibe wie du denkst, wie die Barbecue-Soße bei McDonalds hergestellt wird.",
    "x": false
   },
   {
    "id": "81877",
    "isValid": "",
-   "prompt": "What do you like to do to keep yourself occupied on a long car ride?",
+   "prompt": "Wie beschäftigtst du dich gerne auf einer langen Autofahrt?",
    "x": false
   },
   {
    "id": "81878",
    "isValid": "",
-   "prompt": "What strategy would you use to successfully navigate a hedge maze?",
+   "prompt": "Welche nützliche Strategie könnte man nutzen, um aus einem Mais-Labyrinth zu entkommen?",
    "x": false
   },
   {
    "id": "81879",
    "isValid": "",
-   "prompt": "If you had your own private yacht, what would you want your staff's uniforms to look like?",
+   "prompt": "Wenn du deine eigene Yacht hättest, wie würden die Uniformen der Mitarbeiter an Bord aussehen?",
    "x": false
   },
   {
    "id": "81880",
    "isValid": "",
-   "prompt": "Describe a time in your life when you felt betrayed.",
+   "prompt": "Beschreibe einen Moment in deinem Leben, in dem du dich betrogen gefühlt hast.",
    "x": false
   },
   {
    "id": "81881",
    "isValid": "",
-   "prompt": "What do you think is the secret to the perfect flower arrangement?",
+   "prompt": "Was glaubst du ist das Geheimnis, für die perfekte Inneneinrichtung?",
    "x": false
   },
   {
    "id": "81882",
    "isValid": "",
-   "prompt": "How, exactly, does one pan for gold? (Feel free to make it up.)",
+   "prompt": "Wie genau reinigt man Gold? (Denk dir gerne was aus.)",
    "x": false
   },
   {
    "id": "81883",
    "isValid": "",
-   "prompt": "How do you think soup was invented?",
+   "prompt": "Wie glaubst du wurde Suppe erfunden?",
    "x": false
   },
   {
    "id": "81962",
    "isValid": "",
-   "prompt": "What's something you might reasonably say to a waiter?",
+   "prompt": "Was hast du zuletzt zu einem Kellner gesagt?",
    "x": false
   },
   {
    "id": "81963",
    "isValid": "",
-   "prompt": "What's something that happened the last time you went outside?",
+   "prompt": "Was ist das letzte Mal passiert, als du draußen warst?",
    "x": false
   },
   {
    "id": "81964",
    "isValid": "",
-   "prompt": "Describe what happens to food when it goes into your body. (As best you can!)",
+   "prompt": "Beschreibe was passiert, wenn du Nahrung runterschluckst. (So gut du kannst!)",
    "x": false
   },
   {
    "id": "81965",
    "isValid": "",
-   "prompt": "Describe a haircut experience you have had, good or bad.",
+   "prompt": "Beschreibe einen Haarschnitt, den du mal hattest (gut oder schlecht).",
    "x": false
   },
   {
    "id": "81966",
    "isValid": "",
-   "prompt": "What do you typically do during a long meeting?",
+   "prompt": "Was machst du normalerweise in einer langen Besprechung?",
    "x": false
   },
   {
    "id": "81967",
    "isValid": "",
-   "prompt": "Explain what you think happens on a farm.",
+   "prompt": "Erkläre was du denkst, was auf einem normalen Bauernhof passiert.",
    "x": false
   },
   {
    "id": "81970",
    "isValid": "",
-   "prompt": "Tell me about the last time you were at a theme park. (Or make something up.)",
+   "prompt": "Erzähle mir über das letzte Mal, als du in einem Freizeitpark warst. (Oder denk dir was aus.)",
    "x": false
   },
   {
    "id": "81972",
    "isValid": "",
-   "prompt": "Tell me about how you think a lightbulb works.",
+   "prompt": "Erkläre mir bitte, wie Glühbirnen funktionieren.",
    "x": false
   },
   {
    "id": "81973",
    "isValid": "",
-   "prompt": "How would you introduce yourself to a cool person?",
+   "prompt": "Wie würdest du dich selber vor einer coolen Person vorstellen?",
    "x": false
   },
   {
    "id": "81974",
    "isValid": "",
-   "prompt": "What's something you might text to your best friend?",
+   "prompt": "Was könntest du problemlos deinem besten Freund schreiben?",
    "x": false
   },
   {
    "id": "81975",
    "isValid": "",
-   "prompt": "How would you cheer yourself up after a hard day?",
+   "prompt": "Wie motivierst du dich selbst nach einem harten Tag?",
    "x": false
   },
   {
    "id": "81977",
    "isValid": "",
-   "prompt": "What's something you could say to catch the interest of a scientist?",
+   "prompt": "Was könntest du sagen, um die Aufmerksamkeit eines Wissenschaftlers zu bekommen?",
    "x": false
   },
   {
    "id": "82411",
    "isValid": "",
-   "prompt": "What do you think dogs and cats like to do at night when their owners are asleep?",
+   "prompt": "Was glaubst du machen Hunde und Katzen gerne, wenn ihre Besitzer schlafen?",
    "x": false
   },
   {
    "id": "82412",
    "isValid": "",
-   "prompt": "What is a school assembly you remember from your childhood?",
+   "prompt": "An welches Referat aus deiner Schulzeit kannst du dich noch erinnern und was hast du erzählt?",
    "x": false
   },
   {
    "id": "82413",
    "isValid": "",
-   "prompt": "What's a good strategy for getting the best candy while trick or treating?",
+   "prompt": "Was ist ein guter Trick, um an Halloween möglichst viele Süßigkeiten zu bekommen?",
    "x": false
   },
   {
    "id": "82414",
    "isValid": "",
-   "prompt": "How is deodorant made? (Or how do you THINK it's made)?",
+   "prompt": "Wie wird Deo hergestellt (oder wie DENKST du wird es hergestellt)?",
    "x": false
   },
   {
    "id": "82415",
    "isValid": "",
-   "prompt": "What is your favorite time of day and why?",
+   "prompt": "Was ist deine Lieblingszeit am Tag und wieso?",
    "x": false
   },
   {
    "id": "82416",
    "isValid": "",
-   "prompt": "What are two things you could do with an artichoke?",
+   "prompt": "Welche zwei Dinge könntest du mit einer Ananas machen?",
    "x": false
   },
   {
    "id": "82417",
    "isValid": "",
-   "prompt": "Describe how you think a medieval knight got ready for a joust.",
+   "prompt": "Beschreibe, wie man sich idealerweise auf ein mittelalterliches Turnier vorbereiten kann.",
    "x": false
   },
   {
    "id": "82418",
    "isValid": "",
-   "prompt": "If you were in charge of the Super Bowl halftime show, what kind of show would you do?",
+   "prompt": "Wenn du für die Halbzeitshow des Superbowls verantwortlich wärst, wie würdest du sie gestalten?",
    "x": false
   },
   {
    "id": "82486",
    "isValid": "",
-   "prompt": "How do you think potpourri is made?",
+   "prompt": "Wie glaubst du werden Schneekugeln hergestellt?",
    "x": false
   },
   {
    "id": "82487",
    "isValid": "",
-   "prompt": "If your houseplants could talk, what would they say about you?",
+   "prompt": "Wenn deine Pflanzen sprechen könnten, wie würden sie dich beschreiben?",
    "x": false
   },
   {
    "id": "82488",
    "isValid": "",
-   "prompt": "What's the secret to building the perfect campfire? (Or what do you THINK it is?)",
+   "prompt": "Was muss man beachten, wenn man das perfekte Lagerfeuer bauen möchte? (Rate gerne)",
    "x": false
   },
   {
    "id": "82490",
    "isValid": "",
-   "prompt": "Why are some shoes squeakier than others?",
+   "prompt": "Warum quietschen manche Schuhe mehr als andere?",
    "x": false
   },
   {
    "id": "82497",
    "isValid": "",
-   "prompt": "What would you do if you saw an actual, real-life vampire?",
+   "prompt": "Was würdest du machen, wenn du wirklich einen Vampir im echten Leben sehen würdest?",
    "x": false
   },
   {
    "id": "82504",
    "isValid": "",
-   "prompt": "How would you explain horses to a dog?",
+   "prompt": "Wie würdest du einem Hund Pferde erklären?",
    "x": false
   },
   {
    "id": "82521",
    "isValid": "",
-   "prompt": "Why is there always a long line at the pharmacy?",
+   "prompt": "Warum ist vor der Apotheke immer so eine lange Schlange?",
    "x": false
   },
   {
    "id": "82524",
    "isValid": "",
-   "prompt": "Tell me your feelings about rollercoasters.",
+   "prompt": "Was denkst du über Achterbahnen mit Loopings?",
    "x": false
   },
   {
    "id": "82527",
    "isValid": "",
-   "prompt": "Briefly describe what the [i]Mona Lisa[/i] looks like.",
+   "prompt": "Beschreibe kurz, wie die [i]Mona Lisa[/i] aussieht.",
    "x": false
   },
   {
    "id": "82528",
    "isValid": "",
-   "prompt": "Tell me about the messiest house you've ever been in.",
+   "prompt": "Wie sah das unordentlichste Haus aus, in dem du je warst?",
    "x": false
   },
   {
    "id": "82530",
    "isValid": "",
-   "prompt": "Would you want an extra foot? Why or why not?",
+   "prompt": "Hättest du gerne einen dritten Fuß? Und warum (nicht)?",
    "x": false
   },
   {
    "id": "82531",
    "isValid": "",
-   "prompt": "If someone gave you a trained monkey, what would you do first?",
+   "prompt": "Wenn dir jemand einen dressierten Affen überlassen würde, was würdest du machen?",
    "x": false
   },
   {
    "id": "82533",
    "isValid": "",
-   "prompt": "How would you react if you lost an important game of chess?",
+   "prompt": "Wie würdest du reagieren, wenn du ein sehr wichtiges Schachspiel verlieren würdest?",
    "x": false
   },
   {
    "id": "82534",
    "isValid": "",
-   "prompt": "What are some differences between bath towels and beach towels?",
+   "prompt": "Was sind die Unterschiede zwischen Strand-Handtüchern und Handtüchern im Badezimmer?",
    "x": false
   },
   {
    "id": "82535",
    "isValid": "",
-   "prompt": "What do train conductors probably like to do when they're not on a train?",
+   "prompt": "Was machen Schaffner vermutlich, wenn sie nicht im Zug sind?",
    "x": false
   },
   {
    "id": "82536",
    "isValid": "",
-   "prompt": "What would you do first if you spilled juice on a cat?",
+   "prompt": "Was würdest du zuerst machen, wenn du ein Glas Saft auf deiner Katze verschütten würdest?",
    "x": false
   }
  ]
