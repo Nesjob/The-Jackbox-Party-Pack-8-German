@@ -3,7 +3,7 @@
   {
    "id": "76200",
    "isValid": "",
-   "question": "What is your greatest strength?",
+   "question": "Was ist deine größte Stärke?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -11,7 +11,7 @@
   {
    "id": "76201",
    "isValid": "",
-   "question": "Can you tell me about a time you failed?",
+   "question": "In welcher Situation hast du zuletzt versagt?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -19,7 +19,7 @@
   {
    "id": "76202",
    "isValid": "",
-   "question": "Where do you see yourself in five years?",
+   "question": "Wo siehst du dich in fünf Jahren?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -27,7 +27,7 @@
   {
    "id": "76203",
    "isValid": "",
-   "question": "How do you like to be managed?",
+   "question": "Wie soll dein Arbeitsumfeld aussehen?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -35,7 +35,7 @@
   {
    "id": "76204",
    "isValid": "",
-   "question": "What is your dream job?",
+   "question": "Was ist dein Traumjob?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -43,7 +43,7 @@
   {
    "id": "76206",
    "isValid": "",
-   "question": "What makes you unique?",
+   "question": "Was macht dich einzigartig?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -51,7 +51,7 @@
   {
    "id": "76207",
    "isValid": "",
-   "question": "What are you most passionate about?",
+   "question": "Was ist deine größte Leidenschaft?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -59,7 +59,7 @@
   {
    "id": "76209",
    "isValid": "",
-   "question": "How do you define success?",
+   "question": "Wie definierst du Erfolg?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -67,7 +67,7 @@
   {
    "id": "76210",
    "isValid": "",
-   "question": "What makes you want to work here?",
+   "question": "Warum möchtest du hier arbeiten?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -75,7 +75,7 @@
   {
    "id": "76211",
    "isValid": "",
-   "question": "What were you doing during the gap in your employment history?",
+   "question": "Was hast du während der Lücke in deinem Lebenslauf gemacht?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -83,7 +83,7 @@
   {
    "id": "76212",
    "isValid": "",
-   "question": "What accomplishment are you most proud of?",
+   "question": "Auf welche Leistung bist du besonders stolz?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -91,7 +91,7 @@
   {
    "id": "76214",
    "isValid": "",
-   "question": "What is your approach to getting along with others?",
+   "question": "Wie gehst du mit anderen Kollegen um?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -99,7 +99,7 @@
   {
    "id": "76215",
    "isValid": "",
-   "question": "How did you hear about this position?",
+   "question": "Wie bist du auf die Stelle aufmerksam geworden?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -107,7 +107,7 @@
   {
    "id": "76216",
    "isValid": "",
-   "question": "What does “leadership” mean to you?",
+   "question": "Was bedeutet “Verantwortung” für dich?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -115,7 +115,7 @@
   {
    "id": "76217",
    "isValid": "",
-   "question": "What’s the toughest decision you’ve had to make?",
+   "question": "Was war die schwierigste Entscheidung, die du treffen musstest?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -123,7 +123,7 @@
   {
    "id": "76218",
    "isValid": "",
-   "question": "How would your colleagues describe you?",
+   "question": "Wie würden dich deine Kollegen beschreiben?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -131,7 +131,7 @@
   {
    "id": "76219",
    "isValid": "",
-   "question": "If you’re hired, what can we expect from you in your first 30 days?",
+   "question": "Wenn wir dich einstellen, was können wir in den ersten 30 Tagen von dir erwarten?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -139,7 +139,7 @@
   {
    "id": "76220",
    "isValid": "",
-   "question": "How did things go with the last project you led?",
+   "question": "Wie erfolgreich war das letzte Projekt, an dem du gearbeitest hast?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -147,7 +147,7 @@
   {
    "id": "76221",
    "isValid": "",
-   "question": "What’s the most important feedback you’ve ever received?",
+   "question": "Was war die wichtigste Rückmeldung, die du je bekommen hast?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -155,7 +155,7 @@
   {
    "id": "76222",
    "isValid": "",
-   "question": "If you could change one thing about yourself, what would it be?",
+   "question": "Wenn du eine Eigenschaft von dir ändern könntest, welche wäre das?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -163,7 +163,7 @@
   {
    "id": "76223",
    "isValid": "",
-   "question": "What are you looking for in terms of employee benefits?",
+   "question": "Was erwartest du für Zusatzleistungen im Unternehmen?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -171,7 +171,7 @@
   {
    "id": "76224",
    "isValid": "",
-   "question": "What’s the biggest thing you’d bring to our company culture?",
+   "question": "Was könntest du zur Unternehmenskultur beitragen?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -179,7 +179,7 @@
   {
    "id": "76305",
    "isValid": "",
-   "question": "How would you describe your personality?",
+   "question": "Wie würdest du deinen Charakter beschreiben?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -187,7 +187,7 @@
   {
    "id": "76306",
    "isValid": "",
-   "question": "How do you calm down when you are stressed?",
+   "question": "Wie beruhigst du dich in Stresssituationen?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -195,7 +195,7 @@
   {
    "id": "76307",
    "isValid": "",
-   "question": "What drives you?",
+   "question": "Was treibt dich an?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -203,7 +203,7 @@
   {
    "id": "76308",
    "isValid": "",
-   "question": "What is something that inspires you?",
+   "question": "Was inspiriert dich?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -211,7 +211,7 @@
   {
    "id": "76309",
    "isValid": "",
-   "question": "How do you make a good first impression?",
+   "question": "Wie machst du einen guten ersten Eindruck?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -219,7 +219,7 @@
   {
    "id": "76310",
    "isValid": "",
-   "question": "What is something you are proud of?",
+   "question": "Worauf bist du stolz?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -227,7 +227,7 @@
   {
    "id": "76311",
    "isValid": "",
-   "question": "What is something you wish you had more time for?",
+   "question": "Wofür hättest du gerne mehr Zeit?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -235,7 +235,7 @@
   {
    "id": "76312",
    "isValid": "",
-   "question": "What's an interesting hobby you enjoy?",
+   "question": "Welches interessante Hobby hast du?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -243,7 +243,7 @@
   {
    "id": "76313",
    "isValid": "",
-   "question": "How do you unwind after work?",
+   "question": "Wie erholst du dich nach der Arbeit?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -251,7 +251,7 @@
   {
    "id": "76314",
    "isValid": "",
-   "question": "How would you describe your work ethic?",
+   "question": "Wie beschreibst du deine Arbeitsmoral?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -259,7 +259,7 @@
   {
    "id": "76315",
    "isValid": "",
-   "question": "What does \"loyalty\" mean to you?",
+   "question": "Was bedeutet \"Loyalität\" für dich?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -267,7 +267,7 @@
   {
    "id": "76316",
    "isValid": "",
-   "question": "How do you handle conflict?",
+   "question": "Wie gehst du mit Konflikten um?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -275,7 +275,7 @@
   {
    "id": "76317",
    "isValid": "",
-   "question": "What makes you tick?",
+   "question": "Was motiviert dich?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -283,7 +283,7 @@
   {
    "id": "76318",
    "isValid": "",
-   "question": "How much can you lift?",
+   "question": "Wie belastbar bist du?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -291,7 +291,7 @@
   {
    "id": "76319",
    "isValid": "",
-   "question": "What makes you cry?",
+   "question": "Was bringt dich zum weinen?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -299,7 +299,7 @@
   {
    "id": "76320",
    "isValid": "",
-   "question": "What's in your briefcase right now?",
+   "question": "Was ist gerade in deiner Brieftasche?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -307,7 +307,7 @@
   {
    "id": "76346",
    "isValid": "",
-   "question": "What is your ideal work space?",
+   "question": "Wie sieht dein idealer Arbeitsplatz aus?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -315,7 +315,7 @@
   {
    "id": "76347",
    "isValid": "",
-   "question": "Where do good ideas come from?",
+   "question": "Woher kommen gute Ideen?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -323,7 +323,7 @@
   {
    "id": "76348",
    "isValid": "",
-   "question": "What's your deepest regret?",
+   "question": "Was bereust du am meisten?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -331,7 +331,7 @@
   {
    "id": "76349",
    "isValid": "",
-   "question": "What's your professional backup plan?",
+   "question": "Was ist dein professioneller Backup-Plan?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -339,7 +339,7 @@
   {
    "id": "76350",
    "isValid": "",
-   "question": "What was your biggest issue with your former employer?",
+   "question": "Was war das größte Problem mit deinem ehemaligen Arbeitgeber?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -347,7 +347,7 @@
   {
    "id": "76351",
    "isValid": "",
-   "question": "Why did you leave your former occupation?",
+   "question": "Warum hast du deinen vorherigen Arbeitsplatz verlassen?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -355,7 +355,7 @@
   {
    "id": "76352",
    "isValid": "",
-   "question": "What's the most effective way to start off a meeting?",
+   "question": "Wie kann man am effektivsten ein Meeting beginnen?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -363,7 +363,7 @@
   {
    "id": "76353",
    "isValid": "",
-   "question": "What motivates you to give 110% every day?",
+   "question": "Was bringt dich dazu, jeden Tag 110% zu geben?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -371,7 +371,7 @@
   {
    "id": "76354",
    "isValid": "",
-   "question": "In your opinion, what is a manager's primary role?",
+   "question": "Was ist deiner Meinung nach die Hauptaufgabe eines Managers?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -379,7 +379,7 @@
   {
    "id": "76355",
    "isValid": "",
-   "question": "How do you normally start off a sales pitch?",
+   "question": "Wie beginnst du normalerweise ein Verkaufsgespräch?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -387,7 +387,7 @@
   {
    "id": "76356",
    "isValid": "",
-   "question": "What would the HR department at your last job say about you?",
+   "question": "Was würde die Personalabteilung deiner letzten Stelle über dich sagen?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -395,7 +395,7 @@
   {
    "id": "76357",
    "isValid": "",
-   "question": "What rule do you hope to find in the employee handbook?",
+   "question": "Welche Regel wünschst du dir im Mitarbeiterhandbuch?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -403,7 +403,7 @@
   {
    "id": "76358",
    "isValid": "",
-   "question": "What's the secret to a proper work/life balance?",
+   "question": "Was ist das Geheimnis zur richtigen Work/Life-Balance?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -411,7 +411,7 @@
   {
    "id": "76359",
    "isValid": "",
-   "question": "As a child, what was your dream career?",
+   "question": "Was war dein Traumberuf als Kind?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -419,7 +419,7 @@
   {
    "id": "76360",
    "isValid": "",
-   "question": "What's something on your list of life goals?",
+   "question": "Was ist eines deiner Lebensziele?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -427,7 +427,7 @@
   {
    "id": "76362",
    "isValid": "",
-   "question": "How do you feel about interoffice romances?",
+   "question": "Was ist deine Meinung zu firmeninternen Beziehungen?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -435,7 +435,7 @@
   {
    "id": "76363",
    "isValid": "",
-   "question": "What qualities do you look for in a team?",
+   "question": "Auf was achtest du in einem Team?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -443,7 +443,7 @@
   {
    "id": "76364",
    "isValid": "",
-   "question": "How would you describe your Casual Friday look?",
+   "question": "Wie sieht dein typisches Freitags-Outfit aus?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -451,7 +451,7 @@
   {
    "id": "76367",
    "isValid": "",
-   "question": "What usually kills small businesses in their first year?",
+   "question": "Weswegen scheitern die meisten Unternehmen im ersten Jahr?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -459,7 +459,7 @@
   {
    "id": "76368",
    "isValid": "",
-   "question": "Where should we send your first paycheck?",
+   "question": "Wohin sollen wir dir dein Gehalt senden?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -467,7 +467,7 @@
   {
    "id": "76369",
    "isValid": "",
-   "question": "What's a team-building exercise you'd like us to implement?",
+   "question": "Welche Teambildungs-Aufgabe sollten wir deiner Meinung nach übernehmen?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -475,7 +475,7 @@
   {
    "id": "76370",
    "isValid": "",
-   "question": "What do you hope to find in the office recreation room?",
+   "question": "Was wünschst du dir im Pausenraum?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -483,7 +483,7 @@
   {
    "id": "76371",
    "isValid": "",
-   "question": "Do you have any resolutions for the new year?",
+   "question": "Hast du Vorsätze für das nächste Jahr?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -491,7 +491,7 @@
   {
    "id": "76404",
    "isValid": "",
-   "question": "What are your core competencies?",
+   "question": "Was sind deine Kernkompetenzen?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -499,7 +499,7 @@
   {
    "id": "76406",
    "isValid": "",
-   "question": "Describe your ideal retirement.",
+   "question": "Beschreibe deine optimale Altersvorsorge.",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -507,7 +507,7 @@
   {
    "id": "76408",
    "isValid": "",
-   "question": "Aside from family or whatever, what's your greatest joy?",
+   "question": "Neben Freunden und Familie, was bereitet dir am meisten Freude?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -515,7 +515,7 @@
   {
    "id": "76409",
    "isValid": "",
-   "question": "What's a weakness of yours that could be seen as a strength?",
+   "question": "Welche Schwäche von dir könnte auch als Stärke angesehen werden?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -523,7 +523,7 @@
   {
    "id": "76411",
    "isValid": "",
-   "question": "What's your ideal power outfit?",
+   "question": "Wie sieht dein Superhelden-Outfit aus?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -531,7 +531,7 @@
   {
    "id": "76413",
    "isValid": "",
-   "question": "How do you deal with rude people?",
+   "question": "Wie gehst du mit unfreundlichen Menschen um?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -539,7 +539,7 @@
   {
    "id": "76415",
    "isValid": "",
-   "question": "What's your typical work lunch?",
+   "question": "Was isst du normalerweise auf der Arbeit zu Mittag?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -547,7 +547,7 @@
   {
    "id": "76416",
    "isValid": "",
-   "question": "What does \"family\" mean to you?",
+   "question": "Was bedeutet dir \"Familie\"?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -555,7 +555,7 @@
   {
    "id": "76417",
    "isValid": "",
-   "question": "What's something you always keep in your wallet?",
+   "question": "Was hast du zu jeder Zeit griffbereit in deiner Tasche?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -563,7 +563,7 @@
   {
    "id": "76418",
    "isValid": "",
-   "question": "Do you have any questions for us?",
+   "question": "Hast du irgendwelche Fragen an uns?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -571,7 +571,7 @@
   {
    "id": "76434",
    "isValid": "",
-   "question": "How can we improve our health and wellness initiative?",
+   "question": "Wie können wir unsere Gesundheits- und Wellness-Initiative verbessern?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -579,7 +579,7 @@
   {
    "id": "76435",
    "isValid": "",
-   "question": "Where would you like to go for the company retreat?",
+   "question": "Wie bist du auf unser Unternehmen aufmerksam geworden?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -587,7 +587,7 @@
   {
    "id": "76436",
    "isValid": "",
-   "question": "How would you manage employees without talking down to them?",
+   "question": "Wie kann man Mitarbeiter im Griff behalten ohne sie runterzumachen?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -595,7 +595,7 @@
   {
    "id": "76437",
    "isValid": "",
-   "question": "How do you know you're too sick to come into work?",
+   "question": "Wie stellst du fest, dass du zu krank bist, um zur Arbeit zu kommen?",
    "round": "one",
    "round3Header": null,
    "x": false
@@ -603,7 +603,7 @@
   {
    "id": "76439",
    "isValid": "",
-   "question": "What question would you like to ask our CEO?",
+   "question": "Welche Frage möchtest du unserem Geschäftsführer stellen?",
    "round": "one",
    "round3Header": null,
    "x": false
