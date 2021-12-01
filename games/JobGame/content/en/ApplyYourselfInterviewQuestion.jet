@@ -2459,7 +2459,7 @@
   {
    "id": "77919",
    "isValid": "",
-   "question": "It was your turn to run the company dishwasher, but you are already clocked out for the day. What do you do?",
+   "question": "Du bist an der Reihe die Spülmaschine auszuräumen, bist aber schon halb im Feierabend. Was machst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2467,7 +2467,7 @@
   {
    "id": "77920",
    "isValid": "",
-   "question": "The rickety old vending machine has claimed one of your precious dollars once again. How do you react?",
+   "question": "Der alte Automat hat wieder einmal einen deiner 5-Euro-Scheine verschluckt. Wie reagierst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2475,7 +2475,7 @@
   {
    "id": "77922",
    "isValid": "",
-   "question": "You had your picture taken for your work badge and it's awful! What do you do?",
+   "question": "Du hast gerade das Foto für deinen Dienstausweis gemacht und es sieht schrecklich aus! Was machst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2483,7 +2483,7 @@
   {
    "id": "77923",
    "isValid": "",
-   "question": "A coworker of yours has been fired and is deeply upset. What do you say to comfort them?",
+   "question": "Einer deiner Kollegen wurde gekündigt und ist sehr traurig. Was sagst du ihm, um ihn aufzumuntern?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2491,7 +2491,7 @@
   {
    "id": "77948",
    "isValid": "",
-   "question": "You're the last one in the office today. What do you do for everyone to make tomorrow special?",
+   "question": "Du bist heute der letzte im Büro. Was machst du, damit die Kollegen morgen gut in den Tag starten können?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2499,7 +2499,7 @@
   {
    "id": "77949",
    "isValid": "",
-   "question": "Trish has just gotten engaged. How do you hide your anger and jealousy?",
+   "question": "Julia hat neulich geheiratet. Wie versteckst du deine Wut und Eifersucht?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2507,7 +2507,7 @@
   {
    "id": "77950",
    "isValid": "",
-   "question": "The company is using \"security software\" to spy on everyone's computers. (It's for your own good!) How do you respond?",
+   "question": "Das Unternehmen benutzt \"Sicherheitsprogramme\" um alle Computer zu überwachen. (Das ist nur zu deinem besten!) Wie antwortest du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2515,7 +2515,7 @@
   {
    "id": "77951",
    "isValid": "",
-   "question": "There is a mandatory \"initiation\" period for new hires. What derogatory nickname do you prefer?",
+   "question": "Es gibt eine verpflichtende \"Kennenlernrunde\" für neue Mitarbeiter. Wie soll dein lustiger Spitzname lauten?",
    "round": "two",
    "round3Header": null,
    "x": true
@@ -2523,7 +2523,7 @@
   {
    "id": "77953",
    "isValid": "",
-   "question": "You have not been invited to Trish's wedding. Does this mean something? How do you react?",
+   "question": "Du wurdest nicht zur Hochzeit von Julia eingeladen. Bedeutet das irgendwas? Wie reagierst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2531,7 +2531,7 @@
   {
    "id": "78039",
    "isValid": "",
-   "question": "The world's going to explode in two minutes! What do you do?!?",
+   "question": "Die Welt explodiert in 2 Minuten! Was machst du?!?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2539,7 +2539,7 @@
   {
    "id": "78078",
    "isValid": "",
-   "question": "Carol wants to hang out after work. What’s your excuse for bailing?",
+   "question": "Melina möchte nach der Arbeit noch mit dir abhängen. Welche Ausrede benutzt du, damit du das vermeiden kannst?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2547,7 +2547,7 @@
   {
    "id": "78079",
    "isValid": "",
-   "question": "In your opinion, why was last year’s company picnic such a disaster?",
+   "question": "Warum war das letzte Unternehmenspicknick eine so große Katastrophe?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2555,7 +2555,7 @@
   {
    "id": "78080",
    "isValid": "",
-   "question": "You decide to play hooky from work. What do you do instead?",
+   "question": "Wie würdest du einen spontanen freien Tag nutzen?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2563,7 +2563,7 @@
   {
    "id": "78082",
    "isValid": "",
-   "question": "The last page of your big report is missing! What do you tell your manager?",
+   "question": "Die letzte Seite deines großen Berichts fehlt! Was sagst du deinem Vorgesetzten?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2571,7 +2571,7 @@
   {
    "id": "78083",
    "isValid": "",
-   "question": "Trent's been in the restroom for an hour. What do you whisper under the door?",
+   "question": "Julia ist seit einer Stunde auf der Toilette. Was flüsterst du ihr unter der Tür zu?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2579,7 +2579,7 @@
   {
    "id": "78098",
    "isValid": "",
-   "question": "You have 30 seconds. How do you get rid of this pumpkin?",
+   "question": "Du hast 30 Sekunden. Wie wirst du diesen Kürbis los?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2587,7 +2587,7 @@
   {
    "id": "78119",
    "isValid": "",
-   "question": "A natural disaster has struck and emergency services can't reach the office. How do you respond?",
+   "question": "Aufgrund einer Naturkatastrophe können die Rettungskräfte das Büro nicht mehr erreichen. Was machst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2595,7 +2595,7 @@
   {
    "id": "78121",
    "isValid": "",
-   "question": "You find yourself working late alone with the chatty custodian. How do you get around the fact that you don't know his name?",
+   "question": "Du arbeitest bis spät in die Nacht mit einem gesprächigen Hausmeister. Wie versuchst du zu verstecken, dass du nicht mal seinen Namen kennst?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2603,7 +2603,7 @@
   {
    "id": "78126",
    "isValid": "",
-   "question": "The office holiday party is getting a little rowdy. What do you do?",
+   "question": "Die Weihnachtsfeier im Büro läuft relativ holprig ab. Was unternimmst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2611,7 +2611,7 @@
   {
    "id": "78127",
    "isValid": "",
-   "question": "It's been a long, stressful day and the boss has let everyone go home early except for you. How do you react?",
+   "question": "Es war ein langer und stressiger Arbeitstag und der Chef lässt alle früher nach Hause außer dich. Wie reagierst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2619,7 +2619,7 @@
   {
    "id": "78128",
    "isValid": "",
-   "question": "You arrive at the office and it's closed for a holiday. No one told you! How do you react?",
+   "question": "Du kommst im Büro an und niemand ist da, wegen einem Brückentag. Niemand hat dir Bescheid gesagt! Wie reagierst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2627,7 +2627,7 @@
   {
    "id": "78131",
    "isValid": "",
-   "question": "The office coffee pot has become sentient and is terrorizing the staff with scalding hot decaf. What do you do?",
+   "question": "Die Kaffeekanne im Büro ist lebendig geworden und terrorisiert das Personal mit kochend heißem Koffein. Wie gehst du vor?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2635,7 +2635,7 @@
   {
    "id": "78132",
    "isValid": "",
-   "question": "You spilled your lasagna all over the office's freshly installed carpeting. What's your next step?",
+   "question": "Du hast deine Lasagne über den frisch verlegten Teppichboden des Büros verschüttet. Was machst du jetzt?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2643,7 +2643,7 @@
   {
    "id": "78134",
    "isValid": "",
-   "question": "Your manager offers you a fancy company laptop, not realizing you were already given one. What do you do?",
+   "question": "Dein Vorgesetzter bietet dir einen schicken, neuen Laptop an, weil er nicht weiß, dass du schon einen hast. Wie gehst du vor?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2651,7 +2651,7 @@
   {
    "id": "78135",
    "isValid": "",
-   "question": "Greg keeps copying you by buying the same quirky ties. How do you react?",
+   "question": "Timon macht dich andauernd nach und kauft die gleichen schrulligen Krawatten wie du. Wie reagierst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2659,7 +2659,7 @@
   {
    "id": "78136",
    "isValid": "",
-   "question": "You jammed the costly office printer, perhaps permanently. What do you do?",
+   "question": "Du hast den Kopierer im Büro kaputt gemacht. Wahrscheinlich für immer. Was machst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2667,7 +2667,7 @@
   {
    "id": "78137",
    "isValid": "",
-   "question": "You visited the dark web ONE TIME and now your work computer has a virus! What do you do?",
+   "question": "Da geht man nur EINMAL ins Darknet und schon hat dein Computer einen Virus! Was machst du?",
    "round": "two",
    "round3Header": null,
    "x": true
@@ -2675,7 +2675,7 @@
   {
    "id": "78138",
    "isValid": "",
-   "question": "You’re giving a company-wide presentation, but you didn’t prepare! What do you do?",
+   "question": "Du musst eine Präsentation für das ganze Team halten, bist aber nicht vorbereitet! Was machst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2683,7 +2683,7 @@
   {
    "id": "78140",
    "isValid": "",
-   "question": "You wake up feeling unwell, but you don't have any sick days left. What do you do?",
+   "question": "Du fühlst dich nicht gut, hast aber keine Krankheitstage mehr übrig. Was machst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2691,7 +2691,7 @@
   {
    "id": "78141",
    "isValid": "",
-   "question": "A reporter stops you on your way to work and says the company is under investigation for fraud. How do you react?",
+   "question": "Ein Reporter fragt dich auf dem Weg zur Arbeit, wie du dazu stehst, dass die Firma wegen Steuerhinterziehung und Betrug im Verdacht steht. Wie reagierst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2699,7 +2699,7 @@
   {
    "id": "78289",
    "isValid": "",
-   "question": "People have noticed you scrolling through your ex's new partner's social media on company time. How do you explain yourself?",
+   "question": "Den Kollegen ist aufgefallen, dass du während der Arbeitszeit das Social Media Profil vom neuen Freund deiner Ex durchscrollst. Was ist deine Erklärung?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2707,7 +2707,7 @@
   {
    "id": "78290",
    "isValid": "",
-   "question": "Management is requesting all company technology be returned to IT for inspection. What might we find in your browser history?",
+   "question": "Dein Chef hat angeordnet, dass alle Firmenrechner zur Inspektion an die IT geschickt werden müssen. Was würde man in deinem Browser-Suchverlauf finden?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2715,7 +2715,7 @@
   {
    "id": "78297",
    "isValid": "",
-   "question": "You see Frank pick something out of the trash and eat it. How do you respond?",
+   "question": "Du bemerkst, wie Frank etwas aus dem Mülleimer nimmt und isst. Was machst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2723,7 +2723,7 @@
   {
    "id": "78298",
    "isValid": "",
-   "question": "You see coworkers leave the same bathroom stall together. How do you respond?",
+   "question": "Du siehst, wie zwei Mitarbeiter aus der gleichen Toilettenkabine kommen. Wie reagierst du?",
    "round": "two",
    "round3Header": null,
    "x": true
@@ -2731,7 +2731,7 @@
   {
    "id": "78469",
    "isValid": "",
-   "question": "You have Frank for the office Secret Santa. What do you get him?",
+   "question": "Du musst deinem Kollegen Frank zu Weihnachten ein Wichtelgeschenk kaufen. Worüber würde er sich freuen?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2739,7 +2739,7 @@
   {
    "id": "78470",
    "isValid": "",
-   "question": "Michel, the office ghost, has been haunting your cubicle. How do you react?",
+   "question": "Michael, der Bürogeist, hat deine Abteilung heimgesucht. Wie reagierst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2747,7 +2747,7 @@
   {
    "id": "78471",
    "isValid": "",
-   "question": "You're in charge of designing the uniforms for the company softball game. What's going on that jersey?",
+   "question": "Du bist für die Trikots des internen Fußballclubs verantwortlich. Was soll auf dem Shirt stehen?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2755,7 +2755,7 @@
   {
    "id": "78473",
    "isValid": "",
-   "question": "Flora won't stop showing you pictures of her grandkids. What do you say to her?",
+   "question": "Fiona hört einfach nicht damit auf, dir Fotos von ihren Enkeln zu zeigen. Was sagst du zu ihr?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2763,7 +2763,7 @@
   {
    "id": "78474",
    "isValid": "",
-   "question": "The team-building retreat is this weekend. How are you going to get out of it?",
+   "question": "Das Team-Buliding Seminar findet am Wochenende statt. Welche Ausrede kannst du nutzen, um nicht hingehen zu müssen?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2771,7 +2771,7 @@
   {
    "id": "78475",
    "isValid": "",
-   "question": "The new hire seems super cool. What do you do to make them feel welcome in the office?",
+   "question": "Die neue Kollegin macht einen coolen Eindruck. Was kannst du machen, damit sie sich direkt gut aufgenommen fühlt?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2779,7 +2779,7 @@
   {
    "id": "78476",
    "isValid": "",
-   "question": "You get stuck in the elevator after work! How do you escape?",
+   "question": "Du hängst nach der Arbeit im Aufzug fest! Wie entkommst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2787,7 +2787,7 @@
   {
    "id": "78477",
    "isValid": "",
-   "question": "Debra and her four ferrets want to carpool to work with you. How do you respond?",
+   "question": "Angela und ihre vier Frettchen wollen mit dir ein Team bilden. Wie reagierst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2795,7 +2795,7 @@
   {
    "id": "78539",
    "isValid": "",
-   "question": "A coworker has casually mentioned unionization. How do you respond?",
+   "question": "Ein Kollege hat beiläufig die Gewerkschaftsbildung erwähnt. Wie reagierst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2803,7 +2803,7 @@
   {
    "id": "78551",
    "isValid": "",
-   "question": "A coworker who started before you just asked what your salary is. How do you respond?",
+   "question": "Ein Kollege, der schon vor dir angefangen hat, fragt dich nach deinem Gehalt. Was antwortest du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2811,7 +2811,7 @@
   {
    "id": "78552",
    "isValid": "",
-   "question": "Everyone except you has been transformed into a toddler. How do you keep the company running?",
+   "question": "Alle außer dir verwandeln sich in Kleinkinder. Wie hältst du das Unternehmen am laufen?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2819,7 +2819,7 @@
   {
    "id": "78553",
    "isValid": "",
-   "question": "Frank stole your good chair that spins. Again. How do you respond?",
+   "question": "Frank hat deinen coolen Drehstuhl geklaut. Schon wieder. Was sagst du ihm?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2827,7 +2827,7 @@
   {
    "id": "78647",
    "isValid": "",
-   "question": "Your manager is letting you go and requesting that you train your replacement! How do you react?",
+   "question": "Dein Vorgesetzter kündigt dich und fordert, dass du deinem Nachfolger alles beibringst. Wie reagierst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2835,7 +2835,7 @@
   {
    "id": "78648",
    "isValid": "",
-   "question": "The office is currently being fumigated, but you need an important file from your desk. What do you do?",
+   "question": "Der Boden im Büro ist frisch gewischt, deine Schuhe sind dreckig, aber du brauchst eine wichtige Akte von deinem Schreibtisch. Wie gehst du vor?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2843,7 +2843,7 @@
   {
    "id": "78649",
    "isValid": "",
-   "question": "Someone has been photocopying their butt and leaving the pictures in your cubicle. What do you do?",
+   "question": "Jemand hat seinen Hintern fotokopiert, und die Bilder im Drucker gelassen. Was machst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2851,7 +2851,7 @@
   {
    "id": "78650",
    "isValid": "",
-   "question": "The CEO has just told you she is retiring and handing over the reins to you. How do you respond?",
+   "question": "Die Geschäftsführerin hat gerade angekündigt, dass sie in Rente geht, und du ihr Nachfolger sein wirst. Wie reagierst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2859,7 +2859,7 @@
   {
    "id": "78651",
    "isValid": "",
-   "question": "Your coworker is clamming up in an important meeting. How do you help them out?",
+   "question": "Dein Kollege ist in einer Besprechung und sieht gestresst aus. Wie hilfst du ihm?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2867,7 +2867,7 @@
   {
    "id": "78652",
    "isValid": "",
-   "question": "The office is relocating to Wisconsin, but you have a paralyzing fear of the Midwest. How do you respond?",
+   "question": "Das Büro soll nach Berlin verlegt werden, aber du kannst die Stadt nicht leiden. Was antwortest du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2875,7 +2875,7 @@
   {
    "id": "78653",
    "isValid": "",
-   "question": "Your personal mug is missing from the office kitchenette! What's your next step?",
+   "question": "Deine eigene Tasse ist nicht mehr im Küchenschrank! Was machst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2883,7 +2883,7 @@
   {
    "id": "78655",
    "isValid": "",
-   "question": "Your best office buddy is eating lunch with the new hire instead of you! How do you react?",
+   "question": "Dein bester Bürokumpel isst zu Mittag mit dem neuen Praktikanten statt mit dir! Wie reagierst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2891,7 +2891,7 @@
   {
    "id": "78656",
    "isValid": "",
-   "question": "The office slacker is asking for your help on a project due tomorrow. How do you react?",
+   "question": "Der Faulste im Büro fragt dich, ob du ihm bei seinem Projekt helfen kannst, was morgen fertig sein muss. Wie reagierst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2899,7 +2899,7 @@
   {
    "id": "78657",
    "isValid": "",
-   "question": "Nick, the extreme coupon-er, stole your flyer for 20% off at the local pizza place. What do you do?",
+   "question": "Nick, der Gutscheinsüchtige, hat deinen Flyer mit 20% Rabatt auf alle Pizzen geklaut. Was machst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2907,7 +2907,7 @@
   {
    "id": "78658",
    "isValid": "",
-   "question": "The employee handbook is updated to include a ban on dyed hair and tattoos. You have both. What do you do?",
+   "question": "Die Mitarbeiterrichtlinien wurden abgeändert und verbieten jetzt gefärbte Haare und Tattoos. Du hast beides. Was machst du jetzt?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2915,7 +2915,7 @@
   {
    "id": "78659",
    "isValid": "",
-   "question": "You discover a portal to another realm in the office supply closet. What do you do?",
+   "question": "Du entdeckst ein Portal in eine andere Dimension im Laggerraum. Was machst du jetzt?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2923,7 +2923,7 @@
   {
    "id": "78660",
    "isValid": "",
-   "question": "It's Bring Your Dog to Work Day and your cubicle neighbor brought a wild wolf! How do you react?",
+   "question": "Es ist Bring-deinen-Hund-zur-Arbeit-Tag und dein Nachbar im Büro hat einen Wolf mitgebracht! Wie reagierst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2931,7 +2931,7 @@
   {
    "id": "78661",
    "isValid": "",
-   "question": "You go golfing with the CEO and accidentally catch him cheating. What do you do?",
+   "question": "Du spielst Golf mit dem Geschäftsführer und bemerkst, dass er schummelt. Was machst du jetzt?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2939,7 +2939,7 @@
   {
    "id": "78795",
    "isValid": "",
-   "question": "Frank has been out of the office for a month and no one has seen or heard from him. What do you do?",
+   "question": "Frank war seit einem Monat nicht mehr im Büro und niemand hat ihn gesehen oder von ihm gehört. Was machst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2947,7 +2947,7 @@
   {
    "id": "78797",
    "isValid": "",
-   "question": "An obsidian monolith that hums incessantly has appeared in the break room. How do you respond?",
+   "question": "Im Pausenraum ist ein ständig summender Smaragd-Monolith aufgetaucht. Wie reagierst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2955,7 +2955,7 @@
   {
    "id": "78801",
    "isValid": "",
-   "question": "Meghan is turning everyone against you. How do you respond?",
+   "question": "Martha bringt alle gegen dich auf. Wie reagierst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2963,7 +2963,7 @@
   {
    "id": "78802",
    "isValid": "",
-   "question": "The Wi-Fi has become unbearably slow. How do you respond?",
+   "question": "Das WLAN im Büro ist unglaublich langsam. Wie gehst du weiter vor?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2971,7 +2971,7 @@
   {
    "id": "78866",
    "isValid": "",
-   "question": "It's March and the Holiday Tree is still up and ruining the lobby. How do you get rid of it?",
+   "question": "Es ist März und der Weihnachtsbaum steht IMMERNOCH im Pausenraum. Wie wirst du ihn los?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2979,7 +2979,7 @@
   {
    "id": "78867",
    "isValid": "",
-   "question": "We have two HRs. A mommy HR and a daddy HR. How should we decide which one gets custody of you?",
+   "question": "Wir haben zwei Personalleiter. Mama Personalleiter und Papa Personalleiter. Wer bekommt das Sorgerecht von dir?",
    "round": "two",
    "round3Header": null,
    "x": true
@@ -2987,7 +2987,7 @@
   {
    "id": "78952",
    "isValid": "",
-   "question": "You notice a fellow coworker clearing out their desk midday. What do you do?",
+   "question": "Du bemerkst, dass Mittags ein Kollege seinen ganzen Schreibtisch leer räumt. Was machst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2995,7 +2995,7 @@
   {
    "id": "78958",
    "isValid": "",
-   "question": "Your manager informs you that the CEO is being voted out by the company's board. How do you react?",
+   "question": "Dein Vorgesetzter informiert dich, dass der Geschäftsführer aus dem Vorstand gewählt wurde. Wie reagierst du darauf?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3003,7 +3003,7 @@
   {
    "id": "78959",
    "isValid": "",
-   "question": "You've overslept after a night of extreme bowling. Your boss calls and demands to know why you're late. What do you tell them?",
+   "question": "Du hast aufgrund einer extremen Bowlingnacht verschlafen. Dein Chef ruft dich an und will wissen, warum du so spät bist. Was sagst du ihm?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3011,7 +3011,7 @@
   {
    "id": "78960",
    "isValid": "",
-   "question": "You notice an embarrassing typo on the company website. What do you do?",
+   "question": "Dir fällt ein peinlicher Rechtschreibfehler auf der Unternehmenswebseite auf. Wie gehst du damit um?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3019,7 +3019,7 @@
   {
    "id": "78961",
    "isValid": "",
-   "question": "Management has introduced a new company uniform and it's hideous! How do you react?",
+   "question": "Das Management hat eine neue Firmenuniform eingeführt und sie ist scheußlich! Wie reagierst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3027,7 +3027,7 @@
   {
    "id": "78962",
    "isValid": "",
-   "question": "The CEO asks you to say the company slogan in their new commercial. How do you respond?",
+   "question": "Der Geschäftsführer möchte, dass du den Slogan der Firma im neuen Werbespot aufsagst. Was antwortest du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3035,7 +3035,7 @@
   {
    "id": "78963",
    "isValid": "",
-   "question": "The company installs a new beer fridge for use on Friday afternoons. How do you react?",
+   "question": "Die Firma stellt einen neuen Bierkühlschrank für Freitagnachmittage bereit. Wie reagierst du?",
    "round": "two",
    "round3Header": null,
    "x": true
@@ -3043,7 +3043,7 @@
   {
    "id": "79121",
    "isValid": "",
-   "question": "You've finally nabbed the coveted corner office! How are you celebrating?",
+   "question": "Du hast dir endlich das begehrte Eckbüro geschnappt! Wie feierst du das?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3051,7 +3051,7 @@
   {
    "id": "79123",
    "isValid": "",
-   "question": "The entire office is covered in sand. What do you do?",
+   "question": "Das gesamte Bürogebäude ist mit Sand bedeckt. Was machst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3059,7 +3059,7 @@
   {
    "id": "79158",
    "isValid": "",
-   "question": "Trent is getting WAY too competitive at office trivia night. What do you do?",
+   "question": "Julia nimmt die wöchentlichen Monopoly-Abende VIEL zu ernst. Was sagst du Julia?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3067,7 +3067,7 @@
   {
    "id": "79161",
    "isValid": "",
-   "question": "You’re stuck on a long elevator ride with the district manager! Quick, say something to make it less awkward!",
+   "question": "Du steckst auf einer langen Aufzugfahrt mit dem Bezirksleiter fest! Schnell, sag etwas, um es weniger unangenehm zu machen!",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3075,7 +3075,7 @@
   {
    "id": "79167",
    "isValid": "",
-   "question": "What do you think is lurking on our mysterious 13th floor?",
+   "question": "Was glaubst du verbirgt sich auf der mysteriösen 13. Etage?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3083,7 +3083,7 @@
   {
    "id": "79173",
    "isValid": "",
-   "question": "You just got back from a great vacation. What souvenir did you bring back for your coworkers?",
+   "question": "Du kommst aus einem großartigen Urlaub zurück. Welches Souvenir nimmst du für deine Kollegen mit?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3091,7 +3091,7 @@
   {
    "id": "79179",
    "isValid": "",
-   "question": "You've biked to the office and gotten all sweaty, but there's no shower you can use to freshen up! What do you do?",
+   "question": "Du kommst total verschwitzt ins Büro. Es gibt aber keine Möglichkeit zu duschen! Was machst du jetzt?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3099,7 +3099,7 @@
   {
    "id": "79180",
    "isValid": "",
-   "question": "You arrive at the office and there's a bird sitting at your desk, calmly doing your work. How do you respond?",
+   "question": "Du kommst im Büro an und siehst einen Vogel auf deinem Schreibtisch, der entspannt deine Arbeit erledigt. Wie reagierst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3107,7 +3107,7 @@
   {
    "id": "79181",
    "isValid": "",
-   "question": "Your manager's kid is demanding to know what happens after you die. What do you tell them?",
+   "question": "Das Kind deines Vorgesetzten möchte unbedingt wissen, was passiert, wenn man stirbt. Was sagst du dem Kind?",
    "round": "two",
    "round3Header": null,
    "x": true
@@ -3115,7 +3115,7 @@
   {
    "id": "79307",
    "isValid": "",
-   "question": "On your daily video conferences, a dark ghostly figure stands behind the client and has been inching closer and closer. How do you respond?",
+   "question": "In einer normalen Videokonferenz bemerkst du ein dunkles Wesen hinter dem Kunden, welches immer näher kommt. Was sagst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3123,7 +3123,7 @@
   {
    "id": "79309",
    "isValid": "",
-   "question": "Every day this week, the CEO has offered you, and only you, a lollipop. How do you respond?",
+   "question": "Jeden Tag in dieser Woche fragt der Geschäftsführer dich, und zwar nur dich, nach einem Lolli. Was antwortest du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3131,7 +3131,7 @@
   {
    "id": "79310",
    "isValid": "",
-   "question": "You're on a 72-hour business trip with your chattiest coworker. How do you keep yourself sane?",
+   "question": "Du bist auf einer 72-stündigen Geschäftsreise mit deinem gesprächigsten Kollegen. Wie bleibst du bei Verstand?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3139,7 +3139,7 @@
   {
    "id": "79311",
    "isValid": "",
-   "question": "Everyone has been offered a holiday bonus except you. How do you react to the mistake?",
+   "question": "Jeder hat Weihnachtsgeld bekommen, außer dir. Wie reagierst du auf diesen Fehler?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3147,7 +3147,7 @@
   {
    "id": "79312",
    "isValid": "",
-   "question": "A keg delivery that was intended for a bar with the same name has arrived at the company. How do you respond?",
+   "question": "Eine Bierlieferung, die eigentlich an eine Bar mit dem gleichen Namen sollte, trifft bei dir im Büro ein. Was antwortest du?",
    "round": "two",
    "round3Header": null,
    "x": true
@@ -3155,7 +3155,7 @@
   {
    "id": "79314",
    "isValid": "",
-   "question": "The company has laid off the custodial staff and implemented a chore wheel. How do you respond?",
+   "question": "Das Unternehmen hat das Aufsichtspersonal entlassen und dafür einen lästigen Praktikanten eingestellt. Wie reagierst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3163,7 +3163,7 @@
   {
    "id": "79315",
    "isValid": "",
-   "question": "The CEO's awful son is now your direct supervisor. How do you respond?",
+   "question": "Der lästige Sohn des Geschäftsführers ist jetzt dein direkter Vorgesetzter. Was antwortest du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3171,7 +3171,7 @@
   {
    "id": "79316",
    "isValid": "",
-   "question": "Everyone in the office has unexpectedly grown a mustache. How do you respond?",
+   "question": "Jeder im Büro trägt auf einmal einen Bart. Was sagst du dazu?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3179,7 +3179,7 @@
   {
    "id": "79317",
    "isValid": "",
-   "question": "Trent's massive desk toy collection is encroaching on your space. How do you respond?",
+   "question": "Julias gigantische Plüschtiersammlung breitet sich langsam auf deinen Schreibtisch aus. Was sagst du dazu?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3187,7 +3187,7 @@
   {
    "id": "79318",
    "isValid": "",
-   "question": "Everyone in the office is suddenly barefoot. How do you respond?",
+   "question": "Jeder im Büro ist auf einmal barfuß. Was machst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3195,7 +3195,7 @@
   {
    "id": "79319",
    "isValid": "",
-   "question": "To promote health and wellness, everyone's chairs have been replaced with giant bouncy balls. How do you respond?",
+   "question": "Um die Gesundheit der Mitarbeiter zu steigern, wurden alle Stühle durch Gymnastikbälle ersetzt. Was sagst du dazu?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3203,7 +3203,7 @@
   {
    "id": "79321",
    "isValid": "",
-   "question": "Trent and Frank are duking it out in the parking lot! What do you do?",
+   "question": "Julia und Frank streiten sich auf dem Parkplatz! Wie gehst du vor?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3211,7 +3211,7 @@
   {
    "id": "79525",
    "isValid": "",
-   "question": "On Fridays, all crime is legal in the office. What are you going to do?",
+   "question": "An Freitagen darf man sich im Büro verhalten wie man möchte. Was wirst du machen?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3219,7 +3219,7 @@
   {
    "id": "79526",
    "isValid": "",
-   "question": "Should a pack of stray dogs find their way into the office, how would you establish dominance?",
+   "question": "Sollte sich ein Rudel streunender Hunde ins Büro schleichen, wie würdest du dann Dominanz zeigen?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3227,7 +3227,7 @@
   {
    "id": "79529",
    "isValid": "",
-   "question": "You get lost in the woods during the company retreat. What’s your first move?",
+   "question": "Du verirrst dich im Wald während der betrieblichen Schnitzeljagd. Was machst du als erstes?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3235,7 +3235,7 @@
   {
    "id": "79530",
    "isValid": "",
-   "question": "You need to get back in the office, but forgot your keys. How do you get past the security system?",
+   "question": "Du musst zurück ins Büro, hast aber deine Schlüssel vergessen. Wie kannst du dich am Sicherheitssystem vorbeischleichen?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3243,7 +3243,7 @@
   {
    "id": "79532",
    "isValid": "",
-   "question": "We looked you up on social media... Care to explain what you're doing in this photo?",
+   "question": "Wir haben den Social Media Profil gefunden... Kannst du mir erklären, was du da auf dem Foto gemacht hast?",
    "round": "two",
    "round3Header": "",
    "x": false
@@ -3251,7 +3251,7 @@
   {
    "id": "79585",
    "isValid": "",
-   "question": "It's Halloween! What costume are you wearing into the office?",
+   "question": "Es ist Karneval! Welches Kostüm wirst du im Büro tragen?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3259,7 +3259,7 @@
   {
    "id": "79586",
    "isValid": "",
-   "question": "Someone replaced all the good office snacks with healthy ones. How do you react?",
+   "question": "Jemand hat die ganzen leckeren Snacks im Büro durch gesundes Essen ersetzt. Wie reagierst du darauf?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3267,7 +3267,7 @@
   {
    "id": "80084",
    "isValid": "",
-   "question": "One of the interns has called you Kelly. You are not Kelly. How do you respond?",
+   "question": "Ein Praktikant hat dich gerade Alex genannt. Du bist nicht Alex. Was sagst du ihm?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3275,7 +3275,7 @@
   {
    "id": "80086",
    "isValid": "",
-   "question": "You've accidentally been copied on an e-mail with sensitive information. How do you respond?",
+   "question": "Dir wurde versehentlich eine E-Mail mit vertraulichen Informationen geschickt. Wie antwortest du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3283,7 +3283,7 @@
   {
    "id": "80087",
    "isValid": "",
-   "question": "We're a cool office. What dope thing should we get to make work fun for you?",
+   "question": "Wir sind ein cooler Arbeitgeber. Welche krasse Sache sollen wir uns gönnen, damit die Arbeit mehr bockt?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3291,7 +3291,7 @@
   {
    "id": "80088",
    "isValid": "",
-   "question": "You've been blamed for eating someone's lunch from the fridge. How will you react?",
+   "question": "Du wurdest beschuldigt, das Mittagessen von jemand anderem aus dem Kühlschrank gegessen zu haben. Wie reagierst du darauf?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3299,7 +3299,7 @@
   {
    "id": "80089",
    "isValid": "",
-   "question": "You have been watching Flora attempt to charge her phone with the wrong cable for an hour. How do you finally intervene?",
+   "question": "Du hast Lara eine Stunde dabei beobachtet, wie sie ihr Handy mit dem falschen Kabel versucht zu laden. Wie wirst du endlich einschreiten?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3307,7 +3307,7 @@
   {
    "id": "80090",
    "isValid": "",
-   "question": "A coworker on a video conference thinks her camera is off and has been picking her nose. How do you respond?",
+   "question": "Ein Mitarbeiter in einer Videokonferenz weiß nicht, dass seine Kamera eingeschaltet ist, und bohrt andauernd in der Nase. Was sagst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3315,7 +3315,7 @@
   {
    "id": "80091",
    "isValid": "",
-   "question": "It's your birthday and everyone forgot. How do you respond?",
+   "question": "Es ist dein Geburtstag und alle haben es vergessen. Was sagst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3323,7 +3323,7 @@
   {
    "id": "80092",
    "isValid": "",
-   "question": "A coworker is visibly sick. How do you sanitize the area without offending them?",
+   "question": "Ein Mitarbeiter ist sichtbar krank. Wie machst du den Bereich sauber, ohne ihm zu nahe zu treten?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3331,15 +3331,15 @@
   {
    "id": "80093",
    "isValid": "",
-   "question": "Trent is wearing the shortest shorts for casual Friday. How do you tactfully confront him?",
+   "question": "Ulli trägt sehr knappe Hosen am lässigen Freitag. Wie machst du ihn darauf aufmerksam?",
    "round": "two",
    "round3Header": null,
-   "x": false
+   "x": true
   },
   {
    "id": "80179",
    "isValid": "",
-   "question": "What do you like to do when you get to the office earlier than everyone else?",
+   "question": "Was machst du gerne, wenn du morgens der erste im Büro bist?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3347,7 +3347,7 @@
   {
    "id": "80180",
    "isValid": "",
-   "question": "You lied and said you speak German on your resume... and now someone from the German office is here. What do you do?",
+   "question": "Du hast in deinem Lebenslauf gelogen, dass du Französisch kannst... und jetzt ist ein Kunde aus Frankreich da. Was machst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3355,7 +3355,7 @@
   {
    "id": "80181",
    "isValid": "",
-   "question": "Some folks from the office want to start a bowling team! What should the team be called?",
+   "question": "Einige Kollegen möchten mit dir ein Bowling-Team gründen! Wie soll das Team heißen?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3363,7 +3363,7 @@
   {
    "id": "80183",
    "isValid": "",
-   "question": "Trent won't stop interrupting you to show you viral videos of kittens. How do you respond?",
+   "question": "Julia hört nicht damit auf, dich mit Katzenvideos zu nerven. Was sagst du ihr?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3371,7 +3371,7 @@
   {
    "id": "80184",
    "isValid": "",
-   "question": "You're complaining about your manager when you look up and see them staring at you. How do you save face?",
+   "question": "Du beschwerst dich über deinen Vorgesetzten und als du hochschaust steht er direkt vor dir. Wie kommst du aus der Situation wieder raus?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3379,7 +3379,7 @@
   {
    "id": "80185",
    "isValid": "",
-   "question": "We're handing out swag at the company picnic! What do you want to see in your swag bag?",
+   "question": "Wir verteilen kleine Geschnke beim Firmenpicknick! Was möchtest du in deinem Geschenkebeutel sehen?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3387,7 +3387,7 @@
   {
    "id": "80186",
    "isValid": "",
-   "question": "Debra is demanding that you accept her friend request on social media. How do you react?",
+   "question": "Angela verlangt von dir, dass du ihre Freundesanfrage auf Social Media annimmst. Wie reagierst du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3395,7 +3395,7 @@
   {
    "id": "80187",
    "isValid": "",
-   "question": "Trent likes to lift weights at his desk. How do you react?",
+   "question": "Ulli hebt gerne Gewichte an seinem Arbeitsplatz. Was sagst du dazu?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3403,7 +3403,7 @@
   {
    "id": "80188",
    "isValid": "",
-   "question": "The office is crawling with termites. How can we get rid of them on the cheap?",
+   "question": "Das Büro wird von Ratten befallen. Wie kannst du das kostengünstig in Ordnung bringen?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3411,7 +3411,7 @@
   {
    "id": "76383",
    "isValid": "",
-   "question": "University of {{BLANK}}\n\nMajor in {{BLANK}}",
+   "question": "Universität von {{BLANK}}\n\nAbschluss als {{BLANK}}",
    "round": "three",
    "round3Header": "Education",
    "x": false
@@ -3419,119 +3419,119 @@
   {
    "id": "76384",
    "isValid": "",
-   "question": "{{BLANK}}\n@\n{{BLANK}}.com",
+   "question": "{{BLANK}}\n@\n{{BLANK}}.de",
    "round": "three",
-   "round3Header": "Contact Info",
+   "round3Header": "Kontaktmöglichkeit",
    "x": false
   },
   {
    "id": "76385",
    "isValid": "",
-   "question": "Worked at {{BLANK}} Inc.\n\nChief {{BLANK}} Officer",
+   "question": "Vorher bei {{BLANK}} GmbH.\n\n{{BLANK}} Abteilungsleiter",
    "round": "three",
-   "round3Header": "Former Employer",
+   "round3Header": "Vorerfahrung",
    "x": false
   },
   {
    "id": "76387",
    "isValid": "",
-   "question": "Proficient in {{BLANK}} and {{BLANK}}",
+   "question": "Erfahren mit {{BLANK}} und {{BLANK}}",
    "round": "three",
-   "round3Header": "Relevant Skills",
+   "round3Header": "Relevante Fähigkeiten",
    "x": false
   },
   {
    "id": "76388",
    "isValid": "",
-   "question": "Part-time {{BLANK}}\n\nFull-time {{BLANK}}",
+   "question": "Teilzeit {{BLANK}}\n\nVollzeit {{BLANK}}",
    "round": "three",
-   "round3Header": "Work Experience",
+   "round3Header": "Arbeitserfahrung",
    "x": false
   },
   {
    "id": "76390",
    "isValid": "",
-   "question": "{{BLANK}} of the Month\n\nMost Likely to {{BLANK}}",
+   "question": "{{BLANK}} des Monats\n\nZukünftig {{BLANK}}",
    "round": "three",
-   "round3Header": "Awards and Achievements",
+   "round3Header": "Erfolge & Errungenschaften",
    "x": false
   },
   {
    "id": "76392",
    "isValid": "",
-   "question": "Member of the {{BLANK}} Society\n\nProfessional {{BLANK}}",
+   "question": "Mitglied der {{BLANK}} Gesellschaft\n\nProfessioneller {{BLANK}}",
    "round": "three",
-   "round3Header": "Personal Accomplishments",
+   "round3Header": "Persönliche Leistungen",
    "x": false
   },
   {
    "id": "76395",
    "isValid": "",
-   "question": "Guest {{BLANK}} at The {{BLANK}} Conference",
+   "question": "Gast {{BLANK}} bei der {{BLANK}} Konferenz",
    "round": "three",
-   "round3Header": "Conference Appearances",
+   "round3Header": "Konferenzteilnahmen",
    "x": false
   },
   {
    "id": "76396",
    "isValid": "",
-   "question": "Played Varsity {{BLANK}} \n\nCaptain of \"The Fightin' {{BLANK}}\"",
+   "question": "{BLANK}} Vereinsspieler\n\nKapitän von \"Die krassen' {{BLANK}}\"",
    "round": "three",
-   "round3Header": "Sports",
+   "round3Header": "Sport",
    "x": false
   },
   {
    "id": "76397",
    "isValid": "",
-   "question": "Won {{BLANK}} Contest\n\nNickname: \"The {{BLANK}}\"",
+   "question": "Den {{BLANK}} Wettbewerb gewonnen\n\nSpitzname: \"Der {{BLANK}}\"",
    "round": "three",
-   "round3Header": "Fun Facts",
+   "round3Header": "Lustige Fakten",
    "x": false
   },
   {
    "id": "76548",
    "isValid": "",
-   "question": "Fluent in {{BLANK}}\n\nStudied at Academy of {{BLANK}}",
+   "question": "Fließend in {{BLANK}}\n\nStudiert an der Akademie der {{BLANK}}",
    "round": "three",
-   "round3Header": "Special Skills",
+   "round3Header": "Besondere Fähigkeiten",
    "x": false
   },
   {
    "id": "76549",
    "isValid": "",
-   "question": "Honorary Degree in {{BLANK}}\n\nResidency at the {{BLANK}} Institute",
+   "question": "Ehrendoktor in {{BLANK}}\n\nAufenthalt am {{BLANK}} Institut",
    "round": "three",
-   "round3Header": "Special Honors",
+   "round3Header": "Besondere Ehrungen",
    "x": false
   },
   {
    "id": "76551",
    "isValid": "",
-   "question": "Certified {{BLANK}} \n\nWith an Emphasis on {{BLANK}}",
+   "question": "Zertifizierter {{BLANK}} \n\nMit Fokus auf {{BLANK}}",
    "round": "three",
-   "round3Header": "Certifications",
+   "round3Header": "Zertifizierungen",
    "x": false
   },
   {
    "id": "76553",
    "isValid": "",
-   "question": "Founded the {{BLANK}} Foundation for {{BLANK}}",
+   "question": "Gründete die {{BLANK}} Stiftung für {{BLANK}}",
    "round": "three",
-   "round3Header": "Charity",
+   "round3Header": "Wohltätigkeit",
    "x": false
   },
   {
    "id": "76554",
    "isValid": "",
-   "question": "Interned at the Law Offices of {{BLANK}} & {{BLANK}}",
+   "question": "Praktikant in der Anwaltskanzlei {{BLANK}} & {{BLANK}}",
    "round": "three",
-   "round3Header": "Legal Experience",
+   "round3Header": "Rechtliche Erfahrungen",
    "x": false
   },
   {
    "id": "76558",
    "isValid": "",
-   "question": "Verified on {{BLANK}}.com\n\nWent viral after {{BLANK}}",
+   "question": "Verifiziert auf {{BLANK}}.de\n\nBerühmt geworden durch {{BLANK}}",
    "round": "three",
    "round3Header": "Social Media",
    "x": false
@@ -3539,207 +3539,207 @@
   {
    "id": "76559",
    "isValid": "",
-   "question": "Please call:\nProfessor {{BLANK}}\n\nPlease DON'T call:\n{{BLANK}} Johnson",
+   "question": "Bitte anrufen:\nProfessor {{BLANK}}\n\nBitte NICHT anrufen:\n{{BLANK}} Müller",
    "round": "three",
-   "round3Header": "References",
+   "round3Header": "Referenzes",
    "x": false
   },
   {
    "id": "76562",
    "isValid": "",
-   "question": "Studied at Le {{BLANK}}\n\nInvented \"Chicken & {{BLANK}}\"",
+   "question": "Studium bei Le {{BLANK}}\n\nHabe \"Hühnchen & {{BLANK}}\" erfunden",
    "round": "three",
-   "round3Header": "Culinary Experience",
+   "round3Header": "Kulinarische Erfahrungen",
    "x": false
   },
   {
    "id": "76563",
    "isValid": "",
-   "question": "Elected Mayor of {{BLANK}}\n\nRecalled due to {{BLANK}}",
+   "question": "Gewählter Bürgermeister von {{BLANK}}\n\nZurückgewiesen wegen {{BLANK}}",
    "round": "three",
-   "round3Header": "Civic Service",
+   "round3Header": "Zivildienst",
    "x": false
   },
   {
    "id": "76564",
    "isValid": "",
-   "question": "Awarded the {{BLANK}} Medal for Excellence in {{BLANK}}",
+   "question": "Erhalt der {{BLANK}} Medaille für Exzellenz in {{BLANK}}",
    "round": "three",
-   "round3Header": "Meritorious Conduct",
+   "round3Header": "Ehrenhaftes Verhalten",
    "x": false
   },
   {
    "id": "76565",
    "isValid": "",
-   "question": "123 {{BLANK}} Street\n\n{{BLANK}} Town, USA",
+   "question": "{{BLANK}} Straße 56\n\n{{BLANK}} Dorf, Deutschland",
    "round": "three",
-   "round3Header": "Mailing Address",
+   "round3Header": "Postanschrift",
    "x": false
   },
   {
    "id": "76566",
    "isValid": "",
-   "question": "Manager on \"Project {{BLANK}}\"\n\nConsistently delivered {{BLANK}}",
+   "question": "Manager beim \"Projekt {{BLANK}}\"\n\nKonsequent {{BLANK}} geliefert",
    "round": "three",
-   "round3Header": "Leadership",
+   "round3Header": "Führungskraft",
    "x": false
   },
   {
    "id": "76567",
    "isValid": "",
-   "question": "{{BLANK}}-oriented\n\nLover of {{BLANK}}",
+   "question": "{{BLANK}}-orientiert\n\nFan von {{BLANK}}",
    "round": "three",
-   "round3Header": "Personal Background",
+   "round3Header": "Persönlicher Hintergrund",
    "x": false
   },
   {
    "id": "76568",
    "isValid": "",
-   "question": "{{BLANK}} Analyst\n\nLiterally wrote the book on {{BLANK}}",
+   "question": "{{BLANK}} Analytiker\n\nHabe ein Buch geschrieben zu {{BLANK}}",
    "round": "three",
-   "round3Header": "Research",
+   "round3Header": "Nachforschung",
    "x": false
   },
   {
    "id": "76569",
    "isValid": "",
-   "question": "Volunteer at \n\"Big {{BLANK}}, Little {{BLANK}}\"",
+   "question": "Freiwilliger bei \n\"Groß {{BLANK}}, Klein {{BLANK}}\"",
    "round": "three",
-   "round3Header": "Volunteer Work",
+   "round3Header": "Ehrenamtliche Arbeit",
    "x": false
   },
   {
    "id": "76570",
    "isValid": "",
-   "question": "Taught {{BLANK}} how to {{BLANK}}",
+   "question": "Unterrichtete {{BLANK}} wie man {{BLANK}}",
    "round": "three",
-   "round3Header": "Teaching Experience",
+   "round3Header": "Lehr-Erfahrung",
    "x": false
   },
   {
    "id": "76571",
    "isValid": "",
-   "question": "Increased {{BLANK}} by 15%\n\nSignificantly reduced {{BLANK}}",
+   "question": "Erhöhte {{BLANK}} um 15%\n\nBedeutend {{BLANK}} gesenkt",
    "round": "three",
-   "round3Header": "Performance",
+   "round3Header": "Leistung",
    "x": false
   },
   {
    "id": "76572",
    "isValid": "",
-   "question": "Organized office \"{{BLANK}} Contest\"\n\nStarted \"{{BLANK}} Fridays\"",
+   "question": "Organisation des \"{{BLANK}} Wettbewerbs\"\n\nBegann die \"{{BLANK}} Freitage\"",
    "round": "three",
-   "round3Header": "Morale Building",
+   "round3Header": "Moralaufbau",
    "x": false
   },
   {
    "id": "76578",
    "isValid": "",
-   "question": "Delivered Keynote Speech:\n\"How To {{BLANK}} a {{BLANK}}\"",
+   "question": "Keynote Präsentation:\n\"Wie man {{BLANK}} immer {{BLANK}}\"",
    "round": "three",
-   "round3Header": "Conferences",
+   "round3Header": "Konferenzen",
    "x": false
   },
   {
    "id": "76605",
    "isValid": "",
-   "question": "Preferred to be paid in {{BLANK}}\n\nMust be near {{BLANK}}",
+   "question": "Bevorzuge Bezahlung in {{BLANK}}\n\nMuss Nähe {{BLANK}} sein",
    "round": "three",
-   "round3Header": "Additional Demands",
+   "round3Header": "Zusätzliche Anforderungen",
    "x": false
   },
   {
    "id": "76636",
    "isValid": "",
-   "question": "Frequent Guest on podcast \"{{BLANK}} about {{BLANK}}\"",
+   "question": "Häufig zu Gast im Podcast \"{{BLANK}} über {{BLANK}}\"",
    "round": "three",
-   "round3Header": "Media Training",
+   "round3Header": "Medienkompetenz",
    "x": false
   },
   {
    "id": "76653",
    "isValid": "",
-   "question": "Named \"Best {{BLANK}}\" by {{BLANK}} Magazine",
+   "question": "Ausgezeichnet als \"Bester {{BLANK}}\" vom {{BLANK}} Magazin",
    "round": "three",
-   "round3Header": "Accolades",
+   "round3Header": "Auszeichnungen",
    "x": false
   },
   {
    "id": "78109",
    "isValid": "",
-   "question": "{{BLANK}} Certified by the American {{BLANK}} Society",
+   "question": "{{BLANK}} zertifiziert von der Deutschen {{BLANK}} Gesellschaft",
    "round": "three",
-   "round3Header": "Special Skills",
+   "round3Header": "Spezielle Fähigkeiten",
    "x": false
   },
   {
    "id": "78299",
    "isValid": "",
-   "question": "Awarded Medal of {{BLANK}} for Heroic {{BLANK}}",
+   "question": "Erhalt der {{BLANK}} Medaille für heldenhaftes {{BLANK}}",
    "round": "three",
-   "round3Header": "Honors",
+   "round3Header": "Ehrungen",
    "x": false
   },
   {
    "id": "78300",
    "isValid": "",
-   "question": "Speaks fluent {{BLANK}} \n\nAnd conversational {{BLANK}}",
+   "question": "Spricht fließend {{BLANK}} \n\nUnd {{BLANK}} Grundkenntnisse",
    "round": "three",
-   "round3Header": "Special Skills",
+   "round3Header": "Besondere Fähigkeiten",
    "x": false
   },
   {
    "id": "78425",
    "isValid": "",
-   "question": "{{BLANK}} in the morning\n\n{{BLANK}} at night",
+   "question": "{{BLANK}} am Morgen\n\n{{BLANK}} bei Nacht",
    "round": "three",
-   "round3Header": "Personal Motto",
+   "round3Header": "Persönliches Motto",
    "x": false
   },
   {
    "id": "78534",
    "isValid": "",
-   "question": "Waited tables at gastropub \"{{BLANK}} & {{BLANK}}\"",
+   "question": "Arbeit als Kellner bei \"{{BLANK}} & {{BLANK}}\"",
    "round": "three",
-   "round3Header": "Work Experience",
+   "round3Header": "Arbeitserfahrung",
    "x": false
   },
   {
    "id": "78550",
    "isValid": "",
-   "question": "Played the role of  \"{{BLANK}}\" in [i]{{BLANK}} the Musical![/i]",
+   "question": "Spielte eine Rolle als \"{{BLANK}}\" in [i]{{BLANK}} das Musical![/i]",
    "round": "three",
-   "round3Header": "Performing Arts",
+   "round3Header": "Darstellende Künste",
    "x": false
   },
   {
    "id": "78607",
    "isValid": "",
-   "question": "{{BLANK}} in the Streets\n\n{{BLANK}} in the Sheets",
+   "question": "{{BLANK}} auf der Straße\n\n{{BLANK}} nur im Maße",
    "round": "three",
-   "round3Header": "Personal Character",
+   "round3Header": "Persönlicher Charakter",
    "x": true
   },
   {
    "id": "78618",
    "isValid": "",
-   "question": "Sold the most {{BLANK}} for the {{BLANK}} Scouts",
+   "question": "Habe die meisten {{BLANK}} für die {{BLANK}} Pfadfinder verkauft",
    "round": "three",
-   "round3Header": "Volunteer Work",
+   "round3Header": "Freiwilligendienst",
    "x": false
   },
   {
    "id": "78624",
    "isValid": "",
-   "question": "Promoted to {{BLANK}}\n\nafter 3 years of {{BLANK}}",
+   "question": "Befördert zum {{BLANK}}\n\nnach 3 Jahren {{BLANK}}",
    "round": "three",
-   "round3Header": "Job History",
+   "round3Header": "Beruflicher Werdegang",
    "x": false
   },
   {
    "id": "78633",
    "isValid": "",
-   "question": "Licensed {{BLANK}} Pilot\n\nCollector of rare {{BLANK}}",
+   "question": "Lizenz zum {{BLANK}}\n\nSammler von seltenen {{BLANK}}",
    "round": "three",
    "round3Header": "Hobbies",
    "x": false
@@ -3747,39 +3747,39 @@
   {
    "id": "78638",
    "isValid": "",
-   "question": "Assistant to Professor {{BLANK}}\n\nAt the School of Fine {{BLANK}}",
+   "question": "Helfer von Professor {{BLANK}}\n\nAn der Schule für {{BLANK}}",
    "round": "three",
-   "round3Header": "Assistant Teacher",
+   "round3Header": "Hilfslehrer",
    "x": false
   },
   {
    "id": "78671",
    "isValid": "",
-   "question": "Head {{BLANK}} at the {{BLANK}}  School",
+   "question": "Haupt {{BLANK}} an der {{BLANK}} Schule",
    "round": "three",
-   "round3Header": "School Leadership",
+   "round3Header": "Schulisches Engagement",
    "x": false
   },
   {
    "id": "78672",
    "isValid": "",
-   "question": "Achieved Perfect {{BLANK}}\nVoted Best {{BLANK}}",
+   "question": "Perfekte Noten in {{BLANK}}\nGewählter bester {{BLANK}}",
    "round": "three",
-   "round3Header": "School Honors",
+   "round3Header": "Ehrenschüler",
    "x": false
   },
   {
    "id": "78673",
    "isValid": "",
-   "question": "Trained wild {{BLANK}} to {{BLANK}}",
+   "question": "Wilde {{BLANK}} trainiert zu {{BLANK}}",
    "round": "three",
-   "round3Header": "Wildlife Experience",
+   "round3Header": "Erfahrungen in der Natur",
    "x": false
   },
   {
    "id": "78674",
    "isValid": "",
-   "question": "Invented {{BLANK}}\nto Stop {{BLANK}}",
+   "question": "Erfinder von {{BLANK}}\num {{BLANK}} aufzuhalten",
    "round": "three",
    "round3Header": "Innovation",
    "x": false
@@ -3787,23 +3787,23 @@
   {
    "id": "78675",
    "isValid": "",
-   "question": "{{BLANK}}-Savvy\nWith a strong eye for {{BLANK}}",
+   "question": "{{BLANK}}-Kenner\nMit einem Auge für {{BLANK}}",
    "round": "three",
-   "round3Header": "Artistry",
+   "round3Header": "Kunst",
    "x": false
   },
   {
    "id": "78715",
    "isValid": "",
-   "question": "Graduated {{BLANK}} Cum Laude\n\nMaster's in {{BLANK}}-ology",
+   "question": "Abschluss als {{BLANK}} Doktor\n\nMaster in der {{BLANK}}-ologie",
    "round": "three",
-   "round3Header": "Academic Excellence",
+   "round3Header": "Akademische Spitzenleistung",
    "x": false
   },
   {
    "id": "78839",
    "isValid": "",
-   "question": "Coined the phrase \"Well, {{BLANK}} my {{BLANK}}!\"",
+   "question": "Hat den Satz geprägt \"Nunja, {{BLANK}} mein {{BLANK}}!\"",
    "round": "three",
    "round3Header": "Fun Facts",
    "x": false
@@ -3811,9 +3811,9 @@
   {
    "id": "78949",
    "isValid": "",
-   "question": "Coached a ragtag bunch of {{BLANK}}\n\nWon the {{BLANK}} championship",
+   "question": "Hat einen Haufen {{BLANK}} gecoached\n\nGewann die {{BLANK}} Meisterschaft",
    "round": "three",
-   "round3Header": "Mentorship",
+   "round3Header": "Mentorschaft",
    "x": false
   }
  ]
