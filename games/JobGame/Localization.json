@@ -86,10 +86,10 @@
         "GLOBAL_ROOM_CODE_AUDIENCE_LABEL": "Publikum",
         "GLOBAL_ROOM_CODE_REMINDER_LABEL": "jack<br/>box<br/>.tv",
         
-        "WRITING_INSTRUCTION_TEXT": "Gib deine Antwort ein. Bitte schreibe %d+ Wörter.",
+        "WRITING_INSTRUCTION_TEXT": "Gib deine Antwort ein. Bitte schreibe 5+ Wörter.",
         "WRITING_PLACEHOLDER_TEXT": "hier schreiben",
         "WRITING_DONE_TEXT": "Danke für's Eisbrechen!",
-        "WRITING_ERROR_TEXT": "Antworten müssen mindestens %s Wörter beinhalten",
+        "WRITING_ERROR_TEXT": "Antworten müssen mindestens aus fünf Wörtern bestehen",
         
         "CREATING_DONE_TEXT": "Danke! Wir haben deine Bewerbung erhalten.",
         "CREATING_PLACEHOLDER_TEXT": "HIER ANTWORTEN",
