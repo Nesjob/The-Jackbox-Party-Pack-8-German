@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Den Kollegen ist aufgefallen, dass du während der Arbeitszeit das Social Media Profil vom neuen Freund deiner Ex durchscrollst. Was ist deine Erklärung?"
+  },
+  {
+   "t": "S",
+   "v": "Den Kollegen ist aufgefallen, dass du während der Arbeitszeit das Social Media Profil vom neuen Freund deiner Ex durchscrollst. Was ist deine Erklärung?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

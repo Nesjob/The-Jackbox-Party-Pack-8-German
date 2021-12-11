@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Du hast alle deine Aufgaben erledigt, aber es ist erst 14:30 Uhr. Wie verbringst du die übrige Zeit?"
+  },
+  {
+   "t": "S",
+   "v": "Du hast alle deine Aufgaben erledigt, aber es ist erst 14:30 Uhr. Wie verbringst du die übrige Zeit?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Increased {{BLANK}} by 15%\n\nSignificantly reduced {{BLANK}}"
+  },
+  {
+   "t": "S",
+   "v": "Increased {{BLANK}} by 15%\n\nSignificantly reduced {{BLANK}}",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Performance"
+  },
+  {
+   "t": "S",
+   "v": "Performance",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

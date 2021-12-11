@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Kannst du Geheimnisse für dich behalten? Wir sammeln viele sehr vertrauliche Infos. Wie würde man dich dazu bringen, doch etwas auszuplaudern?"
+  },
+  {
+   "t": "S",
+   "v": "Kannst du Geheimnisse für dich behalten? Wir sammeln viele sehr vertrauliche Infos. Wie würde man dich dazu bringen, doch etwas auszuplaudern?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

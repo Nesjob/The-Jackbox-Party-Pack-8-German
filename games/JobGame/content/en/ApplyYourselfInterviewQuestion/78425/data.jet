@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "{{BLANK}} in the morning\n\n{{BLANK}} at night"
+  },
+  {
+   "t": "S",
+   "v": "{{BLANK}} in the morning\n\n{{BLANK}} at night",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Personal Motto"
+  },
+  {
+   "t": "S",
+   "v": "Personal Motto",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Honorary Degree in {{BLANK}}\n\nResidency at the {{BLANK}} Institute"
+  },
+  {
+   "t": "S",
+   "v": "Honorary Degree in {{BLANK}}\n\nResidency at the {{BLANK}} Institute",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Special Honors"
+  },
+  {
+   "t": "S",
+   "v": "Special Honors",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

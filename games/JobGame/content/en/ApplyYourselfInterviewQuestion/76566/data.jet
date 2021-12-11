@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Manager on \"Project {{BLANK}}\"\n\nConsistently delivered {{BLANK}}"
+  },
+  {
+   "t": "S",
+   "v": "Manager on \"Project {{BLANK}}\"\n\nConsistently delivered {{BLANK}}",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Leadership"
+  },
+  {
+   "t": "S",
+   "v": "Leadership",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Julias gigantische Plüschtiersammlung breitet sich langsam auf deinen Schreibtisch aus. Was sagst du dazu?"
+  },
+  {
+   "t": "S",
+   "v": "Julias gigantische Plüschtiersammlung breitet sich langsam auf deinen Schreibtisch aus. Was sagst du dazu?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

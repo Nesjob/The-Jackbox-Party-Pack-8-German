@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Promoted to {{BLANK}}\n\nafter 3 years of {{BLANK}}"
+  },
+  {
+   "t": "S",
+   "v": "Promoted to {{BLANK}}\n\nafter 3 years of {{BLANK}}",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Job History"
+  },
+  {
+   "t": "S",
+   "v": "Job History",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

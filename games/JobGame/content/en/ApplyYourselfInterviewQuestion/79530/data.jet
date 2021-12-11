@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Du musst zurück ins Büro, hast aber deine Schlüssel vergessen. Wie kannst du dich am Sicherheitssystem vorbeischleichen?"
+  },
+  {
+   "t": "S",
+   "v": "Du musst zurück ins Büro, hast aber deine Schlüssel vergessen. Wie kannst du dich am Sicherheitssystem vorbeischleichen?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

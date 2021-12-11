@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Julia fragt in die Runde, ob später noch jemand mit ihr \"abhängen\" möchte nach der Arbeit. Was antwortest du ihr?"
+  },
+  {
+   "t": "S",
+   "v": "Julia fragt in die Runde, ob später noch jemand mit ihr \"abhängen\" möchte nach der Arbeit. Was antwortest du ihr?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

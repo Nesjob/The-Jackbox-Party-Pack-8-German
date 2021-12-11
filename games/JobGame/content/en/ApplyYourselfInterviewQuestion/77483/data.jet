@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Die Server im Büro sind down. Wie kannst du deine Kollegen davon überzeugen, dass du genau weißt, wie man das wieder repariert?"
+  },
+  {
+   "t": "S",
+   "v": "Die Server im Büro sind down. Wie kannst du deine Kollegen davon überzeugen, dass du genau weißt, wie man das wieder repariert?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Eine Brainstorm-Runde weicht immer mehr vom eigentlichen Thema ab. Wie lenkst du den Fokus wieder auf die Realität?"
+  },
+  {
+   "t": "S",
+   "v": "Eine Brainstorm-Runde weicht immer mehr vom eigentlichen Thema ab. Wie lenkst du den Fokus wieder auf die Realität?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

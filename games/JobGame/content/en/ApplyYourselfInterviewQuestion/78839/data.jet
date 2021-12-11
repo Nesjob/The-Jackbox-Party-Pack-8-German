@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Coined the phrase \"Well, {{BLANK}} my {{BLANK}}!\""
+  },
+  {
+   "t": "S",
+   "v": "Coined the phrase \"Well, {{BLANK}} my {{BLANK}}!\"",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Fun Facts"
+  },
+  {
+   "t": "S",
+   "v": "Fun Facts",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

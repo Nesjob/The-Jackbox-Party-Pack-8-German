@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Trained wild {{BLANK}} to {{BLANK}}"
+  },
+  {
+   "t": "S",
+   "v": "Trained wild {{BLANK}} to {{BLANK}}",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Wildlife Experience"
+  },
+  {
+   "t": "S",
+   "v": "Wildlife Experience",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Graduated {{BLANK}} Cum Laude\n\nMaster's in {{BLANK}}-ology"
+  },
+  {
+   "t": "S",
+   "v": "Graduated {{BLANK}} Cum Laude\n\nMaster's in {{BLANK}}-ology",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Academic Excellence"
+  },
+  {
+   "t": "S",
+   "v": "Academic Excellence",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

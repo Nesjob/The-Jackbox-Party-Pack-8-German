@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Der Boden im Büro ist frisch gewischt, deine Schuhe sind dreckig, aber du brauchst eine wichtige Akte von deinem Schreibtisch. Wie gehst du vor?"
+  },
+  {
+   "t": "S",
+   "v": "Der Boden im Büro ist frisch gewischt, deine Schuhe sind dreckig, aber du brauchst eine wichtige Akte von deinem Schreibtisch. Wie gehst du vor?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

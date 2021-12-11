@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Die neue Kollegin macht einen coolen Eindruck. Was kannst du machen, damit sie sich direkt gut aufgenommen fühlt?"
+  },
+  {
+   "t": "S",
+   "v": "Die neue Kollegin macht einen coolen Eindruck. Was kannst du machen, damit sie sich direkt gut aufgenommen fühlt?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

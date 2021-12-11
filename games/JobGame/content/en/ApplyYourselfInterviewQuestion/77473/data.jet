@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Katrin hat sehr gute Arbeit bei den Vorbereitungen für die Weihnachtsfeier geleistet. Wie drückst du deinen Dank aus?"
+  },
+  {
+   "t": "S",
+   "v": "Katrin hat sehr gute Arbeit bei den Vorbereitungen für die Weihnachtsfeier geleistet. Wie drückst du deinen Dank aus?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

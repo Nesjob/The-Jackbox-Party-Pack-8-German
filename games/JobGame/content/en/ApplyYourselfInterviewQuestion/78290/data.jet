@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Dein Chef hat angeordnet, dass alle Firmenrechner zur Inspektion an die IT geschickt werden müssen. Was würde man in deinem Browser-Suchverlauf finden?"
+  },
+  {
+   "t": "S",
+   "v": "Dein Chef hat angeordnet, dass alle Firmenrechner zur Inspektion an die IT geschickt werden müssen. Was würde man in deinem Browser-Suchverlauf finden?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

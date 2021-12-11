@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Du arbeitest bis spät in die Nacht mit einem gesprächigen Hausmeister. Wie versuchst du zu verstecken, dass du nicht mal seinen Namen kennst?"
+  },
+  {
+   "t": "S",
+   "v": "Du arbeitest bis spät in die Nacht mit einem gesprächigen Hausmeister. Wie versuchst du zu verstecken, dass du nicht mal seinen Namen kennst?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

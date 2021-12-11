@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Dein Vorgesetzter gibt dir über's Wochenende den Firmenwagen und du baust einen Unfall mit Totalschaden. Was machst du?"
+  },
+  {
+   "t": "S",
+   "v": "Dein Vorgesetzter gibt dir über's Wochenende den Firmenwagen und du baust einen Unfall mit Totalschaden. Was machst du?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

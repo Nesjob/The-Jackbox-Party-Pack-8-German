@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Um die Gesundheit der Mitarbeiter zu steigern, wurden alle Stühle durch Gymnastikbälle ersetzt. Was sagst du dazu?"
+  },
+  {
+   "t": "S",
+   "v": "Um die Gesundheit der Mitarbeiter zu steigern, wurden alle Stühle durch Gymnastikbälle ersetzt. Was sagst du dazu?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

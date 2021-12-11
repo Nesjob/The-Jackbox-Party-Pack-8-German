@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Named \"Best {{BLANK}}\" by {{BLANK}} Magazine"
+  },
+  {
+   "t": "S",
+   "v": "Named \"Best {{BLANK}}\" by {{BLANK}} Magazine",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Accolades"
+  },
+  {
+   "t": "S",
+   "v": "Accolades",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

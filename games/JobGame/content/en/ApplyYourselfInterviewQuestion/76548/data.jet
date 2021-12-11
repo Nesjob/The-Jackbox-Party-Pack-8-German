@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Fluent in {{BLANK}}\n\nStudied at Academy of {{BLANK}}"
+  },
+  {
+   "t": "S",
+   "v": "Fluent in {{BLANK}}\n\nStudied at Academy of {{BLANK}}",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Special Skills"
+  },
+  {
+   "t": "S",
+   "v": "Special Skills",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

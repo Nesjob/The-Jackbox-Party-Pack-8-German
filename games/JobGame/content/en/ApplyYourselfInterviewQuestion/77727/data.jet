@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Der gruselige Computer-Typ hat sein Geschirr in der Spüle gelassen. Wie konfrontierst du ihn damit, ohne ihn wütend zu machen?"
+  },
+  {
+   "t": "S",
+   "v": "Der gruselige Computer-Typ hat sein Geschirr in der Spüle gelassen. Wie konfrontierst du ihn damit, ohne ihn wütend zu machen?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

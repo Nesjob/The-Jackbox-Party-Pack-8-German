@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Angela verlangt von dir, dass du ihre Freundschaftsanfrage auf Social Media annimmst. Wie reagierst du?"
+  },
+  {
+   "t": "S",
+   "v": "Angela verlangt von dir, dass du ihre Freundschaftsanfrage auf Social Media annimmst. Wie reagierst du?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

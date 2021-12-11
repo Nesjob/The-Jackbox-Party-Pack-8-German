@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Du willst den Tacker in die Hand nehmen und streifst dabei versehentlich die Hand eines Kollegen. Was machst du jetzt?"
+  },
+  {
+   "t": "S",
+   "v": "Du willst den Tacker in die Hand nehmen und streifst dabei versehentlich die Hand eines Kollegen. Was machst du jetzt?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

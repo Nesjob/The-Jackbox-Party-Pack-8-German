@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "{{BLANK}} Certified by the American {{BLANK}} Society"
+  },
+  {
+   "t": "S",
+   "v": "{{BLANK}} Certified by the American {{BLANK}} Society",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Special Skills"
+  },
+  {
+   "t": "S",
+   "v": "Special Skills",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

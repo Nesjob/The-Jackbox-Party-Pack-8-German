@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Du hast versehentlich Limo aus dem Kühlschrank getrunken wo draufstand “Finger weg.” Was machst du jetzt?"
+  },
+  {
+   "t": "S",
+   "v": "Du hast versehentlich Limo aus dem Kühlschrank getrunken wo draufstand “Finger weg.” Was machst du jetzt?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

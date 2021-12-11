@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Wir wurden von einem schnell sprechenden Verkäufer abgezogen... schon wieder. Was sollen wir mit all den Bananen und dem Sekundenkleber machen, den wir gekauft haben?"
+  },
+  {
+   "t": "S",
+   "v": "Wir wurden von einem schnell sprechenden Verkäufer abgezogen... schon wieder. Was sollen wir mit all den Bananen und dem Sekundenkleber machen, den wir gekauft haben?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

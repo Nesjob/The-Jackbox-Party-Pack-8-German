@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Head {{BLANK}} at the {{BLANK}}  School"
+  },
+  {
+   "t": "S",
+   "v": "Head {{BLANK}} at the {{BLANK}}  School",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "School Leadership"
+  },
+  {
+   "t": "S",
+   "v": "School Leadership",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

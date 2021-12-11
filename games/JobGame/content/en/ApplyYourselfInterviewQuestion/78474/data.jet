@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Das Team-Buliding Seminar findet am Wochenende statt. Welche Ausrede kannst du nutzen, um nicht hingehen zu müssen?"
+  },
+  {
+   "t": "S",
+   "v": "Das Team-Buliding Seminar findet am Wochenende statt. Welche Ausrede kannst du nutzen, um nicht hingehen zu müssen?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

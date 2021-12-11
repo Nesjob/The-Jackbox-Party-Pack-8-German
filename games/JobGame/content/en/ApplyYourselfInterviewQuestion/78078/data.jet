@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Melina möchte nach der Arbeit noch mit dir abhängen. Welche Ausrede benutzt du, damit du das vermeiden kannst?"
+  },
+  {
+   "t": "S",
+   "v": "Melina möchte nach der Arbeit noch mit dir abhängen. Welche Ausrede benutzt du, damit du das vermeiden kannst?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

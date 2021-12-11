@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "{{BLANK}} in the Streets\n\n{{BLANK}} in the Sheets"
+  },
+  {
+   "t": "S",
+   "v": "{{BLANK}} in the Streets\n\n{{BLANK}} in the Sheets",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Personal Character"
+  },
+  {
+   "t": "S",
+   "v": "Personal Character",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

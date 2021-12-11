@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Frank war seit einem Monat nicht mehr im Büro und niemand hat ihn gesehen oder von ihm gehört. Was machst du?"
+  },
+  {
+   "t": "S",
+   "v": "Frank war seit einem Monat nicht mehr im Büro und niemand hat ihn gesehen oder von ihm gehört. Was machst du?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

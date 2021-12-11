@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Nur rein hypothetisch... Was würdest du einem Polizei-Einsatzkommando sagen, das im Büro unsere Arbeitsweise unter die Lupe nimmt?"
+  },
+  {
+   "t": "S",
+   "v": "Nur rein hypothetisch... Was würdest du einem Polizei-Einsatzkommando sagen, das im Büro unsere Arbeitsweise unter die Lupe nimmt?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

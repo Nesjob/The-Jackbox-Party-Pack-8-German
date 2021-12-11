@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "123 {{BLANK}} Street\n\n{{BLANK}} Town, USA"
+  },
+  {
+   "t": "S",
+   "v": "123 {{BLANK}} Street\n\n{{BLANK}} Town, USA",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Mailing Address"
+  },
+  {
+   "t": "S",
+   "v": "Mailing Address",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

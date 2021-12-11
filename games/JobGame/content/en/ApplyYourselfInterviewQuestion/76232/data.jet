@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Du bist bei der regelmäßigen Billard-Runde im Büro und siehst deinen Vorgesetzten. Wie reagierst du?"
+  },
+  {
+   "t": "S",
+   "v": "Du bist bei der regelmäßigen Billard-Runde im Büro und siehst deinen Vorgesetzten. Wie reagierst du?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Einer deiner Kollegen, Julia, ist super cool. Wie bringst du sie dazu, mit dir befreundet sein zu wollen?"
+  },
+  {
+   "t": "S",
+   "v": "Einer deiner Kollegen, Julia, ist super cool. Wie bringst du sie dazu, mit dir befreundet sein zu wollen?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Du hängst im Aufzug fest mit dem Kollegen, der immer deine Stifte klaut. Wie stellst du ihn zur Rede?"
+  },
+  {
+   "t": "S",
+   "v": "Du hängst im Aufzug fest mit dem Kollegen, der immer deine Stifte klaut. Wie stellst du ihn zur Rede?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Played the role of  \"{{BLANK}}\" in [i]{{BLANK}} the Musical![/i]"
+  },
+  {
+   "t": "S",
+   "v": "Played the role of  \"{{BLANK}}\" in [i]{{BLANK}} the Musical![/i]",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Performing Arts"
+  },
+  {
+   "t": "S",
+   "v": "Performing Arts",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Das Kind deines Vorgesetzten möchte unbedingt wissen, was passiert, wenn man stirbt. Was sagst du dem Kind?"
+  },
+  {
+   "t": "S",
+   "v": "Das Kind deines Vorgesetzten möchte unbedingt wissen, was passiert, wenn man stirbt. Was sagst du dem Kind?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

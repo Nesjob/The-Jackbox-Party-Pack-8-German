@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Wir wollen dich jetzt nicht beschuldigen... aber was hast du letzten Dienstag um 19 Uhr gemacht?"
+  },
+  {
+   "t": "S",
+   "v": "Wir wollen dich jetzt nicht beschuldigen... aber was hast du letzten Dienstag um 19 Uhr gemacht?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

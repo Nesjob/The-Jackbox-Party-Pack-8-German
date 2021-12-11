@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Achieved Perfect {{BLANK}}\nVoted Best {{BLANK}}"
+  },
+  {
+   "t": "S",
+   "v": "Achieved Perfect {{BLANK}}\nVoted Best {{BLANK}}",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "School Honors"
+  },
+  {
+   "t": "S",
+   "v": "School Honors",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

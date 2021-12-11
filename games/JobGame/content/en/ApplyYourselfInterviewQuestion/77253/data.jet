@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Michi, der Witzbold im Büro, hat eine Ente ins Gebäude gelassen. Was machst du, wenn du ihr begegnest?"
+  },
+  {
+   "t": "S",
+   "v": "Michi, der Witzbold im Büro, hat eine Ente ins Gebäude gelassen. Was machst du, wenn du ihr begegnest?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

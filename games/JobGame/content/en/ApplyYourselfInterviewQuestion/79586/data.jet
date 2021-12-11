@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Jemand hat die ganzen leckeren Snacks im Büro durch gesundes Essen ersetzt. Wie reagierst du darauf?"
+  },
+  {
+   "t": "S",
+   "v": "Jemand hat die ganzen leckeren Snacks im Büro durch gesundes Essen ersetzt. Wie reagierst du darauf?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

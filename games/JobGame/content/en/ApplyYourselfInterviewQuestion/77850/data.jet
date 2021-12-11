@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Alle reden über die letzte Folge vom Bachelor gestern und du kennst die Serie nicht. Schnell, sag etwas zur Folge von gestern!"
+  },
+  {
+   "t": "S",
+   "v": "Alle reden über die letzte Folge vom Bachelor gestern und du kennst die Serie nicht. Schnell, sag etwas zur Folge von gestern!",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

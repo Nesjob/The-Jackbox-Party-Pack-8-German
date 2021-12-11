@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Nehmen wir mal an du hast deinen letzten Arbeitstag. Was würdest du deinen Kollegen im letzten Team-Meeting sagen?"
+  },
+  {
+   "t": "S",
+   "v": "Nehmen wir mal an du hast deinen letzten Arbeitstag. Was würdest du deinen Kollegen im letzten Team-Meeting sagen?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

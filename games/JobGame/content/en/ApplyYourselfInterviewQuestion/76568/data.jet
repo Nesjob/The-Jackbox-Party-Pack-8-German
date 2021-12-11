@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "{{BLANK}} Analyst\n\nLiterally wrote the book on {{BLANK}}"
+  },
+  {
+   "t": "S",
+   "v": "{{BLANK}} Analyst\n\nLiterally wrote the book on {{BLANK}}",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Research"
+  },
+  {
+   "t": "S",
+   "v": "Research",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

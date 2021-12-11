@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Ein Gorilla ist aus dem Zoo ausgebrochen und wütet bei uns im Büro. Was würdest du unternehmen?"
+  },
+  {
+   "t": "S",
+   "v": "Ein Gorilla ist aus dem Zoo ausgebrochen und wütet bei uns im Büro. Was würdest du unternehmen?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

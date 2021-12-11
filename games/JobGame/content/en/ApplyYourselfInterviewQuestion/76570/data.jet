@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Taught {{BLANK}} how to {{BLANK}}"
+  },
+  {
+   "t": "S",
+   "v": "Taught {{BLANK}} how to {{BLANK}}",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Teaching Experience"
+  },
+  {
+   "t": "S",
+   "v": "Teaching Experience",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Eine Bierlieferung, die eigentlich an eine Bar mit dem gleichen Namen sollte, trifft bei dir im Büro ein. Was antwortest du?"
+  },
+  {
+   "t": "S",
+   "v": "Eine Bierlieferung, die eigentlich an eine Bar mit dem gleichen Namen sollte, trifft bei dir im Büro ein. Was antwortest du?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

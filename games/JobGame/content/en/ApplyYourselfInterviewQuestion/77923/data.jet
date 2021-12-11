@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Einer deiner Kollegen wurde gekündigt und ist sehr traurig. Was sagst du ihm, um ihn aufzumuntern?"
+  },
+  {
+   "t": "S",
+   "v": "Einer deiner Kollegen wurde gekündigt und ist sehr traurig. Was sagst du ihm, um ihn aufzumuntern?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

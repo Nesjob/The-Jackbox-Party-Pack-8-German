@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Guest {{BLANK}} at The {{BLANK}} Conference"
+  },
+  {
+   "t": "S",
+   "v": "Guest {{BLANK}} at The {{BLANK}} Conference",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Conference Appearances"
+  },
+  {
+   "t": "S",
+   "v": "Conference Appearances",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

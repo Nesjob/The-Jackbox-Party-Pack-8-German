@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Der Karaoke-Abend im Büro findet statt! Anwesenheit und Singen ist Pflicht. Was wird dein Song sein?"
+  },
+  {
+   "t": "S",
+   "v": "Der Karaoke-Abend im Büro findet statt! Anwesenheit und Singen ist Pflicht. Was wird dein Song sein?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

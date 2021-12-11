@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Ein Mitarbeiter ignoriert dich immer, wenn er für alle im Büro Essen bestellt. Was würdest du ihm sagen?"
+  },
+  {
+   "t": "S",
+   "v": "Ein Mitarbeiter ignoriert dich immer, wenn er für alle im Büro Essen bestellt. Was würdest du ihm sagen?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

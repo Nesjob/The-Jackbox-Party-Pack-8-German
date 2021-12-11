@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Waited tables at gastropub \"{{BLANK}} & {{BLANK}}\""
+  },
+  {
+   "t": "S",
+   "v": "Waited tables at gastropub \"{{BLANK}} & {{BLANK}}\"",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Work Experience"
+  },
+  {
+   "t": "S",
+   "v": "Work Experience",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

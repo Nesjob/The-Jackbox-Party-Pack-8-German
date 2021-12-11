@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Please call:\nProfessor {{BLANK}}\n\nPlease DON'T call:\n{{BLANK}} Johnson"
+  },
+  {
+   "t": "S",
+   "v": "Please call:\nProfessor {{BLANK}}\n\nPlease DON'T call:\n{{BLANK}} Johnson",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "References"
+  },
+  {
+   "t": "S",
+   "v": "References",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

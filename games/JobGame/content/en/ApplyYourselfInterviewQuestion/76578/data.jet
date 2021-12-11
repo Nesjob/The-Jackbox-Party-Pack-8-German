@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Delivered Keynote Speech:\n\"How To {{BLANK}} a {{BLANK}}\""
+  },
+  {
+   "t": "S",
+   "v": "Delivered Keynote Speech:\n\"How To {{BLANK}} a {{BLANK}}\"",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Conferences"
+  },
+  {
+   "t": "S",
+   "v": "Conferences",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Elected Mayor of {{BLANK}}\n\nRecalled due to {{BLANK}}"
+  },
+  {
+   "t": "S",
+   "v": "Elected Mayor of {{BLANK}}\n\nRecalled due to {{BLANK}}",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Civic Service"
+  },
+  {
+   "t": "S",
+   "v": "Civic Service",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

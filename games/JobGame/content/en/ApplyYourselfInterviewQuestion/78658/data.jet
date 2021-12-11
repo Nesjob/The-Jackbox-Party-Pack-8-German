@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Die Mitarbeiterrichtlinien wurden abgeändert und verbieten jetzt gefärbte Haare und Tattoos. Du hast beides. Was machst du jetzt?"
+  },
+  {
+   "t": "S",
+   "v": "Die Mitarbeiterrichtlinien wurden abgeändert und verbieten jetzt gefärbte Haare und Tattoos. Du hast beides. Was machst du jetzt?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Wir haben zwei Personalleiter. Mama Personalleiter und Papa Personalleiter. Wer bekommt das Sorgerecht von dir?"
+  },
+  {
+   "t": "S",
+   "v": "Wir haben zwei Personalleiter. Mama Personalleiter und Papa Personalleiter. Wer bekommt das Sorgerecht von dir?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Louis' Geburtstagskarte landet auf deinem Schreibtisch. Welche Nachricht schreibst du ihm in die Karte?"
+  },
+  {
+   "t": "S",
+   "v": "Louis' Geburtstagskarte landet auf deinem Schreibtisch. Welche Nachricht schreibst du ihm in die Karte?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

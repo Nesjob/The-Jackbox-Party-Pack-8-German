@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Ein Reporter fragt dich auf dem Weg zur Arbeit, wie du dazu stehst, dass die Firma wegen Steuerhinterziehung und Betrug im Verdacht steht. Wie reagierst du?"
+  },
+  {
+   "t": "S",
+   "v": "Ein Reporter fragt dich auf dem Weg zur Arbeit, wie du dazu stehst, dass die Firma wegen Steuerhinterziehung und Betrug im Verdacht steht. Wie reagierst du?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

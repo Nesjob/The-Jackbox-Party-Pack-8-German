@@ -1179,7 +1179,7 @@
   {
    "id": "76389",
    "isValid": "",
-   "question": "Ein Mitarbeiter hat sein Haustier unter seinem Schreibtisch, trotz unserer \"Keine-Tiere\" Regelung. Was sagst du ihm?",
+   "question": "Ein Mitarbeiter hat sein Haustier unter seinem Schreibtisch, trotz unserer \"Keine-Tiere\" Regelung. Was sagst du zu ihm?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -1379,7 +1379,7 @@
   {
    "id": "76452",
    "isValid": "",
-   "question": "Nehmen wir an, dein Kollege verleumdet dich wegen eines Verbrechens. Wie überzeugt man die Behörden von der Wahrheit?",
+   "question": "Nehmen wir an, dein Kollege beschuldigt dich wegen eines Verbrechens. Wie überzeugt man die Behörden von der Wahrheit?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -1835,7 +1835,7 @@
   {
    "id": "77252",
    "isValid": "",
-   "question": "Der Smalltalk im Büro hat start nachgelassen. Welches Gerücht würdest du verbreiten?",
+   "question": "Der Smalltalk im Büro hat stark nachgelassen. Welches Gerücht würdest du verbreiten?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -1931,7 +1931,7 @@
   {
    "id": "77270",
    "isValid": "",
-   "question": "Wenn wir Fotos für die Dienstausweise machen, was würdest du machen, wenn du lustig gucken sollst?",
+   "question": "Wie belastbar bist du?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2131,7 +2131,7 @@
   {
    "id": "77485",
    "isValid": "",
-   "question": "Du stehst einen Tag vor der Rente! Welche Tipp gibst du all deinen Kollegen noch mit auf den Weg?",
+   "question": "Du stehst einen Tag vor der Rente! Welchen Tipp gibst du all deinen Kollegen noch mit auf den Weg?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -2819,7 +2819,7 @@
   {
    "id": "78553",
    "isValid": "",
-   "question": "Frank hat deinen coolen Drehstuhl geklaut. Schon wieder. Was sagst du ihm?",
+   "question": "Frank hat deinen coolen Drehstuhl geklaut. Schon wieder. Was sagst du zu ihm?",
    "round": "two",
    "round3Header": null,
    "x": false

@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Interned at the Law Offices of {{BLANK}} & {{BLANK}}"
+  },
+  {
+   "t": "S",
+   "v": "Interned at the Law Offices of {{BLANK}} & {{BLANK}}",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Legal Experience"
+  },
+  {
+   "t": "S",
+   "v": "Legal Experience",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "{{BLANK}}-oriented\n\nLover of {{BLANK}}"
+  },
+  {
+   "t": "S",
+   "v": "{{BLANK}}-oriented\n\nLover of {{BLANK}}",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Personal Background"
+  },
+  {
+   "t": "S",
+   "v": "Personal Background",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

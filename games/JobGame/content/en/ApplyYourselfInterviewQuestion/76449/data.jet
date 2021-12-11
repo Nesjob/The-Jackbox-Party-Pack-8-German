@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Wenn dein Klon hier ebenfalls arbeiten würde, wie würdest du allen beweisen, dass du das Original bist, und nicht dein Böses-Ich?"
+  },
+  {
+   "t": "S",
+   "v": "Wenn dein Klon hier ebenfalls arbeiten würde, wie würdest du allen beweisen, dass du das Original bist, und nicht dein Böses-Ich?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

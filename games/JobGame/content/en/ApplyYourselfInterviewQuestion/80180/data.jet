@@ -1,0 +1,35 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Du hast in deinem Lebenslauf gelogen, dass du Französisch kannst... und jetzt ist ein Kunde aus Frankreich da. Was machst du?"
+  },
+  {
+   "t": "S",
+   "v": "Du hast in deinem Lebenslauf gelogen, dass du Französisch kannst... und jetzt ist ein Kunde aus Frankreich da. Was machst du?",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio"
+  },
+  {
+   "t": "S",
+   "v": "",
+   "n": "Round3HeaderText"
+  }
+ ]
+}

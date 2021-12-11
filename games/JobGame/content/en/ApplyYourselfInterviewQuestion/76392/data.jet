@@ -1,0 +1,36 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "question",
+   "n": "QuestionAudio",
+   "s": "Member of the {{BLANK}} Society\n\nProfessional {{BLANK}}"
+  },
+  {
+   "t": "S",
+   "v": "Member of the {{BLANK}} Society\n\nProfessional {{BLANK}}",
+   "n": "QuestionText"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRound3HeaderAudio"
+  },
+  {
+   "t": "A",
+   "v": "round3Header",
+   "n": "Round3HeaderAudio",
+   "s": "Personal Accomplishments"
+  },
+  {
+   "t": "S",
+   "v": "Personal Accomplishments",
+   "n": "Round3HeaderText"
+  }
+ ]
+}
