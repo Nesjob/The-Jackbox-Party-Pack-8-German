@@ -609,7 +609,7 @@
    "tags": [
     "subjective"
    ],
-   "title": "{{PLAYER}} if...",
+   "title": "{{PLAYER}} als...",
    "x": false
   },
   {
@@ -1165,7 +1165,7 @@
    "tags": [
     "odd"
    ],
-   "title": "{{PLAYER}} if...",
+   "title": "{{PLAYER}} als...",
    "x": false
   },
   {
