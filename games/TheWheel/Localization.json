@@ -1,0 +1,294 @@
+{
+    "table":{
+    "en": {
+        "LANGUAGE_NAME": "English",
+        "LANGUAGE": "Language",
+        
+        "INTERNET_CONNECTED": "We've just found the internet.",
+        "INTERNET_DISCONNECTED": "We're sorry, we can't seem to connect to the Jackbox Games servers.<br />Please check that your internet connection is working properly.",
+        "ROOM_DESTROYED": "We're sorry, a network error occurred and your room was destroyed.<br />Please check that your internet connection is working properly.",
+        
+        "ROOM_EXIT_CAUSE_LOBBY_TIMEOUT": "We're sorry, a network error occurred and your room was destroyed.<br/>Please check that your internet connection is working properly. (Cause: 1)",
+        "ROOM_EXIT_CAUSE_JOIN_TIMEOUT": "We're sorry, a network error occurred and your room was destroyed.<br/>Please check that your internet connection is working properly. (Cause: 2)",
+        "ROOM_EXIT_CAUSE_GAME_TIMEOUT": "We're sorry, a network error occurred and your room was destroyed.<br/>Please check that your internet connection is working properly. (Cause: 3)",
+        "ROOM_EXIT_CAUSE_DISCONNECT": "We're sorry, a network error occurred and your room was destroyed.<br/>Please check that your internet connection is working properly. (Cause: 4)",
+        "ROOM_EXIT_CAUSE_BY_REQUEST": "We're sorry, a network error occurred and your room was destroyed.<br/>Please check that your internet connection is working properly. (Cause: 5)",
+        "ROOM_EXIT_CAUSE_SHUTTING_DOWN": "We're sorry, a network error occurred and your room was destroyed.<br/>Please check that your internet connection is working properly. (Cause: 6)",
+        
+        "SOCKET_DISCONNECTED ": "We're sorry, we've lost your connection to the Jackbox Games servers.",
+        "TIMEOUT": "We're sorry, we can't seem to connect to the Jackbox Games servers.<br />Please check that your internet connection is working properly.",
+        "USER_DISCONNECT": "We're sorry, the server has disconnected you. Please try again.",
+        "LOST_LICENSE": "We're sorry, we lost the license for this content!",
+        "STEAM_ERROR": "We're sorry, we couldn't validate your Steam license.",
+        "TWITCH_PRIME_ERROR": "We're sorry, we couldn't validate your Twitch Prime license.",
+        "LOST_DLC": "We're sorry, the license for your DLC could not be found. Returning you to the menu...",
+
+        "BACK": "Zurück",
+        "CLOSE": "Schließen",
+        "CANCEL": "Abbrechen",
+        "SELECT": "Bestätigen",
+        "OR": "Oder",
+        "ON": "An",
+        "OFF": "Aus",
+        "HIDE": "Verstecken",
+        "UNHIDE": "Zeigen",
+        "HIDDEN_ROOM_CODE": "?????",
+        "JOIN": "Beitreten!",
+        "PLAY": "SPIELEN",
+        "SETTINGS": "Optionen",
+        "BACK_TO_PACK": "Zurück",
+        "PLAY_DESCRIPTION": "Erstelle einen Raum & spiele",
+        "TMI_DESCRIPTION": "Spiele einen neuen Modus, in dem es nur um die Spieler geht",
+        "SETTINGS_DESCRIPTION": "Zensieren, Publikum & mehr",
+        "LEADERBOARD_DESCRIPTION": "",
+        "BACK_TO_PACK_DESCRIPTION": "Zurück zum Party Pack",
+        "SETTINGS_TITLE": "OPTIONEN",
+        "LEADERBOARD_TITLE": "RANGLISTE",
+        "CONNECTING": "Verbinde mit den Jackbox Games Services",
+        "CONNECTING_DELAY": "Das dauert etwas länger...<br />Bitte überprüfe deine Internetverbindung.",
+        "GO_TO": "Beitreten unter\n",
+        "ROOM_CODE":"Raum Code",
+        "JOIN_ON_YOUR_DEVICE": "auf deinem Gerät zum mitspielen",
+        "JOIN_THE_AUDIENCE": "Dem Publikum beitreten",
+        "ENTER_ROOM_CODE": "mit dem Raum Code",
+        "READ_ROOM_CODE": "Raum Code vorlesen",
+        "POST_GAME_CHOICE_TITLE": "NOCHMAL SPIELEN?",
+        "EVERYBODYS_IN": "Warte auf %s um das Spiel zu starten!",
+        "WAITING_FOR_MORE": "%s Spieler werden benötigt!",
+        "PRESS": "Drücke",
+        "TO_START": "zum starten",
+        "TO_CANCEL": "zum abbrechen",
+        "TO_START_GAME": "zum starten",
+        "TO_CANCEL_GAME": "zum abbrechen",
+        "JOIN_AUDIENCE": "Komm ins Publikum!",
+        "PLAY_AGAIN": "NOCHMAL?",
+        "SAME_PLAYERS": "GLEICHE SPIELER",
+        "LOBBY_OR": "ODER",
+        "NEW_PLAYERS": "NEUE SPIELER",
+        "LOBBY_HEADER_MESSAGE_PLAYERS_JOINED": "{CURRENT_PLAYERS}/{MAX_PLAYERS} Spieler beigetreten",
+        "LOBBY_STATUS_MESSAGE_WAITINGFORMORE": "{MIN_PLAYERS} Spieler werden benötigt",
+        "LOBBY_STATUS_MESSAGE_CANSTART": "Drücken wenn alle bereit sind",
+        "LOBBY_STATUS_MESSAGE_COUNTDOWN": "Spielstart abbrechen",
+        "LOBBY_STATUS_MESSAGE_WAITINGFORVIP": "Warte auf {VIP} um das Spiel zu starten!",
+        "LOBBY_STATUS_MESSAGE_WAITINGFORGAMEPAD": "Warte auf den Start vom Spiel!",
+
+        "LOBBY_SETTINGS": "Optionen",
+        "LOBBY_SETTINGS_ICON_MAX": "MAX",
+        "LOBBY_SETTINGS_ICON_MOD_PLURAL": "MODS",
+        "LOBBY_SETTINGS_ICON_MOD_SINGULAR": "MOD",
+        
+        "SKIP_PROMPT": "Möchtest du das Intro überspringen?",
+        "SKIP_CHOICE": "Überspringen!",
+        
+        "INTRO_1": "Du hast es bis zum heiligen Berggipfel geschafft...",
+        "INTRO_2": "Auf der Suche nach Antworten vom allwissenden Rad mit den enormen Proportionen",
+        "INTRO_3": "Du darfst dem Rad nun eine Frage stellen, die dir auf dem Herzen liegt",
+        "INTRO_4": "Möchtest du dieselbe Frage stellen, oder eine neue eingeben?",
+        "INTRO_5": "Der Gruppenleiter hat entschieden, dass jedem von euch eine wichtige Frage gewährt wird.",
+        "INTRO_6": "Solltest du das Spiel gewinnen, wird deine Frage beantwortet und dein Leben wird sich für immer verändern.",
+        
+        "TRIVIA_TYPE_TYPINGLIST_NAME": "Vergiss nicht zu schreiben",
+        "TRIVIA_TYPE_TYPINGLIST_SUBJECTIVE_NAME": "Mit runden Grüßen, das Rad",
+        "TRIVIA_TYPE_TAPPINGLIST_NAME": "ZEIG DAS HIER NICHT!",
+        "TRIVIA_TYPE_NUMBERTARGET_NAME": "Aufzählen",
+        "TRIVIA_TYPE_MATCHING_NAME" : "Gegenstücke",
+        "TRIVIA_TYPE_RAPIDFIRE_NAME" : "Dies oder Das",
+        "TRIVIA_TYPE_GUESSING_NAME" : "An was denke ich?!",
+        
+        "GUESSING_PROMPT": "Wovon denkst du, spricht das Rad?",
+        
+        "TRIVIA_TYPE_TAPPING_LIST_INSTRUCTIONS": "Tippe auf die Antworten, die zur Aufgabe passen",
+        "TRIVIA_TYPE_SUBJECTIVE_LIST_INSTRUCTIONS": "Errate so viele Antworten wie möglich, bevor die Zeit abläuft",
+        "TRIVIA_TYPE_TYPING_LIST_INSTRUCTIONS": "Gib so viele Antworten wie möglich ein, bevor die Zeit abläuft",
+        "TRIVIA_TYPE_NUMBER_TARGET_INSTRUCTIONS": "Gib eine Zahl ein, die der richtigen Antwort möglichst nahe kommt",
+        "TRIVIA_TYPE_RAPID_FIRE_INSTRUCTIONS": "Tippe möglichst viele richtige Antworten an, bevor die Zeit abläuft",
+        "TRIVIA_TYPE_MATCHING_INSTRUCTIONS": "Ordne so viele richtige Antworten wie möglich zu, bevor die Zeit abläuft",
+        "TRIVIA_TYPE_GUESSING_INSTRUCTIONS": "Errate auf deinem Gerät, an was das Rad denkt",
+        
+        "ASK_THE_WHEEL_PROMPT": "Du darfst dem Rad mit den enormen Proportionen nun eine Frage stellen",
+        "ASK_THE_WHEEL_PLACEHOLDER": "Stelle hier deine Frage",
+        "ASK_THE_WHEEL_DONE_TEXT": "Vielen Dank.",
+
+        "SLICE_TYPE_PLAYER_NAME": "GEWINNER",
+        "SLICE_TYPE_NEIGHBOR_NAME": "GEWINNER",
+        "SLICE_TYPE_BONUS_NAME": "KRAFTSCHEIBE",
+
+        "SLICE_TYPE_WINNER_NAME": "%s Gewinnt",
+        "SLICE_TYPE_WINNER_DESCRIPTION": "%s gewinnt das Spiel!",
+
+        "SLICE_TYPE_POINTS_NAME": "GEWINNER",
+        "SLICE_TYPE_POINTS_DESCRIPTION": "Du bekommst %s Punkte!",
+
+        "SLICE_TYPE_POINTS_FOR_PLAYER_NAME": "GEWINNER",
+        "SLICE_TYPE_POINTS_FOR_PLAYER_DESCRIPTION": "%s bekommt %s Punkte",
+
+        "SLICE_TYPE_BAD_NAME": "VERLIERER",
+        "SLICE_TYPE_BAD_DESCRIPTION": "????????",
+
+        "SLICE_TYPE_AUDIENCE_NAME": "GEWINNER",
+        "SLICE_TYPE_AUDIENCE_DESCRIPTION": "????????",
+
+        "MINI_WHEEL_TITLE_TOP": "GEWINNER",
+        "MINI_WHEEL_TITLE_BOTTOM": "RAD",
+
+        "SCOREBOARD_NEEDED_TO_WIN": "Zum Sieg benötigt",
+        "SCOREBOARD_SCORES": "Punkte",
+        
+        "NEIGHBOR": "Nachbar",
+        "SUBMIT": "Senden",
+
+        "PLAYER_SLICE_SHARED": "TEILEN",
+        "PLAYER_SLICE_CONTESTED": "TEILEN",
+
+        "HIGH_SCORE": "HIGH SCORE",
+        "FASTEST_ANSWER": "SCHNELLSTE ANTWORT",
+
+        "SLICE_EFFECT_SWAPPOINTS_NAME": "PUNKTE\nTAUSCH",
+        "SLICE_EFFECT_SWAPPOINTS_DESCRIPTION": "Lass zwei andere Spieler Punkte tauschen",
+        "SLICE_EFFECT_SWAPPOINTS_PROMPT": "Wähle zwei Spieler. Sie werden Punkte tauschen.",
+        
+        "SLICE_EFFECT_EXPAND_NAME": "DOPPEL\nSCHEIBE",
+        "SLICE_EFFECT_EXPAND_DESCRIPTION": "Dupliziere eine Scheibe zu den anliegenden Scheiben",
+        "SLICE_EFFECT_EXPAND_PROMPT": "Wähle eine Scheibe. Sie wird auf die angrenzenden Scheiben dupliziert",
+        
+        "SLICE_EFFECT_REPLACESLICE_NAME": "SCHEIBEN\nERSATZ",
+        "SLICE_EFFECT_REPLACESLICE_DESCRIPTION": "Wähle eine Scheibe, die dir gehören soll",
+        "SLICE_EFFECT_REPLACESLICE_PROMPT": "Wähle eine Scheibe. Sie wird dann nur dir gehören.",
+        
+        "SLICE_EFFECT_STEALFROMPLAYERSLICE_NAME": "PUNKTE\nKLAUEN",
+        "SLICE_EFFECT_STEALFROMPLAYERSLICE_DESCRIPTION": "Stehle Punkte von allen auf einer Scheibe",
+        "SLICE_EFFECT_STEALFROMPLAYERSLICE_PROMPT": "Wähle eine Scheibe. Alle auf dieser Scheibe müssen dir Punkte geben",
+        
+        "SLICE_EFFECT_RAINBOW_NAME": "REGENBOGEN\nRAD",
+        "SLICE_EFFECT_RAINBOW_DESCRIPTION": "Drehe so oft wie du kannst!",
+        "SLICE_EFFECT_RAINBOW_PROMPT": "Drehe so oft wie du kannst!",
+        
+        "SLICE_EFFECT_CONSENSUSCHALLENGE_NAME": "WÄHLE DEN\nSIEGER",
+        "SLICE_EFFECT_CONSENSUSCHALLENGE_DESCRIPTION": "Du gewinnst den Pot erneut, außer jeder stimmt zu, ihn an jemand anderen zu geben",
+        "SLICE_EFFECT_CONSENSUSCHALLENGE_PROMPT": "Wähle einen Spieler. %s wird den Pot erneut gewinnen, außer alle sind sich einig, dass ihn wer anders bekommt",
+        
+        "SLICE_EFFECT_CATCHMECHALLENGE_NAME": "VERSTECK\nSPIEL",
+        "SLICE_EFFECT_CATCHMECHALLENGE_DESCRIPTION": "Du gewinnst den Pot erneut, wenn niemand die gleiche Scheibe wie du wählt",
+        "SLICE_EFFECT_CATCHMECHALLENGE_PROMPT_SLICE_OWNER": "Wähle eine Scheibe. Du gewinnst den Pot erneut, wenn niemand die gleiche Scheibe wie du wählt",
+        "SLICE_EFFECT_CATCHMECHALLENGE_PROMPT_NON_SLICE_OWNER": "Wähle eine Scheibe. %s wird den Pot erneut gewinnen, wenn niemand die gleiche Scheibe wie er wählt",
+
+        "SLICE_EFFECT_CHAINSTEAL_NAME": "SCHEIBEN\nKLAU",
+        "SLICE_EFFECT_CHAINSTEAL_DESCRIPTION": "Stehle zusammenhängende Scheiben, die einem anderen Spieler gehören",
+        "SLICE_EFFECT_CHAINSTEAL_PROMPT": "Wähle eine Scheibe. Du wirst alle zusammenhängenden Scheiben stehlen, die einem anderen Spieler gehören",
+
+        "AUDIENCE_CHOOSE_TRIVIA_WINNER_PROMPT_0": "Welcher Spieler wird bei dieser Frage am besten abschneiden?",
+        "AUDIENCE_CHOOSE_SLICE_EFFECT_PROMPT": "Jetzt abstimmen",
+
+        "SLICE_EFFECT_AUDIENCEREPLACESLICES_NAME": "KRAFT oder\nSCHÄDEL",
+        "SLICE_EFFECT_AUDIENCEREPLACESLICES_DESCRIPTION": "Alle stimmen jetzt auf ihren Geräten ab",
+        "SLICE_EFFECT_AUDIENCEREPLACESLICES_PROMPT": "Möchtet ihr mehr KRAFTSCHEIBEN oder mehr SCHÄDELSCHEIBEN?",
+        "AUDIENCE_REPLACE_SLICES_OPTION_BAD_SLICES": "SCHÄDEL",
+        "AUDIENCE_REPLACE_SLICES_OPTION_BONUS_SLICES": "KRAFT",
+
+        "SLICE_EFFECT_AUDIENCENUMSPINS_NAME": "DREHZAHLMESSER \nVOLL oder LEER",
+        "SLICE_EFFECT_AUDIENCENUMSPINS_DESCRIPTION": "Alle stimmen jetzt auf ihren Geräten ab",
+        "SLICE_EFFECT_AUDIENCENUMSPINS_PROMPT": "Soll der Drehzahlmesser VOLL oder LEER sein?",
+        "AUDIENCE_NUM_SPINS_OPTION_ZERO": "LEER",
+        "AUDIENCE_NUM_SPINS_OPTION_FULL": "VOLL",
+
+        "SLICE_EFFECT_AUDIENCE_NEIGHBOR_BONUS_NAME": "GEWINNEN oder\nVERLIEREN",
+        "SLICE_EFFECT_AUDIENCE_NEIGHBOR_BONUS_DESCRIPTION": "Alle stimmen jetzt auf ihren Geräten ab",
+        "SLICE_EFFECT_AUDIENCE_NEIGHBOR_BONUS_PROMPT": "Sollen Spieler neben einer Kraftscheibe PUNKTE GEWINNEN oder PUNKTE VERLIEREN?",
+        "SLICE_EFFECT_AUDIENCE_NEIGHBOR_BONUS_GIVE": "PUNKTE GEWINNEN",
+        "SLICE_EFFECT_AUDIENCE_NEIGHBOR_BONUS_TAKE": "PUNKTE VERLIEREN",
+        
+        "SLICE_EFFECT_AUDIENCE_NEIGHBOR_BAD_NAME": "GEWINNEN oder\nVERLIEREN",
+        "SLICE_EFFECT_AUDIENCE_NEIGHBOR_BAD_DESCRIPTION": "Alle stimmen jetzt auf ihren Geräten ab",
+        "SLICE_EFFECT_AUDIENCE_NEIGHBOR_BAD_PROMPT": "Sollen Spieler neben einer Schädelscheibe PUNKTE GEWINNEN oder PUNKTE VERLIEREN?",
+        "SLICE_EFFECT_AUDIENCE_NEIGHBOR_BAD_GIVE": "PUNKTE GEWINNEN",
+        "SLICE_EFFECT_AUDIENCE_NEIGHBOR_BAD_TAKE": "PUNKTE VERLIEREN",
+
+        "SLICE_EFFECT_AUDIENCESLICECOUNT_NAME": "MEISTEN oder\nWENIGSTEN",
+        "SLICE_EFFECT_AUDIENCESLICECOUNT_DESCRIPTION": "Alle stimmen jetzt auf ihren Geräten ab",
+        "SLICE_EFFECT_AUDIENCESLICECOUNT_PROMPT": "Soll ich dem Spieler mit den MEISTEN oder mit den WENIGSTEN Scheiben Punkte geben?",
+        "AUDIENCE_SLICE_COUNT_OPTION_MOST_SLICES": "MEISTEN",
+        "AUDIENCE_SLICE_COUNT_OPTION_FEWEST_SLICES": "WENIGSTEN",
+
+        "SLICE_EFFECT_AUDIENCESKULLSWAPPER_NAME": "EINZELSPIELER\noder GETEILTE",
+        "SLICE_EFFECT_AUDIENCESKULLSWAPPER_DESCRIPTION": "Alle stimmen jetzt auf ihren Geräten ab",
+        "SLICE_EFFECT_AUDIENCESKULLSWAPPER_PROMPT": "Soll ich die EINZELSPIELER-Scheiben oder die GETEILTEN Scheiben aufstocken?",
+        "AUDIENCE_SKULL_SWAPPER_OPTION_SINGLE": "EINZELNEN",
+        "AUDIENCE_SKULL_SWAPPER_OPTION_MULTIPLE": "GETEILTEN",
+
+        "SLICE_EFFECT_AUDIENCESLICEENHANCEMENT_NAME": "MEHR WERT oder\nDURCHMISCHT",
+        "SLICE_EFFECT_AUDIENCESLICEENHANCEMENT_DESCRIPTION": "Alle stimmen jetzt auf ihren Geräten ab",
+        "SLICE_EFFECT_AUDIENCESLICEENHANCEMENT_PROMPT": "Sollen die Scheiben der Spieler MEHR WERT sein, oder soll ich sie stattdessen MISCHEN?",
+        "AUDIENCE_SLICE_ENHANCEMENT_OPTION_MULTIPLIERS": "MEHR",
+        "AUDIENCE_SLICE_ENHANCEMENT_OPTION_RANDOMIZE": "MISCHEN",
+
+        "AUDIENCE_LABEL_AUDIENCECOUNT": "Im Publikum",
+        "AUDIENCE_LABEL_VOTES": "Stimmen",
+        "AUDIENCE_LABEL_PERCENTWHOCHOSE_CORRECT": "Richtig",
+        "AUDIENCE_LABEL_PERCENTWHOCHOSE_INCORRECT": "Falsch",
+        
+        "AUDIENCE_CHOOSE_TRIVIA_WINNER_WIDGET_PROMPT": "Wer schlägt sich am besten?",
+        
+        "CREDITS_WINNER": "GEWINNER",
+        "CREDITS_UNANSWERED_HEADER": "FRAGEN, DIE WOHL NIE BEANTWORTET WERDEN\n",
+
+        "TEXT_DESCRIPTION_TAPPING_LIST_REVEAL": "Die richtigen Antworten waren %s",
+        "TEXT_DESCRIPTION_TAPPING_LIST_PLAYER_RESULT": "%s hat %s richtig",
+
+        "TEXT_DESCRIPTION_GUESSING_REVEAL": "The answer was %s",
+        "TEXT_DESCRIPTION_GUESSING_PLAYER_RESULT": "%s got it in %s seconds",
+        "TEXT_DESCRIPTION_GUESSING_PLAYER_NO_ONE": "No one got it!",
+
+        "TEXT_DESCRIPTION_MATCHING_REVEAL": "Die Antworten waren %s",
+        "TEXT_DESCRIPTION_MATCHING_PLAYER_RESULT": "%s hat %s passend",
+
+        "TEXT_DESCRIPTION_NUMBER_TARGET_REVEAL": "Die Antworten waren %s",
+        "TEXT_DESCRIPTION_NUMBER_TARGET_PLAYER_RESULT": "%s vermutete %s",
+
+        "TEXT_DESCRIPTION_RAPID_FIRE_PLAYER_RESULT": "%s hat %s richtig",
+
+        "TEXT_DESCRIPTION_TYPING_LIST_REVEAL": "Die Antworten waren %s",
+        "TEXT_DESCRIPTION_TYPING_LIST_PLAYER_RESULT": "%s hat %s richtig",
+
+        "TEXT_DESCRIPTION_PLAYER_GOT_SLICES": "%s hat %s Scheiben",
+        "TEXT_DESCRIPTION_PLAYER_GOT_POWER_SLICE": "%s hat die Kraftscheibe",
+
+        "TEXT_DESCRIPTION_POINTS": "%s hat %s Punkte",
+
+        "TEXT_DESCRIPTION_WIN_WHEEL_STATUS": "Spieler auf dem Siegerrad: %s",
+        "TEXT_DESCRIPTION_WINNER": "%s ist der Sieger",
+
+        "TEXT_DESCRIPTION_ASK_QUESTION": "%s fragte das Rad: %s",
+        "TEXT_DESCRIPTION_ANSWER": "Die Antwort lautet: %s",
+        
+        "TEXT_DESCRIPTION_SCOREBOARD": "Die Punktevergabe: %s",
+
+        "CREDITS_THEME_0":"Am Firmament, 1000 Jahre existent",
+        "CREDITS_THEME_1":"Thront das Rad von unglaublicher Größe",
+        "CREDITS_THEME_2":"Supergottheit, höher als der Weltenzweig",
+        "CREDITS_THEME_3":"Das ist das Rad von unglaublicher Größe",
+        "CREDITS_THEME_4":"Den Gipfel des Berges rauf",
+        "CREDITS_THEME_5":"Hören die Fragen niemals auf",
+        "CREDITS_THEME_6":"Hoffentlich weißt du unglaublich viel",
+        "CREDITS_THEME_7":"Und mit ’nem Dreh des Gesichts",
+        "CREDITS_THEME_8":"Trifft es dein Feld, hoffentlich",
+        "CREDITS_THEME_9":"Es erfüllt all deine Träume und noch mehr",
+        "CREDITS_THEME_10":"(Solo)",
+        "CREDITS_THEME_11":"Das Rad dreht sich im Kreis",
+        "CREDITS_THEME_12":"Wo es landet, niemand weiß",
+        "CREDITS_THEME_14":"Gewinnen kannst du immer jederzeit",
+        "CREDITS_THEME_15":"Doch mit dem Rad der U.G.",
+        "CREDITS_THEME_16":"Gibt es nie eine Garantie",
+        "CREDITS_THEME_17":"Es schenkt dir jede Antwort, die du suchst",
+        "CREDITS_THEME_18":"Ergreif nicht die Flucht, komm zum Gott hoch in der Luft",
+        "CREDITS_THEME_19":"Komm zum Rad von unglaublicher Größe",
+        "CREDITS_THEME_20":"Dich erwartet Weisheit dort, mehr als an jedem andern’ Ort",
+        "CREDITS_THEME_21":"Mit dem Rad von unglaublicher Größe",
+        "CREDITS_THEME_22":"Das Rad von unglaublicher Größe",
+        "CREDITS_THEME_23":"Das Rad von unglaublicher Größe"
+    },
+    "fr": {},
+    "it": {},
+    "de": {},
+    "es": {}
+}
+}
