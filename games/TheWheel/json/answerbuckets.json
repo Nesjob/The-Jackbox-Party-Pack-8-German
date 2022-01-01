@@ -548,9 +548,9 @@
         },
         {
             "keywords":["Wann"],
-            "sequential": ["ist", "sind", "können", "kann", "werden", "machen", "macht", "hat", "könnte", "soll", "sollte", "würde", "hätte", "hatte", "würde"],
+            "sequential": ["ist", "sind", "können", "kann", "werden", "wird", "machen", "macht", "hat", "könnte", "soll", "sollte", "würde", "hätte", "hatte", "würde"],
             "answers":[
-				"Fünfzehn Minuten nach dem Dessert. Nicht früher, nicht später.",
+				"Fünfzehn Minuten nach dem Nachtisch. Nicht früher, nicht später.",
 				"In dem Moment, in dem du heute Abend einschläfst.",
 				"Drei Minuten vor Mitternacht.",
 				"Zur denkbar ungünstigsten Zeit.",
