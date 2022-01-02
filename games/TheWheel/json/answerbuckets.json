@@ -90,14 +90,14 @@
 			]
 		},
         {
-			"keywords": ["Was ist deine Lieblingsfarbe", "Was ist deine lieblings Farbe", "Was ist die beste Farbe", "Welche Farbe ist die beste", "Welche Farbe soll ich tragen", "Was ist meine Lieblingsfarbe", "Was ist die beste Farbe", "Welche Farbe ist die beste"],
+			"keywords": ["Was ist deine Lieblingsfarbe", "Was ist deine lieblings Farbe", "Was ist die beste Farbe", "Was ist meine Lieblingsfarbe", "Was ist die beste Farbe", "Welche Farbe", "Was für eine Farbe"],
 			"sequential": [],
 			"answers": [
 				"Je nach Tag... violett.", 
 				"Zählt Glasstein als Farbe? Ich liebe Glassteine.", 
 				"Rot, wie das Blut von tausend geopferten roten Gummibärchen.",
 				"Schwarz, schwarz wie die Nacht",
-				"Das elektromagnetische Spektrum hat eine Reihe von Farben, die die menschliche Wahrnehmung übersteigen. Hast du schon mal “pinkgelb“ gesehen? Das ist der Stoff.",
+				"Das elektromagnetische Spektrum hat eine Reihe von Farben, die die menschliche Wahrnehmung übersteigen. Hast du schon mal “pinkgelb“ gesehen? Das ist das Zeug.",
 				"Braun. Die Farbe von Schmutz, Holz und den meisten Soßen.",
 				"Blau. Ich werde nicht näher darauf eingehen.",
 				"Grasgrün. Ahhh, ich wünschte, ich könnte etwas Gras anfassen. Hier oben gibt es nur Felsen.",
