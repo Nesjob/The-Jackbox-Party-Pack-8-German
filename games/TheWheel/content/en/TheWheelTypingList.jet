@@ -479,153 +479,138 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "Conneticut"
+                        "Stuttgard",
+                        "Stutgart"
                     ],
                     "hint": "",
-                    "text": "Connecticut"
-                },
-                {
-                    "altSpellings": [
-                        "Road Island"
-                    ],
-                    "hint": "Don't forget that itty, bitty state. It's so cute.",
-                    "text": "Rhode Island"
-                },
-                {
-                    "altSpellings": [
-                        "Mass",
-                        "Massechusets"
-                    ],
-                    "hint": "",
-                    "text": "Massachusetts"
-                },
-                {
-                    "altSpellings": [
-                        "New Hamshire",
-                        "New Hamsure"
-                    ],
-                    "hint": "What's that one? It's not OLD Hampshire. Is it just Hampshire?",
-                    "text": "New Hampshire"
-                },
-                {
-                    "altSpellings": [
-                        "Delawear"
-                    ],
-                    "hint": "",
-                    "text": "Delaware"
-                },
-                {
-                    "altSpellings": [
-                        "Pencilvania"
-                    ],
-                    "hint": "What state is home to Philadelphia?",
-                    "text": "Pennsylvania"
-                },
-                {
-                    "altSpellings": [
-                        "Jersey"
-                    ],
-                    "hint": "",
-                    "text": "New Jersey"
-                },
-                {
-                    "altSpellings": [
-                        "NY"
-                    ],
-                    "hint": "The Big Apple. Why am I thinking of the Big Apple?",
-                    "text": "New York"
+                    "text": "Stuttgart"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "Virginia"
+                    "text": "München"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "Maryland"
-                },
-                {
-                    "altSpellings": [
-                        "North Caralina"
-                    ],
-                    "hint": "",
-                    "text": "North Carolina"
-                },
-                {
-                    "altSpellings": [
-                        "South Caralina"
-                    ],
-                    "hint": "",
-                    "text": "South Carolina"
+                    "text": "Berlin"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "This southern state is a real peach!",
-                    "text": "Georgia"
+                    "hint": "",
+                    "text": "Potsdam"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "Nach der einen Stadt sind 4 musikalische Tiere benannt, die übereinandergestapelt sind.",
+                    "text": "Bremen"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "",
+                    "text": "Hamburg"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "",
+                    "text": "Wiesbaden"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "",
+                    "text": "Schwerin"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "",
+                    "text": "Hannover"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "Kommt schon, wie heißt diese eine große Stadt in NRW? Und jetzt sagt bloß nicht Köln!",
+                    "text": "Düsseldorf"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "",
+                    "text": "Mainz"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "",
+                    "text": "Saarbrücken"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "",
+                    "text": "Dresden"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "",
+                    "text": "Magdeburg"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "",
+                    "text": "Kiel"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "",
+                    "text": "Erfurt"
                 }
             ],
             "category": "History",
             "exactSpelling": false,
             "id": "76593",
             "isValid": "",
-            "prompt": "What are the original 13 American colonies?",
+            "prompt": "Wie lauten die Hauptstädte der 16 Bundesländer in Deutschland?",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
             "answers": [
                 {
-                    "text": "cadmium"
+                    "text": "Cadmium"
                 },
                 {
-                    "altSpellings": [
-                        "cesium"
-                    ],
-                    "text": "caesium"
+                    "text": "Caesium"
                 },
                 {
-                    "hint": "Quick hint... you can find it in a nice, cold glass of milk!",
-                    "text": "calcium"
+                    "hint": "Heißer Tipp: Eins ist ein Bestandteil von einem leckeren Glas Milch!",
+                    "text": "Calcium"
                 },
                 {
-                    "hint": "One of these sounds like a large state on the west coast.",
-                    "text": "californium"
+                    "text": "Californium"
                 },
                 {
-                    "hint": "You're missing an easy one. It's one of the building blocks of life!",
-                    "text": "carbon"
+                    "text": "Cer"
                 },
                 {
-                    "text": "cerium"
+                    "hint": "Hmm... wie heißt nochmal das Zeug, das die in Schwimmbecken reinmachen?",
+                    "text": "Chlor"
                 },
                 {
-                    "hint": "Hmm, what's that stuff they put in swimming pools?",
-                    "text": "chlorine"
+                    "hint": "Eines klingt wie mein Lieblings-Internetbrowser...",
+                    "text": "Chrom"
                 },
                 {
-                    "text": "chromium"
+                    "text": "Cobalt"
                 },
                 {
-                    "text": "cobalt"
+                    "text": "Copernicium"
                 },
                 {
-                    "text": "copernicum"
-                },
-                {
-                    "hint": "One of these things is coated on pennies!",
-                    "text": "copper"
-                },
-                {
-                    "text": "curium"
+                    "text": "Curium"
                 }
             ],
             "category": "Science & Medicine",
             "exactSpelling": false,
             "id": "76855",
             "isValid": "",
-            "prompt": "Which chemical elements start with “C”?",
+            "prompt": "Welche chemischen Elemente fangen mit dem Buchstaben “C” an?",
             "subtype": "name",
             "us": false,
             "x": false
