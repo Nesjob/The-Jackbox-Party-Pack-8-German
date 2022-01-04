@@ -696,73 +696,72 @@
             "isValid": "",
             "prompt": "10 good nicknames for someone named “Christopher”",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
             "answers": [
                 {
                     "altSpellings": [
-                        "scraper",
-                        "pancake turner",
-                        "turner",
-                        "pancake flipper",
-                        "flipper"
+                        "Spachtel"
                     ],
-                    "hint": "How can you flip pancakes without THIS?",
-                    "text": "spatula"
-                },
-                {
-                    "hint": "How can you stir batter without THIS? (aside) well, I suppose you could use anything.",
-                    "text": "whisk"
+                    "hint": "Wie soll man Pfannkuchen wenden ohne DAS?",
+                    "text": "Spatel"
                 },
                 {
                     "altSpellings": [
-                        "ladel",
-                        "soup ladle",
-                        "soup ladel"
+                        "Rührbesen",
+                        "Rührstab",
+                        "Rührgerät"
                     ],
-                    "hint": "I've got a big scoop on a correct answer. And it's not an ice cream scooper.",
-                    "text": "ladle"
+                    "hint": "Wie soll ich nur ohne DIES meinen Teig rühren? Na gut, ich schätze man könnte alles benutzen.",
+                    "text": "Schneebesen"
                 },
                 {
                     "altSpellings": [
-                        "bread knives"
+                        "Schöpfkelle",
+                        "Schöpflöffel",
+                        "Suppenkelle"
                     ],
-                    "text": "bread knife"
+                    "hint": "Eine Antwort ist ein großer Löffel. Und ich meine keinen Eisportionierer.",
+                    "text": "Kelle"
                 },
                 {
                     "altSpellings": [
-                        "strainer"
+                        "Messer"
                     ],
-                    "hint": "Your strategy is full of holes!",
-                    "text": "colander"
+                    "text": "Brotmesser"
+                },
+                {
+                    "hint": "Euren Antworten fehlt es an Löchern!",
+                    "text": "Sieb"
                 },
                 {
                     "altSpellings": [
-                        "forks"
+                        "Gabeln"
                     ],
-                    "text": "fork"
+                    "text": "Gabel"
                 },
                 {
                     "altSpellings": [
-                        "masher",
-                        "smasher",
-                        "potato smasher"
+                        "Kartoffelstampf",
+                        "Stampfer",
+                        "Pürierer"
                     ],
-                    "text": "potato masher"
+                    "text": "Kartoffelstampfer"
                 },
                 {
                     "altSpellings": [
-                        "pizza cutter",
+                        "Pizza Schneider",
+                        "Pizzamesser",
                         "pizza rocker",
-                        "cutting wheel",
-                        "wheel cutter",
+                        "Schneiderad",
+                        "Messer Rad",
                         "pizza wheel cutter",
                         "cutter wheel"
                     ],
                     "hint": "What sort of tool is good for a pepperoni with cheese?",
-                    "text": "pizza wheel"
+                    "text": "Pizzarad"
                 },
                 {
                     "altSpellings": [
