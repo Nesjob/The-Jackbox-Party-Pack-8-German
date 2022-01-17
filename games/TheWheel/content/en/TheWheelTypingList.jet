@@ -754,70 +754,67 @@
                     "altSpellings": [
                         "Pizza Schneider",
                         "Pizzamesser",
-                        "pizza rocker",
                         "Schneiderad",
-                        "Messer Rad",
-                        "pizza wheel cutter",
-                        "cutter wheel"
+                        "Messer Rad"
                     ],
-                    "hint": "What sort of tool is good for a pepperoni with cheese?",
+                    "hint": "Womit kann ich gut Peperoni mit Käse schneiden?",
                     "text": "Pizzarad"
                 },
                 {
                     "altSpellings": [
-                        "grater",
-                        "cheese shredder",
-                        "shredder"
+                        "Parmesanreibe",
+                        "Reibe",
+                        "Hobel",
+                        "Küchenreibe",
+                        "Zitronenreibe"
                     ],
-                    "hint": "Sure would be grate if you thought of this one. \"Grate.\"",
-                    "text": "cheese grater"
+                    "hint": "Ein Wort kann ich euch eigentlich gar nicht genug unter die Nase REIBEN...",
+                    "text": "Käsereibe"
                 },
                 {
                     "altSpellings": [
-                        "skewers",
-                        "kabob skewer",
-                        "kabob stick"
+                        "Zahnstocker"
                     ],
-                    "text": "skewer"
+                    "text": "Spieß"
                 },
                 {
                     "altSpellings": [
-                        "chopstick"
+                        "Esstab",
+                        "Stäbchen"
                     ],
-                    "hint": "Chinese food anyone?",
-                    "text": "chopsticks"
+                    "hint": "Hat schon mal jemand an chinesisches Essen gedacht?",
+                    "text": "Essstäbchen"
                 },
                 {
                     "altSpellings": [
-                        "cooking tongs",
-                        "kitchen tongs"
+                        "Kochzange",
+                        "Küchenzange"
                     ],
-                    "text": "tongs"
+                    "text": "Zange"
                 },
                 {
                     "altSpellings": [
-                        "roller pin",
-                        "dough roller"
+                        "Teigroller"
                     ],
-                    "hint": "Roll out that dough!",
-                    "text": "rolling pin"
+                    "hint": "Rollt den Teig aus!",
+                    "text": "Nudelholz"
                 },
                 {
                     "altSpellings": [
-                        "wine opener",
-                        "wine bottle opener",
-                        "cork opener",
-                        "corks screw"
+                        "Weinöffner",
+                        "Zapfenzieher",
+                        "Flaschenöffner",
+                        "Korkendreher"
                     ],
-                    "hint": "Can't have any wine without THIS.",
-                    "text": "corkscrew"
+                    "hint": "Es kann keinen guten Wein geben ohne DAS.",
+                    "text": "Korkenzieher"
                 }
             ],
             "category": "Tools",
             "exactSpelling": false,
             "id": "77197",
             "isValid": "",
-            "prompt": "My 14 Favorite Kitchen Utensils",
+            "prompt": "Meine 14 Lieblings-Küchenutensilien",
             "subtype": "subjective",
             "us": false,
             "x": false
@@ -913,7 +910,7 @@
             "exactSpelling": false,
             "id": "77199",
             "isValid": "",
-            "prompt": "My 10 Favorite Words Found on Nutrition Labels",
+            "prompt": "Meine 10 Lieblingswörter auf Nährwertetiketten",
             "subtype": "subjective",
             "us": true,
             "x": false
