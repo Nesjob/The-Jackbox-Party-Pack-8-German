@@ -1017,75 +1017,119 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "Choclate"
+                        "Schoko",
+                        "Schoko Eis",
+                        "Schoko Eiscreme",
+                        "Schokoladen Eis",
+                        "Schokoladen Eiscreme"
+                        
                     ],
-                    "hint": "(perturbed) I'm going to spell it out for you. Chocolate! Just type in chocolate!",
-                    "text": "chocolate"
-                },
-                {
-                    "hint": "Some might say it's the most boring flavor.",
-                    "text": "vanilla"
+                    "hint": "(genervt) Okay, ich buchstabiere es einfach für euch: Schokolade! Es ist so offensichtlich, tippt einfach Schokolade ein!",
+                    "text": "Schokolade"
                 },
                 {
                     "altSpellings": [
-                        "straw berry"
+                        "Vanille Eis",
+                        "Vanille Eiscreme",
+                        "Vanile Eis",
+                        "Vanile Eiscreme"
                     ],
-                    "text": "strawberry"
+                    "hint": "Einige würden sagen, dass es der langweiligste Geschmack ist.",
+                    "text": "Vanille"
                 },
                 {
                     "altSpellings": [
-                        "cookies and cream",
-                        "cookies & cream",
-                        "cookies cream"
+                        "Erdbeer",
+                        "Erdbeer Eis",
+                        "Erdbeer Eiscreme",
+                        "Erdbeeren Eis",
+                        "Erdbeeren Eiscreme"
                     ],
-                    "text": "cookies 'n' cream"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Do you like your ice cream caffeinated?",
-                    "text": "coffee"
+                    "text": "Erdbeere"
                 },
                 {
                     "altSpellings": [
-                        "choclate chip",
-                        "mint chocolate chip"
+                        "Joghurt Eis",
+                        "Joghurt Eiscreme",
+                        "Jogurt Eis"
                     ],
-                    "text": "chocolate chip"
+                    "text": "Joghurt"
                 },
                 {
                     "altSpellings": [
-                        "rockyroad"
+                        "Kaffee Eis",
+                        "Kaffee Eiscreme",
+                        "Late Machiato",
+                        "Latte Macchiato",
+                        "Latte Macchiato Eis",
+                        "Latte Macchiato Eiscreme"
                     ],
-                    "hint": "Though the road may be long, hopefully it's also THIS.",
-                    "text": "rocky road"
+                    "hint": "Darf ich ihnen unseren Eiskaffee anbieten? Oder doch lieber andersherum?",
+                    "text": "Kaffee"
                 },
                 {
                     "altSpellings": [
-                        "cookie doe"
+                        "Zitronen",
+                        "Zitronen Eis",
+                        "Zitronen Eiscreme"
                     ],
-                    "text": "cookie dough"
+                    "text": "Zitrone"
                 },
                 {
                     "altSpellings": [
-                        "buttered pecan",
-                        "pecan"
+                        "Hasselnus",
+                        "Haselnüsse",
+                        "Haselnuss Eis",
+                        "Haselnuss Eiscreme",
+                        "Nuss",
+                        "Nuss Eis",
+                        "Nuss Eiscreme",
+                        "Nüsse"
                     ],
-                    "hint": "One of my favorites is nice and buttery.",
-                    "text": "butter pecan"
+                    "hint": "Diese Sorte ist nichts für Allergiker, auch wenn sie zum Sterben gut ist!",
+                    "text": "Haselnuss"
                 },
                 {
                     "altSpellings": [
-                        "pistashio"
+                        "cookie dough",
+                        "cookie dough eis",
+                        "Cookie Eis",
+                        "Cookie Eiscreme",
+                        "Kekse",
+                        "Keksteig",
+                        "Keks Eis",
+                        "Keks Eiscreme"
                     ],
-                    "hint": "One of my faves has a green tinge with a nutty flavor.",
-                    "text": "pistachio"
+                    "text": "Cookies"
+                },
+                {
+                    "altSpellings": [
+                        "Schtracciatella",
+                        "Straziatela",
+                        "Straciatela",
+                        "Stracciatella Eis",
+                        "Stracciatella Eiscreme",
+                        "Straciatela Eis",
+                        "Straciatela Eiscreme"
+                    ],
+                    "hint": "Einfach, aber elegant. Ich mag die Schokostücke am liebsten.",
+                    "text": "Stracciatella"
+                },
+                {
+                    "altSpellings": [
+                        "Pistazien Eis",
+                        "Pistazien Eiscreme",
+                        "Pistazieneis"
+                    ],
+                    "hint": "Eine meiner liebsten Sorten hat eine grüne Färbung und ein nussiges Aroma.",
+                    "text": "Pistazie"
                 }
             ],
             "category": "Food & Drink",
             "exactSpelling": false,
             "id": "77203",
             "isValid": "",
-            "prompt": "The 10 Best Ice Cream Flavors",
+            "prompt": "Die 10 objektiv besten Eiscreme-Sorten",
             "subtype": "subjective",
             "us": false,
             "x": false
@@ -1270,68 +1314,81 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "chewie",
-                        "wookiee",
-                        "chewy"
+                        "Chewie",
+                        "Wookiee",
+                        "Chewy",
+                        "Cewbaca",
+                        "Wookiees",
+                        "Wookiee Krieger"
                     ],
-                    "hint": "I'm thinking of a TALL, adorable character. And let's just say \"hirsute.\"",
+                    "hint": "",
                     "text": "Chewbacca"
                 },
                 {
                     "altSpellings": [
                         "Ewok"
                     ],
-                    "hint": "You know! The cute ones with the smashed-in dog faces! Come on now.",
+                    "hint": "Ihr wisst schon! Die kleinen Krieger die aussehen wie Stofftiere.",
                     "text": "Ewoks"
                 },
                 {
                     "altSpellings": [
                         "R2",
+                        "D2",
                         "R2D2",
                         "R2 D2",
-                        "Artoo",
-                        "Artoo Deetoo",
-                        "Artwo"
+                        "R Zwo",
+                        "R Zwo D Zwo",
+                        "R Zwei",
+                        "R Zwei D Zwei"
                     ],
-                    "hint": "One word: Droid!",
+                    "hint": "",
                     "text": "R2-D2"
                 },
                 {
                     "altSpellings": [
-                        "BB8"
+                        "BB8",
+                        "BB Acht",
+                        "B B 8"
                     ],
-                    "hint": "There's that one that looks a bit like a soccer ball. Or a football if you will.",
+                    "hint": "(nachdenklich) Dieser niedliche Roboter der aussieht wie ein bunter Fußball, wie hieß der noch gleich?",
                     "text": "BB-8"
                 },
                 {
                     "altSpellings": [
-                        "Porg"
+                        "Porg",
+                        "Porg Vogel",
+                        "Porg Vögel"
                     ],
-                    "hint": "Who were those cute, chubby birds in [i]The Rise of Skywalker[/i]?",
+                    "hint": "Wie hießen nochmal diese niedlichen kleinen Vögel in [i]The Rise of Skywalker[/i]?",
                     "text": "Porgs"
                 },
                 {
                     "altSpellings": [
-                        "The Child",
-                        "Grogu"
+                        "Baby-Yoda",
+                        "Grogu",
+                        "Das Kind"
                     ],
-                    "hint": "So Yoda didn't make my list, but this one did.",
+                    "hint": "Wider Erwarten war selbst Yoda als Baby niedlich.",
                     "text": "Baby Yoda"
                 },
                 {
                     "altSpellings": [
-                        "Ice Fox",
-                        "Vulptices",
-                        "Vulptex",
-                        "Crystal Foxes",
-                        "Ice Foxes"
+                        "AZ-345211896246498721347",
+                        "AZ",
+                        "AZI-3",
+                        "AZ Drei",
+                        "AZI",
+                        "AZI Drei"
                     ],
-                    "text": "Crystal Fox"
+                    "hint": "",
+                    "text": "AZ-3"
                 },
                 {
                     "altSpellings": [
                         "Jawa"
                     ],
+                    "hint": "Ich denke an süße Schrottsammler und gerissene kleine Diebe",
                     "text": "Jawas"
                 }
             ],
@@ -1339,7 +1396,7 @@
             "exactSpelling": false,
             "id": "77227",
             "isValid": "",
-            "prompt": "The 8 Most Adorable [i]Star Wars[/i] Characters and Species",
+            "prompt": "Die 8 süßesten Charaktere und Spezies aus [i]Star Wars[/i]",
             "subtype": "subjective",
             "us": false,
             "x": false
@@ -1421,142 +1478,216 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "polar bear",
-                        "teddy bear",
-                        "grizzly bear",
-                        "brown bear"
-                    ],
-                    "hint": "Rooaar!!! Well, that could apply to a few these actually.",
-                    "text": "bear"
-                },
-                {
-                    "altSpellings": [
-                        "american bison"
-                    ],
-                    "hint": "Not exactly a buffalo, but similar.",
-                    "text": "bison"
-                },
-                {
-                    "altSpellings": [
-                        "dromedary"
-                    ],
-                    "hint": "Think... humps.",
-                    "text": "camel"
-                },
-                {
-                    "altSpellings": [
-                        "puma",
-                        "panther",
-                        "mountain lion",
-                        "catamount",
-                        "painter"
-                    ],
-                    "hint": "One of them is kind of a lion, sort of.",
-                    "text": "cougar"
-                },
-                {
-                    "altSpellings": [
-                        "african elephant",
-                        "asian elephant"
+                        "Pferde",
+                        "Das Pferd",
+                        "Die Pferde",
+                        "Hengst",
+                        "Gaul",
+                        "Pony",
+                        "Schimmel",
+                        "Stute",
+                        "Ross"
                     ],
                     "hint": "",
-                    "text": "elephant"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Come on, stick your neck out. Your NECK!",
-                    "text": "giraffe"
+                    "text": "Pferd"
                 },
                 {
                     "altSpellings": [
-                        "ape",
-                        "silverback",
-                        "silverback gorilla"
+                        "Kamele",
+                        "Das Kamel",
+                        "Die Kamele",
+                        "Dromedar",
+                        "Dromedare",
+                        "Das Dromedar",
+                        "Die Dromedare"
+
                     ],
-                    "hint": "Think King Kong, but bite-sized.",
-                    "text": "gorilla"
+                    "hint": "Ein Tier, welches sehr lange ohne Wasser auskommen kann.",
+                    "text": "Kamel"
                 },
                 {
                     "altSpellings": [
-                        "hippo"
+                        "Der Esel",
+                        "Die Esel",
+                        "Packesel",
+                        "Lastenesel"
                     ],
-                    "hint": "",
-                    "text": "hippopotamus"
+                    "hint": "Ein exzellentes Lastentier, wenn auch etwas lahm.",
+                    "text": "Esel"
                 },
                 {
                     "altSpellings": [
-                        "hyaena"
-                    ],
-                    "hint": "",
-                    "text": "hyena"
-                },
-                {
-                    "altSpellings": [
-                        "roo"
-                    ],
-                    "hint": "Reach into your pouches and see what comes up.",
-                    "text": "kangaroo"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "lion"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "monkey"
-                },
-                {
-                    "altSpellings": [
-                        "rhino"
+                        "Hunde",
+                        "Der Hund",
+                        "Die Hunde",
+                        "Haushund",
+                        "Wolf",
+                        "Wölfe",
+                        "Der Wolf",
+                        "Die Wölfe"
                     ],
                     "hint": "",
-                    "text": "rhinoceros"
+                    "text": "Hund"
                 },
                 {
                     "altSpellings": [
-                        "harbor seal",
-                        "common seal",
-                        "sea lion",
-                        ""
+                        "Bären",
+                        "Baer",
+                        "Baeren",
+                        "Der Bär",
+                        "Die Bären",
+                        "Braunbär",
+                        "Braunbären",
+                        "Eisbär",
+                        "Eisbären",
+                        "Schwarzbär",
+                        "Panda",
+                        "Pandas",
+                        "Pandabär"
                     ],
                     "hint": "",
-                    "text": "seal"
+                    "text": "Bär"
                 },
                 {
                     "altSpellings": [
-                        "lamb"
+                        "Löwen",
+                        "Der Löwe",
+                        "Die Löwen",
+                        "Loewe"
                     ],
-                    "hint": "Baaaaaaa! (clear throat) Excuse me.",
-                    "text": "sheep"
+                    "hint": "Der König der Savanne.",
+                    "text": "Löwe"
                 },
                 {
                     "altSpellings": [
-                        "bengal tiger",
-                        "bengal"
+                        "Elefanten",
+                        "Der Elefant",
+                        "Die Elefanten"
                     ],
                     "hint": "",
-                    "text": "tiger"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "What animal starts with a Z?",
-                    "text": "zebra"
+                    "text": "Elefant"
                 },
                 {
                     "altSpellings": [
-                        "koala bear"
+                        "Katzen",
+                        "Die Katze",
+                        "Die Katzen",
+                        "Kater",
+                        "Der Kater",
+                        "Raubkatze",
+                        "Die Raubkatze",
+                        "Hauskatze"
                     ],
-                    "hint": "One is an marsupial that loves eucalyptus leaves.",
-                    "text": "koala"
+                    "hint": "",
+                    "text": "Katze"
+                },
+                {
+                    "altSpellings": [
+                        "Enten",
+                        "Die Ente",
+                        "Die Enten",
+                        "Erpel",
+                        "Enterich"
+                    ],
+                    "hint": "Ich würde auch gerne den ganzen Tag über Schnattern... Ich habe nunmal ein Redebedürfnis, das ist nichts verwerfliches!",
+                    "text": "Ente"
+                },
+                {
+                    "altSpellings": [
+                        "Hasen",
+                        "Der Hase",
+                        "Die Hasen",
+                        "Kaninchen",
+                        "Das Kaninchen",
+                        "Die Kaninchen",
+                        "Karnickel"
+                    ],
+                    "hint": "",
+                    "text": "Hase"
+                },
+                {
+                    "altSpellings": [
+                        "Affen",
+                        "Der Affe",
+                        "Die Affen",
+                        "Gorilla",
+                        "Der Gorilla",
+                        "Gorillas",
+                        "Die Gorillas",
+                        "Schimpanse",
+                        "Schimpansen",
+                        "Der Schimpanse",
+                        "Die Schimpansen"
+                    ],
+                    "hint": "",
+                    "text": "Affe"
+                },
+                {
+                    "altSpellings": [
+                        "Das Eichhörnchen",
+                        "Die Eichhörnchen",
+                        "Eich Hörnchen",
+                        "Eichhoernchen"
+                    ],
+                    "hint": "",
+                    "text": "Eichhörnchen"
+                },
+                {
+                    "altSpellings": [
+                        "Pinguine",
+                        "Der Pinguin",
+                        "Die Pinguine"
+                    ],
+                    "hint": "",
+                    "text": "Pinguin"
+                },
+                {
+                    "altSpellings": [
+                        "Lamm",
+                        "Lämmer",
+                        "Das Lamm",
+                        "Die Lämmer",
+                        "Schafe",
+                        "Das Schaf",
+                        "Die Schafe"
+                    ],
+                    "hint": "Määääääääh! (Räuspern) Verzeihung.",
+                    "text": "Schaf"
+                },
+                {
+                    "altSpellings": [
+                        "Schildkröten",
+                        "Schild Kröte",
+                        "Die Schildkröte",
+                        "Die Schildkröten",
+                        "Schildkroete"
+                    ],
+                    "hint": "",
+                    "text": "Schildkröte"
+                },
+                {
+                    "altSpellings": [ 
+                        "Das Nashorn",
+                        "Nashörner",
+                        "Die Nashörner"
+                    ],
+                    "hint": "Das große Horn macht diese Tierart leicht erkennbar.",
+                    "text": "Nashorn"
+                },
+                {
+                    "altSpellings": [
+                        "Eulen",
+                        "Die Eule"
+                    ],
+                    "hint": "Nachtaktiv und stets auf Beutesuche, erkennbar an ihrem markanten Ruf",
+                    "text": "Eule"
                 }
             ],
             "category": "Food & Drink",
             "exactSpelling": false,
             "id": "77334",
             "isValid": "",
-            "prompt": "Which animals were included in Barnum's Animals Crackers (100th Anniversary Edition)?",
+            "prompt": "Welche Tierarten sind in den [i]Leibniz Zoo[/i]-Tierkeksen zu finden?",
             "subtype": "name",
             "us": false,
             "x": false
@@ -1903,54 +2034,56 @@
                     "altSpellings": [
                         "Super Mario"
                     ],
-                    "hint": "It's-a him! You know, the one whose name is in the title of the game?",
+                    "hint": "It's a me! Ihr wisst schon, der dessen Name im Titel steht?",
                     "text": "Mario"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "It's-a him, the main character's brother! A sensitive plumber just trying to get by.",
+                    "hint": "",
                     "text": "Luigi"
                 },
                 {
                     "altSpellings": [
-                        "Captain Toad"
+                        "Captain Toad",
+                        "Toadette"
                     ],
-                    "hint": "Please don't forget about this little mushroom who wears a vest.",
+                    "hint": "",
                     "text": "Toad"
                 },
                 {
                     "altSpellings": [
-                        "Peach"
+                        "Peach",
+                        "Prinzessin Toadstool"
                     ],
-                    "hint": "Wasn't there a royal racer? Someone who was a queen, or a prince, or a...",
-                    "text": "Princess Peach"
+                    "hint": "War da nicht noch jemand Royales dabei? Irgendeine Königin, war es ein Prinz?",
+                    "text": "Prinzessin Peach"
                 },
                 {
                     "altSpellings": [
-                        "Koopa",
-                        "Koopa Turtle"
+                        "Koopa Troopa"
                     ],
-                    "hint": "Don't forget about this upright turtle who wears shoes! You forgot about him, didn't you?",
-                    "text": "Koopa Troopa"
+                    "hint": "Vergesst nicht die rasende Schildkröte! Ihr habt sie vergessen, nicht wahr?",
+                    "text": "Koopa"
                 },
                 {
                     "altSpellings": [
                         "Donkey Kong",
-                        "DK"
+                        "DK",
+                        "Donkey Kong Junior"
                     ],
-                    "hint": "This guy loves bananas and hates barrels. He's like the opposite of me!",
+                    "hint": "Dieser Typ liebt Bananen und hasst Fässer. Lustig, er ist damit das genaue Gegenteil von mir!",
                     "text": "Donkey Kong Jr"
                 },
                 {
                     "altSpellings": [
                         "King Koopa"
                     ],
-                    "hint": "What about the big spiky monster guy? Remember him?",
+                    "hint": "",
                     "text": "Bowser"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "He's a dinosaur who can lay eggs on command! I know you know who this is.",
+                    "hint": "Ein Dinosaurier der auf Kommando Eier legen kann! Ich weiss, dass ihr wisst wen ich meine.",
                     "text": "Yoshi"
                 }
             ],
@@ -1958,7 +2091,7 @@
             "exactSpelling": false,
             "id": "77765",
             "isValid": "",
-            "prompt": "Which 8 characters were playable in the original [i]Super Mario Kart[/i]?",
+            "prompt": "Welche 8 Charaktere waren im originalen [i]Super Mario Kart[/i] spielbar?",
             "subtype": "name",
             "us": false,
             "x": false
@@ -2212,61 +2345,93 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "Vainglory",
-                        "prideful"
+                        "Stolz",
+                        "Überheblichkeit",
+                        "Prahlerei",
+                        "Prahlen",
+                        "Selbstverherrlichung",
+                        "Arroganz",
+                        "Egoismus"
                     ],
-                    "hint": "Being selfish or arrogant? That's definitely a sin.",
-                    "text": "Pride"
+                    "hint": "Bist du egoistisch oder arrogant? Ganz eindeutig, du bist ein Sünder.",
+                    "text": "Hochmut"
                 },
                 {
                     "altSpellings": [
-                        "Covetousness",
-                        "Greediness",
-                        "Covet",
-                        "Coveting"
+                        "Gier",
+                        "Begierde",
+                        "Habsucht",
+                        "Geizigkeit",
+                        "Gierigkeit",
+                        "Geiz"
                     ],
-                    "hint": "Hoarding wealth or other resources? You bet that's a sin.",
-                    "text": "Greed"
+                    "hint": "",
+                    "text": "Habgier"
                 },
                 {
                     "altSpellings": [
-                        "Lustful",
-                        "Lusting",
-                        "desire"
+                        "Sehnsucht",
+                        "Begehren",
+                        "Erotik",
+                        "Lüsternheit"
                     ],
-                    "hint": "Feelings of longing or desire? Yep, that's a sin.",
-                    "text": "Lust"
+                    "hint": "Gefühle des Begehrens? Warum fragst du noch?",
+                    "text": "Wollust"
                 },
                 {
                     "altSpellings": [
-                        "Jealousy"
+                        "Eifersucht",
+                        "Neidisch",
+                        "Misgunst"
                     ],
-                    "hint": "Wanting what someone else has? Welcome to sin city, population you!",
-                    "text": "Envy"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Overindulging? That's a sin.",
-                    "text": "Gluttony"
+                    "hint": "Du möchtest etwas, das aber jemand anderes schon hat? Willkommen in Sin City, einziger Einwohner: Du!",
+                    "text": "Neid"
                 },
                 {
                     "altSpellings": [
-                        "Anger"
+                        "Völerei",
+                        "Voellerei",
+                        "Gefräßigkeit",
+                        "Gefräßig",
+                        "Gelage",
+                        "Fresserei",
+                        "Orgie"
                     ],
-                    "hint": "Uncontrollable rage? Sure, that's a sin.",
-                    "text": "Wrath"
+                    "hint": "Über den Hunger hinaus essen? (singend) Eine Sünde.",
+                    "text": "Völlerei"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "Lazing around? That's a sin for sure.",
-                    "text": "Sloth"
+                    "altSpellings": [
+                        "Wut",
+                        "Jähzorn",
+                        "Rage",
+                        "Aggressivität",
+                        "Raserei",
+                        "Cholerisch"
+                    ],
+                    "hint": "",
+                    "text": "Zorn"
+                },
+                {
+                    "altSpellings": [
+                        "Faulheit",
+                        "Faulenzen",
+                        "Traegheit",
+                        "Bequemlichkeit",
+                        "Sorglosigkeit",
+                        "Desinteresse",
+                        "Gleichgültigkeit",
+                        "Energielosigkeit"
+                    ],
+                    "hint": "Faulenzen? Wenn man eine so begrenzte Zeit hat wie ihr Menschen...",
+                    "text": "Trägheit"
                 }
             ],
             "category": "History",
             "exactSpelling": false,
             "id": "77800",
             "isValid": "",
-            "prompt": "What are the seven deadly sins?",
+            "prompt": "Was sind die 7 Todsünden?",
             "subtype": "name",
             "us": false,
             "x": true
