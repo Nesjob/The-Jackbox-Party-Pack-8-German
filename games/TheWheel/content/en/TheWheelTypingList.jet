@@ -823,96 +823,95 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "servings",
-                        "amount per serving",
-                        "portion",
-                        "portion size"
+                        "cal",
+                        "Kalorie",
+                        "Kalorien",
+                        "kcal",
+                        "Kilokalorie",
+                        "Kilo Kalorie",
+                        "Kilojoule",
+                        "Kilo Joule",
+                        "kJ",
+                        "Joule",
+                        "J"
                     ],
-                    "text": "serving size"
+                    "hint": "Diese Sache ist einfach überall! Außer vielleicht in Cola Zero...",
+                    "text": "Energie"
                 },
                 {
                     "altSpellings": [
-                        "cals"
+                        "Fette",
+                        "Fettgehalt",
+                        "Fettanteil"
                     ],
-                    "hint": "THIS thing is in everything. Well, except like Coke Zero.",
-                    "text": "calories"
+                    "hint": "",
+                    "text": "Fett"
                 },
                 {
                     "altSpellings": [
-                        "total saturated fat",
-                        "trans fat",
-                        "saturated fat",
-                        "fat content",
-                        "total fat"
+                        "Cholesterin",
+                        "Fettsäuren",
+                        "Ungesättigte Fettsäuren",
+                        "Gesaettigte Fettsaeuren"
                     ],
-                    "text": "fat"
+                    "hint": "Mein Arzt sagte ich solle in Zukunft eher auf ungesättigte dieser Art umsteigen, damit ich nicht noch runder werde.",
+                    "text": "Gesättigte Fettsäuren"
                 },
                 {
                     "altSpellings": [
-                        "colesterol"
+                        "Kochsalz",
+                        "Salze",
+                        "Speisesalz",
+                        "Meersalz",
+                        "Natriumchlorid",
+                        "Natrium Chlorid",
+                        "Salzgehalt"
                     ],
-                    "hint": "Might want to try egg whites to avoid THIS one.",
-                    "text": "cholesterol"
+                    "hint": "",
+                    "text": "Salz"
                 },
                 {
                     "altSpellings": [
-                        "salt"
+                        "Kohlen Hydrate",
+                        "Saccharide"
                     ],
-                    "hint": "If you don't get THIS one, you may feel a bit salty about it.",
-                    "text": "sodium"
+                    "hint": "",
+                    "text": "Kohlenhydrate"
                 },
                 {
                     "altSpellings": [
-                        "carbohydrates",
-                        "carbs"
+                        "Protein",
+                        "Proteine",
+                        "Eiweiße"
                     ],
-                    "hint": "What's that one that really packs on the pounds?",
-                    "text": "carbohydrate"
+                    "hint": "Jeder der schonmal ein Fitnessstudio von innen gesehen hat, solltet mit DIESEM ja vertraut sein.",
+                    "text": "Eiweiß"
                 },
                 {
                     "altSpellings": [
-                        "proteins"
+                        "Ballast Stoffe"
                     ],
-                    "hint": "You gym rats should be familiar with THIS one.",
-                    "text": "protein"
+                    "hint": "",
+                    "text": "Ballaststoffe"
                 },
                 {
                     "altSpellings": [
-                        "fiber",
-                        "daily fiber"
+                        "davon Zucker",
+                        "Zuckeranteil",
+                        "Haushaltszucker",
+                        "Haushalts Zucker"
                     ],
-                    "hint": "You can find plenty of THIS one in bran muffins.",
-                    "text": "dietary fiber"
-                },
-                {
-                    "altSpellings": [
-                        "total sugars",
-                        "added sugars"
-                    ],
-                    "hint": "Don't forget the sweet one!",
-                    "text": "sugar"
-                },
-                {
-                    "altSpellings": [
-                        "percentage daily value",
-                        "DV",
-                        "% daily value",
-                        "% dv",
-                        "percent daily value",
-                        "daily percentage",
-                        "percentage"
-                    ],
-                    "hint": "One of these is a percentage.",
-                    "text": "daily value"
-                }
+                    "hint": "",
+                    "text": "Zucker"
+                } 
             ],
             "category": "Food & Drink",
             "exactSpelling": false,
             "id": "77199",
             "isValid": "",
-            "prompt": "Meine 10 Lieblingswörter auf Nährwertetiketten",
+            "prompt": "Meine 8 Lieblingswörter auf Nährwertetiketten",
             "subtype": "subjective",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
