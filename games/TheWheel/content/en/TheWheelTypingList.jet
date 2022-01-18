@@ -1317,7 +1317,7 @@
                         "Chewie",
                         "Wookiee",
                         "Chewy",
-                        "Cewbaca"
+                        "Cewbaca",
                         "Wookiees",
                         "Wookiee Krieger"
                     ],
@@ -1377,7 +1377,7 @@
                         "AZ-345211896246498721347",
                         "AZ",
                         "AZI-3",
-                        "AZ Drei,
+                        "AZ Drei",
                         "AZI",
                         "AZI Drei"
                     ],
@@ -1607,7 +1607,7 @@
                 },
                 {
                     "altSpellings": [
-                        "Affen"
+                        "Affen",
                         "Der Affe",
                         "Die Affen",
                         "Gorilla",
@@ -2034,54 +2034,56 @@
                     "altSpellings": [
                         "Super Mario"
                     ],
-                    "hint": "It's-a him! You know, the one whose name is in the title of the game?",
+                    "hint": "It's a me! Ihr wisst schon, der dessen Name im Titel steht?",
                     "text": "Mario"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "It's-a him, the main character's brother! A sensitive plumber just trying to get by.",
+                    "hint": "",
                     "text": "Luigi"
                 },
                 {
                     "altSpellings": [
-                        "Captain Toad"
+                        "Captain Toad",
+                        "Toadette"
                     ],
-                    "hint": "Please don't forget about this little mushroom who wears a vest.",
+                    "hint": "",
                     "text": "Toad"
                 },
                 {
                     "altSpellings": [
-                        "Peach"
+                        "Peach",
+                        "Prinzessin Toadstool"
                     ],
-                    "hint": "Wasn't there a royal racer? Someone who was a queen, or a prince, or a...",
-                    "text": "Princess Peach"
+                    "hint": "War da nicht noch jemand Royales dabei? Irgendeine Königin, war es ein Prinz?",
+                    "text": "Prinzessin Peach"
                 },
                 {
                     "altSpellings": [
-                        "Koopa",
-                        "Koopa Turtle"
+                        "Koopa Troopa"
                     ],
-                    "hint": "Don't forget about this upright turtle who wears shoes! You forgot about him, didn't you?",
-                    "text": "Koopa Troopa"
+                    "hint": "Vergesst nicht die rasende Schildkröte! Ihr habt sie vergessen, nicht wahr?",
+                    "text": "Koopa"
                 },
                 {
                     "altSpellings": [
                         "Donkey Kong",
-                        "DK"
+                        "DK",
+                        "Donkey Kong Junior"
                     ],
-                    "hint": "This guy loves bananas and hates barrels. He's like the opposite of me!",
+                    "hint": "Dieser Typ liebt Bananen und hasst Fässer. Lustig, er ist damit das genaue Gegenteil von mir!",
                     "text": "Donkey Kong Jr"
                 },
                 {
                     "altSpellings": [
                         "King Koopa"
                     ],
-                    "hint": "What about the big spiky monster guy? Remember him?",
+                    "hint": "",
                     "text": "Bowser"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "He's a dinosaur who can lay eggs on command! I know you know who this is.",
+                    "hint": "Ein Dinosaurier der auf Kommando Eier legen kann! Ich weiss, dass ihr wisst wen ich meine.",
                     "text": "Yoshi"
                 }
             ],
@@ -2089,7 +2091,7 @@
             "exactSpelling": false,
             "id": "77765",
             "isValid": "",
-            "prompt": "Which 8 characters were playable in the original [i]Super Mario Kart[/i]?",
+            "prompt": "Welche 8 Charaktere waren im originalen [i]Super Mario Kart[/i] spielbar?",
             "subtype": "name",
             "us": false,
             "x": false
@@ -2343,61 +2345,93 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "Vainglory",
-                        "prideful"
+                        "Stolz",
+                        "Überheblichkeit",
+                        "Prahlerei",
+                        "Prahlen",
+                        "Selbstverherrlichung",
+                        "Arroganz",
+                        "Egoismus"
                     ],
-                    "hint": "Being selfish or arrogant? That's definitely a sin.",
-                    "text": "Pride"
+                    "hint": "Bist du egoistisch oder arrogant? Ganz eindeutig, du bist ein Sünder.",
+                    "text": "Hochmut"
                 },
                 {
                     "altSpellings": [
-                        "Covetousness",
-                        "Greediness",
-                        "Covet",
-                        "Coveting"
+                        "Gier",
+                        "Begierde",
+                        "Habsucht",
+                        "Geizigkeit",
+                        "Gierigkeit",
+                        "Geiz"
                     ],
-                    "hint": "Hoarding wealth or other resources? You bet that's a sin.",
-                    "text": "Greed"
+                    "hint": "",
+                    "text": "Habgier"
                 },
                 {
                     "altSpellings": [
-                        "Lustful",
-                        "Lusting",
-                        "desire"
+                        "Sehnsucht",
+                        "Begehren",
+                        "Erotik",
+                        "Lüsternheit"
                     ],
-                    "hint": "Feelings of longing or desire? Yep, that's a sin.",
-                    "text": "Lust"
+                    "hint": "Gefühle des Begehrens? Warum fragst du noch?",
+                    "text": "Wollust"
                 },
                 {
                     "altSpellings": [
-                        "Jealousy"
+                        "Eifersucht",
+                        "Neidisch",
+                        "Misgunst"
                     ],
-                    "hint": "Wanting what someone else has? Welcome to sin city, population you!",
-                    "text": "Envy"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Overindulging? That's a sin.",
-                    "text": "Gluttony"
+                    "hint": "Du möchtest etwas, das aber jemand anderes schon hat? Willkommen in Sin City, einziger Einwohner: Du!",
+                    "text": "Neid"
                 },
                 {
                     "altSpellings": [
-                        "Anger"
+                        "Völerei",
+                        "Voellerei",
+                        "Gefräßigkeit",
+                        "Gefräßig",
+                        "Gelage",
+                        "Fresserei",
+                        "Orgie"
                     ],
-                    "hint": "Uncontrollable rage? Sure, that's a sin.",
-                    "text": "Wrath"
+                    "hint": "Über den Hunger hinaus essen? (singend) Eine Sünde.",
+                    "text": "Völlerei"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "Lazing around? That's a sin for sure.",
-                    "text": "Sloth"
+                    "altSpellings": [
+                        "Wut",
+                        "Jähzorn",
+                        "Rage",
+                        "Aggressivität",
+                        "Raserei",
+                        "Cholerisch"
+                    ],
+                    "hint": "",
+                    "text": "Zorn"
+                },
+                {
+                    "altSpellings": [
+                        "Faulheit",
+                        "Faulenzen",
+                        "Traegheit",
+                        "Bequemlichkeit",
+                        "Sorglosigkeit",
+                        "Desinteresse",
+                        "Gleichgültigkeit",
+                        "Energielosigkeit"
+                    ],
+                    "hint": "Faulenzen? Wenn man eine so begrenzte Zeit hat wie ihr Menschen...",
+                    "text": "Trägheit"
                 }
             ],
             "category": "History",
             "exactSpelling": false,
             "id": "77800",
             "isValid": "",
-            "prompt": "What are the seven deadly sins?",
+            "prompt": "Was sind die 7 Todsünden?",
             "subtype": "name",
             "us": false,
             "x": true
