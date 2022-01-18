@@ -1017,75 +1017,119 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "Choclate"
+                        "Schoko",
+                        "Schoko Eis",
+                        "Schoko Eiscreme",
+                        "Schokoladen Eis",
+                        "Schokoladen Eiscreme"
+                        
                     ],
-                    "hint": "(perturbed) I'm going to spell it out for you. Chocolate! Just type in chocolate!",
-                    "text": "chocolate"
-                },
-                {
-                    "hint": "Some might say it's the most boring flavor.",
-                    "text": "vanilla"
+                    "hint": "(genervt) Okay, ich buchstabiere es einfach für euch: Schokolade! Es ist so offensichtlich, tippt einfach Schokolade ein!",
+                    "text": "Schokolade"
                 },
                 {
                     "altSpellings": [
-                        "straw berry"
+                        "Vanille Eis",
+                        "Vanille Eiscreme",
+                        "Vanile Eis",
+                        "Vanile Eiscreme"
                     ],
-                    "text": "strawberry"
+                    "hint": "Einige würden sagen, dass es der langweiligste Geschmack ist.",
+                    "text": "Vanille"
                 },
                 {
                     "altSpellings": [
-                        "cookies and cream",
-                        "cookies & cream",
-                        "cookies cream"
+                        "Erdbeer",
+                        "Erdbeer Eis",
+                        "Erdbeer Eiscreme",
+                        "Erdbeeren Eis",
+                        "Erdbeeren Eiscreme"
                     ],
-                    "text": "cookies 'n' cream"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Do you like your ice cream caffeinated?",
-                    "text": "coffee"
+                    "text": "Erdbeere"
                 },
                 {
                     "altSpellings": [
-                        "choclate chip",
-                        "mint chocolate chip"
+                        "Joghurt Eis",
+                        "Joghurt Eiscreme",
+                        "Jogurt Eis"
                     ],
-                    "text": "chocolate chip"
+                    "text": "Joghurt"
                 },
                 {
                     "altSpellings": [
-                        "rockyroad"
+                        "Kaffee Eis",
+                        "Kaffee Eiscreme",
+                        "Late Machiato",
+                        "Latte Macchiato",
+                        "Latte Macchiato Eis",
+                        "Latte Macchiato Eiscreme"
                     ],
-                    "hint": "Though the road may be long, hopefully it's also THIS.",
-                    "text": "rocky road"
+                    "hint": "Darf ich ihnen unseren Eiskaffee anbieten? Oder doch lieber andersherum?",
+                    "text": "Kaffee"
                 },
                 {
                     "altSpellings": [
-                        "cookie doe"
+                        "Zitronen",
+                        "Zitronen Eis",
+                        "Zitronen Eiscreme"
                     ],
-                    "text": "cookie dough"
+                    "text": "Zitrone"
                 },
                 {
                     "altSpellings": [
-                        "buttered pecan",
-                        "pecan"
+                        "Hasselnus",
+                        "Haselnüsse",
+                        "Haselnuss Eis",
+                        "Haselnuss Eiscreme",
+                        "Nuss",
+                        "Nuss Eis",
+                        "Nuss Eiscreme",
+                        "Nüsse"
                     ],
-                    "hint": "One of my favorites is nice and buttery.",
-                    "text": "butter pecan"
+                    "hint": "Diese Sorte ist nichts für Allergiker, auch wenn sie zum Sterben gut ist!",
+                    "text": "Haselnuss"
                 },
                 {
                     "altSpellings": [
-                        "pistashio"
+                        "cookie dough",
+                        "cookie dough eis",
+                        "Cookie Eis",
+                        "Cookie Eiscreme",
+                        "Kekse",
+                        "Keksteig",
+                        "Keks Eis",
+                        "Keks Eiscreme"
                     ],
-                    "hint": "One of my faves has a green tinge with a nutty flavor.",
-                    "text": "pistachio"
+                    "text": "Cookies"
+                },
+                {
+                    "altSpellings": [
+                        "Schtracciatella",
+                        "Straziatela",
+                        "Straciatela",
+                        "Stracciatella Eis",
+                        "Stracciatella Eiscreme",
+                        "Straciatela Eis",
+                        "Straciatela Eiscreme"
+                    ],
+                    "hint": "Einfach, aber elegant. Ich mag die Schokostücke am liebsten.",
+                    "text": "Stracciatella"
+                },
+                {
+                    "altSpellings": [
+                        "Pistazien Eis",
+                        "Pistazien Eiscreme",
+                        "Pistazieneis"
+                    ],
+                    "hint": "Eine meiner liebsten Sorten hat eine grüne Färbung und ein nussiges Aroma.",
+                    "text": "Pistazie"
                 }
             ],
             "category": "Food & Drink",
             "exactSpelling": false,
             "id": "77203",
             "isValid": "",
-            "prompt": "The 10 Best Ice Cream Flavors",
+            "prompt": "Die 10 objektiv besten Eiscreme-Sorten",
             "subtype": "subjective",
             "us": false,
             "x": false
