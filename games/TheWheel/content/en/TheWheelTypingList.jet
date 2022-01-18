@@ -1314,68 +1314,81 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "chewie",
-                        "wookiee",
-                        "chewy"
+                        "Chewie",
+                        "Wookiee",
+                        "Chewy",
+                        "Cewbaca"
+                        "Wookiees",
+                        "Wookiee Krieger"
                     ],
-                    "hint": "I'm thinking of a TALL, adorable character. And let's just say \"hirsute.\"",
+                    "hint": "",
                     "text": "Chewbacca"
                 },
                 {
                     "altSpellings": [
                         "Ewok"
                     ],
-                    "hint": "You know! The cute ones with the smashed-in dog faces! Come on now.",
+                    "hint": "Ihr wisst schon! Die kleinen Krieger die aussehen wie Stofftiere.",
                     "text": "Ewoks"
                 },
                 {
                     "altSpellings": [
                         "R2",
+                        "D2",
                         "R2D2",
                         "R2 D2",
-                        "Artoo",
-                        "Artoo Deetoo",
-                        "Artwo"
+                        "R Zwo",
+                        "R Zwo D Zwo",
+                        "R Zwei",
+                        "R Zwei D Zwei"
                     ],
-                    "hint": "One word: Droid!",
+                    "hint": "",
                     "text": "R2-D2"
                 },
                 {
                     "altSpellings": [
-                        "BB8"
+                        "BB8",
+                        "BB Acht",
+                        "B B 8"
                     ],
-                    "hint": "There's that one that looks a bit like a soccer ball. Or a football if you will.",
+                    "hint": "(nachdenklich) Dieser niedliche Roboter der aussieht wie ein bunter Fußball, wie hieß der noch gleich?",
                     "text": "BB-8"
                 },
                 {
                     "altSpellings": [
-                        "Porg"
+                        "Porg",
+                        "Porg Vogel",
+                        "Porg Vögel"
                     ],
-                    "hint": "Who were those cute, chubby birds in [i]The Rise of Skywalker[/i]?",
+                    "hint": "Wie hießen nochmal diese niedlichen kleinen Vögel in [i]The Rise of Skywalker[/i]?",
                     "text": "Porgs"
                 },
                 {
                     "altSpellings": [
-                        "The Child",
-                        "Grogu"
+                        "Baby-Yoda",
+                        "Grogu",
+                        "Das Kind"
                     ],
-                    "hint": "So Yoda didn't make my list, but this one did.",
+                    "hint": "Wider Erwarten war selbst Yoda als Baby niedlich.",
                     "text": "Baby Yoda"
                 },
                 {
                     "altSpellings": [
-                        "Ice Fox",
-                        "Vulptices",
-                        "Vulptex",
-                        "Crystal Foxes",
-                        "Ice Foxes"
+                        "AZ-345211896246498721347",
+                        "AZ",
+                        "AZI-3",
+                        "AZ Drei,
+                        "AZI",
+                        "AZI Drei"
                     ],
-                    "text": "Crystal Fox"
+                    "hint": "",
+                    "text": "AZ-3"
                 },
                 {
                     "altSpellings": [
                         "Jawa"
                     ],
+                    "hint": "Ich denke an süße Schrottsammler und gerissene kleine Diebe",
                     "text": "Jawas"
                 }
             ],
@@ -1383,7 +1396,7 @@
             "exactSpelling": false,
             "id": "77227",
             "isValid": "",
-            "prompt": "The 8 Most Adorable [i]Star Wars[/i] Characters and Species",
+            "prompt": "Die 8 süßesten Charaktere und Spezies aus [i]Star Wars[/i]",
             "subtype": "subjective",
             "us": false,
             "x": false
@@ -1465,142 +1478,216 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "polar bear",
-                        "teddy bear",
-                        "grizzly bear",
-                        "brown bear"
-                    ],
-                    "hint": "Rooaar!!! Well, that could apply to a few these actually.",
-                    "text": "bear"
-                },
-                {
-                    "altSpellings": [
-                        "american bison"
-                    ],
-                    "hint": "Not exactly a buffalo, but similar.",
-                    "text": "bison"
-                },
-                {
-                    "altSpellings": [
-                        "dromedary"
-                    ],
-                    "hint": "Think... humps.",
-                    "text": "camel"
-                },
-                {
-                    "altSpellings": [
-                        "puma",
-                        "panther",
-                        "mountain lion",
-                        "catamount",
-                        "painter"
-                    ],
-                    "hint": "One of them is kind of a lion, sort of.",
-                    "text": "cougar"
-                },
-                {
-                    "altSpellings": [
-                        "african elephant",
-                        "asian elephant"
+                        "Pferde",
+                        "Das Pferd",
+                        "Die Pferde",
+                        "Hengst",
+                        "Gaul",
+                        "Pony",
+                        "Schimmel",
+                        "Stute",
+                        "Ross"
                     ],
                     "hint": "",
-                    "text": "elephant"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Come on, stick your neck out. Your NECK!",
-                    "text": "giraffe"
+                    "text": "Pferd"
                 },
                 {
                     "altSpellings": [
-                        "ape",
-                        "silverback",
-                        "silverback gorilla"
+                        "Kamele",
+                        "Das Kamel",
+                        "Die Kamele",
+                        "Dromedar",
+                        "Dromedare",
+                        "Das Dromedar",
+                        "Die Dromedare"
+
                     ],
-                    "hint": "Think King Kong, but bite-sized.",
-                    "text": "gorilla"
+                    "hint": "Ein Tier, welches sehr lange ohne Wasser auskommen kann.",
+                    "text": "Kamel"
                 },
                 {
                     "altSpellings": [
-                        "hippo"
+                        "Der Esel",
+                        "Die Esel",
+                        "Packesel",
+                        "Lastenesel"
                     ],
-                    "hint": "",
-                    "text": "hippopotamus"
+                    "hint": "Ein exzellentes Lastentier, wenn auch etwas lahm.",
+                    "text": "Esel"
                 },
                 {
                     "altSpellings": [
-                        "hyaena"
-                    ],
-                    "hint": "",
-                    "text": "hyena"
-                },
-                {
-                    "altSpellings": [
-                        "roo"
-                    ],
-                    "hint": "Reach into your pouches and see what comes up.",
-                    "text": "kangaroo"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "lion"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "monkey"
-                },
-                {
-                    "altSpellings": [
-                        "rhino"
+                        "Hunde",
+                        "Der Hund",
+                        "Die Hunde",
+                        "Haushund",
+                        "Wolf",
+                        "Wölfe",
+                        "Der Wolf",
+                        "Die Wölfe"
                     ],
                     "hint": "",
-                    "text": "rhinoceros"
+                    "text": "Hund"
                 },
                 {
                     "altSpellings": [
-                        "harbor seal",
-                        "common seal",
-                        "sea lion",
-                        ""
+                        "Bären",
+                        "Baer",
+                        "Baeren",
+                        "Der Bär",
+                        "Die Bären",
+                        "Braunbär",
+                        "Braunbären",
+                        "Eisbär",
+                        "Eisbären",
+                        "Schwarzbär",
+                        "Panda",
+                        "Pandas",
+                        "Pandabär"
                     ],
                     "hint": "",
-                    "text": "seal"
+                    "text": "Bär"
                 },
                 {
                     "altSpellings": [
-                        "lamb"
+                        "Löwen",
+                        "Der Löwe",
+                        "Die Löwen",
+                        "Loewe"
                     ],
-                    "hint": "Baaaaaaa! (clear throat) Excuse me.",
-                    "text": "sheep"
+                    "hint": "Der König der Savanne.",
+                    "text": "Löwe"
                 },
                 {
                     "altSpellings": [
-                        "bengal tiger",
-                        "bengal"
+                        "Elefanten",
+                        "Der Elefant",
+                        "Die Elefanten"
                     ],
                     "hint": "",
-                    "text": "tiger"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "What animal starts with a Z?",
-                    "text": "zebra"
+                    "text": "Elefant"
                 },
                 {
                     "altSpellings": [
-                        "koala bear"
+                        "Katzen",
+                        "Die Katze",
+                        "Die Katzen",
+                        "Kater",
+                        "Der Kater",
+                        "Raubkatze",
+                        "Die Raubkatze",
+                        "Hauskatze"
                     ],
-                    "hint": "One is an marsupial that loves eucalyptus leaves.",
-                    "text": "koala"
+                    "hint": "",
+                    "text": "Katze"
+                },
+                {
+                    "altSpellings": [
+                        "Enten",
+                        "Die Ente",
+                        "Die Enten",
+                        "Erpel",
+                        "Enterich"
+                    ],
+                    "hint": "Ich würde auch gerne den ganzen Tag über Schnattern... Ich habe nunmal ein Redebedürfnis, das ist nichts verwerfliches!",
+                    "text": "Ente"
+                },
+                {
+                    "altSpellings": [
+                        "Hasen",
+                        "Der Hase",
+                        "Die Hasen",
+                        "Kaninchen",
+                        "Das Kaninchen",
+                        "Die Kaninchen",
+                        "Karnickel"
+                    ],
+                    "hint": "",
+                    "text": "Hase"
+                },
+                {
+                    "altSpellings": [
+                        "Affen"
+                        "Der Affe",
+                        "Die Affen",
+                        "Gorilla",
+                        "Der Gorilla",
+                        "Gorillas",
+                        "Die Gorillas",
+                        "Schimpanse",
+                        "Schimpansen",
+                        "Der Schimpanse",
+                        "Die Schimpansen"
+                    ],
+                    "hint": "",
+                    "text": "Affe"
+                },
+                {
+                    "altSpellings": [
+                        "Das Eichhörnchen",
+                        "Die Eichhörnchen",
+                        "Eich Hörnchen",
+                        "Eichhoernchen"
+                    ],
+                    "hint": "",
+                    "text": "Eichhörnchen"
+                },
+                {
+                    "altSpellings": [
+                        "Pinguine",
+                        "Der Pinguin",
+                        "Die Pinguine"
+                    ],
+                    "hint": "",
+                    "text": "Pinguin"
+                },
+                {
+                    "altSpellings": [
+                        "Lamm",
+                        "Lämmer",
+                        "Das Lamm",
+                        "Die Lämmer",
+                        "Schafe",
+                        "Das Schaf",
+                        "Die Schafe"
+                    ],
+                    "hint": "Määääääääh! (Räuspern) Verzeihung.",
+                    "text": "Schaf"
+                },
+                {
+                    "altSpellings": [
+                        "Schildkröten",
+                        "Schild Kröte",
+                        "Die Schildkröte",
+                        "Die Schildkröten",
+                        "Schildkroete"
+                    ],
+                    "hint": "",
+                    "text": "Schildkröte"
+                },
+                {
+                    "altSpellings": [ 
+                        "Das Nashorn",
+                        "Nashörner",
+                        "Die Nashörner"
+                    ],
+                    "hint": "Das große Horn macht diese Tierart leicht erkennbar.",
+                    "text": "Nashorn"
+                },
+                {
+                    "altSpellings": [
+                        "Eulen",
+                        "Die Eule"
+                    ],
+                    "hint": "Nachtaktiv und stets auf Beutesuche, erkennbar an ihrem markanten Ruf",
+                    "text": "Eule"
                 }
             ],
             "category": "Food & Drink",
             "exactSpelling": false,
             "id": "77334",
             "isValid": "",
-            "prompt": "Which animals were included in Barnum's Animals Crackers (100th Anniversary Edition)?",
+            "prompt": "Welche Tierarten sind in den [i]Leibniz Zoo[/i]-Tierkeksen zu finden?",
             "subtype": "name",
             "us": false,
             "x": false
