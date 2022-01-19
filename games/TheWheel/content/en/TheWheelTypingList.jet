@@ -1009,7 +1009,7 @@
             "isValid": "",
             "prompt": "My 12 Preferred Red Wines for When I Need to... Unwind",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -1216,7 +1216,7 @@
             "isValid": "",
             "prompt": "The 12 Stephen King Novels That Were Too Scary for Me to Finish",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -1470,7 +1470,7 @@
             "isValid": "",
             "prompt": "Which woodwind instruments may be found in an orchestra?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -1695,93 +1695,66 @@
             "answers": [
                 {
                     "altSpellings": [],
+                    "hint": "Eins davon esse selbst ich gerne im Sommer.",
+                    "text": "Eis"
+                },
+                {
+                    "altSpellings": [
+                        "Fleiss"
+                    ],
                     "hint": "",
-                    "text": "beam"
+                    "text": "Fleiß"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "",
-                    "text": "bream"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "cream"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "deem"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "You might experience this while you're sleeping.",
-                    "text": "dream"
+                    "hint": "Wo muss ich immer viel zu lange warten, wenn mich die Bahn mal wieder enttäuscht?",
+                    "text": "Gleis"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "gleam"
+                    "text": "Mais"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "ream"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "What is it you do when you make shady plans?",
-                    "text": "scheme"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "(SFX: scream)",
-                    "text": "scream"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "You'll find this along the side of a pair of pants.",
-                    "text": "seam"
+                    "text": "Preis"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "seem"
+                    "text": "Reis"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "If you like saunas, you'll know all about THIS one.",
-                    "text": "steam"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "What's another word for a brook?",
-                    "text": "stream"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Think group sports.",
-                    "text": "team"
-                },
-                {
-                    "altSpellings": [],
+                    "altSpellings": [
+                        "Scheiss"
+                    ],
                     "hint": "",
-                    "text": "teem"
+                    "text": "Scheiß"
                 },
                 {
-                    "altSpellings": [],
+                    "altSpellings": [
+                        "Schweiss"
+                    ],
                     "hint": "",
-                    "text": "theme"
+                    "text": "Schweiß"
+                },
+                {
+                    "altSpellings": [
+                        "Weiss"
+                    ],
+                    "hint": "Denkt vielleicht auch mal an meine Lieblingsfarbe, weil sie so hell ist!",
+                    "text": "Weiß"
                 }
             ],
             "category": "Language/Words/Grammar",
             "exactSpelling": true,
             "id": "77336",
             "isValid": "",
-            "prompt": "What rhymes with “meme”? (one-syllable common words only)",
+            "prompt": "Was reimt sich auf “Kreis”? (nur einsilbige, bekannte Nomen)",
             "subtype": "rhyme",
             "us": false,
-            "x": false
+            "x": true
         },
         {
             "answers": [
@@ -1862,7 +1835,7 @@
             "isValid": "",
             "prompt": "What rhymes with “twerk”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -1969,7 +1942,7 @@
             "isValid": "",
             "prompt": "What rhymes with “Drake”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -2024,7 +1997,7 @@
             "isValid": "",
             "prompt": "The 5 Best Parts of a Crab",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -2092,7 +2065,7 @@
             "isValid": "",
             "prompt": "Welche 8 Charaktere waren im originalen [i]Super Mario Kart[/i] spielbar?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -2176,7 +2149,7 @@
             "isValid": "",
             "prompt": "The 8 Everyday Places Where You Might Run Into Ewan McGregor",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -2267,7 +2240,7 @@
             "isValid": "",
             "prompt": "The 9 Rooms Where Dads Can't Help Themselves from Turning Off the Lights",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -2337,7 +2310,7 @@
             "isValid": "",
             "prompt": "My 8 Favorite Road Trip Snacks",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -2432,7 +2405,7 @@
             "isValid": "",
             "prompt": "Was sind die 7 Todsünden?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": true
         },
         {
@@ -2493,7 +2466,7 @@
             "isValid": "",
             "prompt": "My 7 Favorite Stringed Instruments",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -2557,7 +2530,7 @@
             "isValid": "",
             "prompt": "My 7 Favorite Frozen Desserts",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -2640,7 +2613,7 @@
             "isValid": "",
             "prompt": "The 13 Best Bar Drinks",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": true
         },
         {
@@ -2769,7 +2742,7 @@
             "isValid": "",
             "prompt": "My 6 Favorite Leonardo DiCaprio Movies",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -2857,7 +2830,7 @@
             "isValid": "",
             "prompt": "My 10 Favorite Batman Villains",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -2926,7 +2899,7 @@
             "isValid": "",
             "prompt": "9 unterschiedliche Begriffe für “Auto”",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -3016,7 +2989,7 @@
             "isValid": "",
             "prompt": "Was gehört alles auf mein Chicken Teriyaki Sandwich bei Subway?",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -3083,7 +3056,7 @@
             "isValid": "",
             "prompt": "What are the first 5 books of the Old Testament?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -3155,7 +3128,7 @@
             "isValid": "",
             "prompt": "Name the 5 members of the 1960s Rat Pack",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -3268,7 +3241,7 @@
             "isValid": "",
             "prompt": "What are the Five Pillars of Islam?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -3335,7 +3308,7 @@
             "isValid": "",
             "prompt": "Which 8 countries do the Alps run through?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -3403,7 +3376,7 @@
             "isValid": "",
             "prompt": "In which cities of the world can you find a Disney theme park?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -3567,7 +3540,7 @@
             "isValid": "",
             "prompt": "Name the members of [i]The Brady Bunch[/i]",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -3636,7 +3609,7 @@
             "isValid": "",
             "prompt": "What are the 8 original V8 veggies?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -3798,7 +3771,7 @@
             "isValid": "",
             "prompt": "Which 7 colors are on the visible light spectrum?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -3871,7 +3844,7 @@
             "isValid": "",
             "prompt": "My 8 Favorite Famous Magicians",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -3930,7 +3903,7 @@
             "isValid": "",
             "prompt": "Which 6 Apple products can fit in a standard shoebox?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -3995,7 +3968,7 @@
             "isValid": "",
             "prompt": "What are the ingredients in a chocolate soufflé?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -4039,7 +4012,7 @@
             "isValid": "",
             "prompt": "The 6 Shapes I Would Like to Be If I Weren't a Wheel",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -4106,7 +4079,7 @@
             "isValid": "",
             "prompt": "What are the 6 Nobel Prize categories?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -4258,7 +4231,7 @@
             "isValid": "",
             "prompt": "I Wish My Facial Slices Were Filled With These 6 [i]Pies[/i] Instead of Your Names",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -4370,7 +4343,7 @@
             "isValid": "",
             "prompt": "The 12 Biggest Dreamboats in the Marvel Cinematic Universe (Celebrity Names)",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -4557,7 +4530,7 @@
             "isValid": "",
             "prompt": "What rhymes with “care”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -4610,7 +4583,7 @@
             "isValid": "",
             "prompt": "What rhymes with “dang”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -4667,7 +4640,7 @@
             "isValid": "",
             "prompt": "What rhymes with “Bort”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -4741,7 +4714,7 @@
             "isValid": "",
             "prompt": "Name the five senses + the one Haley Joel Osment has",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -4899,7 +4872,7 @@
             "isValid": "",
             "prompt": "Who are the 5 primary members of the [i]Simpsons[/i] family?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -5001,7 +4974,7 @@
             "isValid": "",
             "prompt": "Name all the body parts mentioned in the nursery rhyme “Head, Shoulders, Knees and Toes”",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -5078,7 +5051,7 @@
             "isValid": "",
             "prompt": "What rhymes with “plush”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -5194,7 +5167,7 @@
             "isValid": "",
             "prompt": "What rhymes with “chunk”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -5390,7 +5363,7 @@
             "isValid": "",
             "prompt": "What rhymes with “beep”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": true
         },
         {
@@ -5462,7 +5435,7 @@
             "isValid": "",
             "prompt": "What rhymes with “czar”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -5535,7 +5508,7 @@
             "isValid": "",
             "prompt": "What rhymes with “peach”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -5602,7 +5575,7 @@
             "isValid": "",
             "prompt": "What rhymes with “heart”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": true
         },
         {
@@ -5708,7 +5681,7 @@
             "isValid": "",
             "prompt": "What rhymes with “string”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -5782,7 +5755,7 @@
             "isValid": "",
             "prompt": "What rhymes with “shower”? (one- or two-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -5865,7 +5838,7 @@
             "isValid": "",
             "prompt": "What rhymes with “Shrek”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -5929,7 +5902,7 @@
             "isValid": "",
             "prompt": "What countries start with the letter “P”?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -5983,7 +5956,7 @@
             "isValid": "",
             "prompt": "What are the 6 fire and water signs of the zodiac?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -6029,7 +6002,7 @@
             "isValid": "",
             "prompt": "According to [i]The New York Times[/i], which 6 ingredients do you need to make a classic Waldorf salad?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -6121,7 +6094,7 @@
             "isValid": "",
             "prompt": "Name the girls in the [i]Golden Girls[/i] house AND the boys in the [i]Entourage[/i] entourage",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -6163,7 +6136,7 @@
             "isValid": "",
             "prompt": "Which 6 colors will you find in a bag of milk chocolate M&M’S?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -6237,7 +6210,7 @@
             "isValid": "",
             "prompt": "What are the 9 defensive positions you can play in baseball?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -6321,7 +6294,7 @@
             "isValid": "",
             "prompt": "What are all of the prime numbers between 1 and 30?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -6425,7 +6398,7 @@
             "isValid": "",
             "prompt": "Quick! What are the first names of all the members of One Direction?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -6483,7 +6456,7 @@
             "isValid": "",
             "prompt": "Which 5 games are included in [i]The Jackbox Party Pack 7[/i]?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -6538,7 +6511,7 @@
             "isValid": "",
             "prompt": "What are the 5 named oceans on Earth?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -6625,7 +6598,7 @@
             "isValid": "",
             "prompt": "What are the 7 denominations of Canadian coins?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -6681,7 +6654,7 @@
             "isValid": "",
             "prompt": "What were the original 6 weapons in the board game [i]Clue[/i]?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -6728,7 +6701,7 @@
             "isValid": "",
             "prompt": "What are the 5 Great Lakes of North America?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -6906,7 +6879,7 @@
             "isValid": "",
             "prompt": "What rhymes with “mug”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -7014,7 +6987,7 @@
             "isValid": "",
             "prompt": "What rhymes with “cheers”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -7071,7 +7044,7 @@
             "isValid": "",
             "prompt": "What rhymes with “angle”? (two-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -7167,7 +7140,7 @@
             "isValid": "",
             "prompt": "What rhymes with “tile”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -7254,7 +7227,7 @@
             "isValid": "",
             "prompt": "The 7 Popular Devices Some Humans Use to Inhale and Exhale Smoke",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": true
         },
         {
@@ -7339,7 +7312,7 @@
             "isValid": "",
             "prompt": "What rhymes with “round”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         }
     ]

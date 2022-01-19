@@ -2,38 +2,45 @@
  "content": [
   {
    "altSpellings": [
-    "circle"
+    "Dschungelcamp",
+    "Das Dschungelcamp",
+    "Ich bin ein Star",
+    "Ich bin ein Star holt mich hier raus",
+    "Ich bin ein Star, holt mich hier raus",
+    "Jungelcamp",
+    "IBES"
    ],
-   "answer": "[i]The Circle[/i]",
+   "answer": "[i]Ich bin ein Star - Holt mich hier raus![/i]",
    "category": "Film & TV",
    "clues": [
     {
-     "clue": "It was originally a British TV show of the same name."
+     "clue": "Das Format stammt ursprünglich aus dem Vereinigten Königreich."
     },
     {
-     "clue": "Participants are isolated from the everyday world.",
-     "clueComment": "Participants are isolated from the everyday world. I can relate to that kind of loneliness."
+     "clue": "Die Teilnehmer werden bei der Sendung aus ihrem Alltag gerissen.",
+     "clueComment": "Die Teilnehmer werden bei der Sendung aus ihrem Alltag gerissen. Ich kenne das Gefühl."
     },
     {
-     "clue": "It airs on Netflix.",
+     "clue": "Es läuft auf RTL.",
+     "clueComment": "Es läuft auf RTL. Wo auch sonst..."
+    },
+    {
+     "clue": "Die Teilnehmer sind immer wechselnde Promis.",
+     "clueComment": "Die Teilnehmer sind immer wechselnde Promis. Obwohl das Wort “Promis” auch heutzutage ein sehr dehnbarer Begriff ist."
+    },
+    {
+     "clue": "Die Serie spielt sich in Australien ab und die Teilnehmer werden rund um die Uhr gefilmt.",
      "clueComment": ""
     },
     {
-     "clue": "Each player begins the competition by creating a social media profile."
-    },
-    {
-     "clue": "While competing, contestants never meet face to face, and “catfishing” is allowed.",
-     "clueComment": ""
-    },
-    {
-     "clue": "The show’s title is the greatest shape the world has ever known. Don’t you dare say “The Triangle”!"
+     "clue": "Die Teilnehmer müssen meist ekelige Prüfungen bestehen, wie beispielsweise das essen von lebenden Tieren."
     }
    ],
    "followup": "",
    "id": "79651",
    "isValid": "",
-   "prompt": "What is my favorite competitive reality TV show?",
-   "reveal": "It's round, it's proud, it's...",
+   "prompt": "Was ist meine lieblings Reality-Show im Fernsehen?",
+   "reveal": "Sie wird verhasst, aber trotzdem geschaut, es ist...",
    "us": false,
    "x": false
   },
@@ -119,7 +126,7 @@
    "isValid": "",
    "prompt": "What is my second favorite invention?",
    "reveal": "Thanks for the memories, Steam Engine. Now say hello to...",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -157,7 +164,7 @@
    "isValid": "",
    "prompt": "Which feature of the human body do I find most fascinating?",
    "reveal": "\"Flow it, show it, long as God can grow it...\"",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -194,7 +201,7 @@
    "isValid": "",
    "prompt": "What is my favorite Nicolas Cage movie?",
    "reveal": "Bring it in for a landing...",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -230,7 +237,7 @@
    "isValid": "",
    "prompt": "What is my most used streaming service?",
    "reveal": "Get ready to binge!",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -266,7 +273,7 @@
    "isValid": "",
    "prompt": "Everyone has a favorite David! Here's mine!",
    "reveal": null,
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -348,7 +355,7 @@
    "isValid": "",
    "prompt": "Mortals, behold! Please identify your world's most fabulous condiment!",
    "reveal": "Any pancake is simply naked without it!",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -384,7 +391,7 @@
    "isValid": "",
    "prompt": "What game do I have a grudging respect for?",
    "reveal": "Let's hear it for capitalism, huh! (pause) Wow, not even a smattering of applause.",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -424,7 +431,7 @@
    "isValid": "",
    "prompt": "What eerily attractive man once suddenly appeared on my mountaintop?",
    "reveal": "Then he told me he lives forever and I said, \"Oh yeah, can you eat garlic forever?\" That shut him up.",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -459,7 +466,7 @@
    "isValid": "",
    "prompt": "Who is my all-time favorite musician?",
    "reveal": "Da-da-da-duuuuuuuuuuuuh, it’s...",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -489,7 +496,7 @@
    "isValid": "",
    "prompt": "Can you give me a hug?",
    "reveal": "What inhuman, unfeeling barbarian would say NO!?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -527,7 +534,7 @@
    "isValid": "",
    "prompt": "Which historical leader am I thinking of?",
    "reveal": null,
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -561,7 +568,7 @@
    "isValid": "",
    "prompt": "What country am I thinking of?",
    "reveal": null,
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -598,7 +605,7 @@
    "isValid": "",
    "prompt": "Which famous individual am I thinking of?",
    "reveal": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -639,7 +646,7 @@
    "isValid": "",
    "prompt": "What body of water am I thinking about?",
    "reveal": "I do love my lonely mountaintop, but what I wouldn’t give to lay my slices on the sands of...",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -675,7 +682,7 @@
    "isValid": "",
    "prompt": "Which American celebrity just makes me feel good?",
    "reveal": "I am thinking of the insanely likable...",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -713,7 +720,7 @@
    "isValid": "",
    "prompt": "What is my favorite European language?",
    "reveal": null,
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -753,7 +760,7 @@
    "isValid": "",
    "prompt": "What is my favorite idiom?",
    "reveal": null,
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -790,7 +797,7 @@
    "isValid": "",
    "prompt": "Which musical's show tunes have I been singing all day?",
    "reveal": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -826,7 +833,7 @@
    "isValid": "",
    "prompt": "How do I like my steak done?",
    "reveal": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -864,7 +871,7 @@
    "isValid": "",
    "prompt": "Which Eastern European country am I vacationing in after I finally snap off my base?",
    "reveal": null,
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -905,7 +912,7 @@
    "isValid": "",
    "prompt": "What is my favorite of your lovely organs?",
    "reveal": null,
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -944,7 +951,7 @@
    "isValid": "",
    "prompt": "What is a movie quote I love to repeat?",
    "reveal": null,
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -982,7 +989,7 @@
    "isValid": "",
    "prompt": "What is the most stylish hat?",
    "reveal": null,
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1019,7 +1026,7 @@
    "isValid": "",
    "prompt": "What character do I really admire?",
    "reveal": "Are your Spidey senses tingling?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1051,7 +1058,7 @@
    "isValid": "",
    "prompt": "What home DIY tool am I thinking of?",
    "reveal": null,
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1085,7 +1092,7 @@
    "isValid": "",
    "prompt": "Which high-fashion brand do I want involved in my future redesign?",
    "reveal": null,
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1123,7 +1130,7 @@
    "isValid": "",
    "prompt": "What did I have for lunch yesterday?",
    "reveal": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1161,7 +1168,7 @@
    "isValid": "",
    "prompt": "What one-of-a-kind vehicle am I thinking of?",
    "reveal": null,
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1197,7 +1204,7 @@
    "isValid": "",
    "prompt": "What artist still owes me $20?",
    "reveal": "Yes, I know he died in 1973, but that $20 is one movie ticket I'll never get back.",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1231,7 +1238,7 @@
    "isValid": "",
    "prompt": "In what month of the year was I born?",
    "reveal": "Let's get spooky...",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1265,7 +1272,7 @@
    "isValid": "",
    "prompt": "Who was I REALLY into in the 1990s?",
    "reveal": null,
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1299,7 +1306,7 @@
    "isValid": "",
    "prompt": "What author wrote some of my very favorite books?",
    "reveal": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1339,7 +1346,7 @@
    "isValid": "",
    "prompt": "Which Greek god is, frankly, a really tough hang?",
    "reveal": null,
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1378,7 +1385,7 @@
    "isValid": "",
    "prompt": "What dessert am I craving right now?",
    "reveal": null,
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1412,7 +1419,7 @@
    "isValid": "",
    "prompt": "Where are my keys?",
    "reveal": "Please, please, where be my keys?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1450,7 +1457,7 @@
    "isValid": "",
    "prompt": "Last night I, the Wheel, had a nightmare about a scary villain. Who is it?",
    "reveal": "If you're a crocodile, get ready for snack time...",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1516,7 +1523,7 @@
    "isValid": "",
    "prompt": "What on earth is my Wi-Fi password?",
    "reveal": "Did you get it right? Yea or neighhhhh?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1549,7 +1556,7 @@
    "isValid": "",
    "prompt": "What hobby is the coolest hobby for a human to have?",
    "reveal": "Shh! You almost scared the answer away!",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1581,7 +1588,7 @@
    "isValid": "",
    "prompt": "What mode of transportation is the most intriguing to me?",
    "reveal": "I mean, how many other forms of transportation did Avril Lavigne write a song about? What a vehicle.",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1613,7 +1620,7 @@
    "isValid": "",
    "prompt": "Which classic actress is as iconic as me?",
    "reveal": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1645,7 +1652,7 @@
    "isValid": "",
    "prompt": "My goodness... that scent... I haven't smelled that scent in years. What is that scent?",
    "reveal": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1701,7 +1708,7 @@
    "isValid": "",
    "prompt": "What piece of furniture makes me envy the human buttocks?",
    "reveal": "Pull up to the bar, it's a...",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -1740,7 +1747,7 @@
    "isValid": "",
    "prompt": "What U.S. city do I seriously want to roll into?",
    "reveal": "Viva...",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1831,7 +1838,7 @@
    "isValid": "",
    "prompt": "What piece of food got caught in my gears once and now I hate it?",
    "reveal": "I absolutely detest...",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1868,7 +1875,7 @@
    "isValid": "",
    "prompt": "What's the Spanish language song I have stuck in my head right now?",
    "reveal": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1907,7 +1914,7 @@
    "isValid": "",
    "prompt": "Aside from being all-seeing and all-knowing, what physical sense do I most identify with?",
    "reveal": null,
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1940,7 +1947,7 @@
    "isValid": "",
    "prompt": "What genre of film do I wish I could star in?",
    "reveal": "Take your answer and beat it, kid.",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1973,7 +1980,7 @@
    "isValid": "",
    "prompt": "What item of clothing would look really snazzy on me?",
    "reveal": null,
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2009,7 +2016,7 @@
    "isValid": "",
    "prompt": "What human accessory would I love to wear?",
    "reveal": "I think I'd just look so cool if I had me a giant pair of...",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2052,7 +2059,7 @@
    "isValid": "",
    "prompt": "Which mathematical formula am I thinking of?",
    "reveal": "Did you think it was gonna be about circumference? Ha! Shows what you know!",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2084,7 +2091,7 @@
    "isValid": "",
    "prompt": "Which classic book do I need to admit to myself that I’m never going to finish?",
    "reveal": "You could say finishing this book is really my white whale.",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2117,7 +2124,7 @@
    "isValid": "",
    "prompt": "If I had feet, what kind of shoes would I like to try on first?",
    "reveal": "Strap in, folks, it's...",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2151,7 +2158,7 @@
    "isValid": "",
    "prompt": "What famous scientist am I thinking of?",
    "reveal": null,
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2183,7 +2190,7 @@
    "isValid": "",
    "prompt": "What fashion magazine do I consider indispensable?",
    "reveal": "By all means, type in your answer at a glacial pace. You know how that thrills me.",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2215,7 +2222,7 @@
    "isValid": "",
    "prompt": "What type of tree makes me say, “Ahh... that's a good tree”?",
    "reveal": "I am deciduously an evergreen fan of this tree, and if you don't like it, you can LEAVE! Ah, I crack myself up.",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2249,7 +2256,7 @@
    "isValid": "",
    "prompt": "Which philosopher do I think is just the coolest?",
    "reveal": "This guy once said, “The unexamined life is not worth living.” And I once said, “Hey, stop standing on my wheel slices! I can’t spin like this!”",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2283,7 +2290,7 @@
    "isValid": "",
    "prompt": "In which luxurious fabric do I desire to garb myself?",
    "reveal": "What would you have me wear? Denim? The only fabric truly worthy of my stature in this realm is...",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2348,7 +2355,7 @@
    "isValid": "",
    "prompt": "Which life-saving drug makes me proud of humanity?",
    "reveal": null,
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2385,7 +2392,7 @@
    "isValid": "",
    "prompt": "What social media platform do I have to check every day?",
    "reveal": "Hi! I'd like to add you to my professional network on this mountaintop!",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2438,7 +2445,7 @@
    "isValid": "",
    "prompt": "What transportation apparatus do I find to be especially amusing?",
    "reveal": "(laughing) It's just a ridiculous tube of humanity!",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2470,7 +2477,7 @@
    "isValid": "",
    "prompt": "Whose g-g-g-ghost do I sometimes see on my mountaintop?",
    "reveal": "Jailhouse Rock? More like Jailhouse STOP SCARING ME, DANCING GHOST!",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2507,7 +2514,7 @@
    "isValid": "",
    "prompt": "Who is my favorite poet?",
    "reveal": "Bring me the sunset in a cup! Reckon the answer to this trivia question up!",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2548,7 +2555,7 @@
    "isValid": "",
    "prompt": "What do you humans consume all the time that is just bonkers to me?",
    "reveal": "Believe it or not, I'm lactose intolerant. I must insist no more ricotta and milkshake sacrifices! No more!",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -2588,7 +2595,7 @@
    "isValid": "",
    "prompt": "What is a style of garment that would NOT look good on me?",
    "reveal": "You don't wanna see a floral pattern spinning in circles at a high rate of speed!",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2623,7 +2630,7 @@
    "isValid": "",
    "prompt": "Which modern musician fuels my spinning workout playlist?",
    "reveal": "Get your horses and put them in the back. It’s...",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2669,7 +2676,7 @@
    "isValid": "",
    "prompt": "What highly specific facial adornment do I find appealing on certain people?",
    "reveal": "You may know it as the jazz dab, the small beard, the mouche, the flavor savor or even the dork tuft. But I just call it...",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2746,7 +2753,7 @@
    "isValid": "",
    "prompt": "Which stand-up comic had me rolling in the aisles?",
    "reveal": "He has MY respect...",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2784,7 +2791,7 @@
    "isValid": "",
    "prompt": "Which historical item creeps me out a little?",
    "reveal": "I'm not the only thing that's going to roll around here...",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -2820,7 +2827,7 @@
    "isValid": "",
    "prompt": "Which type of dance makes me wiggle my hypothetical toes?",
    "reveal": null,
-   "us": false,
+   "us": true,
    "x": false
   }
  ]
