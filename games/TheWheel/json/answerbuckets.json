@@ -548,7 +548,7 @@
         },
         {
             "keywords":["Wann"],
-            "sequential": ["ist", "sind", "können", "kann", "werden", "wird", "machen", "macht", "hat", "könnte", "soll", "sollte", "würde", "hätte", "hatte", "würde"],
+            "sequential": ["ist", "sind", "können", "kann", "werden", "wird", "machen", "macht", "hat", "könnte", "soll", "sollte", "würde", "hätte", "hatte", "würde", "darf", "dürfen"],
             "answers":[
 				"Fünfzehn Minuten nach dem Nachtisch. Nicht früher, nicht später.",
 				"In dem Moment, in dem du heute Abend einschläfst.",
