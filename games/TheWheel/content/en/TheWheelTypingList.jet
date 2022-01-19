@@ -619,84 +619,111 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "Kris"
+                        "Roller Möbelhaus",
+                        "Roller Möbel Haus",
+                        "Roler"
                     ],
-                    "hint": "Don’t forget “K” spellings. I don’t discriminate.",
-                    "text": "Chris"
+                    "hint": "Mit denen habe ich noch eine Rechnung offen. Ich habe mein Geld vergessen und als sie mir keinen “Gottheits-Sonderrabatt” geben wollten, hatte ich keine andere Wahl als schnell wegzuROLLEN." ,
+                    "text": "Roller"
                 },
                 {
                     "altSpellings": [
-                        "Kristoff",
-                        "Christoph",
-                        "Kristoph"
+                        "Poko",
+                        "Poco Einrichtungsmarkt",
+                        "Poco Einrichtungs Markt",
+                        "Poco Möbelhaus",
+                        "Poco Möbel Haus"
                     ],
-                    "text": "Christoff"
+                    "hint":"",
+                    "text": "Poco"
                 },
                 {
                     "altSpellings": [
-                        "Kristo"
+                        "Hoffner",
+                        "Höfner",
+                        "Höffner Möbelhaus",
+                        "Möbelhaus Höffner",
+                        "Möbel Haus Höffner"
                     ],
-                    "text": "Christo"
+                    "hint":"",
+                    "text": "Höffner"
                 },
                 {
                     "altSpellings": [
-                        "Kitt"
+                        "Globus",
+                        "Globus Bau Markt",
+                        "Globus Markt"
                     ],
-                    "text": "Kit"
+                    "hint": "Komischerweise habe ich bei diesem noch nie einen GLOBUS im Angebot gesehen.",
+                    "text": "Globus Baumarkt"
                 },
                 {
                     "altSpellings": [
-                        "Chritter"
+                        "Hagebau",
+                        "Hagebau Markt",
+                        "Hage Baumarkt"
                     ],
-                    "text": "Critter"
+                    "hint":"",
+                    "text": "Hagebaumarkt"
                 },
                 {
                     "altSpellings": [
-                        "Christy",
-                        "Kristy",
-                        "Kristie"
+                        "toom Baumarkt",
+                        "toom Bau Markt",
+                        "toom Markt",
+                        "tom"
                     ],
-                    "text": "Christie"
+                    "hint": "",
+                    "text": "toom"
                 },
                 {
                     "altSpellings": [
-                        "Kristobal"
+                        "Horn Bach",
+                        "HORNBACH Baumarkt",
+                        "HORNBACH Bau Markt",
+                        "HORNBACH Markt"
                     ],
-                    "text": "Christobal"
+                    "hint":"",
+                    "text": "HORNBACH"
                 },
                 {
                     "altSpellings": [
-                        "Kristopherus",
-                        "Christofferus",
-                        "Kristofferus"
+                        "BAUHAUS Markt",
+                        "Bau Haus",
+                        "BAUHAUS Baumarkt",
+                        "BAUHAUS Bau Markt"
                     ],
-                    "text": "Christopherus"
+                    "text": "BAUHAUS"
                 },
                 {
                     "altSpellings": [
-                        "Toffer"
+                        "OBI Biber",
+                        "Obie",
+                        "OBI Markt",
+                        "OBI Baumarkt",
+                        "Obi Bau Markt"
                     ],
-                    "hint": "You might consider the back end of Christopher.",
-                    "text": "Topher"
+                    "hint": "Ihr wisst schon, die mit dem Biber, der mehr aussieht wie ein Eichhörnchen mit Überbiss.",
+                    "text": "OBI"
                 },
                 {
                     "altSpellings": [
-                        "Kris Kross",
-                        "Chris Cross",
-                        "Criss-Cross",
-                        "Chris-Cross",
-                        "Kris-Kross"
+                        "IKEA Einrichtungshaus",
+                        "IKEA Einrichtungs Haus",
+                        "IKEA Möbelhaus",
+                        "IKEA Möbel Haus"
                     ],
-                    "text": "Criss Cross"
+                    "hint":"",
+                    "text": "IKEA"
                 }
             ],
             "category": "Factoids",
-            "exactSpelling": true,
+            "exactSpelling": false,
             "id": "77196",
             "isValid": "",
-            "prompt": "10 good nicknames for someone named “Christopher”",
-            "subtype": "subjective",
-            "us": true,
+            "prompt": "Die 10 umsatzstärksten Möbelhauser und Baumärkte in Deutschland 2020",
+            "subtype": "name",
+            "us": false,
             "x": false
         },
         {
@@ -823,96 +850,95 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "servings",
-                        "amount per serving",
-                        "portion",
-                        "portion size"
+                        "cal",
+                        "Kalorie",
+                        "Kalorien",
+                        "kcal",
+                        "Kilokalorie",
+                        "Kilo Kalorie",
+                        "Kilojoule",
+                        "Kilo Joule",
+                        "kJ",
+                        "Joule",
+                        "J"
                     ],
-                    "text": "serving size"
+                    "hint": "Diese Sache ist einfach überall! Außer vielleicht in Cola Zero...",
+                    "text": "Energie"
                 },
                 {
                     "altSpellings": [
-                        "cals"
+                        "Fette",
+                        "Fettgehalt",
+                        "Fettanteil"
                     ],
-                    "hint": "THIS thing is in everything. Well, except like Coke Zero.",
-                    "text": "calories"
+                    "hint": "",
+                    "text": "Fett"
                 },
                 {
                     "altSpellings": [
-                        "total saturated fat",
-                        "trans fat",
-                        "saturated fat",
-                        "fat content",
-                        "total fat"
+                        "Cholesterin",
+                        "Fettsäuren",
+                        "Ungesättigte Fettsäuren",
+                        "Gesaettigte Fettsaeuren"
                     ],
-                    "text": "fat"
+                    "hint": "Mein Arzt sagte ich solle in Zukunft eher auf ungesättigte dieser Art umsteigen, damit ich nicht noch runder werde.",
+                    "text": "Gesättigte Fettsäuren"
                 },
                 {
                     "altSpellings": [
-                        "colesterol"
+                        "Kochsalz",
+                        "Salze",
+                        "Speisesalz",
+                        "Meersalz",
+                        "Natriumchlorid",
+                        "Natrium Chlorid",
+                        "Salzgehalt"
                     ],
-                    "hint": "Might want to try egg whites to avoid THIS one.",
-                    "text": "cholesterol"
+                    "hint": "",
+                    "text": "Salz"
                 },
                 {
                     "altSpellings": [
-                        "salt"
+                        "Kohlen Hydrate",
+                        "Saccharide"
                     ],
-                    "hint": "If you don't get THIS one, you may feel a bit salty about it.",
-                    "text": "sodium"
+                    "hint": "",
+                    "text": "Kohlenhydrate"
                 },
                 {
                     "altSpellings": [
-                        "carbohydrates",
-                        "carbs"
+                        "Protein",
+                        "Proteine",
+                        "Eiweiße"
                     ],
-                    "hint": "What's that one that really packs on the pounds?",
-                    "text": "carbohydrate"
+                    "hint": "Jeder der schonmal ein Fitnessstudio von innen gesehen hat, solltet mit DIESEM ja vertraut sein.",
+                    "text": "Eiweiß"
                 },
                 {
                     "altSpellings": [
-                        "proteins"
+                        "Ballast Stoffe"
                     ],
-                    "hint": "You gym rats should be familiar with THIS one.",
-                    "text": "protein"
+                    "hint": "",
+                    "text": "Ballaststoffe"
                 },
                 {
                     "altSpellings": [
-                        "fiber",
-                        "daily fiber"
+                        "davon Zucker",
+                        "Zuckeranteil",
+                        "Haushaltszucker",
+                        "Haushalts Zucker"
                     ],
-                    "hint": "You can find plenty of THIS one in bran muffins.",
-                    "text": "dietary fiber"
-                },
-                {
-                    "altSpellings": [
-                        "total sugars",
-                        "added sugars"
-                    ],
-                    "hint": "Don't forget the sweet one!",
-                    "text": "sugar"
-                },
-                {
-                    "altSpellings": [
-                        "percentage daily value",
-                        "DV",
-                        "% daily value",
-                        "% dv",
-                        "percent daily value",
-                        "daily percentage",
-                        "percentage"
-                    ],
-                    "hint": "One of these is a percentage.",
-                    "text": "daily value"
-                }
+                    "hint": "",
+                    "text": "Zucker"
+                } 
             ],
             "category": "Food & Drink",
             "exactSpelling": false,
             "id": "77199",
             "isValid": "",
-            "prompt": "Meine 10 Lieblingswörter auf Nährwertetiketten",
+            "prompt": "Meine 8 Lieblingswörter auf Nährwertetiketten",
             "subtype": "subjective",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -1010,7 +1036,7 @@
             "isValid": "",
             "prompt": "My 12 Preferred Red Wines for When I Need to... Unwind",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -1217,7 +1243,7 @@
             "isValid": "",
             "prompt": "The 12 Stephen King Novels That Were Too Scary for Me to Finish",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -1471,7 +1497,7 @@
             "isValid": "",
             "prompt": "Which woodwind instruments may be found in an orchestra?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -1696,93 +1722,66 @@
             "answers": [
                 {
                     "altSpellings": [],
+                    "hint": "Eins davon esse selbst ich gerne im Sommer.",
+                    "text": "Eis"
+                },
+                {
+                    "altSpellings": [
+                        "Fleiss"
+                    ],
                     "hint": "",
-                    "text": "beam"
+                    "text": "Fleiß"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "",
-                    "text": "bream"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "cream"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "deem"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "You might experience this while you're sleeping.",
-                    "text": "dream"
+                    "hint": "Wo muss ich immer viel zu lange warten, wenn mich die Bahn mal wieder enttäuscht?",
+                    "text": "Gleis"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "gleam"
+                    "text": "Mais"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "ream"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "What is it you do when you make shady plans?",
-                    "text": "scheme"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "(SFX: scream)",
-                    "text": "scream"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "You'll find this along the side of a pair of pants.",
-                    "text": "seam"
+                    "text": "Preis"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "seem"
+                    "text": "Reis"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "If you like saunas, you'll know all about THIS one.",
-                    "text": "steam"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "What's another word for a brook?",
-                    "text": "stream"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Think group sports.",
-                    "text": "team"
-                },
-                {
-                    "altSpellings": [],
+                    "altSpellings": [
+                        "Scheiss"
+                    ],
                     "hint": "",
-                    "text": "teem"
+                    "text": "Scheiß"
                 },
                 {
-                    "altSpellings": [],
+                    "altSpellings": [
+                        "Schweiss"
+                    ],
                     "hint": "",
-                    "text": "theme"
+                    "text": "Schweiß"
+                },
+                {
+                    "altSpellings": [
+                        "Weiss"
+                    ],
+                    "hint": "Denkt vielleicht auch mal an meine Lieblingsfarbe, weil sie so hell ist!",
+                    "text": "Weiß"
                 }
             ],
             "category": "Language/Words/Grammar",
             "exactSpelling": true,
             "id": "77336",
             "isValid": "",
-            "prompt": "What rhymes with “meme”? (one-syllable common words only)",
+            "prompt": "Was reimt sich auf “Kreis”? (nur einsilbige, bekannte Nomen)",
             "subtype": "rhyme",
             "us": false,
-            "x": false
+            "x": true
         },
         {
             "answers": [
@@ -1863,7 +1862,7 @@
             "isValid": "",
             "prompt": "What rhymes with “twerk”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -1970,61 +1969,213 @@
             "isValid": "",
             "prompt": "What rhymes with “Drake”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
             "answers": [
                 {
                     "altSpellings": [
-                        "claws",
-                        "pincer",
-                        "pincers"
+                        "Bug",
+                        "Dicke Schulter",
+                        "Rinderblatt",
+                        "Rinder blatt",
+                        "Dicker Bug",
+                        "Dickes Bugstück",
+                        "Bugstück",
+                        "Schaufelstück",
+                        "Schaufel Stück",
+                        "Mittelbug Stück",
+                        "Mittelbugstück",
+                        "Falsches Filet",
+                        "Falsch Filet",
+                        "Falsche Lende",
+                        "Mittelbug"
                     ],
-                    "hint": "The part that snips! I love the snipping!",
-                    "text": "claw"
+                    "hint": "Oft stellen mir Menschen die Frage: “Kann ein FILET FALSCH sein?”. Die Antwort ist ja, natürlich kann es das! ",
+                    "text": "Schulter"
                 },
                 {
                     "altSpellings": [
-                        "eye",
-                        "eyestalk"
+                        "Spannrippe",
+                        "Quer Rippe",
+                        "Spann Rippe",
+                        "Zwerchrippe",
+                        "Zwerch Rippe",
+                        "Leiterstück",
+                        "Leiter Stück"
                     ],
-                    "hint": "The way they peep is very soothing.",
-                    "text": "eyes"
+                    "hint": "",
+                    "text": "Querrippe"
                 },
                 {
                     "altSpellings": [
-                        "chitin",
-                        "exoskeleton"
+                        "Brustspitze",
+                        "Brust Spitze",
+                        "Brustkern",
+                        "Brust Kern",
+                        "Brust",
+                        "Rinder Brust",
+                        "Brustbein",
+                        "Brust Bein",
+                        "Mittelbrust",
+                        "Mittel Brust",
+                        "Beef Brisket",
+                        "Nachbrust",
+                        "Nach Brust"
                     ],
-                    "hint": "You just need to get past that hard exterior.",
-                    "text": "shell"
+                    "hint": "Selbst der Mensch hat sie, doch beim Rind wird sie gern mit Meerrettich serviert.",
+                    "text": "Rinderbrust"
                 },
                 {
                     "altSpellings": [
-                        "leg",
-                        "crab legs",
-                        "crablegs"
+                        "Knochendünnung",
+                        "Knochen Dünnung",
+                        "Dünnung",
+                        "Bauchlappen",
+                        "Bauch Lappen",
+                        "Flanksteaks",
+                        "Flanken Steaks",
+                        "Bindegewebe",
+                        "Flanken"
                     ],
-                    "hint": "Get the butter! They were for walking, now they're for eating!",
-                    "text": "legs"
+                    "hint": "Bei diesem Begriff muss ich immer an Fußball denken: Dort handelt es sich nämlich um einen hohen Schuss in den gegnerischen Strafraum.",
+                    "text": "Flanke"
                 },
                 {
                     "altSpellings": [
-                        "inside",
-                        "crab meat",
-                        "crabmeat"
+                        "Oberschale",
+                        "Ober Schale",
+                        "Unterschale",
+                        "Unter Schale",
+                        "Kluftschale",
+                        "Kluft Schale",
+                        "Oberschenkel",
+                        "Ober Schenkel",
+                        "Fricandeau",
+                        "Schwanzstück",
+                        "Schwanz Stück",
+                        "Unterstück",
+                        "Schwanzrolle",
+                        "Wagerl",
+                        "Tafelspitz",
+                        "Rinderkugel",
+                        "Rinder Kugel"
                     ],
-                    "hint": "There's certainly nothing imitation here.",
-                    "text": "meat"
+                    "hint": "",
+                    "text": "Schale"
+                },
+                {
+                    "altSpellings": [
+                        "Blume",
+                        "Rinder Keule",
+                        "Rinderhüfte",
+                        "Rinder Hüfte",
+                        "Hüferscherzerl",
+                        "Rinderhüftsteaks",
+                        "Hüfte",
+                        "Hüftsteak",
+                        "Hüft Steak",
+                        "Huft",
+                        "Rosenspitz",
+                        "Spitze",
+                        "Schweifstück",
+                        "Hinterkeule",
+                        "Hinter Keule",
+                        "Hesse"
+                    ],
+                    "hint": "",
+                    "text": "Rinderkeule"
+                },
+                {
+                    "altSpellings": [
+                        "Lungenbraten",
+                        "Lungen Braten",
+                        "Lunge",
+                        "Chateaustück",
+                        "Chateau Stück",
+                        "Filet Steak",
+                        "Filetsteak",
+                        "Rinderfilet",
+                        "Rinder Filet",
+                        "Lende",
+                        "Lenden Braten",
+                        "Lendenbraten",
+                        "Lendenmuskulatur",
+                        "Lenden Muskulatur",
+                        "Filetkopf",
+                        "Filet Kopf"
+                    ],
+                    "hint": "Der gesuchte Begriff ist französisch und bedeutet “dünner Faden”.",
+                    "text": "Filet"
+                },
+                {
+                    "altSpellings": [
+                        "Beiried",
+                        "Roast Beef",
+                        "Roasted Beef",
+                        "Hufstück",
+                        "Huf Stück",
+                        "Schossen",
+                        "Rumpsteak"
+                    ],
+                    "hint": "",
+                    "text": "Roastbeef"
+                },
+                {
+                    "altSpellings": [
+                        "Rib-Eye",
+                        "Rib Eye",
+                        "Rib-Eye-Steak",
+                        "Rib Eye Steak",
+                        "Zwischenrippe",
+                        "Hoch Rippe",
+                        "Hohrücken",
+                        "Hoher Rücken",
+                        "Hohe Rippe",
+                        "Rostbraten",
+                        "Rost Braten",
+                        "Schorrippe"
+                    ],
+                    "hint": "Das beliebte Rib-Eye-Steak stammt aus diesem Teil des Rindes.",
+                    "text": "Hochrippe"
+                },
+                {
+                    "altSpellings": [
+                        "Fehlrippen",
+                        "Fehl Rippe",
+                        "Fehlrippenkamm",
+                        "Fehlrippen Kamm",
+                        "Mittelrippenstück",
+                        "Mittelrippe",
+                        "Rücken"
+                    ],
+                    "hint": "Dieser Teil der RIPPE darf auf keiner Speisekarte FEHLEN.",
+                    "text": "Fehlrippe"
+                },
+                {
+                    "altSpellings": [
+                        "Rindernacken",
+                        "Rinder Nacken",
+                        "Nacken",
+                        "Rinderkamm",
+                        "Rinder Hals",
+                        "Hals",
+                        "Nackenstück",
+                        "Nacken Stück",
+                        "Rinder Kamm",
+                        "Kamm"
+                    ],
+                    "hint": "",
+                    "text": "Rinderhals"
                 }
             ],
-            "category": "Animals",
+            "category": "Food & Drink",
             "exactSpelling": false,
             "id": "77488",
             "isValid": "",
-            "prompt": "The 5 Best Parts of a Crab",
-            "subtype": "subjective",
+            "prompt": "Die 11 leckersten Teile eines Rindes",
+            "subtype": "name",
             "us": false,
             "x": false
         },
@@ -2093,7 +2244,7 @@
             "isValid": "",
             "prompt": "Welche 8 Charaktere waren im originalen [i]Super Mario Kart[/i] spielbar?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -2177,7 +2328,7 @@
             "isValid": "",
             "prompt": "The 8 Everyday Places Where You Might Run Into Ewan McGregor",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -2268,7 +2419,7 @@
             "isValid": "",
             "prompt": "The 9 Rooms Where Dads Can't Help Themselves from Turning Off the Lights",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -2338,7 +2489,7 @@
             "isValid": "",
             "prompt": "My 8 Favorite Road Trip Snacks",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -2433,7 +2584,7 @@
             "isValid": "",
             "prompt": "Was sind die 7 Todsünden?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": true
         },
         {
@@ -2494,7 +2645,7 @@
             "isValid": "",
             "prompt": "My 7 Favorite Stringed Instruments",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -2558,7 +2709,7 @@
             "isValid": "",
             "prompt": "My 7 Favorite Frozen Desserts",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -2641,7 +2792,7 @@
             "isValid": "",
             "prompt": "The 13 Best Bar Drinks",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": true
         },
         {
@@ -2770,7 +2921,7 @@
             "isValid": "",
             "prompt": "My 6 Favorite Leonardo DiCaprio Movies",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -2858,160 +3009,166 @@
             "isValid": "",
             "prompt": "My 10 Favorite Batman Villains",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
             "answers": [
                 {
-                    "altSpellings": [
-                        "the restroom"
-                    ],
-                    "hint": "This one sounds as though you might sleep here.",
-                    "text": "restroom"
+                    "altSpellings": [],
+                    "hint": "Einer davon beschreibt genau die Funktion des Autos.",
+                    "text": "Fahrzeug"
                 },
                 {
                     "altSpellings": [
-                        "loo"
+                        "Kraftfahrzeug"
                     ],
-                    "hint": "Think British!",
-                    "text": "the loo"
+                    "hint": "Denkt auch an Abkürzungen!",
+                    "text": "Kfz"
                 },
                 {
                     "altSpellings": [
-                        "toilet"
+                        "Personenwagen",
+                        "Personenkraftwagen",
+                        "Personenfahrzeug"
                     ],
-                    "hint": "Think British!",
-                    "text": "the toilet"
+                    "hint": "Wie würde das Straßenverkehrsamt dein Auto nennen?",
+                    "text": "Pkw"
                 },
                 {
                     "altSpellings": [
-                        "the lavatory"
+                        "Karre"
                     ],
-                    "hint": "A word you'd use for bathroom in polite societies. Or on airplanes.",
-                    "text": "lavatory"
+                    "hint": "Der hier ist etwas allgemein gehalten.",
+                    "text": "Wagen"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "So würde mein Freund ein Auto beschreiben, wenn er sich drüber lustig macht.",
+                    "text": "Gefährt"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "“Auto” ist auch eigentlich nur eine Kurzform, Leute.",
+                    "text": "Automobil"
                 },
                 {
                     "altSpellings": [
-                        "the latrine"
+                        "Vehicle"
                     ],
-                    "hint": "If you were stranded on a deserted island, you might need to dig one of these.",
-                    "text": "latrine"
+                    "hint": "Das Wort heißt auch im englischen fast gleich!",
+                    "text": "Vehikel"
                 },
                 {
                     "altSpellings": [
-                        "the washroom"
-                    ],
-                    "hint": "Scrub a dub dub.",
-                    "text": "washroom"
-                },
-                {
-                    "altSpellings": [
-                        "the water closet"
+                        "Benzinkutsche"
                     ],
                     "hint": "Clothes could go here, according to the name alone.",
-                    "text": "water closet"
+                    "text": "Kutsche"
                 },
                 {
-                    "altSpellings": [
-                        "the powder room"
-                    ],
-                    "hint": "Think 1950s!",
-                    "text": "powder room"
+                    "altSpellings": [],
+                    "hint": "Damit könnte ich auch im Winter viel Spaß haben, wenn man mal nur vom Namen ausgeht!",
+                    "text": "Schlitten"
                 }
             ],
             "category": "Language/Words/Grammar",
             "exactSpelling": false,
             "id": "78745",
             "isValid": "",
-            "prompt": "8 Different Ways of Saying “Bathroom”",
+            "prompt": "9 unterschiedliche Begriffe für “Auto”",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
             "answers": [
                 {
                     "altSpellings": [
+                        "Hähnchenbrust",
+                        "Hähnchen",
+                        "Hähnchenfleisch",
+                        "Fleisch",
+                        "Hähnchenfilet"
+                    ],
+                    "hint": "Denkt dran, das Sandwich ist nichts für Vegetarier.",
+                    "text": "Hähnchenbrustfilet"
+                },
+                {
+                    "altSpellings": [
+                        "Käse",
+                        "Kerrygold",
+                        "Käsescheiben"
+                    ],
+                    "hint": "Es fehlt noch etwas, was eigentlich auf jedes Sandwich gehört.",
+                    "text": "Cheddar"
+                },
+                {
+                    "altSpellings": [
+                        "Paprika",
+                        "Paprikastücke",
+                        "Paprikastückchen",
+                        "Paprikascheiben"
+                    ],
+                    "text": "grüne Paprika"
+                },
+                {
+                    "altSpellings": [
+                        "Gurken",
+                        "Gurke"
+                    ],
+                    "hint": "Keine Zucchini, aber schon nah dran.",
+                    "text": "Salatgurke"
+                },
+                {
+                    "altSpellings": [
+                        "Mohrrüben",
+                        "Möhrchen",
+                        "Karotten",
+                        "Karottenstückchen",
+                        "Möhrenscheiben"
+                    ],
+                    "text": "Möhre"
+                },
+                {
+                    "altSpellings": [
+                        "Tomate"
+                    ],
+                    "text": "Tomaten"
+                },
+                {
+                    "altSpellings": [
+                        "Feldsalat",
+                        "Salatherz"
+                    ],
+                    "hint": "Nicht das Grünzeug vergessen!",
+                    "text": "Salat"
+                },
+                {
+                    "altSpellings": [
+                        "Zwiebel"
+                    ],
+                    "text": "rote Zwiebel"
+                },
+                {
+                    "altSpellings": [
+                        "Soße",
+                        "Sosse",
                         "Chipotle",
-                        "Southwest",
-                        "Chipotle Sauce",
-                        "Southwest Sauce",
-                        "chipotle mayo",
-                        "chipotle southwest",
-                        "chipotle southwest mayo"
+                        "Chipotle Sauße",
+                        "Chipotle Soße",
+                        "Teriyaki Sauce"
                     ],
-                    "hint": "You know! That sauce that suddenly became a thing in the 2000s.",
-                    "text": "chipotle southwest sauce"
-                },
-                {
-                    "altSpellings": [
-                        "Mayonnaise",
-                        "Mayo",
-                        "light mayo"
-                    ],
-                    "hint": "Creamy goodness.",
-                    "text": "light mayonnaise"
-                },
-                {
-                    "altSpellings": [
-                        "Banana Pepper",
-                        "peppers",
-                        "yellow peppers",
-                        "peps",
-                        "banana peps",
-                        "yellow peps"
-                    ],
-                    "text": "banana peppers"
-                },
-                {
-                    "altSpellings": [
-                        "shredded lettuce"
-                    ],
-                    "hint": "Greens please.",
-                    "text": "lettuce"
-                },
-                {
-                    "altSpellings": [
-                        "Cucumber"
-                    ],
-                    "hint": "Not zucchini but close.",
-                    "text": "cucumbers"
-                },
-                {
-                    "altSpellings": [
-                        "Tomato"
-                    ],
-                    "hint": "You say this, I say that.",
-                    "text": "tomatoes"
-                },
-                {
-                    "altSpellings": [
-                        "black forest ham",
-                        "honey ham",
-                        "smoked ham"
-                    ],
-                    "text": "ham"
-                },
-                {
-                    "altSpellings": [],
-                    "text": "salami"
-                },
-                {
-                    "altSpellings": [
-                        "roasted turkey",
-                        "oven roasted turkey"
-                    ],
-                    "text": "turkey"
+                    "text": "Sauce"
                 }
             ],
             "category": "Food & Drink",
             "exactSpelling": false,
             "id": "78747",
             "isValid": "",
-            "prompt": "What should go on a twelve-inch Artisan Flatbread at Subway?",
+            "prompt": "Was gehört alles auf mein Chicken Teriyaki Sandwich bei Subway?",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -3078,7 +3235,7 @@
             "isValid": "",
             "prompt": "What are the first 5 books of the Old Testament?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -3150,7 +3307,7 @@
             "isValid": "",
             "prompt": "Name the 5 members of the 1960s Rat Pack",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -3263,7 +3420,7 @@
             "isValid": "",
             "prompt": "What are the Five Pillars of Islam?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -3330,7 +3487,7 @@
             "isValid": "",
             "prompt": "Which 8 countries do the Alps run through?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -3398,7 +3555,7 @@
             "isValid": "",
             "prompt": "In which cities of the world can you find a Disney theme park?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -3562,7 +3719,7 @@
             "isValid": "",
             "prompt": "Name the members of [i]The Brady Bunch[/i]",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -3631,7 +3788,7 @@
             "isValid": "",
             "prompt": "What are the 8 original V8 veggies?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -3793,7 +3950,7 @@
             "isValid": "",
             "prompt": "Which 7 colors are on the visible light spectrum?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -3866,7 +4023,7 @@
             "isValid": "",
             "prompt": "My 8 Favorite Famous Magicians",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -3925,7 +4082,7 @@
             "isValid": "",
             "prompt": "Which 6 Apple products can fit in a standard shoebox?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -3990,7 +4147,7 @@
             "isValid": "",
             "prompt": "What are the ingredients in a chocolate soufflé?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -4034,7 +4191,7 @@
             "isValid": "",
             "prompt": "The 6 Shapes I Would Like to Be If I Weren't a Wheel",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -4101,7 +4258,7 @@
             "isValid": "",
             "prompt": "What are the 6 Nobel Prize categories?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -4253,7 +4410,7 @@
             "isValid": "",
             "prompt": "I Wish My Facial Slices Were Filled With These 6 [i]Pies[/i] Instead of Your Names",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -4365,7 +4522,7 @@
             "isValid": "",
             "prompt": "The 12 Biggest Dreamboats in the Marvel Cinematic Universe (Celebrity Names)",
             "subtype": "subjective",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -4552,7 +4709,7 @@
             "isValid": "",
             "prompt": "What rhymes with “care”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -4605,7 +4762,7 @@
             "isValid": "",
             "prompt": "What rhymes with “dang”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -4662,7 +4819,7 @@
             "isValid": "",
             "prompt": "What rhymes with “Bort”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -4736,7 +4893,7 @@
             "isValid": "",
             "prompt": "Name the five senses + the one Haley Joel Osment has",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -4894,7 +5051,7 @@
             "isValid": "",
             "prompt": "Who are the 5 primary members of the [i]Simpsons[/i] family?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -4996,7 +5153,7 @@
             "isValid": "",
             "prompt": "Name all the body parts mentioned in the nursery rhyme “Head, Shoulders, Knees and Toes”",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -5073,7 +5230,7 @@
             "isValid": "",
             "prompt": "What rhymes with “plush”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -5189,7 +5346,7 @@
             "isValid": "",
             "prompt": "What rhymes with “chunk”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -5385,7 +5542,7 @@
             "isValid": "",
             "prompt": "What rhymes with “beep”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": true
         },
         {
@@ -5457,7 +5614,7 @@
             "isValid": "",
             "prompt": "What rhymes with “czar”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -5530,7 +5687,7 @@
             "isValid": "",
             "prompt": "What rhymes with “peach”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -5597,7 +5754,7 @@
             "isValid": "",
             "prompt": "What rhymes with “heart”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": true
         },
         {
@@ -5703,7 +5860,7 @@
             "isValid": "",
             "prompt": "What rhymes with “string”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -5777,7 +5934,7 @@
             "isValid": "",
             "prompt": "What rhymes with “shower”? (one- or two-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -5860,7 +6017,7 @@
             "isValid": "",
             "prompt": "What rhymes with “Shrek”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -5924,7 +6081,7 @@
             "isValid": "",
             "prompt": "What countries start with the letter “P”?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -5978,7 +6135,7 @@
             "isValid": "",
             "prompt": "What are the 6 fire and water signs of the zodiac?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -6024,7 +6181,7 @@
             "isValid": "",
             "prompt": "According to [i]The New York Times[/i], which 6 ingredients do you need to make a classic Waldorf salad?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -6116,7 +6273,7 @@
             "isValid": "",
             "prompt": "Name the girls in the [i]Golden Girls[/i] house AND the boys in the [i]Entourage[/i] entourage",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -6158,7 +6315,7 @@
             "isValid": "",
             "prompt": "Which 6 colors will you find in a bag of milk chocolate M&M’S?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -6232,7 +6389,7 @@
             "isValid": "",
             "prompt": "What are the 9 defensive positions you can play in baseball?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -6316,7 +6473,7 @@
             "isValid": "",
             "prompt": "What are all of the prime numbers between 1 and 30?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -6420,7 +6577,7 @@
             "isValid": "",
             "prompt": "Quick! What are the first names of all the members of One Direction?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -6478,7 +6635,7 @@
             "isValid": "",
             "prompt": "Which 5 games are included in [i]The Jackbox Party Pack 7[/i]?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -6533,7 +6690,7 @@
             "isValid": "",
             "prompt": "What are the 5 named oceans on Earth?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -6620,7 +6777,7 @@
             "isValid": "",
             "prompt": "What are the 7 denominations of Canadian coins?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -6676,7 +6833,7 @@
             "isValid": "",
             "prompt": "What were the original 6 weapons in the board game [i]Clue[/i]?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -6723,7 +6880,7 @@
             "isValid": "",
             "prompt": "What are the 5 Great Lakes of North America?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -6901,7 +7058,7 @@
             "isValid": "",
             "prompt": "What rhymes with “mug”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -7009,7 +7166,7 @@
             "isValid": "",
             "prompt": "What rhymes with “cheers”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -7066,7 +7223,7 @@
             "isValid": "",
             "prompt": "What rhymes with “angle”? (two-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -7162,7 +7319,7 @@
             "isValid": "",
             "prompt": "What rhymes with “tile”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -7249,7 +7406,7 @@
             "isValid": "",
             "prompt": "The 7 Popular Devices Some Humans Use to Inhale and Exhale Smoke",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": true
         },
         {
@@ -7334,7 +7491,7 @@
             "isValid": "",
             "prompt": "What rhymes with “round”? (one-syllable common words only)",
             "subtype": "rhyme",
-            "us": false,
+            "us": true,
             "x": false
         }
     ]

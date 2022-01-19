@@ -45,7 +45,7 @@
    "id": "76698",
    "isValid": "",
    "prompt": "Which ingredients are in a traditional Cobb salad?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -105,7 +105,7 @@
    "id": "76730",
    "isValid": "",
    "prompt": "Which words are in the song “WAP”? (G-Rated)",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -156,7 +156,7 @@
    "id": "76731",
    "isValid": "",
    "prompt": "Which Scrabble letters are worth 4 points or more?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -216,7 +216,7 @@
    "id": "76732",
    "isValid": "",
    "prompt": "Which animals are from Africa?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -333,7 +333,7 @@
    "id": "76744",
    "isValid": "",
    "prompt": "Which names belong to Olympian gods & goddesses?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -381,7 +381,7 @@
    "id": "76751",
    "isValid": "",
    "prompt": "Which of these are yoga poses?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -486,7 +486,7 @@
    "id": "76761",
    "isValid": "",
    "prompt": "As of 2020, which of these artists have been inducted into the Rock & Roll Hall of Fame?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -540,7 +540,7 @@
    "id": "76763",
    "isValid": "",
    "prompt": "Which of these are exercises for the arms?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -600,7 +600,7 @@
    "id": "76765",
    "isValid": "",
    "prompt": "Which numbers have a perfect square?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -651,7 +651,7 @@
    "id": "76768",
    "isValid": "",
    "prompt": "Which of these automakers are European?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -699,7 +699,7 @@
    "id": "76769",
    "isValid": "",
    "prompt": "Which of these are parts of the human heart?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -798,7 +798,7 @@
    "id": "76771",
    "isValid": "",
    "prompt": "Welche Namen sind Live-Programme von [i]Mario Barth[/i]?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -846,7 +846,7 @@
    "id": "76772",
    "isValid": "",
    "prompt": "Which weapons have been used by Wile E. Coyote against the Road Runner?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -906,7 +906,7 @@
    "id": "76773",
    "isValid": "",
    "prompt": "Which of these names belong to Disney Princesses?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -960,7 +960,7 @@
    "id": "76774",
    "isValid": "",
    "prompt": "Which of these are the hated things from the movie [i]10 Things I Hate About You[/i]?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1017,7 +1017,7 @@
    "id": "76775",
    "isValid": "",
    "prompt": "Which references are in the song “We Didn't Start the Fire”?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1071,7 +1071,7 @@
    "id": "76776",
    "isValid": "",
    "prompt": "Which of these are Apple computer operating system code names?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1125,7 +1125,7 @@
    "id": "76777",
    "isValid": "",
    "prompt": "Which of these are UK-based tabloids?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1185,7 +1185,7 @@
    "id": "76778",
    "isValid": "",
    "prompt": "Which of these \"veggies\" are, weirdly enough, fruit?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1242,7 +1242,7 @@
    "id": "76779",
    "isValid": "",
    "prompt": "Which of these are actual bucket list items from [i]The Bucket List[/i]?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1299,7 +1299,7 @@
    "id": "76780",
    "isValid": "",
    "prompt": "What’s featured in Seurat’s pointillism masterpiece [i]A Sunday Afternoon on the Island of La Grande Jatte[/i]?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1347,7 +1347,7 @@
    "id": "76781",
    "isValid": "",
    "prompt": "Which of these are trout from North America?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1401,7 +1401,7 @@
    "id": "76782",
    "isValid": "",
    "prompt": "Which movies is Robert De Niro NOT in?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1449,7 +1449,7 @@
    "id": "76796",
    "isValid": "",
    "prompt": "Which cards will you find in a traditional tarot deck?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1500,7 +1500,7 @@
    "id": "76798",
    "isValid": "",
    "prompt": "Which of these are sedimentary rocks?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1557,7 +1557,7 @@
    "id": "76799",
    "isValid": "",
    "prompt": "Which of these are [i]Dungeons & Dragons[/i] monsters?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1614,7 +1614,7 @@
    "id": "76822",
    "isValid": "",
    "prompt": "Which colors are shades of red?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1662,7 +1662,7 @@
    "id": "76823",
    "isValid": "",
    "prompt": "Which of these are noble gases?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1713,7 +1713,7 @@
    "id": "76824",
    "isValid": "",
    "prompt": "Which titles are real Hallmark Christmas movies starring Candace Cameron Bure?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1818,7 +1818,7 @@
    "id": "76826",
    "isValid": "",
    "prompt": "Which of these are varieties of edible peppers?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1872,7 +1872,7 @@
    "id": "76827",
    "isValid": "",
    "prompt": "Which consonants are in the Hawaiian alphabet?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1923,7 +1923,7 @@
    "id": "76851",
    "isValid": "",
    "prompt": "Which of these are Nintendo games that feature Luigi?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2088,7 +2088,7 @@
    "id": "76854",
    "isValid": "",
    "prompt": "Which of these are Renaissance works of art?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2139,7 +2139,7 @@
    "id": "76863",
    "isValid": "",
    "prompt": "Which poems or stories are by Edgar Allen Poe?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2187,7 +2187,7 @@
    "id": "76880",
    "isValid": "",
    "prompt": "Which of these are types of paint?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2250,7 +2250,7 @@
    "id": "76883",
    "isValid": "",
    "prompt": "Which ones are actual teeth in the human mouth?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2307,7 +2307,7 @@
    "id": "76908",
    "isValid": "",
    "prompt": "Which of these are acting awards one could receive for a brilliant performance?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2409,7 +2409,7 @@
    "id": "76915",
    "isValid": "",
    "prompt": "Which names are main characters from [i]The Baby-Sitters Club[/i]?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2457,7 +2457,7 @@
    "id": "76928",
    "isValid": "",
    "prompt": "Which of these are parts of a bicycle?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2514,7 +2514,7 @@
    "id": "76931",
    "isValid": "",
    "prompt": "Which words are in the song “Toxic” by Britney Spears?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2667,7 +2667,7 @@
    "id": "76957",
    "isValid": "",
    "prompt": "Which of these are things that could be broken in your canoe?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2724,7 +2724,7 @@
    "id": "76958",
    "isValid": "",
    "prompt": "Which of these are actual types of clouds?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2778,7 +2778,7 @@
    "id": "76960",
    "isValid": "",
    "prompt": "Which of these are FICTIONAL A.I.s?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2826,7 +2826,7 @@
    "id": "77202",
    "isValid": "",
    "prompt": "What are the 9 realms of Norse mythology?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2880,7 +2880,7 @@
    "id": "77279",
    "isValid": "",
    "prompt": "Which of these are known as traditional vampire-fighting tools?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2931,7 +2931,7 @@
    "id": "77299",
    "isValid": "",
    "prompt": "Which of these are Voldemort’s horcruxes from [i]Harry Potter[/i]?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2979,7 +2979,7 @@
    "id": "77335",
    "isValid": "",
    "prompt": "What are the [i]New Seven Wonders of the World[/i]?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3045,7 +3045,7 @@
    "id": "77354",
    "isValid": "",
    "prompt": "What are the official Pokémon types?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3114,7 +3114,7 @@
    "id": "77355",
    "isValid": "",
    "prompt": "Which famous people are mentioned in Madonna’s “Vogue”?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3180,7 +3180,7 @@
    "id": "77356",
    "isValid": "",
    "prompt": "What does [i]The Very Hungry Caterpillar[/i] eat?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3228,7 +3228,7 @@
    "id": "77357",
    "isValid": "",
    "prompt": "What are the immortal elder names used in the acronym S.H.A.Z.A.M.?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3282,7 +3282,7 @@
    "id": "77638",
    "isValid": "",
    "prompt": "Which occupations has Barbie officially held?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3345,7 +3345,7 @@
    "id": "77639",
    "isValid": "",
    "prompt": "What are the original [i]Goosebumps[/i] titles?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3402,7 +3402,7 @@
    "id": "77643",
    "isValid": "",
    "prompt": "Which sounds are included on the Voyager Golden Record?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3456,7 +3456,7 @@
    "id": "77644",
    "isValid": "",
    "prompt": "Which creatures are mentioned in the “Monster Mash”?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3513,7 +3513,7 @@
    "id": "77645",
    "isValid": "",
    "prompt": "Which of these are monsters that fought Godzilla?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3561,7 +3561,7 @@
    "id": "77646",
    "isValid": "",
    "prompt": "Which of these are elements named after real people?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3621,7 +3621,7 @@
    "id": "77657",
    "isValid": "",
    "prompt": "Which of these are background characters from the [i]Star Wars[/i] universe?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3774,7 +3774,7 @@
    "id": "77673",
    "isValid": "",
    "prompt": "Who are the past and present members of The Rolling Stones?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3828,7 +3828,7 @@
    "id": "77674",
    "isValid": "",
    "prompt": "Which countries border Germany?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3876,7 +3876,7 @@
    "id": "77677",
    "isValid": "",
    "prompt": "Which shows are produced by Shonda Rhimes?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3924,7 +3924,7 @@
    "id": "77678",
    "isValid": "",
    "prompt": "Which of these are actual K-pop groups with “Girl” in their name?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4026,7 +4026,7 @@
    "id": "77680",
    "isValid": "",
    "prompt": "Which of these are characters from [i]Willy Wonka & the Chocolate Factory[/i]?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4131,7 +4131,7 @@
    "id": "77684",
    "isValid": "",
    "prompt": "Which things does Eartha Kitt want in the song “Santa Baby”?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4182,7 +4182,7 @@
    "id": "77687",
    "isValid": "",
    "prompt": "Which characters were series regulars on the ’70s sitcom [i]Good Times[/i]?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4230,7 +4230,7 @@
    "id": "77689",
    "isValid": "",
    "prompt": "Which films are from the French New Wave?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4278,7 +4278,7 @@
    "id": "77713",
    "isValid": "",
    "prompt": "Which of these are part of Soulja Boy's morning routine in the song “Turn My Swag On”?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4386,7 +4386,7 @@
    "id": "77795",
    "isValid": "",
    "prompt": "Which of these are actual constellations?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4539,7 +4539,7 @@
    "id": "77822",
    "isValid": "",
    "prompt": "Which of these are considered to be human orifices? (aka, holes in your bod)",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -4593,7 +4593,7 @@
    "id": "77823",
    "isValid": "",
    "prompt": "Which celebrities were EGOT recipients? (EGOT = Emmy, Grammy, Oscar, Tony)",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4641,7 +4641,7 @@
    "id": "77824",
    "isValid": "",
    "prompt": "Which of these are figures of Greek mythology?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4689,7 +4689,7 @@
    "id": "77858",
    "isValid": "",
    "prompt": "Which of these are real, edible flowers?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4740,7 +4740,7 @@
    "id": "77924",
    "isValid": "",
    "prompt": "Which actors have portrayed Hamlet on film or TV?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4788,7 +4788,7 @@
    "id": "77926",
    "isValid": "",
    "prompt": "Which of these are recognized baby sleep training techniques?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4836,7 +4836,7 @@
    "id": "77945",
    "isValid": "",
    "prompt": "Which of these are creatures from the mind of Dr. Seuss?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4884,7 +4884,7 @@
    "id": "77946",
    "isValid": "",
    "prompt": "What are the countries and regions of Middle Earth?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4947,7 +4947,7 @@
    "id": "77952",
    "isValid": "",
    "prompt": "What are the core LaCroix beverage flavors?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5118,7 +5118,7 @@
    "id": "78043",
    "isValid": "",
    "prompt": "What are real names for sub sandwiches?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5181,7 +5181,7 @@
    "id": "78048",
    "isValid": "",
    "prompt": "Which songs are hits from the 1990s?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5238,7 +5238,7 @@
    "id": "78050",
    "isValid": "",
    "prompt": "Which of these are Beatles albums?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5286,7 +5286,7 @@
    "id": "78051",
    "isValid": "",
    "prompt": "For which activities is a helmet recommended according to the Consumer Product Safety Commission?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5334,7 +5334,7 @@
    "id": "78052",
    "isValid": "",
    "prompt": "Which of these are types of triangles?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5388,7 +5388,7 @@
    "id": "78053",
    "isValid": "",
    "prompt": "Which of these are, or have been, Sean Combs’ stage names?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5442,7 +5442,7 @@
    "id": "78056",
    "isValid": "",
    "prompt": "Which of these are Pixar films?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5562,7 +5562,7 @@
    "id": "78061",
    "isValid": "",
    "prompt": "Which of these are actual varieties of beans?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5616,7 +5616,7 @@
    "id": "78064",
    "isValid": "",
    "prompt": "Which bands were part of the British Invasion?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5712,7 +5712,7 @@
    "id": "78093",
    "isValid": "",
    "prompt": "Which of these are early hominids that came before [i]Homo sapiens[/i]?",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -5865,7 +5865,7 @@
    "id": "78160",
    "isValid": "",
    "prompt": "Which of these celestial objects can you see with the naked eye under dark sky conditions?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5931,7 +5931,7 @@
    "id": "78161",
    "isValid": "",
    "prompt": "Which of these are actual Shakespeare plays?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5979,7 +5979,7 @@
    "id": "78163",
    "isValid": "",
    "prompt": "What are the different ranges of the electromagnetic spectrum?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6027,7 +6027,7 @@
    "id": "78243",
    "isValid": "",
    "prompt": "Which of these are the correct names for chess pieces?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6078,7 +6078,7 @@
    "id": "78264",
    "isValid": "",
    "prompt": "Which of these are human organ systems?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6129,7 +6129,7 @@
    "id": "78267",
    "isValid": "",
    "prompt": "Which items are mentioned in the song “My Favorite Things”?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6180,7 +6180,7 @@
    "id": "78286",
    "isValid": "",
    "prompt": "What things does Steve Miller claim to be in his most famous song?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6243,7 +6243,7 @@
    "id": "78288",
    "isValid": "",
    "prompt": "Which of these are culinary herbs?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6303,7 +6303,7 @@
    "id": "78303",
    "isValid": "",
    "prompt": "Which of these were Kentucky Derby winners?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6360,7 +6360,7 @@
    "id": "78304",
    "isValid": "",
    "prompt": "Which of these super cool items are parts of a toilet?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6408,7 +6408,7 @@
    "id": "78354",
    "isValid": "",
    "prompt": "Which of these are notes on the music scale?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6471,7 +6471,7 @@
    "id": "78357",
    "isValid": "",
    "prompt": "Which names refer to the 12 apostles of the Gospels?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6519,7 +6519,7 @@
    "id": "78358",
    "isValid": "",
    "prompt": "Which of these are allergens that are tested for on a standard allergy test?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6639,7 +6639,7 @@
    "id": "78403",
    "isValid": "",
    "prompt": "Which things does Louis Armstrong see in “What a Wonderful World”?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6687,7 +6687,7 @@
    "id": "78412",
    "isValid": "",
    "prompt": "Which songs are by NSYNC? NOT Backstreet Boys!",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6738,7 +6738,7 @@
    "id": "78413",
    "isValid": "",
    "prompt": "Which characters are members of the Cullen Clan in [i]Twilight[/i]?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6786,7 +6786,7 @@
    "id": "78414",
    "isValid": "",
    "prompt": "What the heck does PEMDAS stand for?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6891,7 +6891,7 @@
    "id": "78419",
    "isValid": "",
    "prompt": "Which of these are among the many delicious organs of the human abdomen?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6960,7 +6960,7 @@
    "id": "78422",
    "isValid": "",
    "prompt": "Which queens are winners of [i]RuPaul's Drag Race[/i]?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7008,7 +7008,7 @@
    "id": "78424",
    "isValid": "",
    "prompt": "Tony Hawk",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7056,7 +7056,7 @@
    "id": "78448",
    "isValid": "",
    "prompt": "Which of these are types of theatre stages?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7104,7 +7104,7 @@
    "id": "78555",
    "isValid": "",
    "prompt": "Which of these are among the many things Meredith Brooks claims to be in her most famous song?",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -7152,7 +7152,7 @@
    "id": "78602",
    "isValid": "",
    "prompt": "Which of these countries are on the equator?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7200,7 +7200,7 @@
    "id": "78603",
    "isValid": "",
    "prompt": "Which of these women had the misfortune of being married to Henry VIII?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7248,7 +7248,7 @@
    "id": "78604",
    "isValid": "",
    "prompt": "Which of these are books in Madeline L'Engle's “Time Quintet”?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7296,7 +7296,7 @@
    "id": "78605",
    "isValid": "",
    "prompt": "Which actors appeared in the 2001 [i]Ocean's Eleven[/i] remake?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7344,7 +7344,7 @@
    "id": "78606",
    "isValid": "",
    "prompt": "Which of these are varieties of salmon?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7392,7 +7392,7 @@
    "id": "78610",
    "isValid": "",
    "prompt": "Which outfits has Mario worn in the past 20 years?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7440,7 +7440,7 @@
    "id": "78621",
    "isValid": "",
    "prompt": "Which of these are actual beer varietals?",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -7488,7 +7488,7 @@
    "id": "78664",
    "isValid": "",
    "prompt": "Which of these are monsters Mulder & Scully encountered in [i]The X-Files[/i]?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7536,7 +7536,7 @@
    "id": "78676",
    "isValid": "",
    "prompt": "Which of these months have 31 days?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7584,7 +7584,7 @@
    "id": "78679",
    "isValid": "",
    "prompt": "Which of these are considered to be roles in the restaurant kitchen hierarchy?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7638,7 +7638,7 @@
    "id": "78681",
    "isValid": "",
    "prompt": "Which songs are by the one and only Taylor Swift?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7686,7 +7686,7 @@
    "id": "78682",
    "isValid": "",
    "prompt": "Which of these are the most common food allergies?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7734,7 +7734,7 @@
    "id": "78696",
    "isValid": "",
    "prompt": "Which of these are apple varieties?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7895,7 +7895,7 @@
    "id": "78754",
    "isValid": "",
    "prompt": "Which names were among the most popular baby girl names in the 1880s?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7949,7 +7949,7 @@
    "id": "78798",
    "isValid": "",
    "prompt": "Which words and phrases refer to chess terminology?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7997,7 +7997,7 @@
    "id": "78811",
    "isValid": "",
    "prompt": "Which of these are real types of spiders?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8045,7 +8045,7 @@
    "id": "78813",
    "isValid": "",
    "prompt": "Which colorful names are characters from [i]Cats[/i]?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8093,7 +8093,7 @@
    "id": "78821",
    "isValid": "",
    "prompt": "Which of these plants should you touch... if you enjoy [i]suffering[/i]?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8144,7 +8144,7 @@
    "id": "78865",
    "isValid": "",
    "prompt": "Which of these unusual names are villains from the 1990 film [i]Dick Tracy[/i]?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8192,7 +8192,7 @@
    "id": "78874",
    "isValid": "",
    "prompt": "Which of these are actual birds of prey OR characters from the movie [i]Birds of Prey[/i]?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8240,7 +8240,7 @@
    "id": "78876",
    "isValid": "",
    "prompt": "Which songs were covered on [i]Glee[/i]?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8288,7 +8288,7 @@
    "id": "78882",
    "isValid": "",
    "prompt": "What are the 8 Rules of [i]Fight Club[/i]?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8339,7 +8339,7 @@
    "id": "78967",
    "isValid": "",
    "prompt": "Which of these are diseases that humans have mostly beaten (with the the help of vaccines)?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8504,7 +8504,7 @@
    "id": "79147",
    "isValid": "",
    "prompt": "Which of these words have a German origin?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8552,7 +8552,7 @@
    "id": "79178",
    "isValid": "",
    "prompt": "What are the main trigonometric functions?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8606,7 +8606,7 @@
    "id": "79182",
    "isValid": "",
    "prompt": "Which of these are ballroom dances?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8660,7 +8660,7 @@
    "id": "79183",
    "isValid": "",
    "prompt": "Which musicians are known for dressing up so you can't see their faces while performing?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8720,7 +8720,7 @@
    "id": "79184",
    "isValid": "",
    "prompt": "Which words are common portmanteaus (i.e. words that blend two or more words)?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8768,7 +8768,7 @@
    "id": "79197",
    "isValid": "",
    "prompt": "Which celebrities are members of the Coppola family tree?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8816,7 +8816,7 @@
    "id": "79201",
    "isValid": "",
    "prompt": "Which of these are poems by your grandfather's favorite poet, Robert Frost?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8924,7 +8924,7 @@
    "id": "79327",
    "isValid": "",
    "prompt": "Which of these are types of poems?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8975,7 +8975,7 @@
    "id": "79332",
    "isValid": "",
    "prompt": "Which of these are parts of an animal cell?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9026,7 +9026,7 @@
    "id": "79394",
    "isValid": "",
    "prompt": "Which of these are SECOND books in a young adult novel series?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9089,7 +9089,7 @@
    "id": "79409",
    "isValid": "",
    "prompt": "Which feature films were originally stage plays?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9146,7 +9146,7 @@
    "id": "79410",
    "isValid": "",
    "prompt": "Which words have 12 letters?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9203,7 +9203,7 @@
    "id": "79411",
    "isValid": "",
    "prompt": "As of 2020, which of these are official Olympic sports?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9251,7 +9251,7 @@
    "id": "79414",
    "isValid": "",
    "prompt": "Which of these people have walked on the Moon?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9308,7 +9308,7 @@
    "id": "79415",
    "isValid": "",
    "prompt": "Which of these are actual types of ants?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9356,7 +9356,7 @@
    "id": "79416",
    "isValid": "",
    "prompt": "Which of these are names of actual fonts?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9542,7 +9542,7 @@
    "id": "79437",
    "isValid": "",
    "prompt": "Which of these celebrities have hosted the Oscars?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9596,7 +9596,7 @@
    "id": "79440",
    "isValid": "",
    "prompt": "Which of these famous people are knights or dames?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9650,7 +9650,7 @@
    "id": "79455",
    "isValid": "",
    "prompt": "Which of these birds can get up and fly anytime they want?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9701,7 +9701,7 @@
    "id": "79456",
    "isValid": "",
    "prompt": "Which snacky-snacks are Frito Lay snacky-snacks?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9749,7 +9749,7 @@
    "id": "79457",
    "isValid": "",
    "prompt": "Which of these actions will get you kicked off a cruise?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9803,7 +9803,7 @@
    "id": "79458",
    "isValid": "",
    "prompt": "Which films are about real British royals?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9851,7 +9851,7 @@
    "id": "79459",
    "isValid": "",
    "prompt": "What are some of the many things Brad Pitt consumes in [i]Ocean's Eleven[/i]?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9905,7 +9905,7 @@
    "id": "79472",
    "isValid": "",
    "prompt": "Which of these are actual venomous snakes?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9968,7 +9968,7 @@
    "id": "79494",
    "isValid": "",
    "prompt": "Which of these countries are in South America?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10016,7 +10016,7 @@
    "id": "79547",
    "isValid": "",
    "prompt": "Which countries used to be part of the Ottoman Empire?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10064,7 +10064,7 @@
    "id": "79654",
    "isValid": "",
    "prompt": "Which words are repeated in “Cell Block Tango” from the musical [i]Chicago[/i]?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10112,7 +10112,7 @@
    "id": "79655",
    "isValid": "",
    "prompt": "As of 2020, which of these are the most popular search engines in the world?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10166,7 +10166,7 @@
    "id": "79657",
    "isValid": "",
    "prompt": "Which of these are among the published works of Kurt Vonnegut?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10217,7 +10217,7 @@
    "id": "79659",
    "isValid": "",
    "prompt": "Which of these are Honda automobile models?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10265,7 +10265,7 @@
    "id": "79664",
    "isValid": "",
    "prompt": "Which of these are types of knots?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10313,7 +10313,7 @@
    "id": "79673",
    "isValid": "",
    "prompt": "Which of these are cold-blooded reptiles?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10364,7 +10364,7 @@
    "id": "79684",
    "isValid": "",
    "prompt": "Which characters are in [i]12 Angry Men[/i]?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10412,7 +10412,7 @@
    "id": "79802",
    "isValid": "",
    "prompt": "Where are the places the Beach Boys want to take ya in the song “Kokomo”?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10469,7 +10469,7 @@
    "id": "79805",
    "isValid": "",
    "prompt": "Which of these are [i]Star Trek[/i] movies?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10574,7 +10574,7 @@
    "id": "79853",
    "isValid": "",
    "prompt": "As of 2020, which of these celebrities have lent their voices to [i]The Simpsons[/i]?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10682,7 +10682,7 @@
    "id": "79860",
    "isValid": "",
    "prompt": "Which countries are in Southeast Asia?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10729,7 +10729,7 @@
    "id": "79861",
    "isValid": "",
    "prompt": "Which of these are countries of Oceania?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10831,7 +10831,7 @@
    "id": "79921",
    "isValid": "",
    "prompt": "Which of these are among the Noble Eightfold Path of Buddhism?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10879,7 +10879,7 @@
    "id": "79923",
    "isValid": "",
    "prompt": "Which of these are the original commandments in the novel [i]Animal Farm[/i]?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10927,7 +10927,7 @@
    "id": "79925",
    "isValid": "",
    "prompt": "What are the 8 taxonomic categories for organisms?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10984,7 +10984,7 @@
    "id": "79927",
    "isValid": "",
    "prompt": "As of 2021, which photo print options are available at CVS?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11107,7 +11107,7 @@
    "id": "80098",
    "isValid": "",
    "prompt": "Which notable pieces of art clearly show a penis?",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -11218,7 +11218,7 @@
    "id": "80253",
    "isValid": "",
    "prompt": "Which of these celebs are, or have been, redheads?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11281,7 +11281,7 @@
    "id": "80309",
    "isValid": "",
    "prompt": "Which of these are among the original 12 playable Super Smash Bros.?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11335,7 +11335,7 @@
    "id": "80311",
    "isValid": "",
    "prompt": "Which of these are crustaceans?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11389,7 +11389,7 @@
    "id": "80449",
    "isValid": "",
    "prompt": "What are some things Rebecca Black does in her infamous single “Friday”?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11437,7 +11437,7 @@
    "id": "80454",
    "isValid": "",
    "prompt": "Which of the following are actual Greek classics?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11485,7 +11485,7 @@
    "id": "80455",
    "isValid": "",
    "prompt": "Which of the following are actual questions asked in Train's “Drops of Jupiter”?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11536,7 +11536,7 @@
    "id": "80465",
    "isValid": "",
    "prompt": "Which horror movies were released in the 1990s?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11602,7 +11602,7 @@
    "id": "80467",
    "isValid": "",
    "prompt": "Which of these #1 hit songs are Madonna's?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11653,7 +11653,7 @@
    "id": "81065",
    "isValid": "",
    "prompt": "Which of these names belong to [i]Peanuts[/i] characters?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11713,7 +11713,7 @@
    "id": "81101",
    "isValid": "",
    "prompt": "Which words are part of the NATO phonetic alphabet?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11761,7 +11761,7 @@
    "id": "81320",
    "isValid": "",
    "prompt": "Which of these are ways one can get caught in the song “It Wasn't Me”?",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -11809,7 +11809,7 @@
    "id": "81735",
    "isValid": "",
    "prompt": "Which novels are over a thousand pages long?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11857,7 +11857,7 @@
    "id": "81855",
    "isValid": "",
    "prompt": "Which of these games were played on the original Nintendo Entertainment System?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11905,7 +11905,7 @@
    "id": "82094",
    "isValid": "",
    "prompt": "Who are Winnie the Pooh's friends?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11953,7 +11953,7 @@
    "id": "82096",
    "isValid": "",
    "prompt": "Which artists were impressionist painters of the 19th century?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12049,7 +12049,7 @@
    "id": "82099",
    "isValid": "",
    "prompt": "Which numbers are in the Fibonacci Sequence?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12097,7 +12097,7 @@
    "id": "82101",
    "isValid": "",
    "prompt": "Which of these are brands of bourbon?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12145,7 +12145,7 @@
    "id": "82102",
    "isValid": "",
    "prompt": "Which of these are holidays celebrated in the United Kingdom?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12193,7 +12193,7 @@
    "id": "82104",
    "isValid": "",
    "prompt": "Which organs are part of the endocrine system?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12241,7 +12241,7 @@
    "id": "82209",
    "isValid": "",
    "prompt": "Which songs are on the soundtrack album of the 2001 animated masterpiece [i]Shrek[/i]?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12289,7 +12289,7 @@
    "id": "82626",
    "isValid": "",
    "prompt": "Which movies feature John Travolta dancing?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12343,7 +12343,7 @@
    "id": "82635",
    "isValid": "",
    "prompt": "Which cities are in Germany?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12391,7 +12391,7 @@
    "id": "82646",
    "isValid": "",
    "prompt": "Which of these are regions of France?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12439,7 +12439,7 @@
    "id": "82650",
    "isValid": "",
    "prompt": "Which countries were members of the Soviet Union?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12487,7 +12487,7 @@
    "id": "82676",
    "isValid": "",
    "prompt": "Which of these are regions on a [i]Risk[/i] board?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12547,7 +12547,7 @@
    "id": "82678",
    "isValid": "",
    "prompt": "What colors are in a 12-pack of Crayola crayons?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12595,7 +12595,7 @@
    "id": "82688",
    "isValid": "",
    "prompt": "Which of these are muscles of the human back?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12649,7 +12649,7 @@
    "id": "82689",
    "isValid": "",
    "prompt": "Which of these are different parts of a circle?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12697,7 +12697,7 @@
    "id": "82693",
    "isValid": "",
    "prompt": "Who were the pop music superstars of the 1999 “Latin Explosion”?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12757,7 +12757,7 @@
    "id": "82694",
    "isValid": "",
    "prompt": "Which of these hats are real hats?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12820,7 +12820,7 @@
    "id": "82698",
    "isValid": "",
    "prompt": "Which tasks were assigned to Hercules as part of his famous Twelve Labors?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12883,7 +12883,7 @@
    "id": "82700",
    "isValid": "",
    "prompt": "Which phrases was the original Chatty Cathy doll programmed to say upon its release in 1960?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12937,7 +12937,7 @@
    "id": "82703",
    "isValid": "",
    "prompt": "Which of these is a real species of whale?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12997,7 +12997,7 @@
    "id": "82704",
    "isValid": "",
    "prompt": "Which nations were among the founding members of NATO in 1949?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -13048,7 +13048,7 @@
    "id": "82705",
    "isValid": "",
    "prompt": "Which of these are capital cities of South American countries?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -13096,7 +13096,7 @@
    "id": "82716",
    "isValid": "",
    "prompt": "Which of these are soccer positions?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -13144,7 +13144,7 @@
    "id": "82742",
    "isValid": "",
    "prompt": "Which of these animals are marsupials?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -13195,7 +13195,7 @@
    "id": "82869",
    "isValid": "",
    "prompt": "Which of these pop stars used to be on a Disney Channel show?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -13243,7 +13243,7 @@
    "id": "82890",
    "isValid": "",
    "prompt": "Who were the original members of Destiny's Child?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -13294,7 +13294,7 @@
    "id": "82891",
    "isValid": "",
    "prompt": "Which foods were available on the first-class luncheon menu of the [i]Titanic[/i] just hours before it sank on April 14th, 1912?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -13351,7 +13351,7 @@
    "id": "82899",
    "isValid": "",
    "prompt": "As of 2020, which of these people, groups, or concepts have been named [i]Time[/i] magazine's Person of the Year?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -13405,7 +13405,7 @@
    "id": "82902",
    "isValid": "",
    "prompt": "Which of these are Toni Morrison novels?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -13462,7 +13462,7 @@
    "id": "82907",
    "isValid": "",
    "prompt": "Which of these are actual types of jellyfish?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -13522,7 +13522,7 @@
    "id": "82934",
    "isValid": "",
    "prompt": "As of 2020, which of these movies have produced one of the top ten best-selling soundtracks of all time?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -13666,7 +13666,7 @@
    "id": "83080",
    "isValid": "",
    "prompt": "Which athletes have won five or more Olympic gold medals?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -13714,7 +13714,7 @@
    "id": "83082",
    "isValid": "",
    "prompt": "Which of these produce items are typically in season in the winter in the Northern Hemisphere?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -13762,7 +13762,7 @@
    "id": "83343",
    "isValid": "",
    "prompt": "Which of the following phrases are on Brach's popular Valentine's Day conversation heart candies?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -13810,7 +13810,7 @@
    "id": "83446",
    "isValid": "",
    "prompt": "Which of these are actual cards in the original [i]Uno[/i]?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -13858,7 +13858,7 @@
    "id": "83447",
    "isValid": "",
    "prompt": "Which of these are actual necktie knots?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -13906,7 +13906,7 @@
    "id": "83457",
    "isValid": "",
    "prompt": "As of 2020, which of these countries have won the FIFA Men's World Cup?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -13954,7 +13954,7 @@
    "id": "83522",
    "isValid": "",
    "prompt": "Who are the playable characters in the original [i]Mortal Kombat[/i]?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -14011,7 +14011,7 @@
    "id": "83927",
    "isValid": "",
    "prompt": "Which of these are meanings for the word “set” in English?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -14065,7 +14065,7 @@
    "id": "83930",
    "isValid": "",
    "prompt": "Which words contain an elemental metal inside them?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -14113,7 +14113,7 @@
    "id": "84257",
    "isValid": "",
    "prompt": "What words are spoken by Wylis in the first four seasons of [i]Game of Thrones[/i]?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -14161,7 +14161,7 @@
    "id": "84261",
    "isValid": "",
    "prompt": "What might you say to yourself according to the Talking Heads hit “Once in a Lifetime”?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -14209,7 +14209,7 @@
    "id": "84752",
    "isValid": "",
    "prompt": "Which of these are singing voice types?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -14257,7 +14257,7 @@
    "id": "84775",
    "isValid": "",
    "prompt": "Which of these are actual plagues from the Book of Exodus?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -14305,7 +14305,7 @@
    "id": "84779",
    "isValid": "",
    "prompt": "As of 2020, which of these animals are extinct?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -14356,7 +14356,7 @@
    "id": "84781",
    "isValid": "",
    "prompt": "Which of these are actual cat food brands?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -14458,7 +14458,7 @@
    "id": "84979",
    "isValid": "",
    "prompt": "Which of these unusual words are spelled correctly?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -14572,7 +14572,7 @@
    "id": "85044",
    "isValid": "",
    "prompt": "Which of these are types of pants?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -14629,7 +14629,7 @@
    "id": "85052",
    "isValid": "",
    "prompt": "Which of these are real horse breeds?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -14782,7 +14782,7 @@
    "id": "85191",
    "isValid": "",
    "prompt": "Which of these are Great Houses in [i]Game of Thrones[/i]?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -14830,7 +14830,7 @@
    "id": "85440",
    "isValid": "",
    "prompt": "Which countries fought in World War I?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -14878,7 +14878,7 @@
    "id": "85441",
    "isValid": "",
    "prompt": "Which of these are the original [i]Monopoly[/i] game pieces?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -14974,7 +14974,7 @@
    "id": "85444",
    "isValid": "",
    "prompt": "Which of these movies are romantic comedies of the 2000s?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -15022,7 +15022,7 @@
    "id": "85458",
    "isValid": "",
    "prompt": "What countries border India?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -15079,7 +15079,7 @@
    "id": "85463",
    "isValid": "",
    "prompt": "Which of these are real dinosaurs?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -15133,7 +15133,7 @@
    "id": "85501",
    "isValid": "",
    "prompt": "Which of these are actual styles of architecture?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -15187,7 +15187,7 @@
    "id": "85503",
    "isValid": "",
    "prompt": "Which of these are real golf terms that golfers like to use?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -15235,7 +15235,7 @@
    "id": "85606",
    "isValid": "",
    "prompt": "Which of these applications have been bundled in Microsoft Office Suite?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -15289,7 +15289,7 @@
    "id": "85636",
    "isValid": "",
    "prompt": "Which of these are real houseplants?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -15388,7 +15388,7 @@
    "id": "85641",
    "isValid": "",
    "prompt": "Which of these are (or were) real WWE wrestlers?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -15490,7 +15490,7 @@
    "id": "85645",
    "isValid": "",
    "prompt": "Which of these are styles of hats?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -15595,7 +15595,7 @@
    "id": "85647",
    "isValid": "",
    "prompt": "Which indigenous American nations are members of the Iroquois Confederacy, also known as the Six Nations?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -15694,7 +15694,7 @@
    "id": "85654",
    "isValid": "",
    "prompt": "Which of these soccer fouls will result in a direct free kick for the opposing team?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -15745,7 +15745,7 @@
    "id": "85655",
    "isValid": "",
    "prompt": "Which of these luxury fashion brands are spelled correctly?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -15793,7 +15793,7 @@
    "id": "85719",
    "isValid": "",
    "prompt": "As of 2021, which of these actors have portrayed James Bond in film or television?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -15844,7 +15844,7 @@
    "id": "85720",
    "isValid": "",
    "prompt": "Which of these famous names were supermodels of the 1990s?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -15895,7 +15895,7 @@
    "id": "85761",
    "isValid": "",
    "prompt": "Which of these individuals were famous Western philosophers?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -15991,7 +15991,7 @@
    "id": "85905",
    "isValid": "",
    "prompt": "Which of these are winners of the Nobel Peace Prize?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -16039,7 +16039,7 @@
    "id": "85950",
    "isValid": "",
    "prompt": "Which of these are tools Link uses in the [i]Legend of Zelda[/i] series?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -16087,7 +16087,7 @@
    "id": "85954",
    "isValid": "",
    "prompt": "Which of these figures are from Egyptian mythology?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -16135,7 +16135,7 @@
    "id": "85979",
    "isValid": "",
    "prompt": "Which actors portrayed captains of a version of the starship [i]Enterprise[/i]?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -16189,7 +16189,7 @@
    "id": "85996",
    "isValid": "",
    "prompt": "Which of these are real egg preparations?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -16432,7 +16432,7 @@
    "id": "86014",
    "isValid": "",
    "prompt": "According to the Boat Owner’s Association of The United States, what were the top ten boat names for the year 2021?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -16492,7 +16492,7 @@
    "id": "86022",
    "isValid": "",
    "prompt": "Which of the following are real names of OPI nail polish colors?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -16543,7 +16543,7 @@
    "id": "86023",
    "isValid": "",
    "prompt": "Which of the following people once reigned as the undisputed world heavyweight boxing champion?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -16597,7 +16597,7 @@
    "id": "86024",
    "isValid": "",
    "prompt": "Which of these are Germanic languages?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -16645,7 +16645,7 @@
    "id": "86031",
    "isValid": "",
    "prompt": "Who are the original nine members of the Wu-Tang Clan?",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -16693,7 +16693,7 @@
    "id": "86068",
    "isValid": "",
    "prompt": "Which Kongs are part of the Donkey Kong family tree?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -16741,7 +16741,7 @@
    "id": "86128",
    "isValid": "",
    "prompt": "Which foods originated in France?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -16795,7 +16795,7 @@
    "id": "86129",
    "isValid": "",
    "prompt": "Which of the following are Steely Dan albums?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -16846,7 +16846,7 @@
    "id": "86130",
    "isValid": "",
    "prompt": "Which of the following are actual Hawaiian islands?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -16951,7 +16951,7 @@
    "id": "86193",
    "isValid": "",
    "prompt": "Which of these are basic classes in [i]Dungeons & Dragons[/i] 5th Edition?",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -16999,7 +16999,7 @@
    "id": "86347",
    "isValid": "",
    "prompt": "Which of these were City-States (or poleis) of Ancient Greece?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -17047,7 +17047,7 @@
    "id": "86376",
    "isValid": "",
    "prompt": "Which of these are actual parades that have been held in New York City?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -17098,7 +17098,7 @@
    "id": "86378",
    "isValid": "",
    "prompt": "As of 2018, which of these countries has won any sort of Olympic medal in curling, a.k.a. “The Sport of the Gods.”",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -17194,7 +17194,7 @@
    "id": "86447",
    "isValid": "",
    "prompt": "Which movies are about the end of the world?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -17251,7 +17251,7 @@
    "id": "86448",
    "isValid": "",
    "prompt": "Which of these books are from the 19th century?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -17308,7 +17308,7 @@
    "id": "86449",
    "isValid": "",
    "prompt": "Which of these are real episodes from the original [i]The Twilight Zone[/i] series?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -17455,7 +17455,7 @@
    "id": "86462",
    "isValid": "",
    "prompt": "Which of these are elements of a story according to Freytag’s Pyramid?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -17521,7 +17521,7 @@
    "id": "86464",
    "isValid": "",
    "prompt": "Which of these are examples of an interjection?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -17572,7 +17572,7 @@
    "id": "86466",
    "isValid": "",
    "prompt": "Which of these are characters from Charles Dickens’ novella [i]A Christmas Carol[/i]?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -17620,7 +17620,7 @@
    "id": "86468",
    "isValid": "",
    "prompt": "Which individuals have actually been prime minister of the United Kingdom?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -17668,7 +17668,7 @@
    "id": "86471",
    "isValid": "",
    "prompt": "Which of these are monotheistic religions?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -17716,7 +17716,7 @@
    "id": "86474",
    "isValid": "",
    "prompt": "Which of these foods are toxic to cats?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -17890,7 +17890,7 @@
    "id": "86479",
    "isValid": "",
    "prompt": "As of 2021, which of the following are real Christmas tree ornaments that could be purchased from Old World Christmas dot com?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -17941,7 +17941,7 @@
    "id": "86482",
    "isValid": "",
    "prompt": "Which of these movies are collaborations between Wes Anderson and Bill Murray?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -18133,7 +18133,7 @@
    "id": "86512",
    "isValid": "",
    "prompt": "Which of these are actual methods of time travel used in fiction?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -18181,7 +18181,7 @@
    "id": "86514",
    "isValid": "",
    "prompt": "Which of these are the values of the paper denominations of the euro(€)?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -18280,7 +18280,7 @@
    "id": "86521",
    "isValid": "",
    "prompt": "Which of these are characters in Shakespeare’s [i]Romeo & Juliet[/i]?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -18337,7 +18337,7 @@
    "id": "86547",
    "isValid": "",
    "prompt": "Which of these people have a bird somewhere in their name?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -18385,7 +18385,7 @@
    "id": "86695",
    "isValid": "",
    "prompt": "Who were the Pythons of [i]Monty Python’s Flying Circus[/i]?",
-   "us": false,
+   "us": true,
    "x": false
   }
  ]

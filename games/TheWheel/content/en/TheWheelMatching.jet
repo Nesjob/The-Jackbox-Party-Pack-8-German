@@ -61,59 +61,59 @@
   {
    "answers": [
     {
-     "match": "Martin Luther King Jr. Day",
-     "text": "January"
+     "match": "Heilige drei Könige",
+     "text": "Januar"
     },
     {
-     "match": "Groundhog Day",
-     "text": "February"
+     "match": "Valentinstag",
+     "text": "Februar"
     },
     {
-     "match": "Pi Day",
-     "text": "March"
+     "match": "Internationaler Frauentag",
+     "text": "März"
     },
     {
-     "match": "Cinco de Mayo",
-     "text": "May"
+     "match": "Muttertag",
+     "text": "Mai"
     },
     {
-     "match": "Father's Day",
-     "text": "June"
+     "match": "Sommeranfang",
+     "text": "Juni"
     },
     {
-     "match": "Canada Day",
-     "text": "July"
+     "match": "Welt-Emoji-Tag",
+     "text": "Juli"
     },
     {
-     "match": "Autumnal Equinox",
-     "text": "September"
+     "match": "Mariä Himmelfahrt",
+     "text": "August"
     },
     {
      "match": "Halloween",
-     "text": "October"
+     "text": "Oktober"
     },
     {
-     "match": "Election Day (U.S.)",
+     "match": "Buß- und Bettag",
      "text": "November"
     },
     {
-     "match": "Boxing Day",
-     "text": "December"
+     "match": "St. Barbara Fest",
+     "text": "Dezember"
     }
    ],
    "category": "Calendar/Holidays",
    "decoys": [],
    "headers": [
     {
-     "match": "Days",
-     "text": "Months"
+     "match": "Tage",
+     "text": "Monate"
     }
    ],
    "id": "76789",
    "isValid": "",
-   "prompt": "Match the month to its special day",
-   "promptHeader": "Months and Their Special Days",
-   "us": true,
+   "prompt": "Ordne den Monaten den besonderen Tag zu",
+   "promptHeader": "Monate und ihre Feiertage",
+   "us": false,
    "x": false
   },
   {
@@ -175,7 +175,7 @@
    "isValid": "",
    "prompt": "Match the book to its author",
    "promptHeader": "Bestsellers of the 2010s",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -233,7 +233,7 @@
    "isValid": "",
    "prompt": "Match the actor who played a role earlier with the actor who recreated the role",
    "promptHeader": "Performers Who Share a Role",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -291,7 +291,7 @@
    "isValid": "",
    "prompt": "Match the tool to the surface it touches",
    "promptHeader": "Tools",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -345,7 +345,7 @@
    "isValid": "",
    "prompt": "Match the witch to their story",
    "promptHeader": "Where Did This Witch Come From?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -399,57 +399,57 @@
    "isValid": "",
    "prompt": "Match the alien to their friend",
    "promptHeader": "Aliens and Their Friends",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "alien with antenna",
+     "match": "Alien mit Antenne",
      "text": "Reddit"
     },
     {
-     "match": "fox encircling globe",
+     "match": "Fuchs umkreist den Globus",
      "text": "Firefox"
     },
     {
-     "match": "bird",
+     "match": "Vogel",
      "text": "Twitter"
     },
     {
-     "match": "musical note",
+     "match": "Musik Note",
      "text": "TikTok"
     },
     {
-     "match": "letter Q",
-     "text": "Quora"
+     "match": "Waschbär",
+     "text": "Jodel"
     },
     {
-     "match": "locomotive parts",
+     "match": "Teile einer Lokomotive",
      "text": "Steam"
     },
     {
-     "match": "chat box",
+     "match": "Chatfenster",
      "text": "Twitch"
     },
     {
-     "match": "game controller face",
+     "match": "Gesicht eines Controllers",
      "text": "Discord"
     },
     {
-     "match": "play button in box",
+     "match": "Play-Button in einer Box",
      "text": "YouTube"
     },
     {
-     "match": "video camera",
+     "match": "Videokamera",
      "text": "Zoom"
     },
     {
-     "match": "compass",
+     "match": "Kompass",
      "text": "Safari"
     },
     {
-     "match": "cup of coffee",
+     "match": "Kaffeetasse",
      "text": "Java"
     }
    ],
@@ -458,12 +458,12 @@
    "headers": [
     {
      "match": "Logos",
-     "text": "Internet Entities"
+     "text": "Internet Entitäten"
     }
    ],
    "id": "76845",
    "isValid": "",
-   "prompt": "Match the internet entity to its logo",
+   "prompt": "Ordne der Internetentität ihr Logo zu",
    "promptHeader": "Internet Logos",
    "us": false,
    "x": false
@@ -581,7 +581,7 @@
    "isValid": "",
    "prompt": "Match the game to the card",
    "promptHeader": "Is This Your Card?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -635,7 +635,7 @@
    "isValid": "",
    "prompt": "Match the drink to its main ingredient",
    "promptHeader": "Cocktails",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -693,7 +693,7 @@
    "isValid": "",
    "prompt": "Match the nation to its flag",
    "promptHeader": "National Flags",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -809,7 +809,7 @@
    "isValid": "",
    "prompt": "Match the word to its antonym",
    "promptHeader": "Antonyms",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -863,7 +863,7 @@
    "isValid": "",
    "prompt": "Match the book to its rejected title",
    "promptHeader": "Classic Books and Their Rejected Titles",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -929,7 +929,7 @@
    "isValid": "",
    "prompt": "Match the celebrity to their relative",
    "promptHeader": "Celebrities Related by Blood",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -983,7 +983,7 @@
    "isValid": "",
    "prompt": "Match the monster to its hunter",
    "promptHeader": "Monster Hunters",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1141,7 +1141,7 @@
    "isValid": "",
    "prompt": "Match the color to the [i]Thomas the Tank Engine[/i] character",
    "promptHeader": "[i]Thomas the Tank Engine[/i] Colors",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1261,7 +1261,7 @@
    "isValid": "",
    "prompt": "Match the nation to the language",
    "promptHeader": "Official Languages",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1319,7 +1319,7 @@
    "isValid": "",
    "prompt": "Match the dog to the show",
    "promptHeader": "Where Does This Dog Come From?!",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1431,7 +1431,7 @@
    "isValid": "",
    "prompt": "Match the sport to the foul",
    "promptHeader": "Something Bad Happened in This Sport!",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1489,7 +1489,7 @@
    "isValid": "",
    "prompt": "Match the famous person or character with their famous lover",
    "promptHeader": "Historic Power Couples",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1613,7 +1613,7 @@
    "isValid": "",
    "prompt": "Match the bread to the sandwich",
    "promptHeader": "Breads Traditionally Used in Sandwiches",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1687,7 +1687,7 @@
    "isValid": "",
    "prompt": "Match the film to the role",
    "promptHeader": "Meryl Streep's Oscar-Nominated Roles",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1745,7 +1745,7 @@
    "isValid": "",
    "prompt": "Match the universe to its fictional language",
    "promptHeader": "Fictional Languages",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1811,7 +1811,7 @@
    "isValid": "",
    "prompt": "Match the zodiac sign to the month",
    "promptHeader": "Zodiac Signs and Months",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1869,7 +1869,7 @@
    "isValid": "",
    "prompt": "Match the rapper to their acting credit",
    "promptHeader": "That's a Rap: Hip Hop Artists and Their Acting Work",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1989,7 +1989,7 @@
    "isValid": "",
    "prompt": "Match the artist to their debut album",
    "promptHeader": "Famous Debut Albums",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2051,7 +2051,7 @@
    "isValid": "",
    "prompt": "Match the national dish to its country",
    "promptHeader": "Countries and Their Most Popular National Dishes",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2117,7 +2117,7 @@
    "isValid": "",
    "prompt": "Match the region to its highest point",
    "promptHeader": "The Regions of the World and Their Highest Points",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2183,7 +2183,7 @@
    "isValid": "",
    "prompt": "Match the couple to their hybrid name",
    "promptHeader": "Hybrid Names of Celebrity Supercouples",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2233,7 +2233,7 @@
    "isValid": "",
    "prompt": "Match the dish to its main ingredient",
    "promptHeader": "Main Ingredients",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2299,7 +2299,7 @@
    "isValid": "",
    "prompt": "Match the noodle to its nation",
    "promptHeader": "Noodles of the World and Where They Come From",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2349,7 +2349,7 @@
    "isValid": "",
    "prompt": "Match the play to its play-within-the-play",
    "promptHeader": "The Play Within the Play",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2411,7 +2411,7 @@
    "isValid": "",
    "prompt": "Match the location to the sin",
    "promptHeader": "Circles of Hell in Dante's [i]Inferno[/i] and the Sinners Sent There",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -2469,7 +2469,7 @@
    "isValid": "",
    "prompt": "Match the film to its final word",
    "promptHeader": "The Last Word Spoken in Famous Films",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2535,7 +2535,7 @@
    "isValid": "",
    "prompt": "Match the scientist to their contribution",
    "promptHeader": "Great Scientists and Their Major Contributions",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2627,7 +2627,7 @@
    "isValid": "",
    "prompt": "Match the color to its meaning",
    "promptHeader": "Meanings of Colors on the Rainbow Pride Flag",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2693,7 +2693,7 @@
    "isValid": "",
    "prompt": "Match the actress to the film",
    "promptHeader": "Rom-Com Leading Ladies",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2747,7 +2747,7 @@
    "isValid": "",
    "prompt": "Match the artist to their instrument",
    "promptHeader": "Jazz Greats and Their Instruments",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2805,7 +2805,7 @@
    "isValid": "",
    "prompt": "Match the sitcom to its setting",
    "promptHeader": "Sitcom Settings",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2863,7 +2863,7 @@
    "isValid": "",
    "prompt": "Match the song to its artist",
    "promptHeader": "Train Songs and Their Artists",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2921,7 +2921,7 @@
    "isValid": "",
    "prompt": "Match the building to its city",
    "promptHeader": "Skyscrapers",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2979,7 +2979,7 @@
    "isValid": "",
    "prompt": "Match the animal to its group name",
    "promptHeader": "What's That Group of Animals Called?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3037,7 +3037,7 @@
    "isValid": "",
    "prompt": "Match the country to the dumpling",
    "promptHeader": "Hey! Where'd You Get That Dumpling?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3153,7 +3153,7 @@
    "isValid": "",
    "prompt": "Match the company to their product",
    "promptHeader": "Just Some Guys and Their Stuff",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3211,7 +3211,7 @@
    "isValid": "",
    "prompt": "Match the currency to its place of origin",
    "promptHeader": "Tradable Currencies and Where They Are From",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3273,7 +3273,7 @@
    "isValid": "",
    "prompt": "Match the artist to their masterpiece",
    "promptHeader": "20th Century Artists and Their Masterpieces",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3397,7 +3397,7 @@
    "isValid": "",
    "prompt": "Match the country to its capital",
    "promptHeader": "Capital Cities of Earth",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3463,7 +3463,7 @@
    "isValid": "",
    "prompt": "Match the [i]Harry Potter[/i] cast member to their other movie",
    "promptHeader": "[i]Harry Potter[/i] Actors and Their Other Film Roles",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3529,7 +3529,7 @@
    "isValid": "",
    "prompt": "Match the country's English name to its local name",
    "promptHeader": "What Countries Are Called in Their Native Tongues",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3653,7 +3653,7 @@
    "isValid": "",
    "prompt": "Match the invention to the inventor",
    "promptHeader": "Inventions and Inventors",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3719,7 +3719,7 @@
    "isValid": "",
    "prompt": "Match the month to the birthstone",
    "promptHeader": "Beautiful Shiny Birthstones!",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3777,7 +3777,7 @@
    "isValid": "",
    "prompt": "Match the film to the ghost",
    "promptHeader": "Ahhhh!!!! A G-g-g-g-ghost???",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3843,7 +3843,7 @@
    "isValid": "",
    "prompt": "Match the artist to their band",
    "promptHeader": "I'm With the Band",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3901,7 +3901,7 @@
    "isValid": "",
    "prompt": "Match the language to the phrase",
    "promptHeader": "I Love You! Say It Back",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3963,7 +3963,7 @@
    "isValid": "",
    "prompt": "Match the TV character to their catchphrase",
    "promptHeader": "TV Characters and Their Catchphrases",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4021,7 +4021,7 @@
    "isValid": "",
    "prompt": "Match the sushi dish to its ingredient",
    "promptHeader": "Sushi Sync Up",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4083,7 +4083,7 @@
    "isValid": "",
    "prompt": "Match the guitarist to the band",
    "promptHeader": "Guitar Gods and Who They Rock With",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4145,7 +4145,7 @@
    "isValid": "",
    "prompt": "Match the Muppet to what they are supposed to be",
    "promptHeader": "The Muppets and Whatever the Heck They're Supposed to Be",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4203,7 +4203,7 @@
    "isValid": "",
    "prompt": "Match the famous vehicle to its type",
    "promptHeader": "Famous Modes of Transportation",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4385,7 +4385,7 @@
    "isValid": "",
    "prompt": "Match the artist to the muse",
    "promptHeader": "Musical Artists and Their Muses",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4443,7 +4443,7 @@
    "isValid": "",
    "prompt": "Match the play with m’lady!",
    "promptHeader": "The Complex Women of Shakespeare",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4493,7 +4493,7 @@
    "isValid": "",
    "prompt": "Match the theme park to the attraction",
    "promptHeader": "Rides of Enormous Amusement",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4551,7 +4551,7 @@
    "isValid": "",
    "prompt": "Match the first and last name to its middle",
    "promptHeader": "Middles of Names",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4609,7 +4609,7 @@
    "isValid": "",
    "prompt": "Match the movie to the decade in which it is set",
    "promptHeader": "Period. Movies.",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4671,7 +4671,7 @@
    "isValid": "",
    "prompt": "Match the company to its original moniker",
    "promptHeader": "Seriously Rebranded Company Names",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4733,7 +4733,7 @@
    "isValid": "",
    "prompt": "Match the cartoon character to their best friend",
    "promptHeader": "Cartoon Besties",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4799,7 +4799,7 @@
    "isValid": "",
    "prompt": "Match the [i]SNL[/i] cast member to their character",
    "promptHeader": "[i]Saturday Night Live[/i] Cast Members and Their Popular Characters",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4857,7 +4857,7 @@
    "isValid": "",
    "prompt": "Match the character to their lover",
    "promptHeader": "Star-Crossed Lovers",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4923,7 +4923,7 @@
    "isValid": "",
    "prompt": "Match the [i]Star Trek[/i] actor to the character they played",
    "promptHeader": "[i]Star Trek[/i] Cast Members and the Characters They Played",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4981,7 +4981,7 @@
    "isValid": "",
    "prompt": "Match the micronutrient to the biological function it benefits",
    "promptHeader": "Micronutrients and What They Benefit",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5039,7 +5039,7 @@
    "isValid": "",
    "prompt": "Match the religion to the spiritual leader",
    "promptHeader": "World Religions and Their Spiritual Leaders (as of 2020)",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5151,7 +5151,7 @@
    "isValid": "",
    "prompt": "Match the poet to their famous poem",
    "promptHeader": "English Language Poets and Their Most Famous Poems",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5209,7 +5209,7 @@
    "isValid": "",
    "prompt": "Match the X-Men character to their mutant power",
    "promptHeader": "X-Men and Their Mutant Powers",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5333,7 +5333,7 @@
    "isValid": "",
    "prompt": "Match the celebrity’s first and second name to their last name",
    "promptHeader": "Three-Named Celebs",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5391,7 +5391,7 @@
    "isValid": "",
    "prompt": "Match the type of drink to its primary ingredient",
    "promptHeader": "Hey, Where Did That Drink Come From?",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -5457,7 +5457,7 @@
    "isValid": "",
    "prompt": "Match the rapper stage name’s front end to its back end",
    "promptHeader": "Hip-Hop Beginnings and Endings",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5515,7 +5515,7 @@
    "isValid": "",
    "prompt": "Match the TV show to its signature hangout spot",
    "promptHeader": "TV Shows and Their Main Hangs",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5573,7 +5573,7 @@
    "isValid": "",
    "prompt": "Match the musical to the artist it celebrates",
    "promptHeader": "Jukebox Musicals",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5631,7 +5631,7 @@
    "isValid": "",
    "prompt": "Match the edible celebrity first name to the last name",
    "promptHeader": "Edible Celebs",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5697,7 +5697,7 @@
    "isValid": "",
    "prompt": "Match the celebrity to their offspring",
    "promptHeader": "Celebrities Through the Generations",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5759,7 +5759,7 @@
    "isValid": "",
    "prompt": "Match the superhero movie to the actor who played its villain",
    "promptHeader": "Superhero Movies and Their Antagonists",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5813,7 +5813,7 @@
    "isValid": "",
    "prompt": "Match the actor to the masked character they played",
    "promptHeader": "Actors and Their Masked Characters",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5871,7 +5871,7 @@
    "isValid": "",
    "prompt": "Match the athlete to their sport",
    "promptHeader": "Elite Women of the Sports World",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5937,7 +5937,7 @@
    "isValid": "",
    "prompt": "Match the animal to what we call their (mostly) adorable offspring",
    "promptHeader": "Cute Baby Animals",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6061,7 +6061,7 @@
    "isValid": "",
    "prompt": "Match the made-up episode to its television show",
    "promptHeader": "Imaginary TV Episodes Starring the Wheel",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6115,7 +6115,7 @@
    "isValid": "",
    "prompt": "Match the brothers to what they're famous for",
    "promptHeader": "Bestest Bros",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6239,7 +6239,7 @@
    "isValid": "",
    "prompt": "Match the animal to the sound the English-speaking world thinks they make",
    "promptHeader": "Animals and Their Sounds",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6297,7 +6297,7 @@
    "isValid": "",
    "prompt": "Match the animal species to its famous breed",
    "promptHeader": "You Animals!",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6401,7 +6401,7 @@
    "isValid": "",
    "prompt": "Match the mythical creature with its component animals",
    "promptHeader": "Mythical Creature Parts",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6467,7 +6467,7 @@
    "isValid": "",
    "prompt": "Match the country to its obsolete currency",
    "promptHeader": "Bygone Currencies",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6653,7 +6653,7 @@
    "isValid": "",
    "prompt": "Match the ancient Greek gods with their Roman counterparts",
    "promptHeader": "The Gods of Greece and Their Roman Counterparts",
-   "us": false,
+   "us": true,
    "x": false
   },
   {

@@ -3,54 +3,54 @@
   {
    "answers": [
     {
-     "text": "antimatter",
+     "text": "Antimaterie",
      "value": "1"
     },
     {
-     "text": "californium",
+     "text": "Californium",
      "value": "2"
     },
     {
-     "text": "diamonds",
+     "text": "Diamanten",
      "value": "3"
     },
     {
-     "text": "tritium",
+     "text": "Tritium",
      "value": "4"
     },
     {
-     "text": "plutonium",
+     "text": "Plutonium",
      "value": "5"
     },
     {
-     "text": "platinum",
+     "text": "Platin",
      "value": "6"
     },
     {
-     "text": "Beluga caviar",
+     "text": "Beluga-Kaviar",
      "value": "7"
     },
     {
-     "text": "white truffles",
+     "text": "weiße Trüffel",
      "value": "8"
     },
     {
-     "text": "silver",
+     "text": "Silber",
      "value": "9"
     },
     {
-     "text": "beef jerky",
+     "text": "Beef Jerky",
      "value": "10"
     },
     {
-     "text": "recyclable plastic",
+     "text": "recycelbares Plastik",
      "value": "11"
     }
    ],
    "category": "Factoids",
    "id": "76752",
    "isValid": "",
-   "prompt": "Which substance is more expensive per gram?",
+   "prompt": "Welche Substanz ist teurer pro Gramm?",
    "sort": "ascending",
    "subtype": "most/least",
    "unit": "",
@@ -115,7 +115,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(in pounds)",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -261,7 +261,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -492,7 +492,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(medals from Winter and Summer Games)",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -549,7 +549,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(in pounds per square inch)",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -614,7 +614,7 @@
    "sort": "ascending",
    "subtype": "closest",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -675,7 +675,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -724,7 +724,7 @@
    "sort": "ascending",
    "subtype": "closest",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -842,7 +842,7 @@
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -915,7 +915,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(in millions of people)",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -976,7 +976,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1037,7 +1037,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(in calories)",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1098,7 +1098,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1151,7 +1151,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(in % of mass)",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1216,7 +1216,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(in kilometers)",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1342,7 +1342,7 @@
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1407,7 +1407,7 @@
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1456,7 +1456,7 @@
    "sort": "ascending",
    "subtype": "closest",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1501,7 +1501,7 @@
    "sort": "ascending",
    "subtype": "most/least",
    "unit": "(in miles per hour)",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1554,7 +1554,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(in minutes)",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1749,7 +1749,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(in billions of visitors per month)",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1887,7 +1887,7 @@
    "sort": "ascending",
    "subtype": "most/least",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1948,7 +1948,7 @@
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2009,7 +2009,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2066,7 +2066,7 @@
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2127,7 +2127,7 @@
    "sort": "descending",
    "subtype": "closest",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2196,7 +2196,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(in minutes)",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2257,7 +2257,7 @@
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2318,7 +2318,7 @@
    "sort": "ascending",
    "subtype": "closest",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2383,7 +2383,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(in milligrams of caffeine)",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2452,7 +2452,7 @@
    "sort": "ascending",
    "subtype": "closest",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2521,7 +2521,7 @@
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2582,7 +2582,7 @@
    "sort": "descending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2643,7 +2643,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2700,7 +2700,7 @@
    "sort": "descending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2753,7 +2753,7 @@
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2814,7 +2814,7 @@
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "(in millions of years ago)",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2875,7 +2875,7 @@
    "sort": "descending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2932,7 +2932,7 @@
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2993,7 +2993,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(in words)",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3062,7 +3062,7 @@
    "sort": "ascending",
    "subtype": "most/least",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3131,7 +3131,7 @@
    "sort": "ascending",
    "subtype": "closest",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3196,7 +3196,7 @@
    "sort": "descending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3265,7 +3265,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3326,7 +3326,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3399,7 +3399,7 @@
    "sort": "ascending",
    "subtype": "closest",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3456,7 +3456,7 @@
    "sort": "descending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3521,7 +3521,7 @@
    "sort": "descending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3582,7 +3582,7 @@
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3639,7 +3639,7 @@
    "sort": "descending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3700,7 +3700,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(in U.S. dollars)",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3745,7 +3745,7 @@
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3879,7 +3879,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3948,7 +3948,7 @@
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4013,7 +4013,7 @@
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4204,7 +4204,7 @@
    "sort": "ascending",
    "subtype": "most/least",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4261,7 +4261,7 @@
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4334,7 +4334,7 @@
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4456,7 +4456,7 @@
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4529,7 +4529,7 @@
    "sort": "descending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4614,7 +4614,7 @@
    "sort": "ascending",
    "subtype": "closest",
    "unit": "(closer to the year 1 C.E.)",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4667,7 +4667,7 @@
    "sort": "ascending",
    "subtype": "closest",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4728,7 +4728,7 @@
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4785,7 +4785,7 @@
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4858,7 +4858,7 @@
    "sort": "descending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4923,7 +4923,7 @@
    "sort": "descending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4992,7 +4992,7 @@
    "sort": "ascending",
    "subtype": "closest",
    "unit": "(closest to 7 feet, 4 inches tall)",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5053,7 +5053,7 @@
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5118,7 +5118,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5199,7 +5199,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(in millions of metric tons)",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5264,7 +5264,7 @@
    "sort": "descending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5402,7 +5402,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5540,7 +5540,7 @@
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5601,7 +5601,7 @@
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5662,7 +5662,7 @@
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -5727,7 +5727,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(in years)",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5796,7 +5796,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(in millions of followers)",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5865,7 +5865,7 @@
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5934,7 +5934,7 @@
    "sort": "ascending",
    "subtype": "most/least",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6011,7 +6011,7 @@
    "sort": "ascending",
    "subtype": "most/least",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   }
  ]
