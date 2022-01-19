@@ -2244,7 +2244,7 @@
             "isValid": "",
             "prompt": "Welche 8 Charaktere waren im originalen [i]Super Mario Kart[/i] spielbar?",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -2426,70 +2426,103 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "scroggin"
+                        "Dorito",
+                        "Dorito-Chips",
+                        "Dorito Chips",
+                        "Nachos",
+                        "Nacho",
+                        "Tortilla-Chips",
+                        "Tortilla Chips",
+                        "Tortillas"
                     ],
-                    "hint": "You might have to throw the raisins and peanuts at me. I don’t have hands, I’m a Wheel.",
-                    "text": "trail mix"
-                },
-                {
-                    "altSpellings": [
-                        "MnMs",
-                        "M and Ms",
-                        "MMs"
-                    ],
-                    "hint": "They melt in your mouth, not your… wait, I don’t have hands.",
-                    "text": "M&M’S"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Have you ever tried to peel one without hands? It’s not impossible.",
-                    "text": "banana"
-                },
-                {
-                    "altSpellings": [
-                        "Cool Ranch Doritos",
-                        "Dorito Chips"
-                    ],
-                    "hint": "Even without hands, I always end up covered in Cool Ranch dust.",
+                    "hint": "",
                     "text": "Doritos"
                 },
                 {
                     "altSpellings": [
-                        "Bugle Chips"
+                        "Studenten Futter",
+                        "Nüsse",
+                        "Nussmischung",
+                        "Nuss Mischung"
                     ],
-                    "hint": "Witch fingers! If I had fingers, that is.",
-                    "text": "Bugles"
+                    "hint": "Immerhin muss man diese hier nicht noch extra schälen. Sehr handlich, schließlich bin ich ein Rad, ich habe keine Hände.",
+                    "text": "Studentenfutter"
                 },
                 {
                     "altSpellings": [
-                        "jerky"
+                        "M und M",
+                        "M & M",
+                        "M&MS",
+                        "M&M",
+                        "MundMs",
+                        "MundM",
+                        "M und Ms"
                     ],
-                    "hint": "I’d be a big JERK not to give you a hint, right? A wheely, wheely big jerk?",
-                    "text": "beef jerky"
+                    "hint": "",
+                    "text": "M&M'S"
                 },
                 {
                     "altSpellings": [
-                        "snickers bar"
+                        "Banane"
                     ],
-                    "hint": "I really thought we knew each other better than this. Just type \"Snickers.\"",
+                    "hint": "Schonmal versucht eine ohne Hände zu schälen? Tja, so sieht mein Alltag aus.",
+                    "text": "Bananen"
+                },
+                {
+                    "altSpellings": [
+                        "Nipon",
+                        "Nippolino",
+                        "ChocoNippon",
+                        "Choco Nippon",
+                        "Puffreis-Tafel",
+                        "Puffreis Tafel"
+                    ],
+                    "hint": "Selbst ohne Hände bin ich danach immer voller Schokolade.",
+                    "text": "Nippon"
+                },
+                {
+                    "altSpellings": [
+                        "Kartoffelchips",
+                        "Kartoffel Chips",
+                        "Funny Frisch",
+                        "Lays"
+                    ],
+                    "hint": "Danach sind deine Finger salzig und sehr fettig. Vorausgesetzt, dass man Finger besitzt.",
+                    "text": "Chips"
+                },
+                {
+                    "altSpellings": [
+                        "Kekse",
+                        "Schokokekse",
+                        "Schoko Keks",
+                        "Keks"
+                    ],
+                    "hint": "",
+                    "text": "Cookies"
+                },
+                {
+                    "altSpellings": [
+                        "Snickers Schokoriegel",
+                        "Snikers"
+                    ],
+                    "hint": "",
                     "text": "Snickers"
                 },
                 {
                     "altSpellings": [
-                        "Combos stuffed snacks",
-                        "Combos snacks"
+                        "Oreos"
                     ],
-                    "hint": "I like the Pizzeria Pretzel flavor.",
-                    "text": "Combos"
+                    "hint": "Hand aufs Herz: Nennt mir eine Person, die nicht immer als erstes die weiße Füllung isst.",
+                    "text": "Oreo"
                 }
             ],
             "category": "Food & Drink",
             "exactSpelling": false,
             "id": "77799",
             "isValid": "",
-            "prompt": "My 8 Favorite Road Trip Snacks",
+            "prompt": "Die 9 besten Süßigkeiten für lange Autofahrten",
             "subtype": "subjective",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -2584,68 +2617,84 @@
             "isValid": "",
             "prompt": "Was sind die 7 Todsünden?",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": true
         },
         {
             "answers": [
                 {
                     "altSpellings": [
-                        "the viola"
+                        "die Bratsche",
+                        "Viola",
+                        "die Viola"
                     ],
                     "hint": "",
-                    "text": "viola"
+                    "text": "Bratsche"
                 },
                 {
                     "altSpellings": [
-                        "the violin",
-                        "fiddle",
-                        "the fiddle"
+                        "die Violine",
+                        "Geige",
+                        "die Geige"
                     ],
                     "hint": "",
-                    "text": "violin"
+                    "text": "Violine"
                 },
                 {
                     "altSpellings": [
-                        "the guitar",
-                        "acoustic guitar",
-                        "electric guitar"
+                        "die Gitarre",
+                        "Akustikgitarre",
+                        "Akustik Gitarre",
+                        "elektrische Gitarre",
+                        "E-Gitarre",
+                        "E Gitarre"
                     ],
                     "hint": "",
-                    "text": "guitar"
+                    "text": "Gitarre"
                 },
                 {
                     "altSpellings": [
-                        "violoncello"
+                        "Violoncello",
+                        "das Violoncello",
+                        "Das Cello",
+                        "Celo"
                     ],
                     "hint": "",
-                    "text": "cello"
+                    "text": "Cello"
                 },
                 {
                     "altSpellings": [
-                        "pedal harp"
+                        "Konzertharfe",
+                        "Die Harfe",
+                        "Harve"
                     ],
-                    "hint": "This gigantic thing has the most angelic sound.",
-                    "text": "harp"
+                    "hint": "Diese Monstrosität von einem Instrument hat einen engelsgleichen Klang!",
+                    "text": "Harfe"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "You need one of these if you're going to play bluegrass. Oh, you're not going to play bluegrass? Well still, just type in the instrument.",
-                    "text": "banjo"
+                    "altSpellings": [
+                        "Banyo",
+                        "das Banjo"
+                    ],
+                    "hint": "",
+                    "text": "Banjo"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "I'll give you a hint: it's from Hawaii!",
-                    "text": "ukulele"
+                    "altSpellings": [
+                        "Uculele",
+                        "die Ukulele"
+                    ],
+                    "hint": "Ich gebe einen kleinen Tipp: Denkt an Hawaii!",
+                    "text": "Ukulele"
                 }
             ],
             "category": "Music",
             "exactSpelling": false,
             "id": "78058",
             "isValid": "",
-            "prompt": "My 7 Favorite Stringed Instruments",
+            "prompt": "Meine 7 liebsten Saiteninstrumente",
             "subtype": "subjective",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -3168,7 +3217,7 @@
             "isValid": "",
             "prompt": "Was gehört alles auf mein Chicken Teriyaki Sandwich bei Subway?",
             "subtype": "subjective",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
