@@ -43,6 +43,9 @@
         "FILTER_US_CENTRIC": "US-zentrierte Inhalte filtern",
         "FILTER_US_CENTRIC_DESCRIPTION": "Verringert die US-zentrierten Inhalte.",
 
+        "FILTER_PLAYERNAME": "Aufgaben mit Spielernamen filtern",
+        "FILTER_PLAYERNAME_DESCRIPTION": "Entferne Prompts, die die Namen der Spieler einbeziehen.",
+
         "SUBTITLES": "Untertitel",
         "SUBTITLES_DESCRIPTION": "Zeigt Untertitel im Spiel.",
 
