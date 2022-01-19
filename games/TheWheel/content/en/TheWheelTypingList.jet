@@ -619,84 +619,111 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "Kris"
+                        "Roller Möbelhaus",
+                        "Roller Möbel Haus",
+                        "Roler"
                     ],
-                    "hint": "Don’t forget “K” spellings. I don’t discriminate.",
-                    "text": "Chris"
+                    "hint": "Mit denen habe ich noch eine Rechnung offen. Ich habe mein Geld vergessen und als sie mir keinen “Gottheits-Sonderrabatt” geben wollten, hatte ich keine andere Wahl als schnell wegzuROLLEN." ,
+                    "text": "Roller"
                 },
                 {
                     "altSpellings": [
-                        "Kristoff",
-                        "Christoph",
-                        "Kristoph"
+                        "Poko",
+                        "Poco Einrichtungsmarkt",
+                        "Poco Einrichtungs Markt",
+                        "Poco Möbelhaus",
+                        "Poco Möbel Haus"
                     ],
-                    "text": "Christoff"
+                    "hint":"",
+                    "text": "Poco"
                 },
                 {
                     "altSpellings": [
-                        "Kristo"
+                        "Hoffner",
+                        "Höfner",
+                        "Höffner Möbelhaus",
+                        "Möbelhaus Höffner",
+                        "Möbel Haus Höffner"
                     ],
-                    "text": "Christo"
+                    "hint":"",
+                    "text": "Höffner"
                 },
                 {
                     "altSpellings": [
-                        "Kitt"
+                        "Globus",
+                        "Globus Bau Markt",
+                        "Globus Markt"
                     ],
-                    "text": "Kit"
+                    "hint": "Komischerweise habe ich bei diesem noch nie einen GLOBUS im Angebot gesehen.",
+                    "text": "Globus Baumarkt"
                 },
                 {
                     "altSpellings": [
-                        "Chritter"
+                        "Hagebau",
+                        "Hagebau Markt",
+                        "Hage Baumarkt"
                     ],
-                    "text": "Critter"
+                    "hint":"",
+                    "text": "Hagebaumarkt"
                 },
                 {
                     "altSpellings": [
-                        "Christy",
-                        "Kristy",
-                        "Kristie"
+                        "toom Baumarkt",
+                        "toom Bau Markt",
+                        "toom Markt",
+                        "tom"
                     ],
-                    "text": "Christie"
+                    "hint": "",
+                    "text": "toom"
                 },
                 {
                     "altSpellings": [
-                        "Kristobal"
+                        "Horn Bach",
+                        "HORNBACH Baumarkt",
+                        "HORNBACH Bau Markt",
+                        "HORNBACH Markt"
                     ],
-                    "text": "Christobal"
+                    "hint":"",
+                    "text": "HORNBACH"
                 },
                 {
                     "altSpellings": [
-                        "Kristopherus",
-                        "Christofferus",
-                        "Kristofferus"
+                        "BAUHAUS Markt",
+                        "Bau Haus",
+                        "BAUHAUS Baumarkt",
+                        "BAUHAUS Bau Markt"
                     ],
-                    "text": "Christopherus"
+                    "text": "BAUHAUS"
                 },
                 {
                     "altSpellings": [
-                        "Toffer"
+                        "OBI Biber",
+                        "Obie",
+                        "OBI Markt",
+                        "OBI Baumarkt",
+                        "Obi Bau Markt"
                     ],
-                    "hint": "You might consider the back end of Christopher.",
-                    "text": "Topher"
+                    "hint": "Ihr wisst schon, die mit dem Biber, der mehr aussieht wie ein Eichhörnchen mit Überbiss.",
+                    "text": "OBI"
                 },
                 {
                     "altSpellings": [
-                        "Kris Kross",
-                        "Chris Cross",
-                        "Criss-Cross",
-                        "Chris-Cross",
-                        "Kris-Kross"
+                        "IKEA Einrichtungshaus",
+                        "IKEA Einrichtungs Haus",
+                        "IKEA Möbelhaus",
+                        "IKEA Möbel Haus"
                     ],
-                    "text": "Criss Cross"
+                    "hint":"",
+                    "text": "IKEA"
                 }
             ],
             "category": "Factoids",
-            "exactSpelling": true,
+            "exactSpelling": false,
             "id": "77196",
             "isValid": "",
-            "prompt": "10 good nicknames for someone named “Christopher”",
-            "subtype": "subjective",
-            "us": true,
+            "prompt": "Die 10 umsatzstärksten Möbelhauser und Baumärkte in Deutschland 2020",
+            "subtype": "name",
+            "us": false,
             "x": false
         },
         {
@@ -1949,55 +1976,207 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "claws",
-                        "pincer",
-                        "pincers"
+                        "Bug",
+                        "Dicke Schulter",
+                        "Rinderblatt",
+                        "Rinder blatt",
+                        "Dicker Bug",
+                        "Dickes Bugstück",
+                        "Bugstück",
+                        "Schaufelstück",
+                        "Schaufel Stück",
+                        "Mittelbug Stück",
+                        "Mittelbugstück",
+                        "Falsches Filet",
+                        "Falsch Filet",
+                        "Falsche Lende",
+                        "Mittelbug"
                     ],
-                    "hint": "The part that snips! I love the snipping!",
-                    "text": "claw"
+                    "hint": "Oft stellen mir Menschen die Frage: “Kann ein FILET FALSCH sein?”. Die Antwort ist ja, natürlich kann es das! ",
+                    "text": "Schulter"
                 },
                 {
                     "altSpellings": [
-                        "eye",
-                        "eyestalk"
+                        "Spannrippe",
+                        "Quer Rippe",
+                        "Spann Rippe",
+                        "Zwerchrippe",
+                        "Zwerch Rippe",
+                        "Leiterstück",
+                        "Leiter Stück"
                     ],
-                    "hint": "The way they peep is very soothing.",
-                    "text": "eyes"
+                    "hint": "",
+                    "text": "Querrippe"
                 },
                 {
                     "altSpellings": [
-                        "chitin",
-                        "exoskeleton"
+                        "Brustspitze",
+                        "Brust Spitze",
+                        "Brustkern",
+                        "Brust Kern",
+                        "Brust",
+                        "Rinder Brust",
+                        "Brustbein",
+                        "Brust Bein",
+                        "Mittelbrust",
+                        "Mittel Brust",
+                        "Beef Brisket",
+                        "Nachbrust",
+                        "Nach Brust"
                     ],
-                    "hint": "You just need to get past that hard exterior.",
-                    "text": "shell"
+                    "hint": "Selbst der Mensch hat sie, doch beim Rind wird sie gern mit Meerrettich serviert.",
+                    "text": "Rinderbrust"
                 },
                 {
                     "altSpellings": [
-                        "leg",
-                        "crab legs",
-                        "crablegs"
+                        "Knochendünnung",
+                        "Knochen Dünnung",
+                        "Dünnung",
+                        "Bauchlappen",
+                        "Bauch Lappen",
+                        "Flanksteaks",
+                        "Flanken Steaks",
+                        "Bindegewebe",
+                        "Flanken"
                     ],
-                    "hint": "Get the butter! They were for walking, now they're for eating!",
-                    "text": "legs"
+                    "hint": "Bei diesem Begriff muss ich immer an Fußball denken: Dort handelt es sich nämlich um einen hohen Schuss in den gegnerischen Strafraum.",
+                    "text": "Flanke"
                 },
                 {
                     "altSpellings": [
-                        "inside",
-                        "crab meat",
-                        "crabmeat"
+                        "Oberschale",
+                        "Ober Schale",
+                        "Unterschale",
+                        "Unter Schale",
+                        "Kluftschale",
+                        "Kluft Schale",
+                        "Oberschenkel",
+                        "Ober Schenkel",
+                        "Fricandeau",
+                        "Schwanzstück",
+                        "Schwanz Stück",
+                        "Unterstück",
+                        "Schwanzrolle",
+                        "Wagerl",
+                        "Tafelspitz",
+                        "Rinderkugel",
+                        "Rinder Kugel"
                     ],
-                    "hint": "There's certainly nothing imitation here.",
-                    "text": "meat"
+                    "hint": "",
+                    "text": "Schale"
+                },
+                {
+                    "altSpellings": [
+                        "Blume",
+                        "Rinder Keule",
+                        "Rinderhüfte",
+                        "Rinder Hüfte",
+                        "Hüferscherzerl",
+                        "Rinderhüftsteaks",
+                        "Hüfte",
+                        "Hüftsteak",
+                        "Hüft Steak",
+                        "Huft",
+                        "Rosenspitz",
+                        "Spitze",
+                        "Schweifstück",
+                        "Hinterkeule",
+                        "Hinter Keule",
+                        "Hesse"
+                    ],
+                    "hint": "",
+                    "text": "Rinderkeule"
+                },
+                {
+                    "altSpellings": [
+                        "Lungenbraten",
+                        "Lungen Braten",
+                        "Lunge",
+                        "Chateaustück",
+                        "Chateau Stück",
+                        "Filet Steak",
+                        "Filetsteak",
+                        "Rinderfilet",
+                        "Rinder Filet",
+                        "Lende",
+                        "Lenden Braten",
+                        "Lendenbraten",
+                        "Lendenmuskulatur",
+                        "Lenden Muskulatur",
+                        "Filetkopf",
+                        "Filet Kopf"
+                    ],
+                    "hint": "Der gesuchte Begriff ist französisch und bedeutet “dünner Faden”.",
+                    "text": "Filet"
+                },
+                {
+                    "altSpellings": [
+                        "Beiried",
+                        "Roast Beef",
+                        "Roasted Beef",
+                        "Hufstück",
+                        "Huf Stück",
+                        "Schossen",
+                        "Rumpsteak"
+                    ],
+                    "hint": "",
+                    "text": "Roastbeef"
+                },
+                {
+                    "altSpellings": [
+                        "Rib-Eye",
+                        "Rib Eye",
+                        "Rib-Eye-Steak",
+                        "Rib Eye Steak",
+                        "Zwischenrippe",
+                        "Hoch Rippe",
+                        "Hohrücken",
+                        "Hoher Rücken",
+                        "Hohe Rippe",
+                        "Rostbraten",
+                        "Rost Braten",
+                        "Schorrippe"
+                    ],
+                    "hint": "Das beliebte Rib-Eye-Steak stammt aus diesem Teil des Rindes.",
+                    "text": "Hochrippe"
+                },
+                {
+                    "altSpellings": [
+                        "Fehlrippen",
+                        "Fehl Rippe",
+                        "Fehlrippenkamm",
+                        "Fehlrippen Kamm",
+                        "Mittelrippenstück",
+                        "Mittelrippe",
+                        "Rücken"
+                    ],
+                    "hint": "Dieser Teil der RIPPE darf auf keiner Speisekarte FEHLEN.",
+                    "text": "Fehlrippe"
+                },
+                {
+                    "altSpellings": [
+                        "Rindernacken",
+                        "Rinder Nacken",
+                        "Nacken",
+                        "Rinderkamm",
+                        "Rinder Hals",
+                        "Hals",
+                        "Nackenstück",
+                        "Nacken Stück",
+                        "Rinder Kamm",
+                        "Kamm"
+                    ],
+                    "hint": "",
+                    "text": "Rinderhals"
                 }
             ],
-            "category": "Animals",
+            "category": "Food & Drink",
             "exactSpelling": false,
             "id": "77488",
             "isValid": "",
-            "prompt": "The 5 Best Parts of a Crab",
-            "subtype": "subjective",
-            "us": true,
+            "prompt": "Die 11 leckersten Teile eines Rindes",
+            "subtype": "name",
+            "us": false,
             "x": false
         },
         {
