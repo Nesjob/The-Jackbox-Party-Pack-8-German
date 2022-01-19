@@ -2863,67 +2863,68 @@
         {
             "answers": [
                 {
-                    "altSpellings": [
-                        "the restroom"
-                    ],
-                    "hint": "This one sounds as though you might sleep here.",
-                    "text": "restroom"
+                    "altSpellings": [],
+                    "hint": "Einer davon beschreibt genau die Funktion des Autos.",
+                    "text": "Fahrzeug"
                 },
                 {
                     "altSpellings": [
-                        "loo"
+                        "Kraftfahrzeug"
                     ],
-                    "hint": "Think British!",
-                    "text": "the loo"
+                    "hint": "Denkt auch an Abkürzungen!",
+                    "text": "Kfz"
                 },
                 {
                     "altSpellings": [
-                        "toilet"
+                        "Personenwagen",
+                        "Personenkraftwagen",
+                        "Personenfahrzeug"
                     ],
-                    "hint": "Think British!",
-                    "text": "the toilet"
+                    "hint": "Wie würde das Straßenverkehrsamt dein Auto nennen?",
+                    "text": "Pkw"
                 },
                 {
                     "altSpellings": [
-                        "the lavatory"
+                        "Karre"
                     ],
-                    "hint": "A word you'd use for bathroom in polite societies. Or on airplanes.",
-                    "text": "lavatory"
+                    "hint": "Der hier ist etwas allgemein gehalten.",
+                    "text": "Wagen"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "So würde mein Freund ein Auto beschreiben, wenn er sich drüber lustig macht.",
+                    "text": "Gefährt"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "“Auto” ist auch eigentlich nur eine Kurzform, Leute.",
+                    "text": "Automobil"
                 },
                 {
                     "altSpellings": [
-                        "the latrine"
+                        "Vehicle"
                     ],
-                    "hint": "If you were stranded on a deserted island, you might need to dig one of these.",
-                    "text": "latrine"
+                    "hint": "Das Wort heißt auch im englischen fast gleich!",
+                    "text": "Vehikel"
                 },
                 {
                     "altSpellings": [
-                        "the washroom"
-                    ],
-                    "hint": "Scrub a dub dub.",
-                    "text": "washroom"
-                },
-                {
-                    "altSpellings": [
-                        "the water closet"
+                        "Benzinkutsche"
                     ],
                     "hint": "Clothes could go here, according to the name alone.",
-                    "text": "water closet"
+                    "text": "Kutsche"
                 },
                 {
-                    "altSpellings": [
-                        "the powder room"
-                    ],
-                    "hint": "Think 1950s!",
-                    "text": "powder room"
+                    "altSpellings": [],
+                    "hint": "Damit könnte ich auch im Winter viel Spaß haben, wenn man mal nur vom Namen ausgeht!",
+                    "text": "Schlitten"
                 }
             ],
             "category": "Language/Words/Grammar",
             "exactSpelling": false,
             "id": "78745",
             "isValid": "",
-            "prompt": "8 Different Ways of Saying “Bathroom”",
+            "prompt": "9 unterschiedliche Begriffe für “Auto”",
             "subtype": "subjective",
             "us": false,
             "x": false
@@ -2932,83 +2933,88 @@
             "answers": [
                 {
                     "altSpellings": [
+                        "Hähnchenbrust",
+                        "Hähnchen",
+                        "Hähnchenfleisch",
+                        "Fleisch",
+                        "Hähnchenfilet"
+                    ],
+                    "hint": "Denkt dran, das Sandwich ist nichts für Vegetarier.",
+                    "text": "Hähnchenbrustfilet"
+                },
+                {
+                    "altSpellings": [
+                        "Käse",
+                        "Kerrygold",
+                        "Käsescheiben"
+                    ],
+                    "hint": "Es fehlt noch etwas, was eigentlich auf jedes Sandwich gehört.",
+                    "text": "Cheddar"
+                },
+                {
+                    "altSpellings": [
+                        "Paprika",
+                        "Paprikastücke",
+                        "Paprikastückchen",
+                        "Paprikascheiben"
+                    ],
+                    "text": "grüne Paprika"
+                },
+                {
+                    "altSpellings": [
+                        "Gurken",
+                        "Gurke"
+                    ],
+                    "hint": "Keine Zucchini, aber schon nah dran.",
+                    "text": "Salatgurke"
+                },
+                {
+                    "altSpellings": [
+                        "Mohrrüben",
+                        "Möhrchen",
+                        "Karotten",
+                        "Karottenstückchen",
+                        "Möhrenscheiben"
+                    ],
+                    "text": "Möhre"
+                },
+                {
+                    "altSpellings": [
+                        "Tomate"
+                    ],
+                    "text": "Tomaten"
+                },
+                {
+                    "altSpellings": [
+                        "Feldsalat",
+                        "Salatherz"
+                    ],
+                    "hint": "Nicht das Grünzeug vergessen!",
+                    "text": "Salat"
+                },
+                {
+                    "altSpellings": [
+                        "Zwiebel"
+                    ],
+                    "text": "rote Zwiebel"
+                },
+                {
+                    "altSpellings": [
+                        "Soße",
+                        "Sosse",
                         "Chipotle",
-                        "Southwest",
-                        "Chipotle Sauce",
-                        "Southwest Sauce",
-                        "chipotle mayo",
-                        "chipotle southwest",
-                        "chipotle southwest mayo"
+                        "Chipotle Sauße",
+                        "Chipotle Soße",
+                        "Teriyaki Sauce"
                     ],
-                    "hint": "You know! That sauce that suddenly became a thing in the 2000s.",
-                    "text": "chipotle southwest sauce"
-                },
-                {
-                    "altSpellings": [
-                        "Mayonnaise",
-                        "Mayo",
-                        "light mayo"
-                    ],
-                    "hint": "Creamy goodness.",
-                    "text": "light mayonnaise"
-                },
-                {
-                    "altSpellings": [
-                        "Banana Pepper",
-                        "peppers",
-                        "yellow peppers",
-                        "peps",
-                        "banana peps",
-                        "yellow peps"
-                    ],
-                    "text": "banana peppers"
-                },
-                {
-                    "altSpellings": [
-                        "shredded lettuce"
-                    ],
-                    "hint": "Greens please.",
-                    "text": "lettuce"
-                },
-                {
-                    "altSpellings": [
-                        "Cucumber"
-                    ],
-                    "hint": "Not zucchini but close.",
-                    "text": "cucumbers"
-                },
-                {
-                    "altSpellings": [
-                        "Tomato"
-                    ],
-                    "hint": "You say this, I say that.",
-                    "text": "tomatoes"
-                },
-                {
-                    "altSpellings": [
-                        "black forest ham",
-                        "honey ham",
-                        "smoked ham"
-                    ],
-                    "text": "ham"
-                },
-                {
-                    "altSpellings": [],
-                    "text": "salami"
-                },
-                {
-                    "altSpellings": [
-                        "roasted turkey",
-                        "oven roasted turkey"
-                    ],
-                    "text": "turkey"
+                    "text": "Sauce"
                 }
             ],
             "category": "Food & Drink",
             "exactSpelling": false,
             "id": "78747",
             "isValid": "",
-            "prompt": "What should go on a twelve-inch Artisan Flatbread at Subway?",
+            "prompt": "Was gehört alles auf mein Chicken Teriyaki Sandwich bei Subway?",
             "subtype": "subjective",
             "us": false,
             "x": false
