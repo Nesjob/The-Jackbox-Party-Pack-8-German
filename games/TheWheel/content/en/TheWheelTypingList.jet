@@ -1358,7 +1358,7 @@
             "exactSpelling": false,
             "id": "77212",
             "isValid": "",
-            "prompt": "Wie heißen die Kinder der Wollnys",
+            "prompt": "Wie heißen die Kinder der Wollnys?",
             "subtype": "name",
             "us": false,
             "x": false
