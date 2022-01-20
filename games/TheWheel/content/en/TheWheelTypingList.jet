@@ -1250,90 +1250,117 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "Kevin Jonas",
-                        "Kev",
-                        "Kev Jonas"
+                        "Jeremy-Pascal Wollny",
+                        "Jeremy Pascal",
+                        "Jeremy Pascal Wollny",
+                        "Jeremy Wollny",
+                        "Jeremy",
+                        "Pascal Wollny",
+                        "Pascal",
+                        "Jeremi",
+                        "Paskal"
                     ],
-                    "text": "Kevin"
+                    "hint": "Wenn man sich nicht auf einen Namen einigen kann, gibt man seinem Kind einfach beide! Hat doch nur Vorteile, also außer für das Kind...",
+                    "text": "Jeremy-Pascal"
                 },
                 {
                     "altSpellings": [
-                        "Nicholas",
-                        "Nick Jonas",
-                        "Nicholas Jonas"
+                        "Jessica Wollny",
+                        "Jessica Birkenheuer",
+                        "Jesica",
+                        "Yessika"
                     ],
-                    "text": "Nick"
+                    "text": "Jessica"
                 },
                 {
                     "altSpellings": [
-                        "Joseph",
-                        "Joe Jonas",
-                        "Joseph Jonas"
+                        "Sascha Wollny"
                     ],
-                    "text": "Joe"
+                    "hint": "Diesen hier kennt ihr vermutlich nicht: Sascha Wollny. Im Gegensatz zum Rest seiner Familie hält er sich wohl lieber von Kameras fern.",
+                    "text": "Sascha"
                 },
                 {
                     "altSpellings": [
-                        "Franklin",
-                        "Frank",
-                        "Frankie Jonas",
-                        "Franklin Jonas"
+                        "Patrick Wollny",
+                        "Patrik"
                     ],
-                    "text": "Frankie"
+                    "text": "Patrick"
                 },
                 {
                     "altSpellings": [
-                        "Alec Baldwin"
+                        "Loredana Wollny",
+                        "Lore Dana",
+                        "Lohredana"
                     ],
-                    "text": "Alec"
+                    "text": "Loredana"
                 },
                 {
                     "altSpellings": [
-                        "Daniel Baldwin",
-                        "Dan Baldwin",
-                        "Dan"
+                        "Estefania Wollny",
+                        "Este Fania",
+                        "Estevania"
                     ],
-                    "text": "Daniel"
+                    "text": "Estefania"
                 },
                 {
                     "altSpellings": [
-                        "Billy",
-                        "Will",
-                        "William Baldwin",
-                        "Will Baldwin",
-                        "Billy Baldwin"
+                        "Sarah-Jane Wollny",
+                        "Sarah Jane Wollny",
+                        "Sarah Jane",
+                        "Sarah",
+                        "Sarah Wollny",
+                        "Jane Wollny",
+                        "Jane",
+                        "Sahra",
+                        "Sahra-Jane Wollny",
+                        "Sahra-Jane",
+                        "Sahra Jane"
                     ],
-                    "text": "William"
+                    "text": "Sarah-Jane"
                 },
                 {
                     "altSpellings": [
-                        "Steven",
-                        "Stephen Baldwin",
-                        "Steven Baldwin"
+                        "Lavinia Wollny",
+                        "Lawinia",
+                        "Lafinia"
                     ],
-                    "text": "Stephen"
+                    "text": "Lavinia"
                 },
                 {
                     "altSpellings": [
-                        "Beth",
-                        "Elizabeth Keuchler"
+                        "Calantha Wollny",
+                        "Calanta",
+                        "Kalantha",
+                        "Calantha-Lelanie",
+                        "Calantha Lelanie",
+                        "Calantha-Lelanie Wollny"
                     ],
-                    "text": "Elizabeth"
+                    "text": "Calantha"
                 },
                 {
                     "altSpellings": [
-                        "Jane Sasso"
+                        "Sarafina Wollny",
+                        "Saravina",
+                        "Sarahfina"
                     ],
-                    "text": "Jane"
+                    "text": "Sarafina"
+                },
+                {
+                    "altSpellings": [
+                        "Sylvana Wollny",
+                        "Silvana"
+                    ],
+                    "hint": "Diese Wollny bekam ihren Namen, da sie an Silvester geboren wurde.",
+                    "text": "Sylvana"
                 }
             ],
             "category": "Celebrities",
             "exactSpelling": false,
             "id": "77212",
             "isValid": "",
-            "prompt": "Name every Jonas + Baldwin Brother sibling",
+            "prompt": "Wie heißen die Kinder der Wollnys",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -3224,67 +3251,103 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "Bereishit",
-                        "Bereshit",
-                        "Origins",
-                        "Bresheit",
-                        "B’reshit",
-                        "Ma’aseh B’reshit"
+                        "Bereschit",
+                        "Im Anfang",
+                        "Am Anfang",
+                        "Geburt",
+                        "Ursprung",
+                        "1.Buch Mose",
+                        "1. Buch Mose",
+                        "Erstes Buch Mose",
+                        "Eins Buch Mose",
+                        "1 Mose",
+                        "Geneses",
+                        "Genesys"
                     ],
-                    "hint": "In the beginning, Phil Collins was in this band...",
+                    "hint": "Phil Collins war ein bedeutender Teil DIESER Band.",
                     "text": "Genesis"
                 },
                 {
                     "altSpellings": [
-                        "Shemot",
-                        "The Road Out",
-                        "Sh’mot",
-                        "Yesi’at Misrayim"
+                        "Schemot",
+                        "Namen",
+                        "Auszug",
+                        "Sefer Schemot",
+                        "Zweites Buch Mose",
+                        "2.Buch Mose",
+                        "2. Buch Mose",
+                        "2 Buch Mose",
+                        "Zwei Buch Mose",
+                        "2 Mose",
+                        "Exudus",
+                        "Exodos"
                     ],
-                    "hint": "Let my people go, cause when you gotta go, you gotta GO.",
+                    "hint": "Lass mein Volk ziehen, denn wenn nicht jetzt, wann dann.",
                     "text": "Exodus"
                 },
                 {
                     "altSpellings": [
-                        "vayikra",
-                        "Law of the Levites",
-                        "vayicra",
-                        "vayyikra",
-                        "Torat Kohanim"
+                        "Torat Kohanim",
+                        "Wajikra",
+                        "Vajikra",
+                        "Wajicra",
+                        "Drittes Buch Mose",
+                        "3.Buch Mose",
+                        "3. Buch Mose",
+                        "3 Buch Mose",
+                        "Drei Buch Mose",
+                        "3 Mose",
+                        "Lewitikus",
+                        "Leviticus"
                     ],
-                    "hint": "I prefer a tapered jean, but this priestly Hebrew tribe probably preferred a straight leg.",
-                    "text": "Leviticus"
+                    "hint": "",
+                    "text": "Levitikus"
                 },
                 {
                     "altSpellings": [
-                        "Bamidbar",
-                        "The Census",
                         "Bemidbar",
-                        "Pekuddim"
+                        "Bamidbar",
+                        "Parascha",
+                        "Sidra",
+                        "Viertes Buch Mose",
+                        "4.Buch Mose",
+                        "4. Buch Mose",
+                        "4 Buch Mose",
+                        "Vier Buch Mose",
+                        "4 Mose",
+                        "Numerus",
+                        "Numero",
+                        "Numera"
                     ],
-                    "hint": "You start with one and then keep counting for forever.",
-                    "text": "Numbers"
+                    "hint": "Besserwisser aufgepasst: Ihr sucht das lateinische Wort für “Zahlen”.",
+                    "text": "Numeri"
                 },
                 {
                     "altSpellings": [
+                        "Dewarim",
                         "Devarim",
-                        "Second Law",
-                        "D’varim",
+                        "Fünftes Buch Mose",
+                        "5.Buch Mose",
+                        "5. Buch Mose",
+                        "5 Buch Mose",
+                        "Fünf Buch Mose",
+                        "5 Mose",
+                        "Deuteronium",
+                        "Deuteronom",
                         "Mishneh Torah",
-                        "Dueteronomy",
-                        "Duteronomy"
+                        "Worte"
                     ],
-                    "hint": "You’d think you wouldn’t need a second book of rules after your massive first book of rules, but here we are.",
-                    "text": "Deuteronomy"
+                    "hint": "Achtung Spoiler: Am Ende von diesem Teil stirbt Mose! Ihr seid genauso entsetzt wie ich, als ich es erfahren musste.",
+                    "text": "Deuteronomium"
                 }
             ],
             "category": "Religion",
-            "exactSpelling": false,
+            "exactSpelling": true,
             "id": "79190",
             "isValid": "",
-            "prompt": "What are the first 5 books of the Old Testament?",
+            "prompt": "Wie heißen die ersten 5 Bücher aus dem alten Testament?",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
