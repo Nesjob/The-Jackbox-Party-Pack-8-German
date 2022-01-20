@@ -3675,79 +3675,140 @@
                 {
                     "altSpellings": [
                         "Mr. Body",
+                        "Mr. Boddy",
                         "Boddy",
                         "Body",
-                        "The Body"
+                        "The Body",
+                        "Graf",
+                        "Eutin",
+                        "Dr. Schwarz",
+                        "Doktor Schwarz",
+                        "Schwarz"
                     ],
-                    "hint": "This is the host’s name and he turns up dead.",
-                    "text": "Mr. Boddy"
+                    "hint": "Der Name des toten Gastgebers.",
+                    "text": "Graf Eutin"
                 },
                 {
                     "altSpellings": [
                         "Colonel Michael Mustard",
                         "Mustard",
                         "Michael Mustard",
-                        "Col. Mustard"
+                        "Colonel Mustard",
+                        "Günther Gatow",
+                        "Oberst Gatow",
+                        "Oberst Günther Gatow",
+                        "Gatow",
+                        "Günther",
+                        "Dennis Gatow",
+                        "Dennis"
                     ],
-                    "hint": "Grey Poupon, anyone?",
-                    "text": "Colonel Mustard"
+                    "hint": "",
+                    "text": "Oberst Günther von Gatow"
                 },
                 {
                     "altSpellings": [
                         "Mrs. Blanche White",
                         "White",
-                        "Blanche White"
+                        "Blanche White",
+                        "Dr. Orchid",
+                        "Doctor Orchid",
+                        "Orchid",
+                        "Frau Elvira Weiß",
+                        "Frau Elvira",
+                        "Weiß",
+                        "Elvira",
+                        "Frau Doktor Orchidee",
+                        "Frau Dr. Orchidee",
+                        "Frau Orchidee",
+                        "Doktor Orchidee",
+                        "Dr. Orchidee",
+                        "Orchidee",
+                        "Diana Weiss",
+                        "Diana",
+                        "Weiss"
                     ],
-                    "hint": "One of them is lighter shade of pale.",
-                    "text": "Mrs. White"
+                    "hint": "WEIẞ sie mehr als sie verrät?",
+                    "text": "Frau Weiß"
                 },
                 {
                     "altSpellings": [
                         "Professor Peter Plum",
                         "Plum",
-                        "Peter Plum"
+                        "Professor Plum",
+                        "Peter Plum",
+                        "Professor Peter Bloom",
+                        "Proffesor Peter",
+                        "Bloom",
+                        "Peter Bloom",
+                        "Felix Bloom",
+                        "Felix"
                     ],
                     "hint": "",
-                    "text": "Professor Plum"
+                    "text": "Professor Bloom"
                 },
                 {
                     "altSpellings": [
                         "Mrs. Patricia Peacock",
                         "Peacock",
-                        "Patricia Peacock"
+                        "Patricia Peacock",
+                        "Baronin Porz",
+                        "Baronin Patrizia von Porz",
+                        "Baronin Patrizia Porz",
+                        "Patrizia Porz",
+                        "Baronin Patrizia",
+                        "Patrizia",
+                        "Porz",
+                        "Baronin",
+                        "Klara Porz",
+                        "Klara",
+                        "Clara"
                     ],
-                    "hint": "One is always strutting her stuff like some kind of flamboyant bird!",
-                    "text": "Mrs. Peacock"
+                    "hint": "",
+                    "text": "Baronin von Porz"
                 },
                 {
                     "altSpellings": [
                         "Reverend John Green",
                         "Green",
                         "Rev. Green",
-                        "John Green"
+                        "John Green",
+                        "Grün",
+                        "Direktor",
+                        "Reverend Jakob Grün",
+                        "Reverend Grün",
+                        "Jakob Grün",
+                        "Tom"
                     ],
-                    "hint": "The grass certainly is THIS on the other side, where you’re not accused of murder.",
-                    "text": "Mr. Green"
+                    "hint": "Da wurde wohl jemand DAS vor Neid, wenn er sogar vor Mord nicht zurückschreckt.",
+                    "text": "Direktor Grün"
                 },
                 {
                     "altSpellings": [
                         "Miss Josephine Scarlet",
                         "Scarlet",
                         "Scarlett",
-                        "Josephine Scarlet"
+                        "Josephine Scarlet",
+                        "Fräulein",
+                        "Ming",
+                        "Fräulein Gloria Roth",
+                        "Fräulein Roth",
+                        "Fräulein Gloria",
+                        "Gloria Roth",
+                        "Gloria",
+                        "Roth"
                     ],
-                    "hint": "One character is certainly a well RED lady.",
-                    "text": "Miss Scarlet"
+                    "hint": "Eine Tatverdächtige gehört wohl einer alten chinesischen Dynastie an.",
+                    "text": "Fräulein Ming"
                 }
             ],
             "category": "Games",
-            "exactSpelling": true,
+            "exactSpelling": false,
             "id": "79326",
             "isValid": "",
-            "prompt": "Name the 7 characters from [i]Clue[/i]",
+            "prompt": "Die 7 Charaktere aus [i]Cluedo[/i]",
             "subtype": "name",
-            "us": true,
-            "x": false
+            "us": false,
+            "x": true
         },
         {
             "answers": [
