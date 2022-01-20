@@ -2234,7 +2234,7 @@
                 },
                 {
                     "altSpellings": [],
-                    "hint": "Ein Dinosaurier der auf Kommando Eier legen kann! Ich weiss, dass ihr wisst wen ich meine.",
+                    "hint": "Ein Dinosaurier der auf Kommando Eier legen kann! Ich weiß, dass ihr wisst wen ich meine.",
                     "text": "Yoshi"
                 }
             ],
@@ -2520,7 +2520,7 @@
             "exactSpelling": false,
             "id": "77799",
             "isValid": "",
-            "prompt": "Die 9 besten Süßigkeiten für lange Autofahrten",
+            "prompt": "Die 9 besten Snacks für lange Autofahrten",
             "subtype": "subjective",
             "us": false,
             "x": false
