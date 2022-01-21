@@ -3469,127 +3469,159 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "shahada",
-                        "The Shahada",
-                        "The Profession of Faith",
-                        "Profession",
-                        "Faith Profession",
-                        "Testimony",
-                        "Testimony of Faith"
+                        "Schahada",
+                        "Zeugnis",
+                        "Bezeugung",
+                        "Taschahhud",
+                        "Glaubens Bekenntnis",
+                        "Glauben Bekennen",
+                        "Glaube",
+                        "Kalima",
+                        "Bekenntnis"
                     ],
-                    "hint": "To be a good Muslim you should say what you believe outloud.",
-                    "text": "Profession of Faith"
+                    "hint": "Das öffentliche Aussprechen einer besonderen Formel bildet die erste Säule.",
+                    "text": "Glaubensbekenntnis"
                 },
                 {
                     "altSpellings": [
-                        "salat",
-                        "salah",
-                        "pray",
-                        "daily prayer",
-                        "the salat"
+                        "Salat",
+                        "Gebete",
+                        "Beten",
+                        "Salah",
+                        "täglich beten",
+                        "jeden Tag beten"
                     ],
                     "hint": "",
-                    "text": "Prayer"
+                    "text": "Gebet"
                 },
                 {
                     "altSpellings": [
-                        "Alms",
-                        "Charity",
-                        "zakat",
-                        "giving"
+                        "Almosen Steuer",
+                        "Almosen",
+                        "Steuer",
+                        "Spende",
+                        "Abgabe",
+                        "Nächstenliebe",
+                        "Zakat",
+                        "Sadaqa"
                     ],
-                    "hint": "Being generous with your time and with your money.",
-                    "text": "Almsgiving"
+                    "hint": "",
+                    "text": "Almosensteuer"
                 },
                 {
                     "altSpellings": [
-                        "sawm",
-                        "fasting during ramadan",
-                        "Ramadan",
                         "Saum",
-                        "abstaining from food and drink"
+                        "Ramadan",
+                        "Faste",
+                        "Nichts Essen",
+                        "Nichts Trinken",
+                        "Kein Essen",
+                        "Kein Trinken",
+                        "Fastenmonat",
+                        "Fasten Monat",
+                        "Abstinenz"
                     ],
-                    "hint": "You don’t necessarily have to be quick, but during this month, you hope the sunsets are earlier.",
-                    "text": "Fasting"
+                    "hint": "In diesem Monat hofft wohl so mancher, dass die Sonne etwas früher untergeht.",
+                    "text": "Fasten"
                 },
                 {
                     "altSpellings": [
-                        "haj",
-                        "hajj",
-                        "Visit Mecca",
-                        "Mecca",
-                        "Pilgrimage to Mecca",
-                        "Ka’ba",
-                        "Kaaba"
+                        "Haj",
+                        "Hajj",
+                        "Kaaba",
+                        "Pilgerfahrt nach Mekka",
+                        "Pilger Fahrt",
+                        "Pilgern",
+                        "Mekka",
+                        "Mekka besuchen",
+                        "Kaba",
+                        "Hadsch",
+                        "Haddsch"
                     ],
-                    "hint": "It wouldn't hurt if you crossed the world to visit once in a lifetime.",
-                    "text": "Pilgrimage"
+                    "hint": "Immerhin einmal im Leben ist ein Besuch HIER Pflicht!",
+                    "text": "Pilgerfahrt"
                 }
             ],
             "category": "Religion",
             "exactSpelling": false,
             "id": "79196",
             "isValid": "",
-            "prompt": "What are the Five Pillars of Islam?",
+            "prompt": "Welche sind die 5 Säulen des Islam?",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
             "answers": [
                 {
-                    "altSpellings": [],
-                    "hint": "Oh-hoh-hoh! Baguette si'l vous plait!",
-                    "text": "France"
+                    "altSpellings": [
+                        "Frank Reich",
+                        "France",
+                        "Französische Republik"
+                    ],
+                    "hint": "Je ne peux pas parler français!",
+                    "text": "Frankreich"
                 },
                 {
                     "altSpellings": [
-                        "Italia"
+                        "Italia",
+                        "Italienische Republik",
+                        "Italy"
                     ],
                     "hint": "",
-                    "text": "Italy"
+                    "text": "Italien"
                 },
                 {
                     "altSpellings": [
+                        "Bundesrepublik Deutschland",
                         "Deutchland",
-                        "Germania",
-                        "Allemagne"
+                        "Germany"
                     ],
-                    "hint": "Achtung!",
-                    "text": "Germany"
+                    "hint": "",
+                    "text": "Deutschland"
                 },
                 {
                     "altSpellings": [
-                        "Osterreich"
+                        "Öster Reich",
+                        "Republik Österreich",
+                        "Austria"
                     ],
-                    "hint": "The other Achtung!",
-                    "text": "Austria"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "A former first lady came from this country.",
-                    "text": "Slovenia"
+                    "hint": "",
+                    "text": "Österreich"
                 },
                 {
                     "altSpellings": [
-                        "Schweiz",
-                        "Suisse",
-                        "Svizzera",
-                        "Svizra"
+                        "Republik Slowenien",
+                        "Slovenien",
+                        "Slovenia"
                     ],
-                    "hint": "In the most neutral voice I can muster, I gotta say, they make great chocolate and even better knives.",
-                    "text": "Switzerland"
+                    "hint": "Die Hauptstadt dieses Landes ist Ljubljana, falls das irgendjemandem von euch etwas sagt.",
+                    "text": "Slowenien"
                 },
                 {
                     "altSpellings": [
-                        "Lichtenstein"
+                        "Schweitz",
+                        "Schweizerische Eidgenossenschaft",
+                        "Switzerland"
                     ],
-                    "hint": "This tiny nation has a long name and apparently some big mountains.",
+                    "hint": "",
+                    "text": "Schweiz"
+                },
+                {
+                    "altSpellings": [
+                        "Lichtenstein",
+                        "Liechten Stein",
+                        "Fürstentum Liechtenstein"
+                    ],
+                    "hint": "Fast wäre ich einmal in diesen Zwergstaat gezogen, doch dann hat mir dieser Berg hier doch etwas mehr gefallen.",
                     "text": "Liechtenstein"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "If you're ever looking for a Grand Prix, I know a city-state.",
+                    "altSpellings": [
+                        "Monako",
+                        "Fürstentum Monaco"
+                    ],
+                    "hint": "Lust auf Formel 1? Ich kenne da einen Zwergstaat, der dir gefallen könnte...",
                     "text": "Monaco"
                 }
             ],
@@ -3597,65 +3629,77 @@
             "exactSpelling": false,
             "id": "79220",
             "isValid": "",
-            "prompt": "Which 8 countries do the Alps run through?",
+            "prompt": "Durch welche 8 Länder verlaufen die Alpen?",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
             "answers": [
                 {
                     "altSpellings": [
-                        "Anaheim, California",
+                        "Anaheim, Kalifornien",
                         "Los Angeles",
                         "LA",
-                        "Hollywood"
+                        "Hollywood",
+                        "Disneyland Anaheim",
+                        "Anaheim Disney",
+                        "Disneyland Resort"
                     ],
-                    "hint": "It's not just a place to go see the Ducks play hockey. You can also find Donald here.",
+                    "hint": "Ihr sucht eine Stadt an der Südwestküste der USA.",
                     "text": "Anaheim"
                 },
                 {
                     "altSpellings": [
-                        "Paris, France",
-                        "Disneyland Paris"
+                        "Paris, Frankreich",
+                        "Disneyland Paris",
+                        "Disney Paris"
                     ],
-                    "hint": "Eiffel Tower? Goofy fell on the flower bed.",
+                    "hint": "",
                     "text": "Paris"
                 },
                 {
                     "altSpellings": [
                         "Tokyo, Japan",
                         "Tokyo Disney",
-                        "Tokyo Disney Sea"
+                        "Tokyo Disney Sea",
+                        "Disneyland Tokyo",
+                        "DisneySea Tokyo",
+                        "Tokyo Disney Resort"
                     ],
-                    "hint": "In this country's language, a mouse is pronounced \"nezumi.\"",
+                    "hint": "Das Wort “Maus” wird in der Sprache dieses Landes “Nezumi” ausgesprochen.",
                     "text": "Tokyo"
                 },
                 {
                     "altSpellings": [
                         "Shanghai, China",
-                        "Shanghai Disney"
+                        "Shanghai Disney",
+                        "Disneyland Shanghai",
+                        "Shanghai Disney Resort",
+                        "Shangai"
                     ],
-                    "hint": "Mulan's home country has two theme parks, one in this famous city.",
+                    "hint": "",
                     "text": "Shanghai"
                 },
                 {
                     "altSpellings": [
                         "Hong Kong, China",
                         "Hong Kong Disney",
-                        "Hong Kong Disneyland"
+                        "Hong Kong Disneyland",
+                        "Hong-Kong",
+                        "Hong Kong Disneyland Resort"
                     ],
-                    "hint": "Mulan's home country has two theme parks, one in this former British colony.",
+                    "hint": "Das Heimatland von Mulan besitzt zwei Themenparks, einer in dieser ehemaligen britischen Kolonie.",
                     "text": "Hong Kong"
                 },
                 {
                     "altSpellings": [
                         "Orlando, Florida",
+                        "Florida",
                         "Bay Lake",
-                        "Lake Buena Vista",
                         "Buena Vista",
                         "Disneyworld Orlando",
-                        "WDW Orlando"
+                        "Walt Disney World Resort Orlando"
                     ],
                     "hint": "",
                     "text": "Orlando"
@@ -3665,9 +3709,9 @@
             "exactSpelling": false,
             "id": "79222",
             "isValid": "",
-            "prompt": "In which cities of the world can you find a Disney theme park?",
+            "prompt": "In welchen Städten findet man [i]Disney[/i]-Themenparks?",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
