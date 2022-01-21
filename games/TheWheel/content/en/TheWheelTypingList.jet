@@ -1813,83 +1813,79 @@
         {
             "answers": [
                 {
-                    "altSpellings": [],
-                    "hint": "What's another word for cashier?",
-                    "text": "clerk"
+                    "altSpellings": [
+                        "Spand"
+                    ],
+                    "hint": "Ein tragendes Bauteil im Rumpf von Flugzeugen und Booten.",
+                    "text": "Spant"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "dirk"
+                    "text": "Tand"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "Ooh, one of these words really irritates me.",
-                    "text": "irk"
+                    "altSpellings": [
+                        "Schmandt"
+                    ],
+                    "hint": "",
+                    "text": "Schmand"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "jerk"
+                    "text": "Stand"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "lurk"
+                    "text": "Sand"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "murk"
+                    "text": "Pfand"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "What's another word for advantage?",
-                    "text": "perk"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "quirk"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "If you evade responsibilities, you're doing THIS.",
-                    "text": "shirk"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "If you think of THIS one, it may put a wry smile on your face.",
-                    "text": "smirk"
+                    "hint": "Für viele von euch Menschen ist das gesuchte Wort ein echter Sehnsuchtsort. Uhh, das hat sich auch gereimt!",
+                    "text": "Strand"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "stirk"
+                    "text": "Rand"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "turk"
+                    "text": "Land"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "Ein Körperteil, das ihr sogar doppelt habt! Ich wäre schon zufrieden, wenn ich es ÜBERHAUPT hätte.",
+                    "text": "Hand"
+                },
+                {
+                    "altSpellings": [
+                        "Brandt"
+                    ],
+                    "hint": "",
+                    "text": "Brand"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "work"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "What's that French word for circus?",
-                    "text": "cirque"
+                    "text": "Band"
                 }
             ],
             "category": "Language/Words/Grammar",
             "exactSpelling": true,
             "id": "77337",
             "isValid": "",
-            "prompt": "What rhymes with “twerk”? (one-syllable common words only)",
+            "prompt": "Was reimt sich auf “Wand”? (nur einsilbige, bekannte Nomen)",
             "subtype": "rhyme",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -1897,107 +1893,66 @@
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "ache"
+                    "text": "Mord"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "bake"
+                    "text": "Ort"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "brake"
+                    "text": "Wort"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "break"
+                    "text": "Sport"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "Auf einem Kompass zeigt der rote Pfeil stets nach...?",
+                    "text": "Nord"
+                },
+                {
+                    "altSpellings": [
+                        "Kord"
+                    ],
+                    "hint": "Ein Stoff, der besonders wegen seiner Robustheit und Optik gern für Kleidung eingesetzt wird.",
+                    "text": "Cord"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "Ein anderes Wort für eine Kindertagesstätte.",
+                    "text": "Hort"
+                },
+                {
+                    "altSpellings": [
+                        "Fyord"
+                    ],
+                    "hint": "Norwegen ist berühmt für seine tief ins Festland eindringenden Meeresarme.",
+                    "text": "Fjord"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "Ihr sucht den Namen einer amerikanischen Automarke.",
+                    "text": "Ford"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "cake"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "(to self) What's another word for phony?",
-                    "text": "fake"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "You often find this thing in a bowl of cereal.",
-                    "text": "flake"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "What's bigger than a pond?",
-                    "text": "lake"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "It's BLANK or BLANK time.",
-                    "text": "make"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "quake"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "rake"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "sake"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "shake"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "If you quench your thirst, you'll be doing THIS.",
-                    "text": "slake"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "(to self) Now why would I be thinking about the Garden of Eden?",
-                    "text": "snake"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "stake"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Ever have a craving for a nice sirloin?",
-                    "text": "steak"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "take"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "You do this in the morning... unless you sleep in I guess.",
-                    "text": "wake"
+                    "text": "Bord"
                 }
             ],
             "category": "Language/Words/Grammar",
             "exactSpelling": true,
             "id": "77338",
             "isValid": "",
-            "prompt": "What rhymes with “Drake”? (one-syllable common words only)",
+            "prompt": "Was reimt sich auf “Lord”? (nur einsilbige, bekannte Nomen)",
             "subtype": "rhyme",
-            "us": true,
-            "x": false
+            "us": false,
+            "x": true
         },
         {
             "answers": [
