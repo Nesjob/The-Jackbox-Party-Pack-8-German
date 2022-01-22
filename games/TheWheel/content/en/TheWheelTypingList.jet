@@ -2239,175 +2239,190 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "supermarket",
-                        "market",
-                        "store",
-                        "grocery shopping",
-                        "grocery shop",
-                        "superstore"
+                        "Discounter",
+                        "Einkaufsladen",
+                        "Super Markt",
+                        "Markt"
                     ],
-                    "hint": "Ewan McGregor loves food shopping.",
-                    "text": "grocery store"
+                    "hint": "Was soll Matthias Schweighöfer denn mit all seinem Geld anfangen?",
+                    "text": "Supermarkt"
                 },
                 {
                     "altSpellings": [
-                        "Doctor",
-                        "the doctor’s office",
-                        "the doctor’s"
-                    ],
-                    "hint": "Doctors always love getting a visit from Ewan McGregor.",
-                    "text": "doctor's office"
+                        "Doktor",
+                        "Arzt Praxis",
+                        "Praxis",
+                        "beim Arzt"
+                   ],
+                    "hint": "",
+                    "text": "Arztpraxis"
                 },
                 {
                     "altSpellings": [
-                        "shop",
-                        "car mechanic",
-                        "repair shop",
-                        "car shop"
+                        "Automechaniker",
+                        "Autowerkstatt",
+                        "Mechaniker",
+                        "Die Werkstatt",
+                        "in der Werkstatt"
                     ],
-                    "hint": "Sometimes Ewan McGregor needs to get his motorcycle tuned up.",
-                    "text": "mechanic"
+                    "hint": "",
+                    "text": "Werkstatt"
                 },
                 {
                     "altSpellings": [
-                        "Diner",
-                        "cafe"
+                        "Cafe",
+                        "Gasthof",
+                        "Gasthaus",
+                        "das Restaurant",
+                        "Im Restaurant"
                     ],
-                    "hint": "The maitre d' always finds Ewan McGregor a table at this place.",
-                    "text": "restaurant"
+                    "hint": "Matthias Schweighöfer geht sicherlich auch mal Essen. Aaah, ich esse auch gerne, wir haben so viel gemeinsam!",
+                    "text": "Restaurant"
                 },
                 {
                     "altSpellings": [
-                        "the library"
+                        "die Bücherei",
+                        "Bibliothek",
+                        "In der Bücherei"
                     ],
-                    "hint": "Sometimes Ewan McGregor just wants to borrow a book for a month or so.",
-                    "text": "library"
+                    "hint": "",
+                    "text": "Bücherei"
                 },
                 {
                     "altSpellings": [
-                        "the park",
-                        "garden"
+                        "der Park",
+                        "Im Park"
                     ],
-                    "hint": "I hear Ewan McGregor likes to sit down and watch pigeons. It's relaxing.",
-                    "text": "park"
+                    "hint": "",
+                    "text": "Park"
                 },
                 {
                     "altSpellings": [
-                        "the movie theater",
-                        "Cinema",
-                        "the movies",
-                        "the cinema",
-                        "theater"
+                        "das Kino",
+                        "Lichtspielhaus",
+                        "Im Kino"
                     ],
-                    "hint": "Sometimes Ewan McGregor goes to premieres of his new films.",
-                    "text": "movie theater"
+                    "hint": "Matthias Schweighöfer schaut sich sicherlich auch mal seine eigenen Filme an.",
+                    "text": "Kino"
                 },
                 {
                     "altSpellings": [
-                        "the bank"
+                        "Die Bank",
+                        "Bankhaus",
+                        "Kreditinstitut",
+                        "Sparkasse",
+                        "In der Bank"
                     ],
-                    "hint": "Ewan McGregor makes deposits and withdrawals. Celebrities are just like us!",
-                    "text": "bank"
+                    "hint": "Man hört, dass Matthias Schweighöfer sogar selbstständig Geld abhebt. Ein Promi und doch so bodenständig!",
+                    "text": "Bank"
                 }
             ],
             "category": "Film & TV",
             "exactSpelling": false,
             "id": "77797",
             "isValid": "",
-            "prompt": "The 8 Everyday Places Where You Might Run Into Ewan McGregor",
+            "prompt": "8 alltägliche Orte, an denen du Matthias Schweighöfer über den Weg laufen könntest",
             "subtype": "subjective",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
             "answers": [
                 {
                     "altSpellings": [
-                        "the bedroom"
+                        "das Schlafzimmer",
+                        "Schlafzimmer"
                     ],
-                    "hint": "“You don’t need the lights on when you’re asleep!”",
-                    "text": "bedroom"
+                    "hint": "",
+                    "text": "Schlafzimmer"
                 },
                 {
                     "altSpellings": [
-                        "restroom",
-                        "powder room",
-                        "the bathroom",
-                        "the restroom",
-                        "the powder room"
+                        "Badezimmer",
+                        "Bade Zimmer",
+                        "Toilette",
+                        "WC",
+                        "das Bad"
                     ],
-                    "hint": "You can shower in the dark. I saw a documentary about it.",
-                    "text": "bathroom"
+                    "hint": "",
+                    "text": "Bad"
                 },
                 {
                     "altSpellings": [
-                        "the kitchen"
+                        "die Küche"
                     ],
-                    "hint": "“I might as well turn the fridge off, too, while I'm in here.”",
-                    "text": "kitchen"
+                    "hint": "“Die einzige Sache, die hier kocht, bin ich, und zwar vor Wut wegen der hohen Stromrechnung!”",
+                    "text": "Küche"
                 },
                 {
                     "altSpellings": [
-                        "Den",
-                        "family room",
-                        "tv room",
-                        "the den",
-                        "the living room",
-                        "the family room",
-                        "the tv room"
+                        "Wohnraum",
+                        "Wohn Raum",
+                        "Wohn Zimmer",
+                        "das Wohnzimmer",
+                        "Salon"
                     ],
-                    "hint": "“You still watching TV, or can I turn that off, too?”",
-                    "text": "living room"
+                    "hint": "",
+                    "text": "Wohnzimmer"
                 },
                 {
                     "altSpellings": [
-                        "the dining room"
+                        "Speisesaal",
+                        "Speiseraum",
+                        "Ess Zimmer",
+                        "das Esszimmer"
                     ],
-                    "hint": "“The only thing I’m eating right now is high electricity costs!”",
-                    "text": "dining room"
+                    "hint": "",
+                    "text": "Esszimmer"
                 },
                 {
                     "altSpellings": [
-                        "the garage"
+                        "die Garage",
+                        "Abstellkammer"
                     ],
-                    "hint": "“The car doesn’t need to see anything, does it?”",
-                    "text": "garage"
+                    "hint": "“Für wen ist denn die ganze Festtagsbeleuchtung hier? Für die Spinnen?”",
+                    "text": "Garage"
                 },
                 {
                     "altSpellings": [
-                        "home office",
-                        "the office"
+                        "das Arbeitszimmer",
+                        "Büro",
+                        "das Büro",
+                        "Office"
                     ],
-                    "hint": "Business hours are daytime hours.",
-                    "text": "office"
+                    "hint": "“Ach, wenn ich schon hier bin, kann ich auch gleich noch das Wlan ausschalten.”",
+                    "text": "Arbeitszimmer"
                 },
                 {
                     "altSpellings": [
-                        "Baby’s Room",
-                        "nursery room",
-                        "the nursery",
-                        "the baby room"
+                        "Kinder Zimmer",
+                        "Wickelraum",
+                        "Spielzimmer",
+                        "Jugendraum",
+                        "das Kinderzimmer"
                     ],
-                    "hint": "“It’s never too early for babies to learn about fiscal responsibility.”",
-                    "text": "nursery"
+                    "hint": "“Es ist nie zu früh im Leben eines Babys für Lektionen in Sparsamkeit!”",
+                    "text": "Kinderzimmer"
                 },
                 {
                     "altSpellings": [
-                        "greenhouse",
-                        "the conservatory",
-                        "the greenhouse"
+                        "der Flur",
+                        "Diele",
+                        "Gang",
+                        "Korridor",
+                        "Hausflur"
                     ],
-                    "hint": "“What is this, Clue? Look, just turn the lights off.”",
-                    "text": "conservatory"
+                    "hint": "",
+                    "text": "Flur"
                 }
             ],
             "category": "Other",
             "exactSpelling": false,
             "id": "77798",
             "isValid": "",
-            "prompt": "The 9 Rooms Where Dads Can't Help Themselves from Turning Off the Lights",
+            "prompt": "9 Räume, in denen Väter nicht anders können, als das Licht auszuschalten",
             "subtype": "subjective",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -3277,7 +3292,7 @@
             "exactSpelling": false,
             "id": "79190",
             "isValid": "",
-            "prompt": "Wie heißen die ersten 5 Bücher aus dem alten Testament?",
+            "prompt": "Wie heißen die ersten 5 Bücher aus dem Alten Testament laut der katholischen Übersetzung?",
             "subtype": "name",
             "us": false,
             "x": false
@@ -4427,82 +4442,81 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "Delta Airlines",
-                        "Delta Air"
+                        "K L M",
+                        "KLM Airlines"
                     ],
-                    "hint": "Named after the end of a river? Pretty boring.",
-                    "text": "Delta"
+                    "hint": "Einfach nur drei Buchstaben? Wie langweilig!",
+                    "text": "KLM"
                 },
                 {
                     "altSpellings": [
-                        "Virgin Atlantic",
-                        "Virgin Australia",
-                        "Virgin Airline",
-                        "Virgin Air"
+                        "TUI fly",
+                        "TUIfly Airline",
+                        "TUI",
+                        "TUI Airline"
                     ],
-                    "hint": "Go back to selling CDs at the megastore!",
-                    "text": "Virgin"
+                    "hint": "",
+                    "text": "TUIfly"
                 },
                 {
                     "altSpellings": [
-                        "Southwest Airlines",
-                        "Southwest Air"
+                        "Ryan Air",
+                        "Ryanair Airline"
                     ],
-                    "hint": "A direction and another direction... WOW, original!",
-                    "text": "Southwest"
+                    "hint": "Ich bin mir sicher, nicht mal ihr Winzlinge passt in die mikroskopisch kleinen Sitze dieser Airline!",
+                    "text": "Ryanair"
                 },
                 {
                     "altSpellings": [
-                        "Frontier Airlines",
-                        "Frontier Air"
+                        "Britisch Airways",
+                        "British Air Ways"
                     ],
-                    "hint": "This one is ironic because it doesn't go into the great unknown anymore, just Cleveland.",
-                    "text": "Frontier"
+                    "hint": "",
+                    "text": "British Airways"
                 },
                 {
                     "altSpellings": [
-                        "JetBlue Airways",
-                        "JetBlue Airline",
-                        "JetBlue Air"
+                        "easy Jet",
+                        "easyJet Airline"
                     ],
-                    "hint": "You can't just say what you are and then a color!",
-                    "text": "JetBlue"
+                    "hint": "",
+                    "text": "easyJet"
                 },
                 {
                     "altSpellings": [
                         "Emirates Airline"
                     ],
-                    "hint": "I WAS going to fly to the corporate HQ to complain, but Dubai's too far for me to roll.",
+                    "hint": "Eigentlich wollte ich ja zu ihrem Firmensitz fliegen, um mich dort zu beschweren. Alternativ nach Dubai zu rollen ist mir aber doch etwas zu zeitintensiv, daher belasse ich es einfach dabei.",
                     "text": "Emirates"
                 },
                 {
                     "altSpellings": [
-                        "Aer Lingus Airline"
+                        "Condor Airlines",
+                        "Kondor"
                     ],
-                    "hint": "This European carrier just sounds dirty.\n\nALT. What to say about this European carrier... well... it's all in the tongue.",
-                    "text": "Aer Lingus"
+                    "hint": "",
+                    "text": "Condor"
                 },
                 {
                     "altSpellings": [
                         "Deutsche Lufthansa"
                     ],
-                    "hint": "Sounds like \"Lift Hans,\" right? Whatever.",
+                    "hint": "",
                     "text": "Lufthansa"
                 },
                 {
                     "altSpellings": [
-                        "Spirit Airlines",
-                        "Spirit Air"
+                        "Türkisch Airlines"
                     ],
-                    "hint": "They call it this because if you take one of their flights your soul leaves your body.\n\nALT.  (mimicing the spirit cheer) \"We've got an airline, yes we do, we've got an airline, how 'bout you?\"",
-                    "text": "Spirit"
+                    "hint": "",
+                    "text": "Turkish Airlines"
                 },
                 {
                     "altSpellings": [
                         "United Airlines",
                         "United Air"
                     ],
-                    "hint": "Time to dissolve this \"union.\"",
+                    "hint": "Eine amerikanische Airline, die man aber auch an großen Flughäfen in Deutschland antreffen kann.",
                     "text": "United"
                 }
             ],
@@ -4510,9 +4524,9 @@
             "exactSpelling": false,
             "id": "79500",
             "isValid": "",
-            "prompt": "The 10 Airlines I Boycott Because I Am Unable to Fit in the Planes",
+            "prompt": "10 Airlines, die ich boykottiere, da ich nicht in die Flugzeugsitze passe",
             "subtype": "subjective",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -4779,99 +4793,67 @@
         {
             "answers": [
                 {
-                    "altSpellings": [
-                        "Wear",
-                        "ware"
-                    ],
-                    "text": "where"
+                    "text": "Qual"
+                },
+                {
+                    "hint": "Stellt euch vor ich hätte DIESE Form, ich wäre einfach das “Ei von unglaublicher Größe”!",
+                    "text": "Oval"
+                },
+                {
+                    "hint": "Ein schlangenförmiges Tier, das im Wasser lebt und in Europa bis zu 1,5 Meter lang werden kann.",
+                    "text": "Aal"
+                },
+                {
+                    "text": "Wahl"
+                },
+                {
+                    "text": "Tal"
+                },
+                {
+                    "hint": "Seid ihr auch so hart wie das gesuchte Wort?",
+                    "text": "Stahl"
+                },
+                {
+                    "text": "Saal"
+                },
+                {
+                    "text": "Opal"
+                },
+                {
+                    "text": "Mahl"
                 },
                 {
                     "altSpellings": [
-                        "stair"
+                        "Cral"
                     ],
-                    "text": "stare"
+                    "hint": "Dieses heilige Trinkgefäß wird wohl niemals gefunden werden...",
+                    "text": "Gral"
                 },
                 {
-                    "altSpellings": [
-                        "bare"
-                    ],
-                    "text": "bear"
+                    "text": "Wal"
                 },
                 {
-                    "text": "rare"
+                    "text": "Ural"
                 },
                 {
-                    "text": "tear"
+                    "text": "Strahl"
                 },
                 {
-                    "text": "dare"
-                },
-                {
-                    "text": "glare"
-                },
-                {
-                    "altSpellings": [
-                        "flair"
-                    ],
-                    "text": "flare"
-                },
-                {
-                    "text": "share"
-                },
-                {
-                    "altSpellings": [
-                        "hare"
-                    ],
-                    "text": "hair"
-                },
-                {
-                    "altSpellings": [
-                        "ayer"
-                    ],
-                    "text": "air"
-                },
-                {
-                    "text": "lair"
-                },
-                {
-                    "text": "square"
-                },
-                {
-                    "altSpellings": [
-                        "they're",
-                        "their"
-                    ],
-                    "text": "there"
-                },
-                {
-                    "altSpellings": [
-                        "pair",
-                        "pare"
-                    ],
-                    "text": "pear"
-                },
-                {
-                    "text": "snare"
-                },
-                {
-                    "text": "swear"
-                },
-                {
-                    "text": "scare"
+                    "text": "Schal"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "mare"
+                    "text": "Pfahl"
                 }
             ],
             "category": "Language/Words/Grammar",
             "exactSpelling": true,
             "id": "79613",
             "isValid": "",
-            "prompt": "What rhymes with “care”? (one-syllable common words only)",
+            "prompt": "Was reimt sich auf “Zahl”? (nur einsilbige, bekannte Nomen)",
             "subtype": "rhyme",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
