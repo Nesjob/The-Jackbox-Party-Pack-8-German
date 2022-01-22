@@ -4370,67 +4370,80 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "Physics Prize",
-                        "Fisics Prize",
-                        "Fisics"
+                        "Nobelpreis für Physik",
+                        "Physiknobelpreis",
+                        "Physik Nobelpreis",
+                        "Pysik"
+                    ],
+                    "hint": "In dieser Kategorie befinden sich einige bekannte deutsche Wissenschaftler, zum Beispiel Albert Einstein.",
+                    "text": "Physik"
+                },
+                {
+                    "altSpellings": [
+                        "Nobelpreis für Chemie",
+                        "Chemienobelpreis",
+                        "Chemie Nobelpreis"
+                    ],
+                    "hint": "Diesen Nobelpreis erhielt Marie Curie im Jahre 1911 für die Entdeckung der Elemente “Polonium” und “Radium”.",
+                    "text": "Chemie"
+                },
+                {
+                    "altSpellings": [
+                        "Nobelpreis für Medizin",
+                        "Nobelpreis für Physiologie",
+                        "Nobelpreis für Physiologie oder Medizin",
+                        "Nobelpreis für Medizin oder Physiologie",
+                        "Physiologie und Medizin",
+                        "Physiologie Medizin",
+                        "Medizin und Physiologie",
+                        "Medizin Physiologie",
+                        "Medizin Nobelpreis",
+                        "Physiologie Nobelpreis",
+                        "Medizin",
+                        "Physiologie"
                     ],
                     "hint": "",
-                    "text": "Physics"
+                    "text": "Medizin oder Physiologie"
                 },
                 {
                     "altSpellings": [
-                        "Chemistry Prize"
-                    ],
-                    "hint": "It's a science and something Mulder and Scully had.",
-                    "text": "Chemistry"
-                },
-                {
-                    "altSpellings": [
-                        "Physiology",
-                        "Physiology or Medicine",
-                        "Physiology and Medicine",
-                        "Physiology Medicine",
-                        "Medicine or Physiology",
-                        "Medicine Physiology",
-                        "Medicine and Physiology",
-                        "Medicine Prize",
-                        "Physiology Prize"
+                        "Nobelpreis für Frieden",
+                        "Friedensnobelpreis",
+                        "Friedens Nobelpreis"
                     ],
                     "hint": "",
-                    "text": "Medicine"
+                    "text": "Frieden"
                 },
                 {
                     "altSpellings": [
-                        "Peace Prize"
-                    ],
-                    "hint": "Winners of one category include Nelson Mandela & Mother Teresa.",
-                    "text": "Peace"
-                },
-                {
-                    "altSpellings": [
-                        "Literature Prize"
+                        "Nobelpreis für Literatur",
+                        "Literatur Nobelpreis",
+                        "Literaturnobelpreis"
                     ],
                     "hint": "",
-                    "text": "Literature"
+                    "text": "Literatur"
                 },
                 {
                     "altSpellings": [
-                        "Economy",
-                        "Economics",
-                        "Econ Science",
-                        "Prize in Economic Sciences"
+                        "Wirtschaft",
+                        "Wirtschafts Wissenschaften",
+                        "Nobelpreis für Wirtschaftswissenschaften",
+                        "Wirtschaftsnobelpreis",
+                        "Wirtschafts Nobelpreis",
+                        "Alfred-Nobel-Gedächtnispreis",
+                        "Alfred-Nobel-Gedächtnispreis für Wirtschaftswissenschaften"
                     ],
-                    "hint": "(to self) Money, money, money.",
-                    "text": "Economic Sciences"
+                    "hint": "Könnt ihr mit Geld umgehen? Ja? Nein? Naja, wenn ich mir die Kontostände von einigen von euch so anschaue, erübrigt sich diese Frage wohl...",
+                    "text": "Wirtschaftswissenschaften"
                 }
             ],
             "category": "Science & Medicine",
             "exactSpelling": false,
             "id": "79471",
             "isValid": "",
-            "prompt": "What are the 6 Nobel Prize categories?",
+            "prompt": "Die 6 Kategorien, in denen Nobelpreise verliehen werden",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
