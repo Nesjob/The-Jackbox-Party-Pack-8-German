@@ -1276,7 +1276,7 @@
                     "altSpellings": [
                         "Sascha Wollny"
                     ],
-                    "hint": "Diesen hier kennt ihr vermutlich nicht: Sascha Wollny. Im Gegensatz zum Rest seiner Familie hält er sich wohl lieber von Kameras fern.",
+                    "hint": "Im Gegensatz zum Rest seiner Familie gibt es einen, der sich wohl lieber von Kameras fern hält.",
                     "text": "Sascha"
                 },
                 {
@@ -1826,7 +1826,8 @@
                 },
                 {
                     "altSpellings": [
-                        "Schmandt"
+                        "Schmandt",
+                        "Schmant"
                     ],
                     "hint": "",
                     "text": "Schmand"
@@ -1943,6 +1944,11 @@
                     "altSpellings": [],
                     "hint": "",
                     "text": "Bord"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "",
+                    "text": "Port"
                 }
             ],
             "category": "Language/Words/Grammar",
@@ -3211,11 +3217,6 @@
                         "Am Anfang",
                         "Geburt",
                         "Ursprung",
-                        "1.Buch Mose",
-                        "1. Buch Mose",
-                        "Erstes Buch Mose",
-                        "Eins Buch Mose",
-                        "1 Mose",
                         "Geneses",
                         "Genesys"
                     ],
@@ -3228,12 +3229,6 @@
                         "Namen",
                         "Auszug",
                         "Sefer Schemot",
-                        "Zweites Buch Mose",
-                        "2.Buch Mose",
-                        "2. Buch Mose",
-                        "2 Buch Mose",
-                        "Zwei Buch Mose",
-                        "2 Mose",
                         "Exudus",
                         "Exodos"
                     ],
@@ -3246,12 +3241,6 @@
                         "Wajikra",
                         "Vajikra",
                         "Wajicra",
-                        "Drittes Buch Mose",
-                        "3.Buch Mose",
-                        "3. Buch Mose",
-                        "3 Buch Mose",
-                        "Drei Buch Mose",
-                        "3 Mose",
                         "Lewitikus",
                         "Leviticus"
                     ],
@@ -3264,12 +3253,6 @@
                         "Bamidbar",
                         "Parascha",
                         "Sidra",
-                        "Viertes Buch Mose",
-                        "4.Buch Mose",
-                        "4. Buch Mose",
-                        "4 Buch Mose",
-                        "Vier Buch Mose",
-                        "4 Mose",
                         "Numerus",
                         "Numero",
                         "Numera"
@@ -3281,12 +3264,6 @@
                     "altSpellings": [
                         "Dewarim",
                         "Devarim",
-                        "Fünftes Buch Mose",
-                        "5.Buch Mose",
-                        "5. Buch Mose",
-                        "5 Buch Mose",
-                        "Fünf Buch Mose",
-                        "5 Mose",
                         "Deuteronium",
                         "Deuteronom",
                         "Mishneh Torah",
@@ -3297,7 +3274,7 @@
                 }
             ],
             "category": "Religion",
-            "exactSpelling": true,
+            "exactSpelling": false,
             "id": "79190",
             "isValid": "",
             "prompt": "Wie heißen die ersten 5 Bücher aus dem alten Testament?",
@@ -3501,7 +3478,7 @@
             "exactSpelling": false,
             "id": "79196",
             "isValid": "",
-            "prompt": "Welche sind die 5 Säulen des Islam?",
+            "prompt": "Was sind die 5 Säulen des Islam?",
             "subtype": "name",
             "us": false,
             "x": false
