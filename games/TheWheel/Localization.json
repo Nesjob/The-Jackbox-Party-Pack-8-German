@@ -173,7 +173,7 @@
         "SLICE_EFFECT_CATCHMECHALLENGE_PROMPT_NON_SLICE_OWNER": "Wähle eine Scheibe. %s wird den Pot erneut gewinnen, wenn niemand die gleiche Scheibe wie er wählt",
 
         "SLICE_EFFECT_CHAINSTEAL_NAME": "SCHEIBEN\nKLAU",
-        "SLICE_EFFECT_CHAINSTEAL_DESCRIPTION": "Stehle zusammenhängende Scheiben, die einem anderen Spieler gehören",
+        "SLICE_EFFECT_CHAINSTEAL_DESCRIPTION": "Stehle zusammen-\nhängende Scheiben, die einem anderen Spieler gehören",
         "SLICE_EFFECT_CHAINSTEAL_PROMPT": "Wähle eine Scheibe. Du wirst alle zusammenhängenden Scheiben stehlen, die einem anderen Spieler gehören",
 
         "AUDIENCE_CHOOSE_TRIVIA_WINNER_PROMPT_0": "Welcher Spieler wird bei dieser Frage am besten abschneiden?",
