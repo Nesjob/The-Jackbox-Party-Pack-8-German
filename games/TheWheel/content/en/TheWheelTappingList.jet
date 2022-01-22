@@ -2313,55 +2313,55 @@
   {
    "answers": [
     {
-     "text": "Kamloops"
+     "text": "Rostig"
     },
     {
-     "text": "Winnipeg"
+     "text": "Amerika"
     },
     {
-     "text": "Medicine Hat"
+     "text": "Hundeluft"
     },
     {
-     "text": "Dawson Creek"
+     "text": "Streit"
     },
     {
-     "text": "Flin Flon"
+     "text": "Antwort"
     },
     {
-     "text": "Yellowknife"
+     "text": "Ekelsdorf"
     },
     {
-     "text": "Guelph"
+     "text": "Grab"
     },
     {
-     "text": "Whitehorse"
+     "text": "Oberkaka"
     }
    ],
    "category": "Geography & Landmarks",
    "decoys": [
     {
-     "text": "Saskatchewan"
+     "text": "Gelbemesser"
     },
     {
-     "text": "Jackknife"
+     "text": "Tschausen"
     },
     {
-     "text": "Greater Moccasin"
+     "text": "Spielfeld"
     },
     {
-     "text": "Big Gulp"
+     "text": "Drogenheim"
     },
     {
-     "text": "Polite"
+     "text": "Schweinebier"
     },
     {
-     "text": "Hat Trick"
+     "text": "Hoppla"
     }
    ],
    "id": "76909",
    "isValid": "",
-   "prompt": "Which of these are Canadian cities?",
-   "us": true,
+   "prompt": "Welche davon sind echte Orte in Deutschland?",
+   "us": false,
    "x": false
   },
   {
