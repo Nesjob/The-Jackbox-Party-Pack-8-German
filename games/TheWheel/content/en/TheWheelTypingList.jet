@@ -3374,43 +3374,128 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "Manhattan Island"
+                        "Marzahn",
+                        "Hellersdorf",
+                        "Marzahn Hellersdorf",
+                        "Hellersdorf-Marzahn",
+                        "Bezirk Marzahn-Hellersdorf"
                     ],
-                    "hint": "Also a popular rye whiskey cocktail served with a cherry.",
-                    "text": "Manhattan"
+                    "hint": "",
+                    "text": "Marzahn-Hellersdorf"
                 },
                 {
                     "altSpellings": [
-                        "The Bronx"
+                        "Treptow",
+                        "Köpenick",
+                        "Treptow Köpenick",
+                        "Köpenick-Treptow",
+                        "Bezirk Treptow-Köpenick"
                     ],
-                    "hint": "Jackie Chan came here once and caused a bit of a rumble.",
-                    "text": "Bronx"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Hipsters ruined THIS borough, apparently.",
-                    "text": "Brooklyn"
+                    "hint": "Der größte Bezirk befindet sich im Südosten von Berlin.",
+                    "text": "Treptow-Köpenick"
                 },
                 {
                     "altSpellings": [
-                        "Staten Isl."
+                        "Berlin-Neukölln",
+                        "Neu Kölln",
+                        "Bezirk Neukölln"
                     ],
-                    "hint": "Most of the boroughs are islands, but THIS one has it in the name.",
-                    "text": "Staten Island"
+                    "hint": "Der am dichtesten bebaute Bezirk Berlins hat einen sehr ähnlichen Namen wie eine Metropole in Nordrhein-Westfalen.",
+                    "text": "Neukölln"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "This borough can move in any direction on a chess board.",
-                    "text": "Queens"
+                    "altSpellings": [
+                        "Berlin-Lichtenberg",
+                        "Bezirk Lichtenberg"
+                    ],
+                    "hint": "In diesem Bezirk befindet sich auch der berühmte Tierpark!",
+                    "text": "Lichtenberg"
+                },
+                {
+                    "altSpellings": [
+                        "Friedrichshain",
+                        "Kreuzberg",
+                        "Friedrichshain Kreuzberg",
+                        "Kreuzberg-Friedrichshain",
+                        "Bezirk Friedrichshain-Kreuzberg"
+                    ],
+                    "hint": "Der Bezirk mit der höchsten Bevölkerungsdichte ist bekannt für sein vielseitiges Nachtleben. Da rollt der Rubel, und ich bald auch!",
+                    "text": "Friedrichshain-Kreuzberg"
+                },
+                {
+                    "altSpellings": [
+                        "Berlin-Pankow",
+                        "Prenzlauer Berg",
+                        "Bezirk Pankow"
+                    ],
+                    "hint": "",
+                    "text": "Pankow"
+                },
+                {
+                    "altSpellings": [
+                        "Berlin-Mitte",
+                        "Bezirk Mitte"
+                    ],
+                    "hint": "In diesem ehrlichgesagt sehr unkreativ benannten Bezirk befindet sich auch der Sitz des Bundestag.",
+                    "text": "Mitte"
+                },
+                {
+                    "altSpellings": [
+                        "Tempelhof",
+                        "Schöneberg",
+                        "Tempelhof Schöneberg",
+                        "Schöneberg-Tempelhof",
+                        "Bezirk Tempelhof-Schöneberg"
+                    ],
+                    "hint": "",
+                    "text": "Tempelhof-Schöneberg"
+                },
+                {
+                    "altSpellings": [
+                        "Steglitz",
+                        "Zehlendorf",
+                        "Steglitz Zehlendorf",
+                        "Zehlendorf-Stegnitz",
+                        "Bezirk Steglitz-Zehlendorf"
+                    ],
+                    "hint": "",
+                    "text": "Steglitz-Zehlendorf"
+                },
+                {
+                    "altSpellings": [
+                        "Charlottenburg",
+                        "Wilmersdorf",
+                        "Charlottenburg Wilmersdorf",
+                        "Wilmersdorf-Charlottenburg",
+                        "Bezirk Charlottenburg-Wilmersdorf"
+                    ],
+                    "hint": "",
+                    "text": "Charlottenburg-Wilmersdorf"
+                },
+                {
+                    "altSpellings": [
+                        "Berlin Spandau",
+                        "Bezirk Spandau"
+                    ],
+                    "hint": "",
+                    "text": "Spandau"
+                },
+                {
+                    "altSpellings": [
+                        "Reinicken Dorf",
+                        "Bezirk Reinickendorf"
+                    ],
+                    "hint": "",
+                    "text": "Reinickendorf"
                 }
             ],
             "category": "Geography & Landmarks",
             "exactSpelling": false,
             "id": "79192",
             "isValid": "",
-            "prompt": "What are the 5 boroughs of New York City?",
+            "prompt": "Wie heißen die 12 Bezirke von Berlin?",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -4073,49 +4158,46 @@
             "answers": [
                 {
                     "altSpellings": [],
-                    "hint": "How could you forget about the color of tomatoes?",
-                    "text": "red"
+                    "hint": "",
+                    "text": "Rot"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "It's the color of carrots! You know the one.",
-                    "text": "orange"
+                    "hint": "",
+                    "text": "Orange"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "Where would we be without this main color? Mustard would be gray!",
-                    "text": "yellow"
+                    "hint": "",
+                    "text": "Gelb"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "It's the color of crisp, leafy lettuce! Perfect on a sandwich!",
-                    "text": "green"
+                    "hint": "Oh, die Farbe von leckeren Wiesen und wunderschönen Salatblättern auf meinem Burger. Warte, was?",
+                    "text": "Grün"
                 },
                 {
                     "altSpellings": [
-                        "cyan"
+                        "Cyan"
                     ],
-                    "hint": "Don't forget about the color of blueberries! Oh, oops.",
-                    "text": "blue"
+                    "hint": "Denkt an die schöne Färbung des Himmels!",
+                    "text": "Blau"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "You'll be \"closer to fine\" if you can remember what the I in Roy G Biv stands for.",
-                    "text": "indigo"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "It's the word for purple that starts with a V. The visible light spectrum is fancy like that.",
-                    "text": "violet"
+                    "altSpellings": [
+                        "Lila"
+                    ],
+                    "hint": "",
+                    "text": "Violett"
                 }
             ],
             "category": "Science & Medicine",
             "exactSpelling": false,
             "id": "79424",
             "isValid": "",
-            "prompt": "Which 7 colors are on the visible light spectrum?",
+            "prompt": "Welche 6 Farben gehören zum Spektrum des sichtbaren Licht?",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -6415,42 +6497,44 @@
             "answers": [
                 {
                     "altSpellings": [],
-                    "hint": "",
-                    "text": "red"
+                    "hint": "In dieser Farbe sehen die Schokolinsen fast schon aus wie kleine Tomaten.",
+                    "text": "Rot"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "orange"
+                    "text": "Orange"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "Why not type in the color of the sun, just for giggles? After all, the sun is chocolate's greatest enemy.",
-                    "text": "yellow"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Freshly cut grass, guacamole, and M&M'S are all this color... weirdly enough.",
-                    "text": "green"
+                    "hint": "Die Sonne als die größte Bedrohung für Schokolade hat einen Ehrenplatz in jeder Packung M&M'S verdient!",
+                    "text": "Gelb"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "blue"
+                    "text": "Grün"
+                },
+                {
+                    "altSpellings": [
+                        "Cyan"
+                    ],
+                    "hint": "",
+                    "text": "Blau"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "Have you considered typing in the color of chocolate itself? Just an idea.",
-                    "text": "brown"
+                    "hint": "Was für eine Farbe hat denn Schokolade im Allgemeinen so?",
+                    "text": "Braun"
                 }
             ],
             "category": "Food & Drink",
             "exactSpelling": false,
             "id": "83286",
             "isValid": "",
-            "prompt": "Which 6 colors will you find in a bag of milk chocolate M&M’S?",
+            "prompt": "Welche 6 Farben findet man in einer Tüte “M&M’S Choco”?",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
