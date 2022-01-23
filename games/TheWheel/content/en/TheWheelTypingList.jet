@@ -2252,7 +2252,8 @@
                         "Doktor",
                         "Arzt Praxis",
                         "Praxis",
-                        "beim Arzt"
+                        "beim Arzt",
+                        "Arzt"
                    ],
                     "hint": "",
                     "text": "Arztpraxis"
@@ -4524,7 +4525,7 @@
             "exactSpelling": false,
             "id": "79500",
             "isValid": "",
-            "prompt": "10 Airlines, die ich boykottiere, da ich nicht in die Flugzeugsitze passe",
+            "prompt": "10 Fluggesellschaften, die ich boykottiere, da ich nicht in die Flugzeugsitze passe",
             "subtype": "subjective",
             "us": false,
             "x": false
@@ -4796,10 +4797,6 @@
                     "text": "Qual"
                 },
                 {
-                    "hint": "Stellt euch vor ich hätte DIESE Form, ich wäre einfach das “Ei von unglaublicher Größe”!",
-                    "text": "Oval"
-                },
-                {
                     "hint": "Ein schlangenförmiges Tier, das im Wasser lebt und in Europa bis zu 1,5 Meter lang werden kann.",
                     "text": "Aal"
                 },
@@ -4817,9 +4814,6 @@
                     "text": "Saal"
                 },
                 {
-                    "text": "Opal"
-                },
-                {
                     "text": "Mahl"
                 },
                 {
@@ -4831,9 +4825,6 @@
                 },
                 {
                     "text": "Wal"
-                },
-                {
-                    "text": "Ural"
                 },
                 {
                     "text": "Strahl"
