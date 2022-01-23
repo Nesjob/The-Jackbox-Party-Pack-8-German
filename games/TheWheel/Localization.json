@@ -111,7 +111,7 @@
 
         "SLICE_TYPE_PLAYER_NAME": "GEWINNER",
         "SLICE_TYPE_NEIGHBOR_NAME": "GEWINNER",
-        "SLICE_TYPE_BONUS_NAME": "KRAFTSCHEIBE",
+        "SLICE_TYPE_BONUS_NAME": "KRAFT\nSCHEIBE",
 
         "SLICE_TYPE_WINNER_NAME": "%s Gewinnt",
         "SLICE_TYPE_WINNER_DESCRIPTION": "%s gewinnt das Spiel!",
@@ -173,7 +173,7 @@
         "SLICE_EFFECT_CATCHMECHALLENGE_PROMPT_NON_SLICE_OWNER": "Wähle eine Scheibe. %s wird den Pot erneut gewinnen, wenn niemand die gleiche Scheibe wie er wählt",
 
         "SLICE_EFFECT_CHAINSTEAL_NAME": "SCHEIBEN\nKLAU",
-        "SLICE_EFFECT_CHAINSTEAL_DESCRIPTION": "Stehle zusammenhängende Scheiben, die einem anderen Spieler gehören",
+        "SLICE_EFFECT_CHAINSTEAL_DESCRIPTION": "Stehle zusammen-\nhängende Scheiben, die einem anderen Spieler gehören",
         "SLICE_EFFECT_CHAINSTEAL_PROMPT": "Wähle eine Scheibe. Du wirst alle zusammenhängenden Scheiben stehlen, die einem anderen Spieler gehören",
 
         "AUDIENCE_CHOOSE_TRIVIA_WINNER_PROMPT_0": "Welcher Spieler wird bei dieser Frage am besten abschneiden?",
