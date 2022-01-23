@@ -5043,74 +5043,110 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "feel",
-                        "touching",
-                        "feeling"
+                        "Tiefensensibilität",
+                        "Tiefen Sensibilität",
+                        "Körper Empfindung",
+                        "Bewusstsein",
+                        "Lagesinn",
+                        "Bewegungssinn",
+                        "Propriozeption",
+                        "Organsinne",
+                        "Hunger",
+                        "Durst",
+                        "Harndrang"
                     ],
-                    "hint": "",
-                    "text": "touch"
+                    "hint": "Fragt euch mal, warum an Autobahntankstellen immer so viel los ist.",
+                    "text": "Körperempfindung"
                 },
                 {
                     "altSpellings": [
-                        "vision",
-                        "eyes",
-                        "see",
-                        "seeing"
+                        "vestibuläre Wahrnehmung",
+                        "Gleichgewichtssinn",
+                        "Gleichgewichts Sinn",
+                        "Vestibulärer Sinn"
                     ],
                     "hint": "",
-                    "text": "sight"
+                    "text": "Gleichgewicht"
                 },
                 {
                     "altSpellings": [
-                        "flavor",
-                        "tastebuds",
-                        "tongue",
-                        "tasting"
+                        "Schmerzen",
+                        "Schmerz Empfindung",
+                        "Nozizeption",
+                        "Schmerz"
                     ],
                     "hint": "",
-                    "text": "taste"
+                    "text": "Schmerzempfindung"
                 },
                 {
                     "altSpellings": [
-                        "sniff",
-                        "nose",
-                        "smelling"
+                        "Temperatursinn",
+                        "Temperatur Sinn",
+                        "Thermorezeption"
                     ],
-                    "hint": "",
-                    "text": "smell"
+                    "hint": "Ist euch gerade auch so warm? Hab ich vergessen den Herd auszuschalten?!",
+                    "text": "Temperatur"
                 },
                 {
                     "altSpellings": [
-                        "hear",
-                        "hearing"
+                        "Tastsinn",
+                        "Tast Sinn",
+                        "Gefühl",
+                        "taktile Wahrnehmung"
                     ],
-                    "hint": "",
-                    "text": "sound"
+                    "hint": "Ich wünschte, ich hätte Hände, dann wüsste ich endlich, wie sich dieser Sinn anfühlt. Hey, vielleicht möchte mir der Letztplatzierte später mal zur Hand gehen?",
+                    "text": "Tasten"
                 },
                 {
                     "altSpellings": [
-                        "can see dead people",
-                        "he can see dead people",
-                        "you can see dead people",
-                        "can see the dead",
-                        "I can see dead people",
-                        "I see dead people",
-                        "dead people",
-                        "see ghosts",
-                        "ghosts",
-                        "sees dead people"
+                        "gustatorische Wahrnehmung",
+                        "Geschmackssinn",
+                        "Geschmacks Sinn",
+                        "Geschmack"
                     ],
                     "hint": "",
-                    "text": "see dead people"
+                    "text": "Schmecken"
+                },
+                {
+                    "altSpellings": [
+                        "Geruchssinn",
+                        "olfaktorische Wahrnehmung",
+                        "olfaktorischer Sinn",
+                        "Riechwahrnehmung",
+                        "Geruchs Sinn"
+                    ],
+                    "hint": "Okay, wer von euch hat sich heute morgen in Parfüm gebadet?",
+                    "text": "Riechen"
+                },
+                {
+                    "altSpellings": [
+                        "visuelle Wahrnehmung",
+                        "Optik",
+                        "Sicht"
+                    ],
+                    "hint": "",
+                    "text": "Sehen"
+                },
+                {
+                    "altSpellings": [
+                        "Hoeren",
+                        "Gehörssinn",
+                        "auditive Wahrnehmung",
+                        "aurale Wahrnehmung",
+                        "akustische Wahrnehmung",
+                        "Gehörs Sinn"
+                    ],
+                    "hint": "",
+                    "text": "Hören"
                 }
             ],
             "category": "Factoids",
             "exactSpelling": false,
             "id": "80249",
             "isValid": "",
-            "prompt": "Name the five senses + the one Haley Joel Osment has",
+            "prompt": "Nenne die 8 Sinne des Menschen",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -6240,65 +6276,89 @@
         {
             "answers": [
                 {
-                    "altSpellings": [],
+                    "altSpellings": [
+                        "Republik Polen"
+                    ],
                     "hint": "",
-                    "text": "Poland"
+                    "text": "Polen"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "One of these places is known for its canal.",
+                    "altSpellings": [
+                        "Republik Panama"
+                    ],
+                    "hint": "“Oh, wie schön ist...” dieses Land, auf das ich nicht weiter eingehen werde.",
                     "text": "Panama"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "There are two P-named countries in South America.",
+                    "altSpellings": [
+                        "Republik Peru"
+                    ],
+                    "hint": "",
                     "text": "Peru"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "Not Afghanistan but...",
+                    "altSpellings": [
+                        "Pacistan",
+                        "Islamische Republik Pakistan"
+                    ],
+                    "hint": "",
                     "text": "Pakistan"
                 },
                 {
-                    "altSpellings": [],
+                    "altSpellings": [
+                        "Papua Neuguinea",
+                        "Papua Neu Guinea"
+                    ],
                     "hint": "",
-                    "text": "Papua New Guinea"
+                    "text": "Papua-Neuguinea"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "One country borders Spain. And it ain't France.",
+                    "altSpellings": [
+                        "Portugiesische Republik"
+                    ],
+                    "hint": "Eines der Länder grenzt an Spanien. Aber es ist nicht Frankreich.",
                     "text": "Portugal"
                 },
                 {
                     "altSpellings": [
-                        "The Philippines"
+                        "Die Philippinen",
+                        "Republik der Philippinen",
+                        "Philipinen"
                     ],
                     "hint": "",
-                    "text": "Philippines"
+                    "text": "Philippinen"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "There are two P-named countries in South America.",
+                    "altSpellings": [
+                        "Paraguaj",
+                        "Republik Paraguay"
+                    ],
+                    "hint": "Eines von zwei Ländern mit “P” in Südamerika.",
                     "text": "Paraguay"
                 },
                 {
-                    "altSpellings": [],
+                    "altSpellings": [
+                        "Republik Palau"
+                    ],
                     "hint": "",
                     "text": "Palau"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "One of these is recognized as a sovereign state. It's on the West Bank of the River Jordan.",
-                    "text": "Palestine"
+                    "altSpellings": [
+                        "Palastina",
+                        "Staat Palästina"
+                    ],
+                    "hint": "Auch wenn einige Länder diesen Staat nicht anerkennen, ist er trotzdem auf dieser Liste.",
+                    "text": "Palästina"
                 }
             ],
             "category": "Geography & Landmarks",
             "exactSpelling": false,
             "id": "83271",
             "isValid": "",
-            "prompt": "What countries start with the letter “P”?",
+            "prompt": "Die Namen welcher Länder starten mit dem Buchstaben “P”?",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -6615,72 +6675,75 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "Two"
+                        "Zwei"
                     ],
-                    "hint": "",
+                    "hint": "Für alle, die den Matheunterricht verschlafen haben: Eine Primzahl ist eine Zahl, die sich nur durch sich selbst und durch Eins teilen lässt.",
                     "text": "2"
                 },
                 {
                     "altSpellings": [
-                        "Three"
+                        "Drei"
                     ],
                     "hint": "",
                     "text": "3"
                 },
                 {
                     "altSpellings": [
-                        "Five"
+                        "Fünf"
                     ],
                     "hint": "",
                     "text": "5"
                 },
                 {
                     "altSpellings": [
-                        "Seven"
+                        "Sieben"
                     ],
                     "hint": "",
                     "text": "7"
                 },
                 {
                     "altSpellings": [
-                        "Eleven"
+                        "Elf"
                     ],
                     "hint": "",
                     "text": "11"
                 },
                 {
                     "altSpellings": [
-                        "Thirteen"
+                        "Dreizehn",
+                        "Drei Zehn"
                     ],
                     "hint": "",
                     "text": "13"
                 },
                 {
                     "altSpellings": [
-                        "Seventeen"
+                        "Siebzehn",
+                        "Sieb Zehn"
                     ],
                     "hint": "",
                     "text": "17"
                 },
                 {
                     "altSpellings": [
-                        "Nineteen"
+                        "Neunzehn",
+                        "Neun Zehn"
                     ],
                     "hint": "",
                     "text": "19"
                 },
                 {
                     "altSpellings": [
-                        "Twenty-Three",
-                        "twenty three"
+                        "Dreiundzwanzig",
+                        "Drei und Zwanzig"
                     ],
                     "hint": "",
                     "text": "23"
                 },
                 {
                     "altSpellings": [
-                        "Twenty-Nine",
-                        "twenty nine"
+                        "Neunundzwanzig",
+                        "Neun und Zwanzig"
                     ],
                     "hint": "",
                     "text": "29"
@@ -6690,9 +6753,9 @@
             "exactSpelling": false,
             "id": "83327",
             "isValid": "",
-            "prompt": "What are all of the prime numbers between 1 and 30?",
+            "prompt": "Nennt mir alle Primzahlen zwischen 1 und 30",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
