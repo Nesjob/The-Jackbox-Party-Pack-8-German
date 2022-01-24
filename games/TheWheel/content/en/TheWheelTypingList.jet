@@ -1457,74 +1457,100 @@
         {
             "answers": [
                 {
-                    "altSpellings": [],
-                    "hint": "(SFX: flute)",
-                    "text": "flute"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "(SFX: piccolo)",
-                    "text": "piccolo"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "(SFX: oboe)",
-                    "text": "oboe"
+                    "altSpellings": [
+                        "Floete"
+                    ],
+                    "hint": "",
+                    "text": "Flöte"
                 },
                 {
                     "altSpellings": [
+                        "Pikkoloflöte",
+                        "Piccolo Flöte",
+                        "Piccolo",
+                        "Pikkolo Flöte",
+                        "Pikkolofloete",
+                        "Piccolofloete",
+                        "Pikkolo"
+                    ],
+                    "hint": "",
+                    "text": "Piccoloflöte"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "",
+                    "text": "Oboe"
+                },
+                {
+                    "altSpellings": [
+                        "Englisch Horn",
                         "cor anglais"
                     ],
-                    "hint": "(SFX: English horn)",
-                    "text": "English horn"
+                    "hint": "",
+                    "text": "Englischhorn"
                 },
                 {
                     "altSpellings": [
-                        "B-flat clarinet",
-                        "bass clarinet",
-                        "E-flat clarinet"
+                        "Klarinete",
+                        "B-Klarinette",
+                        "B KLarinette",
+                        "Bassklarinette",
+                        "Bass Klarinette",
+                        "A-Klarinette",
+                        "A Klarinette",
+                        "Es-Klarinette",
+                        "Es Klarinette",
+                        "Bassetthorn"
                     ],
-                    "hint": "(SFX: clarinet)",
-                    "text": "clarinet"
+                    "hint": "",
+                    "text": "Klarinette"
                 },
                 {
                     "altSpellings": [
-                        "contrabassoon"
+                        "Kontrafagott",
+                        "Fagot",
+                        "Kontra Fagott"
                     ],
-                    "hint": "(SFX: bassoon)",
-                    "text": "bassoon"
+                    "hint": "Eines der Instrumente ist ungefähr 1,35 m hoch. Für euch ist das sicherlich riesig, für mich eher ein Zahnstocher...",
+                    "text": "Fagott"
                 },
                 {
                     "altSpellings": [
-                        "sax",
-                        "alto saxophone",
-                        "soprano saxophone",
-                        "sopranino saxophone",
-                        "tenor saxophone",
-                        "contrabass saxophone",
-                        "baritone saxophone",
-                        "alto sax",
-                        "soprano sax",
-                        "sopranino sax",
-                        "tenor sax",
-                        "baritone sax"
+                        "Saxofon",
+                        "Sopraninosaxofon",
+                        "Sopraninosaxophon",
+                        "Sopransaxofon",
+                        "Sopransaxophon",
+                        "Altsaxofon",
+                        "Altsaxophon",
+                        "Tenorsaxofon",
+                        "Tenorsaxophon",
+                        "Baritonsaxofon",
+                        "Baritonsaxophon",
+                        "Basssaxofon",
+                        "Basssaxophon",
+                        "Kontrabasssaxofon",
+                        "Kontrabasssaxophon"
                     ],
-                    "hint": "One of these woodwinds is brass. And it's very sexy.",
-                    "text": "saxophone"
+                    "hint": "Es reicht schon, wenn das Mundstück aus Holz ist. Nicht, dass ihr euch gleich wundert.",
+                    "text": "Saxophon"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "(SFX: recorder)",
-                    "text": "recorder"
+                    "altSpellings": [
+                        "Block Flöte",
+                        "Blockfloete"
+                    ],
+                    "hint": "Dieses Instrument ist wohl von jeder Weihnachtsfeier mit der Familie nicht wegzudenken.",
+                    "text": "Blockflöte"
                 }
             ],
             "category": "Music",
             "exactSpelling": false,
             "id": "77333",
             "isValid": "",
-            "prompt": "Which woodwind instruments may be found in an orchestra?",
+            "prompt": "Welche Holzblasinstrumente könnte man in einem Orchester hören?",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -2852,69 +2878,80 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "Fiji Water"
-                    ],
-                    "hint": "It's the name of an island!",
-                    "text": "Fiji"
-                },
-                {
-                    "altSpellings": [
-                        "Dasani Water"
+                        "ViO Wasser",
+                        "WiO"
                     ],
                     "hint": "",
-                    "text": "Dasani"
+                    "text": "ViO"
                 },
                 {
                     "altSpellings": [
-                        "Evian Water",
-                        "Evian Sparkling",
-                        "Evian Sparkling Water"
+                        "Wittel",
+                        "Vittel Wasser"
                     ],
                     "hint": "",
-                    "text": "Evian"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "I believe this one raised my IQ from 300 to 301.",
-                    "text": "Smartwater"
+                    "text": "Vittel"
                 },
                 {
                     "altSpellings": [
-                        "perrier water",
-                        "perrier mineral water"
-                    ],
-                    "hint": "This one's french! Oui, oui! If I do say so myself.",
-                    "text": "Perrier"
-                },
-                {
-                    "altSpellings": [
-                        "Voss Water"
-                    ],
-                    "hint": "I buy this one just for the cool bottle. Rhymes with... moss.",
-                    "text": "Voss"
-                },
-                {
-                    "altSpellings": [
-                        "Aquafina Water"
+                        "Apolinaris",
+                        "Apollinaris Wasser"
                     ],
                     "hint": "",
-                    "text": "Aquafina"
+                    "text": "Apollinaris"
                 },
                 {
                     "altSpellings": [
-                        "Poland Spring Water"
+                        "Saskia Wasser",
+                        "Sascia"
                     ],
-                    "hint": "Okay let's hurry this up, Poland Spring Water.",
-                    "text": "Poland Spring"
+                    "hint": "Schmeckt Wasser schlechter, wenn man es aus dem Discounter kauft? Hat jemand von euch Erfahrung damit?",
+                    "text": "Saskia"
+                },
+                {
+                    "altSpellings": [
+                        "Adel Holzener",
+                        "Adelholzener Alpenquellen",
+                        "Adelholzener Wasser"
+                    ],
+                    "hint": "Wasser aus den Alpen? Da sag ich nicht nein!",
+                    "text": "Adelholzener"
+                },
+                {
+                    "altSpellings": [
+                        "Vilsa-Brunnen",
+                        "Vilsa Wasser",
+                        "Wilsa",
+                        "Filsa"
+                    ],
+                    "hint": "",
+                    "text": "Vilsa"
+                },
+                {
+                    "altSpellings": [
+                        "Volvik",
+                        "Volvic Wasser"
+                    ],
+                    "hint": "Oui Oui, Wasser aus Frankreich. Wie edel!",
+                    "text": "Volvic"
+                },
+                {
+                    "altSpellings": [
+                        "Gerolsteiner Wasser",
+                        "Gerol Steiner",
+                        "Gerolsteiner Brunnen"
+                    ],
+                    "hint": "",
+                    "text": "Gerolsteiner"
                 }
             ],
             "category": "Companies & Brands",
             "exactSpelling": false,
             "id": "78663",
             "isValid": "",
-            "prompt": "My 8 Favorite Bottled Water Brands",
+            "prompt": "Meine liebsten 8 Mineralwasser-Marken",
             "subtype": "subjective",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -4616,58 +4653,65 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "apple pie"
+                        "Apfel",
+                        "Apfel Kuchen"
                     ],
-                    "hint": "Classic American pie for a classic non-nation-affiliated wheel.",
-                    "text": "apple"
+                    "hint": "",
+                    "text": "Apfelkuchen"
                 },
                 {
                     "altSpellings": [
-                        "cherry pie"
+                        "Kirsch Kuchen",
+                        "Kirsch",
+                        "Kirschen"
                     ],
-                    "hint": "Tasty, tangy, and oozing red on the inside, just like me.",
-                    "text": "cherry"
+                    "hint": "Zum Anbeißen, wohlgeformt und im Innern Rot, genau wie ich.",
+                    "text": "Kirschkuchen"
                 },
                 {
                     "altSpellings": [
-                        "peach pie"
+                        "Zitronen Kuchen",
+                        "Limettenkuchen",
+                        "Limetten Kuchen",
+                        "Zitrone"
                     ],
-                    "hint": "You gotta roll yourself down to Georgia for THIS treat.",
-                    "text": "peach"
+                    "hint": "",
+                    "text": "Zitronenkuchen"
                 },
                 {
                     "altSpellings": [
-                        "pumpkin pie"
+                        "Bienen Stich"
                     ],
-                    "hint": "This pie's a real jack-o-lantern of all trades.",
-                    "text": "pumpkin"
+                    "hint": "Dieser Kuchen ist echt schmerzhaft gut!",
+                    "text": "Bienenstich"
                 },
                 {
                     "altSpellings": [
-                        "key lime pie"
+                        "Marmor Kuchen"
                     ],
-                    "hint": "Tart with a graham cracker crust, THIS pie puts me in the island mood.",
-                    "text": "key lime"
+                    "hint": "",
+                    "text": "Marmorkuchen"
                 },
                 {
                     "altSpellings": [
-                        "lemon meringue pie",
-                        "lemon cream",
-                        "lemon cream pie",
-                        "lemon custard",
-                        "lemon custard pie",
-                        "iced lemon pie",
-                        "iced lemon"
+                        "Käse",
+                        "Käse Kuchen",
+                        "Quarkkuchen",
+                        "Quark Kuchen",
+                        "Quark",
+                        "Joghurtkuchen",
+                        "Joghurt Kuchen",
+                        "Joghurt"
                     ],
-                    "hint": "Balance out the sour with a little bit of whipped, hard-to-bake sweet. Pucker up!",
-                    "text": "lemon meringue"
+                    "hint": "Dieser Kuchen ist auch ohne Reifezeit sehr lecker.",
+                    "text": "Käsekuchen"
                 }
             ],
             "category": "Food & Drink",
             "exactSpelling": false,
             "id": "79502",
             "isValid": "",
-            "prompt": "I Wish My Facial Slices Were Filled With These 6 [i]Pies[/i] Instead of Your Names",
+            "prompt": "Meine 6 Lieblingskuchen",
             "subtype": "subjective",
             "us": true,
             "x": false
@@ -6761,43 +6805,67 @@
         {
             "answers": [
                 {
-                    "altSpellings": [],
-                    "hint": "This state is named after a queen.",
+                    "altSpellings": [
+                        "Marryland",
+                        "Mariland",
+                        "Mary Land"
+                    ],
+                    "hint": "Dieser Staat wurde benannt nach Henrietta Maria, auch bekannt als “Queen Mary”.",
                     "text": "Maryland"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "Don't forget your mittens when you're visiting this northern state shaped like a mitten.",
+                    "hint": "In diesem Staat gründete Henry Ford im Jahr 1903 einen kleinen Automobilkonzern.",
                     "text": "Michigan"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "This states nickname is Big Sky Country.",
+                    "altSpellings": [
+                        "Mondana"
+                    ],
+                    "hint": "Einer der Staaten ist ein bisschen größer als Deutschland, gleichzeitig leben dort aber nur rund 1 Million Menschen.",
                     "text": "Montana"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "Despite not being Kansas, this state's largest city is Kansas City.",
+                    "altSpellings": [
+                        "Misouri",
+                        "Missuri",
+                        "Misuri"
+                    ],
+                    "hint": "",
                     "text": "Missouri"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "(boston accent) Go Sox!",
+                    "altSpellings": [
+                        "Masachusetts",
+                        "Massachusets",
+                        "Masachusets",
+                        "Massachussetts"
+                    ],
+                    "hint": "",
                     "text": "Massachusetts"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "A beloved state to spell, this long name matches the long river it's named for.",
+                    "altSpellings": [
+                        "Missisippi",
+                        "Misissippi",
+                        "Mississipi"
+                    ],
+                    "hint": "Ich bin mir sicher, nicht mal Amerikaner wissen, wie man diesen Staat und den dazugehörigen Fluss richtig schreibt. Daher: Viel Glück!",
                     "text": "Mississippi"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "This state is known as the Land of 10,000 Lakes.",
+                    "altSpellings": [
+                        "Minesota"
+                    ],
+                    "hint": "",
                     "text": "Minnesota"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "The main attraction in this state is lobster. The main deterrent is Stephen King.",
+                    "altSpellings": [
+                        "Mayne",
+                        "Main"
+                    ],
+                    "hint": "",
                     "text": "Maine"
                 }
             ],
@@ -6805,9 +6873,9 @@
             "exactSpelling": false,
             "id": "83328",
             "isValid": "",
-            "prompt": "What are the 8 U.S. states that begin with the letter “M”?",
+            "prompt": "Welche 8 US-Bundesstaaten beginnen mit dem Buchstaben “M”?",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
