@@ -3168,7 +3168,7 @@
             "isValid": "",
             "prompt": "9 unterschiedliche Begriffe für “Auto”",
             "subtype": "subjective",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -4315,16 +4315,16 @@
                 {
                     "altSpellings": [
                         "mini iPad",
-                        "an iPad",
-                        "an iPad mini"
+                        "ein iPad",
+                        "ein iPad mini"
                     ],
-                    "hint": "It's like an iPad, but smaller.",
+                    "hint": "Es ist wie ein iPad, aber kleiner.",
                     "text": "iPad mini"
                 },
                 {
                     "altSpellings": [
-                        "The iPhone",
-                        "an iPhone"
+                        "Das iPhone",
+                        "ein iPhone"
                     ],
                     "hint": "",
                     "text": "iPhone"
@@ -4333,7 +4333,7 @@
                     "altSpellings": [
                         "Watch"
                     ],
-                    "hint": "You wear it on your wrist.",
+                    "hint": "Du trägst sie an deinem Handgelenk.",
                     "text": "Apple Watch"
                 },
                 {
@@ -4345,7 +4345,7 @@
                 },
                 {
                     "altSpellings": [
-                        "Apple Headphones",
+                        "Apple Kopfhörer",
                         "AirPods Pro"
                     ],
                     "hint": "",
@@ -4356,7 +4356,7 @@
                         "the ipod",
                         "an ipod"
                     ],
-                    "hint": "This is a device that stored music in the olden days.",
+                    "hint": "Mit diesem Gerät habe selbst ich früher immer Musik gehört.",
                     "text": "iPod"
                 }
             ],
@@ -4364,9 +4364,9 @@
             "exactSpelling": false,
             "id": "79461",
             "isValid": "",
-            "prompt": "Which 6 Apple products can fit in a standard shoebox?",
+            "prompt": "Welche 6 Apple Produkte passen in meinen Schuhkarton?",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -4439,43 +4439,48 @@
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "triangle"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "It has 8 sides! Now that would be cool. To have sides I mean.",
-                    "text": "octagon"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "square"
+                    "text": "Dreieck"
                 },
                 {
                     "altSpellings": [
-                        "rhombus"
+                        "Achteck"
                     ],
-                    "hint": "They say THIS one is a girl's best friend!",
-                    "text": "diamond"
+                    "hint": "Es hat acht Seiten! Wie cool wäre das denn bitte? Also... Seiten zu haben.",
+                    "text": "Oktagon"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "rectangle"
+                    "text": "Quadrat"
+                },
+                {
+                    "altSpellings": [
+                        "Rhombus"
+                    ],
+                    "hint": "",
+                    "text": "Raute"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "This one would make me look like the coolest stop sign ever.",
-                    "text": "hexagon"
+                    "hint": "",
+                    "text": "Rechteck"
+                },
+                {
+                    "altSpellings": [
+                        "Sechseck",
+                        "Achteck"
+                    ],
+                    "hint": "Damit würde ich wie das coolste Stoppschild der Welt aussehen.",
+                    "text": "Hexagon"
                 }
             ],
             "category": "Math",
             "exactSpelling": false,
             "id": "79467",
             "isValid": "",
-            "prompt": "The 6 Shapes I Would Like to Be If I Weren't a Wheel",
+            "prompt": "Die 6 Formen, die ich gerne hätte, wenn ich kein Rad wäre",
             "subtype": "subjective",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -4976,54 +4981,38 @@
         {
             "answers": [
                 {
-                    "altSpellings": [
-                        "bhang"
-                    ],
-                    "text": "bang"
+                    "altSpellings": [],
+                    "text": "Blei"
                 },
                 {
-                    "text": "clang"
+                    "text": "Brei"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "Come on, meeples! Put your teeth into it.",
-                    "text": "fang"
+                    "text": "Hai"
                 },
                 {
-                    "text": "gang"
+                    "text": "Mai",
+                    "hint": "Kommt schon Leute, denkt an meinen Lieblings-Monat."
                 },
                 {
-                    "text": "hang"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Ding dong! Hey, was that the doorbell?",
-                    "text": "rang"
-                },
-                {
-                    "text": "sang"
-                },
-                {
-                    "hint": "What's another word for lingo?",
-                    "text": "slang"
-                },
-                {
-                    "hint": "I'm thinking of a word that's kind of like \"zest.\" Maybe a bit sour.",
-                    "text": "tang"
+                    "text": "Schrei"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "Really good trivia makes my heart feel one of these things.",
-                    "text": "pang"
+                    "text": "Thai"
+                },
+                {
+                    "text": "Zwei"
                 }
             ],
             "category": "Language/Words/Grammar",
             "exactSpelling": true,
             "id": "79614",
             "isValid": "",
-            "prompt": "What rhymes with “dang”? (one-syllable common words only)",
+            "prompt": "Was reimt sich auf “Drei”? (nur einsilbige, bekannte Nomen)",
             "subtype": "rhyme",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -6875,7 +6864,7 @@
             "isValid": "",
             "prompt": "Welche 8 US-Bundesstaaten beginnen mit dem Buchstaben “M”?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
