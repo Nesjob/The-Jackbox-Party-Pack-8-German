@@ -46,44 +46,37 @@
   },
   {
    "altSpellings": [
-    "Calvin and Hobbes",
-    "Calvin n Hobbes",
-    "Calvin Hobbes",
-    "Hobbes & Calvin",
-    "Hobbes and Calvin",
-    "Hobbes n Calvin",
-    "Calvin and Hobs",
-    "Calvin & Hobs",
-    "Calvin Hobs"
+    "Bernd",
+    "Bernd Brot"
    ],
-   "answer": "[i]Calvin & Hobbes[/i]",
+   "answer": "Bernd das Brot",
    "category": "Animation/Comic Books",
    "clues": [
     {
-     "clue": "The strip launched in November 1985."
+     "clue": "Die Figur ist meistens zu späteren Stunden im Öffentlich-Rechtlichen Fernsehen zu sehen."
     },
     {
-     "clue": "It deals with a special friendship.",
+     "clue": "Die Figur ist nicht besonders groß.",
      "clueComment": ""
     },
     {
-     "clue": "The lead character appears, unlicensed, on bumper stickers.",
-     "clueComment": "The lead character appears, unlicensed, on bumper stickers. Often peeing on something."
+     "clue": "Die Figur ist zwar im Kinderkanal zu sehen, aber sie spricht auch Erwachsene an.",
+     "clueComment": ""
     },
     {
-     "clue": "The title characters are named for a philosopher and a theologian.",
-     "clueComment": "The title characters are named for a philosopher and a theologian. No, it wasn't called Karl Marx and Kierkegaard."
+     "clue": "Die Figur ist meist mies gelaunt und versucht oft, aus dem Fernsehstudio zu entkommen.",
+     "clueComment": "Die Figur ist meist mies gelaunt und versucht oft, aus dem Fernsehstudio zu entkommen. Rechts raus und links wieder rein, hab ich Recht?"
     },
     {
-     "clue": "One of them is a little blonde boy and the other is a tiger."
+     "clue": "Die Figur hat viel zu kurze Arme und besteht zu mehr als 90 Prozent aus Weizenmehl."
     }
    ],
-   "followup": "Remember those?",
+   "followup": "Seid ihr drauf gekommen? Mist.",
    "id": "79663",
    "isValid": "",
-   "prompt": "What is my favorite comic strip?",
+   "prompt": "Was ist meine Lieblingsfigur aus dem Fernsehen?",
    "reveal": null,
-   "us": true,
+   "us": false,
    "x": false
   },
   {
