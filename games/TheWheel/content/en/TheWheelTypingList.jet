@@ -4013,69 +4013,77 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "Tomatoes"
+                        "Nektarinen",
+                        "Pfirsich",
+                        "Pfirsiche"
+                    ],
+                    "hint": "Wie sagt man so gern: Weiche Schale, harter Kern!",
+                    "text": "Nektarine"
+                },
+                {
+                    "altSpellings": [
+                        "Bananen"
+                    ],
+                    "hint": "Gelblich, lang und lecker, versteckt dieses Obst seinen köstlichen Inhalt unter einer Schale.",
+                    "text": "Banane"
+                },
+                {
+                    "altSpellings": [
+                        "Zitronen",
+                        "Limette",
+                        "Limetten"
                     ],
                     "hint": "",
-                    "text": "tomato"
+                    "text": "Zitrone"
                 },
                 {
                     "altSpellings": [
-                        "Carrot"
-                    ],
-                    "hint": "Orange you glad this orange vegetable is in there?",
-                    "text": "carrots"
-                },
-                {
-                    "altSpellings": [
-                        "celery sticks"
+                        "Mangos"
                     ],
                     "hint": "",
-                    "text": "celery"
+                    "text": "Mango"
                 },
                 {
                     "altSpellings": [
-                        "Beet"
+                        "Maracuja",
+                        "Mara Cuja",
+                        "Passionsfrucht",
+                        "Passions Frucht",
+                        "Maracujas"
                     ],
                     "hint": "",
-                    "text": "beets"
+                    "text": "Maracuja"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "Nimmt man es genau, ist dieses Obst eine Art der Beere, nimmt man es noch genauer eine 1,4 kg schwere Beere.",
+                    "text": "Ananas"
                 },
                 {
                     "altSpellings": [
-                        "parsley leaves",
-                        "parsley herb"
+                        "Orangen",
+                        "Apfelsine",
+                        "Apfel Sine",
+                        "Apfelsinen"
                     ],
-                    "hint": "V8 contains this common herb, and not too sparsely.",
-                    "text": "parsley"
+                    "hint": "",
+                    "text": "Orange"
                 },
                 {
                     "altSpellings": [
-                        "iceberg lettuce"
+                        "Äpfel"
                     ],
-                    "hint": "Lettuce be clear: I will not leaf you hanging! That was a hint.",
-                    "text": "lettuce"
-                },
-                {
-                    "altSpellings": [
-                        "water cress"
-                    ],
-                    "hint": "Did you know watercress is in V8? It's true. Type \"watercress\".",
-                    "text": "watercress"
-                },
-                {
-                    "altSpellings": [
-                        "spinach leaves"
-                    ],
-                    "hint": "Every can of V8 includes a little bit of Popeye's favorite vegetable.",
-                    "text": "spinach"
+                    "hint": "",
+                    "text": "Apfel"
                 }
             ],
             "category": "Food & Drink",
             "exactSpelling": false,
             "id": "79413",
             "isValid": "",
-            "prompt": "What are the 8 original V8 veggies?",
+            "prompt": "Aus welchen Früchten besteht der klassische “[i]hohes C[/i]”-Multivitaminsaft?",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -4718,7 +4726,7 @@
             "isValid": "",
             "prompt": "Meine 6 Lieblingskuchen",
             "subtype": "subjective",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -5186,104 +5194,149 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "AK"
+                        "Rusland",
+                        "Russische Förderation",
+                        "Russische SFSR"
                     ],
-                    "hint": "You all need to get your BERINGS ... straight.",
-                    "text": "Alaska"
+                    "hint": "(singend)“Moskau, Moskau, deine Seele ist so groß...”",
+                    "text": "Russland"
                 },
                 {
                     "altSpellings": [
-                        "WA"
-                    ],
-                    "hint": "Think \"west,\" like as west as you can go.",
-                    "text": "Washington"
-                },
-                {
-                    "altSpellings": [
-                        "ID"
-                    ],
-                    "hint": "Potatoes, anyone? Taters?",
-                    "text": "Idaho"
-                },
-                {
-                    "altSpellings": [
-                        "MT"
-                    ],
-                    "hint": "Don't forget Big Sky Country.",
-                    "text": "Montana"
-                },
-                {
-                    "altSpellings": [
-                        "ND",
-                        "N. Dakota"
-                    ],
-                    "hint": "What's the state with Mount Rushmore? Is it that one? Not sure.",
-                    "text": "North Dakota"
-                },
-                {
-                    "altSpellings": [
-                        "MN"
-                    ],
-                    "hint": "If there's one you cannot miss, it's this one. Just imagine Canada, but with a gigantic mall.",
-                    "text": "Minnesota"
-                },
-                {
-                    "altSpellings": [
-                        "MI"
+                        "Weißrussland",
+                        "Weiß Russland",
+                        "Republik Belarus",
+                        "Belarussische SSR"
                     ],
                     "hint": "",
-                    "text": "Michigan"
+                    "text": "Belarus"
                 },
                 {
                     "altSpellings": [
-                        "OH"
+                        "Republik Usbekistan",
+                        "Usbecistan",
+                        "Usbekische SSR"
                     ],
-                    "hint": "The password for this state is... Lake Erie. Good luck.",
-                    "text": "Ohio"
+                    "hint": "Der größte Teil dieses Landes ist von Wüsten eingenommen.",
+                    "text": "Usbekistan"
                 },
                 {
                     "altSpellings": [
-                        "PA"
+                        "Ucraine",
+                        "Ukrainische SSR"
                     ],
-                    "hint": "Did you know Ben Franklin visited Canada? He had that stupid hat to keep him warm I guess.",
-                    "text": "Pennsylvania"
+                    "hint": "Die Hauptstadt dieses Landes ist Kiew.",
+                    "text": "Ukraine"
                 },
                 {
                     "altSpellings": [
-                        "NY"
-                    ],
-                    "hint": "It's only the 4th most populated state in the US. Easy to forget.",
-                    "text": "New York"
-                },
-                {
-                    "altSpellings": [
-                        "VT"
-                    ],
-                    "hint": "I wonder if Bernie Sanders ever went to Canada.",
-                    "text": "Vermont"
-                },
-                {
-                    "altSpellings": [
-                        "NH"
+                        "Republik Turkmenistan",
+                        "Turcmenistan",
+                        "Turkmenien"
                     ],
                     "hint": "",
-                    "text": "New Hampshire"
+                    "text": "Turkmenistan"
                 },
                 {
                     "altSpellings": [
-                        "ME"
+                        "Republik Tadschikistan",
+                        "Tadchikistan",
+                        "Tadschicistan",
+                        "Tatschikistan",
+                        "Tadschikische SSR"
                     ],
-                    "hint": "I'm sure Stephen King's spent time in Canada. Polite and scary is a terrifying combo.",
-                    "text": "Maine"
+                    "hint": "",
+                    "text": "Tadschikistan"
+                },
+                {
+                    "altSpellings": [
+                        "Moldawien",
+                        "Moldavien",
+                        "Republik Moldau",
+                        "Moldauische SSR"
+                    ],
+                    "hint": "Dieses Land trägt denselben Namen wie der Fluss, den der Komponist Bedrich Smetana mit seinem weltbekannten Musikstück geehrt hat.",
+                    "text": "Moldau"
+                },
+                {
+                    "altSpellings": [
+                        "Littauen",
+                        "Republik Litauen",
+                        "Litauische SSR"
+                    ],
+                    "hint": "Die Hauptstadt dieses Landes heißt Vilnius, strengt euch an, das habt ihr hundertprozentig schon mal irgendwo gehört!",
+                    "text": "Litauen"
+                },
+                {
+                    "altSpellings": [
+                        "Letland",
+                        "Republik Lettland",
+                        "Lettische SSR"
+                    ],
+                    "hint": "",
+                    "text": "Lettland"
+                },
+                {
+                    "altSpellings": [
+                        "Cirgistan",
+                        "Kirkistan",
+                        "Kirgisische Republik",
+                        "Kirgistan",
+                        "Kirgisien",
+                        "Kirgisische SSR"
+                    ],
+                    "hint": "",
+                    "text": "Kirgisistan"
+                },
+                {
+                    "altSpellings": [
+                        "Casachstan",
+                        "Republik Kasachstan",
+                        "Kasachische SSR"
+                    ],
+                    "hint": "Dieses Land mit “K” ist der größte Binnenstaat und immerhin das neuntgrößte Land der Welt.",
+                    "text": "Kasachstan"
+                },
+                {
+                    "altSpellings": [
+                        "Georgische SSR"
+                    ],
+                    "hint": "Dieses Land, welches früher in Deutschland auch als “Grusien” bezeichnet wurde, liegt in Vorderasien.",
+                    "text": "Georgien"
+                },
+                {
+                    "altSpellings": [
+                        "Republik Estland",
+                        "Estnische SSR"
+                    ],
+                    "hint": "Seit 2004 Teil der EU, ist dieses Land an der östlichen Küste der Ostsee ein echter Musterschüler.",
+                    "text": "Estland"
+                },
+                {
+                    "altSpellings": [
+                        "Republik Aserbaidschan",
+                        "Aserbaitchan",
+                        "Aserbaidschanische SSR"
+                    ],
+                    "hint": "",
+                    "text": "Aserbaidschan"
+                },
+                {
+                    "altSpellings": [
+                        "Republik Armenien",
+                        "Armenische SSR"
+                    ],
+                    "hint": "",
+                    "text": "Armenien"
                 }
             ],
-            "category": "Geography & Landmarks",
-            "exactSpelling": true,
+            "category": "History",
+            "exactSpelling": false,
             "id": "80323",
             "isValid": "",
-            "prompt": "Which U.S. states border Canada?",
+            "prompt": "Welche Länder waren ehemals Teil der Sowjetunion?",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -5291,33 +5344,37 @@
                 {
                     "altSpellings": [
                         "Homie",
-                        "Homer Simpson"
+                        "Homer Simpson",
+                        "Homer Jay Simpson"
                     ],
-                    "hint": "He didn't write the Odyssey.",
+                    "hint": "D'oh!",
                     "text": "Homer"
                 },
                 {
                     "altSpellings": [
                         "Margie",
                         "Marjorie",
-                        "Marge Simpson"
+                        "Marge Simpson",
+                        "Marjorie Jacqueline Simpson"
                     ],
-                    "hint": "The matriarch wears her hair in a LARGE beehive!",
+                    "hint": "Die Stimme der Vernunft bei den Simpsons trägt ihr blaues Haar in Form eines RIESIGEN Bienenstocks.",
                     "text": "Marge"
                 },
                 {
                     "altSpellings": [
                         "Bartholomew",
-                        "Bort",
+                        "JoJo",
+                        "Bartholomew JoJo Simpson",
                         "Bart Simpson"
                     ],
-                    "hint": "If you don't get this, you're gonna have a cow, man!",
+                    "hint": "Friss meine Shorts, wusstet ihr, dass Schildkröten keine Kreisel sind?",
                     "text": "Bart"
                 },
                 {
                     "altSpellings": [
                         "Lisa Marie",
-                        "Lisa Simpson"
+                        "Lisa Simpson",
+                        "Lisa Marie Simpson"
                     ],
                     "hint": "",
                     "text": "Lisa"
@@ -5325,9 +5382,11 @@
                 {
                     "altSpellings": [
                         "Margaret",
-                        "Maggie Simpson"
+                        "Maggie Simpson",
+                        "Margaret Simpson",
+                        "Magie"
                     ],
-                    "hint": "",
+                    "hint": "Das Nesthäkchen der Familie.",
                     "text": "Maggie"
                 }
             ],
@@ -5335,9 +5394,9 @@
             "exactSpelling": false,
             "id": "82672",
             "isValid": "",
-            "prompt": "Who are the 5 primary members of the [i]Simpsons[/i] family?",
+            "prompt": "Wie heißen die 5 Familienmitglieder der [i]Simpsons[/i]?",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -5639,87 +5698,80 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "Bill Clinton",
-                        "William Jefferson Clinton",
-                        "Bill",
-                        "The Comeback Kid"
-                    ],
-                    "hint": "This man's wife also ran for president.",
-                    "text": "Clinton"
-                },
-                {
-                    "altSpellings": [
-                        "George Herbert Walker Bush",
-                        "H. W. Bush",
-                        "George",
-                        "George Bush",
-                        "George H. W. Bush",
-                        "George H. Bush",
-                        "Bush Senior",
-                        "Bush Sr"
-                    ],
-                    "hint": "This man's son was also president in the next century.",
-                    "text": "Bush"
-                },
-                {
-                    "altSpellings": [
-                        "Ronald Reagan",
-                        "Ronald Wilson Reagan",
-                        "Ronnie"
-                    ],
-                    "hint": "One was formerly the governor of California and, before that, in movies.",
-                    "text": "Reagan"
-                },
-                {
-                    "altSpellings": [
-                        "James Carter",
-                        "James Earl Carter",
-                        "Jimmy Carter",
-                        "Jimmy"
+                        "Adenauer",
+                        "Konradt Adenauer",
+                        "Konrad Hermann Joseph Adenauer"
                     ],
                     "hint": "",
-                    "text": "Carter"
+                    "text": "Konrad Adenauer"
                 },
                 {
                     "altSpellings": [
-                        "Gerald R. Ford",
-                        "Gerald Rudolph Ford",
-                        "Jerry",
-                        "Gerald Ford"
+                        "Gerd Schröder",
+                        "Schröder",
+                        "Schroeder",
+                        "Gerhardt Schröder",
+                        "Gerhard Fritz Kurt Schröder"
                     ],
                     "hint": "",
-                    "text": "Ford"
+                    "text": "Gerhard Schröder"
                 },
                 {
                     "altSpellings": [
-                        "Richard M. Nixon",
-                        "Richard Milhouse Nixon",
-                        "Dick",
-                        "Richard Nixon",
-                        "Tricky Dick"
+                        "Kohl",
+                        "Helmut Josef Michael Kohl",
+                        "Helmud Kohl"
                     ],
-                    "hint": "This one was the first president to resign in office.",
-                    "text": "Nixon"
+                    "hint": "",
+                    "text": "Helmut Kohl"
                 },
                 {
                     "altSpellings": [
-                        "LBJ",
-                        "Lyndon B. Johnson",
-                        "Lyndon Baines Johnson",
-                        "Lyndon",
-                        "Lyndon Johnson"
+                        "Schmidt",
+                        "Helmut Schmid",
+                        "Helmut Heinrich Waldemar Schmidt"
                     ],
-                    "hint": "This one became president after JFK was assassinated.",
-                    "text": "Johnson"
+                    "hint": "",
+                    "text": "Helmut Schmidt"
+                },
+                {
+                    "altSpellings": [
+                        "Wily Brandt",
+                        "Willy Brand",
+                        "Brandt",
+                        "Brand"
+                    ],
+                    "hint": "Der erste Bundeskanzler der SPD.",
+                    "text": "Willy Brandt"
+                },
+                {
+                    "altSpellings": [
+                        "Kurt Kiesinger",
+                        "Georg Kiesinger",
+                        "Kiesinger"
+                    ],
+                    "hint": "",
+                    "text": "Kurt Georg Kiesinger"
+                },
+                {
+                    "altSpellings": [
+                        "Erhard",
+                        "Erhardt",
+                        "Ludwig Erhardt",
+                        "Ludwich Erhard",
+                        "Ludwig Wilhelm Erhard"
+                    ],
+                    "hint": "Noch heute ist dieser Kanzler als Vater der sozialen Marktwirtschaft bekannnt.",
+                    "text": "Ludwig Erhard"
                 }
             ],
             "category": "Historical Figures",
             "exactSpelling": false,
             "id": "82707",
             "isValid": "",
-            "prompt": "Who were the last 7 U.S. Presidents of the 20th century?",
+            "prompt": "Die deutschen Bundeskanzler, deren Amtszeit im 20. Jahrhundert begann",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -6398,54 +6450,110 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "Airies",
-                        "Airyes"
-                    ],
-                    "hint": "What's the sign of the ram?",
-                    "text": "Aries"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Roooaaar! (clears throat)",
-                    "text": "Leo"
-                },
-                {
-                    "altSpellings": [
-                        "Sagitearius",
-                        "Sagitareous"
+                        "Stein Bock",
+                        "Capricornus"
                     ],
                     "hint": "",
-                    "text": "Sagittarius"
+                    "text": "Steinbock"
                 },
                 {
                     "altSpellings": [
-                        "Scorepio",
-                        "Squorpio",
-                        "Scorpyo"
+                        "Schuetze",
+                        "Schützen",
+                        "Sagittarius"
+                    ],
+                    "hint": "Mit Pfeil und Bogen stets bereit, im Winter dieses Sternzeichen zu Dienste eilt!",
+                    "text": "Schütze"
+                },
+                {
+                    "altSpellings": [
+                        "Scorpio"
+                    ],
+                    "hint": "Hat jemand von euch dieses Sternzeichen? Wenn ja, dann seid bitte vorsichtig mit eurem Stachel, der ist giftig!",
+                    "text": "Skorpion"
+                },
+                {
+                    "altSpellings": [
+                        "Waagen",
+                        "Libra"
                     ],
                     "hint": "",
-                    "text": "Scorpio"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Why do I have a craving for crab?",
-                    "text": "Cancer"
+                    "text": "Waage"
                 },
                 {
                     "altSpellings": [
-                        "Pieces"
+                        "Jung Frau",
+                        "Virgo"
                     ],
-                    "hint": "Think... fish.",
-                    "text": "Pisces"
+                    "hint": "",
+                    "text": "Jungfrau"
+                },
+                {
+                    "altSpellings": [
+                        "Loewe",
+                        "Löwen",
+                        "Leo"
+                    ],
+                    "hint": "",
+                    "text": "Löwe"
+                },
+                {
+                    "altSpellings": [
+                        "Krebse",
+                        "Krabbe",
+                        "Cancer"
+                    ],
+                    "hint": "",
+                    "text": "Krebs"
+                },
+                {
+                    "altSpellings": [
+                        "Zwilling",
+                        "Gemini"
+                    ],
+                    "hint": "",
+                    "text": "Zwillinge"
+                },
+                {
+                    "altSpellings": [
+                        "Tauros",
+                        "Stiere"
+                    ],
+                    "hint": "",
+                    "text": "Stier"
+                },
+                {
+                    "altSpellings": [
+                        "Wider",
+                        "Aries"
+                    ],
+                    "hint": "Dieses Sternzeichen ist benannt nach einem männlichen Schaf.",
+                    "text": "Widder"
+                },
+                {
+                    "altSpellings": [
+                        "Fisch",
+                        "Pisces"
+                    ],
+                    "hint": "Was riecht hier denn so unangenehm?",
+                    "text": "Fische"
+                },
+                {
+                    "altSpellings": [
+                        "Aquaris",
+                        "Wasser Mann"
+                    ],
+                    "hint": "",
+                    "text": "Wassermann"
                 }
             ],
             "category": "Religion",
             "exactSpelling": false,
             "id": "83273",
             "isValid": "",
-            "prompt": "What are the 6 fire and water signs of the zodiac?",
+            "prompt": "Alle 12 Sternzeichen des Jahres",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
