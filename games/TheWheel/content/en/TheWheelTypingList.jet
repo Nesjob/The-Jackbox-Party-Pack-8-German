@@ -7120,7 +7120,7 @@
             "exactSpelling": false,
             "id": "83335",
             "isValid": "",
-            "prompt": "Wie heißen die 5 Ozeane der Erde?",
+            "prompt": "Wie heißen die 5 Ozeane?",
             "subtype": "name",
             "us": false,
             "x": false
