@@ -5324,7 +5324,7 @@
                         "Homer Simpson",
                         "Homer Jay Simpson"
                     ],
-                    "hint": "D'oh!",
+                    "hint": "Nein!",
                     "text": "Homer"
                 },
                 {
@@ -6528,7 +6528,7 @@
             "exactSpelling": false,
             "id": "83273",
             "isValid": "",
-            "prompt": "Alle 12 Sternzeichen des Jahres",
+            "prompt": "Wie lauten die 12 Sternzeichen?",
             "subtype": "name",
             "us": false,
             "x": false
