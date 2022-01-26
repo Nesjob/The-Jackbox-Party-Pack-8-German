@@ -4381,65 +4381,67 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "semi-sweet chocolate",
-                        "bittersweet chocolate"
+                        "Zartbitterschokolade",
+                        "Bitterschokolade",
+                        "Zartbitter Schokolade",
+                        "Schokolade"
                     ],
-                    "hint": "Oh come on, it's in the name people!",
-                    "text": "chocolate"
+                    "hint": "Es steht im Namen zart und braun, jetzt fangt schon an euch die Frage anzuschauen! Warte, warum reime ich überhaupt?",
+                    "text": "Zartbitterschokolade"
+                },
+                {
+                    "altSpellings": [
+                        "Ei"
+                    ],
+                    "hint": "Im 6er-Pack gekauft im Markt, über Nacht schnell im Kühlschrank geparkt.",
+                    "text": "Eier"
+                },
+                {
+                    "altSpellings": [
+                        "Weizenmehl",
+                        "Weizen Mehl"
+                    ],
+                    "hint": "",
+                    "text": "Mehl"
+                },
+                {
+                    "altSpellings": [
+                        "Meersalz",
+                        "Meer Salz"
+                    ],
+                    "hint": "Eine feine Prise hiervon in den Teig, schon wird das Ergebnis zu einem Strike!",
+                    "text": "Salz"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "If you wanna make a souffle you gotta crack a couple of these babies.",
-                    "text": "eggs"
+                    "hint": "",
+                    "text": "Zucker"
                 },
                 {
                     "altSpellings": [
-                        "cream of tartar",
-                        "tartar",
-                        "tartar cream",
-                        "cream tartar"
+                        "Kakao Pulver",
+                        "Backkakao",
+                        "Kakaopulver",
+                        "Back Kakao"
                     ],
                     "hint": "",
-                    "text": "cream"
+                    "text": "Kakao"
                 },
                 {
                     "altSpellings": [
-                        "sea salt"
-                    ],
-                    "hint": "Can't believe you haven't thought of putting in a pinch of this.",
-                    "text": "salt"
-                },
-                {
-                    "altSpellings": [
-                        "granulated sugar"
+                        "ungesalzene Butter"
                     ],
                     "hint": "",
-                    "text": "sugar"
-                },
-                {
-                    "altSpellings": [
-                        "vanilla"
-                    ],
-                    "hint": "I'll give you a hint... it's an extract... made from vanilla.",
-                    "text": "vanilla extract"
-                },
-                {
-                    "altSpellings": [
-                        "butter stick",
-                        "stick of butter",
-                        "unsalted butter"
-                    ],
-                    "hint": "",
-                    "text": "butter"
+                    "text": "Butter"
                 }
             ],
             "category": "Food & Drink",
             "exactSpelling": false,
             "id": "79462",
             "isValid": "",
-            "prompt": "What are the ingredients in a chocolate soufflé?",
+            "prompt": "Welche Zutaten braucht man für Schokoladensoufflé?",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -5026,58 +5028,33 @@
         {
             "answers": [
                 {
-                    "altSpellings": [
-                        "cort"
-                    ],
-                    "text": "court"
+                    "text": "Vier"
                 },
                 {
-                    "altSpellings": [
-                        "forte"
-                    ],
-                    "text": "fort"
+                    "hint": "Was findet man denn normalerweise in einem Zoo?",
+                    "text": "Tier"
                 },
                 {
-                    "text": "port"
+                    "text": "Pier"
                 },
                 {
-                    "text": "quart"
+                    "text": "Zier"
                 },
                 {
-                    "text": "short"
+                    "text": "Stier"
                 },
                 {
-                    "text": "skort"
-                },
-                {
-                    "text": "snort"
-                },
-                {
-                    "text": "sort"
-                },
-                {
-                    "text": "sport"
-                },
-                {
-                    "text": "thwart"
-                },
-                {
-                    "altSpellings": [
-                        "torte"
-                    ],
-                    "text": "tort"
-                },
-                {
-                    "text": "wart"
+                    "hint": "Denkt an ein alkoholisches Getränk.",
+                    "text": "Bier"
                 }
             ],
             "category": "Language/Words/Grammar",
             "exactSpelling": true,
             "id": "79615",
             "isValid": "",
-            "prompt": "What rhymes with “Bort”? (one-syllable common words only)",
+            "prompt": "Was reimt sich auf “Gier”? (nur einsilbige, bekannte Nomen)",
             "subtype": "rhyme",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -7035,12 +7012,11 @@
                         "Q3",
                         "Quip 3"
                     ],
-                    "hint": "You can learn more about this game at jackboxgames dot com slash quiplash dash three! What a time to be alive!",
+                    "hint": "Was soll das heißen, das ist DREIste Eigenwerbung? Das ist QUIPlich eine Frechheit!",
                     "text": "[i]Quiplash 3[/i]"
                 },
                 {
                     "altSpellings": [
-                        "The Devs and the Details",
                         "Devils",
                         "Devils and the Details",
                         "Devils and Details",
@@ -7050,29 +7026,33 @@
                         "Devils Details",
                         "The Devils and Details"
                     ],
-                    "hint": "3 to 8 players can play this game! Wow! For more information, go to jackboxgames dot com slash the dash devils dash and dash the dash details!",
+                    "hint": "Wusstet ihr, dass der TEUFEL mit seiner Familie ganz in der Nähe wohnt? Aber Vorsicht, er scheint echt DETAILverliebt zu sein...",
                     "text": "[i]The Devils and the Details[/i]"
                 },
                 {
                     "altSpellings": [
-                        "Champd"
+                        "Champd",
+                        "Champd UP",
+                        "Champing UP"
                     ],
-                    "hint": "I've been told I'll get a small commission if you go to jackboxgames dot com slash champd dash up!",
+                    "hint": "In diesem Spiel zeichnet ihr einen Champion, der für euch gegen verrückte Kontrahenten antritt! Wer wird wohl siegen?",
                     "text": "[i]Champ’d Up[/i]"
                 },
                 {
                     "altSpellings": [
-                        "Talk Points"
+                        "Talk Points",
+                        "Talked Points"
                     ],
-                    "hint": "Sometimes I like to go to jackboxgames dot com slash talking dash points! It's how I manage to look so young and spin so smoothly.",
+                    "hint": "Willkommen bei meiner Präsentation zum Thema: “Sich bei einer Präsentation nicht komplett blamieren”. Die Kurzfassung: Spielt dieses Spiel!",
                     "text": "[i]Talking Points[/i]"
                 },
                 {
                     "altSpellings": [
                         "Blather Around",
-                        "Blather"
+                        "Blather",
+                        "Blater Around"
                     ],
-                    "hint": "Wow! How many games have the great internet domain jackboxgames dot com slash blather dash round? There's one that FOR SURE does!",
+                    "hint": "",
                     "text": "[i]Blather ‘Round[/i]"
                 }
             ],
@@ -7080,64 +7060,69 @@
             "exactSpelling": false,
             "id": "83333",
             "isValid": "",
-            "prompt": "Which 5 games are included in [i]The Jackbox Party Pack 7[/i]?",
+            "prompt": "Welche 5 Spiele sind im [i]Jackbox Party Pack 7[/i] enthalten?",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
             "answers": [
                 {
                     "altSpellings": [
-                        "Arctic Ocean",
-                        "The Arctic Ocean"
-                    ],
-                    "hint": "Brr! This ocean is cold! How do those penguins stand it?",
-                    "text": "Arctic"
-                },
-                {
-                    "altSpellings": [
-                        "Southern Ocean",
-                        "The Southern Ocean",
-                        "Antarctic",
-                        "Antarctic Ocean",
-                        "The Antarctic Ocean"
-                    ],
-                    "hint": "Forget the peach pie and sweet tea: it doesn't get more southern than this ocean.",
-                    "text": "Southern"
-                },
-                {
-                    "altSpellings": [
-                        "Indian Ocean",
-                        "The Indian Ocean"
-                    ],
-                    "hint": "Ironically, this ocean is located nowhere near India! Just kidding, it's, like, right next to India.",
-                    "text": "Indian"
-                },
-                {
-                    "altSpellings": [
-                        "Atlantic Ocean",
-                        "The Atlantic Ocean"
+                        "Arktische Ozean",
+                        "Nordpolarmeer",
+                        "Nördliches Eismeer",
+                        "Arktische See",
+                        "Arktik"
                     ],
                     "hint": "",
-                    "text": "Atlantic"
+                    "text": "Arktischer Ozean"
                 },
                 {
                     "altSpellings": [
-                        "Pacific Ocean",
-                        "The Pacific Ocean"
+                        "Südliche Ozean",
+                        "Südpolarmeer",
+                        "Südliches Eismeer",
+                        "Antarktischer Ozean",
+                        "Antarktik"
+                    ],
+                    "hint": "Ach du Schande, dieser Ozean ist ja eiskalt! Wie halten das Pinguine nur aus?",
+                    "text": "Südlicher Ozean"
+                },
+                {
+                    "altSpellings": [
+                        "Indische Ozean",
+                        "Indik"
+                    ],
+                    "hint": "Ironischerweise ist dieser Ozean nicht mal in der Nähe von Indien! Okay, kleiner Scherz, er liegt direkt bei Indien.",
+                    "text": "Indischer Ozean"
+                },
+                {
+                    "altSpellings": [
+                        "Atlantische Ozean",
+                        "Atlantik"
                     ],
                     "hint": "",
-                    "text": "Pacific"
+                    "text": "Atlantischer Ozean"
+                },
+                {
+                    "altSpellings": [
+                        "Pazifische Ozean",
+                        "Pazifik",
+                        "Stiller Ozean",
+                        "Großer Ozean"
+                    ],
+                    "hint": "Dieser Ozean ist der größte und tiefste des Planeten.",
+                    "text": "Pazifischer Ozean"
                 }
             ],
             "category": "Geography & Landmarks",
             "exactSpelling": false,
             "id": "83335",
             "isValid": "",
-            "prompt": "What are the 5 named oceans on Earth?",
+            "prompt": "Wie heißen die 5 Ozeane der Erde?",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
