@@ -7488,97 +7488,52 @@
             "answers": [
                 {
                     "altSpellings": [],
-                    "hint": "Like a beetle or an ant.",
-                    "text": "bug"
+                    "hint": "Denkt mal an eine andere Bezeichnung für Straßenbahnen!",
+                    "text": "Tram"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "You would do this to some water, or a beer, or even milk? I dunno, I don't do this.",
-                    "text": "chug"
+                    "hint": "Vielleicht könnte euch Spongebob weiterhelfen.",
+                    "text": "Schwamm"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "Like aspirin or... mmm... something stronger than aspirin.",
-                    "text": "drug"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "dug"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "I wish I could perform this act... if only I had arms.",
-                    "text": "hug"
+                    "hint": "Ein Wort ist echt dreckig.",
+                    "text": "Schlamm"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "jug"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "If you don't check your bags, you'll have to blank them all around the airport.",
-                    "text": "lug"
+                    "text": "Lamm"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "plug"
+                    "text": "Kamm"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "pug"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Sweep under this sometime, why don't you?",
-                    "text": "rug"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "I dunno. If I had shoulders, I'd be doing this. I dunno.",
-                    "text": "shrug"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Like a snail who lost his house.",
-                    "text": "slug"
+                    "text": "Gramm"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "smug"
+                    "text": "Damm"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "snug"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "tug"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Charlie Brown says this interjection when he's exasperated. Some of you have been saying this a lot because of my prompts.",
-                    "text": "ugh"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "thug"
+                    "text": "Bann"
                 }
             ],
             "category": "Language/Words/Grammar",
             "exactSpelling": true,
             "id": "83399",
             "isValid": "",
-            "prompt": "What rhymes with “mug”? (one-syllable common words only)",
+            "prompt": "Was reimt sich auf “Stamm”? (nur einsilbige, bekannte Nomen)",
             "subtype": "rhyme",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
