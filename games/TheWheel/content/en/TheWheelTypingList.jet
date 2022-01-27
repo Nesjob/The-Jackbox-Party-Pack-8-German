@@ -315,72 +315,59 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "partridge in a pear tree",
-                        "a partridge in a pear tree"
+                        "Äpfel"
                     ],
                     "hint": "",
-                    "text": "partridge"
+                    "text": "Apfel"
                 },
                 {
                     "altSpellings": [
-                        "calling",
-                        "colly bird",
-                        "four calling birds",
-                        "4 calling birds",
-                        "blackbird",
-                        "Eurasian blackbird"
+                        "Himbeer",
+                        "Himbeeren",
+                        "Himmere"
                     ],
                     "hint": "",
-                    "text": "calling birds"
+                    "text": "Himbeere"
                 },
                 {
                     "altSpellings": [
-                        "hens",
-                        "chickens",
-                        "three french hens",
-                        "3 french hens"
+                        "Erdbeer",
+                        "Erdbeeren"
                     ],
-                    "hint": "Domestic chickens anyone?",
-                    "text": "French hens"
+                    "hint": "Fruchtig und rot. Schreibt jetzt bloß nicht Granatapfel!",
+                    "text": "Erdbeere"
                 },
                 {
                     "altSpellings": [
-                        "doves",
-                        "two turtle doves",
-                        "2 turtle doves"
+                        "Orangen",
+                        "Apfelsine",
+                        "Apfelsinen"
                     ],
                     "hint": "",
-                    "text": "turtle doves"
+                    "text": "Orange"
                 },
                 {
                     "altSpellings": [
-                        "seven swans",
-                        "7 swans",
-                        "seven swans a-swimming",
-                        "7 swans a-swimming"
+                        "Zitronen",
+                        "Citrus",
+                        "Limone"
                     ],
-                    "hint": "Seven of THESE are... a-swimming",
-                    "text": "swans"
+                    "hint": "",
+                    "text": "Zitrone"
                 },
                 {
-                    "altSpellings": [
-                        "goose",
-                        "six geese",
-                        "6 geese",
-                        "six geese a-laying",
-                        "6 geese a-laying"
-                    ],
-                    "hint": "Six of THESE are... a-laying",
-                    "text": "geese"
+                    "altSpellings": [],
+                    "hint": "Kennt ihr irgendjemanden, der die weißen Bären den anderen bevorzugt?",
+                    "text": "Ananas"
                 }
             ],
-            "category": "Music",
+            "category": "Food & Drink",
             "exactSpelling": false,
             "id": "76590",
             "isValid": "",
-            "prompt": "Which birds are mentioned in “The Twelve Days of Christmas”?",
+            "prompt": "Alle 6 Geschmackssorten der “[i]Haribo Goldbären[/i]”",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -3018,88 +3005,97 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "Joker"
+                        "Grüne Laterne",
+                        "Grüne Leuchte",
+                        "Alan Scott",
+                        "Hal Jordan",
+                        "Guy Gardner",
+                        "John Stewart",
+                        "Kyle Rayner",
+                        "The Green Lantern"
                     ],
-                    "text": "The Joker"
+                    "text": "Green Lantern"
                 },
                 {
                     "altSpellings": [
-                        "Two Face",
-                        "2 Face",
-                        "To Face",
-                        "Harvey Dent",
-                        "Dent",
-                        "Harvey"
+                        "Captain Marvel",
+                        "Shasam",
+                        "Billy Batson"
                     ],
-                    "text": "Two-Face"
+                    "text": "Shazam"
                 },
                 {
                     "altSpellings": [
-                        "Cat Woman",
-                        "Selina Kyle"
+                        "Nachtflügel",
+                        "Night Wing",
+                        "Dick Grayson",
+                        "John Grayson",
+                        "Robin"
                     ],
-                    "text": "Catwoman"
+                    "hint": "Der ehemalige Sidekick einer bekannten Fledermaus.",
+                    "text": "Nightwing"
                 },
                 {
                     "altSpellings": [
-                        "Riddler",
-                        "Edward Nigma",
-                        "Riddler"
+                        "Bruce Wayne",
+                        "Bat Man"
                     ],
-                    "hint": "One of these is a real question mark.",
-                    "text": "The Riddler"
+                    "hint": "Die Superkraft dieses Helden? Er ist reich.",
+                    "text": "Batman"
                 },
                 {
                     "altSpellings": [
-                        "Penguin",
-                        "Oswald Chesterfield Cobblepot"
+                        "Wundergirl",
+                        "Wonderwoman",
+                        "Diana Prince"
                     ],
-                    "hint": "Oh come on. The one with the umbrella?!",
-                    "text": "The Penguin"
-                },
-                {
-                    "hint": "Think Play-Doh.",
-                    "text": "Clayface"
+                    "hint": "",
+                    "text": "Wonder Woman"
                 },
                 {
                     "altSpellings": [
-                        "Pamela Lillian Isley",
-                        "Pamela Isley",
-                        "Pamela"
+                        "The Atom",
+                        "Dr. Raymond Palmer",
+                        "Raymond Palmer"
                     ],
-                    "text": "Poison Ivy"
+                    "hint": "Einer der Helden hat denselben Namen wie die Grundbausteine, aus denen alle Stoffe bestehen.",
+                    "text": "Atom"
                 },
                 {
                     "altSpellings": [
-                        "Freeze",
-                        "Mr Freeze",
-                        "Mister Freeze",
-                        "Victor Fries"
+                        "Super Girl",
+                        "Kara Zor-El",
+                        "Kara Zor-L",
+                        "Matrix",
+                        "Linda Danvers",
+                        "Cir-EL",
+                        "Ariella Kent"
                     ],
-                    "hint": "Arnold Schwarzenegger played THIS baddie.",
-                    "text": "Mr. Freeze"
-                },
-                {
-                    "text": "Bane"
+                    "text": "Supergirl"
                 },
                 {
                     "altSpellings": [
-                        "Jonathan Crane",
-                        "Doctor Crane",
-                        "Dr. Crane",
-                        "Crane"
+                        "The Flash",
+                        "Blitzmann",
+                        "Zack",
+                        "Blitz",
+                        "Roter Blitz",
+                        "Jay Gerrick",
+                        "Barry Allen",
+                        "Wally West",
+                        "Bart Allen"
                     ],
-                    "hint": "Not the Tin Man, but...",
-                    "text": "Scarecrow"
+                    "hint": "Dieser Held bewegt sich mit übermenschlicher Geschwindigkeit.",
+                    "text": "Flash"
                 }
             ],
             "category": "Animation/Comic Books",
             "exactSpelling": false,
             "id": "78737",
             "isValid": "",
-            "prompt": "My 10 Favorite Batman Villains",
+            "prompt": "Meine 8 liebsten [i]DC[/i]-Superhelden",
             "subtype": "subjective",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -5380,50 +5376,142 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "Borinquen"
-                    ],
-                    "hint": "This country has a great PR firm. It features prominently in the musical, [i]West Side Story[/i].",
-                    "text": "Puerto Rico"
-                },
-                {
-                    "altSpellings": [
-                        "Virgin Islands",
-                        "The Virgin Islands",
-                        "The US Virgin Islands",
-                        "US Virgin Islands",
-                        "USVI"
-                    ],
-                    "hint": "If you're thinking of Virgin Records, you're on the right track.",
-                    "text": "U.S. Virgin Islands"
-                },
-                {
-                    "altSpellings": [
-                        "Amelika Samoa"
-                    ],
-                    "hint": "Don't confuse one of these territories with Samoa, but it sounds similar.",
-                    "text": "American Samoa"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "This territory is in the Pacific and is the westernmost point of the United States.",
-                    "text": "Guam"
-                },
-                {
-                    "altSpellings": [
-                        "Mariana Islands",
-                        "CNMI"
+                        "Jüst",
+                        "Juisd"
                     ],
                     "hint": "",
-                    "text": "Northern Mariana Islands"
+                    "text": "Juist"
+                },
+                {
+                    "altSpellings": [
+                        "Hidden See",
+                        "Hidensee",
+                        "Hiddense",
+                        "Hiddensjö",
+                        "Hiddensöe"
+                    ],
+                    "hint": "Der Name dieser Insel stammt aus dem Altnordischen, denn sie ist nach dem norwegischen König “Hedin” benannt.",
+                    "text": "Hiddensee"
+                },
+                {
+                    "altSpellings": [
+                        "Spieceroog",
+                        "Spiekerog",
+                        "Spieker Oog"
+                    ],
+                    "hint": "Bekannt ist diese Insel für ihre Autofreiheit.",
+                    "text": "Spiekeroog"
+                },
+                {
+                    "altSpellings": [
+                        "Ummans",
+                        "Umanz"
+                    ],
+                    "hint": "",
+                    "text": "Ummanz"
+                },
+                {
+                    "altSpellings": [
+                        "Langeog",
+                        "Langeeog",
+                        "Lange Oog"
+                    ],
+                    "hint": "Der Name dieser Insel bedeutet auf ostfriesisch “Lange Insel”.",
+                    "text": "Langeoog"
+                },
+                {
+                    "altSpellings": [
+                        "Oomram",
+                        "Ahmrum"
+                    ],
+                    "hint": "",
+                    "text": "Amrum"
+                },
+                {
+                    "altSpellings": [
+                        "Nordernei",
+                        "Nördernee"
+                    ],
+                    "hint": "",
+                    "text": "Norderney"
+                },
+                {
+                    "altSpellings": [
+                        "Borcum",
+                        "Boarkum"
+                    ],
+                    "hint": "Diese Insel liegt tatsächlich näher an der niederländischen, als an der deutschen Küste.",
+                    "text": "Borkum"
+                },
+                {
+                    "altSpellings": [
+                        "Pöl",
+                        "Poehl"
+                    ],
+                    "hint": "",
+                    "text": "Poel"
+                },
+                {
+                    "altSpellings": [
+                        "Pelvorm",
+                        "Polweerm",
+                        "Pälweerm",
+                        "Pelworm"
+                    ],
+                    "hint": "Diese Insel liegt etwa einen Meter unter Normalnull, ist daher vollständig auf seinen acht Meter hohen Deich angewiesen.",
+                    "text": "Pellworm"
+                },
+                {
+                    "altSpellings": [
+                        "Foehr",
+                        "Fohr",
+                        "Feer",
+                        "För"
+                    ],
+                    "hint": "",
+                    "text": "Föhr"
+                },
+                {
+                    "altSpellings": [
+                        "Sült",
+                        "Syld",
+                        "Sild",
+                        "Söl"
+                    ],
+                    "hint": "",
+                    "text": "Sylt"
+                },
+                {
+                    "altSpellings": [
+                        "Fehmern",
+                        "Femarn"
+                    ],
+                    "hint": "",
+                    "text": "Fehmarn"
+                },
+                {
+                    "altSpellings": [
+                        "Uznam"
+                    ],
+                    "hint": "Diese Insel gehört teilweise auch zu Polen.",
+                    "text": "Usedom"
+                },
+                {
+                    "altSpellings": [
+                        "Ruegen",
+                        "Rugia"
+                    ],
+                    "hint": "Die größte und bevölkerungsreichste Insel Deutschlands.",
+                    "text": "Rügen"
                 }
             ],
             "category": "Geography & Landmarks",
             "exactSpelling": false,
             "id": "82674",
             "isValid": "",
-            "prompt": "As of 2020, what are the 5 inhabited territories of the United States that have permanent residents?",
+            "prompt": "Die 15 größten Inseln Deutschlands",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
