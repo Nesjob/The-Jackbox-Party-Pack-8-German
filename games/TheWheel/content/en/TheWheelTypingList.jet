@@ -7407,81 +7407,108 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "Mandarin",
-                        "Chinese Language",
-                        "Mandarin Chinese",
-                        "AP Chinese"
+                        "Westfaelisch",
+                        "Ostwestfälisch",
+                        "Südwestfälisch",
+                        "Westmünsterländisch"
                     ],
-                    "hint": "Can you say \"Ni hao\"?",
-                    "text": "Chinese"
+                    "hint": "",
+                    "text": "Westfälisch"
                 },
                 {
                     "altSpellings": [
-                        "French Language",
-                        "AP French"
+                        "Westpfälzisch",
+                        "Ostpfälzisch",
+                        "Vorderpfälzisch",
+                        "Pfaelzisch"
                     ],
-                    "hint": "Can you say \"Bonjour\"?",
-                    "text": "French"
+                    "hint": "",
+                    "text": "Pfälzisch"
                 },
                 {
                     "altSpellings": [
-                        "German Language",
-                        "AP German"
+                        "Badische Dialekte",
+                        "Mittelbadischer Dialekt",
+                        "Niederalemannisch",
+                        "Mittelalemannisch"
                     ],
-                    "hint": "Can you say \"Hallo\"?",
-                    "text": "German"
+                    "hint": "",
+                    "text": "Badisch"
                 },
                 {
                     "altSpellings": [
-                        "Italian Language",
-                        "AP Italian"
+                        "Hessische Dialekte",
+                        "Hesisch"
                     ],
-                    "hint": "Can you say \"Ciao\"?",
-                    "text": "Italian"
+                    "hint": "",
+                    "text": "Hessisch"
                 },
                 {
                     "altSpellings": [
-                        "Japanese Language",
-                        "AP Japanese"
+                        "Rheinische Sprache",
+                        "Rheinische Aussprache",
+                        "Rheinische Sprechweise",
+                        "Rheinischer Singsang",
+                        "Rheinlaendisch"
                     ],
-                    "hint": "Can you say \"Kon'nichiwa\"?",
-                    "text": "Japanese"
+                    "hint": "Bei diesem handelt es sich um einen sogenannten “Regiolekt”, also eine regionale Umgangssprache. Hier ist die Region wohl der Rhein.",
+                    "text": "Rheinländisch"
                 },
                 {
                     "altSpellings": [
-                        "Latin Language",
-                        "AP Latin"
+                        "Obersäsische Dialekte",
+                        "Obersächsisch",
+                        "Saechsisch"
                     ],
-                    "hint": "Can you say \"Salve\"? (Probably not, it's a dead language.)",
-                    "text": "Latin"
+                    "hint": "Aus dem einzigartigen Erzgebirge, kommt dieser durchdringende Dialekt.",
+                    "text": "Sächsisch"
                 },
                 {
                     "altSpellings": [
-                        "Espanol",
-                        "Spanish Language",
-                        "Spanish Literature",
-                        "AP Spanish"
+                        "Schwäbische Dialekte",
+                        "Schwäbischer Dialekt",
+                        "Schwäbische Mundart",
+                        "Schwaebisch"
                     ],
-                    "hint": "Can you say \"Hola\"?",
-                    "text": "Spanish"
+                    "hint": "Der Dialekt der Spätzle und der Maultaschen.",
+                    "text": "Schwäbisch"
                 },
                 {
                     "altSpellings": [
-                        "English Literature",
-                        "English Language",
-                        "AP English"
+                        "Berliner Dialekt",
+                        "Berliner Jargon",
+                        "Berliner Mundart",
+                        "Berlinisch",
+                        "Berliner Schnauze"
                     ],
-                    "hint": "Can you say \"Hello\"? (I imagine so.)",
-                    "text": "English"
+                    "hint": "Sprachwissenschaftlich handelt es sich bei diesem um einen ”Metrolekt”, also eine Stadtsprache.",
+                    "text": "Berlinerisch"
+                },
+                {
+                    "altSpellings": [
+                        "Niederdeutsch",
+                        "Nieder Deutsch",
+                        "Platt Deutsch"
+                    ],
+                    "hint": "Platt ist hier nicht nur das Land, sondern anscheinend auch die Sprache!",
+                    "text": "Plattdeutsch"
+                },
+                {
+                    "altSpellings": [
+                        "Mittel-Bairisch",
+                        "Nord-Bairisch"
+                    ],
+                    "hint": "Kommt schon, es ist eines jeden erster Gedanke. Jetzt schreibt es schon auf!",
+                    "text": "Bairisch"
                 }
             ],
             "category": "Language/Words/Grammar",
             "exactSpelling": false,
             "id": "83342",
             "isValid": "",
-            "prompt": "Which languages can high school students study at the Advanced Placement (AP) level?",
-            "subtype": "name",
-            "us": true,
+            "prompt": "Meine liebsten deutschen Dialekte",
+            "subtype": "subjective",
+            "us": false,
             "x": false
         },
         {
@@ -7801,87 +7828,81 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "bowl",
-                        "spoon",
-                        "pipes",
-                        "bowls",
-                        "spoons"
+                        "Pfeifen",
+                        "Pfeife",
+                        "Tabakspfeife",
+                        "Tabak Pfeife"
+                    ],
+                    "hint": "Nein, nicht der trillernde Tonerzeuger, der tötet mir immerhin nur meinen letzten Nerv!",
+                    "text": "Tabakpfeife"
+                },
+                {
+                    "altSpellings": [
+                        "Zigaretten",
+                        "Zigareten",
+                        "Zigarete"
                     ],
                     "hint": "",
-                    "text": "pipe"
+                    "text": "Zigarette"
                 },
                 {
                     "altSpellings": [
-                        "cigaret",
-                        "cigarettes",
-                        "cigarets"
+                        "Zigarren",
+                        "Zikade",
+                        "Zigare"
+                    ],
+                    "hint": "Diese Sache ist für Kuba ein äußerst bedeutender Wirtschaftsfaktor!",
+                    "text": "Zigarre"
+                },
+                {
+                    "altSpellings": [
+                        "Joints",
+                        "Tüte",
+                        "Tüten",
+                        "Spliff"
+                    ],
+                    "hint": "Denkt einfach an, nennen wir es... Brokkoli.",
+                    "text": "Joint"
+                },
+                {
+                    "altSpellings": [
+                        "Elektrische Zigarette",
+                        "E Zigarette",
+                        "Elektronische Zigarette",
+                        "Vaporiser",
+                        "Vaporizer",
+                        "E-Zigarete"
                     ],
                     "hint": "",
-                    "text": "cigarette"
+                    "text": "E-Zigarette"
                 },
                 {
                     "altSpellings": [
-                        "stogy",
-                        "cigars",
-                        "stogies",
-                        "stogys"
-                    ],
-                    "hint": "What's that thing your uncle smokes when he's having his glass of brandy?",
-                    "text": "cigar"
-                },
-                {
-                    "altSpellings": [
-                        "rolled cigarette",
-                        "marijuana cigarette",
-                        "joints"
-                    ],
-                    "hint": "Think... rolling papers.",
-                    "text": "joint"
-                },
-                {
-                    "altSpellings": [
-                        "electronic cigarette",
-                        "ecigarette",
-                        "e cigarette",
-                        "e cigaret",
-                        "vape pen",
-                        "vaporizer",
-                        "vape",
-                        "vapes",
-                        "e-cig",
-                        "e cig",
-                        "ecig",
-                        "vape pens",
-                        "e-cigarettes"
+                        "Bongs",
+                        "Ücke"
                     ],
                     "hint": "",
-                    "text": "e-cigarette"
-                },
-                {
-                    "altSpellings": [
-                        "bongs"
-                    ],
-                    "hint": "You may have encountered THIS smoke stack in a college dorm room. Not YOU personally, of course.",
-                    "text": "bong"
+                    "text": "Bong"
                 },
                 {
                     "altSpellings": [
                         "hooka",
-                        "shisha",
-                        "hookahs",
-                        "hookas"
+                        "Sheesha",
+                        "Schischa",
+                        "Wasserpfeife",
+                        "Wasser Pfeife"
                     ],
-                    "hint": "One device was made famous by the caterpillar from Alice in Wonderland.",
-                    "text": "hookah"
+                    "hint": "Angeblich war die erste dieser Art eine Kokosnuss mit einem darin steckenden Bambusrohr.",
+                    "text": "Shisha"
                 }
             ],
             "category": "Technology",
-            "exactSpelling": true,
+            "exactSpelling": false,
             "id": "86163",
             "isValid": "",
-            "prompt": "The 7 Popular Devices Some Humans Use to Inhale and Exhale Smoke",
+            "prompt": "Die 7 beliebtesten Geräte, die einige Menschen benutzen, um Rauch ein- und auszuatmen",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": true
         },
         {
