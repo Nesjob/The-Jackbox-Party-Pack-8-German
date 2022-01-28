@@ -1151,87 +1151,121 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "Carry"
+                        "Carry",
+                        "Satans jüngste Tochter",
+                        "Carrie",
+                        "Des Satans jüngste Tochter",
+                        "Jüngste Tochter Satan",
+                        "Carrie - Satans jüngste Tochter",
+                        "Carrie Des Satans jüngste Tochter",
+                        "Carrie Satans jüngste Tochter"
                     ],
-                    "hint": "You'll never think of a high school dance the same after reading THIS one.",
-                    "text": "[i]Carrie[/i]"
+                    "hint": "",
+                    "text": "[i]Carrie - Des Satans jüngste Tochter[/i]"
                 },
                 {
                     "altSpellings": [
-                        "Shining"
+                        "The Shining",
+                        "The Shine",
+                        "Shine",
+                        "Darkshine"
                     ],
-                    "text": "[i]The Shining[/i]"
+                    "text": "[i]Shining[/i]"
                 },
                 {
                     "altSpellings": [
-                        "Stand"
+                        "Stand",
+                        "Das letzte Gefecht",
+                        "Letztes Gefecht",
+                        "The Stand",
+                        "The Stand Das letzte Gefecht"
                     ],
-                    "hint": "Will none of you take a stand?",
-                    "text": "[i]The Stand[/i]"
+                    "hint": "Ein mutierters Grippevirus versetzt die Welt in eine Pandemie. Warte, schreibt er auch Sachbücher?",
+                    "text": "[i]The Stand - Das letzte Gefecht[/i]"
                 },
                 {
                     "altSpellings": [
                         "Kujo"
                     ],
-                    "hint": "What's that one about the dog? Starts with a \"C.\"",
+                    "hint": "Wie heißt der Roman mit dem Hund? Startet mit einem “C”...",
                     "text": "[i]Cujo[/i]"
                 },
                 {
                     "altSpellings": [
-                        "Pet Cemetery"
+                        "Pet Sematary",
+                        "Friedhof Kuscheltiere",
+                        "der Friedhof der Kuscheltiere"
                     ],
-                    "text": "[i]Pet Sematary[/i]"
-                },
-                {
-                    "hint": "Stop \"clowning\" around. Just type... it... in.",
-                    "text": "[i]IT[/i]"
-                },
-                {
-                    "hint": "You'll feel miserable if you get THIS one.",
-                    "text": "[i]Misery[/i]"
+                    "text": "[i]Friedhof der Kuscheltiere[/i]"
                 },
                 {
                     "altSpellings": [
-                        "Geralds game"
+                        "It"
                     ],
-                    "hint": "I don't know what kind of GAME you're playing, but hopefully not this one.",
-                    "text": "[i]Gerald's Game[/i]"
+                    "hint": "Warum müssen es immer Clowns sein?",
+                    "text": "[i]Es[/i]"
                 },
                 {
                     "altSpellings": [
-                        "Dolores Clayborn"
+                        "Misery"
                     ],
-                    "hint": "One of these is a woman's first and last name.",
-                    "text": "[i]Dolores Claiborne[/i]"
+                    "hint": "Dieser Titel könnte sowohl eine Frau, als auch eine Gruppe beschreiben. Ich weiß es nicht, ich bin nicht über den Einband gekommen.",
+                    "text": "[i]Sie[/i]"
                 },
                 {
                     "altSpellings": [
-                        "Dark Half"
+                        "Geralds game",
+                        "Spiel",
+                        "Gerald's game"
                     ],
-                    "hint": "There's the light half, and then there's...",
-                    "text": "[i]The Dark Half[/i]"
+                    "hint": "Ich bin froh, dass ihr mit mir dieses Spiel spielt und nicht das aus diesem Buch.",
+                    "text": "[i]Das Spiel[/i]"
                 },
                 {
                     "altSpellings": [
-                        "Dr. Sleep"
+                        "Dolores Claiborne",
+                        "Dolores Clayborne"
+                    ],
+                    "hint": "Der Titel dieses Buches besteht einzig und allein aus dem Vornamen einer Frau.",
+                    "text": "[i]Dolores[/i]"
+                },
+                {
+                    "altSpellings": [
+                        "The Dark Half",
+                        "Dark Half",
+                        "Stark The Dark Half",
+                        "Stark"
+                    ],
+                    "hint": "Unter dem Pseudonym George Stark verkaufte er blutrünstige Romane, ohne zu wissen, dass er selbst in einem steckt.",
+                    "text": "[i]Stark - The Dark Half[/i]"
+                },
+                {
+                    "altSpellings": [
+                        "Dr. Sleep",
+                        "Doctor Slep",
+                        "Doktor Sleep"
                     ],
                     "text": "[i]Doctor Sleep[/i]"
                 },
                 {
                     "altSpellings": [
-                        "The Tomknockers"
+                        "The Tomknockers",
+                        "Tommyknockers",
+                        "Tommy Knockers",
+                        "Das Monstrum",
+                        "Das Monstrum Tommyknockers"
                     ],
-                    "text": "[i]The Tommyknockers[/i]"
+                    "text": "[i]Das Monstrum - Tommyknockers[/i]"
                 }
             ],
             "category": "Literature",
             "exactSpelling": false,
             "id": "77211",
             "isValid": "",
-            "prompt": "The 12 Stephen King Novels That Were Too Scary for Me to Finish",
+            "prompt": "12 Romane von Stephen King, die ich nie zu Ende lesen konnte, weil sie zu gruselig waren",
             "subtype": "subjective",
-            "us": true,
-            "x": false
+            "us": false,
+            "x": true
         },
         {
             "answers": [
@@ -3924,85 +3958,88 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "Mike Brady",
-                        "Michael",
-                        "Michael Brady"
-                    ],
-                    "hint": "Isn't the dad an architect? Oh, what is his name?",
-                    "text": "Mike"
-                },
-                {
-                    "altSpellings": [
-                        "Greg Brady",
-                        "Gregory",
-                        "Gregory Brady"
-                    ],
-                    "hint": "Oh, who is the oldest son? He's so handsome.",
-                    "text": "Greg"
-                },
-                {
-                    "altSpellings": [
-                        "Peter Brady"
+                        "Stuart Bloom",
+                        "Stuart David Bloom",
+                        "Stuard"
                     ],
                     "hint": "",
-                    "text": "Peter"
+                    "text": "Stuart"
                 },
                 {
                     "altSpellings": [
-                        "Bobby Brady"
+                        "Sheldon Lee Cooper",
+                        "Dr. Sheldon Lee Cooper",
+                        "Sheldon Cooper",
+                        "Dr. Sheldon Cooper",
+                        "Scheldon"
                     ],
-                    "hint": "Are you spinning your wheels? The youngest son's given name is Robert.",
-                    "text": "Bobby"
+                    "hint": "Die Lieblings-Aminosäure dieses Charakters ist Lysin. Was euch das hilft? Keine Ahnung, was fragt ihr mich?",
+                    "text": "Sheldon"
                 },
                 {
                     "altSpellings": [
-                        "Carol Martin",
-                        "Carol Brady",
-                        "Carol Tyler"
+                        "Rajesh",
+                        "Dr. Rajesh Ramayan Koothrappali",
+                        "Rajesh Ramayan Koothrappali",
+                        "Rajesh Koothrappali"
                     ],
-                    "hint": "",
-                    "text": "Carol"
+                    "hint": "Ironischwerweise verträgt dieser Charakter kein indisches Essen.",
+                    "text": "Raj"
                 },
                 {
                     "altSpellings": [
-                        "Marcia Martin",
-                        "Marcia Brady"
+                        "Penny Hofstadter"
                     ],
-                    "hint": "Remember \"Marcia, Marcia, Marcia?\" No? Okay, just type Marcia.",
-                    "text": "Marcia"
+                    "hint": "Diese Figur zog für eine Schauspielkarriere nach Kalifornien. Nun, mittlerweile ist sie Pharmaverkäuferin. Auch schön.",
+                    "text": "Penny"
                 },
                 {
                     "altSpellings": [
-                        "Jan Brady",
-                        "Jan Martin",
-                        "Janet Brady"
-                    ],
-                    "hint": "Remember the middle sister? Sadly for her, nobody else did either.",
-                    "text": "Jan"
-                },
-                {
-                    "altSpellings": [
-                        "Cindy Brady",
-                        "Cindy Martin"
+                        "Leonard Hofstadter",
+                        "Dr. Leonard Leakey Hofstadter",
+                        "Leonard Leakey Hofstadter"
                     ],
                     "hint": "",
-                    "text": "Cindy"
+                    "text": "Leonard"
                 },
                 {
                     "altSpellings": [
-                        "Alice Nelson"
+                        "Howard Joel Wolowitz",
+                        "Howard Wolowitz",
+                        "Joel Wolowitz"
                     ],
-                    "hint": "The housekeeper fell down a rabbit hole when she joined the Brady's. Not literally, that's just a hint about her name.",
-                    "text": "Alice"
+                    "hint": "",
+                    "text": "Howard"
+                },
+                {
+                    "altSpellings": [
+                        "Bernadete",
+                        "Bernadette Maryann Rostenkowski-Wolowitz",
+                        "Bernadette Rostenkowski",
+                        "Bernadette Wolowitz",
+                        "Bernadette Rostenkowski-Wolowitz"
+                    ],
+                    "hint": "",
+                    "text": "Bernadette"
+                },
+                {
+                    "altSpellings": [
+                        "Amy Fowler",
+                        "Amy Farrah Fowler",
+                        "Dr. Amy Farrah Fowler",
+                        "Dr. Amy Fowler"
+                    ],
+                    "hint": "",
+                    "text": "Amy"
                 }
             ],
             "category": "Film & TV",
             "exactSpelling": false,
             "id": "79408",
             "isValid": "",
-            "prompt": "Name the members of [i]The Brady Bunch[/i]",
+            "prompt": "Die Hauptcharaktere aus “[i]The Big Bang Theorie[/i]”",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -4086,113 +4123,153 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "New York Yankees",
-                        "The Yankees",
-                        "NY Yankees",
-                        "The New York Yankees"
+                        "Hertha",
+                        "Herta"
                     ],
-                    "hint": "And he called it Macaroni. Come on Jeter, this one's a freebie.",
-                    "text": "Yankees"
+                    "hint": "Dieser Verein ist auch bekannt als “Alte Dame”. Ist das eine Ehrung oder eine Beleidigung?",
+                    "text": "Hertha BSC"
                 },
                 {
                     "altSpellings": [
-                        "New York Mets",
-                        "Metropolitans",
-                        "The Mets",
-                        "The New York Mets",
-                        "NY Mets"
+                        "Stuttgart"
                     ],
-                    "hint": "If you've been to several of these galas, you been to several...",
-                    "text": "Mets"
+                    "hint": "",
+                    "text": "VfB Stuttgart"
                 },
                 {
                     "altSpellings": [
-                        "New York Giants",
-                        "The Giants",
-                        "NY Giants",
-                        "The New York Giants"
+                        "TSV München",
+                        "1860 München",
+                        "München"
                     ],
-                    "hint": "Jack and the Beanstalk met one of these jamokes.",
-                    "text": "Giants"
+                    "hint": "Heutzutage ist wohl nur noch der Erzrivale dieses Vereins wirklich bekannt.",
+                    "text": "TSV 1860 München"
                 },
                 {
                     "altSpellings": [
-                        "New York Jets",
-                        "The Jets",
-                        "NY Jets",
-                        "The New York Jets"
+                        "FC Nürnberg",
+                        "Nürnberg",
+                        "1 FC Nürnberg",
+                        "1. FCN"
                     ],
-                    "hint": "Hey! Can’t you see I’m going Mach 3 over here!",
-                    "text": "Jets"
+                    "hint": "",
+                    "text": "1. FC Nürnberg"
                 },
                 {
                     "altSpellings": [
-                        "Brooklyn Nets",
-                        "The Nets",
-                        "The Brooklyn Nets"
+                        "Karlsruhe",
+                        "KSC"
                     ],
-                    "hint": "If you're just starting out as an acrobat, you probably want one of these.",
-                    "text": "Nets"
+                    "hint": "",
+                    "text": "Karlsruher SC"
                 },
                 {
                     "altSpellings": [
-                        "New York Rangers",
-                        "NY Rangers",
-                        "The Rangers"
+                        "Frankfurt",
+                        "Sportgemeinde Frankfurt",
+                        "SGE"
                     ],
-                    "hint": "Oh, hi-ho, Silver!",
-                    "text": "Rangers"
+                    "hint": "",
+                    "text": "Eintracht Frankfurt"
                 },
                 {
                     "altSpellings": [
-                        "New York Islanders",
-                        "The Islanders",
-                        "NY Islanders"
+                        "FC Saarbrücken",
+                        "Saarbrücken",
+                        "1 FC Saarbrücken",
+                        "Sarbrücken"
                     ],
-                    "hint": "If you're home is completely surrounded by water, you're one of these. Or you need a plumber.",
-                    "text": "Islanders"
+                    "hint": "",
+                    "text": "1. FC Saarbrücken"
                 },
                 {
                     "altSpellings": [
-                        "New York Knicks",
-                        "New York Knickerbockers",
-                        "The Knicks"
+                        "FC Kaiserslautern",
+                        "1 FC Kaiserslautern",
+                        "Kaiserslautern",
+                        "1. FCK",
+                        "FCK"
                     ],
-                    "hint": "I'm sure I'd give myself a couple of these tiny uncomfortable cuts if I ever needed to shave.",
-                    "text": "Knicks"
+                    "hint": "Der Spitzname dieses Vereins: “Roter Teufel”.",
+                    "text": "1. FC Kaiserslautern"
                 },
                 {
                     "altSpellings": [
-                        "New York Liberty",
-                        "Brooklyn Liberty"
+                        "Schalke 04",
+                        "FC Schalke",
+                        "Schalke",
+                        "S04"
                     ],
-                    "hint": "Some dame with a torch is in the river!",
-                    "text": "Liberty"
+                    "hint": "Dieser Sportverein ist benannt nach einem Stadtteil in Gelsenkirchen.",
+                    "text": "FC Schalke 04"
                 },
                 {
                     "altSpellings": [
-                        "New York Red Bulls",
-                        "The Red Bulls"
+                        "Münster",
+                        "Preussen Münster"
                     ],
-                    "hint": "This soccer team gives you wings!",
-                    "text": "Red Bulls"
+                    "hint": "Das Wappentier dieses Sportvereins ist der preußische Adler.",
+                    "text": "Preußen Münster"
                 },
                 {
                     "altSpellings": [
-                        "New York Magic",
-                        "The Magic"
+                        "Meiderich",
+                        "MSV Duisburg",
+                        "Duisburg"
                     ],
-                    "hint": "You can see these ladies play soccer, or you can see David Blaine doing this over Times Square.",
-                    "text": "Magic"
+                    "hint": "",
+                    "text": "Meidericher SV"
+                },
+                {
+                    "altSpellings": [
+                        "FC Köln",
+                        "Köln",
+                        "1 FC Köln"
+                    ],
+                    "hint": "",
+                    "text": "1. FC Köln"
+                },
+                {
+                    "altSpellings": [
+                        "Borussia",
+                        "Dortmund",
+                        "BVB"
+                    ],
+                    "hint": "",
+                    "text": "Borussia Dortmund"
+                },
+                {
+                    "altSpellings": [
+                        "Hamburg",
+                        "HSV"
+                    ],
+                    "hint": "Meine Perle.",
+                    "text": "Hamburger SV"
+                },
+                {
+                    "altSpellings": [
+                        "Bremen",
+                        "SV Werder",
+                        "Werder"
+                    ],
+                    "hint": "Diese Hansestadt an der Weser hat die Farben “Grün” und “Weiß” für sich beansprucht.",
+                    "text": "Werder Bremen"
+                },
+                {
+                    "altSpellings": [
+                        "Braunschweig"
+                    ],
+                    "hint": "",
+                    "text": "Eintracht Braunschweig"
                 }
             ],
             "category": "Sports",
             "exactSpelling": false,
             "id": "79420",
             "isValid": "",
-            "prompt": "Name the professional sports teams of New York City",
+            "prompt": "Die 16 Gründungsmitglieder der Fußball-Bundesliga",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -4843,89 +4920,74 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "Angel Soft Ultra"
+                        "Alouete",
+                        "Allouette"
                     ],
-                    "hint": "What's more gentle on your tender bottom than Cupid's touch?",
-                    "text": "Angel Soft"
+                    "hint": "",
+                    "text": "Alouette"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "",
+                    "text": "Regina"
                 },
                 {
                     "altSpellings": [
-                        "Charmin Ultra Soft",
-                        "Charmin Ultra Strong",
-                        "Charmin Ultra"
+                        "Cotonelle",
+                        "Cottonele",
+                        "Cotonele"
                     ],
-                    "hint": "Ok, what's with the bears? Can someone explain it to me?",
-                    "text": "Charmin"
-                },
-                {
-                    "altSpellings": [
-                        "Cottonelle Ultra",
-                        "Cottonelle Ultra GentleCare",
-                        "Cottonelle Ultra CleanCare",
-                        "Cottonelle Ultra ComfortCare"
-                    ],
-                    "hint": "It's named after a fabric, but it's not a fabric. Is it?",
+                    "hint": "Benannt nach dem englischen Wort für Baumwolle.",
                     "text": "Cottonelle"
                 },
                 {
                     "altSpellings": [
-                        "Walmart Great Value",
-                        "Great Value Walmart"
+                        "Floralis",
+                        "Floralies",
+                        "Vloralys"
                     ],
-                    "hint": "This is Walmart's line of in-house products, so I hope it's as great a bargain as it says it is.",
-                    "text": "Great Value"
+                    "hint": "Wenn es schön weich ist, kann es doch auch mal Toilettenpapier vom Discounter sein.",
+                    "text": "Floralys"
                 },
                 {
                     "altSpellings": [
-                        "Quilted Northern Ultra",
-                        "Quilting Northern",
-                        "Northern"
+                        "Fawora",
+                        "Fafora"
                     ],
-                    "hint": "Imagine someone's grandmother knitting THIS toilet paper while doing your business... in the north.",
-                    "text": "Quilted Northern"
+                    "hint": "",
+                    "text": "Favora"
                 },
                 {
                     "altSpellings": [
-                        "Kirkland Signature",
-                        "Kirkland Costco",
-                        "Costco Kirkland",
-                        "Kirkland Signature Bath Tissue"
+                        "Hacle",
+                        "Hackle"
                     ],
-                    "hint": "One is named after Coscto's personal brand, but it does sound like my friend Kirk's backyard.",
-                    "text": "Kirkland"
+                    "hint": "",
+                    "text": "Hakle"
                 },
                 {
                     "altSpellings": [
-                        "Scott’s"
+                        "Charming",
+                        "Carmin"
                     ],
-                    "hint": "Ok, this one is literally just a guy's name. Really, am I being pranked?",
-                    "text": "Scott"
+                    "hint": "Okay, was hat es mit dem Bären auf sich? Kann das wer erklären?",
+                    "text": "Charmin"
                 },
                 {
                     "altSpellings": [
-                        "Panda Ultra Premium"
+                        "Cewa"
                     ],
-                    "hint": "These bears are too rare and beautiful for us to be naming our bathroom tissue after them!",
-                    "text": "Panda"
-                },
-                {
-                    "altSpellings": [
-                        "Seven Generation",
-                        "7th Generation",
-                        "Seventh Gen",
-                        "7th Gen"
-                    ],
-                    "hint": "You know the one: eco-friendly, has a leaf for a logo, probably more comfortable than an actual leaf.",
-                    "text": "Seventh Generation"
+                    "hint": "Wisch und weg!",
+                    "text": "Zewa"
                 }
             ],
             "category": "Companies & Brands",
             "exactSpelling": false,
             "id": "79515",
             "isValid": "",
-            "prompt": "The 9 Toilet Paper Brands That Strike My Fancy",
+            "prompt": "8 Toilettenpapier-Marken, die ich regelmäßig kaufe",
             "subtype": "subjective",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
