@@ -2752,64 +2752,118 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "ice cream cone"
+                        "Sour Cream",
+                        "Cream",
+                        "Sour",
+                        "Sourcream Chips"
                     ],
                     "hint": "",
-                    "text": "ice cream"
+                    "text": "[i]Sourcream[/i]"
                 },
                 {
                     "altSpellings": [
-                        "popcycle",
-                        "ice pop"
+                        "Zaziki Chips",
+                        "Zaziky",
+                        "Zazyki",
+                        "Tsatsiki"
                     ],
-                    "hint": "Dessert on a stick. Doesn't get better than that.",
-                    "text": "popsicle"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "sorbet"
+                    "hint": "Ich frage mich, ob man nach einer solchen Packung Chips genauso nach Knoblauch riecht wie beim Original.",
+                    "text": "[i]Zaziki[/i]"
                 },
                 {
                     "altSpellings": [
-                        "frozen custard"
-                    ],
-                    "hint": "This one's on the pudding spectrum. A spectrum I just made up.",
-                    "text": "custard"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "This dessert is huge in Italy. I assume.",
-                    "text": "Italian ice"
-                },
-                {
-                    "altSpellings": [
-                        "yogurt",
-                        "froyo"
+                        "Curry",
+                        "Currie",
+                        "Chikibai",
+                        "Chicibai",
+                        "Chikibay",
+                        "Chikibay Curry",
+                        "Chikibay Curry Chips"
                     ],
                     "hint": "",
-                    "text": "frozen yogurt"
+                    "text": "[i]Chikibai Curry[/i]"
                 },
                 {
                     "altSpellings": [
-                        "slushy",
-                        "slushee",
-                        "slushies",
-                        "slushees",
-                        "icee",
-                        "slurpee"
+                        "Curry Wurst",
+                        "Currie Wurst",
+                        "Currywurst Chips"
                     ],
-                    "hint": "You can drink this one.",
-                    "text": "slushie"
+                    "hint": "Okay, wie kriegt man bitte Wurstgeschmack in Chips rein? Dunkle Magie? Genmanipulation?",
+                    "text": "[i]Currywurst[/i]"
+                },
+                {
+                    "altSpellings": [
+                        "Salt and Vinegar",
+                        "Vinegar",
+                        "Salz und Essig",
+                        "Essig",
+                        "Salt und Vinegar",
+                        "Salz & Essig",
+                        "Salt and Vinegar Chips",
+                        "Salt & Vinegar Chips"
+                    ],
+                    "hint": "",
+                    "text": "[i]Salt & Vinegar[/i]"
+                },
+                {
+                    "altSpellings": [
+                        "Salzig",
+                        "Salz",
+                        "Gesalzene",
+                        "Gesalzene Chips"
+                    ],
+                    "hint": "",
+                    "text": "[i]Gesalzen[/i]"
+                },
+                {
+                    "altSpellings": [
+                        "Paprika",
+                        "Chili",
+                        "Spanischer Pfeffer",
+                        "Peperoncini",
+                        "Pfefferoni",
+                        "Peperoni Chips"
+                    ],
+                    "hint": "Einmal und nie wieder! Diese Sorte war mir viel zu scharf.",
+                    "text": "[i]Peperoni[/i]"
+                },
+                {
+                    "altSpellings": [
+                        "Cakalaka",
+                        "Chakalaca",
+                        "Chacalaka",
+                        "Chacalaca",
+                        "Chakalaka Chips"
+                    ],
+                    "hint": "Der Name dieser Sorte stammt von einer afrikanischen Würzsoße. Habt ihr vielleicht schon mal im Regal gesehen...",
+                    "text": "[i]Chakalaka[/i]"
+                },
+                {
+                    "altSpellings": [
+                        "Orientalisch",
+                        "Orient",
+                        "Orienthal"
+                    ],
+                    "hint": "",
+                    "text": "[i]Oriental[/i]"
+                },
+                {
+                    "altSpellings": [
+                        "Ungarn",
+                        "Ungarich"
+                    ],
+                    "hint": "",
+                    "text": "[i]Ungarisch[/i]"
                 }
             ],
             "category": "Food & Drink",
             "exactSpelling": false,
             "id": "78059",
             "isValid": "",
-            "prompt": "My 7 Favorite Frozen Desserts",
+            "prompt": "Meine 10 liebsten “[i]funny-frisch Chipsfrisch[/i]”-Sorten",
             "subtype": "subjective",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -2979,60 +3033,101 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "Wolf of Wall Street",
-                        "The Wolf and Wall Street",
-                        "Wolf and Wall Street",
-                        "The Wolves of Wall Street",
-                        "Wolves of Wall Street",
-                        "Wolf Wall Street"
-                    ],
-                    "hint": "In THIS one, he plays a wolf, so to speak.",
-                    "text": "[i]The Wolf of Wall Street[/i]"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Ah... THIS movie was simply dreamy.",
-                    "text": "[i]Inception[/i]"
-                },
-                {
-                    "altSpellings": [
-                        "The Shutter Island"
-                    ],
-                    "hint": "You know, the one where his wife dies and he thinks he's a detective.",
-                    "text": "[i]Shutter Island[/i]"
-                },
-                {
-                    "altSpellings": [
-                        "Great Gatsby"
-                    ],
-                    "hint": "F. Scott Fitzgerald. Does that help?",
-                    "text": "[i]The Great Gatsby[/i]"
-                },
-                {
-                    "altSpellings": [
-                        "Romeo Juliet",
-                        "Romeo and Juliet",
-                        "Romeo & Juliet",
-                        "Romeo n Juliet"
+                        "Hochzeit",
+                        "Hoch Zeit",
+                        "Die Heirat",
+                        "Heirat"
                     ],
                     "hint": "",
-                    "text": "[i]Romeo + Juliet[/i]"
+                    "text": "[i]Die Hochzeit[/i]"
                 },
                 {
                     "altSpellings": [
-                        "Aviator"
+                        "Honig Kopf",
+                        "Head Full of Honey"
                     ],
-                    "hint": "I'll give you a clue... The Aviator.",
-                    "text": "[i]The Aviator[/i]"
+                    "hint": "Dank dieses Titels wissen wir auch, was genau sich im Kopf von Til Schweiger befindet.",
+                    "text": "[i]Honig im Kopf[/i]"
+                },
+                {
+                    "altSpellings": [
+                        "Klassentreffen",
+                        "Klassentreffen 1",
+                        "Klassentreffen 10",
+                        "Klassen Treffen",
+                        "Klassen Treffen 1.0"
+                    ],
+                    "hint": "",
+                    "text": "[i]Klassentreffen 1.0[/i]"
+                },
+                {
+                    "altSpellings": [
+                        "Schutz Engel",
+                        "Engel"
+                    ],
+                    "hint": "",
+                    "text": "[i]Schutzengel[/i]"
+                },
+                {
+                    "altSpellings": [
+                        "Koko Wääh",
+                        "Kokowäh",
+                        "KokoWää",
+                        "Cocowääh",
+                        "Cocowäh",
+                        "Kokowääh 2",
+                        "Kokowääh",
+                        "Cocowääh 2"
+                    ],
+                    "hint": "Dieser Film hat übrigens eine Fortsetzung. Spoiler: Der Name bleibt weiterhin unschreibbar.",
+                    "text": "[i]Kokowääh[/i]/[i]Kokowääh 2[/i]"
+                },
+                {
+                    "altSpellings": [
+                        "Zwei Ohr Küken",
+                        "Zwei Ohrküken",
+                        "Zweiohr Küken"
+                    ],
+                    "hint": "",
+                    "text": "[i]Zweiohrküken[/i]"
+                },
+                {
+                    "altSpellings": [
+                        "Bar Fuss",
+                        "Bar fuß",
+                        "Barfuß"
+                    ],
+                    "hint": "Dieser Film hat einen Rechtschreibfehler im Titel? Wow, wie schaft mann den so was?",
+                    "text": "[i]Barfuss[/i]"
+                },
+                {
+                    "altSpellings": [
+                        "Knocking on Heavens Door",
+                        "Knocking",
+                        "Knockin",
+                        "Knockin on Heavens Door",
+                        "Heavens Door"
+                    ],
+                    "hint": "Immerhin der erfolgreichste deutsche Kinofilm 1997.",
+                    "text": "[i]Knockin' on Heaven's Door[/i]"
+                },
+                {
+                    "altSpellings": [
+                        "Kein Ohr Hasen",
+                        "Kein Ohrhasen",
+                        "KeinOhr Hasen"
+                    ],
+                    "hint": "Also ein Hase, aber ohne Ohren... Wie kommt man auf sowas?",
+                    "text": "[i]Keinohrhasen[/i]"
                 }
             ],
             "category": "Film & TV",
             "exactSpelling": false,
             "id": "78667",
             "isValid": "",
-            "prompt": "My 6 Favorite Leonardo DiCaprio Movies",
-            "subtype": "subjective",
-            "us": true,
+            "prompt": "Bis 2021 von Til Schweiger geschriebene Filme",
+            "subtype": "name",
+            "us": false,
             "x": false
         },
         {
@@ -3369,72 +3464,105 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "Francis Sinatra",
-                        "Old Blue Eyes",
-                        "Ol’ Blue Eyes",
-                        "Sinatra",
-                        "Frank",
-                        "The Voice",
-                        "Chairman of the Board"
-                    ],
-                    "hint": "HE did it his way.",
-                    "text": "Frank Sinatra"
-                },
-                {
-                    "altSpellings": [
-                        "Samuel Davis Jr",
-                        "sam davis",
-                        "Sammie Davis Jr.",
-                        "Sammie Davis Junior",
-                        "Sammy Davis",
-                        "Davis",
-                        "Sammy",
-                        "Samuel Davis"
-                    ],
-                    "hint": "Easily the best dancer of the bunch was THIS guy.",
-                    "text": "Sammy Davis Jr."
-                },
-                {
-                    "altSpellings": [
-                        "Dino Paul Crocetti",
-                        "Deano",
-                        "Dino",
-                        "Martin",
-                        "Dean",
-                        "Dino Martin",
-                        "Dino Crocetti"
+                        "Lärchen",
+                        "Laerche",
+                        "Larix"
                     ],
                     "hint": "",
-                    "text": "Dean Martin"
+                    "text": "Lärche"
                 },
                 {
                     "altSpellings": [
-                        "Joseph Abraham Gottlieb",
-                        "Joe Bishop",
-                        "Bishop",
-                        "Joey",
-                        "Joseph Gottlieb"
+                        "Douglasien",
+                        "Douglastanne",
+                        "Douglasfichte",
+                        "Douglaskiefer",
+                        "Pseudotsuga",
+                        "Gewöhnliche Douglasie"
                     ],
-                    "hint": "THIS guy would only be able to go diagonally on a chess board.",
-                    "text": "Joey Bishop"
+                    "hint": "",
+                    "text": "Douglasie"
                 },
                 {
                     "altSpellings": [
-                        "Pete Lawford",
-                        "Lawford",
-                        "Peter"
+                        "Kastanien",
+                        "Castanea",
+                        "Edelkastanie",
+                        "Edelkastanien",
+                        "Castanie"
                     ],
-                    "hint": "Old Blue Eyes used to joke he was the Brother-in-Lawford to John F. Kennedy.",
-                    "text": "Peter Lawford"
+                    "hint": "Kinder lieben es, die Früchte dieses Baumes zu sammeln und mit ihnen zu basteln!",
+                    "text": "Kastanie"
+                },
+                {
+                    "altSpellings": [
+                        "Birken",
+                        "Betula"
+                    ],
+                    "hint": "",
+                    "text": "Birke"
+                },
+                {
+                    "altSpellings": [
+                        "Kiefern",
+                        "Föhren",
+                        "Sjüren",
+                        "Forlen",
+                        "Dählen",
+                        "Pinus"
+                    ],
+                    "hint": "",
+                    "text": "Kiefer"
+                },
+                {
+                    "altSpellings": [
+                        "Ahorne",
+                        "Acer"
+                    ],
+                    "hint": "Aus dieser Art kann man köstlichen Sirup gewinnen.",
+                    "text": "Ahorn"
+                },
+                {
+                    "altSpellings": [
+                        "Tannen",
+                        "Abies"
+                    ],
+                    "hint": "Dieser ist vermutlich der weihnachtlichste Baum auf meiner Liste...",
+                    "text": "Tanne"
+                },
+                {
+                    "altSpellings": [
+                        "Buchen",
+                        "Fagus"
+                    ],
+                    "hint": "",
+                    "text": "Buche"
+                },
+                {
+                    "altSpellings": [
+                        "Fichten",
+                        "Gemeine Fichte",
+                        "Picea"
+                    ],
+                    "hint": "Die einzige Art dieses Baumes, die man in Mitteleuropa findet, nennt man in einigen Regionen auch “Rottanne”.",
+                    "text": "Fichte"
+                },
+                {
+                    "altSpellings": [
+                        "Eichen",
+                        "Quercus"
+                    ],
+                    "hint": "",
+                    "text": "Eiche"
                 }
             ],
-            "category": "Celebrities",
+            "category": "Factoids",
             "exactSpelling": false,
             "id": "79191",
             "isValid": "",
-            "prompt": "Name the 5 members of the 1960s Rat Pack",
-            "subtype": "name",
-            "us": true,
+            "prompt": "Meine 10 Lieblingsbäume",
+            "subtype": "subjective",
+            "us": false,
             "x": false
         },
         {
@@ -5632,193 +5760,116 @@
             "answers": [
                 {
                     "altSpellings": [],
-                    "hint": "If my face were capable of this, I'm sure I would do it.",
-                    "text": "blush"
+                    "hint": "",
+                    "text": "Spund"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "brush"
+                    "text": "Schund"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "I'm so enormous, if I fell I'd certainly do THIS to you.",
-                    "text": "crush"
+                    "hint": "Denkt an eine alte Masseinheit für Gewicht.",
+                    "text": "Pfund"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "Hey toilet users, don't forget to...!",
-                    "text": "flush"
+                    "hint": "Der Name eines absolut niedlichen kleinen Meeresvogels.",
+                    "text": "Lund"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "",
-                    "text": "gush"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "hush"
+                    "hint": "Ihr sucht ein anderes Wort für “Verschwinden”.",
+                    "text": "Schwund"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "lush"
+                    "text": "Schlund"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "You might say this to a dogsled team.",
-                    "text": "mush"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "In the morning and late afternoon, this hour is usually full of traffic.",
-                    "text": "rush"
+                    "hint": "Was genau benutze ich gerade, um zu euch zu sprechen?",
+                    "text": "Mund"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "shush"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "When the winter snow melts, it turns into this gray nuisance.",
-                    "text": "slush"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "This is a little bird.",
-                    "text": "thrush"
+                    "text": "Fund"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "smush"
+                    "text": "Grund"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "",
+                    "text": "Bund"
                 }
             ],
             "category": "Language/Words/Grammar",
             "exactSpelling": true,
             "id": "82701",
             "isValid": "",
-            "prompt": "What rhymes with “plush”? (one-syllable common words only)",
+            "prompt": "Was reimt sich auf “Hund”? (nur einsilbige, bekannte Nomen)",
             "subtype": "rhyme",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
             "answers": [
                 {
                     "altSpellings": [],
-                    "hint": "I’m a little too big to sleep up top, so I’ll choose the bottom.",
-                    "text": "bunk"
+                    "hint": "",
+                    "text": "Sud"
                 },
                 {
-                    "altSpellings": [
-                        "klunk"
-                    ],
-                    "hint": "",
-                    "text": "clunk"
+                    "altSpellings": [],
+                    "hint": "Eine Eigenschaft, die Menschen besitzen, wenn sie sich in eine gefährliche Situation begeben. Schreibt nicht “Dummheit”!",
+                    "text": "Mut"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "crunk"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Drinking too much mead might make you THIS. Do people still drink mead?",
-                    "text": "drunk"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Michael Jordan has been known to do this.",
-                    "text": "dunk"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "If you fail this game, THIS word might fit.",
-                    "text": "flunk"
+                    "text": "Glut"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "funk"
+                    "text": "Wut"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "",
-                    "text": "gunk"
+                    "hint": "Ein anderes Wort für eine längliche Vertiefung ist gesucht.",
+                    "text": "Nut"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "Strapping handsome men are often called this.",
-                    "text": "hunk"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "junk"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "monk"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "plunk"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "punk"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Rick Moranis’ kids got...",
-                    "text": "shrunk"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "skunk"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Consider the past tense of slink.",
-                    "text": "slunk"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "spunk"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "You wore deodorant yesterday because you...",
-                    "text": "stunk"
+                    "hint": "Ihr sucht ein altmodisches Wort für “Besitz”.",
+                    "text": "Gut"
                 },
                 {
                     "altSpellings": [
                         "it sunk"
                     ],
-                    "hint": "Say, what did the Titanic do?",
-                    "text": "sunk"
+                    "hint": "",
+                    "text": "Brut"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "trunk"
+                    "text": "Blut"
                 }
             ],
             "category": "Language/Words/Grammar",
             "exactSpelling": true,
             "id": "82702",
             "isValid": "",
-            "prompt": "What rhymes with “chunk”? (one-syllable common words only)",
+            "prompt": "Was reimt sich auf “Hut”? (nur einsilbige, bekannte Nomen)",
             "subtype": "rhyme",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
