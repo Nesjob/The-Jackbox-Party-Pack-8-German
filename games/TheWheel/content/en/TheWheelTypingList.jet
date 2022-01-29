@@ -2869,84 +2869,135 @@
         {
             "answers": [
                 {
-                    "altSpellings": [],
+                    "altSpellings": [
+                        "Manhatan"
+                    ],
                     "hint": "New York, baby!",
-                    "text": "manhattan"
+                    "text": "Manhattan"
                 },
                 {
                     "altSpellings": [
-                        "cosmo"
+                        "Cosmo",
+                        "Cosmopolitan"
                     ],
                     "hint": "",
-                    "text": "cosmopolitan"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "James Bond prefers his shaken, not stirred.",
-                    "text": "martini"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "The most fun word to say! Mojito! Oh, whoops. My bad.",
-                    "text": "mojito"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "whiskey sour"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Say you are a traditionalist.. people might call you THIS.",
-                    "text": "old fashioned"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "Moscow mule"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "mai tai"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "margarita"
+                    "text": "Cosmopolitan"
                 },
                 {
                     "altSpellings": [
-                        "blooding mary"
+                        "Martiny",
+                        "Martyni"
                     ],
-                    "hint": "Tomatoes, people! The one with tomatoes!",
-                    "text": "bloody mary"
+                    "hint": "James Bond mag diesen Drink geschüttelt, nicht gerührt.",
+                    "text": "Martini"
                 },
                 {
                     "altSpellings": [
-                        "tequila sun"
+                        "Moyito",
+                        "Mojido"
                     ],
-                    "hint": "",
-                    "text": "tequila sunrise"
+                    "hint": "Der weltbekannte kubanische Longdrink, Fidel Castro hätte ihn sicherlich getrunken.",
+                    "text": "Mojito"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "Vladimir Putin could identify with THIS drink.",
+                    "altSpellings": [
+                        "Kaipirinha",
+                        "Caipirina",
+                        "Kaipirina"
+                    ],
+                    "hint": "",
+                    "text": "Caipirinha"
+                },
+                {
+                    "altSpellings": [
+                        "Old Fasioned",
+                        "Old Fashionet"
+                    ],
+                    "hint": "Diesen Cocktail aus dem 19. Jahrhundert kann man wohl als altbewährt bezeichnen.",
+                    "text": "Old Fashioned"
+                },
+                {
+                    "altSpellings": [
+                        "Moskau Mule"
+                    ],
+                    "hint": "Ein Cocktail für jeden Hipster, traditionell aus der Kupfertasse.",
+                    "text": "Moscow Mule"
+                },
+                {
+                    "altSpellings": [
+                        "Aperol",
+                        "Aperol Sprits"
+                    ],
+                    "hint": "",
+                    "text": "Aperol Spritz"
+                },
+                {
+                    "altSpellings": [
+                        "Margharita"
+                    ],
+                    "hint": "",
+                    "text": "Margarita"
+                },
+                {
+                    "altSpellings": [
+                        "blooding mary",
+                        "Blodie Mary",
+                        "Bloidy Marie"
+                    ],
+                    "hint": "Dieser Cocktail wurde nach einer blutrünstigen Königin benannt. Keine Angst Kinder, das Rote ist sicherlich nur Ketchup!",
+                    "text": "Bloody Mary"
+                },
+                {
+                    "altSpellings": [
+                        "Tequila Sun"
+                    ],
+                    "hint": "Dieses Getränk lässt die Sonne in mir aufgehen. Hach, wie poetisch...",
+                    "text": "Tequila Sunrise"
+                },
+                {
+                    "altSpellings": [
+                        "Weißer Russe"
+                    ],
+                    "hint": "Dieser Drink ist sicherlich ganz nach dem Geschmack von Vladimir Putin.",
                     "text": "White Russian"
                 },
                 {
+                    "altSpellings": [
+                        "Long Island Ice Tea",
+                        "Long Island"
+                    ],
+                    "hint": "Ein Alkohol-Allerlei im Gewand eines friedlichen Tees.",
+                    "text": "Long Island Iced Tea"
+                },
+                {
                     "altSpellings": [],
-                    "hint": "One of these is not REALLY an iced tea.",
-                    "text": "Long Island iced tea"
-                }
+                    "hint": "",
+                    "text": "Hugo"
+                },
+                {
+                    "altSpellings": [
+                        "Dayquiri",
+                        "Daikiri",
+                        "Daiquiry"
+                    ],
+                    "hint": "",
+                    "text": "Daiquiri"
+                },
+                {
+                    "altSpellings": [
+                        "Gin Tonik"
+                    ],
+                    "hint": "",
+                    "text": "Gin Tonic"
+                } 
             ],
             "category": "Food & Drink",
             "exactSpelling": false,
             "id": "78063",
             "isValid": "",
-            "prompt": "The 13 Best Bar Drinks",
+            "prompt": "Die 16 besten Cocktails",
             "subtype": "subjective",
-            "us": true,
+            "us": false,
             "x": true
         },
         {
@@ -4452,71 +4503,63 @@
                     "altSpellings": [
                         "Copperfield"
                     ],
-                    "hint": "You know, like the Dickens character?",
+                    "hint": "",
                     "text": "David Copperfield"
                 },
                 {
                     "altSpellings": [
                         "Siegfried & Roy",
-                        "Roy and Siegfried",
+                        "Roy und Siegfried",
                         "Roy & Siegfried",
-                        "Siegfried Roy"
+                        "Siegfried Roy",
+                        "Roy",
+                        "Siegfried"
                     ],
-                    "hint": "They had the tigers! The magical tigers",
-                    "text": "Siegfried and Roy"
+                    "hint": "Hey, das sind die mit den Tigern! Hoffentlich sind die auch gut gefüttert.",
+                    "text": "Siegfried und Roy"
                 },
                 {
                     "altSpellings": [
-                        "Burton"
+                        "Straub"
                     ],
                     "hint": "",
-                    "text": "Lance Burton"
+                    "text": "Alexander Straub"
                 },
                 {
                     "altSpellings": [
-                        "Jay",
-                        "Ricky"
+                        "Andreas Ehrlich",
+                        "Ehrlich",
+                        "Christian Ehrlich",
+                        "Chris Ehrlich",
+                        "Ehrlich Brüder"
                     ],
                     "hint": "",
-                    "text": "Ricky Jay"
+                    "text": "Ehrlich Brothers"
                 },
                 {
                     "altSpellings": [
-                        "Penn & Teller",
-                        "Penn Teller"
+                        "Geller"
                     ],
-                    "hint": "There's just something magical about their height difference.",
-                    "text": "Penn and Teller"
+                    "hint": "Dieser Mann kommt mir nicht ins Haus, was soll ich mit verbogenen Löffeln?!",
+                    "text": "Uri Geller"
                 },
                 {
                     "altSpellings": [
-                        "Angel"
+                        "Houdini",
+                        "Hudini",
+                        "Harry Hudini"
                     ],
-                    "hint": "You know, the bad boy of magic?",
-                    "text": "Criss Angel"
-                },
-                {
-                    "altSpellings": [
-                        "Houdini"
-                    ],
-                    "hint": "The man who started it all, if by “it” you mean drowning yourself while wearing handcuffs.",
+                    "hint": "Der Entfesselungskünstler schlecht hin, nicht mal ich als Gottheit könnte mich unter Wasser einer Zwangsjacke entledigen.",
                     "text": "Harry Houdini"
-                },
-                {
-                    "altSpellings": [
-                        "Blane"
-                    ],
-                    "hint": "Oh, what about that guy who was sealed high in a box for 44 days? That was pretty magical.",
-                    "text": "David Blaine"
                 }
             ],
             "category": "Pop Culture",
             "exactSpelling": false,
             "id": "79427",
             "isValid": "",
-            "prompt": "My 8 Favorite Famous Magicians",
+            "prompt": "Meine 6 liebsten Zauberkünstler",
             "subtype": "subjective",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -6920,74 +6963,137 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "First",
-                        "First Baseman"
+                        "Wasser Ball",
+                        "Waserball"
+                    ],
+                    "hint": "Nicht mal im Wasser ist man heutzutage noch sicher...",
+                    "text": "Wasserball"
+                },
+                {
+                    "altSpellings": [
+                        "Kricket",
+                        "Thorball"
                     ],
                     "hint": "",
-                    "text": "first base"
+                    "text": "Cricket"
                 },
                 {
                     "altSpellings": [
-                        "Second",
-                        "Second Baseman"
+                        "Brenball",
+                        "Brenn Ball"
                     ],
                     "hint": "",
-                    "text": "second base"
+                    "text": "Brennball"
                 },
                 {
                     "altSpellings": [
-                        "Third",
-                        "Third Baseman"
+                        "Amerikan Football",
+                        "Football",
+                        "Amerikanischer Football",
+                        "Rugby"
                     ],
                     "hint": "",
-                    "text": "third base"
+                    "text": "American Football"
                 },
                 {
                     "altSpellings": [
-                        "short"
+                        "Minigolf",
+                        "Mini Golf"
                     ],
-                    "hint": "Who sees most of the action happen in the infield? This position.",
-                    "text": "shortstop"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Who's the worst hitter on the team? This one!",
-                    "text": "pitcher"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "This position is known for leadership and knee surgeries.",
-                    "text": "catcher"
+                    "hint": "Ist jemand von euch Arzt? Die spielen diese Sportart anscheinend sehr gerne...",
+                    "text": "Golf"
                 },
                 {
                     "altSpellings": [
-                        "Left Fielder"
+                        "Snooker",
+                        "Biliard"
+                    ],
+                    "hint": "Was meine größte Angst ist? Von einem riesigen Stab in ein Loch geschubst zu werden!",
+                    "text": "Billiard"
+                },
+                {
+                    "altSpellings": [
+                        "Unihockey",
+                        "Uni Hockey",
+                        "Eishockey",
+                        "Eis Hockey",
+                        "Air-Hockey",
+                        "Air Hockey",
+                        "Street Hockey"
+                    ],
+                    "hint": "Nachts wache ich manchmal schweißgebadet auf, weil ich von diesen SCHLÄGER-Typen geträumt habe.",
+                    "text": "Hockey"
+                },
+                {
+                    "altSpellings": [
+                        "Kegeln",
+                        "Bow Ling"
                     ],
                     "hint": "",
-                    "text": "left field"
+                    "text": "Bowling"
                 },
                 {
                     "altSpellings": [
-                        "Right Fielder"
+                        "Bad Minton",
+                        "Federball",
+                        "Feder Ball"
                     ],
                     "hint": "",
-                    "text": "right field"
+                    "text": "Badminton"
                 },
                 {
                     "altSpellings": [
-                        "Center Fielder"
+                        "Volley Ball",
+                        "Voleyball"
                     ],
-                    "hint": "It's right there in the middle of the outfield. Riiight there in the middle.",
-                    "text": "center field"
+                    "hint": "",
+                    "text": "Volleyball"
+                },
+                {
+                    "altSpellings": [
+                        "Tisch Tennis"
+                    ],
+                    "hint": "",
+                    "text": "Tischtennis"
+                },
+                {
+                    "altSpellings": [
+                        "Tenis"
+                    ],
+                    "hint": "",
+                    "text": "Tennis"
+                },
+                {
+                    "altSpellings": [
+                        "Basket Ball"
+                    ],
+                    "hint": "Würde ich mich nicht so davor fürchten, wäre ich aufgrund meiner Größe in dieser Sportart wohl gar nicht so schlecht.",
+                    "text": "Basketball"
+                },
+                {
+                    "altSpellings": [
+                        "Fussball",
+                        "Fuß Ball",
+                        "Fuss Ball"
+                    ],
+                    "hint": "Bei dieser Sportart könnte ich nur Kopfbälle spielen. Ich habe jetzt schon Kopfschmerzen...",
+                    "text": "Fußball"
+                },
+                {
+                    "altSpellings": [
+                        "Hand Ball"
+                    ],
+                    "hint": "Diese Sportart ist nicht nur sehr gruselig, sondern auch noch sehr diskriminierend, schließlich habe ich gar keine Hände.",
+                    "text": "Handball"
                 }
             ],
             "category": "Sports",
             "exactSpelling": false,
             "id": "83326",
             "isValid": "",
-            "prompt": "What are the 9 defensive positions you can play in baseball?",
-            "subtype": "name",
-            "us": true,
+            "prompt": "Die 15 gruseligsten Ballsportarten",
+            "subtype": "subjective",
+            "us": false,
             "x": false
         },
         {
