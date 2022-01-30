@@ -5752,51 +5752,52 @@
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "Head"
+                    "text": "Safran"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "Shoulders"
+                    "text": "Mehl"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "“MUUUUHH”",
+                    "text": "Milch"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "Aber natürlich, Natriumchlorid darf nicht fehlen!",
+                    "text": "Salz"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "Knees"
+                    "text": "Butter"
                 },
                 {
-                    "altSpellings": [],
+                    "altSpellings": [
+                        "Schweineschmalz",
+                        "Kochschmalz",
+                        "Backschmalz"
+                    ],
                     "hint": "",
-                    "text": "Toes"
+                    "text": "Schmalz"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "Hey, look up here. LOOK up here.",
-                    "text": "Eyes"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Pay attention and listen up.",
-                    "text": "Ears"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "Mouth"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "Nose"
+                    "altSpellings": [
+                        "Ei"
+                    ],
+                    "hint": "Stellt euch vor, ich hätte die Form dieser Zutat. Ich wäre einfach das “Oval von unglaublicher Größe”.",
+                    "text": "Eier"
                 }
             ],
             "category": "Music",
             "exactSpelling": false,
             "id": "82695",
             "isValid": "",
-            "prompt": "Name all the body parts mentioned in the nursery rhyme “Head, Shoulders, Knees and Toes”",
+            "prompt": "Die 7 Zutaten, die man laut dem Kinderlied “Backe, backe Kuchen” für einen Kuchen benötigt",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -7263,52 +7264,71 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "Nile",
-                        "Nyle",
-                        "Nial",
-                        "Niall Horan"
+                        "Amazon",
+                        "Amazon Logistic",
+                        "Amazon Logistik"
                     ],
-                    "hint": "Sounds like that river in Egypt.",
-                    "text": "Niall"
+                    "hint": "",
+                    "text": "Amazon Logistics"
                 },
                 {
                     "altSpellings": [
-                        "Zane",
-                        "Zayn Malik"
+                        "Fed Ex",
+                        "FedEx Corporation",
+                        "Federal Express Corporation",
+                        "Federal Express",
+                        "Fed Express"
                     ],
-                    "hint": "Similar to Billy's last name! Get on the train!",
-                    "text": "Zayn"
+                    "hint": "",
+                    "text": "FedEx"
                 },
                 {
                     "altSpellings": [
-                        "Liam Payne"
+                        "Her Mes"
                     ],
-                    "hint": "Shares a name with Mr. Neeson!",
-                    "text": "Liam"
+                    "hint": "Also dafür, dass dieser Anbieter den Namen eines Gottes trägt, ist der Service nicht wirklich göttlich.",
+                    "text": "Hermes"
                 },
                 {
                     "altSpellings": [
-                        "Harry Styles"
+                        "G L S",
+                        "General Logistics Systems"
                     ],
-                    "hint": "Shares a name with Mr. Potter!",
-                    "text": "Harry"
+                    "hint": "",
+                    "text": "GLS"
                 },
                 {
                     "altSpellings": [
-                        "Lewis",
-                        "Louis Tomlinson"
+                        "D P D",
+                        "Deutscher Paketdienst"
                     ],
-                    "hint": "Like the last name of that fantasy author, C. S. ...",
-                    "text": "Louis"
+                    "hint": "Wie heißen nochmal die Typen mit den rot-schwarzen Uniformen? Schreibt jetzt bitte nicht Marienkäfer!",
+                    "text": "DPD"
+                },
+                {
+                    "altSpellings": [
+                        "U P S",
+                        "United Parcel Service"
+                    ],
+                    "hint": "Ein Anbieter teilt sich den Namen mit dem Ausruf, den ich tätige, wenn mein Paket wieder beim Nachbarn “Keine Werbung” abgegeben wurde.",
+                    "text": "Ups"
+                },
+                {
+                    "altSpellings": [
+                        "D H L",
+                        "Deutsche Post"
+                    ],
+                    "hint": "",
+                    "text": "DHL"
                 }
             ],
-            "category": "Music",
+            "category": "Companies & Brands",
             "exactSpelling": false,
             "id": "83329",
             "isValid": "",
-            "prompt": "Quick! What are the first names of all the members of One Direction?",
-            "subtype": "name",
-            "us": true,
+            "prompt": "Paketdienste, die es nicht schaffen, mir meine Pakete auch zu liefern",
+            "subtype": "subjective",
+            "us": false,
             "x": false
         },
         {
@@ -7530,103 +7550,172 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "dagger"
+                        "Messer"
                     ],
-                    "hint": "Let's go people, take a stab at it.",
-                    "text": "knife"
+                    "hint": "Diese Waffe nach vollbrachter Tat nicht mehr für Gemüse benutzen, Küchenhygiene ist sehr wichtig!",
+                    "text": "Dolch"
                 },
                 {
                     "altSpellings": [
-                        "revolver gun",
-                        "revolving gun"
-                    ],
-                    "hint": "One weapon is a type of gun. And no, gun is not acceptable, c'mon!",
-                    "text": "revolver"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "rope"
-                },
-                {
-                    "altSpellings": [
-                        "monkey wrench",
-                        "spanner"
-                    ],
-                    "hint": "This one is good to have in your tool kit... of MURDER!",
-                    "text": "wrench"
-                },
-                {
-                    "altSpellings": [
-                        "candle"
+                        "Revolver",
+                        "Kanone",
+                        "Knarre",
+                        "Colt",
+                        "Schusswaffe"
                     ],
                     "hint": "",
-                    "text": "candlestick"
+                    "text": "Pistole"
                 },
                 {
                     "altSpellings": [
-                        "pipe",
-                        "lead piping",
-                        "piping"
+                        "Leine",
+                        "Schnur",
+                        "Strang",
+                        "Strick",
+                        "Tau",
+                        "Kabel"
                     ],
-                    "hint": "One is made out of lead, and it's not lead paint. Though that's not good for you either.",
-                    "text": "lead pipe"
+                    "hint": "Mit dieser Waffe kann man sein Gegenüber sprichwörtlich hängen lassen.",
+                    "text": "Seil"
+                },
+                {
+                    "altSpellings": [
+                        "Rohr Zange",
+                        "Zange"
+                    ],
+                    "hint": "",
+                    "text": "Rohrzange"
+                },
+                {
+                    "altSpellings": [
+                        "Leuchter",
+                        "Kerzen Leuchter",
+                        "Armleuchter",
+                        "Arm Leuchter",
+                        "Kerzenständer",
+                        "Kerzen Ständer"
+                    ],
+                    "hint": "Ich hoffe mal, dass euch dieser Hinweis ERLEUCHTET.",
+                    "text": "Kerzenleuchter"
+                },
+                {
+                    "altSpellings": [
+                        "Rohr",
+                        "Heizrohr",
+                        "Röhre",
+                        "Stange",
+                        "Heizungs Rohr"
+                    ],
+                    "hint": "",
+                    "text": "Heizungsrohr"
                 }
             ],
             "category": "Games",
             "exactSpelling": false,
             "id": "83338",
             "isValid": "",
-            "prompt": "What were the original 6 weapons in the board game [i]Clue[/i]?",
+            "prompt": "Die 6 Tatwaffen im originalen [i]Cluedo[/i]",
             "subtype": "name",
-            "us": true,
-            "x": false
+            "us": false,
+            "x": true
         },
         {
             "answers": [
                 {
                     "altSpellings": [
-                        "Lake Ontario"
+                        "Die Ems"
                     ],
-                    "hint": "One is also the name of a Canadian province!",
-                    "text": "Ontario"
+                    "hint": "",
+                    "text": "Ems"
                 },
                 {
                     "altSpellings": [
-                        "Lake Huron"
+                        "Spre",
+                        "Große Spree",
+                        "Die Spree"
                     ],
-                    "hint": "This lake was named after an Iroquois tribe.",
-                    "text": "Huron"
+                    "hint": "",
+                    "text": "Spree"
                 },
                 {
                     "altSpellings": [
-                        "Lake Michigan"
+                        "Nekar",
+                        "Necker",
+                        "der Neckar"
                     ],
-                    "hint": "If you've ever met anyone from this state they usually pull up their right hand and point to where they're from.",
-                    "text": "Michigan"
+                    "hint": "",
+                    "text": "Neckar"
                 },
                 {
                     "altSpellings": [
-                        "Lake Erie"
+                        "Sale",
+                        "Sächsische Saale",
+                        "Thüringische Saale",
+                        "Vogtländische Saale",
+                        "Die Saale"
                     ],
-                    "hint": "This lake sure is spooky!",
-                    "text": "Erie"
+                    "hint": "",
+                    "text": "Saale"
                 },
                 {
                     "altSpellings": [
-                        "Lake Superior"
+                        "Hafel",
+                        "Hawel",
+                        "Havel",
+                        "Havelland",
+                        "Die Havel"
                     ],
-                    "hint": "This lake sure is big!",
-                    "text": "Superior"
+                    "hint": "“Herr von Ribbeck auf Ribbeck im *Hust*-Land, ein Birnbaum in seinem Garten stand...”",
+                    "text": "Havel"
+                },
+                {
+                    "altSpellings": [
+                        "Der Main"
+                    ],
+                    "hint": "Frankfurt? Welches Frankfurt meintest du noch gleich?",
+                    "text": "Main"
+                },
+                {
+                    "altSpellings": [
+                        "Die Donau"
+                    ],
+                    "hint": "Einer ist immerhin der zweitlängste Fluss Europas! In Deutschland reicht es leider nur für die Teilnehmerurkunde: Platz 4.",
+                    "text": "Donau"
+                },
+                {
+                    "altSpellings": [
+                        "Elve",
+                        "Die Elbe"
+                    ],
+                    "hint": "Dieser Fluss entspringt in Tschechien und reist ganze 727 Kilometer durch Deutschland, bevor er in die Nordsee mündet.",
+                    "text": "Elbe"
+                },
+                {
+                    "altSpellings": [
+                        "Werser",
+                        "Wersern",
+                        "Werra",
+                        "Die Weser"
+                    ],
+                    "hint": "Dieser Fluss durchquert sowohl Bremen als auch Bremerhaven, bevor er in die Nordsee mündet.",
+                    "text": "Weser"
+                },
+                {
+                    "altSpellings": [
+                        "Rein",
+                        "Der Rhein"
+                    ],
+                    "hint": "",
+                    "text": "Rhein"
                 }
             ],
             "category": "Geography & Landmarks",
             "exactSpelling": false,
             "id": "83340",
             "isValid": "",
-            "prompt": "What are the 5 Great Lakes of North America?",
+            "prompt": "Die 10 längsten Flüsse innerhalb Deutschlands",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
