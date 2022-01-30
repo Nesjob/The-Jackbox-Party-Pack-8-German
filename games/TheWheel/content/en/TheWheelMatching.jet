@@ -641,59 +641,59 @@
   {
    "answers": [
     {
-     "match": "circle",
+     "match": "Kreis",
      "text": "Japan"
     },
     {
-     "match": "triangle",
-     "text": "Czech Republic"
+     "match": "Dreieck",
+     "text": "Tschechien"
     },
     {
-     "match": "star (singular)",
+     "match": "Stern (einer)",
      "text": "Vietnam"
     },
     {
-     "match": "leaf",
-     "text": "Canada"
+     "match": "Blatt",
+     "text": "Kanada"
     },
     {
-     "match": "eagle",
-     "text": "Mexico"
+     "match": "Adler",
+     "text": "Mexiko"
     },
     {
-     "match": "dragon",
+     "match": "Drache",
      "text": "Wales"
     },
     {
-     "match": "stars (multiple)",
+     "match": "Sterne (mehrere)",
      "text": "China"
     },
     {
-     "match": "sword",
-     "text": "Saudi Arabia"
+     "match": "Schwert",
+     "text": "Saudi-Arabien"
     },
     {
-     "match": "crescent moon",
-     "text": "Maldives"
+     "match": "Halbmond",
+     "text": "Malediven"
     },
     {
-     "match": "shape of Cyprus",
-     "text": "Cyprus"
+     "match": "Form von Zypern",
+     "text": "Zypern"
     }
    ],
    "category": "Geography & Landmarks",
    "decoys": [],
    "headers": [
     {
-     "match": "Flags",
-     "text": "Nations"
+     "match": "Flaggen",
+     "text": "Nationen"
     }
    ],
    "id": "76865",
    "isValid": "",
-   "prompt": "Match the nation to its flag",
+   "prompt": "Ordne der Nation ihrer Flagge zu",
    "promptHeader": "National Flags",
-   "us": true,
+   "us": false,
    "x": false
   },
   {

@@ -111,25 +111,22 @@
   {
    "answers": [
     {
-     "text": "F"
-    },
-    {
-     "text": "H"
+     "text": "P"
     },
     {
      "text": "V"
     },
     {
-     "text": "W"
+     "text": "Ü"
     },
     {
-     "text": "Y"
-    },
-    {
-     "text": "K"
+     "text": "Ä"
     },
     {
      "text": "J"
+    },
+    {
+     "text": "Ö"
     },
     {
      "text": "X"
@@ -138,7 +135,7 @@
      "text": "Q"
     },
     {
-     "text": "Z"
+     "text": "Y"
     }
    ],
    "category": "Games",
@@ -147,7 +144,10 @@
      "text": "G"
     },
     {
-     "text": "P"
+     "text": "K"
+    },
+    {
+     "text": "Z"
     },
     {
      "text": "M"
@@ -155,68 +155,68 @@
    ],
    "id": "76731",
    "isValid": "",
-   "prompt": "Which Scrabble letters are worth 4 points or more?",
-   "us": true,
+   "prompt": "Welche Scrabble-Buchstaben sind 4 Punkte oder mehr wert?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "hippopotamus"
+     "text": "Nilpferd"
     },
     {
-     "text": "lion"
+     "text": "Löwe"
     },
     {
-     "text": "cheetah"
+     "text": "Gepard"
     },
     {
-     "text": "rhinoceros"
+     "text": "Nashorn"
     },
     {
-     "text": "zebra"
+     "text": "Zebra"
     },
     {
-     "text": "giraffe"
+     "text": "Giraffe"
     },
     {
-     "text": "black mamba"
+     "text": "schwarze Mamba"
     },
     {
-     "text": "bonobo"
+     "text": "Bonobo"
     },
     {
-     "text": "okapi"
+     "text": "Okapi"
     },
     {
-     "text": "mandrill"
+     "text": "Mandrill"
     }
    ],
    "category": "Animals",
    "decoys": [
     {
-     "text": "jaguar"
+     "text": "Jaguar"
     },
     {
-     "text": "three-toed sloth"
+     "text": "Faultier"
     },
     {
-     "text": "toucan"
+     "text": "Tukan"
     },
     {
-     "text": "tiger"
+     "text": "Tiger"
     },
     {
-     "text": "wombat"
+     "text": "Wombat"
     },
     {
-     "text": "orangutan"
+     "text": "Orang-Utan"
     }
    ],
    "id": "76732",
    "isValid": "",
-   "prompt": "Which animals are from Africa?",
-   "us": true,
+   "prompt": "Welche Tiere stammen aus Afrika?",
+   "us": false,
    "x": false
   },
   {
@@ -561,13 +561,13 @@
      "text": "225"
     },
     {
-     "text": "96,100"
+     "text": "96.100"
     },
     {
-     "text": "290,521"
+     "text": "290.521"
     },
     {
-     "text": "490,000"
+     "text": "490.000"
     },
     {
      "text": "121"
@@ -588,19 +588,19 @@
      "text": "-9"
     },
     {
-     "text": "2,705"
+     "text": "2.705"
     },
     {
-     "text": "3,000"
+     "text": "3.000"
     },
     {
-     "text": "579,000"
+     "text": "579.000"
     }
    ],
    "id": "76765",
    "isValid": "",
-   "prompt": "Which numbers have a perfect square?",
-   "us": true,
+   "prompt": "Aus welchen Zahlen kann man glatt die Quadratwurzel ziehen?",
+   "us": false,
    "x": false
   },
   {
@@ -650,8 +650,8 @@
    ],
    "id": "76768",
    "isValid": "",
-   "prompt": "Which of these automakers are European?",
-   "us": true,
+   "prompt": "Welche dieser Autohersteller sind europäisch?",
+   "us": false,
    "x": false
   },
   {
@@ -798,7 +798,7 @@
    "id": "76771",
    "isValid": "",
    "prompt": "Welche Namen sind Live-Programme von [i]Mario Barth[/i]?",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -1070,8 +1070,8 @@
    ],
    "id": "76776",
    "isValid": "",
-   "prompt": "Which of these are Apple computer operating system code names?",
-   "us": true,
+   "prompt": "Welche davon sind Codenamen für Apple-Betriebssysteme?",
+   "us": false,
    "x": false
   },
   {
@@ -1922,8 +1922,8 @@
    ],
    "id": "76851",
    "isValid": "",
-   "prompt": "Which of these are Nintendo games that feature Luigi?",
-   "us": true,
+   "prompt": "Welches davon sind Nintendo-Spiele mit Luigi?",
+   "us": false,
    "x": false
   },
   {
@@ -2985,37 +2985,37 @@
   {
    "answers": [
     {
-     "text": "Fire"
+     "text": "Feuer"
     },
     {
-     "text": "Water"
+     "text": "Wasser"
     },
     {
-     "text": "Rock"
+     "text": "Gestein"
     },
     {
-     "text": "Electric"
+     "text": "Elektro"
     },
     {
-     "text": "Psychic"
+     "text": "Psycho"
     },
     {
-     "text": "Ice"
+     "text": "Eis"
     },
     {
-     "text": "Fighting"
+     "text": "Kampf"
     },
     {
-     "text": "Ghost"
+     "text": "Geist"
     },
     {
-     "text": "Dragon"
+     "text": "Drache"
     },
     {
-     "text": "Fairy"
+     "text": "Fee"
     },
     {
-     "text": "Poison"
+     "text": "Gift"
     },
     {
      "text": "Normal"
@@ -3024,28 +3024,28 @@
    "category": "Games",
    "decoys": [
     {
-     "text": "Caffeine"
+     "text": "Koffein"
     },
     {
-     "text": "Sleeping"
+     "text": "Schlaf"
     },
     {
-     "text": "Clumsy"
+     "text": "Plump"
     },
     {
-     "text": "Grandparent"
+     "text": "Antik"
     },
     {
-     "text": "Martian"
+     "text": "Mars"
     },
     {
-     "text": "Doily"
+     "text": "Hellhörig"
     }
    ],
    "id": "77354",
    "isValid": "",
-   "prompt": "What are the official Pokémon types?",
-   "us": true,
+   "prompt": "Was sind offizielle Pokémon Typen?",
+   "us": false,
    "x": false
   },
   {
@@ -3930,13 +3930,13 @@
   {
    "answers": [
     {
-     "text": "Bumble"
+     "text": "Neu.de"
     },
     {
      "text": "Tinder"
     },
     {
-     "text": "Hinge"
+     "text": "Jaumo"
     },
     {
      "text": "Grindr"
@@ -3945,10 +3945,10 @@
      "text": "Her"
     },
     {
-     "text": "Raya"
+     "text": "Lovoo"
     },
     {
-     "text": "Match"
+     "text": "Bildkontakte"
     }
    ],
    "category": "Internet",
@@ -3957,25 +3957,25 @@
      "text": "Vespa"
     },
     {
-     "text": "Paisley"
+     "text": "tolldate"
     },
     {
-     "text": "Gasp"
+     "text": "schluck"
     },
     {
-     "text": "Slop"
+     "text": "ePartner"
     },
     {
      "text": "Qatar"
     },
     {
-     "text": "Soup"
+     "text": "Suppe"
     }
    ],
    "id": "77679",
    "isValid": "",
-   "prompt": "As of 2021, which of these were actual dating apps?",
-   "us": true,
+   "prompt": "Welche davon sind echte Dating-Apps?",
+   "us": false,
    "x": false
   },
   {

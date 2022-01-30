@@ -121,54 +121,54 @@
   {
    "answers": [
     {
-     "text": "Jefferson City, Missouri",
+     "text": "Würzburg",
      "value": "1"
     },
     {
-     "text": "Des Moines, Iowa",
+     "text": "München",
      "value": "2"
     },
     {
-     "text": "Springfield, IL",
+     "text": "Stuttgart",
      "value": "3"
     },
     {
-     "text": "Denver, Colorado",
+     "text": "Frankfurt am Main",
      "value": "4"
     },
     {
-     "text": "Jackson, Mississippi",
+     "text": "Salzburg",
      "value": "5"
     },
     {
-     "text": "Dover, Delaware",
+     "text": "Zürich",
      "value": "6"
     },
     {
-     "text": "Augusta, Maine",
+     "text": "Köln",
      "value": "7"
     },
     {
-     "text": "Olympia, Washington",
+     "text": "Hannover",
      "value": "8"
     },
     {
-     "text": "Juneau, Alaska",
+     "text": "Berlin",
      "value": "9"
     },
     {
-     "text": "Honolulu, Hawaii",
+     "text": "Hamburg",
      "value": "10"
     }
    ],
    "category": "Geography & Landmarks",
    "id": "76792",
    "isValid": "",
-   "prompt": "Which U.S. capital is closer to Topeka, Kansas?",
+   "prompt": "Welche Stadt liegt am nächsten an Nürnberg, Bayern?",
    "sort": "ascending",
    "subtype": "closest",
-   "unit": "(in miles)",
-   "us": true,
+   "unit": "(Luftlinie in Kilometern)",
+   "us": false,
    "x": false
   },
   {
@@ -852,15 +852,15 @@
      "value": "1439"
     },
     {
-     "text": "India",
+     "text": "Indien",
      "value": "1380"
     },
     {
-     "text": "United States of America",
+     "text": "Vereinigte Staaten von Amerika",
      "value": "331"
     },
     {
-     "text": "Indonesia",
+     "text": "Indonesien",
      "value": "273"
     },
     {
@@ -868,7 +868,7 @@
      "value": "220"
     },
     {
-     "text": "Brazil",
+     "text": "Brasilien",
      "value": "212"
     },
     {
@@ -876,11 +876,11 @@
      "value": "206"
     },
     {
-     "text": "Russia",
+     "text": "Russland",
      "value": "146"
     },
     {
-     "text": "Mexico",
+     "text": "Mexiko",
      "value": "129"
     },
     {
@@ -888,34 +888,34 @@
      "value": "126"
     },
     {
-     "text": "Ethiopia",
+     "text": "Ethiopien",
      "value": "115"
     },
     {
-     "text": "Philippines",
+     "text": "Philippinen",
      "value": "109"
     },
     {
-     "text": "Canada",
+     "text": "Kanada",
      "value": "38"
     },
     {
-     "text": "Jamaica",
+     "text": "Jamaika",
      "value": "3"
     },
     {
-     "text": "Iceland",
+     "text": "Island",
      "value": "1"
     }
    ],
    "category": "Geography & Landmarks",
    "id": "78775",
    "isValid": "",
-   "prompt": "As of 2020, which country had a higher population?",
+   "prompt": "Welches Land hatte im Jahr 2020 eine höhere Bevölkerungszahl?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in millions of people)",
-   "us": true,
+   "unit": "(in Millionen Menschen)",
+   "us": false,
    "x": false
   },
   {
@@ -1281,11 +1281,11 @@
    "category": "Games",
    "id": "78875",
    "isValid": "",
-   "prompt": "In 2020, which best-selling video game sold more copies?",
+   "prompt": "Welcher Videospiel-Bestseller hat im Jahr 2020 mehr Exemplare verkauft?",
    "sort": "ascending",
    "subtype": "most/least",
-   "unit": "(in units sold)",
-   "us": true,
+   "unit": "(in verkauften Spielen)",
+   "us": false,
    "x": false
   },
   {
@@ -1745,11 +1745,11 @@
    "category": "Internet",
    "id": "79064",
    "isValid": "",
-   "prompt": "In 2020, which site on the interweb was visited more often?",
+   "prompt": "Welche Seite im Internet wurde 2020 häufiger besucht?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in billions of visitors per month)",
-   "us": true,
+   "unit": "(in Milliarden Besucher pro Monat)",
+   "us": false,
    "x": false
   },
   {
@@ -4620,54 +4620,46 @@
   {
    "answers": [
     {
-     "text": "medical director",
+     "text": "Ärztlicher Direktor",
      "value": "1"
     },
     {
-     "text": "head of department",
+     "text": "Chefarzt",
      "value": "2"
     },
     {
-     "text": "attending physician",
+     "text": "Leitender Oberarzt",
      "value": "3"
     },
     {
-     "text": "fellow",
+     "text": "Oberarzt",
      "value": "4"
     },
     {
-     "text": "chief resident",
+     "text": "Facharzt",
      "value": "5"
     },
     {
-     "text": "senior resident",
+     "text": "Assistenzarzt",
      "value": "6"
     },
     {
-     "text": "junior resident",
+     "text": "Student im Praktischen Jahr (PJ)",
      "value": "7"
     },
     {
-     "text": "intern",
+     "text": "Famulus",
      "value": "8"
-    },
-    {
-     "text": "medical student",
-     "value": "9"
-    },
-    {
-     "text": "pre-med student",
-     "value": "10"
     }
    ],
    "category": "Occupations",
    "id": "85637",
    "isValid": "",
-   "prompt": "Which of these roles are closest to the top of a hospital hierarchy?",
+   "prompt": "Welcher dieser Berufe steht am höchsten in der Krankenhaushierarchie?",
    "sort": "ascending",
    "subtype": "closest",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {

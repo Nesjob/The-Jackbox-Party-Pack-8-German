@@ -7380,7 +7380,9 @@
                         "Nordpolarmeer",
                         "Nördliches Eismeer",
                         "Arktische See",
-                        "Arktik"
+                        "Arktik",
+                        "Arktischer",
+                        "Nördlicher"
                     ],
                     "hint": "",
                     "text": "Arktischer Ozean"
@@ -7391,7 +7393,9 @@
                         "Südpolarmeer",
                         "Südliches Eismeer",
                         "Antarktischer Ozean",
-                        "Antarktik"
+                        "Antarktik",
+                        "Antarktischer",
+                        "Südlicher"
                     ],
                     "hint": "Ach du Schande, dieser Ozean ist ja eiskalt! Wie halten das Pinguine nur aus?",
                     "text": "Südlicher Ozean"
@@ -7399,7 +7403,8 @@
                 {
                     "altSpellings": [
                         "Indische Ozean",
-                        "Indik"
+                        "Indik",
+                        "Indischer"
                     ],
                     "hint": "Ironischerweise ist dieser Ozean nicht mal in der Nähe von Indien! Okay, kleiner Scherz, er liegt direkt bei Indien.",
                     "text": "Indischer Ozean"
@@ -7407,7 +7412,8 @@
                 {
                     "altSpellings": [
                         "Atlantische Ozean",
-                        "Atlantik"
+                        "Atlantik",
+                        "Atlantischer"
                     ],
                     "hint": "",
                     "text": "Atlantischer Ozean"
@@ -7416,6 +7422,7 @@
                     "altSpellings": [
                         "Pazifische Ozean",
                         "Pazifik",
+                        "Pazifischer",
                         "Stiller Ozean",
                         "Großer Ozean"
                     ],
