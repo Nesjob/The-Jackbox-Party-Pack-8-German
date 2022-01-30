@@ -81,192 +81,209 @@
   },
   {
    "altSpellings": [
-    "ICE",
+    "Motor",
+    "der Motor",
+    "ein Motor",
     "Combustion Engine",
-    "the internal combustion engine",
-    "an internal combustion engine"
+    "der Verbrennungsmotor",
+    "ein Verbrennungsmotor",
+    "Triebwerk",
+    "Antrieb",
+    "Treiber"
    ],
-   "answer": "Internal Combustion Engine",
+   "answer": "Verbrennungsmotor",
    "category": "History",
    "clues": [
     {
-     "clue": "It was invented over 100 years ago.",
+     "clue": "Es wurde vor über 100 Jahren erfunden.",
      "clueComment": ""
     },
     {
-     "clue": "It's not the wheel.",
-     "clueComment": "It's not the wheel. I mean, come on. Please."
+     "clue": "Es ist nicht das Rad.",
+     "clueComment": "Es ist nicht das Rad. Ich meine, kommt schon."
     },
     {
-     "clue": "And it's not fire, but it has a spark to it.",
-     "clueComment": "And it's not fire, but it has a spark to it. Yes, I know fire's not an invention. It's a useful *discovery*, like the eggplant emoji."
+     "clue": "Und es ist kein Feuer, aber es ist schon ziemlich heiß.",
+     "clueComment": "Und es ist kein Feuer, aber es ist schon ziemlich heiß. Ja, ich weiß. Feuer ist keine Erfindung. Es ist eine nützliche *Entdeckung*, wie das Auberginen-Emoji."
     },
     {
-     "clue": "It helped usher in the Industrial Age.",
+     "clue": "Es hat dazu beigetragen, das Industriezeitalter einzuläuten.",
      "clueComment": ""
     },
     {
-     "clue": "It involves a fixed cylinder and a moving piston.",
+     "clue": "Es umfasst einen festen Zylinder und einen beweglichen Kolben.",
      "clueComment": ""
     },
     {
-     "clue": "It’s a kind of engine and your car isn’t going anywhere without it.",
-     "clueComment": "It's a kind of engine and your car isn't going anywhere without it. Unless your car is all-electric. Sorry, Tesla owners! (aside) They're so sensitive."
+     "clue": "Ohne dieses Bauteil fährt euer Auto nirgendwo hin!",
+     "clueComment": "Ohne dieses Bauteil fährt euer Auto nirgendwo hin! Außer euer Auto ist komplett elektrisch. Sorry, Tesla Besitzer. (nebenbei) Die sind immer so empfindlich..."
     }
    ],
    "followup": null,
    "id": "79919",
    "isValid": "",
-   "prompt": "What is my second favorite invention?",
-   "reveal": "Thanks for the memories, Steam Engine. Now say hello to...",
-   "us": true,
+   "prompt": "Was ist meine zweitliebste Erfindung?",
+   "reveal": "Danke für die schönen Erinnerungen, Dampfmaschine, jetzt mach Platz für den...",
+   "us": false,
    "x": false
   },
   {
    "altSpellings": [
-    "head hair",
-    "human hair",
-    "hair on head"
+    "Behaarung",
+    "Menschliches Haar",
+    "Menschliche Haare",
+    "Haar",
+    "Kopf Haar"
    ],
-   "answer": "Hair",
+   "answer": "Haare",
    "category": "Anatomy",
    "clues": [
     {
-     "clue": "It is the second fastest growing tissue, aside from bone marrow.",
+     "clue": "Neben dem Knochenmark ist es das am zweitschnellsten wachsende Gewebe.",
      "clueComment": ""
     },
     {
-     "clue": "The average person has 100,000 to 150,000 of these.",
-     "clueComment": "The average person has 100,000 to 150,000 of these. And you thought you just had two of everything."
+     "clue": "Die durchschnittliche Person hat 100.000 bis 150.000 davon.",
+     "clueComment": "Die durchschnittliche Person hat 100.000 bis 150.000 davon. Und ihr dachtet, ihr hättet von allem nur zwei."
     },
     {
-     "clue": "It is of the same substance as horse hooves.",
+     "clue": "Es ist aus dem gleichen Material wie Pferdehufe.",
      "clueComment": ""
     },
     {
-     "clue": "It is one of your few customizable parts.",
-     "clueComment": "It is one of your few customizable parts. I'm not talking about knee replacements. EVERYONE customizes this thing."
+     "clue": "Es ist eines eurer wenigen anpassbaren Körperteile.",
+     "clueComment": "Es ist eines eurer wenigen anpassbaren Körperteile. Und ich rede nicht von Knieprothesen. Jeder passt die Dinger heutzutage an."
     },
     {
-     "clue": "For most, it predominantly grows on the scalp.",
+     "clue": "Bei den meisten wächst es überwiegend auf der Kopfhaut.",
      "clueComment": ""
     }
    ],
-   "followup": "I'm thinking about your little human bodies, yes I am.",
+   "followup": "Ich denke an eure kleinen menschlichen Körper, oh ja, das tu ich.",
    "id": "80061",
    "isValid": "",
-   "prompt": "Which feature of the human body do I find most fascinating?",
-   "reveal": "\"Flow it, show it, long as God can grow it...\"",
-   "us": true,
+   "prompt": "Welche Eigenschaft des menschlichen Körpers finde ich am faszinierendsten?",
+   "reveal": "\"Lass es wachsen, bis zur unendlichen Größe. Es sind...\"",
+   "us": false,
    "x": false
   },
   {
    "altSpellings": [
-    "Conair"
+    "perfekte Geheimnis",
+    "Das Geheimnis"
    ],
-   "answer": "[i]Con Air[/i]",
+   "answer": "[i]Das perfekte Geheimnis[/i]",
    "category": "Film & TV",
    "clues": [
     {
-     "clue": "It's full of action!"
+     "clue": "Es ist ein tragikomisches Trauerspiel!"
     },
     {
-     "clue": "Nic makes a lot of... acting choices in this one.",
-     "clueComment": "Nic makes a lot of... acting choices in this one. Can't cage the Cage, baby!"
+     "clue": "In dem Film sieht man sehr... viel von Elyas.",
+     "clueComment": "In dem Film sieht man sehr... viel von Elyas. Aber nicht so wie ihr denkt!"
     },
     {
-     "clue": "It involves a vehicle. And some bad dudes."
+     "clue": "Karoline Herfurth ist auch dabei, sie spielt die Ehefrau von M'Barek."
     },
     {
-     "clue": "It's a classic from the 90s!",
-     "clueComment": "It's a classic from the 90s! That takes [i]Snake Eyes[/i] off the table. Brian De Palma, what were you doing!?"
+     "clue": "Der Film ist 2019 erschienen!",
+     "clueComment": "Der Film ist 2019 erschienen! Damit sind alle [i]Fack ju Göhte[/i] Teile raus!"
     },
     {
-     "clue": "The plot is about a man who is in the wrong place at the wrong time.",
-     "clueComment": "The plot is about a man who is in the wrong place at the wrong time. Aren't we all though?"
+     "clue": "Der Film spielt fast ausschließlich in einer Dachgeschosswohnung in München.",
+     "clueComment": "Der Film spielt fast ausschließlich in einer Dachgeschosswohnung in München. Und am Ende stirbt nichtmal einer!"
     },
     {
-     "clue": "An alternate title could be [i]Prisoners on a Plane[/i]."
+     "clue": "Sieben Freunde stellen ihr Vertrauen auf die Probe, indem sie ihre eingehenden Handynachrichten mit allen teilen."
     }
    ],
-   "followup": "Let's get on the same Cage page.",
+   "followup": "Wer das richtig hatte bekommt von mir M'Bares.",
    "id": "80103",
    "isValid": "",
-   "prompt": "What is my favorite Nicolas Cage movie?",
-   "reveal": "Bring it in for a landing...",
-   "us": true,
+   "prompt": "Was ist mein Lieblingsfilm mit Elyas M'Barek?",
+   "reveal": "Es ist unglaublich, es ist perfekt, es ist...",
+   "us": false,
    "x": false
   },
   {
    "altSpellings": [
-    "Hulu plus",
-    "Hulu TV",
-    "Hulu Live",
-    "Hulu app"
+    "Joyn Plus",
+    "Joyn +",
+    "Joyn Live",
+    "Joyn App",
+    "Joyn TV",
+    "7 TV",
+    "ProSieben",
+    "ProSieben TV",
+    "Join"
    ],
-   "answer": "Hulu",
+   "answer": "Joyn",
    "category": "Companies & Brands",
    "clues": [
     {
-     "clue": "It was founded in 2007."
+     "clue": "Es wurde erst neulich, 2017 gegründet."
     },
     {
-     "clue": "If you pay a little extra, you can watch without ads.",
-     "clueComment": "If you pay a little extra, you can watch without ads. I mean... it's probably worth it?"
+     "clue": "Wenn man etwas mehr bezahlt, kann man sogar werbefrei und in HD schauen.",
+     "clueComment": "Wenn man etwas mehr bezahlt, kann man sogar werbefrei und in HD schauen. Ich schätze, dann lohnt es sich?"
     },
     {
-     "clue": "It's popular for its on-demand library of current and classic TV shows.",
+     "clue": "Es ist bekannt für ein großes Angebot an kostenlosen TV Sendern. Es gibt sogar eine Mediathek.",
      "clueComment": ""
     },
     {
-     "clue": "The first show to win this service an Emmy was [i]The Handmaid's Tale[/i]."
+     "clue": "Man kann unter anderem die preisgekrönte Serie [i]Jerks[/i] streamen.",
+     "clueComment": "Man kann unter anderem die preisgekrönte Serie [i]Jerks[/i] streamen. Das Ding hat mehrfach den deutschen Comedypreis bekommen, Leute!"
     },
     {
-     "clue": "It's a word someone might associate with a type of hoop."
+     "clue": "Es ist ein Wort, welches so klingt, wie das englische Wort für [i]beitreten[/i]."
     }
    ],
-   "followup": "Sometimes a wheel just needs to roll back and relax.",
+   "followup": "Manchmal muss man sich als Rad einfach nur zurückrollen und entspannen.",
    "id": "80107",
    "isValid": "",
-   "prompt": "What is my most used streaming service?",
-   "reveal": "Get ready to binge!",
-   "us": true,
+   "prompt": "Welchen Streaming-Anbieter nutze ich am meisten?",
+   "reveal": "Macht euch bereit zum binge-watchen!",
+   "us": false,
    "x": false
   },
   {
    "altSpellings": [
-    "Schwimmer"
+    "Domtendo",
+    "Domi",
+    "Geilkind",
+    "Neumayer"
    ],
-   "answer": "David Schwimmer",
+   "answer": "Dominik Neumayer",
    "category": "Celebrities",
    "clues": [
     {
-     "clue": "My favorite David is an actor.",
+     "clue": "Mein Lieblings-Dominik ist ein YouTuber.",
      "clueComment": ""
     },
     {
-     "clue": "My favorite David co-founded Chicago's Lookingglass Theatre Company.",
+     "clue": "Er lädt schon seit 2010 seine Videos hoch. Ein echtes Urgestein!",
      "clueComment": ""
     },
     {
-     "clue": "My favorite David was on a beloved sitcom that ran for 10 seasons.",
+     "clue": "Er ist Preisträger der Goldenen Kamera in der Kategorie [i]Bester Let's Player & Gamer[/i].",
      "clueComment": ""
     },
     {
-     "clue": "My favorite David was a nerdy, romantic paleontologist among a tight circle of friends on said sitcom.",
-     "clueComment": "My favorite David was a nerdy, romantic paleontologist among a tight circle of friends on said sitcom. Sounds like a [i]Big Bang Theory[/i] character... or not?"
+     "clue": "Mein Lieblings-Dominik ist eher unter einem Künslternamen bekannt. Aber der Wortanfang ist der gleiche!",
+     "clueComment": ""
     },
     {
-     "clue": "My favorite David’s last name sounds like [i]swimmer[/i]. Yet I have never seen him swim!",
+     "clue": "Es ist der wohl bekannteste Nintendo Let's Player auf YouTube!",
      "clueComment": ""
     }
    ],
    "followup": null,
    "id": "80166",
    "isValid": "",
-   "prompt": "Everyone has a favorite David! Here's mine!",
+   "prompt": "Jeder hat einen Lieblings-Dominik. Hier ist meiner!",
    "reveal": null,
-   "us": true,
+   "us": false,
    "x": false
   },
   {
