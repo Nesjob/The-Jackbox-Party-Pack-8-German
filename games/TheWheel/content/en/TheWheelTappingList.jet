@@ -1137,61 +1137,55 @@
   {
    "answers": [
     {
-     "text": "tomato"
+     "text": "Tomate"
     },
     {
-     "text": "cucumber"
+     "text": "Gurke"
     },
     {
-     "text": "sweet bell pepper"
+     "text": "Paprika"
     },
     {
-     "text": "pumpkin"
+     "text": "Kürbis"
     },
     {
-     "text": "winter squash"
+     "text": "Oliven"
     },
     {
-     "text": "olives"
+     "text": "Aubergine"
     },
     {
-     "text": "eggplant"
+     "text": "Avocado"
     },
     {
-     "text": "avocado"
-    },
-    {
-     "text": "green beans"
-    },
-    {
-     "text": "okra"
+     "text": "Grüne Bohne"
     }
    ],
    "category": "Food & Drink",
    "decoys": [
     {
-     "text": "spinach"
+     "text": "Spinat"
     },
     {
-     "text": "onion"
+     "text": "Zwiebel"
     },
     {
-     "text": "kale"
+     "text": "Grünkohl"
     },
     {
-     "text": "radish"
+     "text": "Radieschen"
     },
     {
-     "text": "turnip"
+     "text": "Rübe"
     },
     {
-     "text": "carrot"
+     "text": "Karotte"
     }
    ],
    "id": "76778",
    "isValid": "",
-   "prompt": "Which of these \"veggies\" are, weirdly enough, fruit?",
-   "us": true,
+   "prompt": "Welche dieser “Gemüsesorten” sind genau genommen eigentlich Obstsorten?",
+   "us": false,
    "x": false
   },
   {
@@ -1413,100 +1407,118 @@
   {
    "answers": [
     {
-     "text": "The Fool"
+     "text": "Der Narr"
     },
     {
-     "text": "Knight of Cups"
+     "text": "Die Herrscherin"
     },
     {
-     "text": "The Lovers"
+     "text": "Der Liebende"
     },
     {
-     "text": "Two of Swords"
+     "text": "Die Gerechtigkeit"
     },
     {
-     "text": "The Magician"
+     "text": "Der Magier"
     },
     {
-     "text": "Death"
+     "text": "Der Tod"
     },
     {
-     "text": "The Tower"
+     "text": "Der Turm"
     },
     {
-     "text": "Queen of Wands"
+     "text": "Der Gehängte"
+    },
+    {
+     "text": "Der Stern"
     }
    ],
    "category": "Games",
    "decoys": [
     {
-     "text": "The Cat"
+     "text": "Die Katze"
     },
     {
-     "text": "King of Hands"
+     "text": "Der König"
     },
     {
-     "text": "Ace of Base"
+     "text": "Das Leben"
     },
     {
-     "text": "The Tumbler"
+     "text": "Der Kerker"
+    },
+    {
+     "text": "Der Luftikus"
+    },
+    {
+     "text": "Der Wanderer"
+    },
+    {
+     "text": "Der Jupiter"
     }
    ],
    "id": "76796",
    "isValid": "",
-   "prompt": "Which cards will you find in a traditional tarot deck?",
-   "us": true,
+   "prompt": "Welche Tarotkarten findet man in einem “Tarot de Marseille”-Set?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "chalk"
+     "text": "Kreide"
     },
     {
-     "text": "coal"
+     "text": "Kohle"
     },
     {
-     "text": "sandstone"
+     "text": "Sandstein"
     },
     {
-     "text": "siltstone"
+     "text": "Siltstein"
     },
     {
-     "text": "flint"
+     "text": "Feuerstein"
     },
     {
-     "text": "dolomite"
+     "text": "Dolomit"
     },
     {
-     "text": "iron ore"
+     "text": "Kies"
     },
     {
-     "text": "shale"
+     "text": "Schiefer"
+    },
+    {
+     "text": "Mergelstein"
     }
    ],
    "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "pumice"
+     "text": "Ladanit"
     },
     {
-     "text": "granite"
+     "text": "Granit"
     },
     {
-     "text": "obsidian"
+     "text": "Permafrost"
     },
     {
-     "text": "asphalt"
+     "text": "Asphalt"
     },
     {
-     "text": "kyber crystals"
+     "text": "Saufstein"
+    },
+    {
+     "text": "Taft"
     }
    ],
    "id": "76798",
    "isValid": "",
-   "prompt": "Which of these are sedimentary rocks?",
-   "us": true,
+   "prompt": "Welches sind Sedimentgesteine?",
+   "us": false,
    "x": false
   },
   {
