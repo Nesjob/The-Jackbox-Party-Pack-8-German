@@ -3329,7 +3329,7 @@
                     "altSpellings": [
                         "Benzinkutsche"
                     ],
-                    "hint": "Clothes could go here, according to the name alone.",
+                    "hint": "",
                     "text": "Kutsche"
                 },
                 {
@@ -4979,112 +4979,185 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "Larson",
-                        "Brie"
-                    ],
-                    "hint": "More like Captain MARVELOUS.",
-                    "text": "Brie Larson"
-                },
-                {
-                    "altSpellings": [
-                        "Evans",
-                        "Kris Evans"
-                    ],
-                    "hint": "The original super soldier, and owner of \"America's Butt.\"",
-                    "text": "Chris Evans"
-                },
-                {
-                    "altSpellings": [
-                        "Hemsworth",
-                        "Hemworth"
-                    ],
-                    "hint": "This one's certainly got a cute Asgard!",
-                    "text": "Chris Hemsworth"
-                },
-                {
-                    "altSpellings": [
-                        "Rudd",
-                        "Paul"
-                    ],
-                    "hint": "The ageless Ant-Man! No wrinkles there!",
-                    "text": "Paul Rudd"
-                },
-                {
-                    "altSpellings": [
-                        "Jackson",
-                        "Sam Jackson",
-                        "Samuel Jackson",
-                        "Samuel",
-                        "Sam",
-                        "Sam Jack",
-                        "SLJ",
-                        "S.L.J."
+                        "Die Spinne",
+                        "Peter Benjamin Parker",
+                        "Peter Parker",
+                        "Spider Man",
+                        "Spiderman",
+                        "Tobey Maguire",
+                        "Maguire",
+                        "Andrew Garfield",
+                        "Garfield",
+                        "Tom Holland",
+                        "Holland"
                     ],
                     "hint": "",
-                    "text": "Samuel L. Jackson"
+                    "text": "Spider-Man"
                 },
                 {
                     "altSpellings": [
-                        "Lilly",
-                        "Evangeline"
-                    ],
-                    "hint": "The Wasp to the titular Ant-Man. Get LOST in her eyes!",
-                    "text": "Evangeline Lilly"
-                },
-                {
-                    "altSpellings": [
-                        "Benedict",
-                        "Cumberbatch"
-                    ],
-                    "hint": "Oh yeah, I love Humperdink Funkybunch.",
-                    "text": "Benedict Cumberbatch"
-                },
-                {
-                    "altSpellings": [
-                        "Cheadle"
-                    ],
-                    "hint": "There's no replacement for THIS War Machine!",
-                    "text": "Don Cheadle"
-                },
-                {
-                    "altSpellings": [
-                        "Hiddleston"
-                    ],
-                    "hint": "Low key? This hottie is pretty tricky.",
-                    "text": "Tom Hiddleston"
-                },
-                {
-                    "altSpellings": [
-                        "Sebastian",
-                        "Stan"
-                    ],
-                    "hint": "This one's a real Bucky Barnes-burner. Now is the Winter Soldier of our discontent... over how hot he is!",
-                    "text": "Sebastian Stan"
-                },
-                {
-                    "altSpellings": [
-                        "Elizabeth",
+                        "Witch",
+                        "Scarlet",
+                        "Wanda",
+                        "Wanda Maximoff",
+                        "Wanda Maximof",
+                        "Elizabeth Olsen",
                         "Olsen"
                     ],
-                    "hint": "This magical actress has us seeing red... and developing a mind dimension where nothing can ever go wrong as a result of trauma.",
-                    "text": "Elizabeth Olsen"
+                    "hint": "",
+                    "text": "Scarlet Witch"
                 },
                 {
                     "altSpellings": [
-                        "Anthony",
-                        "Mackie"
+                        "Dead Pool",
+                        "Wade Winston Wilson",
+                        "Wade Wilson",
+                        "Ryan Reynolds",
+                        "Reynolds"
                     ],
-                    "hint": "Is he Falcon? Captain America? Two-for-one!",
-                    "text": "Anthony Mackie"
+                    "hint": "",
+                    "text": "Deadpool"
+                },
+                {
+                    "altSpellings": [
+                        "Dr. Henry Pym",
+                        "Henry Pym",
+                        "Doctor Henry Pym",
+                        "Hank Pym",
+                        "Dr. Hank Pym",
+                        "Doctor Hank Pym",
+                        "Dr. Pym",
+                        "Doctor Pym",
+                        "Scott Lang",
+                        "Ant Man",
+                        "Antman",
+                        "Paul Rudd",
+                        "Rudd"
+                    ],
+                    "hint": "",
+                    "text": "Ant-Man"
+                },
+                {
+                    "altSpellings": [
+                        "Anthony Stark",
+                        "Tony Stark",
+                        "Ironman",
+                        "Robert Downey Jr",
+                        "Robert Downey Junior",
+                        "Robert Downey"
+                    ],
+                    "hint": "",
+                    "text": "Iron Man"
+                },
+                {
+                    "altSpellings": [
+                        "The Wasp",
+                        "Janet van Dyne",
+                        "Janet Dyne",
+                        "Hope van Dyne",
+                        "Hope Dyne",
+                        "Evangeine Lilly",
+                        "Lilly"
+                    ],
+                    "hint": "“Ameisenmann und die Wespe”. Okay, Filmtitel klingen eingedeutscht total doof...",
+                    "text": "Wasp"
+                },
+                {
+                    "altSpellings": [
+                        "Stephen Strange",
+                        "Doctor Stehphen Vincent Strange",
+                        "Doctor Stephen Strange",
+                        "Dr. Stephen Strange",
+                        "Doctor Strange",
+                        "Doktor Strange",
+                        "Benedict Cumberbatch",
+                        "Cumberbatch"
+                    ],
+                    "hint": "An diesem Doktor ist nichts SELTSAM.",
+                    "text": "Dr. Strange"
+                },
+                {
+                    "altSpellings": [
+                        "James Rhodes",
+                        "Rhodey",
+                        "War Machin",
+                        "Terrence Howard",
+                        "Howard",
+                        "Don Cheadle",
+                        "Cheadle"
+                    ],
+                    "hint": "",
+                    "text": "War Macchine"
+                },
+                {
+                    "altSpellings": [
+                        "Doktor Don Blake",
+                        "Dr. Don Blake",
+                        "Tor",
+                        "Chris Hemsworth",
+                        "Hemsworth"
+                    ],
+                    "hint": "Sohn Odins und nordischer Donnergott? Ganz ehrlich, ich würd ihn nehmen.",
+                    "text": "Thor"
+                },
+                {
+                    "altSpellings": [
+                        "Natascha Romanoff",
+                        "Yelena Belova",
+                        "Tania",
+                        "Black Widov",
+                        "Black Vidow",
+                        "Scarlett Johansson",
+                        "Johansson"
+                    ],
+                    "hint": "Kleine Alarmglocke wegen dem Namen “Schwarze Witwe”. Aber ich bin ja unsterblich, sogesehen...",
+                    "text": "Black Widow"
+                },
+                {
+                    "altSpellings": [
+                        "Carter Slade",
+                        "Jonathan Blaze",
+                        "Johnny Blaze",
+                        "Daniel Ketch",
+                        "Danny Kezch",
+                        "Alejandra Jones",
+                        "Roberto Reyes",
+                        "Robbie Reyes",
+                        "Gost Rider",
+                        "Gabriel Luna",
+                        "Luna",
+                        "Danny Ketch",
+                        "Ketch",
+                        "Nicolas Cage",
+                        "Cage"
+                    ],
+                    "hint": "Also ich kenne da jemanden, für den ich einen Pakt mit dem Teufel eingehen würde...",
+                    "text": "Ghost Rider"
+                },
+                {
+                    "altSpellings": [
+                        "Captain Amerika",
+                        "Kapitän Amerika",
+                        "Steve Rogers",
+                        "Super-Patriot",
+                        "Super Patriot",
+                        "John Walker",
+                        "James Barnes",
+                        "Bucky Barnes",
+                        "Chris Evans",
+                        "Evans"
+                    ],
+                    "hint": "",
+                    "text": "Captain America"
                 }
             ],
-            "category": "Celebrities",
+            "category": "Comics",
             "exactSpelling": false,
             "id": "79503",
             "isValid": "",
-            "prompt": "The 12 Biggest Dreamboats in the Marvel Cinematic Universe (Celebrity Names)",
+            "prompt": "Die 12 heißesten Helden im [i]Marvel[/i]-Universum",
             "subtype": "subjective",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -6092,142 +6165,102 @@
         {
             "answers": [
                 {
-                    "altSpellings": [
-                        ""
-                    ],
-                    "hint": "",
-                    "text": "beach"
+                    "altSpellings": [],
+                    "hint": "Hört auf Unsinn zu schreiben, sondern nehmt halt ein anderes Wort für “Unsinn”.",
+                    "text": "Stuss"
                 },
                 {
                     "altSpellings": [
-                        "breech"
+                        "Schluß"
                     ],
                     "hint": "",
-                    "text": "breach"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "This word makes your whites whiter.",
-                    "text": "bleach"
+                    "text": "Schluss"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "screech"
+                    "text": "Kuss"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "teach"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Maybe this question is beyond... yours.",
-                    "text": "reach"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "speech"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "each"
+                    "text": "Guss"
                 },
                 {
                     "altSpellings": [
-                        "leach"
+                        "Schuß"
                     ],
                     "hint": "",
-                    "text": "leech"
+                    "text": "Schuss"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "",
-                    "text": "preach"
+                    "hint": "Viele Kinder nehmen dieses Verkehrsmittel zur Schule.",
+                    "text": "Bus"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "I'm thinking of a popular type of lumber.",
-                    "text": "beech"
+                    "hint": "Ihr sucht einen anderen Begriff für “Schalenfrüchte”.",
+                    "text": "Nuss"
                 }
             ],
             "category": "Language/Words/Grammar",
             "exactSpelling": true,
             "id": "83261",
             "isValid": "",
-            "prompt": "What rhymes with “peach”? (one-syllable common words only)",
+            "prompt": "Was reimt sich auf “Fluss”? (nur einsilbige, bekannte Nomen)",
             "subtype": "rhyme",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
             "answers": [
                 {
-                    "altSpellings": [],
+                    "altSpellings": [
+                        "Clon"
+                    ],
                     "hint": "",
-                    "text": "art"
+                    "text": "Klon"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "",
-                    "text": "start"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "cart"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "What's that place where shopping happens?",
-                    "text": "mart"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "(toots) Pardon me.",
-                    "text": "fart"
+                    "hint": "Worauf sitzen Könige denn im Normalfall?",
+                    "text": "Thron"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "chart"
+                    "text": "Sohn"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "Denkt genau nach: Was erhält man für Arbeit?",
+                    "text": "Lohn"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "dart"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "I'm thinking of a shortcrust pastry. Well, when am I not thinking of those?",
-                    "text": "tart"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "If you nail this one, you'll certainly feel like this.",
-                    "text": "smart"
+                    "text": "Hohn"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "part"
+                    "text": "Fron"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "",
-                    "text": "hart"
+                    "hint": "Die schwarzen, nussig schmeckenden Samen dieser Pflanze werden in Süßspeisen verwendet.",
+                    "text": "Mohn"
                 }
             ],
             "category": "Language/Words/Grammar",
             "exactSpelling": true,
             "id": "83262",
             "isValid": "",
-            "prompt": "What rhymes with “heart”? (one-syllable common words only)",
+            "prompt": "Was reimt sich auf “Ton”? (nur einsilbige, bekannte Nomen)",
             "subtype": "rhyme",
-            "us": true,
-            "x": true
+            "us": false,
+            "x": false
         },
         {
             "answers": [
