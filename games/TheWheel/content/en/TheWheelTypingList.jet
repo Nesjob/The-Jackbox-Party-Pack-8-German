@@ -787,7 +787,7 @@
                 },
                 {
                     "altSpellings": [
-                        "Zahnstocker"
+                        "Zahnstocher"
                     ],
                     "text": "Spieß"
                 },
@@ -6001,180 +6001,92 @@
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "creep"
+                    "text": "Wahn"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "Diese Tiere solltet ihr nicht ärgern, das kann schnell mal ins Auge gehen!",
+                    "text": "Schwan"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "deep"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "peep"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "sleep"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "sweep"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "weep"
+                    "text": "Kran"
                 },
                 {
                     "altSpellings": [
-                        "cheep"
+                        "Cahn"
+                    ],
+                    "hint": "Ihr sucht einen leicht abwertenden Begriff für ein Schiff.",
+                    "text": "Kahn"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "",
+                    "text": "Hahn"
+                },
+                {
+                    "altSpellings": [
+                        "Klan"
                     ],
                     "hint": "",
-                    "text": "cheap"
+                    "text": "Clan"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "",
-                    "text": "keep"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "weep"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Look before you do THIS.",
-                    "text": "leap"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Oh mother (SFX: long bleep)",
-                    "text": "bleep"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "heap"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "reap"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "I don't count these in my sleep, but some people do.",
-                    "text": "sheep"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "steep"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Think of the sound a bird makes.",
-                    "text": "cheep"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "jeep"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "A vice president is sometimes called this.",
-                    "text": "veep"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "meep"
+                    "hint": "Das gesuchte Wort hat meistens 15 Minuten Verspätung.",
+                    "text": "Bahn"
                 }
             ],
             "category": "Language/Words/Grammar",
             "exactSpelling": true,
             "id": "83258",
             "isValid": "",
-            "prompt": "What rhymes with “beep”? (one-syllable common words only)",
+            "prompt": "Was reimt sich auf “Zahn”? (nur einsilbige, bekannte Nomen)",
             "subtype": "rhyme",
-            "us": true,
-            "x": true
+            "us": false,
+            "x": false
         },
         {
             "answers": [
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "car"
+                    "text": "Schaum"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "bar"
+                    "text": "Flaum"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "star"
+                    "text": "Baum"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "Denkt an eine Führungsvorrichtung für ein Pferd.",
+                    "text": "Zaum"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "mar"
+                    "text": "Traum"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "are"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "far"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Don't get burned.",
-                    "text": "char"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Think... golfing.",
-                    "text": "par"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "tar"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Think... boxing.",
-                    "text": "spar"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "scar"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "jar"
+                    "text": "Saum"
                 }
             ],
             "category": "Language/Words/Grammar",
             "exactSpelling": true,
             "id": "83260",
             "isValid": "",
-            "prompt": "What rhymes with “czar”? (one-syllable common words only)",
+            "prompt": "Was reimt sich auf “Raum”? (nur einsilbige, bekannte Nomen)",
             "subtype": "rhyme",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -6782,138 +6694,202 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "Apples"
+                        "Spiegel im Spiegel",
+                        "Spiegelnder Spiegel",
+                        "Der Spiegel"
                     ],
-                    "hint": "One of these a day can keep the doctor away, or be used to make a Waldorf salad!",
-                    "text": "apple"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Remember, it needs a bit of crunch.",
-                    "text": "celery"
+                    "hint": "",
+                    "text": "[i]Der Spiegel im Spiegel[/i]"
                 },
                 {
                     "altSpellings": [
-                        "Mayo"
+                        "Der Wunschpunsch",
+                        "Wunschpunsch"
                     ],
-                    "hint": "It's a... creamy... salad.",
-                    "text": "mayonnaise"
+                    "hint": "Als allwissendes Wesen kenne ich diesen langen Namen natürlich auswendig, aber ich will euch ja nicht den Rätselspaß verderben...",
+                    "text": "[i]Der satanarchäolügenialkohöllische Wunschpunsch[/i]"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "Don't forget the seasoning!",
-                    "text": "salt"
+                    "altSpellings": [
+                        "Ophelia",
+                        "Ophelias Theater",
+                        "Ophelias Schatten Theater"
+                    ],
+                    "hint": "Bei einem handelt es sich tatsächlich um ein Theaterstück, ja sogar um ein Schattentheater!",
+                    "text": "[i]Ophelias Schattentheater[/i]"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "A little bit of heat never hurt anyone!",
-                    "text": "pepper"
+                    "altSpellings": [
+                        "Unendliche Geschichte",
+                        "Unendlich Geschichte"
+                    ],
+                    "hint": "",
+                    "text": "[i]Die unendliche Geschichte[/i]"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "lettuce"
+                    "text": "[i]Momo[/i]"
+                },
+                {
+                    "altSpellings": [
+                        "Tranquilla Trampeltreu",
+                        "Tranquilla",
+                        "Tranquila",
+                        "Trampeltreu",
+                        "Beharrliche Schildkröte",
+                        "Schildkröte Tranquila",
+                        "Die beharrliche Schildkröte",
+                        "Die beharrliche Schildkröte Tranquilla Trampeltreu"
+                    ],
+                    "hint": "Manchmal braucht man einfach eine Geschichte über eine kleine Schildkröte auf großer Reise.",
+                    "text": "[i]Tranquilla Trampeltreu, die beharrliche Schildkröte[/i]"
+                },
+                {
+                    "altSpellings": [
+                        "Jim Knopf",
+                        "Jim Knopf und Lukas",
+                        "Jim Knopf & Lukas",
+                        "Jim Knopf & Lukas der Lokomotivführer",
+                        "Jim Knopf und Lukas Lokomotivführer",
+                        "Lukas und Jim Knopf",
+                        "Lukas der Lokomotivführer und Jim Knopf",
+                        "Lukas",
+                        "Lukas der Lokomotivführer",
+                        "Jim Knopf und die Wilde 13",
+                        "Jim Knopf und die Wilde Dreizehn",
+                        "Jim Knopf & Wilde 13",
+                        "Jim Knopf & die Wilde 13",
+                        "Jim Knopf & die Wilde Dreizehn"
+                    ],
+                    "hint": "“Tschu Tschu Tschu, die Eisenbahn, wer will mit ins [i]Lummerland[/i] fahr'n?”",
+                    "text": "[i]Jim Knopf und Lukas der Lokomotivführer[/i]"
                 }
             ],
-            "category": "Food & Drink",
+            "category": "Literature",
             "exactSpelling": false,
             "id": "83283",
             "isValid": "",
-            "prompt": "According to [i]The New York Times[/i], which 6 ingredients do you need to make a classic Waldorf salad?",
-            "subtype": "name",
-            "us": true,
+            "prompt": "Meine Lieblingsbücher von Michael Ende",
+            "subtype": "subjective",
+            "us": false,
             "x": false
         },
         {
             "answers": [
                 {
                     "altSpellings": [
-                        "Dorothy Zbornak",
-                        "Zbornak",
-                        "Dorthea",
-                        "Dor"
+                        "United Kingdom",
+                        "Vereinigtes Königreich Großbritannien",
+                        "Großbritannien",
+                        "England",
+                        "Groß Britannien",
+                        "Vereinigtes Königreich Großbritannien und Nordirland",
+                        "UK",
+                        "U K"
                     ],
-                    "hint": "Who's the protagonist of Wizard of Oz?\nType that name.",
-                    "text": "Dorothy"
+                    "hint": "Kommt schon, bei diesem Land steht es sogar im Namen!",
+                    "text": "Vereinigtes Königreich"
                 },
                 {
                     "altSpellings": [
-                        "Rose Nylund",
-                        "Nylund"
-                    ],
-                    "hint": "A BLANK by any other name would smell as sweet.",
-                    "text": "Rose"
-                },
-                {
-                    "altSpellings": [
-                        "Blanche Devereaux",
-                        "Devereaux"
+                        "Staat Vatikanstadt",
+                        "Staat der Vatikanstadt",
+                        "Vaticanstadt",
+                        "Vatikan Stadt",
+                        "Vatikanstaat",
+                        "Vatikan Staat",
+                        "Vatikan"
                     ],
                     "hint": "",
-                    "text": "Blanche"
+                    "text": "Vatikanstadt"
                 },
                 {
                     "altSpellings": [
-                        "Sophia Petrillo",
-                        "Petrillo"
+                        "Königreich Spanien"
                     ],
                     "hint": "",
-                    "text": "Sophia"
+                    "text": "Spanien"
                 },
                 {
                     "altSpellings": [
-                        "Vincent Chase",
-                        "Vinny",
-                        "Vinny Chase"
+                        "Sweden",
+                        "Königreich Schweden"
                     ],
-                    "hint": "Think... van Gogh!",
-                    "text": "Vincent"
+                    "hint": "Ob in diesem Königshaus auch [i]IKEA[/i]-Möbel stehen?",
+                    "text": "Schweden"
                 },
                 {
                     "altSpellings": [
-                        "E",
-                        "Eric Murphy",
-                        "E Murphy",
-                        "Eric “E” Murphy"
+                        "Königreich Norwegen"
                     ],
-                    "hint": "",
-                    "text": "Eric"
+                    "hint": "Dieses Land gilt als der demokratischste Staat der Welt, wer würde das bei einer Monarchie erwarten?",
+                    "text": "Norwegen"
                 },
                 {
                     "altSpellings": [
-                        "Salvatore",
-                        "Salvatore \"Turtle\" Assante",
-                        "Salvatore Assante"
-                    ],
-                    "hint": "Not Tortoise but...",
-                    "text": "Turtle"
-                },
-                {
-                    "altSpellings": [
-                        "Johnny \"Drama\" Chase",
-                        "Drama",
-                        "Johnny Chase",
-                        "Johnny"
+                        "Holland",
+                        "Holand",
+                        "Niderlande"
                     ],
                     "hint": "",
-                    "text": "Johnny Drama"
+                    "text": "Niederlande"
                 },
                 {
                     "altSpellings": [
-                        "Ari Gold",
-                        "Gold"
+                        "Fürstentum Monaco",
+                        "Monako"
+                    ],
+                    "hint": "War schon mal jemand von euch im Casino von Monte Carlo? Diesen Stadtstaat sucht ihr!",
+                    "text": "Monaco"
+                },
+                {
+                    "altSpellings": [
+                        "Großherzogtum Luxemburg",
+                        "Luxembourg"
                     ],
                     "hint": "",
-                    "text": "Ari"
+                    "text": "Luxemburg"
+                },
+                {
+                    "altSpellings": [
+                        "Lichtenstein",
+                        "Fürstentum Liechtenstein"
+                    ],
+                    "hint": "Dieses Land zwischen Österreich und der Schweiz ist der sechstkleinste Staat der Welt.",
+                    "text": "Liechtenstein"
+                },
+                {
+                    "altSpellings": [
+                        "Daenemark",
+                        "Königreich Dänemark"
+                    ],
+                    "hint": "",
+                    "text": "Dänemark"
+                },
+                {
+                    "altSpellings": [
+                        "Königreich Belgien"
+                    ],
+                    "hint": "",
+                    "text": "Belgien"
+                },
+                {
+                    "altSpellings": [
+                        "Andora",
+                        "Fürstentum Andorra"
+                    ],
+                    "hint": "Wie hieß noch gleich der Zwergstaat zwischen Spanien und Frankreich?",
+                    "text": "Andorra"
                 }
             ],
-            "category": "Film & TV",
+            "category": "Geography & Landmarks",
             "exactSpelling": false,
             "id": "83285",
             "isValid": "",
-            "prompt": "Name the girls in the [i]Golden Girls[/i] house AND the boys in the [i]Entourage[/i] entourage",
+            "prompt": "Länder in Europa, die als Staatsform eine Monarchie haben",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
@@ -7463,87 +7439,95 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "1 cent",
-                        "one cent",
-                        "cent",
-                        "pennies",
-                        "the penny"
+                        "SOKO Potsdam"
                     ],
-                    "hint": "This one is the smallest coin!",
-                    "text": "penny"
+                    "hint": "Es spielt übrigens kein Ableger in Berlin. Aber vielleicht in einer Stadt ganz in der Nähe...",
+                    "text": "Potsdam"
                 },
                 {
                     "altSpellings": [
-                        "five cents",
-                        "5 cents",
-                        "nikel",
-                        "nickle",
-                        "nikle",
-                        "the nickel",
-                        "nickels"
+                        "SOKO Hamburg"
                     ],
-                    "hint": "I'll give this coin a high-five.",
-                    "text": "nickel"
+                    "hint": "",
+                    "text": "Hamburg"
                 },
                 {
                     "altSpellings": [
-                        "10 cents",
-                        "ten cents",
-                        "dimes",
-                        "the dime"
+                        "SOKO Stuttgart"
                     ],
-                    "hint": "Put this coin on a surfboard, because it's hanging ten!",
-                    "text": "dime"
+                    "hint": "",
+                    "text": "Stuttgart"
                 },
                 {
                     "altSpellings": [
-                        "25 cents",
-                        "twenty five cents",
-                        "a quarter",
-                        "the quarter"
+                        "SOKO Rhein-Main",
+                        "Die Spezialisten: Kripo Rhein-Main",
+                        "Kripo Rhein-Main",
+                        "Frankfurt",
+                        "Frankfurt am Main",
+                        "Mainz",
+                        "Wiesbaden"
                     ],
-                    "hint": "We're a fourth of the way to THIS coin.",
-                    "text": "quarter"
+                    "hint": "",
+                    "text": "Rhein-Main"
                 },
                 {
                     "altSpellings": [
-                        "twoonie",
-                        "two dollars",
-                        "toonies",
-                        "the toonie",
-                        "2 dollar"
+                        "SOKO Wien",
+                        "SOKO Donau",
+                        "Donau"
                     ],
-                    "hint": "This coin rhymes with the nickname for the one-dollar coin.",
-                    "text": "toonie"
+                    "hint": "Wer hat gesagt, dass die Serie nur in Deutschland spielt?",
+                    "text": "Wien"
                 },
                 {
                     "altSpellings": [
-                        "one dollar",
-                        "one dollar coin",
-                        "the loonie",
-                        "loonies"
+                        "SOKO Köln",
+                        "Koeln"
                     ],
-                    "hint": "This one is named after the bird on it.",
-                    "text": "loonie"
+                    "hint": "",
+                    "text": "Köln"
                 },
                 {
                     "altSpellings": [
-                        "fifty cents",
-                        "50 cents",
-                        "half dollar",
-                        "1/2 dollar"
+                        "SOKO Kitzbühel",
+                        "Kitzbühl",
+                        "SOKO Kitzbühl"
                     ],
-                    "hint": "Not as much in use, but at least half as fun as a loonie!",
-                    "text": "half-dollar"
+                    "hint": "",
+                    "text": "Kitzbühel"
+                },
+                {
+                    "altSpellings": [
+                        "SOKO Leipzig"
+                    ],
+                    "hint": "Diese ansprechende Stadt in Sachsen hat auch ihren eigenen Ableger.",
+                    "text": "Leipzig"
+                },
+                {
+                    "altSpellings": [
+                        "SOKO München",
+                        "SOKO 5113",
+                        "Muenchen"
+                    ],
+                    "hint": "Das Original der Sendereihe endete zum großen Bedauern von ganzen fünf Fans im Jahr 2020.",
+                    "text": "München"
+                },
+                {
+                    "altSpellings": [
+                        "SOKO Wismar"
+                    ],
+                    "hint": "",
+                    "text": "Wismar"
                 }
             ],
-            "category": "Money",
-            "exactSpelling": true,
+            "category": "Film & TV",
+            "exactSpelling": false,
             "id": "83337",
             "isValid": "",
-            "prompt": "What are the 7 denominations of Canadian coins?",
+            "prompt": "In welchen Städten spielt die ZDF-Sendereihe “SOKO [Stadtname]”?",
             "subtype": "name",
-            "us": true,
+            "us": false,
             "x": false
         },
         {
