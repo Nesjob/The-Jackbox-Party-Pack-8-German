@@ -273,7 +273,7 @@
   {
    "answers": [
     {
-     "text": "Athena"
+     "text": "Athene"
     },
     {
      "text": "Zeus"
@@ -285,7 +285,7 @@
      "text": "Hermes"
     },
     {
-     "text": "Apollo"
+     "text": "Apollon"
     },
     {
      "text": "Aphrodite"
@@ -294,7 +294,7 @@
      "text": "Artemis"
     },
     {
-     "text": "Hephaestus"
+     "text": "Hephaistos"
     },
     {
      "text": "Ares"
@@ -306,7 +306,7 @@
      "text": "Demeter"
     },
     {
-     "text": "Dionysus"
+     "text": "Dionysos"
     }
    ],
    "category": "Historical Figures",
@@ -315,16 +315,16 @@
      "text": "Tesla"
     },
     {
-     "text": "Oracle"
+     "text": "Orakel"
     },
     {
-     "text": "Achilles"
+     "text": "Achilleus"
     },
     {
-     "text": "Cassandra"
+     "text": "Hades"
     },
     {
-     "text": "Helen of Troy"
+     "text": "Helena von Troja"
     },
     {
      "text": "Ajax"
@@ -332,47 +332,53 @@
    ],
    "id": "76744",
    "isValid": "",
-   "prompt": "Which names belong to Olympian gods & goddesses?",
-   "us": true,
+   "prompt": "Welche dieser Namen gehören zu den olympischen Göttern?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Cat"
+     "text": "Kuh"
     },
     {
-     "text": "Child"
+     "text": "Delfin"
     },
     {
-     "text": "Downward Dog"
+     "text": "Herabschauender Hund"
     },
     {
-     "text": "Warrior"
+     "text": "Krieger"
     },
     {
-     "text": "Mountain"
+     "text": "Kobra"
     },
     {
-     "text": "Tree"
+     "text": "Baum"
     },
     {
      "text": "Lotus"
     },
     {
-     "text": "Cobra"
+     "text": "Katze"
+    },
+    {
+     "text": "Taube"
     }
    ],
    "category": "Anatomy",
    "decoys": [
     {
-     "text": "Candelabra"
+     "text": "Storch"
     },
     {
-     "text": "Bumblebee"
+     "text": "Biene"
     },
     {
-     "text": "Floating Grandmother"
+     "text": "Fliegende Großmutter"
+    },
+    {
+     "text": "Eule"
     },
     {
      "text": "Sand"
@@ -380,8 +386,8 @@
    ],
    "id": "76751",
    "isValid": "",
-   "prompt": "Which of these are yoga poses?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um eine Yoga Pose?",
+   "us": false,
    "x": false
   },
   {
@@ -657,103 +663,103 @@
   {
    "answers": [
     {
-     "text": "aorta"
+     "text": "Aorta"
     },
     {
-     "text": "pulmonary artery"
+     "text": "Lungenarterie"
     },
     {
-     "text": "left atrium"
+     "text": "Linker Vorhof"
     },
     {
-     "text": "superior vena cava"
+     "text": "Obere Hohlvene"
     },
     {
-     "text": "right atrium"
+     "text": "Rechter Vorhof"
     },
     {
-     "text": "tricuspid valve"
+     "text": "Trikuspidalklappe"
     },
     {
-     "text": "right ventricle"
+     "text": "Rechte Kammer"
     }
    ],
    "category": "Anatomy",
    "decoys": [
     {
-     "text": "superior lobe"
+     "text": "Oberer Lappen"
     },
     {
-     "text": "trachea"
+     "text": "Luftröhre"
     },
     {
-     "text": "cardiac notch"
+     "text": "Untere Herzkerbe"
     },
     {
-     "text": "jugular vein"
+     "text": "Aortenbogen"
     },
     {
-     "text": "cornea"
+     "text": "Hornhaut"
     }
    ],
    "id": "76769",
    "isValid": "",
-   "prompt": "Which of these are parts of the human heart?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um einen Teil des menschlichen Herzens?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Cheerios"
+     "text": "Frosties"
     },
     {
-     "text": "Lucky Charms"
+     "text": "Choco Krispies"
     },
     {
-     "text": "Cinnamon Toast Crunch"
+     "text": "Honey Bsss"
     },
     {
-     "text": "Cocoa Puffs"
+     "text": "Froot Loops"
     },
     {
-     "text": "Cookie Crisp"
+     "text": "Tresor"
     },
     {
-     "text": "Golden Grahams"
+     "text": "Smacks"
     },
     {
-     "text": "Trix"
+     "text": "Toppas"
     },
     {
-     "text": "Kix"
-    },
-    {
-     "text": "Wheaties"
+     "text": "Crunchy Nut"
     }
    ],
    "category": "Companies & Brands",
    "decoys": [
     {
-     "text": "Frosted Flakes"
+     "text": "Cheerios"
     },
     {
-     "text": "Urkel-O's"
+     "text": "Choco Crossies"
     },
     {
-     "text": "Honey Bunches of Oats"
+     "text": "Cini Minis"
     },
     {
-     "text": "Raisin Bran"
+     "text": "Cookie Crisp"
     },
     {
-     "text": "Grape-Nuts"
+     "text": "Clusters"
+    },
+    {
+     "text": "Vitalis"
     }
    ],
    "id": "76770",
    "isValid": "",
-   "prompt": "Which cereal brands are by General Mills?",
-   "us": true,
+   "prompt": "Welche dieser Cerealien-Marken stammen von [i]Kellogg's[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -804,55 +810,55 @@
   {
    "answers": [
     {
-     "text": "boulder"
+     "text": "Felsblock"
     },
     {
-     "text": "catapult"
+     "text": "Katapult"
     },
     {
-     "text": "rocket"
+     "text": "Rakete"
     },
     {
-     "text": "anvil"
+     "text": "Amboss"
     },
     {
-     "text": "iron bird seed"
+     "text": "Eisenhaltiges Vogelfutter"
     },
     {
-     "text": "female road runner costume"
+     "text": "“Weiblicher Roadrunner”-Kostüm"
     },
     {
-     "text": "bees"
+     "text": "Bienen"
     },
     {
-     "text": "fly paper"
+     "text": "Fliegenfänger"
     }
    ],
    "category": "Animation/Comic Books",
    "decoys": [
     {
-     "text": "Venus flytrap"
+     "text": "Venusfliegenfalle"
     },
     {
-     "text": "drone"
+     "text": "Drone"
     },
     {
-     "text": "water balloon"
+     "text": "Wasserballons"
     },
     {
-     "text": "piano"
+     "text": "Klavier"
     }
    ],
    "id": "76772",
    "isValid": "",
-   "prompt": "Which weapons have been used by Wile E. Coyote against the Road Runner?",
-   "us": true,
+   "prompt": "Welche Waffen hat Wile E. Coyote gegen den Road Runner eingesetzt?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Snow White"
+     "text": "Schneewittchen"
     },
     {
      "text": "Cinderella"
@@ -861,13 +867,13 @@
      "text": "Aurora"
     },
     {
-     "text": "Ariel"
+     "text": "Arielle"
     },
     {
      "text": "Belle"
     },
     {
-     "text": "Jasmine"
+     "text": "Jasmin"
     },
     {
      "text": "Pocahontas"
@@ -888,7 +894,7 @@
    "category": "Animation/Comic Books",
    "decoys": [
     {
-     "text": "Catherine"
+     "text": "Amalia"
     },
     {
      "text": "Meghan"
@@ -897,16 +903,16 @@
      "text": "Eloise"
     },
     {
-     "text": "Siobhan"
+     "text": "Lavinia"
     },
     {
-     "text": "Punky"
+     "text": "Elisabeth"
     }
    ],
    "id": "76773",
    "isValid": "",
-   "prompt": "Which of these names belong to Disney Princesses?",
-   "us": true,
+   "prompt": "Welche dieser Namen gehören [i]Disney[/i]-Prinzessinnen?",
+   "us": false,
    "x": false
   },
   {
