@@ -1083,55 +1083,67 @@
   {
    "answers": [
     {
-     "text": "[i]OK![/i]"
+     "text": "[i]Die Aktuelle[/i]"
     },
     {
-     "text": "[i]Hello![/i]"
+     "text": "[i]Viel Spaß[/i]"
     },
     {
-     "text": "[i]Heat[/i]"
+     "text": "[i]InTouch[/i]"
     },
     {
-     "text": "[i]Daily Mail[/i]"
+     "text": "[i]Freizeit Revue[/i]"
     },
     {
-     "text": "[i]Daily Express[/i]"
+     "text": "[i]Echo der Frau[/i]"
     },
     {
-     "text": "[i]The Sun[/i]"
+     "text": "[i]Das Goldene Blatt[/i]"
     },
     {
-     "text": "[i]Mirror[/i]"
+     "text": "[i]das neue[/i]"
     },
     {
-     "text": "[i]Sunday People[/i]"
+     "text": "[i]Die neue Frau[/i]"
     },
     {
-     "text": "[i]Daily Star[/i]"
+     "text": "[i]Frau mit Herz[/i]"
+    },
+    {
+     "text": "[i]NEUE WELT[/i]"
     }
    ],
    "category": "News Media",
    "decoys": [
     {
-     "text": "[i]Us Weekly[/i]"
+     "text": "[i]Perfekte Woche[/i]"
     },
     {
-     "text": "[i]National Enquirer[/i]"
+     "text": "[i]Frau von Morgen[/i]"
     },
     {
-     "text": "[i]Whazzup![/i]"
+     "text": "[i]Zeit für Pause[/i]"
     },
     {
-     "text": "[i]Chuffed[/i]"
+     "text": "[i]Update für DICH[/i]"
     },
     {
-     "text": "[i]Quite Right![/i]"
+     "text": "[i]Freizeit in Deutschland[/i]"
+    },
+    {
+     "text": "[i]Promi Expresss[/i]"
+    },
+    {
+     "text": "[i]Frau des Tages[/i]"
+    },
+    {
+     "text": "[i]50 CENT[/i]"
     }
    ],
    "id": "76777",
    "isValid": "",
-   "prompt": "Which of these are UK-based tabloids?",
-   "us": true,
+   "prompt": "Welche dieser Klatsch-Zeitschriften gibt es wirklich?",
+   "us": false,
    "x": false
   },
   {
@@ -1524,58 +1536,73 @@
   {
    "answers": [
     {
-     "text": "Beholder"
+     "text": "Sofa von Freunden"
     },
     {
-     "text": "Mimic"
+     "text": "Secondhand-Laden"
     },
     {
-     "text": "Owlbear"
+     "text": "Bio-Bauernmarkt"
     },
     {
-     "text": "Gelatinous Cube"
+     "text": "Veganes Bistro"
     },
     {
-     "text": "Purple Worm"
+     "text": "Tarot Shop"
     },
     {
-     "text": "Mind Flayer"
+     "text": "Karaoke Bar"
     },
     {
-     "text": "Rust Monster"
+     "text": "Yoga Studio"
     },
     {
-     "text": "Demogorgon"
+     "text": "Tierrettung"
     },
     {
-     "text": "Blink Dog"
+     "text": "Selbsthilfewerkstatt"
+    },
+    {
+     "text": "Dreitägiges Musikfestival"
+    },
+    {
+     "text": "Einwöchiger Meditationsretreat"
+    },
+    {
+     "text": "Bike-Sharing"
     }
    ],
    "category": "Games",
    "decoys": [
     {
-     "text": "Uruk-Hai"
+     "text": "Rave"
     },
     {
-     "text": "Ent"
+     "text": "Saftbar"
     },
     {
-     "text": "White Walker"
+     "text": "Fitnessstudio"
     },
     {
-     "text": "Kate Monster"
+     "text": "Car-Sharing"
     },
     {
-     "text": "Snuffleupagus"
+     "text": "Dachboden der Eltern"
     },
     {
-     "text": "Mothra"
+     "text": "Städtetrip"
+    },
+    {
+     "text": "Film-Convention"
+    },
+    {
+     "text": "Klassentreffen"
     }
    ],
    "id": "76799",
    "isValid": "",
-   "prompt": "Which of these are [i]Dungeons & Dragons[/i] monsters?",
-   "us": true,
+   "prompt": "Welche Felder gibt es in “[i]Monopoly[/i] für Millennials”?",
+   "us": false,
    "x": false
   },
   {
@@ -1638,49 +1665,55 @@
   {
    "answers": [
     {
-     "text": "helium"
+     "text": "Helium"
     },
     {
-     "text": "neon"
+     "text": "Neon"
     },
     {
-     "text": "argon"
+     "text": "Argon"
     },
     {
-     "text": "krypton"
+     "text": "Krypton"
     },
     {
-     "text": "xenon"
+     "text": "Xenon"
     },
     {
-     "text": "radon"
+     "text": "Radon"
     }
    ],
    "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "carbon"
+     "text": "Kohlenstoff"
     },
     {
-     "text": "nobelium"
+     "text": "Nobelium"
     },
     {
-     "text": "nitrogen"
+     "text": "Caesium"
     },
     {
-     "text": "unobtanium"
+     "text": "Hassium"
     },
     {
-     "text": "adamantium"
+     "text": "Radium"
     },
     {
-     "text": "kryptonite"
+     "text": "Kryptonit"
+    },
+    {
+     "text": "Brom"
+    },
+    {
+     "text": "Strontium"
     }
    ],
    "id": "76823",
    "isValid": "",
-   "prompt": "Which of these are noble gases?",
-   "us": true,
+   "prompt": "Welche dieser Stoffe sind Edelgase?",
+   "us": false,
    "x": false
   },
   {
@@ -1889,8 +1922,8 @@
    ],
    "id": "76827",
    "isValid": "",
-   "prompt": "Which consonants are in the Hawaiian alphabet?",
-   "us": true,
+   "prompt": "Welche Konsonanten gibt es im hawaiianischen Alphabet?",
+   "us": false,
    "x": false
   },
   {
@@ -2004,49 +2037,49 @@
   {
    "answers": [
     {
-     "text": "Seattle SuperSonics"
+     "text": "Fraport Skyliners"
     },
     {
-     "text": "Washington Bullets"
+     "text": "s.Oliver Würzburg"
     },
     {
-     "text": "Vancouver Grizzlies"
+     "text": "Brose Bamberg"
     },
     {
-     "text": "Chicago Bulls"
+     "text": "Medipolis Jena"
     },
     {
-     "text": "Washington Wizards"
+     "text": "Ratiopharm Ulm"
     },
     {
-     "text": "Charlotte Hornets"
+     "text": "Oettinger Rockets"
     }
    ],
    "category": "Sports",
    "decoys": [
     {
-     "text": "Memphis Grizzlies"
+     "text": "Siemens München"
     },
     {
-     "text": "Charlotte Bobcats"
+     "text": "Sailors Hamburg"
     },
     {
-     "text": "Oklahoma City Thunder"
+     "text": "DB Berlin"
     },
     {
-     "text": "New York Jets"
+     "text": "E.ON Essen"
     },
     {
-     "text": "Detroit Red Wings"
+     "text": "Bosch Drivers Stuttgart"
     },
     {
-     "text": "Peoria Middle Americans"
+     "text": "Merck Dragons"
     }
    ],
    "id": "76853",
    "isValid": "",
-   "prompt": "Which of these are NBA teams of the 1990s?",
-   "us": true,
+   "prompt": "Welche sind echte Basketballvereine aus Deutschland?",
+   "us": false,
    "x": false
   },
   {
@@ -2055,31 +2088,31 @@
      "text": "[i]Mona Lisa[/i]"
     },
     {
-     "text": "[i]The Last Supper[/i]"
+     "text": "[i]Das letzte Abendmahl[/i]"
     },
     {
-     "text": "[i]The Birth of Venus[/i]"
+     "text": "[i]Die Geburt der Venus[/i]"
     },
     {
-     "text": "[i]The Creation of Adam[/i]"
+     "text": "[i]Die Erschaffung Adams[/i]"
     },
     {
-     "text": "[i]The School of Athens[/i]"
+     "text": "[i]Die Schule von Athen[/i]"
     },
     {
-     "text": "[i]The Last Judgment[/i]"
+     "text": "[i]Jüngstes Gericht[/i]"
     },
     {
      "text": "[i]Primavera[/i]"
     },
     {
-     "text": "[i]Vitruvian Man[/i]"
+     "text": "[i]Vitruvianischer Mensch[/i]"
     },
     {
-     "text": "[i]The Garden of Earthly Delights[/i]"
+     "text": "[i]Garten der irdischen Freuden[/i]"
     },
     {
-     "text": "[i]The Arnolfini Portrait[/i]"
+     "text": "[i]Arnolfini-Hochzeit[/i]"
     }
    ],
    "category": "Art",
@@ -2088,25 +2121,31 @@
      "text": "[i]American Gothic[/i]"
     },
     {
-     "text": "[i]Starry Night[/i]"
+     "text": "[i]Nilmosaik von Palestrina[/i]"
     },
     {
-     "text": "[i]The Scream[/i]"
+     "text": "[i]Sternennacht[/i]"
     },
     {
-     "text": "[i]The Return of the Prodigal Son[/i]"
+     "text": "[i]Der Schrei[/i]"
     },
     {
-     "text": "[i]Girl with a Pearl Earring[/i]"
+     "text": "[i]Die Rückkehr des verlorenen Sohnes[/i]"
     },
     {
-     "text": "[i]The Man in the High Castle[/i]"
+     "text": "[i]Das Mädchen mit dem Perlenohrgehänge[/i]"
+    },
+    {
+     "text": "[i]Das Orakel vom Berge[/i]"
+    },
+    {
+     "text": "[i]Fünfzehn Sonnenblumen[/i]"
     }
    ],
    "id": "76854",
    "isValid": "",
-   "prompt": "Which of these are Renaissance works of art?",
-   "us": true,
+   "prompt": "Welche sind Renaissance-Kunstwerke?",
+   "us": false,
    "x": false
   },
   {
@@ -2163,49 +2202,49 @@
   {
    "answers": [
     {
-     "text": "acrylic"
+     "text": "Acryl"
     },
     {
-     "text": "oil"
+     "text": "Öl"
     },
     {
-     "text": "watercolor"
+     "text": "Aquarell"
     },
     {
-     "text": "gouache"
+     "text": "Gouache"
     },
     {
-     "text": "encaustic"
+     "text": "Wachs"
     },
     {
-     "text": "chalkboard"
+     "text": "Pastellkreide"
     },
     {
-     "text": "enamel"
+     "text": "Emaille"
     },
     {
-     "text": "latex"
+     "text": "Enkaustik"
     }
    ],
    "category": "Art",
    "decoys": [
     {
-     "text": "ganache"
+     "text": "Ganache"
     },
     {
-     "text": "chiaroscuro"
+     "text": "Chiaroscuro"
     },
     {
-     "text": "aerated"
+     "text": "Balastok"
     },
     {
-     "text": "hollandaise"
+     "text": "Hollandaise"
     }
    ],
    "id": "76880",
    "isValid": "",
-   "prompt": "Which of these are types of paint?",
-   "us": true,
+   "prompt": "Welches davon sind Farbarten?",
+   "us": false,
    "x": false
   },
   {
