@@ -1770,106 +1770,112 @@
   {
    "answers": [
     {
-     "text": "[i]Fresh Air[/i]"
+     "text": "[i]UnserDing[/i]"
     },
     {
-     "text": "[i]Wait Wait... Don't Tell Me![/i]"
+     "text": "[i]DASDING[/i]"
     },
     {
-     "text": "[i]How I Built This[/i]"
+     "text": "[i]1LIVE diGGi[/i]"
     },
     {
-     "text": "[i]Code Switch[/i]"
+     "text": "[i]Fritz[/i]"
     },
     {
-     "text": "[i]All Things Considered[/i]"
+     "text": "[i]NEXT[/i]"
     },
     {
-     "text": "[i]Ask Me Another[/i]"
+     "text": "[i]N-JOY[/i]"
     },
     {
-     "text": "[i]Planet Money[/i]"
+     "text": "[i]Puls[/i]"
     },
     {
-     "text": "[i]It’s Been a Minute[/i]"
+     "text": "[i]You FM[/i]"
+    },
+    {
+     "text": "[i]Sputnik[/i]"
     }
    ],
    "category": "News Media",
    "decoys": [
     {
-     "text": "[i]FYI It’s DIY[/i]"
+     "text": "[i]Fresh-M[/i]"
     },
     {
-     "text": "[i]Clock Talk[/i]"
+     "text": "[i]Radio YOU[/i]"
     },
     {
-     "text": "[i]On the Tip of My Tongue![/i]"
+     "text": "[i]E-DGE[/i]"
     },
     {
-     "text": "[i]The Daily Dosage[/i]"
+     "text": "[i]SAfe[/i]"
+    },
+    {
+     "text": "[i]MainDING[/i]"
     }
    ],
    "id": "76825",
    "isValid": "",
-   "prompt": "Which of these are real programs on National Public Radio?",
-   "us": true,
+   "prompt": "Welche dieser Namen gehören zu öffentlich-rechtlichen Jugend-Radiosendern?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "ghost"
+     "text": "Bhut Jolokia"
     },
     {
-     "text": "bell"
+     "text": "Elefantenrüssel"
     },
     {
-     "text": "poblano"
+     "text": "Poblano"
     },
     {
-     "text": "serrano"
+     "text": "Serrano"
     },
     {
-     "text": "habañero"
+     "text": "Habanero"
     },
     {
-     "text": "cayenne"
+     "text": "Cayenne"
     },
     {
-     "text": "mirasol"
+     "text": "Carolina Reaper"
     },
     {
-     "text": "tabasco"
+     "text": "Tabasco"
     },
     {
-     "text": "banana"
+     "text": "Medusa"
     },
     {
-     "text": "cherry"
+     "text": "Kirschpaprika"
     }
    ],
    "category": "Food & Drink",
    "decoys": [
     {
-     "text": "potts"
+     "text": "Kamelhöcker"
     },
     {
-     "text": "grape"
+     "text": "Black King"
     },
     {
-     "text": "squash"
+     "text": "Jopales"
     },
     {
-     "text": "marisol"
+     "text": "Marisol"
     },
     {
-     "text": "ghoul"
+     "text": "Mexican Skull"
     }
    ],
    "id": "76826",
    "isValid": "",
-   "prompt": "Which of these are varieties of edible peppers?",
-   "us": true,
+   "prompt": "Welche davon sind essbare Paprika- und Chilipflanzen?",
+   "us": false,
    "x": false
   },
   {
@@ -2313,37 +2319,37 @@
   {
    "answers": [
     {
-     "text": "BAFTA"
+     "text": "BAFTA Film Award"
     },
     {
      "text": "Oscar"
     },
     {
-     "text": "SAG"
+     "text": "Deutscher Schauspielpreis"
     },
     {
-     "text": "Kid's Choice"
+     "text": "Kid's Choice Award"
     },
     {
-     "text": "Silver Lotus"
+     "text": "Lola"
     },
     {
-     "text": "Drama Desk"
+     "text": "Drama Desk Award"
     },
     {
      "text": "Theo d’Or"
     },
     {
-     "text": "Jeff"
-    },
-    {
-     "text": "Tony"
-    },
-    {
      "text": "Romy"
     },
     {
-     "text": "Emmy"
+     "text": "Tony Award"
+    },
+    {
+     "text": "Silberner Bär"
+    },
+    {
+     "text": "Emmy Award"
     }
    ],
    "category": "Film & TV",
@@ -2352,19 +2358,19 @@
      "text": "Grammy"
     },
     {
-     "text": "James Beard"
+     "text": "ECHO"
     },
     {
-     "text": "ESPY"
+     "text": "ESPY Award"
     },
     {
-     "text": "Heisman"
+     "text": "Goldener Bär"
     }
    ],
    "id": "76908",
    "isValid": "",
-   "prompt": "Which of these are acting awards one could receive for a brilliant performance?",
-   "us": true,
+   "prompt": "Welche der folgenden Preise könnte man für eine brillante Schauspielleistung erhalten?",
+   "us": false,
    "x": false
   },
   {
@@ -2730,64 +2736,73 @@
   {
    "answers": [
     {
-     "text": "cirrus"
+     "text": "Cirrus"
     },
     {
-     "text": "cirrostratus"
+     "text": "Cirrostratus"
     },
     {
-     "text": "cirrocumulus"
+     "text": "Cirrocumulus"
     },
     {
-     "text": "altocumulus"
+     "text": "Altocumulus"
     },
     {
-     "text": "altostratus"
+     "text": "Altostratus"
     },
     {
-     "text": "nimbostratus"
+     "text": "Nimbostratus"
     },
     {
-     "text": "cumulus"
+     "text": "Cumulus"
     },
     {
-     "text": "stratus"
+     "text": "Stratus"
     },
     {
-     "text": "stratocumulus"
+     "text": "Stratocumulus"
     },
     {
-     "text": "lenticular"
+     "text": "Cumulonimbus"
     }
    ],
    "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "perpendicular"
+     "text": "Perpendicular"
     },
     {
-     "text": "baristratus"
+     "text": "Baristratus"
     },
     {
-     "text": "chemtrails"
+     "text": "Chemtrails"
     },
     {
-     "text": "clomulous"
+     "text": "Clomulus"
     },
     {
-     "text": "that bug-shaped one"
+     "text": "Nimbus"
+    },
+    {
+     "text": "Dumbofantasticus"
+    },
+    {
+     "text": "Stratospherimbus"
+    },
+    {
+     "text": "Altonimbus"
     }
    ],
    "id": "76958",
    "isValid": "",
-   "prompt": "Which of these are actual types of clouds?",
-   "us": true,
+   "prompt": "Welches sind echte Wolkenarten?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Ash from [i]Alien[/i]"
+     "text": "Ash aus [i]Alien[/i]"
     },
     {
      "text": "GLaDOS"
@@ -2796,22 +2811,25 @@
      "text": "Deep Thought"
     },
     {
-     "text": "Cortana from the [i]Halo[/i] series"
+     "text": "Cortana aus der [i]Halo[/i]-Serie"
     },
     {
-     "text": "the TransAm David Hasselhoff hangs out with in [i]Knight Rider[/i]"
+     "text": "Der Sportwagen K.I.T.T. aus [i]Knight Rider[/i]"
     },
     {
-     "text": "Data from [i]Star Trek: The Next Generation[/i]"
+     "text": "Data aus [i]Raumschiff Enterprise - Das nächste Jahrhundert[/i]"
     },
     {
      "text": "WALL-E"
     },
     {
-     "text": "Samantha from [i]Her[/i]"
+     "text": "Samantha aus [i]Her[/i]"
     },
     {
      "text": "HAL 9000"
+    },
+    {
+     "text": "Tom aus [i]Ich bin dein Mensch[/i]"
     }
    ],
    "category": "Pop Culture",
@@ -2820,22 +2838,25 @@
      "text": "Amazon Alexa"
     },
     {
-     "text": "Ripley from [i]Alien[/i]"
+     "text": "Ripley aus [i]Alien[/i]"
     },
     {
-     "text": "Christopher Johnson from [i]District 9[/i]"
+     "text": "Christopher Johnson aus [i]District 9[/i]"
     },
     {
-     "text": "Margaret Thatcher from [i]The Iron Lady[/i]"
+     "text": "Margaret Thatcher aus [i]Die Eiserne Lady[/i]"
     },
     {
-     "text": "Watson computer"
+     "text": "Del Spooner aus [i]I, Robot[/i]"
+    },
+    {
+     "text": "Watson"
     }
    ],
    "id": "76960",
    "isValid": "",
-   "prompt": "Which of these are FICTIONAL A.I.s?",
-   "us": true,
+   "prompt": "Bei welchen der folgenden Figuren handelt es sich um FIKTIONALE KIs?",
+   "us": false,
    "x": false
   },
   {
