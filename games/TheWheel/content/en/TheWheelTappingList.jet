@@ -2478,49 +2478,49 @@
   {
    "answers": [
     {
-     "text": "belt drive"
+     "text": "Riemenantrieb"
     },
     {
-     "text": "braze-on"
+     "text": "Speichen"
     },
     {
-     "text": "axle"
+     "text": "Achse"
     },
     {
-     "text": "fork"
+     "text": "Gabel"
     },
     {
-     "text": "handlebar"
+     "text": "Lenker"
     },
     {
-     "text": "inner tube"
+     "text": "Schlauch"
     },
     {
-     "text": "nipple"
+     "text": "Nippel"
     },
     {
-     "text": "top tube"
+     "text": "Rahmen"
     },
     {
-     "text": "derailleur"
+     "text": "Schaltung"
     }
    ],
    "category": "Vehicles",
    "decoys": [
     {
-     "text": "tube top"
+     "text": "Schere"
     },
     {
-     "text": "petal"
+     "text": "Kettendreher"
     },
     {
-     "text": "bespoke"
+     "text": "Achsmanschette"
     }
    ],
    "id": "76928",
    "isValid": "",
-   "prompt": "Which of these are parts of a bicycle?",
-   "us": true,
+   "prompt": "Welches sind Teile eines Fahrrads?",
+   "us": false,
    "x": false
   },
   {
@@ -2583,49 +2583,55 @@
   {
    "answers": [
     {
-     "text": "Daniel Striped Tiger"
+     "text": "Wolle"
     },
     {
-     "text": "King Friday XIII"
+     "text": "Graf Zahl"
     },
     {
-     "text": "Lady Elaine Fairchilde"
+     "text": "Oscar"
     },
     {
-     "text": "Henrietta Pussycat"
+     "text": "Krümelmonster"
     },
     {
-     "text": "Cornflake S. Pecially"
+     "text": "Grobi"
     },
     {
-     "text": "Grandpère"
+     "text": "Ernie"
     },
     {
-     "text": "X the Owl"
+     "text": "Tiffy"
+    },
+    {
+     "text": "Bibo"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "Crouton the Ninth"
+     "text": "Lilo"
     },
     {
-     "text": "Sir Eddy Shamrock"
+     "text": "Der finnische Koch"
     },
     {
-     "text": "Madame Cranberry"
+     "text": "Finja Fledermaus"
     },
     {
-     "text": "Donny Poor-Pig"
+     "text": "Filzi"
     },
     {
-     "text": "Monsieur Floof"
+     "text": "Prinz Schlecki"
+    },
+    {
+     "text": "Miss Piggy"
     }
    ],
    "id": "76941",
    "isValid": "",
-   "prompt": "Which of these are puppets in [i]Mister Rogers’ Neighborhood[/i]?",
-   "us": true,
+   "prompt": "Welche dieser Puppen sind oder waren Teil der deutschen [i]Sesamstraße[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -2685,52 +2691,52 @@
   {
    "answers": [
     {
-     "text": "bow"
+     "text": "Bug"
     },
     {
-     "text": "keel"
+     "text": "Kiel"
     },
     {
-     "text": "deck"
+     "text": "Deck"
     },
     {
-     "text": "gunwales"
+     "text": "Sielbord"
     },
     {
-     "text": "thwart"
+     "text": "Ruderbank"
     },
     {
-     "text": "yoke"
+     "text": "Joch"
     },
     {
-     "text": "stern"
+     "text": "Heck"
     }
    ],
    "category": "Vehicles",
    "decoys": [
     {
-     "text": "drive shaft"
+     "text": "Antriebswelle"
     },
     {
-     "text": "water exit hole"
+     "text": "Wasseraustrittsloch"
     },
     {
-     "text": "main mast"
+     "text": "Hauptmast"
     },
     {
-     "text": "gunport"
+     "text": "Bagien"
     },
     {
-     "text": "outer jib"
+     "text": "Klüver"
     },
     {
-     "text": "lido deck"
+     "text": "Kabine"
     }
    ],
    "id": "76957",
    "isValid": "",
-   "prompt": "Which of these are things that could be broken in your canoe?",
-   "us": true,
+   "prompt": "Welche dieser Dinge könnten in deinem Kanu kaputt gehen?",
+   "us": false,
    "x": false
   },
   {
@@ -2910,76 +2916,82 @@
   {
    "answers": [
     {
-     "text": "garlic"
+     "text": "Knoblauch"
     },
     {
-     "text": "wooden stake"
+     "text": "Holzpflock"
     },
     {
-     "text": "cross"
+     "text": "Kreuz"
     },
     {
-     "text": "holy water"
+     "text": "Weihwasser"
     },
     {
-     "text": "beheading"
+     "text": "Enthauptung"
     },
     {
-     "text": "sunlight"
+     "text": "Sonnenlicht"
     },
     {
-     "text": "choosing to not invite inside"
+     "text": "Nicht in das eigene Haus einladen"
     },
     {
-     "text": "silver"
+     "text": "Silber"
     }
    ],
    "category": "Pop Culture",
    "decoys": [
     {
-     "text": "American flag"
+     "text": "Kaffeesatz"
     },
     {
-     "text": "wine"
+     "text": "Wein"
     },
     {
-     "text": "diamonds"
+     "text": "Diamanten"
     },
     {
-     "text": "eye contact"
+     "text": "Augenkontakt"
     },
     {
-     "text": "violin music"
+     "text": "Geigenmusik"
     },
     {
-     "text": "riddles"
+     "text": "Rätsel"
+    },
+    {
+     "text": "Zerbrochener Spiegel"
+    },
+    {
+     "text": "Duftkerze"
     }
    ],
    "id": "77279",
    "isValid": "",
-   "prompt": "Which of these are known as traditional vampire-fighting tools?",
-   "us": true,
-   "x": false
+   "prompt": "Wobei handelt es sich um traditionelle Werkzeuge für die Vampir-Bekämpfung?",
+   "us": false,
+   "x": true
   },
   {
    "answers": [
     {
-     "text": "diary"
+     "text": "Tagebuch"
     },
     {
-     "text": "ring"
+     "text": "Ring"
     },
     {
-     "text": "cup"
+     "text": "Kelch"
     },
     {
-     "text": "diadem"
+     "text": "Diadem"
     },
     {
-     "text": "locket"
+     "text": "Medaillon"
     },
     {
-     "text": "snake"
+     "text": "Schlange"
     },
     {
      "text": "Harry Potter"
@@ -2988,76 +3000,88 @@
    "category": "Literature",
    "decoys": [
     {
-     "text": "broomstick"
+     "text": "Besen"
     },
     {
-     "text": "owl"
+     "text": "Eule"
     },
     {
-     "text": "wizard's hat"
+     "text": "Zauberhut"
     },
     {
-     "text": "cauldron of beer"
+     "text": "Bierkessel"
     },
     {
-     "text": "invisibility t-shirt"
+     "text": "Goldener Schnatz"
     },
     {
-     "text": "wand"
+     "text": "Zauberstab"
     }
    ],
    "id": "77299",
    "isValid": "",
-   "prompt": "Which of these are Voldemort’s horcruxes from [i]Harry Potter[/i]?",
-   "us": true,
+   "prompt": "Welche dieser Dinge sind Horkruxe von Voldemort in [i]Harry Potter[/i]?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Great Wall of China"
+     "text": "Chinesische Mauer"
     },
     {
-     "text": "Christ the Redeemer Statue"
+     "text": "“Cristo Redentor”-Statue in Brasilien"
     },
     {
-     "text": "Machu Picchu"
+     "text": "Machu Picchu in Peru"
     },
     {
-     "text": "Chichen Itza"
+     "text": "Chichén Itzá in Mexiko"
     },
     {
-     "text": "Roman Colosseum"
+     "text": "Kolosseum von Rom"
     },
     {
-     "text": "Taj Mahal"
+     "text": "Taj Mahal in Indien"
     },
     {
-     "text": "Petra"
+     "text": "Felsenstadt Petra"
     }
    ],
    "category": "Geography & Landmarks",
    "decoys": [
     {
-     "text": "Sydney Opera House"
+     "text": "Opernhaus in Sydney"
     },
     {
-     "text": "Moai Statues of Easter Island"
+     "text": "Moai Steinfiguren auf den Osterinseln"
     },
     {
-     "text": "Eiffel Tower"
+     "text": "Eiffelturm in Paris"
     },
     {
-     "text": "Walt Disney World Resort"
+     "text": "Stonehenge in Großbritannien"
     },
     {
-     "text": "Red Square in Moscow"
+     "text": "Kreml in Russland"
+    },
+    {
+     "text": "Hagia Sophia in der Türkei"
+    },
+    {
+     "text": "Freiheitsstatue in New York"
+    },
+    {
+     "text": "Alhambra in Spanien"
+    },
+    {
+     "text": "Akropolis in Griechenland"
     }
    ],
    "id": "77335",
    "isValid": "",
-   "prompt": "What are the [i]New Seven Wonders of the World[/i]?",
-   "us": true,
+   "prompt": "Welches sind die 7 [i]neuen Weltwunder[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -3198,67 +3222,67 @@
   {
    "answers": [
     {
-     "text": "apple"
+     "text": "Apfel"
     },
     {
-     "text": "pears"
+     "text": "Birne"
     },
     {
-     "text": "strawberries"
+     "text": "Pflaume"
     },
     {
-     "text": "oranges"
+     "text": "Erdbeere"
     },
     {
-     "text": "chocolate cake"
+     "text": "Apfelsine"
     },
     {
-     "text": "ice cream cone"
+     "text": "Schokoladenkuchen"
     },
     {
-     "text": "pickle"
+     "text": "Eiswaffel"
     },
     {
-     "text": "Swiss cheese"
+     "text": "Essiggurke"
     },
     {
-     "text": "salami"
+     "text": "Käse"
     },
     {
-     "text": "lollipop"
+     "text": "Wurst"
     },
     {
-     "text": "sausage"
+     "text": "Lolli"
     },
     {
-     "text": "watermelon"
+     "text": "Melone"
     }
    ],
    "category": "Literature",
    "decoys": [
     {
-     "text": "other caterpillars"
+     "text": "Andere Raupen"
     },
     {
-     "text": "calamari"
+     "text": "Oliven"
     },
     {
-     "text": "one spoonful of cottage cheese"
+     "text": "Kirsche"
     },
     {
-     "text": "dirt"
+     "text": "Dreck"
     },
     {
-     "text": "popcorn"
+     "text": "Popcorn"
     },
     {
-     "text": "parsnips"
+     "text": "Pastinake"
     }
    ],
    "id": "77356",
    "isValid": "",
-   "prompt": "What does [i]The Very Hungry Caterpillar[/i] eat?",
-   "us": true,
+   "prompt": "Was frisst die [i]kleine Raupe Nimmersatt[/i] alles?",
+   "us": false,
    "x": false
   },
   {
@@ -3312,55 +3336,55 @@
   {
    "answers": [
     {
-     "text": "beekeeper"
+     "text": "Imkerin"
     },
     {
-     "text": "martial artist"
+     "text": "Kampfsportlerin"
     },
     {
-     "text": "pasta chef"
+     "text": "Köchin"
     },
     {
-     "text": "rhythmic gymnast"
+     "text": "Krankenschwester"
     },
     {
-     "text": "zoo doctor"
+     "text": "Tierärztin"
     },
     {
-     "text": "executive career girl"
+     "text": "Kauffrau für Büromanagement"
     },
     {
-     "text": "astronaut"
+     "text": "Astronautin"
     },
     {
-     "text": "firefighter"
+     "text": "Feuerwehrfrau"
     }
    ],
    "category": "Companies & Brands",
    "decoys": [
     {
-     "text": "lighthouse keeper"
+     "text": "Leuchtturmwärterin"
     },
     {
-     "text": "reference librarian"
+     "text": "Bibliothekarin"
     },
     {
-     "text": "vegetarian"
+     "text": "Taxifahrerin"
     },
     {
-     "text": "orthodontist"
+     "text": "Kieferorthopädin"
     },
     {
-     "text": "Egyptologist"
+     "text": "Ägyptologin"
     },
     {
-     "text": "professional lacrosse player"
+     "text": "Professionelle Handballspielerin"
     }
    ],
    "id": "77638",
    "isValid": "",
-   "prompt": "Which occupations has Barbie officially held?",
-   "us": true,
+   "prompt": "Welche Berufe hat Barbie offiziell schon ausgeübt?",
+   "us": false,
    "x": false
   },
   {
@@ -3429,58 +3453,58 @@
   {
    "answers": [
     {
-     "text": "crickets"
+     "text": "Morsecode"
     },
     {
-     "text": "hyena"
+     "text": "Hyänengeräusche"
     },
     {
-     "text": "horse and cart"
+     "text": "Pferde und Fahrzeuge"
     },
     {
-     "text": "kiss"
+     "text": "Geräusch eines Kusses"
     },
     {
-     "text": "tame dog"
+     "text": "Bellen eines zahmen Hundes"
     },
     {
-     "text": "laughter"
+     "text": "Schreie eines Neugeborenen"
     },
     {
-     "text": "tractor"
+     "text": "Quaken von Fröschen"
     },
     {
-     "text": "fire"
+     "text": "Regenplätschern"
     },
     {
-     "text": "wild dog"
+     "text": "Vitalfunktionen eines Menschen"
+    },
+    {
+     "text": "Bellen eines wilden Hundes"
     }
    ],
    "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "crying"
+     "text": "Weinen"
     },
     {
-     "text": "balloon popping"
+     "text": "Platzen eines Ballons"
     },
     {
-     "text": "\"yada yada yada\""
+     "text": "Blähungen eines Kängurus"
     },
     {
-     "text": "bread baking"
+     "text": "Rauschen eines Flusses"
     },
     {
-     "text": "Gilbert Gottfried"
-    },
-    {
-     "text": "child playing violin for first time"
+     "text": "Wolfgang Amadeus Mozart"
     }
    ],
    "id": "77643",
    "isValid": "",
-   "prompt": "Which sounds are included on the Voyager Golden Record?",
-   "us": true,
+   "prompt": "Welche Geräusche wurden auf der [i]Voyager Golden Record[/i] in den Weltraum geschickt?",
+   "us": false,
    "x": false
   },
   {
