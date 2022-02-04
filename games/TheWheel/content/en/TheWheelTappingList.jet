@@ -972,58 +972,61 @@
   {
    "answers": [
     {
-     "text": "Richard Nixon"
+     "text": "Verbrennen"
     },
     {
-     "text": "Marilyn Monroe"
+     "text": "Zersägen"
     },
     {
-     "text": "[i]The Catcher in the Rye[/i]"
+     "text": "Ins Wohnzimmer stellen"
     },
     {
-     "text": "Liberace"
+     "text": "Lackieren"
     },
     {
-     "text": "Peter Pan"
+     "text": "Einen Staudamm bauen"
     },
     {
-     "text": "U2"
+     "text": "Einen Knüppel schnitzen"
     },
     {
-     "text": "Woodstock"
+     "text": "Eine Brücke bauen"
     },
     {
-     "text": "hula hoops"
-    },
-    {
-     "text": "[i]Wheel of Fortune[/i]"
+     "text": "Menschen retten"
     }
    ],
    "category": "Music",
    "decoys": [
     {
-     "text": "Enron"
+     "text": "Lecker kochen"
     },
     {
-     "text": "Bill Clinton"
+     "text": "Ein Kissen stopfen"
     },
     {
-     "text": "Eddie Murphy"
+     "text": "Kuscheln"
     },
     {
-     "text": "[i]Growing Pains[/i]"
+     "text": "Musik machen"
     },
     {
-     "text": "cicadas"
+     "text": "Einen Schreibtisch bauen"
     },
     {
-     "text": "Gloria Steinem"
+     "text": "Bei [i]Beate Uhse[/i] einkaufen"
+    },
+    {
+     "text": "Auf ein Date gehen"
+    },
+    {
+     "text": "Verschenken"
     }
    ],
    "id": "76775",
    "isValid": "",
-   "prompt": "Which references are in the song “We Didn't Start the Fire”?",
-   "us": true,
+   "prompt": "Was kann man laut dem Song “Ich und mein Holz” alles mit Holz machen?",
+   "us": false,
    "x": false
   },
   {
@@ -1260,58 +1263,58 @@
   {
    "answers": [
     {
-     "text": "dog"
+     "text": "Hund"
     },
     {
-     "text": "monkey"
+     "text": "Affe"
     },
     {
-     "text": "umbrella"
+     "text": "Sonnenschirm"
     },
     {
-     "text": "top hat"
+     "text": "Zylinderhut"
     },
     {
-     "text": "sailboat"
+     "text": "Segelboot"
     },
     {
-     "text": "umbrella"
+     "text": "Regenschirm"
     },
     {
-     "text": "horn"
+     "text": "Pfeife"
     },
     {
-     "text": "soldier"
+     "text": "Kinder"
     },
     {
-     "text": "cane"
+     "text": "Gehstock"
     },
     {
-     "text": "trees"
+     "text": "Bäume"
     }
    ],
    "category": "Art",
    "decoys": [
     {
-     "text": "banana"
+     "text": "Banane"
     },
     {
-     "text": "picnic basket"
+     "text": "Picknickdecke"
     },
     {
-     "text": "guitar"
+     "text": "Geige"
     },
     {
-     "text": "golf club"
+     "text": "Golfschläger"
     },
     {
-     "text": "frisbee"
+     "text": "Frisbee"
     }
    ],
    "id": "76780",
    "isValid": "",
-   "prompt": "What’s featured in Seurat’s pointillism masterpiece [i]A Sunday Afternoon on the Island of La Grande Jatte[/i]?",
-   "us": true,
+   "prompt": "Was ist auf dem Gemälde “[i]Ein Sonntagnachmittag auf der Insel La Grande Jatte[/i]” von Georges Seurat zu sehen?",
+   "us": false,
    "x": false
   },
   {
@@ -2868,7 +2871,7 @@
   {
    "answers": [
     {
-     "text": "Niflheim"
+     "text": "Niflheimr"
     },
     {
      "text": "Midgard"
@@ -2877,22 +2880,22 @@
      "text": "Asgard"
     },
     {
-     "text": "Vanaheim"
+     "text": "Vanaheimr"
     },
     {
-     "text": "Jotunheim"
+     "text": "Jötunheimr"
     },
     {
-     "text": "Muspelheim"
+     "text": "Muspellzheimr"
     },
     {
-     "text": "Alfheim"
+     "text": "Álfheimr"
     },
     {
-     "text": "Svartalfheim"
+     "text": "Svartálfaheimr"
     },
     {
-     "text": "Hel"
+     "text": "Helheimr"
     }
    ],
    "category": "Literature",
@@ -2901,16 +2904,22 @@
      "text": "Olympus"
     },
     {
-     "text": "Sondheim"
+     "text": "Sountheimr"
     },
     {
-     "text": "Ragnarok"
+     "text": "Ragnarök"
+    },
+    {
+     "text": "Bifröst"
+    },
+    {
+     "text": "Yggdrasil"
     }
    ],
    "id": "77202",
    "isValid": "",
-   "prompt": "What are the 9 realms of Norse mythology?",
-   "us": true,
+   "prompt": "Wie heißen die 9 Welten der nordischen Mythologie?",
+   "us": false,
    "x": false
   },
   {
@@ -3390,64 +3399,67 @@
   {
    "answers": [
     {
-     "text": "[i]The Curse of the Mummy’s Tomb[/i]"
+     "text": "[i]Das Gespensterschloss[/i]"
     },
     {
-     "text": "[i]Let’s Get Invisible![/i]"
+     "text": "[i]Der Ameisenmensch[/i]"
     },
     {
-     "text": "[i]Night of the Living Dummy[/i]"
+     "text": "[i]Der giftige Gockel[/i]"
     },
     {
-     "text": "[i]Say Cheese and Die![/i]"
+     "text": "[i]Musik des Teufels[/i]"
     },
     {
-     "text": "[i]The Girl Who Cried Monster[/i]"
+     "text": "[i]Gefährliches Quiz[/i]"
     },
     {
-     "text": "[i]Piano Lessons Can Be Murder[/i]"
+     "text": "[i]Spur ins Nichts[/i]"
     },
     {
-     "text": "[i]You Can’t Scare Me![/i]"
+     "text": "[i]SMS aus dem Grab[/i]"
     },
     {
-     "text": "[i]Ghost Camp[/i]"
+     "text": "[i]Botschaft aus der Unterwelt[/i]"
     },
     {
-     "text": "[i]The Abominable Snowman of Pasadena[/i]"
+     "text": "[i]Der schreiende Nebel[/i]"
     },
     {
-     "text": "[i]Revenge of the Lawn Gnomes[/i]"
+     "text": "[i]Höhenangst[/i]"
     },
     {
-     "text": "[i]Phantom of the Auditorium[/i]"
+     "text": "[i]Der Fluch der Medusa[/i]"
     },
     {
-     "text": "[i]Why I’m Afraid of Bees[/i]"
+     "text": "[i]Im Netz der Lügen[/i]"
+    },
+    {
+     "text": "[i]Der Zeitgeist[/i]"
     }
    ],
    "category": "Literature",
    "decoys": [
     {
-     "text": "[i]Attack of the Killer Snowmen[/i]"
+     "text": "[i]Der blaue Pirat[/i]"
     },
     {
-     "text": "[i]Laughter in the Attic[/i]"
+     "text": "[i]Einsame Rache[/i]"
     },
     {
-     "text": "[i]Ouch! My Brain![/i]"
+     "text": "[i]Geheimwort: Fischer[/i]"
     },
     {
-     "text": "[i]Watch Out for Space Termites[/i]"
+     "text": "[i]Im Netz der Anakonda[/i]"
     },
     {
-     "text": "[i]This One’s Not Scary[/i]"
+     "text": "[i]Die lachenden Giganten[/i]"
     }
    ],
    "id": "77639",
    "isValid": "",
-   "prompt": "What are the original [i]Goosebumps[/i] titles?",
-   "us": true,
+   "prompt": "Welche dieser Titel gehören zu “[i]Die drei ???[/i]”-Büchern?",
+   "us": false,
    "x": false
   },
   {
@@ -3624,7 +3636,7 @@
      "text": "Fermium"
     },
     {
-     "text": "Einsteinium"
+     "text": "Gadolinium"
     },
     {
      "text": "Oganesson"
@@ -3636,7 +3648,7 @@
      "text": "Mendelevium"
     },
     {
-     "text": "Seaborgium"
+     "text": "Lawrencium"
     },
     {
      "text": "Rutherfordium"
@@ -3645,25 +3657,25 @@
    "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "Carbon"
+     "text": "Mangan"
     },
     {
      "text": "Vibranium"
     },
     {
-     "text": "Krypton"
+     "text": "Lutecium"
     },
     {
      "text": "Washingtonium"
     },
     {
-     "text": "Unobtanium"
+     "text": "Wolfram"
     }
    ],
    "id": "77646",
    "isValid": "",
-   "prompt": "Which of these are elements named after real people?",
-   "us": true,
+   "prompt": "Welche dieser Elemente wurden nach echten Personen benannt?",
+   "us": false,
    "x": false
   },
   {
@@ -3681,10 +3693,10 @@
      "text": "Commander Cody"
     },
     {
-     "text": "Ki-Adi Mundi"
+     "text": "Ki-Adi-Mundi"
     },
     {
-     "text": "General Tarfful"
+     "text": "Lobot"
     },
     {
      "text": "Wat Tambor"
@@ -3697,6 +3709,9 @@
     },
     {
      "text": "Yaddle"
+    },
+    {
+     "text": "Beezer Fortuna"
     }
    ],
    "category": "Film & TV",
@@ -3708,7 +3723,7 @@
      "text": "Dark Helmet"
     },
     {
-     "text": "Captain Kirrahe"
+     "text": "Captain Kirk"
     },
     {
      "text": "Arctus Baran"
@@ -3717,61 +3732,70 @@
      "text": "Luke Skywater"
     },
     {
-     "text": "Count Fenring"
+     "text": "Count Boku"
+    },
+    {
+     "text": "Commander Dave"
     }
    ],
    "id": "77657",
    "isValid": "",
-   "prompt": "Which of these are background characters from the [i]Star Wars[/i] universe?",
-   "us": true,
+   "prompt": "Welches sind Hintergrund-Charaktere aus dem “[i]Star Wars[/i]”-Universum?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Harvard"
+     "text": "KU Eichstätt-Ingolstadt"
     },
     {
-     "text": "Princeton"
+     "text": "Uni Jena"
     },
     {
-     "text": "Columbia"
+     "text": "TU München"
     },
     {
-     "text": "Brown"
+     "text": "Uni Göttingen"
     },
     {
-     "text": "Dartmouth"
+     "text": "Uni Würzburg"
     },
     {
-     "text": "University of Pennsylvania"
+     "text": "Uni Frankfurt"
     },
     {
-     "text": "Cornell"
+     "text": "Uni Bielefeld"
     },
     {
-     "text": "Yale"
+     "text": "Uni Osnabrück"
     }
    ],
-   "category": "History",
+   "category": "Factoids",
    "decoys": [
     {
-     "text": "Amherst"
+     "text": "Uni Braunschweig"
     },
     {
-     "text": "Stanford"
+     "text": "Uni Bochum"
     },
     {
-     "text": "Duke"
+     "text": "TU Darmstadt"
     },
     {
-     "text": "MIT"
+     "text": "Uni Heidelberg"
+    },
+    {
+     "text": "Uni Köln"
+    },
+    {
+     "text": "TU Hamburg"
     }
    ],
    "id": "77670",
    "isValid": "",
-   "prompt": "Which schools are U.S. Ivy League universities?",
-   "us": true,
+   "prompt": "Welches sind die bei Studenten beliebtesten Universitäten in Deutschland 2021?",
+   "us": false,
    "x": false
   },
   {
@@ -3882,103 +3906,112 @@
   {
    "answers": [
     {
-     "text": "Denmark"
+     "text": "Thüringen"
     },
     {
-     "text": "Poland"
+     "text": "Niedersachsen"
     },
     {
-     "text": "Czech Republic"
+     "text": "Nordrhein-Westfalen"
     },
     {
-     "text": "Switzerland"
+     "text": "Rheinland-Pfalz"
     },
     {
-     "text": "Austria"
+     "text": "Baden-Württemberg"
     },
     {
-     "text": "France"
-    },
-    {
-     "text": "Belgium"
-    },
-    {
-     "text": "Luxembourg"
-    },
-    {
-     "text": "Netherlands"
+     "text": "Bayern"
     }
    ],
    "category": "Geography & Landmarks",
    "decoys": [
     {
-     "text": "Hungary"
+     "text": "Saarland"
     },
     {
-     "text": "Russia"
+     "text": "Bremen"
     },
     {
-     "text": "Belarus"
+     "text": "Schleswig-Holstein"
     },
     {
-     "text": "Spain"
+     "text": "Hamburg"
     },
     {
-     "text": "Liechtenstein"
+     "text": "Mecklenburg-Vorpommern"
+    },
+    {
+     "text": "Sachsen-Anhalt"
+    },
+    {
+     "text": "Brandenburg"
+    },
+    {
+     "text": "Berlin"
+    },
+    {
+     "text": "Sachsen"
     }
    ],
    "id": "77674",
    "isValid": "",
-   "prompt": "Which countries border Germany?",
-   "us": true,
+   "prompt": "Welche Bundesländer grenzen an Hessen?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "[i]How to Get Away with Murder[/i]"
+     "text": "[i]Fangen[/i]"
     },
     {
-     "text": "[i]Bridgerton[/i]"
+     "text": "[i]Triathlon[/i]"
     },
     {
-     "text": "[i]Scandal[/i]"
+     "text": "[i]Rhythmische Sportgymnastik[/i]"
     },
     {
-     "text": "[i]Grey's Anatomy[/i]"
+     "text": "[i]Hockeygolf[/i]"
     },
     {
-     "text": "[i]Private Practice[/i]"
+     "text": "[i]Dressurreiten[/i]"
     },
     {
-     "text": "[i]Station 19[/i]"
+     "text": "[i]Inline-Skating[/i]"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "[i]This Is Us[/i]"
+     "text": "[i]Quizboxen[/i]"
     },
     {
-     "text": "[i]The Fosters[/i]"
+     "text": "[i]Olympische Spiele[/i]"
     },
     {
-     "text": "[i]Army Wives[/i]"
+     "text": "[i]Eisschnelllauf[/i]"
     },
     {
-     "text": "[i]Pretty Little Liars[/i]"
+     "text": "[i]Wok-Weltmeisterschaft[/i]"
     },
     {
-     "text": "[i]Empire[/i]"
+     "text": "[i]Turmspringen[/i]"
     },
     {
-     "text": "[i]9-1-1[/i]"
+     "text": "[i]Hochsprung[/i]"
+    },
+    {
+     "text": "[i]Autoball[/i]"
+    },
+    {
+     "text": "[i]Boxen[/i]"
     }
    ],
    "id": "77677",
    "isValid": "",
-   "prompt": "Which shows are produced by Shonda Rhimes?",
-   "us": true,
+   "prompt": "Welche dieser [i]TV-Total[/i]-Sportsendungen existieren NICHT?",
+   "us": false,
    "x": false
   },
   {
