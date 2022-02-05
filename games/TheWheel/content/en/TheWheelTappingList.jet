@@ -111,25 +111,22 @@
   {
    "answers": [
     {
-     "text": "F"
-    },
-    {
-     "text": "H"
+     "text": "P"
     },
     {
      "text": "V"
     },
     {
-     "text": "W"
+     "text": "Ü"
     },
     {
-     "text": "Y"
-    },
-    {
-     "text": "K"
+     "text": "Ä"
     },
     {
      "text": "J"
+    },
+    {
+     "text": "Ö"
     },
     {
      "text": "X"
@@ -138,7 +135,7 @@
      "text": "Q"
     },
     {
-     "text": "Z"
+     "text": "Y"
     }
    ],
    "category": "Games",
@@ -147,7 +144,10 @@
      "text": "G"
     },
     {
-     "text": "P"
+     "text": "K"
+    },
+    {
+     "text": "Z"
     },
     {
      "text": "M"
@@ -155,68 +155,68 @@
    ],
    "id": "76731",
    "isValid": "",
-   "prompt": "Which Scrabble letters are worth 4 points or more?",
-   "us": true,
+   "prompt": "Welche Scrabble-Buchstaben sind 4 Punkte oder mehr wert?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "hippopotamus"
+     "text": "Nilpferd"
     },
     {
-     "text": "lion"
+     "text": "Löwe"
     },
     {
-     "text": "cheetah"
+     "text": "Gepard"
     },
     {
-     "text": "rhinoceros"
+     "text": "Nashorn"
     },
     {
-     "text": "zebra"
+     "text": "Zebra"
     },
     {
-     "text": "giraffe"
+     "text": "Giraffe"
     },
     {
-     "text": "black mamba"
+     "text": "schwarze Mamba"
     },
     {
-     "text": "bonobo"
+     "text": "Bonobo"
     },
     {
-     "text": "okapi"
+     "text": "Okapi"
     },
     {
-     "text": "mandrill"
+     "text": "Mandrill"
     }
    ],
    "category": "Animals",
    "decoys": [
     {
-     "text": "jaguar"
+     "text": "Jaguar"
     },
     {
-     "text": "three-toed sloth"
+     "text": "Faultier"
     },
     {
-     "text": "toucan"
+     "text": "Tukan"
     },
     {
-     "text": "tiger"
+     "text": "Tiger"
     },
     {
-     "text": "wombat"
+     "text": "Wombat"
     },
     {
-     "text": "orangutan"
+     "text": "Orang-Utan"
     }
    ],
    "id": "76732",
    "isValid": "",
-   "prompt": "Which animals are from Africa?",
-   "us": true,
+   "prompt": "Welche Tiere stammen aus Afrika?",
+   "us": false,
    "x": false
   },
   {
@@ -273,7 +273,7 @@
   {
    "answers": [
     {
-     "text": "Athena"
+     "text": "Athene"
     },
     {
      "text": "Zeus"
@@ -285,7 +285,7 @@
      "text": "Hermes"
     },
     {
-     "text": "Apollo"
+     "text": "Apollon"
     },
     {
      "text": "Aphrodite"
@@ -294,7 +294,7 @@
      "text": "Artemis"
     },
     {
-     "text": "Hephaestus"
+     "text": "Hephaistos"
     },
     {
      "text": "Ares"
@@ -306,7 +306,7 @@
      "text": "Demeter"
     },
     {
-     "text": "Dionysus"
+     "text": "Dionysos"
     }
    ],
    "category": "Historical Figures",
@@ -315,16 +315,16 @@
      "text": "Tesla"
     },
     {
-     "text": "Oracle"
+     "text": "Orakel"
     },
     {
-     "text": "Achilles"
+     "text": "Achilleus"
     },
     {
-     "text": "Cassandra"
+     "text": "Abunis"
     },
     {
-     "text": "Helen of Troy"
+     "text": "Helena von Troja"
     },
     {
      "text": "Ajax"
@@ -332,47 +332,53 @@
    ],
    "id": "76744",
    "isValid": "",
-   "prompt": "Which names belong to Olympian gods & goddesses?",
-   "us": true,
+   "prompt": "Welche dieser Namen gehören zu den olympischen Göttern?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Cat"
+     "text": "Kuh"
     },
     {
-     "text": "Child"
+     "text": "Delfin"
     },
     {
-     "text": "Downward Dog"
+     "text": "Herabschauender Hund"
     },
     {
-     "text": "Warrior"
+     "text": "Krieger"
     },
     {
-     "text": "Mountain"
+     "text": "Kobra"
     },
     {
-     "text": "Tree"
+     "text": "Baum"
     },
     {
      "text": "Lotus"
     },
     {
-     "text": "Cobra"
+     "text": "Katze"
+    },
+    {
+     "text": "Taube"
     }
    ],
    "category": "Anatomy",
    "decoys": [
     {
-     "text": "Candelabra"
+     "text": "Storch"
     },
     {
-     "text": "Bumblebee"
+     "text": "Biene"
     },
     {
-     "text": "Floating Grandmother"
+     "text": "Fliegende Großmutter"
+    },
+    {
+     "text": "Eule"
     },
     {
      "text": "Sand"
@@ -380,8 +386,8 @@
    ],
    "id": "76751",
    "isValid": "",
-   "prompt": "Which of these are yoga poses?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um eine Yoga Pose?",
+   "us": false,
    "x": false
   },
   {
@@ -561,13 +567,13 @@
      "text": "225"
     },
     {
-     "text": "96,100"
+     "text": "96.100"
     },
     {
-     "text": "290,521"
+     "text": "290.521"
     },
     {
-     "text": "490,000"
+     "text": "490.000"
     },
     {
      "text": "121"
@@ -588,19 +594,19 @@
      "text": "-9"
     },
     {
-     "text": "2,705"
+     "text": "2.705"
     },
     {
-     "text": "3,000"
+     "text": "3.000"
     },
     {
-     "text": "579,000"
+     "text": "579.000"
     }
    ],
    "id": "76765",
    "isValid": "",
-   "prompt": "Which numbers have a perfect square?",
-   "us": true,
+   "prompt": "Aus welchen Zahlen kann man glatt die Quadratwurzel ziehen?",
+   "us": false,
    "x": false
   },
   {
@@ -650,110 +656,110 @@
    ],
    "id": "76768",
    "isValid": "",
-   "prompt": "Which of these automakers are European?",
-   "us": true,
+   "prompt": "Welche dieser Autohersteller sind europäisch?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "aorta"
+     "text": "Aorta"
     },
     {
-     "text": "pulmonary artery"
+     "text": "Lungenarterie"
     },
     {
-     "text": "left atrium"
+     "text": "Linker Vorhof"
     },
     {
-     "text": "superior vena cava"
+     "text": "Obere Hohlvene"
     },
     {
-     "text": "right atrium"
+     "text": "Rechter Vorhof"
     },
     {
-     "text": "tricuspid valve"
+     "text": "Trikuspidalklappe"
     },
     {
-     "text": "right ventricle"
+     "text": "Rechte Kammer"
     }
    ],
    "category": "Anatomy",
    "decoys": [
     {
-     "text": "superior lobe"
+     "text": "Oberer Lappen"
     },
     {
-     "text": "trachea"
+     "text": "Luftröhre"
     },
     {
-     "text": "cardiac notch"
+     "text": "Untere Herzkerbe"
     },
     {
-     "text": "jugular vein"
+     "text": "Aortenbogen"
     },
     {
-     "text": "cornea"
+     "text": "Hornhaut"
     }
    ],
    "id": "76769",
    "isValid": "",
-   "prompt": "Which of these are parts of the human heart?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um einen Teil des menschlichen Herzens?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Cheerios"
+     "text": "Frosties"
     },
     {
-     "text": "Lucky Charms"
+     "text": "Choco Krispies"
     },
     {
-     "text": "Cinnamon Toast Crunch"
+     "text": "Honey Bsss"
     },
     {
-     "text": "Cocoa Puffs"
+     "text": "Froot Loops"
     },
     {
-     "text": "Cookie Crisp"
+     "text": "Tresor"
     },
     {
-     "text": "Golden Grahams"
+     "text": "Smacks"
     },
     {
-     "text": "Trix"
+     "text": "Toppas"
     },
     {
-     "text": "Kix"
-    },
-    {
-     "text": "Wheaties"
+     "text": "Crunchy Nut"
     }
    ],
    "category": "Companies & Brands",
    "decoys": [
     {
-     "text": "Frosted Flakes"
+     "text": "Cheerios"
     },
     {
-     "text": "Urkel-O's"
+     "text": "Choco Crossies"
     },
     {
-     "text": "Honey Bunches of Oats"
+     "text": "Cini Minis"
     },
     {
-     "text": "Raisin Bran"
+     "text": "Cookie Crisp"
     },
     {
-     "text": "Grape-Nuts"
+     "text": "Clusters"
+    },
+    {
+     "text": "Vitalis"
     }
    ],
    "id": "76770",
    "isValid": "",
-   "prompt": "Which cereal brands are by General Mills?",
-   "us": true,
+   "prompt": "Welche dieser Cerealien-Marken stammen von [i]Kellogg's[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -798,61 +804,61 @@
    "id": "76771",
    "isValid": "",
    "prompt": "Welche Namen sind Live-Programme von [i]Mario Barth[/i]?",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "boulder"
+     "text": "Felsblock"
     },
     {
-     "text": "catapult"
+     "text": "Katapult"
     },
     {
-     "text": "rocket"
+     "text": "Rakete"
     },
     {
-     "text": "anvil"
+     "text": "Amboss"
     },
     {
-     "text": "iron bird seed"
+     "text": "Eisenhaltiges Vogelfutter"
     },
     {
-     "text": "female road runner costume"
+     "text": "“Weiblicher Roadrunner”-Kostüm"
     },
     {
-     "text": "bees"
+     "text": "Bienen"
     },
     {
-     "text": "fly paper"
+     "text": "Fliegenfänger"
     }
    ],
    "category": "Animation/Comic Books",
    "decoys": [
     {
-     "text": "Venus flytrap"
+     "text": "Venusfliegenfalle"
     },
     {
-     "text": "drone"
+     "text": "Drone"
     },
     {
-     "text": "water balloon"
+     "text": "Wasserballons"
     },
     {
-     "text": "piano"
+     "text": "Klavier"
     }
    ],
    "id": "76772",
    "isValid": "",
-   "prompt": "Which weapons have been used by Wile E. Coyote against the Road Runner?",
-   "us": true,
+   "prompt": "Welche Waffen hat Wile E. Coyote gegen den Road Runner eingesetzt?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Snow White"
+     "text": "Schneewittchen"
     },
     {
      "text": "Cinderella"
@@ -861,13 +867,13 @@
      "text": "Aurora"
     },
     {
-     "text": "Ariel"
+     "text": "Arielle"
     },
     {
      "text": "Belle"
     },
     {
-     "text": "Jasmine"
+     "text": "Jasmin"
     },
     {
      "text": "Pocahontas"
@@ -888,7 +894,7 @@
    "category": "Animation/Comic Books",
    "decoys": [
     {
-     "text": "Catherine"
+     "text": "Amalia"
     },
     {
      "text": "Meghan"
@@ -897,16 +903,16 @@
      "text": "Eloise"
     },
     {
-     "text": "Siobhan"
+     "text": "Lavinia"
     },
     {
-     "text": "Punky"
+     "text": "Elisabeth"
     }
    ],
    "id": "76773",
    "isValid": "",
-   "prompt": "Which of these names belong to Disney Princesses?",
-   "us": true,
+   "prompt": "Welche dieser Namen gehören [i]Disney[/i]-Prinzessinnen?",
+   "us": false,
    "x": false
   },
   {
@@ -966,58 +972,61 @@
   {
    "answers": [
     {
-     "text": "Richard Nixon"
+     "text": "Verbrennen"
     },
     {
-     "text": "Marilyn Monroe"
+     "text": "Zersägen"
     },
     {
-     "text": "[i]The Catcher in the Rye[/i]"
+     "text": "Ins Wohnzimmer stellen"
     },
     {
-     "text": "Liberace"
+     "text": "Lackieren"
     },
     {
-     "text": "Peter Pan"
+     "text": "Einen Staudamm bauen"
     },
     {
-     "text": "U2"
+     "text": "Einen Knüppel schnitzen"
     },
     {
-     "text": "Woodstock"
+     "text": "Eine Brücke bauen"
     },
     {
-     "text": "hula hoops"
-    },
-    {
-     "text": "[i]Wheel of Fortune[/i]"
+     "text": "Menschen retten"
     }
    ],
    "category": "Music",
    "decoys": [
     {
-     "text": "Enron"
+     "text": "Lecker kochen"
     },
     {
-     "text": "Bill Clinton"
+     "text": "Ein Kissen stopfen"
     },
     {
-     "text": "Eddie Murphy"
+     "text": "Kuscheln"
     },
     {
-     "text": "[i]Growing Pains[/i]"
+     "text": "Musik machen"
     },
     {
-     "text": "cicadas"
+     "text": "Einen Schreibtisch bauen"
     },
     {
-     "text": "Gloria Steinem"
+     "text": "Bei [i]Beate Uhse[/i] einkaufen"
+    },
+    {
+     "text": "Auf ein Date gehen"
+    },
+    {
+     "text": "Verschenken"
     }
    ],
    "id": "76775",
    "isValid": "",
-   "prompt": "Which references are in the song “We Didn't Start the Fire”?",
-   "us": true,
+   "prompt": "Was kann man laut dem Song “Ich und mein Holz” alles mit Holz machen?",
+   "us": false,
    "x": false
   },
   {
@@ -1070,122 +1079,128 @@
    ],
    "id": "76776",
    "isValid": "",
-   "prompt": "Which of these are Apple computer operating system code names?",
-   "us": true,
+   "prompt": "Welche davon sind Codenamen für Apple-Betriebssysteme?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "[i]OK![/i]"
+     "text": "[i]Die Aktuelle[/i]"
     },
     {
-     "text": "[i]Hello![/i]"
+     "text": "[i]Viel Spaß[/i]"
     },
     {
-     "text": "[i]Heat[/i]"
+     "text": "[i]InTouch[/i]"
     },
     {
-     "text": "[i]Daily Mail[/i]"
+     "text": "[i]Freizeit Revue[/i]"
     },
     {
-     "text": "[i]Daily Express[/i]"
+     "text": "[i]Echo der Frau[/i]"
     },
     {
-     "text": "[i]The Sun[/i]"
+     "text": "[i]Das Goldene Blatt[/i]"
     },
     {
-     "text": "[i]Mirror[/i]"
+     "text": "[i]das neue[/i]"
     },
     {
-     "text": "[i]Sunday People[/i]"
+     "text": "[i]Die neue Frau[/i]"
     },
     {
-     "text": "[i]Daily Star[/i]"
+     "text": "[i]Frau mit Herz[/i]"
+    },
+    {
+     "text": "[i]NEUE WELT[/i]"
     }
    ],
    "category": "News Media",
    "decoys": [
     {
-     "text": "[i]Us Weekly[/i]"
+     "text": "[i]Perfekte Woche[/i]"
     },
     {
-     "text": "[i]National Enquirer[/i]"
+     "text": "[i]Frau von Morgen[/i]"
     },
     {
-     "text": "[i]Whazzup![/i]"
+     "text": "[i]Zeit für Pause[/i]"
     },
     {
-     "text": "[i]Chuffed[/i]"
+     "text": "[i]Update für DICH[/i]"
     },
     {
-     "text": "[i]Quite Right![/i]"
+     "text": "[i]Freizeit in Deutschland[/i]"
+    },
+    {
+     "text": "[i]Promi Express[/i]"
+    },
+    {
+     "text": "[i]Frau des Tages[/i]"
+    },
+    {
+     "text": "[i]50 CENT[/i]"
     }
    ],
    "id": "76777",
    "isValid": "",
-   "prompt": "Which of these are UK-based tabloids?",
-   "us": true,
+   "prompt": "Welche dieser Klatsch-Zeitschriften gibt es wirklich?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "tomato"
+     "text": "Tomate"
     },
     {
-     "text": "cucumber"
+     "text": "Gurke"
     },
     {
-     "text": "sweet bell pepper"
+     "text": "Paprika"
     },
     {
-     "text": "pumpkin"
+     "text": "Kürbis"
     },
     {
-     "text": "winter squash"
+     "text": "Oliven"
     },
     {
-     "text": "olives"
+     "text": "Aubergine"
     },
     {
-     "text": "eggplant"
+     "text": "Avocado"
     },
     {
-     "text": "avocado"
-    },
-    {
-     "text": "green beans"
-    },
-    {
-     "text": "okra"
+     "text": "Grüne Bohne"
     }
    ],
    "category": "Food & Drink",
    "decoys": [
     {
-     "text": "spinach"
+     "text": "Spinat"
     },
     {
-     "text": "onion"
+     "text": "Zwiebel"
     },
     {
-     "text": "kale"
+     "text": "Grünkohl"
     },
     {
-     "text": "radish"
+     "text": "Radieschen"
     },
     {
-     "text": "turnip"
+     "text": "Rübe"
     },
     {
-     "text": "carrot"
+     "text": "Karotte"
     }
    ],
    "id": "76778",
    "isValid": "",
-   "prompt": "Which of these \"veggies\" are, weirdly enough, fruit?",
-   "us": true,
+   "prompt": "Welche dieser “Gemüsesorten” sind genau genommen eigentlich Obstsorten?",
+   "us": false,
    "x": false
   },
   {
@@ -1248,58 +1263,58 @@
   {
    "answers": [
     {
-     "text": "dog"
+     "text": "Hund"
     },
     {
-     "text": "monkey"
+     "text": "Affe"
     },
     {
-     "text": "umbrella"
+     "text": "Sonnenschirm"
     },
     {
-     "text": "top hat"
+     "text": "Zylinderhut"
     },
     {
-     "text": "sailboat"
+     "text": "Segelboot"
     },
     {
-     "text": "umbrella"
+     "text": "Regenschirm"
     },
     {
-     "text": "horn"
+     "text": "Pfeife"
     },
     {
-     "text": "soldier"
+     "text": "Kinder"
     },
     {
-     "text": "cane"
+     "text": "Gehstock"
     },
     {
-     "text": "trees"
+     "text": "Bäume"
     }
    ],
    "category": "Art",
    "decoys": [
     {
-     "text": "banana"
+     "text": "Banane"
     },
     {
-     "text": "picnic basket"
+     "text": "Picknickdecke"
     },
     {
-     "text": "guitar"
+     "text": "Geige"
     },
     {
-     "text": "golf club"
+     "text": "Golfschläger"
     },
     {
-     "text": "frisbee"
+     "text": "Frisbee"
     }
    ],
    "id": "76780",
    "isValid": "",
-   "prompt": "What’s featured in Seurat’s pointillism masterpiece [i]A Sunday Afternoon on the Island of La Grande Jatte[/i]?",
-   "us": true,
+   "prompt": "Was ist auf dem Gemälde “[i]Ein Sonntagnachmittag auf der Insel La Grande Jatte[/i]” von Georges Seurat zu sehen?",
+   "us": false,
    "x": false
   },
   {
@@ -1407,157 +1422,190 @@
   {
    "answers": [
     {
-     "text": "The Fool"
+     "text": "Der Narr"
     },
     {
-     "text": "Knight of Cups"
+     "text": "Die Herrscherin"
     },
     {
-     "text": "The Lovers"
+     "text": "Der Liebende"
     },
     {
-     "text": "Two of Swords"
+     "text": "Die Gerechtigkeit"
     },
     {
-     "text": "The Magician"
+     "text": "Der Magier"
     },
     {
-     "text": "Death"
+     "text": "Der Tod"
     },
     {
-     "text": "The Tower"
+     "text": "Der Turm"
     },
     {
-     "text": "Queen of Wands"
+     "text": "Der Gehängte"
+    },
+    {
+     "text": "Der Stern"
     }
    ],
    "category": "Games",
    "decoys": [
     {
-     "text": "The Cat"
+     "text": "Die Katze"
     },
     {
-     "text": "King of Hands"
+     "text": "Der König"
     },
     {
-     "text": "Ace of Base"
+     "text": "Das Leben"
     },
     {
-     "text": "The Tumbler"
+     "text": "Der Kerker"
+    },
+    {
+     "text": "Der Luftikus"
+    },
+    {
+     "text": "Der Wanderer"
+    },
+    {
+     "text": "Der Jupiter"
     }
    ],
    "id": "76796",
    "isValid": "",
-   "prompt": "Which cards will you find in a traditional tarot deck?",
-   "us": true,
+   "prompt": "Welche Tarotkarten findet man in einem “Tarot de Marseille”-Set?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "chalk"
+     "text": "Kreide"
     },
     {
-     "text": "coal"
+     "text": "Kohle"
     },
     {
-     "text": "sandstone"
+     "text": "Sandstein"
     },
     {
-     "text": "siltstone"
+     "text": "Siltstein"
     },
     {
-     "text": "flint"
+     "text": "Feuerstein"
     },
     {
-     "text": "dolomite"
+     "text": "Dolomit"
     },
     {
-     "text": "iron ore"
+     "text": "Kies"
     },
     {
-     "text": "shale"
+     "text": "Schiefer"
+    },
+    {
+     "text": "Mergelstein"
     }
    ],
    "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "pumice"
+     "text": "Ladanit"
     },
     {
-     "text": "granite"
+     "text": "Granit"
     },
     {
-     "text": "obsidian"
+     "text": "Permafrost"
     },
     {
-     "text": "asphalt"
+     "text": "Asphalt"
     },
     {
-     "text": "kyber crystals"
+     "text": "Saufstein"
+    },
+    {
+     "text": "Taft"
     }
    ],
    "id": "76798",
    "isValid": "",
-   "prompt": "Which of these are sedimentary rocks?",
-   "us": true,
+   "prompt": "Welches sind Sedimentgesteine?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Beholder"
+     "text": "Sofa von Freunden"
     },
     {
-     "text": "Mimic"
+     "text": "Secondhand-Laden"
     },
     {
-     "text": "Owlbear"
+     "text": "Bio-Bauernmarkt"
     },
     {
-     "text": "Gelatinous Cube"
+     "text": "Veganes Bistro"
     },
     {
-     "text": "Purple Worm"
+     "text": "Tarot Shop"
     },
     {
-     "text": "Mind Flayer"
+     "text": "Karaoke Bar"
     },
     {
-     "text": "Rust Monster"
+     "text": "Yoga Studio"
     },
     {
-     "text": "Demogorgon"
+     "text": "Tierrettung"
     },
     {
-     "text": "Blink Dog"
+     "text": "Selbsthilfewerkstatt"
+    },
+    {
+     "text": "Dreitägiges Musikfestival"
+    },
+    {
+     "text": "Einwöchiger Meditationsretreat"
+    },
+    {
+     "text": "Bike-Sharing"
     }
    ],
    "category": "Games",
    "decoys": [
     {
-     "text": "Uruk-Hai"
+     "text": "Rave"
     },
     {
-     "text": "Ent"
+     "text": "Saftbar"
     },
     {
-     "text": "White Walker"
+     "text": "Fitnessstudio"
     },
     {
-     "text": "Kate Monster"
+     "text": "Car-Sharing"
     },
     {
-     "text": "Snuffleupagus"
+     "text": "Dachboden der Eltern"
     },
     {
-     "text": "Mothra"
+     "text": "Städtetrip"
+    },
+    {
+     "text": "Film-Convention"
+    },
+    {
+     "text": "Klassentreffen"
     }
    ],
    "id": "76799",
    "isValid": "",
-   "prompt": "Which of these are [i]Dungeons & Dragons[/i] monsters?",
-   "us": true,
+   "prompt": "Welche Felder gibt es in “[i]Monopoly[/i] für Millennials”?",
+   "us": false,
    "x": false
   },
   {
@@ -1620,49 +1668,55 @@
   {
    "answers": [
     {
-     "text": "helium"
+     "text": "Helium"
     },
     {
-     "text": "neon"
+     "text": "Neon"
     },
     {
-     "text": "argon"
+     "text": "Argon"
     },
     {
-     "text": "krypton"
+     "text": "Krypton"
     },
     {
-     "text": "xenon"
+     "text": "Xenon"
     },
     {
-     "text": "radon"
+     "text": "Radon"
     }
    ],
    "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "carbon"
+     "text": "Kohlenstoff"
     },
     {
-     "text": "nobelium"
+     "text": "Nobelium"
     },
     {
-     "text": "nitrogen"
+     "text": "Caesium"
     },
     {
-     "text": "unobtanium"
+     "text": "Hassium"
     },
     {
-     "text": "adamantium"
+     "text": "Radium"
     },
     {
-     "text": "kryptonite"
+     "text": "Kryptonit"
+    },
+    {
+     "text": "Brom"
+    },
+    {
+     "text": "Strontium"
     }
    ],
    "id": "76823",
    "isValid": "",
-   "prompt": "Which of these are noble gases?",
-   "us": true,
+   "prompt": "Welche dieser Stoffe sind Edelgase?",
+   "us": false,
    "x": false
   },
   {
@@ -1719,106 +1773,112 @@
   {
    "answers": [
     {
-     "text": "[i]Fresh Air[/i]"
+     "text": "[i]UnserDing[/i]"
     },
     {
-     "text": "[i]Wait Wait... Don't Tell Me![/i]"
+     "text": "[i]DASDING[/i]"
     },
     {
-     "text": "[i]How I Built This[/i]"
+     "text": "[i]1LIVE diGGi[/i]"
     },
     {
-     "text": "[i]Code Switch[/i]"
+     "text": "[i]Fritz[/i]"
     },
     {
-     "text": "[i]All Things Considered[/i]"
+     "text": "[i]NEXT[/i]"
     },
     {
-     "text": "[i]Ask Me Another[/i]"
+     "text": "[i]N-JOY[/i]"
     },
     {
-     "text": "[i]Planet Money[/i]"
+     "text": "[i]Puls[/i]"
     },
     {
-     "text": "[i]It’s Been a Minute[/i]"
+     "text": "[i]You FM[/i]"
+    },
+    {
+     "text": "[i]Sputnik[/i]"
     }
    ],
    "category": "News Media",
    "decoys": [
     {
-     "text": "[i]FYI It’s DIY[/i]"
+     "text": "[i]Fresh-M[/i]"
     },
     {
-     "text": "[i]Clock Talk[/i]"
+     "text": "[i]Radio YOU[/i]"
     },
     {
-     "text": "[i]On the Tip of My Tongue![/i]"
+     "text": "[i]E-DGE[/i]"
     },
     {
-     "text": "[i]The Daily Dosage[/i]"
+     "text": "[i]SAfe[/i]"
+    },
+    {
+     "text": "[i]MainDING[/i]"
     }
    ],
    "id": "76825",
    "isValid": "",
-   "prompt": "Which of these are real programs on National Public Radio?",
-   "us": true,
+   "prompt": "Welche dieser Namen gehören zu öffentlich-rechtlichen Jugend-Radiosendern?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "ghost"
+     "text": "Bhut Jolokia"
     },
     {
-     "text": "bell"
+     "text": "Elefantenrüssel"
     },
     {
-     "text": "poblano"
+     "text": "Poblano"
     },
     {
-     "text": "serrano"
+     "text": "Serrano"
     },
     {
-     "text": "habañero"
+     "text": "Habanero"
     },
     {
-     "text": "cayenne"
+     "text": "Cayenne"
     },
     {
-     "text": "mirasol"
+     "text": "Carolina Reaper"
     },
     {
-     "text": "tabasco"
+     "text": "Tabasco"
     },
     {
-     "text": "banana"
+     "text": "Medusa"
     },
     {
-     "text": "cherry"
+     "text": "Kirschpaprika"
     }
    ],
    "category": "Food & Drink",
    "decoys": [
     {
-     "text": "potts"
+     "text": "Kamelhöcker"
     },
     {
-     "text": "grape"
+     "text": "Black King"
     },
     {
-     "text": "squash"
+     "text": "Jopales"
     },
     {
-     "text": "marisol"
+     "text": "Marisol"
     },
     {
-     "text": "ghoul"
+     "text": "Mexican Skull"
     }
    ],
    "id": "76826",
    "isValid": "",
-   "prompt": "Which of these are varieties of edible peppers?",
-   "us": true,
+   "prompt": "Welche davon sind essbare Paprika- und Chilipflanzen?",
+   "us": false,
    "x": false
   },
   {
@@ -1871,8 +1931,8 @@
    ],
    "id": "76827",
    "isValid": "",
-   "prompt": "Which consonants are in the Hawaiian alphabet?",
-   "us": true,
+   "prompt": "Welche Konsonanten gibt es im hawaiianischen Alphabet?",
+   "us": false,
    "x": false
   },
   {
@@ -1922,8 +1982,8 @@
    ],
    "id": "76851",
    "isValid": "",
-   "prompt": "Which of these are Nintendo games that feature Luigi?",
-   "us": true,
+   "prompt": "Welches davon sind Nintendo-Spiele mit Luigi?",
+   "us": false,
    "x": false
   },
   {
@@ -1986,49 +2046,49 @@
   {
    "answers": [
     {
-     "text": "Seattle SuperSonics"
+     "text": "Fraport Skyliners"
     },
     {
-     "text": "Washington Bullets"
+     "text": "s.Oliver Würzburg"
     },
     {
-     "text": "Vancouver Grizzlies"
+     "text": "Brose Bamberg"
     },
     {
-     "text": "Chicago Bulls"
+     "text": "Medipolis Jena"
     },
     {
-     "text": "Washington Wizards"
+     "text": "Ratiopharm Ulm"
     },
     {
-     "text": "Charlotte Hornets"
+     "text": "Oettinger Rockets"
     }
    ],
    "category": "Sports",
    "decoys": [
     {
-     "text": "Memphis Grizzlies"
+     "text": "Siemens München"
     },
     {
-     "text": "Charlotte Bobcats"
+     "text": "Sailors Hamburg"
     },
     {
-     "text": "Oklahoma City Thunder"
+     "text": "DB Berlin"
     },
     {
-     "text": "New York Jets"
+     "text": "E.ON Essen"
     },
     {
-     "text": "Detroit Red Wings"
+     "text": "Bosch Drivers Stuttgart"
     },
     {
-     "text": "Peoria Middle Americans"
+     "text": "Merck Dragons"
     }
    ],
    "id": "76853",
    "isValid": "",
-   "prompt": "Which of these are NBA teams of the 1990s?",
-   "us": true,
+   "prompt": "Welche sind echte Basketballvereine aus Deutschland?",
+   "us": false,
    "x": false
   },
   {
@@ -2037,31 +2097,31 @@
      "text": "[i]Mona Lisa[/i]"
     },
     {
-     "text": "[i]The Last Supper[/i]"
+     "text": "[i]Das letzte Abendmahl[/i]"
     },
     {
-     "text": "[i]The Birth of Venus[/i]"
+     "text": "[i]Die Geburt der Venus[/i]"
     },
     {
-     "text": "[i]The Creation of Adam[/i]"
+     "text": "[i]Die Erschaffung Adams[/i]"
     },
     {
-     "text": "[i]The School of Athens[/i]"
+     "text": "[i]Die Schule von Athen[/i]"
     },
     {
-     "text": "[i]The Last Judgment[/i]"
+     "text": "[i]Jüngstes Gericht[/i]"
     },
     {
      "text": "[i]Primavera[/i]"
     },
     {
-     "text": "[i]Vitruvian Man[/i]"
+     "text": "[i]Vitruvianischer Mensch[/i]"
     },
     {
-     "text": "[i]The Garden of Earthly Delights[/i]"
+     "text": "[i]Garten der irdischen Freuden[/i]"
     },
     {
-     "text": "[i]The Arnolfini Portrait[/i]"
+     "text": "[i]Arnolfini-Hochzeit[/i]"
     }
    ],
    "category": "Art",
@@ -2070,25 +2130,31 @@
      "text": "[i]American Gothic[/i]"
     },
     {
-     "text": "[i]Starry Night[/i]"
+     "text": "[i]Nilmosaik von Palestrina[/i]"
     },
     {
-     "text": "[i]The Scream[/i]"
+     "text": "[i]Sternennacht[/i]"
     },
     {
-     "text": "[i]The Return of the Prodigal Son[/i]"
+     "text": "[i]Der Schrei[/i]"
     },
     {
-     "text": "[i]Girl with a Pearl Earring[/i]"
+     "text": "[i]Die Rückkehr des verlorenen Sohnes[/i]"
     },
     {
-     "text": "[i]The Man in the High Castle[/i]"
+     "text": "[i]Das Mädchen mit dem Perlenohrgehänge[/i]"
+    },
+    {
+     "text": "[i]Das Orakel vom Berge[/i]"
+    },
+    {
+     "text": "[i]Fünfzehn Sonnenblumen[/i]"
     }
    ],
    "id": "76854",
    "isValid": "",
-   "prompt": "Which of these are Renaissance works of art?",
-   "us": true,
+   "prompt": "Welche sind Renaissance-Kunstwerke?",
+   "us": false,
    "x": false
   },
   {
@@ -2145,49 +2211,49 @@
   {
    "answers": [
     {
-     "text": "acrylic"
+     "text": "Acryl"
     },
     {
-     "text": "oil"
+     "text": "Öl"
     },
     {
-     "text": "watercolor"
+     "text": "Aquarell"
     },
     {
-     "text": "gouache"
+     "text": "Gouache"
     },
     {
-     "text": "encaustic"
+     "text": "Wachs"
     },
     {
-     "text": "chalkboard"
+     "text": "Pastellkreide"
     },
     {
-     "text": "enamel"
+     "text": "Emaille"
     },
     {
-     "text": "latex"
+     "text": "Enkaustik"
     }
    ],
    "category": "Art",
    "decoys": [
     {
-     "text": "ganache"
+     "text": "Ganache"
     },
     {
-     "text": "chiaroscuro"
+     "text": "Chiaroscuro"
     },
     {
-     "text": "aerated"
+     "text": "Balastok"
     },
     {
-     "text": "hollandaise"
+     "text": "Hollandaise"
     }
    ],
    "id": "76880",
    "isValid": "",
-   "prompt": "Which of these are types of paint?",
-   "us": true,
+   "prompt": "Welches davon sind Farbarten?",
+   "us": false,
    "x": false
   },
   {
@@ -2256,37 +2322,37 @@
   {
    "answers": [
     {
-     "text": "BAFTA"
+     "text": "BAFTA Film Award"
     },
     {
      "text": "Oscar"
     },
     {
-     "text": "SAG"
+     "text": "Deutscher Schauspielpreis"
     },
     {
-     "text": "Kid's Choice"
+     "text": "Kid's Choice Award"
     },
     {
-     "text": "Silver Lotus"
+     "text": "Lola"
     },
     {
-     "text": "Drama Desk"
+     "text": "Drama Desk Award"
     },
     {
      "text": "Theo d’Or"
     },
     {
-     "text": "Jeff"
-    },
-    {
-     "text": "Tony"
-    },
-    {
      "text": "Romy"
     },
     {
-     "text": "Emmy"
+     "text": "Tony Award"
+    },
+    {
+     "text": "Silberner Bär"
+    },
+    {
+     "text": "Emmy Award"
     }
    ],
    "category": "Film & TV",
@@ -2295,73 +2361,73 @@
      "text": "Grammy"
     },
     {
-     "text": "James Beard"
+     "text": "ECHO"
     },
     {
-     "text": "ESPY"
+     "text": "ESPY Award"
     },
     {
-     "text": "Heisman"
+     "text": "Goldener Bär"
     }
    ],
    "id": "76908",
    "isValid": "",
-   "prompt": "Which of these are acting awards one could receive for a brilliant performance?",
-   "us": true,
+   "prompt": "Welche der folgenden Preise könnte man für eine brillante Schauspielleistung erhalten?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Kamloops"
+     "text": "Rostig"
     },
     {
-     "text": "Winnipeg"
+     "text": "Amerika"
     },
     {
-     "text": "Medicine Hat"
+     "text": "Hundeluft"
     },
     {
-     "text": "Dawson Creek"
+     "text": "Streit"
     },
     {
-     "text": "Flin Flon"
+     "text": "Antwort"
     },
     {
-     "text": "Yellowknife"
+     "text": "Ekelsdorf"
     },
     {
-     "text": "Guelph"
+     "text": "Grab"
     },
     {
-     "text": "Whitehorse"
+     "text": "Oberkaka"
     }
    ],
    "category": "Geography & Landmarks",
    "decoys": [
     {
-     "text": "Saskatchewan"
+     "text": "Gelbemesser"
     },
     {
-     "text": "Jackknife"
+     "text": "Tschausen"
     },
     {
-     "text": "Greater Moccasin"
+     "text": "Spielfeld"
     },
     {
-     "text": "Big Gulp"
+     "text": "Drogenheim"
     },
     {
-     "text": "Polite"
+     "text": "Schweinebier"
     },
     {
-     "text": "Hat Trick"
+     "text": "Hoppla"
     }
    ],
    "id": "76909",
    "isValid": "",
-   "prompt": "Which of these are Canadian cities?",
-   "us": true,
+   "prompt": "Welche davon sind echte Orte in Deutschland?",
+   "us": false,
    "x": false
   },
   {
@@ -2415,49 +2481,49 @@
   {
    "answers": [
     {
-     "text": "belt drive"
+     "text": "Riemenantrieb"
     },
     {
-     "text": "braze-on"
+     "text": "Speichen"
     },
     {
-     "text": "axle"
+     "text": "Achse"
     },
     {
-     "text": "fork"
+     "text": "Gabel"
     },
     {
-     "text": "handlebar"
+     "text": "Lenker"
     },
     {
-     "text": "inner tube"
+     "text": "Schlauch"
     },
     {
-     "text": "nipple"
+     "text": "Nippel"
     },
     {
-     "text": "top tube"
+     "text": "Rahmen"
     },
     {
-     "text": "derailleur"
+     "text": "Schaltung"
     }
    ],
    "category": "Vehicles",
    "decoys": [
     {
-     "text": "tube top"
+     "text": "Schere"
     },
     {
-     "text": "petal"
+     "text": "Kettendreher"
     },
     {
-     "text": "bespoke"
+     "text": "Achsmanschette"
     }
    ],
    "id": "76928",
    "isValid": "",
-   "prompt": "Which of these are parts of a bicycle?",
-   "us": true,
+   "prompt": "Welches sind Teile eines Fahrrads?",
+   "us": false,
    "x": false
   },
   {
@@ -2520,49 +2586,55 @@
   {
    "answers": [
     {
-     "text": "Daniel Striped Tiger"
+     "text": "Wolle"
     },
     {
-     "text": "King Friday XIII"
+     "text": "Graf Zahl"
     },
     {
-     "text": "Lady Elaine Fairchilde"
+     "text": "Oscar"
     },
     {
-     "text": "Henrietta Pussycat"
+     "text": "Krümelmonster"
     },
     {
-     "text": "Cornflake S. Pecially"
+     "text": "Grobi"
     },
     {
-     "text": "Grandpère"
+     "text": "Ernie"
     },
     {
-     "text": "X the Owl"
+     "text": "Tiffy"
+    },
+    {
+     "text": "Bibo"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "Crouton the Ninth"
+     "text": "Lilo"
     },
     {
-     "text": "Sir Eddy Shamrock"
+     "text": "Der finnische Koch"
     },
     {
-     "text": "Madame Cranberry"
+     "text": "Finja Fledermaus"
     },
     {
-     "text": "Donny Poor-Pig"
+     "text": "Filzi"
     },
     {
-     "text": "Monsieur Floof"
+     "text": "Prinz Schlecki"
+    },
+    {
+     "text": "Miss Piggy"
     }
    ],
    "id": "76941",
    "isValid": "",
-   "prompt": "Which of these are puppets in [i]Mister Rogers’ Neighborhood[/i]?",
-   "us": true,
+   "prompt": "Welche dieser Puppen sind oder waren Teil der deutschen [i]Sesamstraße[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -2622,115 +2694,124 @@
   {
    "answers": [
     {
-     "text": "bow"
+     "text": "Bug"
     },
     {
-     "text": "keel"
+     "text": "Kiel"
     },
     {
-     "text": "deck"
+     "text": "Deck"
     },
     {
-     "text": "gunwales"
+     "text": "Sielbord"
     },
     {
-     "text": "thwart"
+     "text": "Ruderbank"
     },
     {
-     "text": "yoke"
+     "text": "Joch"
     },
     {
-     "text": "stern"
+     "text": "Heck"
     }
    ],
    "category": "Vehicles",
    "decoys": [
     {
-     "text": "drive shaft"
+     "text": "Antriebswelle"
     },
     {
-     "text": "water exit hole"
+     "text": "Wasseraustrittsloch"
     },
     {
-     "text": "main mast"
+     "text": "Hauptmast"
     },
     {
-     "text": "gunport"
+     "text": "Bagien"
     },
     {
-     "text": "outer jib"
+     "text": "Klüver"
     },
     {
-     "text": "lido deck"
+     "text": "Kabine"
     }
    ],
    "id": "76957",
    "isValid": "",
-   "prompt": "Which of these are things that could be broken in your canoe?",
-   "us": true,
+   "prompt": "Welche dieser Dinge könnten in deinem Kanu kaputt gehen?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "cirrus"
+     "text": "Cirrus"
     },
     {
-     "text": "cirrostratus"
+     "text": "Cirrostratus"
     },
     {
-     "text": "cirrocumulus"
+     "text": "Cirrocumulus"
     },
     {
-     "text": "altocumulus"
+     "text": "Altocumulus"
     },
     {
-     "text": "altostratus"
+     "text": "Altostratus"
     },
     {
-     "text": "nimbostratus"
+     "text": "Nimbostratus"
     },
     {
-     "text": "cumulus"
+     "text": "Cumulus"
     },
     {
-     "text": "stratus"
+     "text": "Stratus"
     },
     {
-     "text": "stratocumulus"
+     "text": "Stratocumulus"
     },
     {
-     "text": "lenticular"
+     "text": "Cumulonimbus"
     }
    ],
    "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "perpendicular"
+     "text": "Perpendicular"
     },
     {
-     "text": "baristratus"
+     "text": "Baristratus"
     },
     {
-     "text": "chemtrails"
+     "text": "Chemtrails"
     },
     {
-     "text": "clomulous"
+     "text": "Clomulus"
     },
     {
-     "text": "that bug-shaped one"
+     "text": "Nimbus"
+    },
+    {
+     "text": "Dumbofantasticus"
+    },
+    {
+     "text": "Stratospherimbus"
+    },
+    {
+     "text": "Altonimbus"
     }
    ],
    "id": "76958",
    "isValid": "",
-   "prompt": "Which of these are actual types of clouds?",
-   "us": true,
+   "prompt": "Welches sind echte Wolkenarten?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Ash from [i]Alien[/i]"
+     "text": "Ash aus [i]Alien[/i]"
     },
     {
      "text": "GLaDOS"
@@ -2739,22 +2820,25 @@
      "text": "Deep Thought"
     },
     {
-     "text": "Cortana from the [i]Halo[/i] series"
+     "text": "Cortana aus der [i]Halo[/i]-Serie"
     },
     {
-     "text": "the TransAm David Hasselhoff hangs out with in [i]Knight Rider[/i]"
+     "text": "Der Sportwagen K.I.T.T. aus [i]Knight Rider[/i]"
     },
     {
-     "text": "Data from [i]Star Trek: The Next Generation[/i]"
+     "text": "Data aus [i]Raumschiff Enterprise - Das nächste Jahrhundert[/i]"
     },
     {
      "text": "WALL-E"
     },
     {
-     "text": "Samantha from [i]Her[/i]"
+     "text": "Samantha aus [i]Her[/i]"
     },
     {
      "text": "HAL 9000"
+    },
+    {
+     "text": "Tom aus [i]Ich bin dein Mensch[/i]"
     }
    ],
    "category": "Pop Culture",
@@ -2763,28 +2847,31 @@
      "text": "Amazon Alexa"
     },
     {
-     "text": "Ripley from [i]Alien[/i]"
+     "text": "Ripley aus [i]Alien[/i]"
     },
     {
-     "text": "Christopher Johnson from [i]District 9[/i]"
+     "text": "Christopher Johnson aus [i]District 9[/i]"
     },
     {
-     "text": "Margaret Thatcher from [i]The Iron Lady[/i]"
+     "text": "Margaret Thatcher aus [i]Die Eiserne Lady[/i]"
     },
     {
-     "text": "Watson computer"
+     "text": "Del Spooner aus [i]I, Robot[/i]"
+    },
+    {
+     "text": "Watson"
     }
    ],
    "id": "76960",
    "isValid": "",
-   "prompt": "Which of these are FICTIONAL A.I.s?",
-   "us": true,
+   "prompt": "Bei welchen der folgenden Figuren handelt es sich um FIKTIONALE KIs?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Niflheim"
+     "text": "Niflheimr"
     },
     {
      "text": "Midgard"
@@ -2793,22 +2880,22 @@
      "text": "Asgard"
     },
     {
-     "text": "Vanaheim"
+     "text": "Vanaheimr"
     },
     {
-     "text": "Jotunheim"
+     "text": "Jötunheimr"
     },
     {
-     "text": "Muspelheim"
+     "text": "Muspellzheimr"
     },
     {
-     "text": "Alfheim"
+     "text": "Álfheimr"
     },
     {
-     "text": "Svartalfheim"
+     "text": "Svartálfaheimr"
     },
     {
-     "text": "Hel"
+     "text": "Helheimr"
     }
    ],
    "category": "Literature",
@@ -2817,91 +2904,103 @@
      "text": "Olympus"
     },
     {
-     "text": "Sondheim"
+     "text": "Sountheimr"
     },
     {
-     "text": "Ragnarok"
+     "text": "Ragnarök"
+    },
+    {
+     "text": "Bifröst"
+    },
+    {
+     "text": "Yggdrasil"
     }
    ],
    "id": "77202",
    "isValid": "",
-   "prompt": "What are the 9 realms of Norse mythology?",
-   "us": true,
+   "prompt": "Wie heißen die 9 Welten der nordischen Mythologie?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "garlic"
+     "text": "Knoblauch"
     },
     {
-     "text": "wooden stake"
+     "text": "Holzpflock"
     },
     {
-     "text": "cross"
+     "text": "Kreuz"
     },
     {
-     "text": "holy water"
+     "text": "Weihwasser"
     },
     {
-     "text": "beheading"
+     "text": "Enthauptung"
     },
     {
-     "text": "sunlight"
+     "text": "Sonnenlicht"
     },
     {
-     "text": "choosing to not invite inside"
+     "text": "Nicht in das eigene Haus einladen"
     },
     {
-     "text": "silver"
+     "text": "Silber"
     }
    ],
    "category": "Pop Culture",
    "decoys": [
     {
-     "text": "American flag"
+     "text": "Kaffeesatz"
     },
     {
-     "text": "wine"
+     "text": "Wein"
     },
     {
-     "text": "diamonds"
+     "text": "Diamanten"
     },
     {
-     "text": "eye contact"
+     "text": "Augenkontakt"
     },
     {
-     "text": "violin music"
+     "text": "Geigenmusik"
     },
     {
-     "text": "riddles"
+     "text": "Rätsel"
+    },
+    {
+     "text": "Zerbrochener Spiegel"
+    },
+    {
+     "text": "Duftkerze"
     }
    ],
    "id": "77279",
    "isValid": "",
-   "prompt": "Which of these are known as traditional vampire-fighting tools?",
-   "us": true,
-   "x": false
+   "prompt": "Wobei handelt es sich um traditionelle Werkzeuge für die Vampir-Bekämpfung?",
+   "us": false,
+   "x": true
   },
   {
    "answers": [
     {
-     "text": "diary"
+     "text": "Tagebuch"
     },
     {
-     "text": "ring"
+     "text": "Ring"
     },
     {
-     "text": "cup"
+     "text": "Kelch"
     },
     {
-     "text": "diadem"
+     "text": "Diadem"
     },
     {
-     "text": "locket"
+     "text": "Medaillon"
     },
     {
-     "text": "snake"
+     "text": "Schlange"
     },
     {
      "text": "Harry Potter"
@@ -2910,112 +3009,124 @@
    "category": "Literature",
    "decoys": [
     {
-     "text": "broomstick"
+     "text": "Besen"
     },
     {
-     "text": "owl"
+     "text": "Eule"
     },
     {
-     "text": "wizard's hat"
+     "text": "Zauberhut"
     },
     {
-     "text": "cauldron of beer"
+     "text": "Bierkessel"
     },
     {
-     "text": "invisibility t-shirt"
+     "text": "Goldener Schnatz"
     },
     {
-     "text": "wand"
+     "text": "Zauberstab"
     }
    ],
    "id": "77299",
    "isValid": "",
-   "prompt": "Which of these are Voldemort’s horcruxes from [i]Harry Potter[/i]?",
-   "us": true,
+   "prompt": "Welche dieser Dinge sind Horkruxe von Voldemort in [i]Harry Potter[/i]?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Great Wall of China"
+     "text": "Chinesische Mauer"
     },
     {
-     "text": "Christ the Redeemer Statue"
+     "text": "“Cristo Redentor”-Statue in Brasilien"
     },
     {
-     "text": "Machu Picchu"
+     "text": "Machu Picchu in Peru"
     },
     {
-     "text": "Chichen Itza"
+     "text": "Chichén Itzá in Mexiko"
     },
     {
-     "text": "Roman Colosseum"
+     "text": "Kolosseum von Rom"
     },
     {
-     "text": "Taj Mahal"
+     "text": "Taj Mahal in Indien"
     },
     {
-     "text": "Petra"
+     "text": "Felsenstadt Petra"
     }
    ],
    "category": "Geography & Landmarks",
    "decoys": [
     {
-     "text": "Sydney Opera House"
+     "text": "Opernhaus in Sydney"
     },
     {
-     "text": "Moai Statues of Easter Island"
+     "text": "Moai Steinfiguren auf den Osterinseln"
     },
     {
-     "text": "Eiffel Tower"
+     "text": "Eiffelturm in Paris"
     },
     {
-     "text": "Walt Disney World Resort"
+     "text": "Stonehenge in Großbritannien"
     },
     {
-     "text": "Red Square in Moscow"
+     "text": "Kreml in Russland"
+    },
+    {
+     "text": "Hagia Sophia in der Türkei"
+    },
+    {
+     "text": "Freiheitsstatue in New York"
+    },
+    {
+     "text": "Alhambra in Spanien"
+    },
+    {
+     "text": "Akropolis in Griechenland"
     }
    ],
    "id": "77335",
    "isValid": "",
-   "prompt": "What are the [i]New Seven Wonders of the World[/i]?",
-   "us": true,
+   "prompt": "Welches sind die 7 [i]neuen Weltwunder[/i]?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Fire"
+     "text": "Feuer"
     },
     {
-     "text": "Water"
+     "text": "Wasser"
     },
     {
-     "text": "Rock"
+     "text": "Gestein"
     },
     {
-     "text": "Electric"
+     "text": "Elektro"
     },
     {
-     "text": "Psychic"
+     "text": "Psycho"
     },
     {
-     "text": "Ice"
+     "text": "Eis"
     },
     {
-     "text": "Fighting"
+     "text": "Kampf"
     },
     {
-     "text": "Ghost"
+     "text": "Geist"
     },
     {
-     "text": "Dragon"
+     "text": "Drache"
     },
     {
-     "text": "Fairy"
+     "text": "Fee"
     },
     {
-     "text": "Poison"
+     "text": "Gift"
     },
     {
      "text": "Normal"
@@ -3024,28 +3135,28 @@
    "category": "Games",
    "decoys": [
     {
-     "text": "Caffeine"
+     "text": "Koffein"
     },
     {
-     "text": "Sleeping"
+     "text": "Schlaf"
     },
     {
-     "text": "Clumsy"
+     "text": "Plump"
     },
     {
-     "text": "Grandparent"
+     "text": "Antik"
     },
     {
-     "text": "Martian"
+     "text": "Mars"
     },
     {
-     "text": "Doily"
+     "text": "Hellhörig"
     }
    ],
    "id": "77354",
    "isValid": "",
-   "prompt": "What are the official Pokémon types?",
-   "us": true,
+   "prompt": "Was sind offizielle Pokémon Typen?",
+   "us": false,
    "x": false
   },
   {
@@ -3120,67 +3231,67 @@
   {
    "answers": [
     {
-     "text": "apple"
+     "text": "Apfel"
     },
     {
-     "text": "pears"
+     "text": "Birne"
     },
     {
-     "text": "strawberries"
+     "text": "Pflaume"
     },
     {
-     "text": "oranges"
+     "text": "Erdbeere"
     },
     {
-     "text": "chocolate cake"
+     "text": "Apfelsine"
     },
     {
-     "text": "ice cream cone"
+     "text": "Schokoladenkuchen"
     },
     {
-     "text": "pickle"
+     "text": "Eiswaffel"
     },
     {
-     "text": "Swiss cheese"
+     "text": "Essiggurke"
     },
     {
-     "text": "salami"
+     "text": "Käse"
     },
     {
-     "text": "lollipop"
+     "text": "Wurst"
     },
     {
-     "text": "sausage"
+     "text": "Lolli"
     },
     {
-     "text": "watermelon"
+     "text": "Melone"
     }
    ],
    "category": "Literature",
    "decoys": [
     {
-     "text": "other caterpillars"
+     "text": "Andere Raupen"
     },
     {
-     "text": "calamari"
+     "text": "Oliven"
     },
     {
-     "text": "one spoonful of cottage cheese"
+     "text": "Kirsche"
     },
     {
-     "text": "dirt"
+     "text": "Dreck"
     },
     {
-     "text": "popcorn"
+     "text": "Popcorn"
     },
     {
-     "text": "parsnips"
+     "text": "Pastinake"
     }
    ],
    "id": "77356",
    "isValid": "",
-   "prompt": "What does [i]The Very Hungry Caterpillar[/i] eat?",
-   "us": true,
+   "prompt": "Was frisst die [i]kleine Raupe Nimmersatt[/i] alles?",
+   "us": false,
    "x": false
   },
   {
@@ -3234,175 +3345,178 @@
   {
    "answers": [
     {
-     "text": "beekeeper"
+     "text": "Imkerin"
     },
     {
-     "text": "martial artist"
+     "text": "Kampfsportlerin"
     },
     {
-     "text": "pasta chef"
+     "text": "Köchin"
     },
     {
-     "text": "rhythmic gymnast"
+     "text": "Krankenschwester"
     },
     {
-     "text": "zoo doctor"
+     "text": "Tierärztin"
     },
     {
-     "text": "executive career girl"
+     "text": "Kauffrau für Büromanagement"
     },
     {
-     "text": "astronaut"
+     "text": "Astronautin"
     },
     {
-     "text": "firefighter"
+     "text": "Feuerwehrfrau"
     }
    ],
    "category": "Companies & Brands",
    "decoys": [
     {
-     "text": "lighthouse keeper"
+     "text": "Leuchtturmwärterin"
     },
     {
-     "text": "reference librarian"
+     "text": "Bibliothekarin"
     },
     {
-     "text": "vegetarian"
+     "text": "Taxifahrerin"
     },
     {
-     "text": "orthodontist"
+     "text": "Kieferorthopädin"
     },
     {
-     "text": "Egyptologist"
+     "text": "Ägyptologin"
     },
     {
-     "text": "professional lacrosse player"
+     "text": "Professionelle Handballspielerin"
     }
    ],
    "id": "77638",
    "isValid": "",
-   "prompt": "Which occupations has Barbie officially held?",
-   "us": true,
+   "prompt": "Welche Berufe hat Barbie offiziell schon ausgeübt?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "[i]The Curse of the Mummy’s Tomb[/i]"
+     "text": "[i]Das Gespensterschloss[/i]"
     },
     {
-     "text": "[i]Let’s Get Invisible![/i]"
+     "text": "[i]Der Ameisenmensch[/i]"
     },
     {
-     "text": "[i]Night of the Living Dummy[/i]"
+     "text": "[i]Der giftige Gockel[/i]"
     },
     {
-     "text": "[i]Say Cheese and Die![/i]"
+     "text": "[i]Musik des Teufels[/i]"
     },
     {
-     "text": "[i]The Girl Who Cried Monster[/i]"
+     "text": "[i]Gefährliches Quiz[/i]"
     },
     {
-     "text": "[i]Piano Lessons Can Be Murder[/i]"
+     "text": "[i]Spur ins Nichts[/i]"
     },
     {
-     "text": "[i]You Can’t Scare Me![/i]"
+     "text": "[i]SMS aus dem Grab[/i]"
     },
     {
-     "text": "[i]Ghost Camp[/i]"
+     "text": "[i]Botschaft aus der Unterwelt[/i]"
     },
     {
-     "text": "[i]The Abominable Snowman of Pasadena[/i]"
+     "text": "[i]Der schreiende Nebel[/i]"
     },
     {
-     "text": "[i]Revenge of the Lawn Gnomes[/i]"
+     "text": "[i]Höhenangst[/i]"
     },
     {
-     "text": "[i]Phantom of the Auditorium[/i]"
+     "text": "[i]Der Fluch der Medusa[/i]"
     },
     {
-     "text": "[i]Why I’m Afraid of Bees[/i]"
+     "text": "[i]Im Netz der Lügen[/i]"
+    },
+    {
+     "text": "[i]Der Zeitgeist[/i]"
     }
    ],
    "category": "Literature",
    "decoys": [
     {
-     "text": "[i]Attack of the Killer Snowmen[/i]"
+     "text": "[i]Der blaue Pirat[/i]"
     },
     {
-     "text": "[i]Laughter in the Attic[/i]"
+     "text": "[i]Einsame Rache[/i]"
     },
     {
-     "text": "[i]Ouch! My Brain![/i]"
+     "text": "[i]Geheimwort: Fischer[/i]"
     },
     {
-     "text": "[i]Watch Out for Space Termites[/i]"
+     "text": "[i]Im Netz der Anakonda[/i]"
     },
     {
-     "text": "[i]This One’s Not Scary[/i]"
+     "text": "[i]Die lachenden Giganten[/i]"
     }
    ],
    "id": "77639",
    "isValid": "",
-   "prompt": "What are the original [i]Goosebumps[/i] titles?",
-   "us": true,
+   "prompt": "Welche dieser Titel gehören zu “[i]Die drei ???[/i]”-Büchern?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "crickets"
+     "text": "Morsecode"
     },
     {
-     "text": "hyena"
+     "text": "Hyänengeräusche"
     },
     {
-     "text": "horse and cart"
+     "text": "Pferde und Fahrzeuge"
     },
     {
-     "text": "kiss"
+     "text": "Geräusch eines Kusses"
     },
     {
-     "text": "tame dog"
+     "text": "Bellen eines zahmen Hundes"
     },
     {
-     "text": "laughter"
+     "text": "Schreie eines Neugeborenen"
     },
     {
-     "text": "tractor"
+     "text": "Quaken von Fröschen"
     },
     {
-     "text": "fire"
+     "text": "Regenplätschern"
     },
     {
-     "text": "wild dog"
+     "text": "Vitalfunktionen eines Menschen"
+    },
+    {
+     "text": "Bellen eines wilden Hundes"
     }
    ],
    "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "crying"
+     "text": "Weinen"
     },
     {
-     "text": "balloon popping"
+     "text": "Platzen eines Ballons"
     },
     {
-     "text": "\"yada yada yada\""
+     "text": "Blähungen eines Kängurus"
     },
     {
-     "text": "bread baking"
+     "text": "Rauschen eines Flusses"
     },
     {
-     "text": "Gilbert Gottfried"
-    },
-    {
-     "text": "child playing violin for first time"
+     "text": "Wolfgang Amadeus Mozart"
     }
    ],
    "id": "77643",
    "isValid": "",
-   "prompt": "Which sounds are included on the Voyager Golden Record?",
-   "us": true,
+   "prompt": "Welche Geräusche wurden auf der [i]Voyager Golden Record[/i] in den Weltraum geschickt?",
+   "us": false,
    "x": false
   },
   {
@@ -3522,7 +3636,7 @@
      "text": "Fermium"
     },
     {
-     "text": "Einsteinium"
+     "text": "Gadolinium"
     },
     {
      "text": "Oganesson"
@@ -3534,7 +3648,7 @@
      "text": "Mendelevium"
     },
     {
-     "text": "Seaborgium"
+     "text": "Lawrencium"
     },
     {
      "text": "Rutherfordium"
@@ -3543,25 +3657,25 @@
    "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "Carbon"
+     "text": "Mangan"
     },
     {
      "text": "Vibranium"
     },
     {
-     "text": "Krypton"
+     "text": "Lutecium"
     },
     {
      "text": "Washingtonium"
     },
     {
-     "text": "Unobtanium"
+     "text": "Wolfram"
     }
    ],
    "id": "77646",
    "isValid": "",
-   "prompt": "Which of these are elements named after real people?",
-   "us": true,
+   "prompt": "Welche dieser Elemente wurden nach echten Personen benannt?",
+   "us": false,
    "x": false
   },
   {
@@ -3579,10 +3693,10 @@
      "text": "Commander Cody"
     },
     {
-     "text": "Ki-Adi Mundi"
+     "text": "Ki-Adi-Mundi"
     },
     {
-     "text": "General Tarfful"
+     "text": "Lobot"
     },
     {
      "text": "Wat Tambor"
@@ -3595,6 +3709,9 @@
     },
     {
      "text": "Yaddle"
+    },
+    {
+     "text": "Beezer Fortuna"
     }
    ],
    "category": "Film & TV",
@@ -3606,7 +3723,7 @@
      "text": "Dark Helmet"
     },
     {
-     "text": "Captain Kirrahe"
+     "text": "Captain Kirk"
     },
     {
      "text": "Arctus Baran"
@@ -3615,61 +3732,70 @@
      "text": "Luke Skywater"
     },
     {
-     "text": "Count Fenring"
+     "text": "Count Boku"
+    },
+    {
+     "text": "Commander Dave"
     }
    ],
    "id": "77657",
    "isValid": "",
-   "prompt": "Which of these are background characters from the [i]Star Wars[/i] universe?",
-   "us": true,
+   "prompt": "Welches sind Hintergrund-Charaktere aus dem “[i]Star Wars[/i]”-Universum?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Harvard"
+     "text": "KU Eichstätt-Ingolstadt"
     },
     {
-     "text": "Princeton"
+     "text": "Uni Jena"
     },
     {
-     "text": "Columbia"
+     "text": "TU München"
     },
     {
-     "text": "Brown"
+     "text": "Uni Göttingen"
     },
     {
-     "text": "Dartmouth"
+     "text": "Uni Würzburg"
     },
     {
-     "text": "University of Pennsylvania"
+     "text": "Uni Frankfurt"
     },
     {
-     "text": "Cornell"
+     "text": "Uni Bielefeld"
     },
     {
-     "text": "Yale"
+     "text": "Uni Osnabrück"
     }
    ],
-   "category": "History",
+   "category": "Factoids",
    "decoys": [
     {
-     "text": "Amherst"
+     "text": "Uni Braunschweig"
     },
     {
-     "text": "Stanford"
+     "text": "Uni Bochum"
     },
     {
-     "text": "Duke"
+     "text": "TU Darmstadt"
     },
     {
-     "text": "MIT"
+     "text": "Uni Heidelberg"
+    },
+    {
+     "text": "Uni Köln"
+    },
+    {
+     "text": "TU Hamburg"
     }
    ],
    "id": "77670",
    "isValid": "",
-   "prompt": "Which schools are U.S. Ivy League universities?",
-   "us": true,
+   "prompt": "Welches sind die bei Studenten beliebtesten Universitäten in Deutschland 2021?",
+   "us": false,
    "x": false
   },
   {
@@ -3780,103 +3906,112 @@
   {
    "answers": [
     {
-     "text": "Denmark"
+     "text": "Thüringen"
     },
     {
-     "text": "Poland"
+     "text": "Niedersachsen"
     },
     {
-     "text": "Czech Republic"
+     "text": "Nordrhein-Westfalen"
     },
     {
-     "text": "Switzerland"
+     "text": "Rheinland-Pfalz"
     },
     {
-     "text": "Austria"
+     "text": "Baden-Württemberg"
     },
     {
-     "text": "France"
-    },
-    {
-     "text": "Belgium"
-    },
-    {
-     "text": "Luxembourg"
-    },
-    {
-     "text": "Netherlands"
+     "text": "Bayern"
     }
    ],
    "category": "Geography & Landmarks",
    "decoys": [
     {
-     "text": "Hungary"
+     "text": "Saarland"
     },
     {
-     "text": "Russia"
+     "text": "Bremen"
     },
     {
-     "text": "Belarus"
+     "text": "Schleswig-Holstein"
     },
     {
-     "text": "Spain"
+     "text": "Hamburg"
     },
     {
-     "text": "Liechtenstein"
+     "text": "Mecklenburg-Vorpommern"
+    },
+    {
+     "text": "Sachsen-Anhalt"
+    },
+    {
+     "text": "Brandenburg"
+    },
+    {
+     "text": "Berlin"
+    },
+    {
+     "text": "Sachsen"
     }
    ],
    "id": "77674",
    "isValid": "",
-   "prompt": "Which countries border Germany?",
-   "us": true,
+   "prompt": "Welche Bundesländer grenzen an Hessen?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "[i]How to Get Away with Murder[/i]"
+     "text": "[i]Fangen[/i]"
     },
     {
-     "text": "[i]Bridgerton[/i]"
+     "text": "[i]Triathlon[/i]"
     },
     {
-     "text": "[i]Scandal[/i]"
+     "text": "[i]Rhythmische Sportgymnastik[/i]"
     },
     {
-     "text": "[i]Grey's Anatomy[/i]"
+     "text": "[i]Hockeygolf[/i]"
     },
     {
-     "text": "[i]Private Practice[/i]"
+     "text": "[i]Dressurreiten[/i]"
     },
     {
-     "text": "[i]Station 19[/i]"
+     "text": "[i]Inline-Skating[/i]"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "[i]This Is Us[/i]"
+     "text": "[i]Quizboxen[/i]"
     },
     {
-     "text": "[i]The Fosters[/i]"
+     "text": "[i]Olympische Spiele[/i]"
     },
     {
-     "text": "[i]Army Wives[/i]"
+     "text": "[i]Eisschnelllauf[/i]"
     },
     {
-     "text": "[i]Pretty Little Liars[/i]"
+     "text": "[i]Wok-Weltmeisterschaft[/i]"
     },
     {
-     "text": "[i]Empire[/i]"
+     "text": "[i]Turmspringen[/i]"
     },
     {
-     "text": "[i]9-1-1[/i]"
+     "text": "[i]Hochsprung[/i]"
+    },
+    {
+     "text": "[i]Autoball[/i]"
+    },
+    {
+     "text": "[i]Boxen[/i]"
     }
    ],
    "id": "77677",
    "isValid": "",
-   "prompt": "Which shows are produced by Shonda Rhimes?",
-   "us": true,
+   "prompt": "Welche dieser [i]TV-Total[/i]-Sportsendungen existieren NICHT?",
+   "us": false,
    "x": false
   },
   {
@@ -3930,13 +4065,13 @@
   {
    "answers": [
     {
-     "text": "Bumble"
+     "text": "Neu.de"
     },
     {
      "text": "Tinder"
     },
     {
-     "text": "Hinge"
+     "text": "Jaumo"
     },
     {
      "text": "Grindr"
@@ -3945,10 +4080,10 @@
      "text": "Her"
     },
     {
-     "text": "Raya"
+     "text": "Lovoo"
     },
     {
-     "text": "Match"
+     "text": "Bildkontakte"
     }
    ],
    "category": "Internet",
@@ -3957,25 +4092,25 @@
      "text": "Vespa"
     },
     {
-     "text": "Paisley"
+     "text": "tolldate"
     },
     {
-     "text": "Gasp"
+     "text": "schluck"
     },
     {
-     "text": "Slop"
+     "text": "ePartner"
     },
     {
      "text": "Qatar"
     },
     {
-     "text": "Soup"
+     "text": "Suppe"
     }
    ],
    "id": "77679",
    "isValid": "",
-   "prompt": "As of 2021, which of these were actual dating apps?",
-   "us": true,
+   "prompt": "Welche davon sind echte Dating-Apps?",
+   "us": false,
    "x": false
   },
   {

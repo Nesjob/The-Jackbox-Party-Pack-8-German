@@ -968,10 +968,10 @@
 			]
         },		
         {
-            "keywords":["Ist", "Ist nicht", "Kann", "Kann nicht", "Werde", "Wird", "War", "Brauche", "Hat", "Macht", "Kennt", "Kennst",  "Könnte", "Könntest", "Werden", "Soll", "Sollte", "Sollen", "Würde", "Würden", "Sind", "Bist", "Haben", "Hast", "Habe", "Hätte", "Hätten", "Darf", "Dürfen", "Darfst", "Dürft", "Können", "Könnt"],
+            "keywords":["Ist", "Ist nicht", "Kann", "Kann nicht", "Werde", "Wird", "War", "Brauche", "Hat", "Macht", "Kennt", "Kennst",  "Könnte", "Könntest", "Werden", "Soll", "Sollte", "Sollen", "Würde", "Würden", "Sind", "Bist", "Haben", "Hast", "Habe", "Hätte", "Hätten", "Darf", "Dürfen", "Darfst", "Dürft", "Können", "Könnt", "Mache", "Macht", "Machen"],
             "sequential": [],
             "answers":[
-				"Auf einer Skala von 1-10 wahrscheinlich nicht.", 
+				"Auf einer Skala von 1-10: Wahrscheinlich nicht.", 
 				"Alles ist möglich. Außer dies. Nein.", 
 				"Ich möchte mich nicht irren, also sage ich Nein, um die Erwartungen niedrig zu halten.", 
 				"Trommelwirbel, bitte... keine Chance!", 

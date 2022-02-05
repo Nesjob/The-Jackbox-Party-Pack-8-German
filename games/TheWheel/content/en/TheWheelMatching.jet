@@ -429,7 +429,7 @@
      "text": "Steam"
     },
     {
-     "match": "Chatfenster",
+     "match": "Sprechblase mit Augen",
      "text": "Twitch"
     },
     {
@@ -641,59 +641,59 @@
   {
    "answers": [
     {
-     "match": "circle",
+     "match": "Kreis",
      "text": "Japan"
     },
     {
-     "match": "triangle",
-     "text": "Czech Republic"
+     "match": "Dreieck",
+     "text": "Tschechien"
     },
     {
-     "match": "star (singular)",
+     "match": "Stern (einer)",
      "text": "Vietnam"
     },
     {
-     "match": "leaf",
-     "text": "Canada"
+     "match": "Blatt",
+     "text": "Kanada"
     },
     {
-     "match": "eagle",
-     "text": "Mexico"
+     "match": "Adler",
+     "text": "Mexiko"
     },
     {
-     "match": "dragon",
+     "match": "Drache",
      "text": "Wales"
     },
     {
-     "match": "stars (multiple)",
+     "match": "Sterne (mehrere)",
      "text": "China"
     },
     {
-     "match": "sword",
-     "text": "Saudi Arabia"
+     "match": "Schwert",
+     "text": "Saudi-Arabien"
     },
     {
-     "match": "crescent moon",
-     "text": "Maldives"
+     "match": "Halbmond",
+     "text": "Malediven"
     },
     {
-     "match": "shape of Cyprus",
-     "text": "Cyprus"
+     "match": "Form von Zypern",
+     "text": "Zypern"
     }
    ],
    "category": "Geography & Landmarks",
    "decoys": [],
    "headers": [
     {
-     "match": "Flags",
-     "text": "Nations"
+     "match": "Flaggen",
+     "text": "Nationen"
     }
    ],
    "id": "76865",
    "isValid": "",
-   "prompt": "Match the nation to its flag",
-   "promptHeader": "National Flags",
-   "us": true,
+   "prompt": "Ordne der Nation ihrer Flagge zu",
+   "promptHeader": "Nationalflaggen",
+   "us": false,
    "x": false
   },
   {
@@ -749,67 +749,67 @@
   {
    "answers": [
     {
-     "match": "permanent",
-     "text": "temporary"
+     "match": "dauerhaft",
+     "text": "gelegentlich"
     },
     {
-     "match": "intentional",
-     "text": "accidental"
+     "match": "absichtlich",
+     "text": "versehentlich"
     },
     {
-     "match": "antique",
+     "match": "rückständig",
      "text": "modern"
     },
     {
-     "match": "counterfeit",
-     "text": "authentic"
+     "match": "unglaubwürdig",
+     "text": "authentisch"
     },
     {
-     "match": "punishment",
-     "text": "reward"
+     "match": "ahnden",
+     "text": "belohnen"
     },
     {
-     "match": "graceful",
-     "text": "clumsy"
+     "match": "erfahren",
+     "text": "ungeschickt"
     },
     {
-     "match": "discord",
-     "text": "harmony"
+     "match": "zwieträchtig",
+     "text": "harmonisch"
     },
     {
-     "match": "figurative",
-     "text": "literal"
+     "match": "bildlich",
+     "text": "wörtlich"
     },
     {
-     "match": "yes",
-     "text": "no"
+     "match": "ja",
+     "text": "nein"
     },
     {
-     "match": "unique",
-     "text": "ordinary"
+     "match": "einzigartig",
+     "text": "gewöhnlich"
     },
     {
-     "match": "comedy",
-     "text": "tragedy"
+     "match": "Komödie",
+     "text": "Tragödie"
     },
     {
-     "match": "permit",
-     "text": "forbid"
+     "match": "erlauben",
+     "text": "verbieten"
     }
    ],
    "category": "Language/Words/Grammar",
    "decoys": [],
    "headers": [
     {
-     "match": "Antonyms",
-     "text": "Words"
+     "match": "Gegenteile",
+     "text": "Wörter"
     }
    ],
    "id": "76867",
    "isValid": "",
-   "prompt": "Match the word to its antonym",
-   "promptHeader": "Antonyms",
-   "us": true,
+   "prompt": "Ordne dem Wort seinem Gegenteil zu",
+   "promptHeader": "Gegenteile",
+   "us": false,
    "x": false
   },
   {
@@ -1101,47 +1101,47 @@
   {
    "answers": [
     {
-     "match": "Thomas",
-     "text": "blue"
+     "match": "Baggi",
+     "text": "gelb"
     },
     {
-     "match": "Percy",
-     "text": "green"
+     "match": "Rollo",
+     "text": "grün"
     },
     {
-     "match": "James",
-     "text": "red"
+     "match": "Buddel",
+     "text": "rot"
     },
     {
-     "match": "Spencer",
-     "text": "silver"
+     "match": "Heppo",
+     "text": "hellblau"
     },
     {
-     "match": "Charlie",
-     "text": "purple"
+     "match": "Mixi",
+     "text": "orange"
     },
     {
-     "match": "“Devious” Diesel",
-     "text": "black"
+     "match": "Schleppo",
+     "text": "dunkelblau"
     },
     {
-     "match": "Toby",
-     "text": "brown"
+     "match": "Benny",
+     "text": "dunkellila"
     }
    ],
    "category": "Film & TV",
    "decoys": [],
    "headers": [
     {
-     "match": "Characters",
-     "text": "Colors"
+     "match": "Charaktere",
+     "text": "Farben"
     }
    ],
    "id": "76876",
    "isValid": "",
-   "prompt": "Match the color to the [i]Thomas the Tank Engine[/i] character",
-   "promptHeader": "[i]Thomas the Tank Engine[/i] Colors",
-   "us": true,
+   "prompt": "Ordne die Farben den [i]Bob der Baumeister[/i] Figuren zu",
+   "promptHeader": "[i]Bob der Baumeister[/i] Farben",
+   "us": false,
    "x": false
   },
   {
@@ -1205,63 +1205,63 @@
   {
    "answers": [
     {
-     "match": "German",
-     "text": "Austria"
+     "match": "Deutsch",
+     "text": "Österreich"
     },
     {
-     "match": "Arabic",
-     "text": "Egypt"
+     "match": "Arabisch",
+     "text": "Ägypten"
     },
     {
-     "match": "Greek",
-     "text": "Cyprus"
+     "match": "Griechisch",
+     "text": "Zypern"
     },
     {
-     "match": "English",
+     "match": "Englisch",
      "text": "Nigeria"
     },
     {
-     "match": "Portuguese",
-     "text": "Mozambique"
+     "match": "Portugiesisch",
+     "text": "Mosambik"
     },
     {
-     "match": "Spanish",
+     "match": "Spanisch",
      "text": "Guatemala"
     },
     {
-     "match": "French",
+     "match": "Französisch",
      "text": "Haiti"
     },
     {
-     "match": "Persian Farsi",
+     "match": "Persisches Farsi",
      "text": "Iran"
     },
     {
      "match": "Khmer",
-     "text": "Cambodia"
+     "text": "Kambodscha"
     },
     {
-     "match": "Russian",
+     "match": "Russisch",
      "text": "Belarus"
     },
     {
-     "match": "Armenian",
-     "text": "Armenia"
+     "match": "Armenisch",
+     "text": "Armenien"
     }
    ],
    "category": "Geography & Landmarks",
    "decoys": [],
    "headers": [
     {
-     "match": "Languages",
-     "text": "Nations"
+     "match": "Sprachen",
+     "text": "Nationen"
     }
    ],
    "id": "77231",
    "isValid": "",
-   "prompt": "Match the nation to the language",
-   "promptHeader": "Official Languages",
-   "us": true,
+   "prompt": "Ordne die Nation der Sprache zu",
+   "promptHeader": "Offizielle Sprachen",
+   "us": false,
    "x": false
   },
   {

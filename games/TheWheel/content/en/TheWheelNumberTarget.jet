@@ -404,7 +404,7 @@
    "category": "Film & TV",
    "id": "77434",
    "isValid": "",
-   "prompt": "Wie viele Folgen hatte die originale [i]SRaumschiff Enterprise[/i] Serie?",
+   "prompt": "Wie viele Folgen hatte die originale [i]Raumschiff Enterprise[/i] Serie?",
    "unit": "",
    "us": false,
    "value": "79",
@@ -856,7 +856,7 @@
    "isValid": "",
    "prompt": "Wie vielen Kalorien haben 20 Chicken McNuggets?",
    "unit": "(in Kalorien)",
-   "us": true,
+   "us": false,
    "value": "893",
    "x": false
   },
@@ -1014,11 +1014,11 @@
    "category": "Music",
    "id": "81487",
    "isValid": "",
-   "prompt": "Wie oft sagt Drake das Wort “YOLO” in seinem Hit Song “The Motto”?",
-   "unit": "(in YOLOs)",
-   "us": true,
-   "value": "3",
-   "x": true
+   "prompt": "Wie hoch ist in Deutschland laut StVO das Bußgeld für Fußgänger, die bei rot die Straße überqueren?",
+   "unit": "(in Euro)",
+   "us": false,
+   "value": "5",
+   "x": false
   },
   {
    "category": "",

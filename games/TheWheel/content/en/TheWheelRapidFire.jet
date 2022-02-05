@@ -121,60 +121,60 @@
   {
    "answers": [
     {
-     "text": "Jefferson City, Missouri",
+     "text": "Würzburg",
      "value": "1"
     },
     {
-     "text": "Des Moines, Iowa",
+     "text": "München",
      "value": "2"
     },
     {
-     "text": "Springfield, IL",
+     "text": "Stuttgart",
      "value": "3"
     },
     {
-     "text": "Denver, Colorado",
+     "text": "Frankfurt am Main",
      "value": "4"
     },
     {
-     "text": "Jackson, Mississippi",
+     "text": "Salzburg",
      "value": "5"
     },
     {
-     "text": "Dover, Delaware",
+     "text": "Zürich",
      "value": "6"
     },
     {
-     "text": "Augusta, Maine",
+     "text": "Köln",
      "value": "7"
     },
     {
-     "text": "Olympia, Washington",
+     "text": "Hannover",
      "value": "8"
     },
     {
-     "text": "Juneau, Alaska",
+     "text": "Berlin",
      "value": "9"
     },
     {
-     "text": "Honolulu, Hawaii",
+     "text": "Hamburg",
      "value": "10"
     }
    ],
    "category": "Geography & Landmarks",
    "id": "76792",
    "isValid": "",
-   "prompt": "Which U.S. capital is closer to Topeka, Kansas?",
+   "prompt": "Welche Stadt liegt am nächsten an Nürnberg, Bayern?",
    "sort": "ascending",
    "subtype": "closest",
-   "unit": "(in miles)",
-   "us": true,
+   "unit": "(Luftlinie in Kilometern)",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "semi-tractor-trailer truck",
+     "text": "Sattelzugmaschine",
      "value": "18"
     },
     {
@@ -182,19 +182,19 @@
      "value": "10"
     },
     {
-     "text": "traditional roller skates (pair)",
+     "text": "Klassische Rollschuhe (Paar)",
      "value": "8"
     },
     {
-     "text": "standard large yellow school bus",
+     "text": "Normalgroßer Schulbus",
      "value": "6"
     },
     {
-     "text": "furniture dolly",
+     "text": "Möbelwagen",
      "value": "4"
     },
     {
-     "text": "traditional skateboard",
+     "text": "Klassisches Skateboard",
      "value": "4"
     },
     {
@@ -202,11 +202,11 @@
      "value": "3"
     },
     {
-     "text": "motorcycle + sidecar",
+     "text": "Motorrad + Beiwagen",
      "value": "3"
     },
     {
-     "text": "Radio Flyer My 1st Scooter",
+     "text": "otto.de Mein erster Roller",
      "value": "3"
     },
     {
@@ -214,119 +214,111 @@
      "value": "2"
     },
     {
-     "text": "motorcycle",
+     "text": "Motorrad",
      "value": "2"
     },
     {
-     "text": "pulled rickshaw",
+     "text": "Laufrikscha",
      "value": "2"
     },
     {
-     "text": "penny-farthing",
+     "text": "Hochrad",
      "value": "2"
     },
     {
-     "text": "tandem bicycle",
+     "text": "Tandem Fahrrad",
      "value": "2"
     },
     {
-     "text": "wheelbarrow",
+     "text": "Schubkarre",
      "value": "1"
     },
     {
-     "text": "unicycle",
+     "text": "Einrad",
      "value": "1"
     },
     {
-     "text": "Onewheel",
-     "value": "1"
-    },
-    {
-     "text": "4-person bobsled",
+     "text": "4er-Bob",
      "value": "0"
     },
     {
-     "text": "ice skates",
+     "text": "Schlittschuhe",
      "value": "0"
     },
     {
-     "text": "snowboard",
+     "text": "Snowboard",
      "value": "0"
     }
    ],
    "category": "Vehicles",
    "id": "76793",
    "isValid": "",
-   "prompt": "Which vehicle has more wheels?",
+   "prompt": "Welches Fahrzeug hat mehr Räder?",
    "sort": "descending",
    "subtype": "most/least",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Count Rugen from [i]The Princess Bride[/i] (right hand)",
-     "value": "6"
-    },
-    {
-     "text": "Mickey Mouse (one hand)",
+     "text": "Homer aus [i]Die Simpsons[/i] (eine Hand)",
      "value": "4"
     },
     {
-     "text": "SpongeBob SquarePants (two hands)",
+     "text": "Mickey Maus (eine Hand)",
+     "value": "4"
+    },
+    {
+     "text": "SpongeBob Schwammkopf (beide Hände)",
      "value": "8"
     },
     {
-     "text": "Victory! (one hand)",
+     "text": "Frieden! (eine Hand)",
      "value": "2"
     },
     {
-     "text": "high five (one hand)",
+     "text": "High Five (eine Hand)",
      "value": "5"
     },
     {
-     "text": "Scout’s honor",
-     "value": "3"
+     "text": "Schweigefuchs",
+     "value": "2"
     },
     {
-     "text": "“the bird”",
+     "text": "“Stinkefinger”",
      "value": "1"
     },
     {
-     "text": "letter “F” in American Sign Language",
-     "value": "3"
-    },
-    {
-     "text": "baseball catcher’s sign for curveball",
-     "value": "2"
-    },
-    {
-     "text": "paper in Rock Paper Scissors",
-     "value": "5"
-    },
-    {
-     "text": "“air quotes”",
+     "text": "Buchstabe “B” in Zeichensprache",
      "value": "4"
     },
     {
-     "text": "jazz hands",
+     "text": "Papier in Schere Stein Papier",
+     "value": "5"
+    },
+    {
+     "text": "“Anführungszeichen mit Händen”",
+     "value": "4"
+    },
+    {
+     "text": "Jazz-Hände",
      "value": "10"
     },
     {
-     "text": "raised fist salute",
+     "text": "Gruß mit erhobener Faust",
      "value": "0"
     }
    ],
    "category": "Anatomy",
    "id": "76856",
    "isValid": "",
-   "prompt": "Which character or gesture has more fingers?",
+   "prompt": "Welche Figur oder Geste hat mehr Finger?",
    "sort": "descending",
    "subtype": "most/least",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -421,27 +413,27 @@
   {
    "answers": [
     {
-     "text": "United States",
+     "text": "Vereinigte Staaten",
      "value": "2827"
     },
     {
-     "text": "United Kingdom",
+     "text": "Vereinigtes Königreich",
      "value": "883"
     },
     {
-     "text": "Germany",
+     "text": "Deutschland",
      "value": "855"
     },
     {
-     "text": "France",
+     "text": "Frankreich",
      "value": "840"
     },
     {
-     "text": "Italy",
+     "text": "Italien",
      "value": "701"
     },
     {
-     "text": "Sweden",
+     "text": "Schweden",
      "value": "652"
     },
     {
@@ -449,60 +441,60 @@
      "value": "608"
     },
     {
-     "text": "Canada",
+     "text": "Kanada",
      "value": "501"
     },
     {
-     "text": "Netherlands",
+     "text": "Niederlande",
      "value": "415"
     },
     {
-     "text": "South Korea",
+     "text": "Südkorea",
      "value": "337"
     },
     {
-     "text": "Cuba",
+     "text": "Kuba",
      "value": "226"
     },
     {
-     "text": "Greece",
+     "text": "Griechenland",
      "value": "116"
     },
     {
-     "text": "Jamaica",
+     "text": "Jamaika",
      "value": "78"
     },
     {
-     "text": "Mexico",
+     "text": "Mexiko",
      "value": "69"
     },
     {
-     "text": "India",
+     "text": "Indien",
      "value": "28"
     },
     {
-     "text": "Philippines",
+     "text": "Philippinen",
      "value": "10"
     }
    ],
    "category": "Sports",
    "id": "77282",
    "isValid": "",
-   "prompt": "As of 2020, which country had more Olympic medals?",
+   "prompt": "Welches Land hatte, Stand 2021, mehr olympische Medaillen?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(medals from Winter and Summer Games)",
-   "us": true,
+   "unit": "(Medaillen von Winter- und Sommerspielen)",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Saltwater Crocodile",
+     "text": "Salzwasserkrokodil",
      "value": "3700"
     },
     {
-     "text": "Hippopotamus",
+     "text": "Nilpferd",
      "value": "1800"
     },
     {
@@ -514,107 +506,99 @@
      "value": "1300"
     },
     {
-     "text": "Polar Bear",
+     "text": "Eisbär",
      "value": "1200"
     },
     {
-     "text": "Hyena",
+     "text": "Hyäne",
      "value": "1100"
     },
     {
-     "text": "Alligator Snapping Turtle",
+     "text": "Alligator-Schnappschildkröte",
      "value": "1000"
     },
     {
-     "text": "Lion",
+     "text": "Löwe",
      "value": "650"
     },
     {
-     "text": "Mastiff",
+     "text": "Bulldogge",
      "value": "550"
     },
     {
-     "text": "Grey Wolf",
+     "text": "Wolf",
      "value": "398"
     },
     {
-     "text": "Human",
+     "text": "Mensch",
      "value": "160"
     }
    ],
    "category": "Animals",
    "id": "77296",
    "isValid": "",
-   "prompt": "Which animal has the stronger bite force in pounds per square inch?",
+   "prompt": "Welches Tier hat die stärkere Beißkraft?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in pounds per square inch)",
-   "us": true,
+   "unit": "(in Kilo pro Quadratzentimeter)",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Lieutenant General",
+     "text": "General",
      "value": "1"
     },
     {
-     "text": "Major General",
+     "text": "Generalleutnant",
      "value": "2"
     },
     {
-     "text": "Brigadier General",
+     "text": "Generalmajor",
      "value": "3"
     },
     {
-     "text": "Colonel",
+     "text": "Brigadegeneral",
      "value": "4"
     },
     {
-     "text": "Lieutenant Colonel",
+     "text": "Oberst",
      "value": "5"
     },
     {
-     "text": "Major",
+     "text": "Oberstleutnant",
      "value": "6"
     },
     {
-     "text": "Captain",
+     "text": "Major",
      "value": "7"
     },
     {
-     "text": "First Lieutenant",
+     "text": "Stabshauptmann",
      "value": "8"
     },
     {
-     "text": "Second Lieutenant",
+     "text": "Hauptmann",
      "value": "9"
     },
     {
-     "text": "Warrant Officer",
+     "text": "Oberleutnant",
      "value": "10"
     },
     {
-     "text": "Sergeant",
+     "text": "Leutnant",
      "value": "11"
-    },
-    {
-     "text": "Corporal",
-     "value": "12"
-    },
-    {
-     "text": "Private",
-     "value": "13"
     }
    ],
    "category": "Occupations",
    "id": "78718",
    "isValid": "",
-   "prompt": "Which U.S. Army rank is closer to 4-Star General?",
+   "prompt": "Welcher Dienstgrad bei der Bundeswehr ist höher?",
    "sort": "ascending",
    "subtype": "closest",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -720,7 +704,7 @@
    "category": "Occupations",
    "id": "78721",
    "isValid": "",
-   "prompt": "Which role is closer to the top of a TV writers’ room hierarchy?",
+   "prompt": "Welche Rolle steht am höchsten in der Raumhierarchie der Film-Autoren?",
    "sort": "ascending",
    "subtype": "closest",
    "unit": "",
@@ -787,62 +771,58 @@
   {
    "answers": [
     {
-     "text": "[i]River’s Edge[/i]",
-     "value": "1986"
+     "text": "[i]Das Superweib[/i]",
+     "value": "1996"
     },
     {
-     "text": "[i]Bill & Ted’s Excellent Adventure[/i]",
-     "value": "1989"
+     "text": "[i]Lara Croft: Tomb Raider – Die Wiege des Lebens[/i]",
+     "value": "2003"
     },
     {
-     "text": "[i]Point Break[/i]",
-     "value": "1991"
+     "text": "[i]Zweiohrküken[/i]",
+     "value": "2009"
     },
     {
-     "text": "[i]Much Ado About Nothing[/i]",
-     "value": "1993"
+     "text": "[i]Die drei Musketiere[/i]",
+     "value": "2011"
     },
     {
-     "text": "[i]Speed[/i]",
-     "value": "1994"
+     "text": "[i]Schutzengel[/i]",
+     "value": "2012"
     },
     {
-     "text": "[i]The Devil’s Advocate[/i]",
-     "value": "1997"
-    },
-    {
-     "text": "[i]The Matrix[/i]",
-     "value": "1999"
-    },
-    {
-     "text": "[i]Constantine[/i]",
-     "value": "2005"
-    },
-    {
-     "text": "[i]The Day the Earth Stood Still[/i]",
-     "value": "2008"
-    },
-    {
-     "text": "[i]47 Ronin[/i]",
+     "text": "[i]Kokowääh 2[/i]",
      "value": "2013"
     },
     {
-     "text": "[i]John Wick[/i]",
+     "text": "[i]Muppets Most Wanted[/i]",
      "value": "2014"
     },
     {
-     "text": "[i]Always Be My Maybe[/i]",
-     "value": "2019"
+     "text": "[i]Muppets Most Wanted[/i]",
+     "value": "2014"
+    },
+    {
+     "text": "[i]Honig im Kopf[/i]",
+     "value": "2014"
+    },
+    {
+     "text": "[i]Bullyparade – Der Film[/i]",
+     "value": "2017"
+    },
+    {
+     "text": "[i]Gott, du kannst ein Arsch sein![/i]",
+     "value": "2020"
     }
    ],
    "category": "Film & TV",
    "id": "78773",
    "isValid": "",
-   "prompt": "Which film starring Keanu Reeves came out first?",
+   "prompt": "Welcher Film mit Til Schweiger ist zuerst erschienen?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -852,15 +832,15 @@
      "value": "1439"
     },
     {
-     "text": "India",
+     "text": "Indien",
      "value": "1380"
     },
     {
-     "text": "United States of America",
+     "text": "Vereinigte Staaten von Amerika",
      "value": "331"
     },
     {
-     "text": "Indonesia",
+     "text": "Indonesien",
      "value": "273"
     },
     {
@@ -868,7 +848,7 @@
      "value": "220"
     },
     {
-     "text": "Brazil",
+     "text": "Brasilien",
      "value": "212"
     },
     {
@@ -876,11 +856,11 @@
      "value": "206"
     },
     {
-     "text": "Russia",
+     "text": "Russland",
      "value": "146"
     },
     {
-     "text": "Mexico",
+     "text": "Mexiko",
      "value": "129"
     },
     {
@@ -888,34 +868,34 @@
      "value": "126"
     },
     {
-     "text": "Ethiopia",
+     "text": "Ethiopien",
      "value": "115"
     },
     {
-     "text": "Philippines",
+     "text": "Philippinen",
      "value": "109"
     },
     {
-     "text": "Canada",
+     "text": "Kanada",
      "value": "38"
     },
     {
-     "text": "Jamaica",
+     "text": "Jamaika",
      "value": "3"
     },
     {
-     "text": "Iceland",
+     "text": "Island",
      "value": "1"
     }
    ],
    "category": "Geography & Landmarks",
    "id": "78775",
    "isValid": "",
-   "prompt": "As of 2020, which country had a higher population?",
+   "prompt": "Welches Land hatte im Jahr 2020 eine höhere Bevölkerungszahl?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in millions of people)",
-   "us": true,
+   "unit": "(in Millionen Menschen)",
+   "us": false,
    "x": false
   },
   {
@@ -1281,11 +1261,11 @@
    "category": "Games",
    "id": "78875",
    "isValid": "",
-   "prompt": "In 2020, which best-selling video game sold more copies?",
+   "prompt": "Welcher Videospiel-Bestseller hat im Jahr 2020 mehr Exemplare verkauft?",
    "sort": "ascending",
    "subtype": "most/least",
-   "unit": "(in units sold)",
-   "us": true,
+   "unit": "(in verkauften Spielen)",
+   "us": false,
    "x": false
   },
   {
@@ -1745,11 +1725,11 @@
    "category": "Internet",
    "id": "79064",
    "isValid": "",
-   "prompt": "In 2020, which site on the interweb was visited more often?",
+   "prompt": "Welche Seite im Internet wurde 2020 häufiger besucht?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in billions of visitors per month)",
-   "us": true,
+   "unit": "(in Milliarden Besucher pro Monat)",
+   "us": false,
    "x": false
   },
   {
@@ -4620,54 +4600,46 @@
   {
    "answers": [
     {
-     "text": "medical director",
+     "text": "Ärztlicher Direktor",
      "value": "1"
     },
     {
-     "text": "head of department",
+     "text": "Chefarzt",
      "value": "2"
     },
     {
-     "text": "attending physician",
+     "text": "Leitender Oberarzt",
      "value": "3"
     },
     {
-     "text": "fellow",
+     "text": "Oberarzt",
      "value": "4"
     },
     {
-     "text": "chief resident",
+     "text": "Facharzt",
      "value": "5"
     },
     {
-     "text": "senior resident",
+     "text": "Assistenzarzt",
      "value": "6"
     },
     {
-     "text": "junior resident",
+     "text": "Student im Praktischen Jahr (PJ)",
      "value": "7"
     },
     {
-     "text": "intern",
+     "text": "Famulus",
      "value": "8"
-    },
-    {
-     "text": "medical student",
-     "value": "9"
-    },
-    {
-     "text": "pre-med student",
-     "value": "10"
     }
    ],
    "category": "Occupations",
    "id": "85637",
    "isValid": "",
-   "prompt": "Which of these roles are closest to the top of a hospital hierarchy?",
+   "prompt": "Welcher dieser Berufe steht am höchsten in der Krankenhaushierarchie?",
    "sort": "ascending",
    "subtype": "closest",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
