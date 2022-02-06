@@ -4763,7 +4763,7 @@
   {
    "answers": [
     {
-     "text": "[i]No Time to Die[/i]",
+     "text": "[i]Keine Zeit zu sterben[/i]",
      "value": "2021"
     },
     {
@@ -4779,11 +4779,11 @@
      "value": "2006"
     },
     {
-     "text": "[i]Die Another Day[/i]",
+     "text": "[i]Stirb an einem anderen Tag[/i]",
      "value": "2002"
     },
     {
-     "text": "[i]Tomorrow Never Dies[/i]",
+     "text": "[i]Der Morgen stirbt nie[/i]",
      "value": "1997"
     },
     {
@@ -4791,7 +4791,7 @@
      "value": "1995"
     },
     {
-     "text": "[i]License to Kill[/i]",
+     "text": "[i]Lizenz zum Töten[/i]",
      "value": "1989"
     },
     {
@@ -4799,19 +4799,19 @@
      "value": "1983"
     },
     {
-     "text": "[i]Moonraker[/i]",
+     "text": "[i]Moonraker - Streng geheim[/i]",
      "value": "1979"
     },
     {
-     "text": "[i]The Spy Who Loved Me[/i]",
+     "text": "[i]Der Spion, der mich liebte[/i]",
      "value": "1977"
     },
     {
-     "text": "[i]Live and Let Die[/i]",
+     "text": "[i]Leben und sterben lassen[/i]",
      "value": "1973"
     },
     {
-     "text": "[i]Diamonds Are Forever[/i]",
+     "text": "[i]Diamantenfieber[/i]",
      "value": "1971"
     },
     {
@@ -4819,18 +4819,18 @@
      "value": "1964"
     },
     {
-     "text": "[i]From Russia with Love[/i]",
+     "text": "[i]Liebesgrüße aus Moskau[/i]",
      "value": "1963"
     }
    ],
    "category": "Film & TV",
    "id": "85717",
    "isValid": "",
-   "prompt": "Which James Bond movie was released more recently?",
+   "prompt": "Welcher James-Bond-Film wurde zuletzt veröffentlicht?",
    "sort": "descending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5031,16 +5031,16 @@
   {
    "answers": [
     {
-     "text": "Chris Evans",
-     "value": "1981"
+     "text": "Helene Fischer",
+     "value": "1984"
     },
     {
-     "text": "Ryan Gosling",
+     "text": "Jens Spahn",
      "value": "1980"
     },
     {
-     "text": "Bradley Cooper",
-     "value": "1975"
+     "text": "Joko Winterscheidt",
+     "value": "1979"
     },
     {
      "text": "Leonardo DiCaprio",
@@ -5051,7 +5051,7 @@
      "value": "1972"
     },
     {
-     "text": "Idris Elba",
+     "text": "Mario Barth",
      "value": "1972"
     },
     {
@@ -5059,11 +5059,11 @@
      "value": "1970"
     },
     {
-     "text": "Matthew McConaughey",
+     "text": "Claudia Schiffer",
      "value": "1969"
     },
     {
-     "text": "Javier Bardem",
+     "text": "Markus Lanz",
      "value": "1969"
     },
     {
@@ -5071,26 +5071,26 @@
      "value": "1968"
     },
     {
-     "text": "George Clooney",
-     "value": "1961"
+     "text": "Til Schweiger",
+     "value": "1963"
     },
     {
-     "text": "Denzel Washington",
+     "text": "Michael Jackson",
      "value": "1954"
     },
     {
-     "text": "Samuel L. Jackson",
+     "text": "Otto Waalkes",
      "value": "1948"
     }
    ],
    "category": "Celebrities",
    "id": "85762",
    "isValid": "",
-   "prompt": "Which Hollywood leading star is younger?",
+   "prompt": "Welcher Promi ist jünger?",
    "sort": "descending",
    "subtype": "most/least",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5311,70 +5311,70 @@
   {
    "answers": [
     {
-     "text": "football (Australian)",
+     "text": "Australian Football",
      "value": "18"
     },
     {
-     "text": "rugby",
+     "text": "Rugby",
      "value": "15"
     },
     {
-     "text": "football (American)",
+     "text": "Fußball",
      "value": "11"
     },
     {
-     "text": "soccer",
+     "text": "Kricket",
      "value": "11"
     },
     {
-     "text": "cricket",
+     "text": "Feldhockey",
      "value": "11"
     },
     {
-     "text": "field hockey",
-     "value": "11"
-    },
-    {
-     "text": "lacrosse",
+     "text": "Lacrosse",
      "value": "10"
     },
     {
-     "text": "baseball",
+     "text": "Baseball",
      "value": "9"
     },
     {
-     "text": "ultimate frisbee",
+     "text": "Ultimate Frisbee",
      "value": "7"
     },
     {
-     "text": "ice hockey",
+     "text": "Handball",
+     "value": "7"
+    },
+    {
+     "text": "Eishockey",
      "value": "6"
     },
     {
-     "text": "basketball",
+     "text": "Basketball",
      "value": "5"
     },
     {
-     "text": "polo",
+     "text": "Polo",
      "value": "4"
     },
     {
-     "text": "doubles badminton",
+     "text": "Badminton Doppel",
      "value": "2"
     },
     {
-     "text": "singles tennis",
+     "text": "Tennis Einzel",
      "value": "1"
     }
    ],
    "category": "Sports",
    "id": "85871",
    "isValid": "",
-   "prompt": "Which of these sports has more players PER TEAM in the game at one time?",
+   "prompt": "Bei welcher dieser Sportarten sind gleichzeitig mehr Spieler PRO TEAM im Spiel?",
    "sort": "descending",
    "subtype": "most/least",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5518,62 +5518,62 @@
   {
    "answers": [
     {
-     "text": "Capricorn",
+     "text": "Steinbock",
      "value": "1"
     },
     {
-     "text": "Aquarius",
+     "text": "Wassermann",
      "value": "2"
     },
     {
-     "text": "Pisces",
+     "text": "Fische",
      "value": "3"
     },
     {
-     "text": "Aries",
+     "text": "Widder",
      "value": "4"
     },
     {
-     "text": "Taurus",
+     "text": "Stier",
      "value": "5"
     },
     {
-     "text": "Gemini",
+     "text": "Zwillinge",
      "value": "6"
     },
     {
-     "text": "Cancer",
+     "text": "Krebs",
      "value": "7"
     },
     {
-     "text": "Leo",
+     "text": "Löwe",
      "value": "8"
     },
     {
-     "text": "Virgo",
+     "text": "Jungfrau",
      "value": "9"
     },
     {
-     "text": "Libra",
+     "text": "Waage",
      "value": "10"
     },
     {
-     "text": "Scorpio",
+     "text": "Skorpion",
      "value": "11"
     },
     {
-     "text": "Sagittarius",
+     "text": "Schütze",
      "value": "12"
     }
    ],
    "category": "Calendar/Holidays",
    "id": "85881",
    "isValid": "",
-   "prompt": "Which astrological zodiac sign occurs earlier in the calendar year?",
+   "prompt": "Welches astrologische Sternzeichen kommt früher im Kalenderjahr vor?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5640,135 +5640,139 @@
   {
    "answers": [
     {
-     "text": "immortal jellyfish (Turritopsis dohrnii)",
+     "text": "Unsterbliche Qualle (Turritopsis dohrnii)",
      "value": "1000"
     },
     {
-     "text": "Greenland shark",
+     "text": "Grönlandhai",
      "value": "332"
     },
     {
-     "text": "ocean quahog",
+     "text": "Islandmuschel",
      "value": "225"
     },
     {
-     "text": "Galápagos giant tortoise",
+     "text": "Galápagos-Riesenschildkröte",
      "value": "177"
     },
     {
-     "text": "geoduck clam",
+     "text": "Geoduck-Muschel",
      "value": "165"
     },
     {
-     "text": "human",
+     "text": "Mensch",
      "value": "72"
     },
     {
-     "text": "African elephant",
+     "text": "Afrikanischer Elefant",
      "value": "60"
     },
     {
-     "text": "African grey parrot (in captivity)",
+     "text": "Graupapagei (in Gefangenschaft)",
      "value": "45"
     },
     {
-     "text": "Bornean orangutan",
+     "text": "Borneo-Orang-Utan",
      "value": "35"
     },
     {
-     "text": "indoor cat",
+     "text": "Hauskatze",
      "value": "15"
     },
     {
-     "text": "dog",
+     "text": "Hund",
      "value": "11"
     },
     {
-     "text": "house mouse",
+     "text": "Hausmaus",
      "value": "1"
     },
     {
-     "text": "mayfly",
+     "text": "Eintagsfliege",
      "value": "0"
     }
    ],
    "category": "Animals",
    "id": "85907",
    "isValid": "",
-   "prompt": "Which animal has a longer average lifespan?",
+   "prompt": "Welches Tier hat eine höhere durchschnittliche Lebenserwartung?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in years)",
-   "us": true,
+   "unit": "(in Jahren)",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "@instagram",
-     "value": "420"
+     "text": "@Twitter",
+     "value": "60800"
     },
     {
-     "text": "@arianagrande",
-     "value": "265"
-    },
-    {
-     "text": "@kyliejenner",
-     "value": "265"
+     "text": "@heidiklum",
+     "value": "4800"
     },
     {
      "text": "@kimkardashian",
-     "value": "251"
+     "value": "71100"
     },
     {
-     "text": "@beyonce",
-     "value": "206"
+     "text": "@Beyonce",
+     "value": "15400"
     },
     {
      "text": "@justinbieber",
-     "value": "194"
+     "value": "114200"
     },
     {
-     "text": "@natgeo",
-     "value": "183"
-    },
-    {
-     "text": "@mileycyrus",
-     "value": "144"
-    },
-    {
-     "text": "@iamcardib",
-     "value": "108"
+     "text": "@NatGeo",
+     "value": "26900"
     },
     {
      "text": "@nasa",
-     "value": "70"
+     "value": "52200"
     },
     {
-     "text": "@emmawatson",
-     "value": "60"
+     "text": "@MesutOzil1088",
+     "value": "26100"
     },
     {
-     "text": "@npr",
-     "value": "5"
+     "text": "@heuteshow",
+     "value": "1300"
     },
     {
-     "text": "@playjackboxgames",
-     "value": "2"
+     "text": "@faznet",
+     "value": "702"
     },
     {
-     "text": "@icantbelieveitsnotbutter",
+     "text": "@TheBorisBecker",
+     "value": "659"
+    },
+    {
+     "text": "@Domtendo",
+     "value": "113"
+    },
+    {
+     "text": "@DrOetkerPizzaDE",
+     "value": "59"
+    },
+    {
+     "text": "@jackboxgames",
+     "value": "42"
+    },
+    {
+     "text": "@jackboxDE",
      "value": "1"
     }
    ],
    "category": "Internet",
    "id": "85952",
    "isValid": "",
-   "prompt": "In 2021, which Instagram account had more followers?",
+   "prompt": "Stand 2021, welcher Twitter Account hatte mehr Follower?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in millions of followers)",
-   "us": true,
+   "unit": "(in Millionen Follower)",
+   "us": false,
    "x": false
   },
   {

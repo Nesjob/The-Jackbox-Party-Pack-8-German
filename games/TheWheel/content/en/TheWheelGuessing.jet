@@ -370,38 +370,38 @@
   },
   {
    "altSpellings": [
-    "Monopoly Game"
+    "Monopoly Spiel"
    ],
    "answer": "[i]Monopoly[/i]",
    "category": "Games",
    "clues": [
     {
-     "clue": "It is designed for 2-8 players.",
+     "clue": "Es ist für 2-8 Spieler ausgelegt.",
      "clueComment": ""
     },
     {
-     "clue": "At various times in history, it was banned in the communist nations of Cuba and the USSR.",
+     "clue": "In der Vergangenheit wurde es in den kommunistischen Nationen Kubas und der UdSSR verboten.",
      "clueComment": ""
     },
     {
-     "clue": "It was published by Parker Brothers before it was acquired by Hasbro.",
+     "clue": "Es wurde von Parker Brothers veröffentlicht, bevor es von Hasbro übernommen wurde.",
      "clueComment": ""
     },
     {
-     "clue": "It was once called the [i]Landlord’s Game[/i] because it allows players to purchase and develop properties.",
+     "clue": "Es wurde einst das [i]Landlord’s Game[/i] genannt, weil es den Spielern erlaubt, Immobilien zu kaufen und zu entwickeln.",
      "clueComment": ""
     },
     {
-     "clue": "If you still don’t know what it is, please go to jail. Go directly to jail. Do not pass Go. Do not collect $200.",
+     "clue": "Wenn du immer noch nicht weißt, um was es geht, gehe bitte in das Gefängnis. Begib dich direkt dorthin. Gehe nicht über Los. Ziehe keine 200 Euro ein.",
      "clueComment": ""
     }
    ],
-   "followup": "No, it's not the Wheel of Fortune game. That's a hurtful stereotype.",
+   "followup": "Nein, es ist nicht das Glücksrad. Das ist ein echt verletzendes Vorurteil.",
    "id": "80171",
    "isValid": "",
-   "prompt": "What game do I have a grudging respect for?",
-   "reveal": "Let's hear it for capitalism, huh! (pause) Wow, not even a smattering of applause.",
-   "us": true,
+   "prompt": "Für welches Spiel empfinde ich nur widerwillig Respekt?",
+   "reveal": "Macht Platz für den Kapitalismus! (Pause) Wow, das gibt ja nicht mal einen Hauch Applaus.",
+   "us": false,
    "x": false
   },
   {
@@ -447,66 +447,67 @@
   {
    "altSpellings": [
     "Beethoven",
-    "Ludwig Beethoven"
+    "Ludwig Beethoven",
+    "Ludwig von Beethoven"
    ],
    "answer": "Ludwig van Beethoven",
    "category": "Music",
    "clues": [
     {
-     "clue": "I'm referring to a German gentleman.",
-     "clueComment": "I’m referring to a German gentleman. Okay, I’ll just tell you... it’s David Hasselhoff. No! I’m kidding! Don’t type in Hasselhoff."
+     "clue": "Der Herr kommt sogar aus Deutschland.",
+     "clueComment": "Der Herr kommt sogar aus Deutschland. Okay, ich sag's euch einfach. Es ist David Hasselhoff. Nein! Ich mach nur Spaß! Gebt nicht Hasselhoff ein."
     },
     {
-     "clue": "His most famous works include Symphony No. 9 and the [i]Moonlight Sonata[/i]."
+     "clue": "Zu seinen berühmtesten Werken gehören die Sinfonie Nr. 9 und die [i]Mondscheinsonate[/i]."
     },
     {
-     "clue": "He's famous for composing even through encroaching hearing loss."
+     "clue": "Er ist berühmt dafür, dass er trotz seinem fortschreitendem Hörverlust komponiert."
     },
     {
-     "clue": "There’s a movie series about a lovable Saint Bernard that shares a name with him.",
-     "clueComment": "There's a movie series about a lovable St. Bernard that shares a name with him. Quality ‛90s hijinks ensued."
+     "clue": "Er hat in Bonn gelebt, Leute!",
+     "clueComment": "Er hat in Bonn gelebt, Leute! Das ist so ziemlich das einzige, womit die Leute in Bonn angeben."
     },
     {
-     "clue": "His first name is Ludwig!",
+     "clue": "Sein Vorname ist Ludwig!",
      "clueComment": ""
     }
    ],
    "followup": "",
    "id": "80247",
    "isValid": "",
-   "prompt": "Who is my all-time favorite musician?",
-   "reveal": "Da-da-da-duuuuuuuuuuuuh, it’s...",
-   "us": true,
+   "prompt": "Wer ist mein absoluter Lieblingsmusiker?",
+   "reveal": "Dum-Dum-Dum-Duuuuuuuum, es ist...",
+   "us": false,
    "x": false
   },
   {
    "altSpellings": [],
-   "answer": "Yes",
+   "answer": "Ja",
    "category": "Other",
    "clues": [
     {
-     "clue": "Just type an answer to my question. That's it!"
+     "clue": "Beantworte einfach meine Frage, das war's schon!"
     },
     {
-     "clue": "I'm asking you to respond to my question, with a word that indicates a choice of one of two options."
+     "clue": "Ich möchte, dass ihr auf meine Frage mit einem Wort antwortet, welches auf eine Auswahl zwischen zwei Optionen hinweist."
     },
     {
-     "clue": "It is a word in the affirmative."
+     "clue": "Es ist ein bejahendes Wort."
     },
     {
-     "clue": "I can't tell you what to do here. Hugs only if you want them!"
+     "clue": "Ich kann euch nicht sagen, was ihr machen sollt. Ich umarme euch nur, wenn ihr es auch wollt!"
     },
     {
-     "clue": "Literally all I want you to do is type the word \"Yes”.",
+     "clue": "Im ernst, das einzige, was ich von euch möchte, ist dass ihr mir ein \"Ja” gebt.",
      "clueComment": ""
     }
    ],
-   "followup": "Can you?",
+   "followup": "Wirklich?",
    "id": "80251",
    "isValid": "",
-   "prompt": "Can you give me a hug?",
-   "reveal": "What inhuman, unfeeling barbarian would say NO!?",
-   "us": true,
+   "prompt": "Kannst du mich umarmen?",
+   "reveal": "Welches unmenschliche, gefühlslose Wesen könnte dazu NEIN sagen?!",
+   "us": false,
    "x": false
   },
   {
@@ -661,38 +662,38 @@
   },
   {
    "altSpellings": [
-    "Hanks"
+    "Engelke"
    ],
-   "answer": "Tom Hanks",
+   "answer": "Anke Engelke",
    "category": "Celebrities",
    "clues": [
     {
-     "clue": "He’s a movie star with a collection of typewriters.",
-     "clueComment": "He's a movie star with a collection of typewriters. Well, what movie star DOESN'T have a collection of typewriters?"
-    },
-    {
-     "clue": "He frequently works with director Steven Spielberg.",
+     "clue": "Es handelt sich um eine Schauspielerin, welche erstmals 1978 im Schulchor entdeckt wurde.",
      "clueComment": ""
     },
     {
-     "clue": "One of his first acting roles was on the show [i]Bosom Buddies[/i].",
+     "clue": "Sie spricht Deutsch, Englisch, Französisch und ist unter anderem für ihre vielen Talente bekannt.",
+     "clueComment": "Sie spricht Deutsch, Englisch, Französisch und ist unter anderem für ihre vielen Talente bekannt. WAS KANN DIESE FRAU BITTE NICHT?!"
+    },
+    {
+     "clue": "Sie hatte sogar eine vierjährige Beziehung mit Benjamin von Stuckrad-Barre!",
      "clueComment": ""
     },
     {
-     "clue": "He won two Best Actor Oscars back-to-back in 1994 and 1995.",
-     "clueComment": "He won two Best Actor Oscars back-to-back in 1994 and 1995. How do you not hate a guy like that? And yet, I can't!"
+     "clue": "In den frühen 2000ern trat sie häufig in ihrer eigenen Sketch-Show auf Sat.1 auf. Da wurde sogar Pastewka neidisch!",
+     "clueComment": "In den frühen 2000ern trat sie häufig in ihrer eigenen Sketch-Show auf Sat.1 auf. Da wurde sogar Pastewka neidisch! Verständlich, denn die Show war der Knaller!"
     },
     {
-     "clue": "Forrest Gump? Ring a bell?",
+     "clue": "Die Simpsons? Findet Nemo? Klingelt da was bei euch?",
      "clueComment": ""
     }
    ],
    "followup": null,
    "id": "81734",
    "isValid": "",
-   "prompt": "Which American celebrity just makes me feel good?",
-   "reveal": "I am thinking of the insanely likable...",
-   "us": true,
+   "prompt": "Welcher deutsche Promi gibt mir einfach ein gutes Gefühl?",
+   "reveal": "Ich denke an die extrem talentierte und liebenswerte...",
+   "us": false,
    "x": false
   },
   {
@@ -848,40 +849,40 @@
   },
   {
    "altSpellings": [],
-   "answer": "Croatia",
+   "answer": "Kroatien",
    "category": "Geography & Landmarks",
    "clues": [
     {
-     "clue": "It used to be part of Yugoslavia.",
+     "clue": "Früher gehörte es zu Jugoslawien.",
      "clueComment": ""
     },
     {
-     "clue": "It is part of the Balkan Peninsula.",
+     "clue": "Es ist Teil der Balkanhalbinsel.",
      "clueComment": ""
     },
     {
-     "clue": "It has a long coast along the Adriatic Sea.",
+     "clue": "Es hat eine lange Küste entlang vom adriatischen Meer.",
      "clueComment": ""
     },
     {
-     "clue": "The capital city is Zagreb!",
+     "clue": "Die Hauptstadt ist Zagreb!",
      "clueComment": ""
     },
     {
-     "clue": "A vast number of citizens are Croats.",
+     "clue": "Die meisten Einwohner sind Kroaten.",
      "clueComment": ""
     },
     {
-     "clue": "THEY SPEAK CROATIAN. YOU’RE SO CLOSE. CROATIAN.",
+     "clue": "SIE SPRECHEN KROATISCH. IHR SEID SO NAH DRAN. KROATISCH.",
      "clueComment": ""
     }
    ],
    "followup": null,
    "id": "81910",
    "isValid": "",
-   "prompt": "Which Eastern European country am I vacationing in after I finally snap off my base?",
+   "prompt": "In welchem osteuropäischen Land mache ich Urlaub, nachdem ich diesen Berg endlich verlassen habe?",
    "reveal": null,
-   "us": true,
+   "us": false,
    "x": false
   },
   {

@@ -1751,67 +1751,67 @@
   {
    "answers": [
     {
-     "match": "late March",
-     "text": "Aries"
+     "match": "Anfang Januar",
+     "text": "Steinbock"
     },
     {
-     "match": "late April",
-     "text": "Taurus"
+     "match": "Anfang Februar",
+     "text": "Wassermann"
     },
     {
-     "match": "early June",
-     "text": "Gemini"
+     "match": "Anfang März",
+     "text": "Fische"
     },
     {
-     "match": "early July",
-     "text": "Cancer"
+     "match": "Anfang April",
+     "text": "Widder"
     },
     {
-     "match": "late July",
-     "text": "Leo"
+     "match": "Anfang Mai",
+     "text": "Stier"
     },
     {
-     "match": "early September",
-     "text": "Virgo"
+     "match": "Anfang Juni",
+     "text": "Zwillinge"
     },
     {
-     "match": "late September",
-     "text": "Libra"
+     "match": "Anfang Juli",
+     "text": "Krebs"
     },
     {
-     "match": "early November",
-     "text": "Scorpio"
+     "match": "Anfang August",
+     "text": "Löwe"
     },
     {
-     "match": "early December",
-     "text": "Sagittarius"
+     "match": "Anfang September",
+     "text": "Jungfrau"
     },
     {
-     "match": "late December",
-     "text": "Capricorn"
+     "match": "Anfang Oktober",
+     "text": "Waage"
     },
     {
-     "match": "late January",
-     "text": "Aquarius"
+     "match": "Anfang November",
+     "text": "Skorpion"
     },
     {
-     "match": "late February",
-     "text": "Pisces"
+     "match": "Anfang Dezember",
+     "text": "Schütze"
     }
    ],
    "category": "Calendar/Holidays",
    "decoys": [],
    "headers": [
     {
-     "match": "Months",
-     "text": "Zodiac Signs"
+     "match": "Monate",
+     "text": "Sternzeichen"
     }
    ],
    "id": "78060",
    "isValid": "",
-   "prompt": "Match the zodiac sign to the month",
-   "promptHeader": "Zodiac Signs and Months",
-   "us": true,
+   "prompt": "Ordne das Sternzeichen dem Monat zu",
+   "promptHeader": "Sternzeichen und Monate",
+   "us": false,
    "x": false
   },
   {
@@ -1875,63 +1875,63 @@
   {
    "answers": [
     {
-     "match": "Nevada",
-     "text": "Hoover Dam"
+     "match": "Berlin",
+     "text": "Holocaust-Mahnmal"
     },
     {
-     "match": "Virginia",
-     "text": "Mount Vernon"
+     "match": "Schwangau",
+     "text": "Schloss Neuschwanstein"
     },
     {
-     "match": "California",
-     "text": "Alcatraz Island"
+     "match": "Sankt Goarshausen",
+     "text": "Loreley"
     },
     {
-     "match": "Massachusetts",
-     "text": "Faneuil Hall"
+     "match": "München",
+     "text": "Marienplatz"
     },
     {
-     "match": "Wyoming",
-     "text": "Old Faithful Inn"
+     "match": "Dortmund",
+     "text": "Signal Iduna Park"
     },
     {
-     "match": "Vermont",
-     "text": "George Perkins Marsh Boyhood Home"
+     "match": "Düsseldorf",
+     "text": "Königsallee"
     },
     {
-     "match": "Pennsylvania",
-     "text": "Valley Forge"
+     "match": "Essen",
+     "text": "Zeche Zollverein"
     },
     {
-     "match": "Missouri",
-     "text": "Anheuser-Busch Brewery"
+     "match": "Oberhausen",
+     "text": "Gasometer"
     },
     {
-     "match": "Illinois",
-     "text": "Abraham Lincoln Home"
+     "match": "Bremen",
+     "text": "Die Stadtmusikanten"
     },
     {
-     "match": "Washington, D.C.",
-     "text": "Library of Congress"
+     "match": "Hameln",
+     "text": "Rattenfänger"
     },
     {
-     "match": "Kentucky",
-     "text": "Churchill Downs"
+     "match": "Wuppertal",
+     "text": "Schwebebahn"
     }
    ],
    "category": "Geography & Landmarks",
    "decoys": [],
    "headers": [
     {
-     "match": "States",
-     "text": "National Historic Landmarks"
+     "match": "Stadt",
+     "text": "Wahrzeichen"
     }
    ],
    "id": "78265",
    "isValid": "",
-   "prompt": "Match the landmark to its state",
-   "promptHeader": "National Historic Landmarks and Their States",
-   "us": true,
+   "prompt": "Ordne das Wahrzeichen seiner Stadt zu",
+   "promptHeader": "Wahrzeichen und ihre Städte",
+   "us": false,
    "x": false
   },
   {
@@ -1981,77 +1981,77 @@
    "decoys": [],
    "headers": [
     {
-     "match": "Albums",
-     "text": "Artists"
+     "match": "Album",
+     "text": "Künstler"
     }
    ],
    "id": "78270",
    "isValid": "",
-   "prompt": "Match the artist to their debut album",
-   "promptHeader": "Famous Debut Albums",
-   "us": true,
+   "prompt": "Ordne den Künstler seinem Debütalbum zu",
+   "promptHeader": "Berühmte Debütalben",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "The Philippines",
-     "text": "chicken adobo"
+     "match": "Die Phillipinen",
+     "text": "Hühner-Adobo"
     },
     {
-     "match": "Austria",
-     "text": "wiener schnitzel"
+     "match": "Österreich",
+     "text": "Wiener Schnitzel"
     },
     {
-     "match": "Canada",
-     "text": "poutine"
+     "match": "Kanada",
+     "text": "Poutine"
     },
     {
      "match": "China",
-     "text": "Peking duck"
+     "text": "Pekingente"
     },
     {
      "match": "Japan",
-     "text": "sushi"
+     "text": "Sushi"
     },
     {
-     "match": "Italy",
-     "text": "pasta bolognese"
+     "match": "Italien",
+     "text": "Antipasto"
     },
     {
-     "match": "United Kingdom",
-     "text": "fish & chips"
+     "match": "Vereinigtes Königreich",
+     "text": "Fish & Chips"
     },
     {
      "match": "Vietnam",
-     "text": "pho"
+     "text": "Pho"
     },
     {
-     "match": "Mexico",
-     "text": "taco"
+     "match": "Mexiko",
+     "text": "Taco"
     },
     {
-     "match": "Jamaica",
-     "text": "jerk chicken"
+     "match": "Jamaika",
+     "text": "Jerk Chicken"
     },
     {
-     "match": "Poland",
-     "text": "pierogi"
+     "match": "Polen",
+     "text": "Pirogge"
     }
    ],
    "category": "Food & Drink",
    "decoys": [],
    "headers": [
     {
-     "match": "Countries",
-     "text": "National Dishes"
+     "match": "Länder",
+     "text": "Nationalgerichte"
     }
    ],
    "id": "78285",
    "isValid": "",
-   "prompt": "Match the national dish to its country",
-   "promptHeader": "Countries and Their Most Popular National Dishes",
-   "us": true,
+   "prompt": "Orde das Nationalgericht dem entsprechenden Land zu",
+   "promptHeader": "Länder und ihre beliebtesten Nationalgerichte",
+   "us": false,
    "x": false
   },
   {
@@ -2475,51 +2475,51 @@
   {
    "answers": [
     {
-     "match": "general theory of relativity",
+     "match": "Allgemeine Relativitätstheorie",
      "text": "Albert Einstein"
     },
     {
-     "match": "theory of evolution",
+     "match": "Evolutionstheorie",
      "text": "Charles Darwin"
     },
     {
-     "match": "discovered radium and polonium",
+     "match": "Entdeckte Radium und Polonium",
      "text": "Marie Curie"
     },
     {
-     "match": "calculus",
+     "match": "Infinitesimalrechnung",
      "text": "Sir Isaac Newton"
     },
     {
-     "match": "animal classification",
+     "match": "Tierklassifizierung",
      "text": "Carolus Linneaus"
     },
     {
-     "match": "pasteurization",
+     "match": "Pasteurisierung",
      "text": "Louis Pasteur"
     },
     {
-     "match": "polio vaccine",
+     "match": "Polio-Impfstoff",
      "text": "Jonas Salk"
     },
     {
-     "match": "theory of black holes",
+     "match": "Theorie der Schwarzen Löcher",
      "text": "Stephen Hawking"
     },
     {
-     "match": "use of peanuts",
+     "match": "Verwendung von Erdnüssen",
      "text": "George Washington Carver"
     },
     {
-     "match": "invented the telephone",
+     "match": "Hat das Telefon erfunden",
      "text": "Alexander Graham Bell"
     },
     {
-     "match": "use of alternating current",
+     "match": "Verwendung von Wechselstrom",
      "text": "Nikola Tesla"
     },
     {
-     "match": "chimpanzee use of tools",
+     "match": "Gebrauch von Werkzeugen durch Schimpansen",
      "text": "Jane Goodall"
     }
    ],
@@ -2527,107 +2527,107 @@
    "decoys": [],
    "headers": [
     {
-     "match": "Contributions",
-     "text": "Scientists"
+     "match": "Beiträge",
+     "text": "Wissenschaftler"
     }
    ],
    "id": "78394",
    "isValid": "",
-   "prompt": "Match the scientist to their contribution",
-   "promptHeader": "Great Scientists and Their Major Contributions",
-   "us": true,
+   "prompt": "Ordne den Wissenschaftler seinem Beitrag zu",
+   "promptHeader": "Wissenschaftler und ihre Beiträge",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "Tyra Banks",
-     "text": "[i]America's Next Top Model[/i]"
+     "match": "Heidi Klum",
+     "text": "[i]Germany's Next Top Model[/i]"
     },
     {
-     "match": "Padma Lakshmi",
-     "text": "[i]Top Chef[/i]"
+     "match": "Klaas Heufer-Umlauf",
+     "text": "[i]Late Night Berlin[/i]"
     },
     {
-     "match": "Phil Keoghan",
-     "text": "[i]The Amazing Race[/i]"
+     "match": "Barbara Schöneberger",
+     "text": "[i]Verstehen sie Spaß?[/i]"
     },
     {
-     "match": "Jeff Probst",
-     "text": "[i]Survivor[/i]"
+     "match": "Sebastian Pufpaff",
+     "text": "[i]TV Total[/i]"
     },
     {
-     "match": "Julie Chen Moonves",
-     "text": "[i]Big Brother[/i]"
+     "match": "Jochen Schropp",
+     "text": "[i]Promi Big Brother[/i]"
     },
     {
-     "match": "RuPaul",
-     "text": "[i]RuPaul's Drag Race[/i]"
+     "match": "Markus Lanz",
+     "text": "[i]Markus Lanz[/i]"
     },
     {
-     "match": "Dave Navarro",
-     "text": "[i]Ink Master[/i]"
+     "match": "Hugo Egon Balder",
+     "text": "[i]Genial daneben[/i]"
     },
     {
-     "match": "Nicole Byer",
-     "text": "[i]Nailed It![/i]"
+     "match": "Elton",
+     "text": "[i]Schlag den Star[/i]"
     }
    ],
    "category": "Film & TV",
    "decoys": [],
    "headers": [
     {
-     "match": "Hosts",
+     "match": "Moderatoren",
      "text": "Shows"
     }
    ],
    "id": "78409",
    "isValid": "",
-   "prompt": "Match the show to its host",
-   "promptHeader": "Reality TV Hosts",
-   "us": true,
+   "prompt": "Ordne der Fernsehsendung dem Moderator zu",
+   "promptHeader": "Fernsehmoderatoren",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "Life",
-     "text": "red"
+     "match": "Leben",
+     "text": "Rot"
     },
     {
-     "match": "Healing",
-     "text": "orange"
+     "match": "Gesundheit",
+     "text": "Orange"
     },
     {
-     "match": "Sunlight",
-     "text": "yellow"
+     "match": "Sonnenlicht",
+     "text": "Gelb"
     },
     {
-     "match": "Nature",
-     "text": "green"
+     "match": "Natur",
+     "text": "Grün"
     },
     {
-     "match": "Serenity",
-     "text": "indigo"
+     "match": "Harmonie",
+     "text": "Königsblau"
     },
     {
-     "match": "Spirit",
-     "text": "violet"
+     "match": "Geist",
+     "text": "Violett"
     }
    ],
    "category": "Pop Culture",
    "decoys": [],
    "headers": [
     {
-     "match": "Meanings",
-     "text": "Colors"
+     "match": "Bedeutungen",
+     "text": "Farben"
     }
    ],
    "id": "78417",
    "isValid": "",
-   "prompt": "Match the color to its meaning",
-   "promptHeader": "Meanings of Colors on the Rainbow Pride Flag",
-   "us": true,
+   "prompt": "Ordne die Farbe ihrer Bedeutung zu",
+   "promptHeader": "Bedeutung der Farben auf der Regenbogenfahne",
+   "us": false,
    "x": false
   },
   {
@@ -2811,59 +2811,59 @@
   {
    "answers": [
     {
-     "match": "The Doobie Brothers",
-     "text": "“Long Train Runnin’”"
+     "match": "Peter Fox",
+     "text": "“Haus am See”"
     },
     {
-     "match": "Yusuf / Cat Stevens",
-     "text": "“Peace Train”"
+     "match": "Die Fantastischen Vier",
+     "text": "“Die Da!?!”"
     },
     {
-     "match": "Gladys Knight & The Pips",
-     "text": "“Midnight Train to Georgia”"
+     "match": "Andreas Bourani",
+     "text": "“Auf uns”"
     },
     {
-     "match": "Ozzy Osbourne",
-     "text": "“Crazy Train”"
+     "match": "Die Toten Hosen",
+     "text": "“Tage wie diese”"
     },
     {
-     "match": "The O’Jays",
-     "text": "“Love Train”"
+     "match": "Ich + Ich",
+     "text": "“So soll es bleiben”"
     },
     {
-     "match": "Joni Mitchell",
-     "text": "“Just Like This Train”"
+     "match": "Unheilig",
+     "text": "“Geboren um zu leben”"
     },
     {
-     "match": "Bruce Springsteen",
-     "text": "“Downbound Train”"
+     "match": "Glasperlenspiel",
+     "text": "“Geiles Leben”"
     },
     {
-     "match": "Jimi Hendrix",
-     "text": "“Hear My Train A Comin’”"
+     "match": "Die Prinzen",
+     "text": "“Alles nur geklaut”"
     },
     {
-     "match": "Quad City DJ’s",
-     "text": "“C’mon N’ Ride It (The Train)”"
+     "match": "Mark Forster",
+     "text": "“Au Revoir”"
     },
     {
-     "match": "Duke Ellington",
-     "text": "“Take The “A” Train”"
+     "match": "Heino",
+     "text": "“Blau blüht der Enzian”"
     }
    ],
    "category": "Music",
    "decoys": [],
    "headers": [
     {
-     "match": "Artists",
-     "text": "Train Songs"
+     "match": "Künstler",
+     "text": "Songs"
     }
    ],
    "id": "78445",
    "isValid": "",
-   "prompt": "Match the song to its artist",
-   "promptHeader": "Train Songs and Their Artists",
-   "us": true,
+   "prompt": "Ordne den Song dem Künstler zu",
+   "promptHeader": "Songs und ihre Künstler",
+   "us": false,
    "x": false
   },
   {
@@ -3159,31 +3159,31 @@
   {
    "answers": [
     {
-     "match": "United States",
+     "match": "Vereinigte Staaten",
      "text": "Dollar (USD)"
     },
     {
-     "match": "European Union",
+     "match": "Europäische Union",
      "text": "Euro"
     },
     {
-     "match": "Great Britain",
-     "text": "Pound"
+     "match": "Großbritannien",
+     "text": "Pfund"
     },
     {
-     "match": "Switzerland",
-     "text": "Franc"
+     "match": "Schweiz",
+     "text": "Franken"
     },
     {
      "match": "Vietnam",
      "text": "Dong"
     },
     {
-     "match": "Mexico",
+     "match": "Mexiko",
      "text": "Peso"
     },
     {
-     "match": "South Korea",
+     "match": "Südkorea",
      "text": "Won"
     },
     {
@@ -3191,27 +3191,27 @@
      "text": "Yen"
     },
     {
-     "match": "India",
-     "text": "Rupee"
+     "match": "Indien",
+     "text": "Rupie"
     },
     {
-     "match": "Russia",
-     "text": "Ruble"
+     "match": "Russland",
+     "text": "Rubel"
     }
    ],
    "category": "Money",
    "decoys": [],
    "headers": [
     {
-     "match": "Places of Origin",
-     "text": "Currencies"
+     "match": "Herkunftsorte",
+     "text": "Währungen"
     }
    ],
    "id": "78556",
    "isValid": "",
-   "prompt": "Match the currency to its place of origin",
-   "promptHeader": "Tradable Currencies and Where They Are From",
-   "us": true,
+   "prompt": "Ordne die Währung ihrem Herkunftsort zu",
+   "promptHeader": "Währungen und ihre Herkunft",
+   "us": false,
    "x": false
   },
   {
@@ -3338,19 +3338,19 @@
    "answers": [
     {
      "match": "Stockholm",
-     "text": "Sweden"
+     "text": "Schweden"
     },
     {
      "match": "Nairobi",
-     "text": "Kenya"
+     "text": "Kenia"
     },
     {
      "match": "Washington D.C.",
-     "text": "United States"
+     "text": "Vereinigte Staaten"
     },
     {
      "match": "Ottawa",
-     "text": "Canada"
+     "text": "Kanada"
     },
     {
      "match": "Hanoi",
@@ -3362,11 +3362,11 @@
     },
     {
      "match": "Seoul",
-     "text": "South Korea"
+     "text": "Südkorea"
     },
     {
-     "match": "Berlin",
-     "text": "Germany"
+     "match": "Kuala Lumpur",
+     "text": "Malaysia"
     },
     {
      "match": "Lima",
@@ -3378,26 +3378,26 @@
     },
     {
      "match": "Bern",
-     "text": "Switzerland"
+     "text": "Schweiz"
     },
     {
      "match": "Helsinki",
-     "text": "Finland"
+     "text": "Finnland"
     }
    ],
    "category": "Geography & Landmarks",
    "decoys": [],
    "headers": [
     {
-     "match": "Capitals",
-     "text": "Countries"
+     "match": "Hauptstädte",
+     "text": "Länder"
     }
    ],
    "id": "78666",
    "isValid": "",
-   "prompt": "Match the country to its capital",
-   "promptHeader": "Capital Cities of Earth",
-   "us": true,
+   "prompt": "Ordne dem Land seine Hauptstadt zu",
+   "promptHeader": "Hauptstädte der Erde",
+   "us": false,
    "x": false
   },
   {
@@ -3473,20 +3473,20 @@
      "text": "China"
     },
     {
-     "match": "Deutschland",
-     "text": "Germany"
+     "match": "Lietuva",
+     "text": "Litauen"
     },
     {
      "match": "Ityop’ia",
-     "text": "Ethiopia"
+     "text": "Äthiopien"
     },
     {
      "match": "Hellas",
-     "text": "Greece"
+     "text": "Griechenland"
     },
     {
      "match": "Éire",
-     "text": "Ireland"
+     "text": "Irland"
     },
     {
      "match": "Nippon",
@@ -3494,15 +3494,15 @@
     },
     {
      "match": "Polska",
-     "text": "Poland"
+     "text": "Polen"
     },
     {
      "match": "España",
-     "text": "Spain"
+     "text": "Spanien"
     },
     {
      "match": "Magyarország",
-     "text": "Hungary"
+     "text": "Ungarn"
     },
     {
      "match": "Yisra’el",
@@ -3510,26 +3510,26 @@
     },
     {
      "match": "al-Mamlakah al-Arabiyyah al-Sa’udiyyah",
-     "text": "Saudi Arabia"
+     "text": "Saudi-Arabien"
     },
     {
      "match": "Suisse",
-     "text": "Switzerland"
+     "text": "Schweiz"
     }
    ],
    "category": "Geography & Landmarks",
    "decoys": [],
    "headers": [
     {
-     "match": "Local Names",
-     "text": "English Names"
+     "match": "Lokale Namen",
+     "text": "Deutsche Namen"
     }
    ],
    "id": "78678",
    "isValid": "",
-   "prompt": "Match the country's English name to its local name",
-   "promptHeader": "What Countries Are Called in Their Native Tongues",
-   "us": true,
+   "prompt": "Ordnen den deutschen Namen des Landes dem lokalen Namen zu",
+   "promptHeader": "Wie die Länder in ihren Muttersprachen heißen",
+   "us": false,
    "x": false
   },
   {
@@ -3602,58 +3602,58 @@
    "answers": [
     {
      "match": "Johannes Gutenberg",
-     "text": "printing press"
+     "text": "Druckerpresse"
     },
     {
      "match": "Alexander Graham Bell",
-     "text": "telephone"
+     "text": "Telefon"
     },
     {
      "match": "Thomas Edison",
-     "text": "lightbulb"
+     "text": "die Glühbirne"
     },
     {
      "match": "Wilbur & Orville Wright",
-     "text": "airplane"
+     "text": "Flugzeug"
     },
     {
-     "match": "John Montagu, the 4th Earl of Sandwich",
-     "text": "sandwich"
+     "match": "John Montagu, der vierte Earl of Sandwich",
+     "text": "Sandwich"
     },
     {
      "match": "Ada Lovelace",
-     "text": "computer algorithms"
+     "text": "Computeralgorithmen"
     },
     {
      "match": "Tabitha Babbitt",
-     "text": "circular saw"
+     "text": "Kreissäge"
     },
     {
      "match": "Eli Whitney",
-     "text": "cotton gin"
+     "text": "Baumwoll-Entkörnungsmaschine"
     },
     {
      "match": "Roy Jacuzzi",
-     "text": "jacuzzi"
+     "text": "Jacuzzi"
     },
     {
-     "match": "some smartypants in 3500 B.C.",
-     "text": "the wheel (aka, the boring, ordinary kind)"
+     "match": "irgendein Schlaukopf im Jahr 3500 v. Chr.",
+     "text": "Das Rad (das normale, langweilige)"
     }
    ],
    "category": "Technology",
    "decoys": [],
    "headers": [
     {
-     "match": "Inventors",
-     "text": "Inventions"
+     "match": "Erfinder",
+     "text": "Erfindungen"
     }
    ],
    "id": "78702",
    "isValid": "",
-   "prompt": "Match the invention to the inventor",
-   "promptHeader": "Inventions and Inventors",
-   "us": true,
+   "prompt": "Ordne die Erfindung dem Erfinder zu",
+   "promptHeader": "Erfindungen und deren Erfinder",
+   "us": false,
    "x": false
   },
   {
@@ -3850,58 +3850,58 @@
    "answers": [
     {
      "match": "Je t'aime",
-     "text": "French"
+     "text": "Französisch"
     },
     {
      "match": "Ti amo",
-     "text": "Italian"
+     "text": "Italienisch"
     },
     {
      "match": "Aishiteru",
-     "text": "Japanese"
+     "text": "Japanisch"
     },
     {
      "match": "Aloha wau ia ’oe",
-     "text": "Hawaiian"
+     "text": "Hawaiisch"
     },
     {
      "match": "Te Amo",
-     "text": "Spanish"
+     "text": "Spanisch"
     },
     {
      "match": "Jeg elsker dig",
-     "text": "Danish"
+     "text": "Dänisch"
     },
     {
      "match": "Sarang hae",
-     "text": "Korean"
+     "text": "Koreanisch"
     },
     {
      "match": "Te Lubesc",
-     "text": "Romanian"
+     "text": "Rumänisch"
     },
     {
      "match": "Naku penda",
-     "text": "Swahili"
+     "text": "Suaheli"
     },
     {
      "match": "Kocham cie",
-     "text": "Polish"
+     "text": "Polnisch"
     }
    ],
    "category": "Language/Words/Grammar",
    "decoys": [],
    "headers": [
     {
-     "match": "I Love You Phrases",
-     "text": "Languages"
+     "match": "Ich liebe dich Sätze",
+     "text": "Sprachen"
     }
    ],
    "id": "78752",
    "isValid": "",
-   "prompt": "Match the language to the phrase",
-   "promptHeader": "I Love You! Say It Back",
-   "us": true,
+   "prompt": "Ordne die Sprache dem Satz zu",
+   "promptHeader": "Ich liebe dich! Ich hoffe, du mich auch",
+   "us": false,
    "x": false
   },
   {
@@ -4663,15 +4663,15 @@
    "decoys": [],
    "headers": [
     {
-     "match": "Original Names",
-     "text": "Companies"
+     "match": "Ursprüngliche Namen",
+     "text": "Unternehmen"
     }
    ],
    "id": "79501",
    "isValid": "",
-   "prompt": "Match the company to its original moniker",
-   "promptHeader": "Seriously Rebranded Company Names",
-   "us": true,
+   "prompt": "Ordne dem Unternehmen ihren ursprünglichen Namen zu",
+   "promptHeader": "Ernsthaft umbenannte Firmennamen",
+   "us": false,
    "x": false
   },
   {
@@ -6179,67 +6179,67 @@
   {
    "answers": [
     {
-     "match": "“moo”",
-     "text": "cow"
+     "match": "“muh”",
+     "text": "Kuh"
     },
     {
-     "match": "“baa”",
-     "text": "sheep"
+     "match": "“määh”",
+     "text": "Schaf"
     },
     {
-     "match": "“meow”",
-     "text": "cat"
+     "match": "“miau”",
+     "text": "Katze"
     },
     {
-     "match": "“woof”",
-     "text": "dog"
+     "match": "“wuff”",
+     "text": "Hund"
     },
     {
-     "match": "“neigh”",
-     "text": "horse"
+     "match": "“wühaahahh”",
+     "text": "Pferd"
     },
     {
      "match": "“oink”",
-     "text": "pig"
+     "text": "Schwein"
     },
     {
-     "match": "“cock-a-doodle-doo“",
-     "text": "rooster"
+     "match": "“ssssss“",
+     "text": "Biene"
     },
     {
      "match": "“quack-quack”",
-     "text": "duck"
+     "text": "Ente"
     },
     {
-     "match": "“hoo-hoo”",
-     "text": "owl"
+     "match": "“hu-huu”",
+     "text": "Eule"
     },
     {
-     "match": "“ribbit”",
-     "text": "frog"
+     "match": "“rabbub”",
+     "text": "Frosch"
     },
     {
-     "match": "“hee-haw”",
-     "text": "donkey"
+     "match": "“iih-aah”",
+     "text": "Esel"
     },
     {
-     "match": "“gobble-gobble”",
-     "text": "turkey"
+     "match": "“trööööt”",
+     "text": "Elefant"
     }
    ],
    "category": "Animals",
    "decoys": [],
    "headers": [
     {
-     "match": "Sounds",
-     "text": "Animals"
+     "match": "Geräusche",
+     "text": "Tiere"
     }
    ],
    "id": "81279",
    "isValid": "",
-   "prompt": "Match the animal to the sound the English-speaking world thinks they make",
-   "promptHeader": "Animals and Their Sounds",
-   "us": true,
+   "prompt": "Ordne das Tier dem Geräusch zu, das die deutschsprachige Welt für richtig hält",
+   "promptHeader": "Tiere und ihre Geräusche",
+   "us": false,
    "x": false
   },
   {
