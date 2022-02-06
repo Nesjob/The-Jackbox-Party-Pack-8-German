@@ -3162,70 +3162,73 @@
   {
    "answers": [
     {
-     "text": "Greta Garbo"
+     "text": "[i]Ist doch kein Wunder[/i]"
     },
     {
-     "text": "Marilyn Monroe"
+     "text": "[i]Achterbahn[/i]"
     },
     {
-     "text": "Marlene Dietrich"
+     "text": "[i]Atemlos durch die Nacht[/i]"
     },
     {
-     "text": "Joe DiMaggio"
+     "text": "[i]Das Karussel in meinem Bauch[/i]"
     },
     {
-     "text": "Marlon Brando"
+     "text": "[i]Ein kleines Glück[/i]"
     },
     {
-     "text": "Jimmy Dean"
+     "text": "[i]Feuerwerk[/i]"
     },
     {
-     "text": "Grace Kelly"
+     "text": "[i]Herzbeben[/i]"
     },
     {
-     "text": "Jean Harlow"
+     "text": "[i]Lieb mich dann[/i]"
     },
     {
-     "text": "Fred Astaire"
+     "text": "[i]Mitten im Paradies[/i]"
     },
     {
-     "text": "Rita Hayworth"
-    },
-    {
-     "text": "Lauren Bacall"
-    },
-    {
-     "text": "Katharine Hepburn"
-    },
-    {
-     "text": "Bette Davis"
+     "text": "[i]Sehnsucht[/i]"
     }
    ],
    "category": "Music",
    "decoys": [
     {
-     "text": "Orson Welles"
+     "text": "[i]Heimweh[/i]"
     },
     {
-     "text": "Dorothy Dandridge"
+     "text": "[i]Federleicht[/i]"
     },
     {
-     "text": "Paula Abdul"
+     "text": "[i]Jetzt erst Recht[/i]"
     },
     {
-     "text": "Babe Ruth"
+     "text": "[i]Mein Herz[/i]"
     },
     {
-     "text": "Madonna herself"
+     "text": "[i]Zum ersten Mal im siebten Himmel[/i]"
     },
     {
-     "text": "Mae West"
+     "text": "[i]Geliebt, gelacht, geweint[/i]"
+    },
+    {
+     "text": "[i]100.000 Wunder[/i]"
+    },
+    {
+     "text": "[i]Der Urknall unserer Liebe[/i]"
+    },
+    {
+     "text": "[i]Ohne dich[/i]"
+    },
+    {
+     "text": "[i]Du hast[/i]"
     }
    ],
    "id": "77355",
    "isValid": "",
-   "prompt": "Which famous people are mentioned in Madonna’s “Vogue”?",
-   "us": true,
+   "prompt": "Welche dieser Songs stammen von Helene Fischer?",
+   "us": false,
    "x": false
   },
   {
@@ -3895,12 +3898,18 @@
     },
     {
      "text": "Gram Parsons"
+    },
+    {
+     "text": "Robbie Williams"
+    },
+    {
+     "text": "Frank Sinatra"
     }
    ],
    "id": "77673",
    "isValid": "",
-   "prompt": "Who are the past and present members of The Rolling Stones?",
-   "us": true,
+   "prompt": "Wer sind ehemalige und aktuelle Mitglieder der Rolling Stones?",
+   "us": false,
    "x": false
   },
   {
@@ -4167,55 +4176,61 @@
   {
    "answers": [
     {
-     "text": "antlers"
+     "text": "Fernsehgerät"
     },
     {
-     "text": "sand"
+     "text": "Sand"
     },
     {
-     "text": "waffle iron"
+     "text": "Waffeleisen"
     },
     {
-     "text": "bocce balls"
+     "text": "Lockenstab"
     },
     {
-     "text": "artificial skeletal bones"
+     "text": "Ananas"
     },
     {
-     "text": "vacuum robots"
+     "text": "Staubsaugerroboter"
     },
     {
-     "text": "bicycle chains"
+     "text": "Zielfernrohr"
     },
     {
-     "text": "cowboy spurs"
+     "text": "Durian"
     }
    ],
    "category": "Factoids",
    "decoys": [
     {
-     "text": "ammunition"
+     "text": "Munition"
     },
     {
-     "text": "bear spray"
+     "text": "Armbrust"
     },
     {
-     "text": "pool cues"
+     "text": "Brecheisen"
     },
     {
-     "text": "party poppers"
+     "text": "Konfetti-Kanone"
     },
     {
-     "text": "foam toy sword"
+     "text": "[i]Nerf[/i]-Spielzeugblaster"
     },
     {
-     "text": "fertilizer"
+     "text": "Rasierklingen"
+    },
+    {
+     "text": "Schraubendreher"
+    },
+    {
+     "text": "Tierabwehrspray"
     }
    ],
    "id": "77683",
    "isValid": "",
-   "prompt": "Which of these items will U.S. airports allow in your carry-on bag?",
-   "us": true,
+   "prompt": "Welche dieser Gegenstände könnte man in einem europäischen Flughafen als Handgepäck mitführen?",
+   "us": false,
    "x": false
   },
   {
@@ -4473,22 +4488,22 @@
   {
    "answers": [
     {
-     "text": "Ursa Major"
+     "text": "Großer Bär"
     },
     {
      "text": "Pegasus"
     },
     {
-     "text": "Ursa Minor"
+     "text": "Kleiner Bär"
     },
     {
-     "text": "Cassiopeia"
+     "text": "Kassiopeia"
     },
     {
-     "text": "Taurus"
+     "text": "Stier"
     },
     {
-     "text": "Cancer"
+     "text": "Krebs"
     },
     {
      "text": "Perseus"
@@ -4497,31 +4512,37 @@
      "text": "Orion"
     },
     {
-     "text": "Lyra"
+     "text": "Leier"
     },
     {
      "text": "Andromeda"
+    },
+    {
+     "text": "Luftpumpe"
     }
    ],
    "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "Colossus"
+     "text": "Colossos"
     },
     {
-     "text": "Pendulum"
+     "text": "Geier"
     },
     {
      "text": "Polaroid"
     },
     {
-     "text": "David Duchovny"
+     "text": "Kleines Rad"
+    },
+    {
+     "text": "Schiff"
     }
    ],
    "id": "77795",
    "isValid": "",
-   "prompt": "Which of these are actual constellations?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um echte Sternenbilder?",
+   "us": false,
    "x": false
   },
   {
@@ -4734,25 +4755,28 @@
   {
    "answers": [
     {
-     "text": "The Minotaur"
+     "text": "Minotaurus"
     },
     {
-     "text": "Hecatoncheires"
+     "text": "Hekatoncheiren"
     },
     {
-     "text": "The Gorgons"
+     "text": "Gorgonen"
     },
     {
-     "text": "Cerberus"
+     "text": "Kerberos"
     },
     {
-     "text": "Hephaestus"
+     "text": "Hephaistos"
     },
     {
      "text": "Perseus"
     },
     {
-     "text": "Tartarus"
+     "text": "Tartaros"
+    },
+    {
+     "text": "Ares"
     }
    ],
    "category": "History",
@@ -4767,115 +4791,121 @@
      "text": "Anubis"
     },
     {
-     "text": "Uraeus"
+     "text": "Uräus"
     },
     {
      "text": "Minerva"
+    },
+    {
+     "text": "Neptun"
     }
    ],
    "id": "77824",
    "isValid": "",
-   "prompt": "Which of these are figures of Greek mythology?",
-   "us": true,
+   "prompt": "Welche dieser Figuren entstammen der griechischen Mythologie?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "borage"
+     "text": "Borretsch"
     },
     {
-     "text": "hibiscus"
+     "text": "Hibiskus"
     },
     {
-     "text": "lavender"
+     "text": "Lavendel"
     },
     {
-     "text": "roses"
+     "text": "Rosen"
     },
     {
-     "text": "pansies"
+     "text": "Stiefmütterchen"
     },
     {
-     "text": "marigold"
+     "text": "Ringelblume"
     },
     {
-     "text": "honeysuckle"
+     "text": "Geißblatt"
     },
     {
-     "text": "squash blossom"
+     "text": "Kürbisblüte"
     }
    ],
    "category": "Food & Drink",
    "decoys": [
     {
-     "text": "yumbloom"
+     "text": "Schmeckerblume"
     },
     {
-     "text": "fleur de lis"
+     "text": "Liebiskus"
     },
     {
-     "text": "creamsuckle"
+     "text": "Saugblüte"
     },
     {
-     "text": "salami rose"
+     "text": "Schädelrose"
     }
    ],
    "id": "77858",
    "isValid": "",
-   "prompt": "Which of these are real, edible flowers?",
-   "us": true,
+   "prompt": "Welche dieser essbaren Blumen existieren wirklich?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Mel Gibson"
+     "text": "Christopher Lee"
     },
     {
-     "text": "Kenneth Brannagh"
+     "text": "Roger Moore"
     },
     {
-     "text": "Ethan Hawke"
+     "text": "Robert Downey Jr."
     },
     {
      "text": "Benedict Cumberbatch"
     },
     {
-     "text": "Iain Glen"
+     "text": "John Cleese"
     },
     {
-     "text": "David Tennant"
+     "text": "Wassili Liwanow"
     },
     {
-     "text": "Ian McKellen"
-    },
-    {
-     "text": "Adam Sandler"
+     "text": "Jonny Lee Miller"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "Marlon Brando"
+     "text": "Robin Williams"
     },
     {
-     "text": "Tilda Swinton"
+     "text": "Daniel Craig"
     },
     {
-     "text": "Patrick Stewart"
+     "text": "Hugh Grant"
     },
     {
-     "text": "Jack Nicholson"
+     "text": "Rowan Atkinson"
     },
     {
-     "text": "Idris Elba"
+     "text": "Neil Dudgeon"
+    },
+    {
+     "text": "John Hannah"
+    },
+    {
+     "text": "Ben Kingsley"
     }
    ],
    "id": "77924",
    "isValid": "",
-   "prompt": "Which actors have portrayed Hamlet on film or TV?",
-   "us": true,
+   "prompt": "Welche dieser Schauspieler spielten schonmal Sherlock Holmes?",
+   "us": false,
    "x": false
   },
   {
@@ -4986,28 +5016,28 @@
      "text": "Rohan"
     },
     {
-     "text": "Mirkwood"
+     "text": "Düsterwald"
     },
     {
-     "text": "Haradwaith (Sutherland)"
+     "text": "Haradwaith (Südgebiete)"
     },
     {
-     "text": "The Shire"
+     "text": "Auenland"
     },
     {
-     "text": "The Misty Mountains"
+     "text": "Hithlum (Nebelland)"
     }
    ],
    "category": "Literature",
    "decoys": [
     {
-     "text": "The Shuddering Wood"
+     "text": "Schauderndes Dickicht"
     },
     {
      "text": "Hodor"
     },
     {
-     "text": "Trogdor"
+     "text": "Trogdor (Schattenreich)"
     },
     {
      "text": "Mandalore"
@@ -5018,8 +5048,8 @@
    ],
    "id": "77946",
    "isValid": "",
-   "prompt": "What are the countries and regions of Middle Earth?",
-   "us": true,
+   "prompt": "Wie heißen die Regionen und Orte in Mittelerde, bekannt unter anderem aus J. R. R. Tolkiens [i]Der Herr der Ringe[/i]?",
+   "us": false,
    "x": false
   },
   {
