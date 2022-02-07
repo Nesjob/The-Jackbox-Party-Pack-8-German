@@ -5232,121 +5232,118 @@
   {
    "answers": [
     {
-     "text": "hoagie"
+     "text": "Haselnüsse"
     },
     {
-     "text": "grinder"
+     "text": "Erdnüsse"
     },
     {
-     "text": "po' boy"
+     "text": "Cheddar"
     },
     {
-     "text": "blimpie"
+     "text": "Butter"
     },
     {
-     "text": "hero"
-    },
-    {
-     "text": "wedge"
-    },
-    {
-     "text": "spuckie"
-    },
-    {
-     "text": "zeppelin"
-    },
-    {
-     "text": "dagwood"
-    },
-    {
-     "text": "bomber"
-    },
-    {
-     "text": "torpedo"
+     "text": "Croissant"
     }
    ],
    "category": "Food & Drink",
    "decoys": [
     {
-     "text": "kaftan"
+     "text": "Kartoffeln"
     },
     {
-     "text": "crusher"
+     "text": "Feta"
     },
     {
-     "text": "papa"
+     "text": "Camembert"
     },
     {
-     "text": "greaser"
+     "text": "Eiernudeln"
+    },
+    {
+     "text": "Wassermelone"
+    },
+    {
+     "text": "Salami (Schwein)"
+    },
+    {
+     "text": "Ei (Gekocht)"
+    },
+    {
+     "text": "Brot"
+    },
+    {
+     "text": "Wasser"
     }
    ],
    "id": "78043",
    "isValid": "",
-   "prompt": "What are real names for sub sandwiches?",
-   "us": true,
+   "prompt": "Welche dieser Lebensmittel haben mehr Kalorien als Haferflocken?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "“Steal My Sunshine”"
+     "text": "“Time To Say Goodbye”"
     },
     {
-     "text": "“Torn”"
+     "text": "“Wind Of Change”"
     },
     {
      "text": "“Barbie Girl”"
     },
     {
-     "text": "“Return of the Mack”"
+     "text": "“My Heart Will Go On”"
     },
     {
-     "text": "“Jump Around”"
-    },
-    {
-     "text": "“Closing Time”"
-    },
-    {
-     "text": "“What Is Love”"
-    },
-    {
-     "text": "“No Rain”"
-    },
-    {
-     "text": "“What’s Up”"
-    },
-    {
-     "text": "“Whoomp (There It Is)”"
+     "text": "“Verdammt, Ich Lieb' Dich”"
     },
     {
      "text": "“Mambo No. 5”"
+    },
+    {
+     "text": "“It's My Life”"
+    },
+    {
+     "text": "“Nothing Else Matters”"
+    },
+    {
+     "text": "“Ein Schwein Namens Männer”"
+    },
+    {
+     "text": "“Maschen-Draht-Zaun”"
+    },
+    {
+     "text": "“Killing Me Softly”"
     }
    ],
    "category": "Music",
    "decoys": [
     {
-     "text": "“The Real Slim Shady”"
+     "text": "“Nur Geträumt”"
     },
     {
      "text": "“Jessie's Girl”"
     },
     {
-     "text": "“Country Grammar”"
+     "text": "“Super Trouper”"
     },
     {
-     "text": "“Take on Me”"
+     "text": "“99 Luftballons”"
     },
     {
-     "text": "“My Prerogative”"
+     "text": "“Standing In The Rain”"
     },
     {
-     "text": "“Like a Prayer”"
+     "text": "“Whenever, Wherever”"
     }
    ],
    "id": "78048",
    "isValid": "",
-   "prompt": "Which songs are hits from the 1990s?",
-   "us": true,
+   "prompt": "Welche dieser Lieder sind Hits aus den Neunzigern?",
+   "us": false,
    "x": false
   },
   {
@@ -5402,104 +5399,128 @@
    ],
    "id": "78050",
    "isValid": "",
-   "prompt": "Which of these are Beatles albums?",
-   "us": true,
+   "prompt": "Welches sind [i]Beatles[/i]-Alben?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "ice skating"
+     "text": "Malta"
     },
     {
-     "text": "hoverboarding"
+     "text": "Finnland"
     },
     {
-     "text": "scootering"
+     "text": "Spanien"
     },
     {
-     "text": "riding segway"
+     "text": "Slowakei"
     },
     {
-     "text": "skateboarding"
+     "text": "Estland"
     },
     {
-     "text": "soccer"
+     "text": "Litauen"
     },
     {
-     "text": "sledding"
+     "text": "Österreich"
     },
     {
-     "text": "bull riding"
+     "text": "Tschechien"
+    },
+    {
+     "text": "Kroatien"
+    },
+    {
+    "text": "Schweden"
+    },
+    {
+     "text": "Slowenien"
     }
    ],
    "category": "Sports",
    "decoys": [
     {
-     "text": "arcade"
+     "text": "Frankreich"
     },
     {
-     "text": "jousting"
+     "text": "Irland"
     },
     {
-     "text": "frisbee golf"
+     "text": "Deutschland"
     },
     {
-     "text": "cliff diving"
+     "text": "Dänemark"
+    },
+    {
+     "text": "Norwegen"
+    },
+    {
+     "text": "Italien"
+    },
+    {
+     "text": "Polen"
+    },
+    {
+     "text": "Belgien"
+    },
+    {
+     "text": "Niederlande"
     }
    ],
    "id": "78051",
    "isValid": "",
-   "prompt": "For which activities is a helmet recommended according to the Consumer Product Safety Commission?",
-   "us": true,
+   "prompt": "In welchen dieser europäischen Länder gilt eine Fahrrad-Helmpflicht für Kinder?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "isosceles"
+     "text": "Gleichseitiges"
     },
     {
-     "text": "equilateral"
+     "text": "Gleichschenkliges"
     },
     {
-     "text": "scalene"
+     "text": "Unregelmäßiges"
     },
     {
-     "text": "obtuse"
+     "text": "Spitzwinkliges"
     },
     {
-     "text": "acute"
+     "text": "Rechtwinkliges"
     },
     {
-     "text": "right"
+     "text": "Stumpfwinkliges"
     }
    ],
    "category": "Math",
    "decoys": [
     {
-     "text": "French"
+     "text": "Geradwinkliges"
     },
     {
-     "text": "unilateral"
+     "text": "Robustes"
     },
     {
-     "text": "mezzanine"
+     "text": "Gleichmäßiges"
     },
     {
-     "text": "robust"
+     "text": "Verkantetes"
     },
     {
-     "text": "squiggly"
+     "text": "Verschnörkeltes"
     },
     {
-     "text": "left"
+     "text": "Linkswinkliges"
     }
    ],
    "id": "78052",
    "isValid": "",
-   "prompt": "Which of these are types of triangles?",
-   "us": true,
+   "prompt": "Welches sind Arten von Dreiecken?",
+   "us": false,
    "x": false
   },
   {
@@ -5559,25 +5580,25 @@
   {
    "answers": [
     {
-     "text": "[i]Monsters, Inc.[/i]"
+     "text": "[i]Die Monster AG[/i]"
     },
     {
-     "text": "[i]Coco[/i]"
+     "text": "[i]Coco - Lebendiger als das Leben![/i]"
     },
     {
      "text": "[i]Toy Story[/i]"
     },
     {
-     "text": "[i]Wall-E[/i]"
+     "text": "[i]Wall-E - Der Letzte räumt die Erde auf[/i]"
     },
     {
-     "text": "[i]The Incredibles[/i]"
+     "text": "[i]Die Unglaublichen[/i]"
     },
     {
-     "text": "[i]Finding Nemo[/i]"
+     "text": "[i]Findet Nemo[/i]"
     },
     {
-     "text": "[i]A Bug's Life[/i]"
+     "text": "[i]Das große Krabbeln[/i]"
     },
     {
      "text": "[i]Soul[/i]"
@@ -5589,13 +5610,13 @@
      "text": "[i]The Boss Baby[/i]"
     },
     {
-     "text": "[i]How to Train Your Dragon[/i]"
+     "text": "[i]Drachenzähmen leicht gemacht[/i]"
     },
     {
      "text": "[i]Madagascar[/i]"
     },
     {
-     "text": "[i]Shrek[/i]"
+     "text": "[i]Shrek - Der tollkühne Held[/i]"
     },
     {
      "text": "[i]Kung Fu Panda[/i]"
@@ -5606,8 +5627,8 @@
    ],
    "id": "78056",
    "isValid": "",
-   "prompt": "Which of these are Pixar films?",
-   "us": true,
+   "prompt": "Welche dieser Filme stammen von [i]Pixar[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -5685,151 +5706,169 @@
   {
    "answers": [
     {
-     "text": "pinto"
+     "text": "Wachtel-"
     },
     {
-     "text": "black"
+     "text": "Schwarze"
     },
     {
-     "text": "garbanzo"
+     "text": "Garbanzo-"
     },
     {
-     "text": "lima"
+     "text": "Lima-"
     },
     {
-     "text": "kidney"
+     "text": "Kidney-"
     },
     {
-     "text": "red"
+     "text": "Adzuki-"
     },
     {
-     "text": "navy"
+     "text": "Weiße"
     }
    ],
    "category": "Food & Drink",
    "decoys": [
     {
-     "text": "quinto"
+     "text": "Quinto-"
     },
     {
-     "text": "liver"
+     "text": "Spleen-"
     },
     {
-     "text": "quinoa"
+     "text": "Quinoa"
     },
     {
-     "text": "ziti"
+     "text": "Zito-"
     },
     {
-     "text": "barley"
+     "text": "Gersten-"
     }
    ],
    "id": "78061",
    "isValid": "",
-   "prompt": "Which of these are actual varieties of beans?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um echte Bohnen-Sorten?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "The Beatles"
+     "text": "Ideal"
     },
     {
-     "text": "The Yardbirds"
+     "text": "Der Plan"
     },
     {
-     "text": "The Zombies"
+     "text": "Trio"
     },
     {
-     "text": "The Who"
+     "text": "Extrabreit"
     },
     {
-     "text": "The Rolling Stones"
+     "text": "Spider Murphy Gang"
     },
     {
-     "text": "The Kinks"
+     "text": "Rheingold"
     },
     {
-     "text": "The Animals"
+     "text": "Nichts"
     },
     {
-     "text": "Herman’s Hermits"
+     "text": "Jawoll"
     },
     {
-     "text": "The Hollies"
+     "text": "Geier Sturzflug"
+    },
+    {
+     "text": "Mythen in Tüten"
     }
    ],
    "category": "Music",
    "decoys": [
     {
-     "text": "The Lovin' Spoonful"
+     "text": "Heisses Eisen"
     },
     {
-     "text": "The Doors"
+     "text": "Resterampe"
     },
     {
-     "text": "Jefferson Airplane"
+     "text": "Familie 17"
     },
     {
-     "text": "Beach Boys"
+     "text": "Feuerherz"
     },
     {
      "text": "The Police"
+    },
+    {
+     "text": "Neonrentner"
     }
    ],
    "id": "78064",
    "isValid": "",
-   "prompt": "Which bands were part of the British Invasion?",
-   "us": true,
+   "prompt": "Welche dieser Bands waren Teil der [i]neuen Deutschen Welle[/i]?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Illinois"
+     "text": "Koblenz"
     },
     {
-     "text": "Missouri"
+     "text": "Weimar"
     },
     {
-     "text": "Massachusetts"
+     "text": "Karlsruhe"
     },
     {
-     "text": "Oregon"
+     "text": "Halle"
     },
     {
-     "text": "Florida"
+     "text": "Frankfurt"
     },
     {
-     "text": "Maine"
+     "text": "Bremen"
     },
     {
-     "text": "Kentucky"
+     "text": "Heidelberg"
     },
     {
-     "text": "Louisiana"
+     "text": "Bergen"
     }
    ],
    "category": "Geography & Landmarks",
    "decoys": [
     {
-     "text": "Arizona"
+     "text": "Braunschweig"
     },
     {
-     "text": "Hawaii"
+     "text": "Stuttgart"
     },
     {
-     "text": "Iowa"
+     "text": "Hamburg"
     },
     {
-     "text": "Wyoming"
+     "text": "Mittenwald"
+    },
+    {
+     "text": "Leipzig"
+    },
+    {
+     "text": "Saarbrücken"
+    },
+    {
+     "text": "Potsdam"
+    },
+    {
+     "text": "Trier"
     }
    ],
    "id": "78091",
    "isValid": "",
-   "prompt": "Which of these U.S. states has a Springfield?",
-   "us": true,
+   "prompt": "Welche dieser Städtenamen gibt es mehrmals in Deutschland?",
+   "us": false,
    "x": false
   },
   {
