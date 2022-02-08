@@ -4653,40 +4653,40 @@
   {
    "answers": [
     {
-     "text": "urinary meatus"
+     "text": "Harnröhrenöffnung"
     },
     {
-     "text": "nipple orifice"
+     "text": "Brustwarzenöffnung"
     },
     {
-     "text": "nostril"
+     "text": "Nasenloch"
     },
     {
-     "text": "mouth"
+     "text": "Mund"
     },
     {
-     "text": "ear canal"
+     "text": "Gehörgänge"
     },
     {
-     "text": "nasolacrimal duct"
+     "text": "Nasen-Tränenkanal"
     },
     {
-     "text": "sweat gland orifice"
+     "text": "Hautporen"
     }
    ],
    "category": "Anatomy",
    "decoys": [
     {
-     "text": "cloaca"
+     "text": "Kloake"
     },
     {
-     "text": "siphon orifice"
+     "text": "Siphonöffnung"
     },
     {
-     "text": "ureter"
+     "text": "Harnleiter"
     },
     {
-     "text": "perenium"
+     "text": "Perineum"
     },
     {
      "text": "Uranus"
@@ -4694,8 +4694,8 @@
    ],
    "id": "77822",
    "isValid": "",
-   "prompt": "Which of these are considered to be human orifices? (aka, holes in your bod)",
-   "us": true,
+   "prompt": "Wobei handelt es sich um menschliche Körperöffnungen?",
+   "us": false,
    "x": true
   },
   {
@@ -5904,61 +5904,61 @@
      "text": "[i]Australopithecus Rex[/i]"
     },
     {
-     "text": "[i]Homo not quite erectus[/i]"
+     "text": "[i]Homo Erektilesdysfunktionalis[/i]"
     },
     {
      "text": "[i]Homo ferengi[/i]"
     },
     {
-     "text": "[i]Homo sapiens superior[/i]"
+     "text": "[i]Homo Homini Brutus[/i]"
     }
    ],
    "id": "78093",
    "isValid": "",
-   "prompt": "Which of these are early hominids that came before [i]Homo sapiens[/i]?",
-   "us": true,
+   "prompt": "Welche dieser Gattungen des Menschenaffen kamen vor dem [i]Homo sapiens[/i]?",
+   "us": false,
    "x": true
   },
   {
    "answers": [
     {
-     "text": "Lake Superior"
+     "text": "Oberer See"
     },
     {
-     "text": "Lake Michigan"
+     "text": "Michigansee"
     },
     {
-     "text": "Lake Victoria"
+     "text": "Victoriasee"
     },
     {
-     "text": "Lake Malawi"
+     "text": "Malawisee"
     },
     {
-     "text": "Lake Titicaca"
+     "text": "Titicacasee"
     },
     {
-     "text": "Lake Baikal"
+     "text": "Baikalsee"
     },
     {
-     "text": "Wular Lake"
+     "text": "Wular See"
     },
     {
      "text": "Lake Champlain"
+    },
+    {
+     "text": "Bodensee"
     }
    ],
    "category": "Geography & Landmarks",
    "decoys": [
     {
-     "text": "The Great Salt Lake"
+     "text": "Großer Salzsee"
     },
     {
-     "text": "Lake Pontchartrain"
+     "text": "Pontchartrain-See"
     },
     {
-     "text": "Lake Shelton"
-    },
-    {
-     "text": "Lake Bell"
+     "text": "Sheltonsee"
     },
     {
      "text": "Lake Bumbunga"
@@ -5966,8 +5966,8 @@
    ],
    "id": "78158",
    "isValid": "",
-   "prompt": "Which of these are freshwater lakes of the world?",
-   "us": true,
+   "prompt": "Welche dieser Seen bestehen aus Süßwasser?",
+   "us": false,
    "x": false
   },
   {
@@ -6030,76 +6030,79 @@
      "text": "Venus"
     },
     {
-     "text": "The Moon"
+     "text": "Mond"
     },
     {
      "text": "Jupiter"
     },
     {
-     "text": "The Large & Small Magellanic Clouds"
+     "text": "Große & Kleine Magellansche Wolken"
     },
     {
-     "text": "Andromeda"
+     "text": "Andromedanebel"
     },
     {
-     "text": "The Orion Nebula"
+     "text": "Orionnebel"
     },
     {
-     "text": "Triangulum Galaxy"
+     "text": "Dreiecksnebel"
     },
     {
-     "text": "Polaris"
+     "text": "Polarstern"
+    },
+    {
+     "text": "Merkur"
     }
    ],
    "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "The Sombrero Galaxy"
+     "text": "Sombrerogalaxie"
     },
     {
      "text": "Pluto"
     },
     {
-     "text": "The Oort Cloud"
+     "text": "Oortsche Wolke"
     },
     {
-     "text": "The Ring Nebula"
+     "text": "Ringnebel"
+    },
+    {
+     "text": "HUDF.YD3"
     }
    ],
    "id": "78160",
    "isValid": "",
-   "prompt": "Which of these celestial objects can you see with the naked eye under dark sky conditions?",
-   "us": true,
+   "prompt": "Welche dieser Himmelskörper kann man bei dunklem Himmel mit bloßem Auge sehen?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "[i]All's Well That Ends Well[/i]"
+     "text": "[i]Ende gut, alles gut[/i]"
     },
     {
-     "text": "[i]The Merchant of Venice[/i]"
+     "text": "[i]Der Kaufmann von Venedig[/i]"
     },
     {
-     "text": "[i]King Lear[/i]"
+     "text": "[i]König Lear[/i]"
     },
     {
      "text": "[i]Richard III[/i]"
     },
     {
-     "text": "[i]Antony and Cleopatra[/i]"
+     "text": "[i]Antonius und Cleopatra[/i]"
     },
     {
-     "text": "[i]A Midsummer Night's Dream[/i]"
+     "text": "[i]Ein Sommernachtstraum[/i]"
     },
     {
-     "text": "[i]Measure for Measure[/i]"
+     "text": "[i]Maß für Maß[/i]"
     },
     {
-     "text": "[i]Henry VI, Part 1[/i]"
-    },
-    {
-     "text": "[i]Henry VI, Part 3[/i]"
+     "text": "[i]Henry VI[/i]"
     },
     {
      "text": "[i]Othello[/i]"
@@ -6109,180 +6112,192 @@
     },
     {
      "text": "[i]Julius Caesar[/i]"
+    },
+    {
+     "text": "[i]Romeo und Julia[/i]"
     }
    ],
    "category": "Theatre/Performing Arts",
    "decoys": [
     {
-     "text": "[i]The Temptress[/i]"
+     "text": "[i]Totentanz der Liebe[/i]"
     },
     {
      "text": "[i]Henry III[/i]"
     },
     {
-     "text": "[i]Oedipus Rex[/i]"
+     "text": "[i]König Ödipus[/i]"
     },
     {
-     "text": "[i]Much to Think About Nothing[/i]"
+     "text": "[i]Die Welt ist nicht genug[/i]"
     },
     {
-     "text": "[i]The World Is Not Enough[/i]"
+     "text": "[i]Abenteuer mit Timon & Pumbaa[/i]"
     },
     {
-     "text": "[i]Timon & Pumbaa[/i]"
+     "text": "[i]Der Prinz von Ägypten[/i]"
     }
    ],
    "id": "78161",
    "isValid": "",
-   "prompt": "Which of these are actual Shakespeare plays?",
-   "us": true,
+   "prompt": "Welche davon sind echte Shakespeare-Stücke?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "gamma rays"
+     "text": "Gammastrahlen"
     },
     {
-     "text": "x-rays"
+     "text": "Röntgenstrahlen"
     },
     {
-     "text": "ultraviolet rays"
+     "text": "UV-Strahlen"
     },
     {
-     "text": "visible light"
+     "text": "Licht"
     },
     {
-     "text": "infrared rays"
+     "text": "Infrarotstrahlung"
     },
     {
-     "text": "microwaves"
+     "text": "Mikrowellen"
     },
     {
-     "text": "radio waves"
+     "text": "Radiowellen"
+    },
+    {
+     "text": "Terahertzstrahlung"
     }
    ],
    "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "gravity"
+     "text": "Gravitation"
     },
     {
-     "text": "weak force"
+     "text": "Schwache Wechselwirkung"
     },
     {
-     "text": "sound waves"
+     "text": "Schallwellen"
     },
     {
-     "text": "matter/antimatter"
+     "text": "Materie/Antimaterie"
     },
     {
-     "text": "manta rays"
+     "text": "Branchiostegalstrahlen"
+    },
+    {
+     "text": "Traktorstrahl"
     }
    ],
    "id": "78163",
    "isValid": "",
-   "prompt": "What are the different ranges of the electromagnetic spectrum?",
-   "us": true,
+   "prompt": "Welches sind Bereiche des elektromagnetischen Spektrums?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "knight"
+     "text": "Läufer"
     },
     {
-     "text": "pawn"
+     "text": "König"
     },
     {
-     "text": "rook"
+     "text": "Bauer"
     },
     {
-     "text": "bishop"
+     "text": "Turm"
     },
     {
-     "text": "king"
+     "text": "Dame"
     },
     {
-     "text": "queen"
+     "text": "Springer"
     }
    ],
    "category": "Games",
    "decoys": [
     {
-     "text": "duke"
+     "text": "Herzog"
     },
     {
-     "text": "horse"
+     "text": "Pferd"
     },
     {
-     "text": "prawn"
+     "text": "Krabbe"
     },
     {
-     "text": "night"
+     "text": "Ritter"
     },
     {
-     "text": "knave"
+     "text": "Knabe"
     },
     {
-     "text": "rookie"
+     "text": "Grünschnabel"
     }
    ],
    "id": "78243",
    "isValid": "",
-   "prompt": "Which of these are the correct names for chess pieces?",
-   "us": true,
+   "prompt": "Welches sind die korrekten Namen für Schachfiguren?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "endocrine system"
+     "text": "Hormonsystem"
     },
     {
-     "text": "respiratory system"
+     "text": "Atemtrakt"
     },
     {
-     "text": "cardiovascular system"
+     "text": "Herz-Kreislauf-System"
     },
     {
-     "text": "musculoskeletal system"
+     "text": "Bewegungsapparat"
     },
     {
-     "text": "lymphatic system"
+     "text": "Lymphatisches System"
     },
     {
-     "text": "digestive system"
+     "text": "Verdauungstrakt"
     },
     {
-     "text": "urinary system"
+     "text": "Harnsystem"
     },
     {
-     "text": "reproductive system"
+     "text": "Geschlechtssystem"
     },
     {
-     "text": "nervous system"
+     "text": "Nervensystem"
     },
     {
-     "text": "integumentary system"
+     "text": "Haut"
     }
    ],
    "category": "Anatomy",
    "decoys": [
     {
-     "text": "sensory-perception system"
+     "text": "sensorisches Wahrnehmungssystem"
     },
     {
-     "text": "immune system"
+     "text": "Stoffwechselsystem"
     },
     {
-     "text": "metabolic system"
+     "text": "Citratzyklus"
+    },
+    {
+     "text": "Komplementärsystem"
     }
    ],
    "id": "78264",
    "isValid": "",
-   "prompt": "Which of these are human organ systems?",
-   "us": true,
+   "prompt": "Welches davon sind menschliche Organsysteme?",
+   "us": false,
    "x": false
   },
   {
@@ -6390,64 +6405,64 @@
   {
    "answers": [
     {
-     "text": "basil"
+     "text": "Basilikum"
     },
     {
-     "text": "bay leaf"
+     "text": "Lorbeerblatt"
     },
     {
-     "text": "cilantro"
+     "text": "Koriander"
     },
     {
-     "text": "dill"
+     "text": "Dill"
     },
     {
-     "text": "lemongrass"
+     "text": "Zitronengras"
     },
     {
-     "text": "marjoram"
+     "text": "Majoran"
     },
     {
-     "text": "oregano"
+     "text": "Oregano"
     },
     {
-     "text": "parsley"
+     "text": "Petersilie"
     },
     {
-     "text": "rosemary"
+     "text": "Rosmarin"
     },
     {
-     "text": "sage"
+     "text": "Salbei"
     },
     {
-     "text": "thyme"
+     "text": "Thymian"
     },
     {
-     "text": "chives"
+     "text": "Schnittlauch"
     }
    ],
    "category": "Food & Drink",
    "decoys": [
     {
-     "text": "cinnamon"
+     "text": "Zimt"
     },
     {
-     "text": "garlic"
+     "text": "Knoblauch"
     },
     {
-     "text": "chili powder"
+     "text": "Chilipulver"
     },
     {
-     "text": "tobacco"
+     "text": "Tabak"
     },
     {
-     "text": "hemlock"
+     "text": "Schierling"
     }
    ],
    "id": "78288",
    "isValid": "",
-   "prompt": "Which of these are culinary herbs?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um Küchenkräuter?",
+   "us": false,
    "x": false
   },
   {
