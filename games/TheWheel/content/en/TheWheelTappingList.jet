@@ -1926,7 +1926,7 @@
      "text": "Q"
     },
     {
-     "text": "″"
+     "text": "Ü"
     }
    ],
    "id": "76827",
@@ -3162,70 +3162,73 @@
   {
    "answers": [
     {
-     "text": "Greta Garbo"
+     "text": "[i]Ist doch kein Wunder[/i]"
     },
     {
-     "text": "Marilyn Monroe"
+     "text": "[i]Achterbahn[/i]"
     },
     {
-     "text": "Marlene Dietrich"
+     "text": "[i]Atemlos durch die Nacht[/i]"
     },
     {
-     "text": "Joe DiMaggio"
+     "text": "[i]Das Karussel in meinem Bauch[/i]"
     },
     {
-     "text": "Marlon Brando"
+     "text": "[i]Ein kleines Glück[/i]"
     },
     {
-     "text": "Jimmy Dean"
+     "text": "[i]Feuerwerk[/i]"
     },
     {
-     "text": "Grace Kelly"
+     "text": "[i]Herzbeben[/i]"
     },
     {
-     "text": "Jean Harlow"
+     "text": "[i]Lieb mich dann[/i]"
     },
     {
-     "text": "Fred Astaire"
+     "text": "[i]Mitten im Paradies[/i]"
     },
     {
-     "text": "Rita Hayworth"
-    },
-    {
-     "text": "Lauren Bacall"
-    },
-    {
-     "text": "Katharine Hepburn"
-    },
-    {
-     "text": "Bette Davis"
+     "text": "[i]Sehnsucht[/i]"
     }
    ],
    "category": "Music",
    "decoys": [
     {
-     "text": "Orson Welles"
+     "text": "[i]Heimweh[/i]"
     },
     {
-     "text": "Dorothy Dandridge"
+     "text": "[i]Federleicht[/i]"
     },
     {
-     "text": "Paula Abdul"
+     "text": "[i]Jetzt erst Recht[/i]"
     },
     {
-     "text": "Babe Ruth"
+     "text": "[i]Mein Herz[/i]"
     },
     {
-     "text": "Madonna herself"
+     "text": "[i]Zum ersten Mal im siebten Himmel[/i]"
     },
     {
-     "text": "Mae West"
+     "text": "[i]Geliebt, gelacht, geweint[/i]"
+    },
+    {
+     "text": "[i]100.000 Wunder[/i]"
+    },
+    {
+     "text": "[i]Der Urknall unserer Liebe[/i]"
+    },
+    {
+     "text": "[i]Ohne dich[/i]"
+    },
+    {
+     "text": "[i]Du hast[/i]"
     }
    ],
    "id": "77355",
    "isValid": "",
-   "prompt": "Which famous people are mentioned in Madonna’s “Vogue”?",
-   "us": true,
+   "prompt": "Welche dieser Songs stammen von Helene Fischer?",
+   "us": false,
    "x": false
   },
   {
@@ -3895,12 +3898,18 @@
     },
     {
      "text": "Gram Parsons"
+    },
+    {
+     "text": "Robbie Williams"
+    },
+    {
+     "text": "Frank Sinatra"
     }
    ],
    "id": "77673",
    "isValid": "",
-   "prompt": "Who are the past and present members of The Rolling Stones?",
-   "us": true,
+   "prompt": "Wer sind ehemalige und aktuelle Mitglieder der Rolling Stones?",
+   "us": false,
    "x": false
   },
   {
@@ -4167,55 +4176,61 @@
   {
    "answers": [
     {
-     "text": "antlers"
+     "text": "Fernsehgerät"
     },
     {
-     "text": "sand"
+     "text": "Sand"
     },
     {
-     "text": "waffle iron"
+     "text": "Waffeleisen"
     },
     {
-     "text": "bocce balls"
+     "text": "Lockenstab"
     },
     {
-     "text": "artificial skeletal bones"
+     "text": "Ananas"
     },
     {
-     "text": "vacuum robots"
+     "text": "Staubsaugerroboter"
     },
     {
-     "text": "bicycle chains"
+     "text": "Zielfernrohr"
     },
     {
-     "text": "cowboy spurs"
+     "text": "Durian"
     }
    ],
    "category": "Factoids",
    "decoys": [
     {
-     "text": "ammunition"
+     "text": "Munition"
     },
     {
-     "text": "bear spray"
+     "text": "Armbrust"
     },
     {
-     "text": "pool cues"
+     "text": "Brecheisen"
     },
     {
-     "text": "party poppers"
+     "text": "Konfetti-Kanone"
     },
     {
-     "text": "foam toy sword"
+     "text": "[i]Nerf[/i]-Spielzeugblaster"
     },
     {
-     "text": "fertilizer"
+     "text": "Rasierklingen"
+    },
+    {
+     "text": "Schraubendreher"
+    },
+    {
+     "text": "Tierabwehrspray"
     }
    ],
    "id": "77683",
    "isValid": "",
-   "prompt": "Which of these items will U.S. airports allow in your carry-on bag?",
-   "us": true,
+   "prompt": "Welche dieser Gegenstände könnte man in einem europäischen Flughafen als Handgepäck mitführen?",
+   "us": false,
    "x": false
   },
   {
@@ -4473,22 +4488,22 @@
   {
    "answers": [
     {
-     "text": "Ursa Major"
+     "text": "Großer Bär"
     },
     {
      "text": "Pegasus"
     },
     {
-     "text": "Ursa Minor"
+     "text": "Kleiner Bär"
     },
     {
-     "text": "Cassiopeia"
+     "text": "Kassiopeia"
     },
     {
-     "text": "Taurus"
+     "text": "Stier"
     },
     {
-     "text": "Cancer"
+     "text": "Krebs"
     },
     {
      "text": "Perseus"
@@ -4497,31 +4512,37 @@
      "text": "Orion"
     },
     {
-     "text": "Lyra"
+     "text": "Leier"
     },
     {
      "text": "Andromeda"
+    },
+    {
+     "text": "Luftpumpe"
     }
    ],
    "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "Colossus"
+     "text": "Colossos"
     },
     {
-     "text": "Pendulum"
+     "text": "Geier"
     },
     {
      "text": "Polaroid"
     },
     {
-     "text": "David Duchovny"
+     "text": "Kleines Rad"
+    },
+    {
+     "text": "Schiff"
     }
    ],
    "id": "77795",
    "isValid": "",
-   "prompt": "Which of these are actual constellations?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um echte Sternenbilder?",
+   "us": false,
    "x": false
   },
   {
@@ -4632,40 +4653,40 @@
   {
    "answers": [
     {
-     "text": "urinary meatus"
+     "text": "Harnröhrenöffnung"
     },
     {
-     "text": "nipple orifice"
+     "text": "Brustwarzenöffnung"
     },
     {
-     "text": "nostril"
+     "text": "Nasenloch"
     },
     {
-     "text": "mouth"
+     "text": "Mund"
     },
     {
-     "text": "ear canal"
+     "text": "Gehörgänge"
     },
     {
-     "text": "nasolacrimal duct"
+     "text": "Nasen-Tränenkanal"
     },
     {
-     "text": "sweat gland orifice"
+     "text": "Hautporen"
     }
    ],
    "category": "Anatomy",
    "decoys": [
     {
-     "text": "cloaca"
+     "text": "Kloake"
     },
     {
-     "text": "siphon orifice"
+     "text": "Siphonöffnung"
     },
     {
-     "text": "ureter"
+     "text": "Harnleiter"
     },
     {
-     "text": "perenium"
+     "text": "Perineum"
     },
     {
      "text": "Uranus"
@@ -4673,8 +4694,8 @@
    ],
    "id": "77822",
    "isValid": "",
-   "prompt": "Which of these are considered to be human orifices? (aka, holes in your bod)",
-   "us": true,
+   "prompt": "Wobei handelt es sich um menschliche Körperöffnungen?",
+   "us": false,
    "x": true
   },
   {
@@ -4734,25 +4755,28 @@
   {
    "answers": [
     {
-     "text": "The Minotaur"
+     "text": "Minotaurus"
     },
     {
-     "text": "Hecatoncheires"
+     "text": "Hekatoncheiren"
     },
     {
-     "text": "The Gorgons"
+     "text": "Gorgonen"
     },
     {
-     "text": "Cerberus"
+     "text": "Kerberos"
     },
     {
-     "text": "Hephaestus"
+     "text": "Hephaistos"
     },
     {
      "text": "Perseus"
     },
     {
-     "text": "Tartarus"
+     "text": "Tartaros"
+    },
+    {
+     "text": "Ares"
     }
    ],
    "category": "History",
@@ -4767,115 +4791,121 @@
      "text": "Anubis"
     },
     {
-     "text": "Uraeus"
+     "text": "Uräus"
     },
     {
      "text": "Minerva"
+    },
+    {
+     "text": "Neptun"
     }
    ],
    "id": "77824",
    "isValid": "",
-   "prompt": "Which of these are figures of Greek mythology?",
-   "us": true,
+   "prompt": "Welche dieser Figuren entstammen der griechischen Mythologie?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "borage"
+     "text": "Borretsch"
     },
     {
-     "text": "hibiscus"
+     "text": "Hibiskus"
     },
     {
-     "text": "lavender"
+     "text": "Lavendel"
     },
     {
-     "text": "roses"
+     "text": "Rosen"
     },
     {
-     "text": "pansies"
+     "text": "Stiefmütterchen"
     },
     {
-     "text": "marigold"
+     "text": "Ringelblume"
     },
     {
-     "text": "honeysuckle"
+     "text": "Geißblatt"
     },
     {
-     "text": "squash blossom"
+     "text": "Kürbisblüte"
     }
    ],
    "category": "Food & Drink",
    "decoys": [
     {
-     "text": "yumbloom"
+     "text": "Schmeckerblume"
     },
     {
-     "text": "fleur de lis"
+     "text": "Liebiskus"
     },
     {
-     "text": "creamsuckle"
+     "text": "Saugblüte"
     },
     {
-     "text": "salami rose"
+     "text": "Schädelrose"
     }
    ],
    "id": "77858",
    "isValid": "",
-   "prompt": "Which of these are real, edible flowers?",
-   "us": true,
+   "prompt": "Welche dieser essbaren Blumen existieren wirklich?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Mel Gibson"
+     "text": "Christopher Lee"
     },
     {
-     "text": "Kenneth Brannagh"
+     "text": "Roger Moore"
     },
     {
-     "text": "Ethan Hawke"
+     "text": "Robert Downey Jr."
     },
     {
      "text": "Benedict Cumberbatch"
     },
     {
-     "text": "Iain Glen"
+     "text": "John Cleese"
     },
     {
-     "text": "David Tennant"
+     "text": "Wassili Liwanow"
     },
     {
-     "text": "Ian McKellen"
-    },
-    {
-     "text": "Adam Sandler"
+     "text": "Jonny Lee Miller"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "Marlon Brando"
+     "text": "Robin Williams"
     },
     {
-     "text": "Tilda Swinton"
+     "text": "Daniel Craig"
     },
     {
-     "text": "Patrick Stewart"
+     "text": "Hugh Grant"
     },
     {
-     "text": "Jack Nicholson"
+     "text": "Rowan Atkinson"
     },
     {
-     "text": "Idris Elba"
+     "text": "Neil Dudgeon"
+    },
+    {
+     "text": "John Hannah"
+    },
+    {
+     "text": "Ben Kingsley"
     }
    ],
    "id": "77924",
    "isValid": "",
-   "prompt": "Which actors have portrayed Hamlet on film or TV?",
-   "us": true,
+   "prompt": "Welche dieser Schauspieler spielten schonmal Sherlock Holmes?",
+   "us": false,
    "x": false
   },
   {
@@ -4986,28 +5016,28 @@
      "text": "Rohan"
     },
     {
-     "text": "Mirkwood"
+     "text": "Düsterwald"
     },
     {
-     "text": "Haradwaith (Sutherland)"
+     "text": "Haradwaith (Südgebiete)"
     },
     {
-     "text": "The Shire"
+     "text": "Auenland"
     },
     {
-     "text": "The Misty Mountains"
+     "text": "Hithlum (Nebelland)"
     }
    ],
    "category": "Literature",
    "decoys": [
     {
-     "text": "The Shuddering Wood"
+     "text": "Schauderndes Dickicht"
     },
     {
      "text": "Hodor"
     },
     {
-     "text": "Trogdor"
+     "text": "Trogdor (Schattenreich)"
     },
     {
      "text": "Mandalore"
@@ -5018,8 +5048,8 @@
    ],
    "id": "77946",
    "isValid": "",
-   "prompt": "What are the countries and regions of Middle Earth?",
-   "us": true,
+   "prompt": "Wie heißen die Regionen und Orte in Mittelerde, bekannt unter anderem aus J. R. R. Tolkiens [i]Der Herr der Ringe[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -5202,121 +5232,118 @@
   {
    "answers": [
     {
-     "text": "hoagie"
+     "text": "Haselnüsse"
     },
     {
-     "text": "grinder"
+     "text": "Erdnüsse"
     },
     {
-     "text": "po' boy"
+     "text": "Cheddar"
     },
     {
-     "text": "blimpie"
+     "text": "Butter"
     },
     {
-     "text": "hero"
-    },
-    {
-     "text": "wedge"
-    },
-    {
-     "text": "spuckie"
-    },
-    {
-     "text": "zeppelin"
-    },
-    {
-     "text": "dagwood"
-    },
-    {
-     "text": "bomber"
-    },
-    {
-     "text": "torpedo"
+     "text": "Croissant"
     }
    ],
    "category": "Food & Drink",
    "decoys": [
     {
-     "text": "kaftan"
+     "text": "Kartoffeln"
     },
     {
-     "text": "crusher"
+     "text": "Feta"
     },
     {
-     "text": "papa"
+     "text": "Camembert"
     },
     {
-     "text": "greaser"
+     "text": "Eiernudeln"
+    },
+    {
+     "text": "Wassermelone"
+    },
+    {
+     "text": "Salami (Schwein)"
+    },
+    {
+     "text": "Ei (Gekocht)"
+    },
+    {
+     "text": "Brot"
+    },
+    {
+     "text": "Wasser"
     }
    ],
    "id": "78043",
    "isValid": "",
-   "prompt": "What are real names for sub sandwiches?",
-   "us": true,
+   "prompt": "Welche dieser Lebensmittel haben mehr Kalorien als Haferflocken?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "“Steal My Sunshine”"
+     "text": "“Time To Say Goodbye”"
     },
     {
-     "text": "“Torn”"
+     "text": "“Wind Of Change”"
     },
     {
      "text": "“Barbie Girl”"
     },
     {
-     "text": "“Return of the Mack”"
+     "text": "“My Heart Will Go On”"
     },
     {
-     "text": "“Jump Around”"
-    },
-    {
-     "text": "“Closing Time”"
-    },
-    {
-     "text": "“What Is Love”"
-    },
-    {
-     "text": "“No Rain”"
-    },
-    {
-     "text": "“What’s Up”"
-    },
-    {
-     "text": "“Whoomp (There It Is)”"
+     "text": "“Verdammt, Ich Lieb' Dich”"
     },
     {
      "text": "“Mambo No. 5”"
+    },
+    {
+     "text": "“It's My Life”"
+    },
+    {
+     "text": "“Nothing Else Matters”"
+    },
+    {
+     "text": "“Ein Schwein Namens Männer”"
+    },
+    {
+     "text": "“Maschen-Draht-Zaun”"
+    },
+    {
+     "text": "“Killing Me Softly”"
     }
    ],
    "category": "Music",
    "decoys": [
     {
-     "text": "“The Real Slim Shady”"
+     "text": "“Nur Geträumt”"
     },
     {
      "text": "“Jessie's Girl”"
     },
     {
-     "text": "“Country Grammar”"
+     "text": "“Super Trouper”"
     },
     {
-     "text": "“Take on Me”"
+     "text": "“99 Luftballons”"
     },
     {
-     "text": "“My Prerogative”"
+     "text": "“Standing In The Rain”"
     },
     {
-     "text": "“Like a Prayer”"
+     "text": "“Whenever, Wherever”"
     }
    ],
    "id": "78048",
    "isValid": "",
-   "prompt": "Which songs are hits from the 1990s?",
-   "us": true,
+   "prompt": "Welche dieser Lieder sind Hits aus den Neunzigern?",
+   "us": false,
    "x": false
   },
   {
@@ -5372,104 +5399,128 @@
    ],
    "id": "78050",
    "isValid": "",
-   "prompt": "Which of these are Beatles albums?",
-   "us": true,
+   "prompt": "Welches sind [i]Beatles[/i]-Alben?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "ice skating"
+     "text": "Malta"
     },
     {
-     "text": "hoverboarding"
+     "text": "Finnland"
     },
     {
-     "text": "scootering"
+     "text": "Spanien"
     },
     {
-     "text": "riding segway"
+     "text": "Slowakei"
     },
     {
-     "text": "skateboarding"
+     "text": "Estland"
     },
     {
-     "text": "soccer"
+     "text": "Litauen"
     },
     {
-     "text": "sledding"
+     "text": "Österreich"
     },
     {
-     "text": "bull riding"
+     "text": "Tschechien"
+    },
+    {
+     "text": "Kroatien"
+    },
+    {
+    "text": "Schweden"
+    },
+    {
+     "text": "Slowenien"
     }
    ],
    "category": "Sports",
    "decoys": [
     {
-     "text": "arcade"
+     "text": "Frankreich"
     },
     {
-     "text": "jousting"
+     "text": "Irland"
     },
     {
-     "text": "frisbee golf"
+     "text": "Deutschland"
     },
     {
-     "text": "cliff diving"
+     "text": "Dänemark"
+    },
+    {
+     "text": "Norwegen"
+    },
+    {
+     "text": "Italien"
+    },
+    {
+     "text": "Polen"
+    },
+    {
+     "text": "Belgien"
+    },
+    {
+     "text": "Niederlande"
     }
    ],
    "id": "78051",
    "isValid": "",
-   "prompt": "For which activities is a helmet recommended according to the Consumer Product Safety Commission?",
-   "us": true,
+   "prompt": "In welchen dieser europäischen Länder gilt eine Fahrrad-Helmpflicht für Kinder?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "isosceles"
+     "text": "Gleichseitiges"
     },
     {
-     "text": "equilateral"
+     "text": "Gleichschenkliges"
     },
     {
-     "text": "scalene"
+     "text": "Unregelmäßiges"
     },
     {
-     "text": "obtuse"
+     "text": "Spitzwinkliges"
     },
     {
-     "text": "acute"
+     "text": "Rechtwinkliges"
     },
     {
-     "text": "right"
+     "text": "Stumpfwinkliges"
     }
    ],
    "category": "Math",
    "decoys": [
     {
-     "text": "French"
+     "text": "Geradwinkliges"
     },
     {
-     "text": "unilateral"
+     "text": "Robustes"
     },
     {
-     "text": "mezzanine"
+     "text": "Gleichmäßiges"
     },
     {
-     "text": "robust"
+     "text": "Verkantetes"
     },
     {
-     "text": "squiggly"
+     "text": "Verschnörkeltes"
     },
     {
-     "text": "left"
+     "text": "Linkswinkliges"
     }
    ],
    "id": "78052",
    "isValid": "",
-   "prompt": "Which of these are types of triangles?",
-   "us": true,
+   "prompt": "Welches sind Arten von Dreiecken?",
+   "us": false,
    "x": false
   },
   {
@@ -5529,25 +5580,25 @@
   {
    "answers": [
     {
-     "text": "[i]Monsters, Inc.[/i]"
+     "text": "[i]Die Monster AG[/i]"
     },
     {
-     "text": "[i]Coco[/i]"
+     "text": "[i]Coco - Lebendiger als das Leben![/i]"
     },
     {
      "text": "[i]Toy Story[/i]"
     },
     {
-     "text": "[i]Wall-E[/i]"
+     "text": "[i]Wall-E - Der Letzte räumt die Erde auf[/i]"
     },
     {
-     "text": "[i]The Incredibles[/i]"
+     "text": "[i]Die Unglaublichen[/i]"
     },
     {
-     "text": "[i]Finding Nemo[/i]"
+     "text": "[i]Findet Nemo[/i]"
     },
     {
-     "text": "[i]A Bug's Life[/i]"
+     "text": "[i]Das große Krabbeln[/i]"
     },
     {
      "text": "[i]Soul[/i]"
@@ -5559,13 +5610,13 @@
      "text": "[i]The Boss Baby[/i]"
     },
     {
-     "text": "[i]How to Train Your Dragon[/i]"
+     "text": "[i]Drachenzähmen leicht gemacht[/i]"
     },
     {
      "text": "[i]Madagascar[/i]"
     },
     {
-     "text": "[i]Shrek[/i]"
+     "text": "[i]Shrek - Der tollkühne Held[/i]"
     },
     {
      "text": "[i]Kung Fu Panda[/i]"
@@ -5576,8 +5627,8 @@
    ],
    "id": "78056",
    "isValid": "",
-   "prompt": "Which of these are Pixar films?",
-   "us": true,
+   "prompt": "Welche dieser Filme stammen von [i]Pixar[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -5655,151 +5706,169 @@
   {
    "answers": [
     {
-     "text": "pinto"
+     "text": "Wachtel-"
     },
     {
-     "text": "black"
+     "text": "Schwarze"
     },
     {
-     "text": "garbanzo"
+     "text": "Garbanzo-"
     },
     {
-     "text": "lima"
+     "text": "Lima-"
     },
     {
-     "text": "kidney"
+     "text": "Kidney-"
     },
     {
-     "text": "red"
+     "text": "Adzuki-"
     },
     {
-     "text": "navy"
+     "text": "Weiße"
     }
    ],
    "category": "Food & Drink",
    "decoys": [
     {
-     "text": "quinto"
+     "text": "Quinto-"
     },
     {
-     "text": "liver"
+     "text": "Spleen-"
     },
     {
-     "text": "quinoa"
+     "text": "Quinoa"
     },
     {
-     "text": "ziti"
+     "text": "Zito-"
     },
     {
-     "text": "barley"
+     "text": "Gersten-"
     }
    ],
    "id": "78061",
    "isValid": "",
-   "prompt": "Which of these are actual varieties of beans?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um echte Bohnen-Sorten?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "The Beatles"
+     "text": "Ideal"
     },
     {
-     "text": "The Yardbirds"
+     "text": "Der Plan"
     },
     {
-     "text": "The Zombies"
+     "text": "Trio"
     },
     {
-     "text": "The Who"
+     "text": "Extrabreit"
     },
     {
-     "text": "The Rolling Stones"
+     "text": "Spider Murphy Gang"
     },
     {
-     "text": "The Kinks"
+     "text": "Rheingold"
     },
     {
-     "text": "The Animals"
+     "text": "Nichts"
     },
     {
-     "text": "Herman’s Hermits"
+     "text": "Jawoll"
     },
     {
-     "text": "The Hollies"
+     "text": "Geier Sturzflug"
+    },
+    {
+     "text": "Mythen in Tüten"
     }
    ],
    "category": "Music",
    "decoys": [
     {
-     "text": "The Lovin' Spoonful"
+     "text": "Heisses Eisen"
     },
     {
-     "text": "The Doors"
+     "text": "Resterampe"
     },
     {
-     "text": "Jefferson Airplane"
+     "text": "Familie 17"
     },
     {
-     "text": "Beach Boys"
+     "text": "Feuerherz"
     },
     {
      "text": "The Police"
+    },
+    {
+     "text": "Neonrentner"
     }
    ],
    "id": "78064",
    "isValid": "",
-   "prompt": "Which bands were part of the British Invasion?",
-   "us": true,
+   "prompt": "Welche dieser Bands waren Teil der [i]neuen Deutschen Welle[/i]?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Illinois"
+     "text": "Koblenz"
     },
     {
-     "text": "Missouri"
+     "text": "Weimar"
     },
     {
-     "text": "Massachusetts"
+     "text": "Karlsruhe"
     },
     {
-     "text": "Oregon"
+     "text": "Halle"
     },
     {
-     "text": "Florida"
+     "text": "Frankfurt"
     },
     {
-     "text": "Maine"
+     "text": "Bremen"
     },
     {
-     "text": "Kentucky"
+     "text": "Heidelberg"
     },
     {
-     "text": "Louisiana"
+     "text": "Bergen"
     }
    ],
    "category": "Geography & Landmarks",
    "decoys": [
     {
-     "text": "Arizona"
+     "text": "Braunschweig"
     },
     {
-     "text": "Hawaii"
+     "text": "Stuttgart"
     },
     {
-     "text": "Iowa"
+     "text": "Hamburg"
     },
     {
-     "text": "Wyoming"
+     "text": "Mittenwald"
+    },
+    {
+     "text": "Leipzig"
+    },
+    {
+     "text": "Saarbrücken"
+    },
+    {
+     "text": "Potsdam"
+    },
+    {
+     "text": "Trier"
     }
    ],
    "id": "78091",
    "isValid": "",
-   "prompt": "Which of these U.S. states has a Springfield?",
-   "us": true,
+   "prompt": "Welche dieser Städtenamen gibt es mehrmals in Deutschland?",
+   "us": false,
    "x": false
   },
   {
@@ -5835,61 +5904,61 @@
      "text": "[i]Australopithecus Rex[/i]"
     },
     {
-     "text": "[i]Homo not quite erectus[/i]"
+     "text": "[i]Homo Erektilesdysfunktionalis[/i]"
     },
     {
      "text": "[i]Homo ferengi[/i]"
     },
     {
-     "text": "[i]Homo sapiens superior[/i]"
+     "text": "[i]Homo Homini Brutus[/i]"
     }
    ],
    "id": "78093",
    "isValid": "",
-   "prompt": "Which of these are early hominids that came before [i]Homo sapiens[/i]?",
-   "us": true,
+   "prompt": "Welche dieser Gattungen des Menschenaffen kamen vor dem [i]Homo sapiens[/i]?",
+   "us": false,
    "x": true
   },
   {
    "answers": [
     {
-     "text": "Lake Superior"
+     "text": "Oberer See"
     },
     {
-     "text": "Lake Michigan"
+     "text": "Michigansee"
     },
     {
-     "text": "Lake Victoria"
+     "text": "Victoriasee"
     },
     {
-     "text": "Lake Malawi"
+     "text": "Malawisee"
     },
     {
-     "text": "Lake Titicaca"
+     "text": "Titicacasee"
     },
     {
-     "text": "Lake Baikal"
+     "text": "Baikalsee"
     },
     {
-     "text": "Wular Lake"
+     "text": "Wular See"
     },
     {
      "text": "Lake Champlain"
+    },
+    {
+     "text": "Bodensee"
     }
    ],
    "category": "Geography & Landmarks",
    "decoys": [
     {
-     "text": "The Great Salt Lake"
+     "text": "Großer Salzsee"
     },
     {
-     "text": "Lake Pontchartrain"
+     "text": "Pontchartrain-See"
     },
     {
-     "text": "Lake Shelton"
-    },
-    {
-     "text": "Lake Bell"
+     "text": "Sheltonsee"
     },
     {
      "text": "Lake Bumbunga"
@@ -5897,8 +5966,8 @@
    ],
    "id": "78158",
    "isValid": "",
-   "prompt": "Which of these are freshwater lakes of the world?",
-   "us": true,
+   "prompt": "Welche dieser Seen bestehen aus Süßwasser?",
+   "us": false,
    "x": false
   },
   {
@@ -5961,76 +6030,79 @@
      "text": "Venus"
     },
     {
-     "text": "The Moon"
+     "text": "Mond"
     },
     {
      "text": "Jupiter"
     },
     {
-     "text": "The Large & Small Magellanic Clouds"
+     "text": "Große & Kleine Magellansche Wolken"
     },
     {
-     "text": "Andromeda"
+     "text": "Andromedanebel"
     },
     {
-     "text": "The Orion Nebula"
+     "text": "Orionnebel"
     },
     {
-     "text": "Triangulum Galaxy"
+     "text": "Dreiecksnebel"
     },
     {
-     "text": "Polaris"
+     "text": "Polarstern"
+    },
+    {
+     "text": "Merkur"
     }
    ],
    "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "The Sombrero Galaxy"
+     "text": "Sombrerogalaxie"
     },
     {
      "text": "Pluto"
     },
     {
-     "text": "The Oort Cloud"
+     "text": "Oortsche Wolke"
     },
     {
-     "text": "The Ring Nebula"
+     "text": "Ringnebel"
+    },
+    {
+     "text": "HUDF.YD3"
     }
    ],
    "id": "78160",
    "isValid": "",
-   "prompt": "Which of these celestial objects can you see with the naked eye under dark sky conditions?",
-   "us": true,
+   "prompt": "Welche dieser Himmelskörper kann man bei dunklem Himmel mit bloßem Auge sehen?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "[i]All's Well That Ends Well[/i]"
+     "text": "[i]Ende gut, alles gut[/i]"
     },
     {
-     "text": "[i]The Merchant of Venice[/i]"
+     "text": "[i]Der Kaufmann von Venedig[/i]"
     },
     {
-     "text": "[i]King Lear[/i]"
+     "text": "[i]König Lear[/i]"
     },
     {
      "text": "[i]Richard III[/i]"
     },
     {
-     "text": "[i]Antony and Cleopatra[/i]"
+     "text": "[i]Antonius und Cleopatra[/i]"
     },
     {
-     "text": "[i]A Midsummer Night's Dream[/i]"
+     "text": "[i]Ein Sommernachtstraum[/i]"
     },
     {
-     "text": "[i]Measure for Measure[/i]"
+     "text": "[i]Maß für Maß[/i]"
     },
     {
-     "text": "[i]Henry VI, Part 1[/i]"
-    },
-    {
-     "text": "[i]Henry VI, Part 3[/i]"
+     "text": "[i]Henry VI[/i]"
     },
     {
      "text": "[i]Othello[/i]"
@@ -6040,180 +6112,192 @@
     },
     {
      "text": "[i]Julius Caesar[/i]"
+    },
+    {
+     "text": "[i]Romeo und Julia[/i]"
     }
    ],
    "category": "Theatre/Performing Arts",
    "decoys": [
     {
-     "text": "[i]The Temptress[/i]"
+     "text": "[i]Totentanz der Liebe[/i]"
     },
     {
      "text": "[i]Henry III[/i]"
     },
     {
-     "text": "[i]Oedipus Rex[/i]"
+     "text": "[i]König Ödipus[/i]"
     },
     {
-     "text": "[i]Much to Think About Nothing[/i]"
+     "text": "[i]Die Welt ist nicht genug[/i]"
     },
     {
-     "text": "[i]The World Is Not Enough[/i]"
+     "text": "[i]Abenteuer mit Timon & Pumbaa[/i]"
     },
     {
-     "text": "[i]Timon & Pumbaa[/i]"
+     "text": "[i]Der Prinz von Ägypten[/i]"
     }
    ],
    "id": "78161",
    "isValid": "",
-   "prompt": "Which of these are actual Shakespeare plays?",
-   "us": true,
+   "prompt": "Welche davon sind echte Shakespeare-Stücke?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "gamma rays"
+     "text": "Gammastrahlen"
     },
     {
-     "text": "x-rays"
+     "text": "Röntgenstrahlen"
     },
     {
-     "text": "ultraviolet rays"
+     "text": "UV-Strahlen"
     },
     {
-     "text": "visible light"
+     "text": "Licht"
     },
     {
-     "text": "infrared rays"
+     "text": "Infrarotstrahlung"
     },
     {
-     "text": "microwaves"
+     "text": "Mikrowellen"
     },
     {
-     "text": "radio waves"
+     "text": "Radiowellen"
+    },
+    {
+     "text": "Terahertzstrahlung"
     }
    ],
    "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "gravity"
+     "text": "Gravitation"
     },
     {
-     "text": "weak force"
+     "text": "Schwache Wechselwirkung"
     },
     {
-     "text": "sound waves"
+     "text": "Schallwellen"
     },
     {
-     "text": "matter/antimatter"
+     "text": "Materie/Antimaterie"
     },
     {
-     "text": "manta rays"
+     "text": "Branchiostegalstrahlen"
+    },
+    {
+     "text": "Traktorstrahl"
     }
    ],
    "id": "78163",
    "isValid": "",
-   "prompt": "What are the different ranges of the electromagnetic spectrum?",
-   "us": true,
+   "prompt": "Welches sind Bereiche des elektromagnetischen Spektrums?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "knight"
+     "text": "Läufer"
     },
     {
-     "text": "pawn"
+     "text": "König"
     },
     {
-     "text": "rook"
+     "text": "Bauer"
     },
     {
-     "text": "bishop"
+     "text": "Turm"
     },
     {
-     "text": "king"
+     "text": "Dame"
     },
     {
-     "text": "queen"
+     "text": "Springer"
     }
    ],
    "category": "Games",
    "decoys": [
     {
-     "text": "duke"
+     "text": "Herzog"
     },
     {
-     "text": "horse"
+     "text": "Pferd"
     },
     {
-     "text": "prawn"
+     "text": "Krabbe"
     },
     {
-     "text": "night"
+     "text": "Ritter"
     },
     {
-     "text": "knave"
+     "text": "Knabe"
     },
     {
-     "text": "rookie"
+     "text": "Grünschnabel"
     }
    ],
    "id": "78243",
    "isValid": "",
-   "prompt": "Which of these are the correct names for chess pieces?",
-   "us": true,
+   "prompt": "Welches sind die korrekten Namen für Schachfiguren?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "endocrine system"
+     "text": "Hormonsystem"
     },
     {
-     "text": "respiratory system"
+     "text": "Atemtrakt"
     },
     {
-     "text": "cardiovascular system"
+     "text": "Herz-Kreislauf-System"
     },
     {
-     "text": "musculoskeletal system"
+     "text": "Bewegungsapparat"
     },
     {
-     "text": "lymphatic system"
+     "text": "Lymphatisches System"
     },
     {
-     "text": "digestive system"
+     "text": "Verdauungstrakt"
     },
     {
-     "text": "urinary system"
+     "text": "Harnsystem"
     },
     {
-     "text": "reproductive system"
+     "text": "Geschlechtssystem"
     },
     {
-     "text": "nervous system"
+     "text": "Nervensystem"
     },
     {
-     "text": "integumentary system"
+     "text": "Haut"
     }
    ],
    "category": "Anatomy",
    "decoys": [
     {
-     "text": "sensory-perception system"
+     "text": "sensorisches Wahrnehmungssystem"
     },
     {
-     "text": "immune system"
+     "text": "Stoffwechselsystem"
     },
     {
-     "text": "metabolic system"
+     "text": "Citratzyklus"
+    },
+    {
+     "text": "Komplementärsystem"
     }
    ],
    "id": "78264",
    "isValid": "",
-   "prompt": "Which of these are human organ systems?",
-   "us": true,
+   "prompt": "Welches davon sind menschliche Organsysteme?",
+   "us": false,
    "x": false
   },
   {
@@ -6321,64 +6405,64 @@
   {
    "answers": [
     {
-     "text": "basil"
+     "text": "Basilikum"
     },
     {
-     "text": "bay leaf"
+     "text": "Lorbeerblatt"
     },
     {
-     "text": "cilantro"
+     "text": "Koriander"
     },
     {
-     "text": "dill"
+     "text": "Dill"
     },
     {
-     "text": "lemongrass"
+     "text": "Zitronengras"
     },
     {
-     "text": "marjoram"
+     "text": "Majoran"
     },
     {
-     "text": "oregano"
+     "text": "Oregano"
     },
     {
-     "text": "parsley"
+     "text": "Petersilie"
     },
     {
-     "text": "rosemary"
+     "text": "Rosmarin"
     },
     {
-     "text": "sage"
+     "text": "Salbei"
     },
     {
-     "text": "thyme"
+     "text": "Thymian"
     },
     {
-     "text": "chives"
+     "text": "Schnittlauch"
     }
    ],
    "category": "Food & Drink",
    "decoys": [
     {
-     "text": "cinnamon"
+     "text": "Zimt"
     },
     {
-     "text": "garlic"
+     "text": "Knoblauch"
     },
     {
-     "text": "chili powder"
+     "text": "Chilipulver"
     },
     {
-     "text": "tobacco"
+     "text": "Tabak"
     },
     {
-     "text": "hemlock"
+     "text": "Schierling"
     }
    ],
    "id": "78288",
    "isValid": "",
-   "prompt": "Which of these are culinary herbs?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um Küchenkräuter?",
+   "us": false,
    "x": false
   },
   {
