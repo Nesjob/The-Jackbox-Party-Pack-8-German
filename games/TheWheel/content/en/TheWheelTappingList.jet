@@ -5055,40 +5055,25 @@
   {
    "answers": [
     {
-     "text": "Orange"
+     "text": "Zitrone-Limette"
     },
     {
-     "text": "Mango"
+     "text": "Apfel"
     },
     {
-     "text": "Lemon"
+     "text": "Rote Früchte"
     },
     {
-     "text": "Peach-Pear"
+     "text": "Kirsch"
     },
     {
-     "text": "Pamplemousse"
+     "text": "Pfirsich"
     },
     {
-     "text": "Coconut"
+     "text": "Tropische Früchte"
     },
     {
-     "text": "Pure"
-    },
-    {
-     "text": "Berry"
-    },
-    {
-     "text": "Apricot"
-    },
-    {
-     "text": "Razz-Cranberry"
-    },
-    {
-     "text": "Lime"
-    },
-    {
-     "text": "Tangerine"
+     "text": "Holunderblüte"
     }
    ],
    "category": "Food & Drink",
@@ -5097,22 +5082,40 @@
      "text": "Avocado"
     },
     {
-     "text": "Bell Pepper"
+     "text": "Banane"
     },
     {
-     "text": "Arugula"
+     "text": "Erdbeer"
     },
     {
-     "text": "Mead"
+     "text": "Kokosnuss"
     },
     {
      "text": "Cappuccino"
+    },
+    {
+     "text": "Vanille-Himbeer"
+    },
+    {
+     "text": "Ananas"
+    },
+    {
+     "text": "Exotic"
+    },
+    {
+     "text": "Rhabarber"
+    },
+    {
+     "text": "Birne"
+    },
+    {
+     "text": "Stachelbeer-Sternanis"
     }
    ],
    "id": "77952",
    "isValid": "",
-   "prompt": "What are the core LaCroix beverage flavors?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um “[i]Volvic[/i] Touch”-Geschmacksrichtungen?",
+   "us": false,
    "x": false
   },
   {
@@ -6626,119 +6629,125 @@
    ],
    "id": "78354",
    "isValid": "",
-   "prompt": "Which of these are notes on the music scale?",
+   "prompt": "Welches sind Noten der Tonleiter?",
    "us": true,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Simon Peter"
+     "text": "Simon Petrus"
     },
     {
-     "text": "Andrew, Peter's Brother"
+     "text": "Andreas, “dessen Bruder”"
     },
     {
-     "text": "James, son of Zebedee"
+     "text": "Jakobus, der Sohn des Zebedäus"
     },
     {
-     "text": "John the beloved"
+     "text": "Johannes, “dessen Bruder”"
     },
     {
-     "text": "Philip"
+     "text": "Philippus"
     },
     {
-     "text": "Bartholomew"
+     "text": "Bartholomäus"
     },
     {
-     "text": "Thomas the doubtful"
+     "text": "Thomas"
     },
     {
-     "text": "Matthew the tax collector"
+     "text": "Matthäus, der Steuerpächter"
     },
     {
-     "text": "James, son of Alphaeus"
+     "text": "Jakobus, der Sohn des Alphäus"
     },
     {
-     "text": "Jude, also known as Thaddeus"
+     "text": "Judas, auch bekannt als Thaddäus"
     },
     {
-     "text": "Simon the Zealot"
+     "text": "Simon Kananäus/Zelotes"
     },
     {
-     "text": "Judas Iscariot"
+     "text": "Judas Iskariot"
     }
    ],
    "category": "Religion",
    "decoys": [
     {
-     "text": "Lazarus, who rose from the dead"
+     "text": "Lazarus, der vom Tode auferwachte"
     },
     {
      "text": "Paul"
     },
     {
-     "text": "Pontius Pilate"
+     "text": "Pontius Pilatus"
     },
     {
      "text": "Barabbas"
     },
     {
-     "text": "Joseph of Arimathea"
+     "text": "Josef von Arimathäa"
+    },
+    {
+     "text": "Josef von Nazaret"
+    },
+    {
+     "text": "Zachäus, der Zöllner"
     }
    ],
    "id": "78357",
    "isValid": "",
-   "prompt": "Which names refer to the 12 apostles of the Gospels?",
-   "us": true,
+   "prompt": "Welche der Namen gehören zu den 12 Aposteln aus den Evangelien?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "dust mites"
+     "text": "Staubmilben"
     },
     {
-     "text": "pollen"
+     "text": "Gräserpollen"
     },
     {
-     "text": "pet dander"
+     "text": "Tierhaare"
     },
     {
-     "text": "mold"
+     "text": "Schimmelpilze"
     },
     {
-     "text": "venom (insect)"
+     "text": "Insektengifte"
     },
     {
-     "text": "latex"
+     "text": "Latex"
     },
     {
-     "text": "penicillin"
+     "text": "Baumpollen"
     },
     {
-     "text": "shellfish"
+     "text": "Nahrungsmittel"
     }
    ],
    "category": "Anatomy",
    "decoys": [
     {
-     "text": "sellfish"
+     "text": "Nervengifte"
     },
     {
-     "text": "dust (fairy)"
+     "text": "Hefepilze"
     },
     {
-     "text": "jellyfish"
+     "text": "Zecken"
     },
     {
-     "text": "poison sumac"
+     "text": "Textile"
     }
    ],
    "id": "78358",
    "isValid": "",
-   "prompt": "Which of these are allergens that are tested for on a standard allergy test?",
-   "us": true,
+   "prompt": "Auf welche Allergene wird beim standardmäßigen “Pricktest” für Allergien getestet?",
+   "us": false,
    "x": false
   },
   {
@@ -6952,12 +6961,15 @@
     },
     {
      "text": "Sparky"
+    },
+    {
+     "text": "Kevin"
     }
    ],
    "id": "78413",
    "isValid": "",
-   "prompt": "Which characters are members of the Cullen Clan in [i]Twilight[/i]?",
-   "us": true,
+   "prompt": "Welche Charaktere sind Teil des “Cullen-Clan” aus [i]Twilight[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -7011,22 +7023,22 @@
   {
    "answers": [
     {
-     "text": "[i]Brink![/i]"
+     "text": "[i]Soulskater - Vier Freunde auf Rollen[/i]"
     },
     {
-     "text": "[i]Halloweentown[/i]"
+     "text": "[i]Halloween Town - Meine Oma ist 'ne Hexe[/i]"
     },
     {
-     "text": "[i]Zenon: Girl of the 21st Century[/i]"
+     "text": "[i]Zenon, die kleine Heldin des 21sten Jahrhunderts[/i]"
     },
     {
-     "text": "[i]Smart House[/i]"
+     "text": "[i]Das Haus der Zukunft[/i]"
     },
     {
-     "text": "[i]Cadet Kelly[/i]"
+     "text": "[i]Soldat Kelly[/i]"
     },
     {
-     "text": "[i]The Cheetah Girls[/i]"
+     "text": "[i]Cheetah Girls - Wir werden Popstars[/i]"
     },
     {
      "text": "[i]High School Musical[/i]"
@@ -7035,19 +7047,22 @@
      "text": "[i]Camp Rock[/i]"
     },
     {
-     "text": "[i]Descendants[/i]"
+     "text": "[i]Descendants - Die Nachkommen[/i]"
     },
     {
-     "text": "[i]Twitches[/i]"
+     "text": "[i]Zwexies - Die Zwillingshexen[/i]"
+    },
+    {
+     "text": "[i]Kim Possible[/i]"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "[i]Dog President[/i]"
+     "text": "[i]Baldo - Mein Hund als Präsident[/i]"
     },
     {
-     "text": "[i]My Brother Is an Alien[/i]"
+     "text": "[i]Mein Bruder ist ein Alien[/i]"
     },
     {
      "text": "[i]Mermaidens[/i]"
@@ -7056,61 +7071,67 @@
      "text": "[i]Dracula High[/i]"
     },
     {
-     "text": "[i]Prom City 2: The Prommening[/i]"
+     "text": "[i]Prom City 2: Abschluss ohne Ende[/i]"
+    },
+    {
+     "text": "[i]Time Travellers - Ein Tag ist nicht genug[/i]"
+    },
+    {
+     "text": "[i]Mixed UP - Promis auf Zeit[/i]"
     }
    ],
    "id": "78418",
    "isValid": "",
-   "prompt": "Which of these are Disney Channel Original Movies?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um “Disney-Channel-Original-Movies”?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "large intestine"
+     "text": "Dickdarm"
     },
     {
-     "text": "liver"
+     "text": "Leber"
     },
     {
-     "text": "spleen"
+     "text": "Milz"
     },
     {
-     "text": "gallbladder"
+     "text": "Gallenblase"
     },
     {
-     "text": "pancreas"
+     "text": "Bauchspeicheldrüse"
     },
     {
-     "text": "kidneys"
+     "text": "Nieren"
     },
     {
-     "text": "stomach"
+     "text": "Magen"
     },
     {
-     "text": "small intestine"
+     "text": "Dünndarm"
     }
    ],
    "category": "Anatomy",
    "decoys": [
     {
-     "text": "thymus gland"
+     "text": "Thymusdrüse"
     },
     {
-     "text": "anterior butt"
+     "text": "Zwerchfell"
     },
     {
-     "text": "coccyx"
+     "text": "Steißbein"
     },
     {
-     "text": "weenus"
+     "text": "Blase"
     }
    ],
    "id": "78419",
    "isValid": "",
-   "prompt": "Which of these are among the many delicious organs of the human abdomen?",
-   "us": true,
+   "prompt": "Welche dieser (sicherlich köstlichen) Organe befinden sich im menschlichen Bauchraum?",
+   "us": false,
    "x": false
   },
   {
@@ -7233,49 +7254,49 @@
   {
    "answers": [
     {
-     "text": "proscenium"
+     "text": "Proszenium"
     },
     {
-     "text": "thrust"
+     "text": "Arenabühne"
     },
     {
-     "text": "theater in-the-round"
+     "text": "Guckkastenbühne"
     },
     {
-     "text": "platform"
+     "text": "Gassenbühne"
     },
     {
-     "text": "black box"
+     "text": "Drehbühne"
     },
     {
-     "text": "found"
+     "text": "Manege"
     },
     {
-     "text": "open air"
+     "text": "Freilichtbühne"
     }
    ],
    "category": "Theatre/Performing Arts",
    "decoys": [
     {
-     "text": "larva"
+     "text": "Oratorium"
     },
     {
-     "text": "orchestral"
+     "text": "Hebebühne"
     },
     {
-     "text": "back"
+     "text": "Rückenbühne"
     },
     {
-     "text": "vomitory"
+     "text": "Vomitorium"
     },
     {
-     "text": "center"
+     "text": "Sichtbühne"
     }
    ],
    "id": "78448",
    "isValid": "",
-   "prompt": "Which of these are types of theatre stages?",
-   "us": true,
+   "prompt": "Welches davon sind Arten von Theaterbühnen?",
+   "us": false,
    "x": false
   },
   {
@@ -7335,22 +7356,28 @@
      "text": "Uganda"
     },
     {
-     "text": "Indonesia"
+     "text": "Indonesien"
     },
     {
-     "text": "Gabon"
+     "text": "Gabun"
     },
     {
-     "text": "Kenya"
+     "text": "Kenia"
     },
     {
-     "text": "Brazil"
+     "text": "Brasilien"
     },
     {
      "text": "Somalia"
     },
     {
-     "text": "São Tomé & Príncipe"
+     "text": "São Tomé und Príncipe"
+    },
+    {
+     "text": "Kolumbien"
+    },
+    {
+     "text": "Kongo"
     }
    ],
    "category": "Geography & Landmarks",
@@ -7359,19 +7386,37 @@
      "text": "Panama"
     },
     {
-     "text": "Argentina"
+     "text": "Argentinien"
     },
     {
      "text": "Haiti"
     },
     {
-     "text": "Australia"
+     "text": "Australien"
+    },
+    {
+     "text": "Tunesien"
+    },
+    {
+     "text": "Chile"
+    },
+    {
+     "text": "Kamerun"
+    },
+    {
+     "text": "Venezuela"
+    },
+    {
+     "text": "Vietnam"
+    },
+    {
+     "text": "Madagaskar"
     }
    ],
    "id": "78602",
    "isValid": "",
-   "prompt": "Which of these countries are on the equator?",
-   "us": true,
+   "prompt": "Welche dieser Länder liegen auf dem Äquator?",
+   "us": false,
    "x": false
   },
   {
@@ -7425,49 +7470,61 @@
   {
    "answers": [
     {
-     "text": "[i]A Wrinkle in Time[/i]"
+     "text": "[i]Karussell des Lebens[/i]"
     },
     {
-     "text": "[i]A Wind in the Door[/i]"
+     "text": "[i]Die Muschelsucher[/i]"
     },
     {
-     "text": "[i]A Swiftly Tilting Planet[/i]"
+     "text": "[i]Stürmische Begegnung[/i]"
     },
     {
-     "text": "[i]Many Waters[/i]"
+     "text": "[i]Wilder Thymian[/i]"
     },
     {
-     "text": "[i]An Acceptable Time[/i]"
+     "text": "[i]Schlafender Tiger[/i]"
     },
     {
-     "text": "[i]Intergalactic P.S. 3 [/i]"
+     "text": "[i]Blumen im Regen[/i]"
+    },
+    {
+     "text": "[i]Wolken am Horizont[/i]"
+    },
+    {     
+     "text": "[i]Wintersonne[/i]"
     }
    ],
    "category": "Literature",
    "decoys": [
     {
-     "text": "[i]House Like a Lotus[/i]"
+     "text": "[i]Wilder Enzian[/i]"
     },
     {
-     "text": "[i]The Moment of Tenderness[/i]"
+     "text": "[i]Eine Nacht unter dem Sternenhimmel[/i]"
     },
     {
-     "text": "[i]A Pointed Allegory[/i]"
+     "text": "[i]August[/i]"
     },
     {
-     "text": "[i]The One With Aliens[/i]"
+     "text": "[i]Sturm der Liebe[/i]"
     },
     {
-     "text": "[i]A Kid Named Charles[/i]"
+     "text": "[i]Wiesen im Wind[/i]"
     },
     {
-     "text": "[i]Book Fair Fodder[/i]"
+     "text": "[i]Ewiges Verlangen[/i]"
+    },
+    {
+     "text": "[i]Falsche Versprechen[/i]"
+    },
+    {
+     "text": "[i]Kitschige Techtelmechtel am Meer[/i]"
     }
    ],
    "id": "78604",
    "isValid": "",
-   "prompt": "Which of these are books in Madeline L'Engle's “Time Quintet”?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um Bücher von Rosamunde Pilcher?",
+   "us": false,
    "x": false
   },
   {
@@ -7521,97 +7578,103 @@
   {
    "answers": [
     {
-     "text": "Chinook"
+     "text": "Königslachs"
     },
     {
-     "text": "Coho"
+     "text": "Silberlachs"
     },
     {
-     "text": "Pink"
+     "text": "Buckellachs"
     },
     {
-     "text": "Sockeye"
+     "text": "Rotlachs"
     },
     {
-     "text": "Atlantic"
+     "text": "Atlantischer Lachs"
     },
     {
-     "text": "Chum"
+     "text": "Ketalachs"
     }
    ],
    "category": "Animals",
    "decoys": [
     {
-     "text": "Pale Rose"
+     "text": "Blassrosalachs"
     },
     {
-     "text": "'Lil"
+     "text": "Kleinlachs"
     },
     {
-     "text": "Dead Sea"
+     "text": "Soholachs"
     },
     {
-     "text": "Spurious"
+     "text": "Falscher Lachs"
     },
     {
-     "text": "Plated"
+     "text": "Plattenlachs"
     },
     {
-     "text": "Soho"
+     "text": "Bullenlachs"
     }
    ],
    "id": "78606",
    "isValid": "",
-   "prompt": "Which of these are varieties of salmon?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um Lachsarten?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "cowboy"
+     "text": "Cowboy"
     },
     {
-     "text": "football player"
+     "text": "Fußballspieler"
     },
     {
-     "text": "clown"
+     "text": "Clown"
     },
     {
-     "text": "chef"
+     "text": "Koch"
     },
     {
-     "text": "aviator"
+     "text": "Arzt"
     },
     {
-     "text": "skeleton"
+     "text": "Skelett"
     },
     {
-     "text": "cat"
+     "text": "Katze"
     },
     {
-     "text": "frog"
+     "text": "Frosch"
     },
     {
-     "text": "boxer shorts"
+     "text": "Badehose"
     },
     {
-     "text": "plumber"
+     "text": "Klempner"
+    },
+    {
+     "text": "Flughörnchen"
     }
    ],
    "category": "Games",
    "decoys": [
     {
-     "text": "exotic dancer"
+     "text": "Flamingo"
     },
     {
-     "text": "pet groomer"
+     "text": "Tierfriseur"
+    },
+    {
+     "text": "Zugfahrer"
     }
    ],
    "id": "78610",
    "isValid": "",
-   "prompt": "Which outfits has Mario worn in the past 20 years?",
-   "us": true,
+   "prompt": "Was für Outfits hat [i]Super Mario[/i] im Laufe seiner Karriere schon alles getragen?",
+   "us": false,
    "x": false
   },
   {
@@ -7713,25 +7776,25 @@
   {
    "answers": [
     {
-     "text": "January"
+     "text": "Januar"
     },
     {
-     "text": "December"
+     "text": "Dezember"
     },
     {
-     "text": "March"
+     "text": "März"
     },
     {
-     "text": "May"
+     "text": "Mai"
     },
     {
-     "text": "July"
+     "text": "Juli"
     },
     {
      "text": "August"
     },
     {
-     "text": "October"
+     "text": "Oktober"
     }
    ],
    "category": "Calendar/Holidays",
@@ -7743,175 +7806,181 @@
      "text": "April"
     },
     {
-     "text": "June"
+     "text": "Juni"
     },
     {
      "text": "November"
     },
     {
-     "text": "Smarch"
+     "text": "Februar"
     }
    ],
    "id": "78676",
    "isValid": "",
-   "prompt": "Which of these months have 31 days?",
-   "us": true,
+   "prompt": "Welche dieser Monate haben 31 Tage?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "executive chef"
+     "text": "Chef de Partie"
     },
     {
-     "text": "chef de cuisine"
+     "text": "Chef de Cuisine"
     },
     {
-     "text": "sous chef"
+     "text": "Souschef"
     },
     {
-     "text": "station chef"
+     "text": "Commis de Cuisine"
     },
     {
-     "text": "junior chef"
+     "text": "Junior Souschef"
     },
     {
-     "text": "kitchen porter"
+     "text": "Executive Souschef"
     },
     {
-     "text": "dishwasher"
+     "text": "Casserolier"
     }
    ],
    "category": "Occupations",
    "decoys": [
     {
-     "text": "chef ne c'est quoi"
+     "text": "Cuisiner ne c'est quoi"
     },
     {
-     "text": "chef du jour"
+     "text": "Souschef du Jour"
     },
     {
-     "text": "iron chef"
+     "text": "Souschef de Fer"
     },
     {
-     "text": "cocktail chef"
+     "text": "Frit de Cousine"
     },
     {
-     "text": "chef goldblum"
+     "text": "Chef des Ordures"
     }
    ],
    "id": "78679",
    "isValid": "",
-   "prompt": "Which of these are considered to be roles in the restaurant kitchen hierarchy?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um Positionen in der Hierarchie einer Restaurant-Küche?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "“You Belong With Me”"
+     "text": "[i]You Belong With Me[/i]"
     },
     {
-     "text": "“All Too Well”"
+     "text": "[i]All Too Well[/i]"
     },
     {
-     "text": "“Fifteen”"
+     "text": "[i]Fifteen[/i]"
     },
     {
-     "text": "“We Are Never Ever Getting Back Together”"
+     "text": "[i]We Are Never Ever Getting Back Together[/i]"
     },
     {
-     "text": "“Shake It Off”"
+     "text": "[i]Shake It Off[/i]"
     },
     {
-     "text": "“Blank Space”"
+     "text": "[i]Blank Space[/i]"
     },
     {
-     "text": "“Love Story”"
+     "text": "[i]Love Story[/i]"
     },
     {
-     "text": "“I Knew You Were Trouble.”"
+     "text": "[i]I Knew You Were Trouble[/i]"
     },
     {
-     "text": "“Bad Blood”"
+     "text": "[i]Bad Blood[/i]"
     },
     {
-     "text": "“Look What You Made Me Do”"
+     "text": "[i]Look What You Made Me Do[/i]"
     }
    ],
    "category": "Music",
    "decoys": [
     {
-     "text": "“Bad Romance”"
+     "text": "[i]Bad Romance[/i]"
     },
     {
-     "text": "“Wrecking Ball”"
+     "text": "[i]Wrecking Ball[/i]"
     },
     {
-     "text": "“Call Me Maybe”"
+     "text": "[i]Call Me Maybe[/i]"
     },
     {
-     "text": "“Complicated”"
+     "text": "[i]Complicated[/i]"
     }
    ],
    "id": "78681",
    "isValid": "",
-   "prompt": "Which songs are by the one and only Taylor Swift?",
-   "us": true,
+   "prompt": "Welche dieser Songs sind von Taylor Swift?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "wheat"
+     "text": "Weizen"
     },
     {
-     "text": "milk"
+     "text": "Milch"
     },
     {
-     "text": "eggs"
+     "text": "Ei"
     },
     {
-     "text": "peanuts"
+     "text": "Erdnuss"
     },
     {
-     "text": "tree nuts"
+     "text": "Nüsse"
     },
     {
-     "text": "soy"
+     "text": "Soja"
     },
     {
-     "text": "fish"
+     "text": "Fisch"
     },
     {
-     "text": "shellfish"
+     "text": "Schalentier"
     }
    ],
    "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "green beans"
+     "text": "Grüne Bohnen"
     },
     {
-     "text": "hot peppers"
+     "text": "Peperoni"
     },
     {
-     "text": "coffee"
+     "text": "Kaffee"
     },
     {
-     "text": "alcohol"
+     "text": "Alkohol"
+    },
+    {
+     "text": "Oliven"
+    },
+    {
+     "text": "Hafer"
     }
    ],
    "id": "78682",
    "isValid": "",
-   "prompt": "Which of these are the most common food allergies?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um die häufigsten Auslöser von Nahrungsmittelallergien?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Red Delicious"
+     "text": "Roter Köstlicher"
     },
     {
      "text": "Granny Smith"
@@ -7929,31 +7998,43 @@
      "text": "Pink Lady"
     },
     {
-     "text": "Envy"
+     "text": "Galaxy"
     },
     {
      "text": "Braeburn"
+    },
+    {
+     "text": "Orangenburg"
+    },
+    {
+     "text": "Wilhelmsapfel"
     }
    ],
    "category": "Food & Drink",
    "decoys": [
     {
-     "text": "King's Knave"
+     "text": "Königlicher Knappe"
     },
     {
-     "text": "Crabshack Red"
+     "text": "Rote Kanone"
     },
     {
      "text": "August Crunch"
     },
     {
      "text": "Big Bonanza"
+    },
+    {
+     "text": "Rheinischer Roter"
+    },
+    {
+     "text": "Raven Courage"
     }
    ],
    "id": "78696",
    "isValid": "",
-   "prompt": "Which of these are apple varieties?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um echte Apfelsorten?",
+   "us": false,
    "x": false
   },
   {
