@@ -6594,7 +6594,7 @@
      "text": "G"
     },
     {
-     "text": "B"
+     "text": "H"
     },
     {
      "text": "D"
@@ -6630,7 +6630,7 @@
    "id": "78354",
    "isValid": "",
    "prompt": "Welches sind Noten der Tonleiter?",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
