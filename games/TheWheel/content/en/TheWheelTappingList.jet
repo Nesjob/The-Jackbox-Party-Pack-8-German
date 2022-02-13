@@ -8088,114 +8088,136 @@
   {
    "answers": [
     {
-     "text": "Idaho"
+     "text": "Ätna"
     },
     {
-     "text": "Montana"
+     "text": "Eyjafjallajökull"
     },
     {
-     "text": "North Dakota"
+     "text": "Hekla"
     },
     {
-     "text": "South Dakota"
+     "text": "Katla"
     },
     {
-     "text": "Minnesota"
+     "text": "Stromboli"
     },
     {
-     "text": "Iowa"
+     "text": "Vesuv"
     },
     {
-     "text": "Nevada"
+     "text": "Kverkfjöll"
     },
     {
-     "text": "Utah"
+     "text": "Eldfell"
     },
     {
-     "text": "Wyoming"
-    },
-    {
-     "text": "New Mexico"
-    },
-    {
-     "text": "Oklahoma"
-    },
-    {
-     "text": "Texas"
+     "text": "Thera"
     }
    ],
-   "category": "Factoids",
-   "decoys": [],
+   "category": "Geography & Landmarks",
+   "decoys": [
+    {
+     "text": "Yellowstone"
+    },
+    {
+     "text": "Haleakala"
+    },
+    {
+     "text": "Yantari"
+    },
+    {
+     "text": "Hayes"
+    },
+    {
+     "text": "Hálfviti"
+    },
+    {
+     "text": "Dvergauppreisn"
+    },
+    {
+     "text": "Fuji"
+    },
+    {
+     "text": "Sakurajima"
+    },
+    {
+     "text": "Nyiragongo"
+    }
+   ],
    "id": "78749",
    "isValid": "",
-   "prompt": "According to the U.S. Geological Survey, which states are getting yeeted with volcanic ash if Yellowstone erupts?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um europäische Vulkane?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Emma"
+     "text": "Anna"
     },
     {
-     "text": "Minnie"
+     "text": "Martha"
+    },
+    {
+     "text": "Frieda"
     },
     {
      "text": "Bertha"
     },
     {
-     "text": "Alice"
+     "text": "Emma"
     },
     {
-     "text": "Annie"
+     "text": "Maria"
     },
     {
-     "text": "Maude"
+     "text": "Margarete"
     },
     {
-     "text": "Lula"
+     "text": "Elsa"
     },
     {
-     "text": "Edith"
+     "text": "Gertrud"
     },
     {
-     "text": "Gertrude"
+     "text": "Minna"
     },
     {
-     "text": "Jennie"
+     "text": "Wilhelmine"
     },
     {
-     "text": "Carrie"
+     "text": "Carolin"
     },
     {
-     "text": "Dora"
+     "text": "Meta"
     }
    ],
    "category": "History",
    "decoys": [
     {
-     "text": "Katniss"
+     "text": "Elba"
     },
     {
-     "text": "Mariska Hargitay"
+     "text": "Edeltraut"
     },
     {
      "text": "Hermione"
     },
     {
-     "text": "Baklava"
+     "text": "Brada"
     },
     {
-     "text": "Madison"
+     "text": "Liselotte"
     },
     {
-     "text": "Kennedy"
+     "text": "Barbara"
     }
    ],
    "id": "78754",
    "isValid": "",
-   "prompt": "Which names were among the most popular baby girl names in the 1880s?",
-   "us": true,
+   "prompt": "Welches waren in den 1890ern die beliebtesten Mädchennamen in Deutschland?",
+   "us": false,
    "x": false
   },
   {
@@ -8255,58 +8277,73 @@
   {
    "answers": [
     {
-     "text": "black widow"
+     "text": "Schwarze Witwe"
     },
     {
-     "text": "brown recluse"
+     "text": "Rindenspringspinne"
     },
     {
-     "text": "domestic house"
+     "text": "Hauswinkelspinne"
     },
     {
-     "text": "long-bodied cellar"
+     "text": "Große Zitterspinne"
     },
     {
-     "text": "wolf"
+     "text": "Wolfsspinne"
     },
     {
-     "text": "tarantula"
+     "text": "Vogelspinne"
     },
     {
-     "text": "Goliath bird-eater"
+     "text": "Goliath-Vogelspinne"
     },
     {
-     "text": "hobo"
+     "text": "Feldwinkelspinne"
     },
     {
-     "text": "golden silk"
+     "text": "Goldene Seidenspinne"
+    },
+    {
+     "text": "Veränderliche Krabbenspinne"
+    },
+    {
+     "text": "Tapezierspinne"
+    },
+    {
+     "text": "[i]Spintharus davidbowiei[/i]"
     }
    ],
    "category": "Animals",
    "decoys": [
     {
-     "text": "tarantella"
+     "text": "Tarantella"
     },
     {
-     "text": "monkey"
+     "text": "Gemeine Affenspinne"
     },
     {
-     "text": "orange hashbrown"
+     "text": "Kleine Fliederspinne"
+    },
+    {
+     "text": "Rote Flammenspinne"
+    },
+    {
+     "text": "[i]Spintharus johnkennedei[/i]"
     }
    ],
    "id": "78811",
    "isValid": "",
-   "prompt": "Which of these are real types of spiders?",
-   "us": true,
+   "prompt": "Welches sind echte Spinnenarten?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Old Deuteronomy"
+     "text": "Alt-Deuteronimus"
     },
     {
-     "text": "Grizabella, The Glamour Cat"
+     "text": "Grizabella"
     },
     {
      "text": "Rum Tum Tugger"
@@ -8318,16 +8355,19 @@
      "text": "Macavity"
     },
     {
-     "text": "Jennyanydots, The Old Gumbie Cat"
+     "text": "Jenny Fleckenreich, die alte Gumbie-Katze"
     },
     {
-     "text": "Bustopher Jones"
+     "text": "Bustopher Mürr"
     },
     {
-     "text": "Gus, The Theatre Cat"
+     "text": "Gus, der Theater Kater"
     },
     {
      "text": "Mungojerrie"
+    },
+    {
+     "text": "Cassandra"
     }
    ],
    "category": "Theatre/Performing Arts",
@@ -8336,64 +8376,67 @@
      "text": "Methuselah"
     },
     {
-     "text": "Old Leviticus"
+     "text": "Alt-Levitikus"
     },
     {
      "text": "Mungo Jerry"
+    },
+    {
+     "text": "Fred, aller Kater Vater"
     }
    ],
    "id": "78813",
    "isValid": "",
-   "prompt": "Which colorful names are characters from [i]Cats[/i]?",
-   "us": true,
+   "prompt": "Welche dieser Unfälle von Namen gehören zu Figuren aus dem Musical [i]Cats[/i]?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "poison ivy"
+     "text": "Giftefeu"
     },
     {
-     "text": "stinging nettle"
+     "text": "Brennnessel"
     },
     {
-     "text": "hogweed"
+     "text": "Riesen-Bärenklau"
     },
     {
-     "text": "tread-softly"
+     "text": "Engelwurz"
     },
     {
-     "text": "manchineel"
+     "text": "Manchinelbaum"
     },
     {
-     "text": "pain bush"
+     "text": "Eisenhut"
     },
     {
-     "text": "gympie gympie"
+     "text": "Gympie Gympie"
     }
    ],
    "category": "Factoids",
    "decoys": [
     {
-     "text": "Swedish ivy"
+     "text": "Schwedischer Efeu"
     },
     {
-     "text": "sword fern"
+     "text": "Schwertfarn"
     },
     {
-     "text": "baby's tears"
+     "text": "Tränenkraut"
     },
     {
-     "text": "burro’s tail"
+     "text": "Mauerpfeffer"
     },
     {
-     "text": "aloe vera"
+     "text": "Aloe Vera"
     }
    ],
    "id": "78821",
    "isValid": "",
-   "prompt": "Which of these plants should you touch... if you enjoy [i]suffering[/i]?",
-   "us": true,
+   "prompt": "Welche dieser Pflanzen solltest du unbedingt anfassen... wenn du gerne [i]leidest[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -8546,157 +8589,166 @@
   {
    "answers": [
     {
-     "text": "you do not talk about Fight Club"
+     "text": "Ihr verliert kein Wort über den Fight Club"
     },
     {
-     "text": "you DO NOT talk about Fight Club!"
+     "text": "Ihr verliert KEIN WORT über den Fight Club"
     },
     {
-     "text": "someone yells “Stop,” goes limp, taps out, the fight is over"
+     "text": "Wenn jemand “Stop” ruft, schlappmacht oder abklopft, ist der Kampf vorbei"
     },
     {
-     "text": "only two guys to a fight"
+     "text": "Es kämpfen jeweils nur Zwei"
     },
     {
-     "text": "one fight at a time, fellas"
+     "text": "Nur ein Kampf auf einmal"
     },
     {
-     "text": "no shirts, no shoes"
+     "text": "Keine Hemden, keine Schuhe"
     },
     {
-     "text": "fights will go on as long as they have to"
+     "text": "Die Kämpfe dauern genau solange, wie sie dauern müssen"
     },
     {
-     "text": "if this is your first night at Fight Club, you have to fight"
+     "text": "Wer neu ist im Fight Club, muss kämpfen"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "you do not talk about Fanny Packs"
+     "text": "Man spricht nicht über Geld"
     },
     {
-     "text": "no knives, no guns"
+     "text": "Keine Messer, keine Knarren"
     },
     {
-     "text": "everyone hugs it out at the end of each fight"
+     "text": "Nach dem Kampf wird sich die Hand gegeben, selbst wenn nur die übrig ist"
     },
     {
-     "text": "if this is your first night at Fight Club, you buy the pizza"
+     "text": "Der Verlierer lässt sich nie wieder blicken"
+    },
+    {
+     "text": "Der Verlierer lässt sich NIE WIEDER blicken"
+    },
+    {
+     "text": "Persönliches wird woanders geregelt"
     }
    ],
    "id": "78882",
    "isValid": "",
-   "prompt": "What are the 8 Rules of [i]Fight Club[/i]?",
-   "us": true,
+   "prompt": "Wie lauten die 8 Regeln des [i]Fight Club[/i]?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "polio"
+     "text": "Polio"
     },
     {
-     "text": "Guinea worm"
+     "text": "Medinawurm"
     },
     {
-     "text": "measles"
+     "text": "Masern"
     },
     {
-     "text": "mumps"
+     "text": "Mumps"
     },
     {
-     "text": "rubella"
+     "text": "Röteln"
     },
     {
-     "text": "smallpox"
+     "text": "Pocken"
     },
     {
-     "text": "rinderpest"
+     "text": "Rinderpest"
     }
    ],
    "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "hyperhidrosis"
+     "text": "Hyperhidrose"
     },
     {
-     "text": "diarrhea"
+     "text": "Durchfall"
     },
     {
-     "text": "dolphin cough"
+     "text": "Wolfshusten"
     },
     {
-     "text": "salmonella"
+     "text": "Salmonellen"
     },
     {
-     "text": "common cold"
+     "text": "Erkältung"
     },
     {
-     "text": "aging"
+     "text": "Herpes"
     }
    ],
    "id": "78967",
    "isValid": "",
-   "prompt": "Which of these are diseases that humans have mostly beaten (with the the help of vaccines)?",
-   "us": true,
+   "prompt": "Welche dieser Krankheiten wurden (durch Impfungen) mittlerweile größtenteils ausgerottet?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "National Education Association"
+     "text": "Youtubers Union"
     },
     {
-     "text": "Service Employees International"
+     "text": "Gewerkschaft für Kunststoffgewerbe und Holzverarbeitung"
     },
     {
-     "text": "Federation of State, County and Municipal Employees"
+     "text": "Vereinigung deutscher Opernchöre"
     },
     {
-     "text": "Teamsters"
+     "text": "Eisenbahn- und Verkehrsgewerkschaft"
     },
     {
-     "text": "United Food and Commercial Workers"
+     "text": "Bundesverband Schauspiel"
     },
     {
-     "text": "United Auto Workers"
+     "text": "Gefangenengewerkschaft"
     },
     {
-     "text": "United Steelworkers"
+     "text": "Gewerkschaft der Gewerkschaftsbeschäftigten"
     },
     {
-     "text": "American Federation of Teachers"
+     "text": "Bundesverband der Hygieneinspektoren"
     },
     {
-     "text": "Brotherhood of Electrical Workers"
-    },
-    {
-     "text": "Int’l. Assoc. of Machinists and Aerospace Workers"
+     "text": "Nahverkehrsgewerkschaft"
     }
    ],
    "category": "Occupations",
    "decoys": [
     {
-     "text": "American Federation of Piano Tuners"
+     "text": "Gewerkschaft der Zahnärzte"
     },
     {
-     "text": "Equine, Bovine, Porcine Performers Guild"
+     "text": "Magdeburger Bund"
     },
     {
-     "text": "International Brotherhood of Industrialists"
+     "text": "Vereinigung der Gerichtsdiener"
     },
     {
-     "text": "Road and Sidewalk Pavers Coalition"
+     "text": "Verband deutscher Gymnasiallehrer"
     },
     {
-     "text": "Carnie League"
+     "text": "Gewerkschaft der geknechteten Übersetzer von Trivia-Ratespielen"
+    },
+    {
+     "text": "Bundesverband der deutschen Bäckermeister"
+    },
+    {
+     "text": "Vereinigung der Fachanwälte für Steuerrecht"
     }
    ],
    "id": "79025",
    "isValid": "",
-   "prompt": "Which of these are real labor unions in the United States?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um echte Gewerkschaften in Deutschland?",
+   "us": false,
    "x": false
   },
   {
@@ -8753,106 +8805,106 @@
   {
    "answers": [
     {
-     "text": "kindergarten"
+     "text": "Public Viewing"
     },
     {
-     "text": "doppelganger"
+     "text": "Handy"
     },
     {
-     "text": "bratwurst"
+     "text": "Beamer"
     },
     {
-     "text": "angst"
+     "text": "Oldtimer"
     },
     {
-     "text": "kitsch"
+     "text": "Mobbing"
     },
     {
-     "text": "poltergeist"
+     "text": "Casting Show"
     },
     {
-     "text": "schadenfreude"
+     "text": "Smoking"
     },
     {
-     "text": "uber"
-    },
-    {
-     "text": "zeitgeist"
+     "text": "Messie"
     }
    ],
    "category": "Language/Words/Grammar",
    "decoys": [
     {
-     "text": "trousers"
+     "text": "Club"
     },
     {
-     "text": "kielbasa"
+     "text": "Boykott"
     },
     {
-     "text": "bupkis"
+     "text": "Couch"
     },
     {
-     "text": "tchotchke"
+     "text": "Fete"
     },
     {
-     "text": "borscht"
+     "text": "Patchwork"
     },
     {
-     "text": "nudnik"
+     "text": "Kidnapping"
+    },
+    {
+     "text": "Internet"
     }
    ],
    "id": "79147",
    "isValid": "",
-   "prompt": "Which of these words have a German origin?",
-   "us": true,
+   "prompt": "Welche der folgenden Wörter klingen zwar Englisch, sind aber eigentlich deutsche Eigenkreationen?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "sine"
+     "text": "Sinus"
     },
     {
-     "text": "cosine"
+     "text": "Kosinus"
     },
     {
-     "text": "tangent"
+     "text": "Tangens"
     },
     {
-     "text": "secant"
+     "text": "Kosekans"
     },
     {
-     "text": "cosecant"
+     "text": "Sekans"
     },
     {
-     "text": "cotangent"
+     "text": "Kotangens"
     }
    ],
    "category": "Math",
    "decoys": [
     {
-     "text": "torrent"
+     "text": "Torrans"
     },
     {
-     "text": "corpulent"
+     "text": "Korpulos"
     },
     {
-     "text": "sexton"
+     "text": "Brosinus"
     },
     {
-     "text": "theta"
+     "text": "Tetra"
     },
     {
-     "text": "adjacent"
+     "text": "Ankatheten"
     },
     {
-     "text": "hypotenuse"
+     "text": "Hypotenusen"
     }
    ],
    "id": "79178",
    "isValid": "",
-   "prompt": "What are the main trigonometric functions?",
-   "us": true,
+   "prompt": "Welches sind trigonometrische Funktionen?",
+   "us": false,
    "x": false
   },
   {
@@ -9170,163 +9222,176 @@
   {
    "answers": [
     {
-     "text": "sonnet"
+     "text": "Sonett"
     },
     {
-     "text": "haiku"
+     "text": "Haiku"
     },
     {
-     "text": "acrostic"
+     "text": "Akrostichon"
     },
     {
-     "text": "limerick"
+     "text": "Limerick"
     },
     {
-     "text": "tanka"
+     "text": "Tanka"
     },
     {
-     "text": "pantoum"
+     "text": "Pantun"
     },
     {
-     "text": "ode"
+     "text": "Ode"
     },
     {
-     "text": "free verse"
+     "text": "Hymne"
     },
     {
-     "text": "elegy"
+     "text": "Elegie"
     },
     {
-     "text": "villanelle"
+     "text": "Villanelle"
     },
     {
-     "text": "ballad"
+     "text": "Ballade"
     }
    ],
    "category": "Literature",
    "decoys": [
     {
-     "text": "shih tzu"
+     "text": "Shih Tzu"
     },
     {
-     "text": "topanga"
+     "text": "Topanga"
     },
     {
-     "text": "euclidean"
+     "text": "Euklid"
     },
     {
-     "text": "hunter/hunted"
+     "text": "Emaille"
     },
     {
-     "text": "watercolor"
+     "text": "Chlamydien"
     }
    ],
    "id": "79327",
    "isValid": "",
-   "prompt": "Which of these are types of poems?",
-   "us": true,
+   "prompt": "Welches sind Arten von Gedichten?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Golgi apparatus"
+     "text": "Golgi Apparat"
     },
     {
-     "text": "nuclear membrane"
+     "text": "Kernhülle"
     },
     {
-     "text": "cilia"
+     "text": "Vesikel"
     },
     {
-     "text": "mitochondrion"
+     "text": "Mitochondrium"
     },
     {
-     "text": "lysosome"
+     "text": "Lysosom"
     },
     {
-     "text": "centriole"
+     "text": "Zentriol"
     },
     {
-     "text": "endoplastic reticulum"
+     "text": "Endoplasmatisches Reticulum"
     },
     {
-     "text": "ribosome"
+     "text": "Ribosome"
     },
     {
-     "text": "chromatin"
+     "text": "Chromatin"
     }
    ],
    "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "chloroplast"
+     "text": "Chloroplasten"
     },
     {
-     "text": "Jiggly bodies"
+     "text": "Geißel"
     },
     {
-     "text": "profiterole"
+     "text": "Profiterol"
     },
     {
-     "text": "terabyte"
+     "text": "Vakuole"
+    },
+    {
+     "text": "Zellwand"
     }
    ],
    "id": "79332",
    "isValid": "",
-   "prompt": "Which of these are parts of an animal cell?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um Bestandteile einer Tierzelle?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "[i]Harry Potter and the Chamber of Secrets[/i]"
+     "text": "[i]Harry Potter und die Kammer des Schreckens[/i]"
     },
     {
-     "text": "[i]Catching Fire[/i]"
+     "text": "[i]Die Tribute von Panem - Gefährliche Liebe[/i]"
     },
     {
-     "text": "[i]Insurgent[/i]"
+     "text": "[i]Die Bestimmung - Tödliche Wahrheit[/i]"
     },
     {
-     "text": "[i]New Moon[/i]"
+     "text": "[i]Bis(s) zur Mittagsstunde[/i]"
     },
     {
-     "text": "[i]The Scorch Trials[/i]"
+     "text": "[i]Die Auserwählten - In der Brandwüste[/i]"
     },
     {
-     "text": "[i]The Subtle Knife[/i]"
+     "text": "[i]Das Magische Messer[/i]"
     },
     {
-     "text": "[i]City of Ashes[/i]"
+     "text": "[i]Saphirblau[/i]"
     }
    ],
    "category": "Literature",
    "decoys": [
     {
-     "text": "[i]Divergent[/i]"
+     "text": "[i]Die Bestimmung[/i]"
     },
     {
-     "text": "[i]Mockingjay[/i]"
+     "text": "[i]Die Tribute von Panem - Flammender Zorn[/i]"
     },
     {
-     "text": "[i]Harry Potter and the Prisoner of Azkaban[/i]"
+     "text": "[i]Harry Potter und der Gefangene von Askaban[/i]"
     },
     {
-     "text": "[i]Eclipse[/i]"
+     "text": "[i]Bis(s) zum Abendrot[/i]"
     },
     {
-     "text": "[i]Breaking Dawn[/i]"
+     "text": "[i]Bis(s) zum Ende der Nacht[/i]"
     },
     {
-     "text": "[i]Mr. Maze's Second Run[/i]"
+     "text": "[i]Die Auserwählten - Im Labyrinth[/i]"
+    },
+    {
+     "text": "[i]Rubinrot[/i]"
+    },
+    {
+     "text": "[i]Die unendliche Geschichte II - Auf der Suche nach Phantásien[/i]"
+    },
+    {
+     "text": "[i]Harry Potter und der Feuerkelch[/i]"
     }
    ],
    "id": "79394",
    "isValid": "",
-   "prompt": "Which of these are SECOND books in a young adult novel series?",
    "us": true,
+   "prompt": "Welches sind die ZWEITEN Bücher von Romanreihen für junge Erwachsene?",
+   "us": false,
    "x": false
   },
   {
