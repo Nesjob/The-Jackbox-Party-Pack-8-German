@@ -6968,7 +6968,7 @@
    ],
    "id": "78413",
    "isValid": "",
-   "prompt": "Welche Charaktere sind Teil des “Cullen-Clan” aus [i]Twilight[/i]?",
+   "prompt": "Welche Charaktere sind Teil des “Cullen-Clan” aus [i]Twilight - Bis(s) zum Morgengrauen[/i]?",
    "us": false,
    "x": false
   },
@@ -7422,7 +7422,7 @@
   {
    "answers": [
     {
-     "text": "Catherine of Aragon"
+     "text": "Katharina von Aragon"
     },
     {
      "text": "Anne Boleyn"
@@ -7431,7 +7431,7 @@
      "text": "Jane Seymour"
     },
     {
-     "text": "Anne of Cleves"
+     "text": "Anna von Kleve"
     },
     {
      "text": "Catherine Howard"
@@ -7443,28 +7443,34 @@
    "category": "Historical Figures",
    "decoys": [
     {
-     "text": "Mary, Queen of Scots"
+     "text": "Maria Stuart"
     },
     {
-     "text": "Elizabeth I"
+     "text": "Elizabeth I."
     },
     {
-     "text": "Cersei Lannister"
+     "text": "Cersei Lennister"
     },
     {
      "text": "Marie Antoinette"
     },
     {
-     "text": "Helen of Troy"
+     "text": "Helena von Troja"
     },
     {
-     "text": "Joan of Arc"
+     "text": "Sophie Friederike von Thurn und Taxis"
+    },
+    {
+     "text": "Alida Reynst"
+    },
+    {
+     "text": "Kaelyn Hiddekel Shepherd"
     }
    ],
    "id": "78603",
    "isValid": "",
-   "prompt": "Which of these women had the misfortune of being married to Henry VIII?",
-   "us": true,
+   "prompt": "Welche dieser Frauen hatten das Unglück mit [i]Henry VIII.[/i] verheiratet zu sein?",
+   "us": false,
    "x": false
   },
   {
@@ -8223,55 +8229,67 @@
   {
    "answers": [
     {
-     "text": "en passant"
+     "text": "En passant"
     },
     {
-     "text": "castling"
+     "text": "Rochade"
     },
     {
-     "text": "zugzwang"
+     "text": "Zugzwang"
     },
     {
-     "text": "gambit"
+     "text": "Gambit"
     },
     {
-     "text": "opening"
+     "text": "Eröffnung"
     },
     {
-     "text": "check"
+     "text": "Schachgebot"
     },
     {
-     "text": "double check"
+     "text": "Remis"
     },
     {
-     "text": "checkmate"
+     "text": "Schachmatt"
     },
     {
-     "text": "stalemate"
+     "text": "Patt"
     },
     {
-     "text": "promotion"
+     "text": "Umwandlung"
+    },
+    {
+     "text": "Zwickmühle"
     }
    ],
    "category": "Games",
    "decoys": [
     {
-     "text": "thrust and parry"
+     "text": "Angriff und Parieren"
     },
     {
-     "text": "rope-a-dope"
+     "text": "Rope-a-Dope"
     },
     {
-     "text": "schadenfreude"
+     "text": "Knöchelhahn"
     },
     {
-     "text": "bishop beatdown"
+     "text": "Blindside"
+    },
+    {
+     "text": "Falke"
+    },
+    {
+     "text": "Benzinger"
+    },
+    {
+     "text": "Gimme"
     }
    ],
    "id": "78798",
    "isValid": "",
-   "prompt": "Which words and phrases refer to chess terminology?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um Fachbegriffe aus dem Schach?",
+   "us": false,
    "x": false
   },
   {
@@ -8493,49 +8511,67 @@
   {
    "answers": [
     {
-     "text": "Harley Quinn"
+     "text": "Firefly"
     },
     {
-     "text": "owl"
+     "text": "Joker"
     },
     {
-     "text": "hawk"
+     "text": "Riddler"
     },
     {
-     "text": "Black Canary"
+     "text": "Doctor Death"
     },
     {
-     "text": "Huntress"
+     "text": "Mr. Freeze"
     },
     {
-     "text": "falcon"
+     "text": "Mad Hatter"
     },
     {
-     "text": "Renee Montoya"
+     "text": "Bane"
     },
     {
-     "text": "vulture"
+     "text": "Two-Face"
+    },
+    {
+     "text": "Catwoman"
+    },
+    {
+     "text": "Clayface"
     }
    ],
-   "category": "Animals",
+   "category": "Animation/Comic Books",
    "decoys": [
     {
      "text": "Hawkeye"
     },
     {
-     "text": "mockingjay"
+     "text": "Rhino"
     },
     {
-     "text": "Birdgirl"
+     "text": "Electro"
     },
     {
-     "text": "cardinal"
+     "text": "Loki"
+    },
+    {
+     "text": "Outrider"
+    },
+    {
+     "text": "Razor Fist"
+    },
+    {
+     "text": "Sandman"
+    },
+    {
+     "text": "Thanos"
     }
    ],
    "id": "78874",
    "isValid": "",
-   "prompt": "Which of these are actual birds of prey OR characters from the movie [i]Birds of Prey[/i]?",
-   "us": true,
+   "prompt": "Gegen welche dieser Bösewichte hat [i]Batman[/i] schon alles gekämpft?",
+   "us": false,
    "x": false
   },
   {
@@ -8910,55 +8946,55 @@
   {
    "answers": [
     {
-     "text": "waltz"
+     "text": "Walzer"
     },
     {
-     "text": "tango"
+     "text": "Tango"
     },
     {
-     "text": "foxtrot"
+     "text": "Foxtrott"
     },
     {
-     "text": "quickstep"
+     "text": "Quickstepp"
     },
     {
-     "text": "samba"
+     "text": "Samba"
     },
     {
-     "text": "cha-cha"
+     "text": "Cha-Cha-Cha"
     },
     {
-     "text": "rumba"
+     "text": "Rumba"
     },
     {
-     "text": "jive"
+     "text": "Jive"
     },
     {
-     "text": "paso doble"
+     "text": "Paso Doble"
     },
     {
-     "text": "swing"
+     "text": "Swing"
     }
    ],
    "category": "Theatre/Performing Arts",
    "decoys": [
     {
-     "text": "bustle"
+     "text": "Bustle"
     },
     {
-     "text": "pachinko"
+     "text": "Pachinko"
     },
     {
-     "text": "toro toro"
+     "text": "Torotoro"
     },
     {
-     "text": "torta"
+     "text": "Desperdicar"
     }
    ],
    "id": "79182",
    "isValid": "",
-   "prompt": "Which of these are ballroom dances?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um Gesellschaftstänze?",
+   "us": false,
    "x": false
   },
   {
@@ -9459,115 +9495,133 @@
   {
    "answers": [
     {
-     "text": "academically"
+     "text": "Hämorrhoiden"
     },
     {
-     "text": "antibusiness"
+     "text": "Staatsanwalt"
     },
     {
-     "text": "vengefulness"
+     "text": "Bibelseminar"
     },
     {
-     "text": "unsurprising"
+     "text": "Möbelhändler"
     },
     {
-     "text": "ultramaximal"
+     "text": "Outdoorjacke"
     },
     {
-     "text": "tropospheric"
+     "text": "Paartherapie"
     },
     {
-     "text": "timelessness"
+     "text": "Zollfahndung"
     },
     {
-     "text": "supernatural"
+     "text": "Rabattaktion"
     },
     {
-     "text": "romanticized"
+     "text": "Eventmanager"
     }
    ],
    "category": "Language/Words/Grammar",
    "decoys": [
     {
-     "text": "salamander"
+     "text": "Haarausfall"
     },
     {
-     "text": "razzamatazz"
+     "text": "Vogelfutter"
     },
     {
-     "text": "crackerjack"
+     "text": "Zahlenfolge"
     },
     {
-     "text": "alphabet"
+     "text": "Alphabet"
     },
     {
-     "text": "twelveletters"
+     "text": "Racheengel"
     },
     {
-     "text": "abbreviations"
+     "text": "Fabrikgelände"
+    },
+    {
+     "text": "Machtanspruch"
+    },
+    {
+     "text": "Zahlungsmittel"
+    },
+    {
+     "text": "Abschluss"
+    },
+    {
+     "text": "Fachzeitschrift"
     }
    ],
    "id": "79410",
    "isValid": "",
-   "prompt": "Which words have 12 letters?",
-   "us": true,
+   "prompt": "Welche dieser Wörter haben 12 Buchstaben?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Athletics"
+     "text": "Leichtathletik"
     },
     {
-     "text": "Diving"
+     "text": "Wasserspringen"
     },
     {
-     "text": "Sport Climbing"
+     "text": "Sportklettern"
     },
     {
-     "text": "3X3 Basketball"
+     "text": "3x3-Basketball"
     },
     {
      "text": "Basketball"
     },
     {
-     "text": "BMX Freestyle"
+     "text": "BMX-Freestyle"
     },
     {
-     "text": "Futsal"
+     "text": "Fußball"
     },
     {
-     "text": "Nordic Combined"
+     "text": "Nordische Kombination"
     },
     {
      "text": "Biathlon"
     },
     {
-     "text": "Rugby"
+     "text": "7-er Rugby"
     },
     {
-     "text": "Trampoline"
+     "text": "Trampolinturnen"
     }
    ],
    "category": "Sports",
    "decoys": [
     {
-     "text": "Extreme Pogo"
+     "text": "Militärpatrouille"
     },
     {
      "text": "4x4 Basketball"
     },
     {
-     "text": "Ice Driving"
+     "text": "Eislauf"
     },
     {
-     "text": "Octathlon"
+     "text": "Minigolf"
+    },
+    {
+     "text": "Cricket"
+    },
+    {
+     "text": "Hula Hoop"
     }
    ],
    "id": "79411",
    "isValid": "",
-   "prompt": "As of 2020, which of these are official Olympic sports?",
-   "us": true,
+   "prompt": "Welche dieser Sportarten sind Stand 2021 olympische Disziplinen?",
+   "us": false,
    "x": false
   },
   {
@@ -9614,65 +9668,71 @@
    ],
    "id": "79414",
    "isValid": "",
-   "prompt": "Which of these people have walked on the Moon?",
-   "us": true,
+   "prompt": "Welche dieser Personen konnten einen Spaziergang auf dem Mond machen?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "carpenter"
+     "text": "Rossameise"
     },
     {
-     "text": "fire"
+     "text": "Feuerameise"
     },
     {
-     "text": "mound-building"
+     "text": "Blutrote Raubameise"
     },
     {
-     "text": "nuisance"
+     "text": "Gemeine Rasenameise"
     },
     {
-     "text": "acrobat"
+     "text": "Crematogaster"
     },
     {
-     "text": "Argentine"
+     "text": "Argentinische Ameise"
     },
     {
-     "text": "field"
+     "text": "Waldameise"
     },
     {
-     "text": "leafcutter"
+     "text": "Blattschneiderameise"
     },
     {
-     "text": "harvester"
+     "text": "Pharaoameise"
     }
    ],
    "category": "Animals",
    "decoys": [
     {
-     "text": "picnic-ruining"
+     "text": "Dreiste Wildameise"
     },
     {
-     "text": "pants-filling"
+     "text": "Golgaeus-Ameise"
     },
     {
-     "text": "uncle"
+     "text": "Onkelameise"
     },
     {
-     "text": "big baby"
+     "text": "Kleine Riesenameise"
     },
     {
-     "text": "hyper-intelligent"
+     "text": "Vielfraß-Ameise"
     },
     {
-     "text": "road comic"
+     "text": "Strichameise"
+    },
+    {
+     "text": "Fadenameise"
+    },
+    {
+     "text": "Ameisenbär"
     }
    ],
    "id": "79415",
    "isValid": "",
-   "prompt": "Which of these are actual types of ants?",
-   "us": true,
+   "prompt": "Welches sind echte Ameisenarten?",
+   "us": false,
    "x": false
   },
   {
