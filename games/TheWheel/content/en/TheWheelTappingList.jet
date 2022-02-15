@@ -9768,25 +9768,31 @@
      "text": "Papyrus Gothic"
     },
     {
-     "text": "Delaware Bold"
+     "text": "Belgian Bold"
     },
     {
      "text": "Wingdangs"
     },
     {
      "text": "Arial Brush Script Sans"
+    },
+    {
+     "text": "Wayfair"
+    },
+    {
+     "text": "Atlantico"
     }
    ],
    "id": "79416",
    "isValid": "",
-   "prompt": "Which of these are names of actual fonts?",
-   "us": true,
+   "prompt": "Welches sind Namen von echten Schriftarten?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Idris Elba"
+     "text": "Mel Gibson"
     },
     {
      "text": "Blake Shelton"
@@ -9798,7 +9804,7 @@
      "text": "Ryan Reynolds"
     },
     {
-     "text": "Channing Tatum"
+     "text": "Johnny Depp"
     },
     {
      "text": "George Clooney"
@@ -9816,22 +9822,25 @@
      "text": "Patrick Swayze"
     },
     {
-     "text": "Nick Nolte"
+     "text": "Dwayne Johnson"
     },
     {
      "text": "Denzel Washington"
+    },
+    {
+     "text": "Mark Harmon"
     }
    ],
    "category": "Celebrities",
    "decoys": [
     {
-     "text": "Richard Kind"
+     "text": "Will Smith"
     },
     {
      "text": "John Quincy Adams"
     },
     {
-     "text": "The Babadook"
+     "text": "Til Schweiger"
     },
     {
      "text": "Tom Selleck"
@@ -9840,73 +9849,79 @@
      "text": "Clint Eastwood"
     },
     {
-     "text": "Cuba Gooding Jr."
+     "text": "Hayden Christensen"
+    },
+    {
+     "text": "Arnold Schwarzenegger"
     }
    ],
    "id": "79425",
    "isValid": "",
-   "prompt": "As of 2020, which of these gentlemen have been anointed [i]People[/i]'s Sexiest Men Alive?",
-   "us": true,
+   "prompt": "Welche dieser Gentlemen wurden bis 2021 vom US-amerikanischen [i]People Magazine[/i] zum “Sexiest Man Alive” gekürt?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Aaron Burr"
+     "text": "Olaf Scholz"
     },
     {
-     "text": "John Adams"
+     "text": "Philipp Rösler"
     },
     {
-     "text": "Adlai E. Stevenson"
+     "text": "Franz Müntefering"
     },
     {
-     "text": "Spiro Agnew"
+     "text": "Klaus Kinkel"
     },
     {
-     "text": "Walter Mondale"
+     "text": "Hans-Dietrich Genscher"
     },
     {
-     "text": "Al Gore"
+     "text": "Willy Brandt"
     },
     {
-     "text": "Dan Quayle"
+     "text": "Ludwig Erhard"
     },
     {
-     "text": "Dick Cheney"
+     "text": "Franz Blücher"
     },
     {
-     "text": "Joe Biden"
+     "text": "Sigmar Gabriel"
     },
     {
-     "text": "Mike Pence"
+     "text": "Egon Franke"
     },
     {
-     "text": "Kamala Harris"
-    },
-    {
-     "text": "Thomas Jefferson"
+     "text": "Joschka Fischer"
     }
    ],
    "category": "Historical Figures",
    "decoys": [
     {
-     "text": "Hillary Clinton"
+     "text": "Helmut Schmidt"
     },
     {
-     "text": "John F. Kennedy"
+     "text": "Gerhard Schröder"
     },
     {
-     "text": "Charles Barkley"
+     "text": "Konrad Adenauer"
     },
     {
-     "text": "Sarah Palin"
+     "text": "Joachim Gauck"
+    },
+    {
+     "text": "Theodor Heuss"
+    },
+    {
+     "text": "Thomas Kemmerich"
     }
    ],
    "id": "79426",
    "isValid": "",
-   "prompt": "Which of these people have served as U.S. Vice President?",
-   "us": true,
+   "prompt": "Welche dieser Personen waren Bundespräsidenten von Deutschland?",
+   "us": false,
    "x": false
   },
   {
@@ -10026,55 +10041,55 @@
   {
    "answers": [
     {
-     "text": "peacock"
+     "text": "Pfau"
     },
     {
-     "text": "wild turkey"
+     "text": "Truthahn"
     },
     {
-     "text": "pheasant"
+     "text": "Fasan"
     },
     {
-     "text": "quail"
+     "text": "Wachtel"
     },
     {
-     "text": "mallard duck"
+     "text": "Stockente"
     },
     {
-     "text": "crow"
+     "text": "Krähe"
     },
     {
-     "text": "bald eagle"
+     "text": "Weißkopfseeadler"
     },
     {
-     "text": "chicken"
+     "text": "Huhn"
     },
     {
-     "text": "sparrow"
+     "text": "Haussperling"
     }
    ],
    "category": "Animals",
    "decoys": [
     {
-     "text": "ostrich"
+     "text": "Afrikanischer Strauß"
     },
     {
-     "text": "kakapoo"
+     "text": "Kakapo"
     },
     {
-     "text": "penguin"
+     "text": "Pinguin"
     },
     {
-     "text": "kiwi"
+     "text": "Kiwi"
     },
     {
-     "text": "cassowary"
+     "text": "Kasuar"
     }
    ],
    "id": "79455",
    "isValid": "",
-   "prompt": "Which of these birds can get up and fly anytime they want?",
-   "us": true,
+   "prompt": "Welche dieser Vögel können fliegen?",
+   "us": false,
    "x": false
   },
   {
@@ -10182,7 +10197,7 @@
      "text": "[i]The King's Speech[/i]"
     },
     {
-     "text": "[i]The Favourite[/i]"
+     "text": "[i]The Favourite - Intrigen und Irrsinn[/i]"
     },
     {
      "text": "[i]Shakespeare in Love[/i]"
@@ -10191,43 +10206,46 @@
      "text": "[i]Elizabeth[/i]"
     },
     {
-     "text": "[i]Mary Queen of Scots[/i]"
+     "text": "[i]Maria Stuart, Königin von Schottland[/i]"
     },
     {
-     "text": "[i]The Other Boleyn Girl[/i]"
+     "text": "[i]Die Schwester der Königin[/i]"
     },
     {
-     "text": "[i]Henry V[/i]"
+     "text": "[i]Heinrich V.[/i]"
     },
     {
-     "text": "[i]Mrs. Brown[/i]"
+     "text": "[i]Ihre Majestät Mrs. Brown[/i]"
     },
     {
-     "text": "[i]Elizabeth: The Golden Age[/i]"
+     "text": "[i]Elizabeth – Das goldene Königreich[/i]"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "[i]The Princess Bride[/i]"
+     "text": "[i]Die Braut des Prinzen[/i]"
     },
     {
      "text": "[i]Kingsman: The Secret Service[/i]"
     },
     {
-     "text": "[i]The Butler[/i]"
+     "text": "[i]Der Butler[/i]"
     },
     {
-     "text": "[i]The Princess Diaries[/i]"
+     "text": "[i]Plötzlich Prinzessin[/i]"
     },
     {
      "text": "[i]King Ralph[/i]"
+    },
+    {
+     "text": "[i]Prinzessinnen Schutzprogramm[/i]"
     }
    ],
    "id": "79458",
    "isValid": "",
-   "prompt": "Which films are about real British royals?",
-   "us": true,
+   "prompt": "Welche dieser Filme handeln von echten britischen Royals?",
+   "us": false,
    "x": false
   },
   {
@@ -10281,67 +10299,79 @@
   {
    "answers": [
     {
-     "text": "king cobra"
+     "text": "Königskobra"
     },
     {
-     "text": "rattlesnake"
+     "text": "Klapperschlange"
     },
     {
-     "text": "copperhead"
+     "text": "Nordamerikanischer Kupferkopf"
     },
     {
-     "text": "black mamba"
+     "text": "Schwarze Mamba"
     },
     {
-     "text": "coral snake"
+     "text": "Schildnasenkobra"
     },
     {
-     "text": "cottonmouth"
+     "text": "Wassermokassinotter"
     },
     {
-     "text": "pit viper"
+     "text": "Grubenotter"
     },
     {
-     "text": "fierce snake"
+     "text": "Inlandtaipan"
+    },
+    {
+     "text": "Puffotter"
+    },
+    {
+     "text": "Kreuzotter"
     }
    ],
    "category": "Animals",
    "decoys": [
     {
-     "text": "ball python"
+     "text": "Königspython"
     },
     {
-     "text": "boa constrictor"
+     "text": "Abgottschlange"
     },
     {
-     "text": "anaconda"
+     "text": "Große Anakonda"
     },
     {
-     "text": "sandworm"
+     "text": "Sandwurm"
     },
     {
-     "text": "Severus Snake"
+     "text": "Ringelnatter"
     },
     {
-     "text": "garter snake"
+     "text": "Schlingnatter"
+    },
+    {
+     "text": "Luftschlange"
+    },
+    {
+     "text": "Feuerschlange"
     }
    ],
    "id": "79472",
    "isValid": "",
-   "prompt": "Which of these are actual venomous snakes?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um Giftschlangen?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Brazil"
+     "text": "Brasilien"
     },
     {
      "text": "Venezuela"
     },
     {
-     "text": "Colombia"
+     "text": "Kolumbien"
     },
     {
      "text": "Ecuador"
@@ -10350,10 +10380,10 @@
      "text": "Peru"
     },
     {
-     "text": "Bolivia"
+     "text": "Bolivien"
     },
     {
-     "text": "Argentina"
+     "text": "Argentinen"
     },
     {
      "text": "Paraguay"
@@ -10377,70 +10407,79 @@
      "text": "Guatemala"
     },
     {
-     "text": "Cuba"
+     "text": "Kuba"
     },
     {
-     "text": "Jamaica"
+     "text": "Jamaika"
     },
     {
-     "text": "Mexico"
+     "text": "Mexiko"
     },
     {
-     "text": "Dominican Republic"
+     "text": "Dominikanische Republik"
+    },
+    {
+     "text": "Kamerun"
+    },
+    {
+     "text": "Sierra Leone"
     }
    ],
    "id": "79494",
    "isValid": "",
-   "prompt": "Which of these countries are in South America?",
-   "us": true,
+   "prompt": "Welche dieser Länder liegen in Südamerika?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Turkey"
+     "text": "Türkei"
     },
     {
-     "text": "Greece"
+     "text": "Griechenland"
     },
     {
-     "text": "Egypt"
+     "text": "Ägypten"
     },
     {
-     "text": "Hungary"
+     "text": "Ungarn"
     },
     {
-     "text": "Macedonia"
+     "text": "Nordmazedonien"
     },
     {
-     "text": "Romania"
+     "text": "Rumänien"
     },
     {
-     "text": "Jordan"
+     "text": "Jordanien"
     },
     {
-     "text": "Bulgaria"
+     "text": "Bulgarien"
     }
    ],
    "category": "History",
    "decoys": [
     {
-     "text": "Finland"
+     "text": "Finnland"
     },
     {
-     "text": "Russia"
+     "text": "Russland"
     },
     {
-     "text": "Cairo"
+     "text": "Kairo"
     },
     {
-     "text": "Poland"
+     "text": "Polen"
+    },
+    {
+     "text": "Schweden"
     }
    ],
    "id": "79547",
    "isValid": "",
-   "prompt": "Which countries used to be part of the Ottoman Empire?",
-   "us": true,
+   "prompt": "Welche dieser Länder waren Teil des Osmanischen Reiches?",
+   "us": false,
    "x": false
   },
   {
@@ -10531,67 +10570,76 @@
     },
     {
      "text": "eBaumsworld"
+    },
+    {
+     "text": "AskMeAnything"
+    },
+    {
+     "text": "Bobongo"
     }
    ],
    "id": "79655",
    "isValid": "",
-   "prompt": "As of 2020, which of these are the most popular search engines in the world?",
-   "us": true,
+   "prompt": "Welche Suchmaschinen sind Stand 2020 weltweit am beliebtesten?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "[i]Breakfast of Champions[/i]"
+     "text": "[i]Think Big and Kick Ass[/i]"
     },
     {
-     "text": "[i]The Sirens of Titan[/i]"
+     "text": "[i]Trump: The Art of the Deal[/i]"
     },
     {
-     "text": "[i]Cat's Cradle[/i]"
+     "text": "[i]Trump: The Art of the Comeback[/i]"
     },
     {
-     "text": "[i]Slaughterhouse-Five[/i]"
+     "text": "[i]Why We Want You to Be Rich[/i]"
     },
     {
-     "text": "[i]God Bless You, Mr. Rosewater[/i]"
+     "text": "[i]Trump Tower[/i]"
     },
     {
-     "text": "[i]Player Piano[/i]"
+     "text": "[i]Time to Get Tough: Making America #1 Again[/i]"
     },
     {
-     "text": "[i]Bluebeard[/i]"
+     "text": "[i]Trump 101: The Way to Success[/i]"
     },
     {
-     "text": "[i]Mother Night[/i]"
+     "text": "[i]The Best Golf Advice I Ever Received[/i]"
     },
     {
-     "text": "[i]A Man Without a Country[/i]"
-    },
-    {
-     "text": "[i]Galápagos[/i]"
+     "text": "[i]Trump: Surviving at the Top[/i]"
     }
    ],
    "category": "Literature",
    "decoys": [
     {
-     "text": "[i]A Clockwork Orange[/i]"
+     "text": "[i]Trump: A Man With a Vision[/i]"
     },
     {
-     "text": "[i]The Hitchhiker's Guide to the Galaxy[/i]"
+     "text": "[i]How I Got President of The United States[/i]"
     },
     {
-     "text": "[i]A Confederacy of Dunces[/i]"
+     "text": "[i]The Five Most Expensive Restaurants in New York[/i]"
     },
     {
-     "text": "[i]One Flew Over the Cuckoo's Nest[/i]"
+     "text": "[i]Fire and Fury: Inside the Trump White House[/i]"
+    },
+    {
+     "text": "[i]Trump 101: Why Your Business Fails[/i]"
+    },
+    {
+     "text": "[i]How it Feels to Be Rich[/i]"
     }
    ],
    "id": "79657",
    "isValid": "",
-   "prompt": "Which of these are among the published works of Kurt Vonnegut?",
-   "us": true,
-   "x": false
+   "prompt": "Welche dieser Bücher entstammen der Feder von Donald Trump?",
+   "us": false,
+   "x": true
   },
   {
    "answers": [
@@ -10636,108 +10684,138 @@
     },
     {
      "text": "Camry"
+    },
+    {
+     "text": "Camelot"
+    },
+    {
+     "text": "Visa"
     }
    ],
    "id": "79659",
    "isValid": "",
-   "prompt": "Which of these are Honda automobile models?",
-   "us": true,
+   "prompt": "Welches sind Autos von [i]Honda[/i]?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "square knot"
+     "text": "Kreuzknoten"
     },
     {
-     "text": "bowline"
+     "text": "Palstek"
     },
     {
-     "text": "taut line hitch"
+     "text": "Topsegelschotstek"
     },
     {
-     "text": "figure eight"
+     "text": "Achtknoten"
     },
     {
-     "text": "clove hitch"
+     "text": "Webeleinenstek"
     },
     {
-     "text": "fisherman's knot"
+     "text": "Spierenstich"
     },
     {
-     "text": "blood knot"
+     "text": "Blutknoten"
     },
     {
-     "text": "timber hitch"
+     "text": "Zimmermannsknoten"
+    },
+    {
+     "text": "Würgeknoten"
     }
    ],
    "category": "Factoids",
    "decoys": [
     {
-     "text": "queen's gambit"
+     "text": "Dreherknoten"
     },
     {
-     "text": "papa's nightmare"
+     "text": "Halbmastschotstek"
     },
     {
-     "text": "squirrel's tail hitch"
+     "text": "Kolstek"
     },
     {
-     "text": "the script of [i]Inception[/i]"
+     "text": "Notknoten"
+    },
+    {
+     "text": "Philadelphiaknoten"
+    },
+    {
+     "text": "Fuchsknoten"
+    },
+    {
+     "text": "Federstek"
     }
    ],
    "id": "79664",
    "isValid": "",
-   "prompt": "Which of these are types of knots?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um Arten von Knoten?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "alligator"
+     "text": "Alligator"
     },
     {
-     "text": "iguana"
+     "text": "Leguan"
     },
     {
-     "text": "Gila monster"
+     "text": "Gila-Krustenechse"
     },
     {
-     "text": "crocodile"
+     "text": "Gecko"
     },
     {
-     "text": "king cobra"
+     "text": "Königskobra"
     },
     {
-     "text": "lizard"
+     "text": "Eidechse"
     },
     {
-     "text": "Komodo dragon"
+     "text": "Komodowaran"
     },
     {
-     "text": "river turtle"
+     "text": "Flussschildkröte"
     },
     {
-     "text": "tortoise"
+     "text": "Landschildkröten"
     },
     {
-     "text": "rattlesnake"
+     "text": "Klapperschlange"
+    },
+    {
+     "text": "Chamäleon"
     }
    ],
    "category": "Animals",
    "decoys": [
     {
-     "text": "toad"
+     "text": "Kröte"
     },
     {
-     "text": "salamander"
+     "text": "Salamander"
+    },
+    {
+     "text": "Maran"
+    },
+    {
+     "text": "Pirol"
+    },
+    {
+     "text": "Iberienzilpzalp"
     }
    ],
    "id": "79673",
    "isValid": "",
-   "prompt": "Which of these are cold-blooded reptiles?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um wechselwarme Reptilien?",
+   "us": false,
    "x": false
   },
   {
@@ -10842,28 +10920,28 @@
   {
    "answers": [
     {
-     "text": "[i]The Wrath of Khan[/i]"
+     "text": "[i]Der Zorn des Khan[/i]"
     },
     {
-     "text": "[i]The Search for Spock[/i]"
+     "text": "[i]Auf der Suche nach Mr. Spock[/i]"
     },
     {
-     "text": "[i]The Voyage Home[/i]"
+     "text": "[i]Zurück in die Gegenwart[/i]"
     },
     {
-     "text": "[i]The Final Frontier[/i]"
+     "text": "[i]Am Rande des Universums[/i]"
     },
     {
-     "text": "[i]The Undiscovered Country[/i]"
+     "text": "[i]Das unentdeckte Land[/i]"
     },
     {
-     "text": "[i]Generations[/i]"
+     "text": "[i]Treffen der Generationen[/i]"
     },
     {
-     "text": "[i]First Contact[/i]"
+     "text": "[i]Der erste Kontakt[/i]"
     },
     {
-     "text": "[i]Insurrection[/i]"
+     "text": "[i]Der Aufstand[/i]"
     },
     {
      "text": "[i]Nemesis[/i]"
@@ -10875,25 +10953,31 @@
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "[i]William Shatner Sings![/i]"
+     "text": "[i]Die Erleuchtung[/i]"
     },
     {
      "text": "[i]Revolution[/i]"
     },
     {
-     "text": "[i]The Phantom Menace[/i]"
+     "text": "[i]Der gespaltene Pfad[/i]"
     },
     {
-     "text": "[i]Fury Road[/i]"
+     "text": "[i]Das Imperium schlägt zurück[/i]"
     },
     {
-     "text": "[i]Judgment Day[/i]"
+     "text": "[i]Tag der Abrechnung[/i]"
+    },
+    {
+     "text": "[i]Die Wiederkehr[/i]"
+    },
+    {
+     "text": "[i]Die Rückkehr des Khan[/i]"
     }
    ],
    "id": "79805",
    "isValid": "",
-   "prompt": "Which of these are [i]Star Trek[/i] movies?",
-   "us": true,
+   "prompt": "Welches sind “[i]Star Trek[/i]”-Filme?",
+   "us": false,
    "x": false
   },
   {
@@ -11055,13 +11139,13 @@
      "text": "Brunei"
     },
     {
-     "text": "Myanmar/Burma"
+     "text": "Myanmar"
     },
     {
-     "text": "Cambodia"
+     "text": "Kambodscha"
     },
     {
-     "text": "Indonesia"
+     "text": "Indonesien"
     },
     {
      "text": "Laos"
@@ -11070,10 +11154,10 @@
      "text": "Malaysia"
     },
     {
-     "text": "The Philippines"
+     "text": "Die Philippinen"
     },
     {
-     "text": "Singapore"
+     "text": "Singapur"
     },
     {
      "text": "Thailand"
@@ -11082,16 +11166,16 @@
      "text": "Vietnam"
     },
     {
-     "text": "East Timor"
+     "text": "Osttimor"
     }
    ],
    "category": "Geography & Landmarks",
    "decoys": [
     {
-     "text": "South Korea"
+     "text": "Südkorea"
     },
     {
-     "text": "Mongolia"
+     "text": "Mongolei"
     },
     {
      "text": "Japan"
@@ -11100,31 +11184,34 @@
      "text": "Nepal"
     },
     {
-     "text": "India"
+     "text": "Indien"
+    },
+    {
+     "text": "Kamerun"
     }
    ],
    "id": "79860",
    "isValid": "",
-   "prompt": "Which countries are in Southeast Asia?",
-   "us": true,
+   "prompt": "Welche dieser Länder liegen in Südostasien?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Australia"
+     "text": "Australien"
     },
     {
-     "text": "Papua New Guinea"
+     "text": "Papua-Neuguinea"
     },
     {
-     "text": "New Zealand"
+     "text": "Neuseeland"
     },
     {
-     "text": "Fiji"
+     "text": "Fidschi"
     },
     {
-     "text": "Federated States of Micronesia"
+     "text": "Föderierte Staaten von Mikronesien"
     },
     {
      "text": "Samoa"
@@ -11145,15 +11232,34 @@
      "text": "Nauru"
     },
     {
-     "text": "Marshall Islands"
+     "text": "Marshallinseln"
     }
    ],
    "category": "Geography & Landmarks",
-   "decoys": [],
+   "decoys": [
+    {
+     "text": "Island"
+    },
+    {
+     "text": "Madagaskar"
+    },
+    {
+     "text": "Japan"
+    },
+    {
+     "text": "Barbados"
+    },
+    {
+     "text": "Bahrain"
+    },
+    {
+     "text": "Kap Verde"
+    }
+   ],
    "id": "79861",
    "isValid": "",
-   "prompt": "Which of these are countries of Oceania?",
-   "us": true,
+   "prompt": "Welche dieser Länder gehören zu Ozeanien?",
+   "us": false,
    "x": false
   },
   {
@@ -11213,49 +11319,55 @@
   {
    "answers": [
     {
-     "text": "right view (understanding)"
+     "text": "Rechte Anschauung"
     },
     {
-     "text": "right intention (thought)"
+     "text": "Rechte Absicht"
     },
     {
-     "text": "right speech"
+     "text": "Rechtes Reden"
     },
     {
-     "text": "right action"
+     "text": "Rechtes Handeln"
     },
     {
-     "text": "right livelihood"
+     "text": "Rechter Lebenserwerb"
     },
     {
-     "text": "right effort"
+     "text": "Rechtes Streben"
     },
     {
-     "text": "right mindfulness"
+     "text": "Rechte Achtsamkeit"
     },
     {
-     "text": "right concentration"
+     "text": "Rechtes Sich-Versenken"
     }
    ],
    "category": "Religion",
    "decoys": [
     {
-     "text": "right answers"
+     "text": "Rechte Antwort"
     },
     {
-     "text": "right questions"
+     "text": "Rechte Fragen"
     },
     {
-     "text": "right attachment"
+     "text": "Rechte Anlage"
     },
     {
-     "text": "right decoy"
+     "text": "Rechte Täuschung"
+    },
+    {
+     "text": "Rechte Politik"
+    },
+    {
+     "text": "Rechtes Verbreiten"
     }
    ],
    "id": "79921",
    "isValid": "",
-   "prompt": "Which of these are among the Noble Eightfold Path of Buddhism?",
-   "us": true,
+   "prompt": "Welches sind Teile des [i]edlen achtfachen Pfades[/i] des Buddhismus?",
+   "us": false,
    "x": false
   },
   {
