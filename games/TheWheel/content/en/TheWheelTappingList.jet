@@ -11373,97 +11373,109 @@
   {
    "answers": [
     {
-     "text": "Whatever goes upon two legs is an enemy."
+     "text": "Alles, was auf zwei Beinen geht, ist ein Feind."
     },
     {
-     "text": "Whatever goes upon four legs, or has wings, is a friend."
+     "text": "Alles, was auf vier Beinen geht oder Flügel hat, ist ein Freund."
     },
     {
-     "text": "No animal shall wear clothes."
+     "text": "Kein Tier soll Kleider tragen."
     },
     {
-     "text": "No animal shall sleep in a bed."
+     "text": "Kein Tier soll in einem Bett schlafen."
     },
     {
-     "text": "No animal shall drink alcohol."
+     "text": "Kein Tier soll Alkohol trinken."
     },
     {
-     "text": "No animal shall kill any other animal."
+     "text": "Kein Tier soll ein anderes Tier töten."
     },
     {
-     "text": "All animals are equal."
+     "text": "Alle Tiere sind gleich."
     }
    ],
    "category": "Literature",
    "decoys": [
     {
-     "text": "No animal shall use a weapon."
+     "text": "Kein Tier soll Waffen nutzen."
     },
     {
-     "text": "No animal shall wear jewelry or gaudy makeup."
+     "text": "Kein Tier soll Schmuck oder Schminke tragen."
     },
     {
-     "text": "No animal shall do drugs."
+     "text": "Kein Tier soll Drogen nehmen."
     },
     {
-     "text": "All animals must work until sundown."
+     "text": "Alle Tiere sollen bis zum Sonnenuntergang arbeiten."
     },
     {
-     "text": "All animals have a soul."
+     "text": "Jedes Tier hat eine Seele."
+    },
+    {
+     "text": "Kein Tier soll zurückgelassen werden."
+    },
+    {
+     "text": "Kein Tier soll das Internet benutzen."
     }
    ],
    "id": "79923",
    "isValid": "",
-   "prompt": "Which of these are the original commandments in the novel [i]Animal Farm[/i]?",
-   "us": true,
+   "prompt": "Welches sind die ursprünglichen Gebote aus dem Roman “[i]Farm der Tiere[/i]” von George Orwell?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "domain"
+     "text": "Domäne"
     },
     {
-     "text": "kingdom"
+     "text": "Reich"
     },
     {
-     "text": "phylum"
+     "text": "Stamm"
     },
     {
-     "text": "class"
+     "text": "Klasse"
     },
     {
-     "text": "order"
+     "text": "Ordnung"
     },
     {
-     "text": "family"
+     "text": "Familie"
     },
     {
-     "text": "genus"
+     "text": "Gattung"
     },
     {
-     "text": "species"
+     "text": "Lebewesen"
     }
    ],
    "category": "Animals",
    "decoys": [
     {
-     "text": "division"
+     "text": "Bereich"
     },
     {
-     "text": "rank"
+     "text": "Rang"
     },
     {
-     "text": "biome"
+     "text": "Biom"
     },
     {
-     "text": "non-rabbit"
+     "text": "Nichtsäuger"
+    },
+    {
+     "text": "Vereinigung"
+    },
+    {
+     "text": "Verband"
     }
    ],
    "id": "79925",
    "isValid": "",
-   "prompt": "What are the 8 taxonomic categories for organisms?",
-   "us": true,
+   "prompt": "Wie heißen die 8 taxonomischen Kategorien für Lebewesen?",
+   "us": false,
    "x": false
   },
   {
@@ -11526,124 +11538,127 @@
   {
    "answers": [
     {
-     "text": "Madison"
+     "text": "Duisburg"
     },
     {
-     "text": "Green Bay"
+     "text": "Dortmund"
     },
     {
-     "text": "Milwaukee"
+     "text": "Engelskirchen"
     },
     {
-     "text": "Racine"
+     "text": "Gelsenkirchen"
     },
     {
-     "text": "Eau Claire"
+     "text": "Mönchengladbach"
     },
     {
-     "text": "Appleton"
+     "text": "Mettmann"
     },
     {
-     "text": "Fond du Lac"
+     "text": "Recklinghausen"
     },
     {
-     "text": "Hayward"
+     "text": "Wuppertal"
     },
     {
-     "text": "Kenosha"
+     "text": "Würselen"
     },
     {
-     "text": "La Crosse"
+     "text": "Münster"
     },
     {
-     "text": "Manitowoc"
+     "text": "Leverkusen"
     },
     {
-     "text": "Oshkosh"
+     "text": "Lemgo"
     },
     {
-     "text": "Pewaukee"
-    },
-    {
-     "text": "Sheboygan"
-    },
-    {
-     "text": "Waterloo"
+     "text": "Kevelaer"
     }
    ],
    "category": "Geography & Landmarks",
    "decoys": [
     {
-     "text": "Kalamazoo City"
+     "text": "Homburg"
     },
     {
-     "text": "Battle Creek"
+     "text": "Dahlen"
     },
     {
      "text": "Duluth"
     },
     {
-     "text": "Minnetonka"
+     "text": "Gießen"
     },
     {
-     "text": "Westwego"
+     "text": "Göppingen"
+    },
+    {
+     "text": "Wittenberg"
+    },
+    {
+     "text": "Hemsedal"
     }
    ],
    "id": "79931",
    "isValid": "",
-   "prompt": "Which of these cities are located in Wisconsin?",
-   "us": true,
+   "prompt": "Welche dieser Städte liegen in Nordrhein-Westfalen?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Michelangelo's [i]David[/i]"
+     "text": "Michelangelos [i]David[/i]"
     },
     {
-     "text": "Rodin's [i]The Thinker[/i]"
+     "text": "Rodins [i]Der Denker[/i]"
     },
     {
-     "text": "Myron's [i]Discus Thrower/Discobulus[/i]"
+     "text": "Myrons [i]Diskobolos/Diskuswerfer[/i]"
     },
     {
-     "text": "da Vinci's [i]Vitruvian Man[/i]"
+     "text": "Da Vincis [i]Vitruvianischer Mensch[/i]"
     },
     {
-     "text": "Michelangelo's [i]The Creation of Adam[/i]"
+     "text": "Michelangelos [i]Die Erschaffung Adams[/i]"
     },
     {
-     "text": "Duquesnoy's [i]Manneken Pis[/i]"
+     "text": "Duquesnoys [i]Manneken Pis[/i]"
     },
     {
-     "text": "Donatello's the bronze [i]David[/i]"
+     "text": "Donatellos [i]David[/i]"
     }
    ],
    "category": "Art",
    "decoys": [
     {
-     "text": "Thutmose's [i]Nefertiti Bust[/i]"
+     "text": "Thutmosis [i]Büste der Nofretete[/i]"
     },
     {
-     "text": "Botticelli's [i]The Birth of Venus[/i]"
+     "text": "Botticellis [i]Die Geburt der Venus[/i]"
     },
     {
-     "text": "Wood's [i]American Gothic[/i]"
+     "text": "Woods [i]American Gothic[/i]"
     },
     {
-     "text": "Magritte's [i]The Son of Man[/i]"
+     "text": "Magrittes [i]Der Sohn des Mannes[/i]"
     },
     {
-     "text": "Duchamp's [i]Nude Descending a Staircase, No. 2[/i]"
+     "text": "Duchamps [i]Akt, eine Treppe herabsteigend Nr. 2[/i]"
     },
     {
-     "text": "Alexandros of Antioch’s [i]The Venus de Milo[/i]"
+     "text": "Alexandros von Antiochias [i]Venus von Milo[/i]"
+    },
+    {
+     "text": "Gainsboroughs [i]Knabe in Blau[/i]"
     }
    ],
    "id": "80098",
    "isValid": "",
-   "prompt": "Which notable pieces of art clearly show a penis?",
-   "us": true,
+   "prompt": "Welche dieser berühmten Kunstwerke zeigen ganz deutlich einen Penis?",
+   "us": false,
    "x": true
   },
   {
@@ -11790,7 +11805,10 @@
      "text": "Pikachu"
     },
     {
-     "text": "Jigglypuff"
+     "text": "Pummeluff"
+    },
+    {
+     "text": "Fox McCloud"
     }
    ],
    "category": "Games",
@@ -11802,76 +11820,88 @@
      "text": "Diddy Kong"
     },
     {
-     "text": "Eevee"
+     "text": "Evoli"
     },
     {
-     "text": "Princess Peach"
+     "text": "Prinzessin Peach"
     },
     {
      "text": "Tom Nook"
     },
     {
-     "text": "Shadow Kirby"
+     "text": "König Dedede"
+    },
+    {
+     "text": "Zelda"
+    },
+    {
+     "text": "Wario"
     }
    ],
    "id": "80309",
    "isValid": "",
-   "prompt": "Which of these are among the original 12 playable Super Smash Bros.?",
-   "us": true,
+   "prompt": "Welche dieser Charaktere waren Teil der 12 spielbaren Figuren im ersten “[i]Super Smash Bros.[/i]”?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "crab"
+     "text": "Japanische Riesenkrabbe"
     },
     {
-     "text": "lobster"
+     "text": "Hummer"
     },
     {
-     "text": "mantis shrimp"
+     "text": "Fangschreckenkrebs"
     },
     {
-     "text": "woodlouse"
+     "text": "Landassel"
     },
     {
-     "text": "barnacle"
+     "text": "Entenmuschel"
     },
     {
-     "text": "crayfish"
+     "text": "Zungenwurm"
     },
     {
-     "text": "Sea-Monkey"
+     "text": "Salinenkrebs"
     },
     {
-     "text": "prawn"
+     "text": "Garnele"
     },
     {
-     "text": "krill"
+     "text": "Krill"
     }
    ],
    "category": "Animals",
    "decoys": [
     {
-     "text": "head louse"
+     "text": "Pfeilschwanzkrebs"
     },
     {
-     "text": "mussel"
+     "text": "Miesmuschel"
     },
     {
-     "text": "Giant African land snail"
+     "text": "Große Achatschnecke"
     },
     {
-     "text": "sea urchin"
+     "text": "Seeigel"
     },
     {
-     "text": "scorpion"
+     "text": "Skorpion"
+    },
+    {
+     "text": "Salomonkrebs"
+    },
+    {
+     "text": "Seewalze"
     }
    ],
    "id": "80311",
    "isValid": "",
-   "prompt": "Which of these are crustaceans?",
-   "us": true,
+"prompt": "Wobei handelt es sich um Krebstiere?",
+   "us": false,
    "x": false
   },
   {
@@ -11931,49 +11961,61 @@
   {
    "answers": [
     {
-     "text": "[i]The Odyssey[/i]"
+     "text": "[i]Die Odyssee[/i]"
     },
     {
      "text": "[i]Antigone[/i]"
     },
     {
-     "text": "[i]The Iliad[/i]"
+     "text": "[i]Die Ilias[/i]"
     },
     {
-     "text": "[i]Oedipus Rex[/i]"
+     "text": "[i]König Ödipus[/i]"
     },
     {
-     "text": "[i]The Frogs[/i]"
+     "text": "[i]Die Frösche[/i]"
     },
     {
-     "text": "[i]Electra[/i]"
+     "text": "[i]Elektra[/i]"
     },
     {
-     "text": "[i]The Bacchae[/i]"
+     "text": "[i]Die Bakchen[/i]"
     }
    ],
    "category": "Literature",
    "decoys": [
     {
-     "text": "[i]Carmen Electra[/i]"
+     "text": "[i]Carmina Burana[/i]"
     },
     {
-     "text": "[i]The Grapes of Wrath[/i]"
+     "text": "[i]Früchte des Zorns[/i]"
     },
     {
-     "text": "[i]My Big Fat Greek Wedding[/i]"
+     "text": "[i]My Big Fat Greek Wedding – Hochzeit auf griechisch[/i]"
     },
     {
-     "text": "[i]Hedda Gabler[/i]"
+     "text": "[i]Das Phantom der Oper[/i]"
     },
     {
      "text": "[i]Jane Eyre[/i]"
+    },
+    {
+     "text": "[i]Der Ödipuskomplex[/i]"
+    },
+    {
+     "text": "[i]Kormilitsa[/i]"
+    },
+    {
+     "text": "[i]Die Geschichte des Moussaka[/i]"
+    },
+    {
+     "text": "[i]Der Tsipras[/i]"
     }
    ],
    "id": "80454",
    "isValid": "",
-   "prompt": "Which of the following are actual Greek classics?",
-   "us": true,
+   "prompt": "Welche der folgenden Werke sind echte griechische Klassiker?",
+   "us": false,
    "x": false
   },
   {
@@ -12027,37 +12069,40 @@
   {
    "answers": [
     {
-     "text": "[i]Scream[/i]"
+     "text": "[i]Scream - Schrei![/i]"
     },
     {
-     "text": "[i]The Blair Witch Project[/i]"
+     "text": "[i]Blair Witch Project[/i]"
     },
     {
-     "text": "[i]The Craft[/i]"
+     "text": "[i]Der Hexenclub[/i]"
     },
     {
-     "text": "[i]The Sixth Sense[/i]"
+     "text": "[i]The Sixth Sense - Der Sechste Sinn[/i]"
     },
     {
-     "text": "[i]The Ring[/i]"
+     "text": "[i]Ring - Das Original[/i]"
     },
     {
-     "text": "[i]Candyman[/i]"
+     "text": "[i]Candyman's Fluch[/i]"
     },
     {
-     "text": "[i]I Know What You Did Last Summer[/i]"
+     "text": "[i]Ich weiß, was du letzten Sommer getan hast[/i]"
+    },
+    {
+     "text": "[i]Sleepy Hollow[/i]"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "[i]The Shining[/i]"
+     "text": "[i]Shining[/i]"
     },
     {
      "text": "[i]Saw[/i]"
     },
     {
-     "text": "[i]The Conjuring[/i]"
+     "text": "[i]Conjuring - Die Heimsuchung[/i]"
     },
     {
      "text": "[i]Poltergeist[/i]"
@@ -12066,13 +12111,19 @@
      "text": "[i]The Cabin in the Woods[/i]"
     },
     {
-     "text": "[i]Rosemary’s Baby[/i]"
+     "text": "[i]Rosemaries Baby[/i]"
+    },
+    {
+     "text": "[i]Friedhof der Kuscheltiere[/i]"
+    },
+    {
+     "text": "[i]Resident Evil[/i]"
     }
    ],
    "id": "80465",
    "isValid": "",
-   "prompt": "Which horror movies were released in the 1990s?",
-   "us": true,
+   "prompt": "Welche dieser Horrorfilme wurden in den 1990ern veröffentlicht?",
+   "us": false,
    "x": false
   },
   {
@@ -12195,61 +12246,67 @@
   {
    "answers": [
     {
-     "text": "Papa"
+     "text": "Paula"
     },
     {
-     "text": "November"
+     "text": "Nordpol"
     },
     {
-     "text": "Whiskey"
+     "text": "Wilhelm"
     },
     {
-     "text": "Tango"
+     "text": "Theodor"
     },
     {
-     "text": "Foxtrot"
+     "text": "Friedrich"
     },
     {
-     "text": "Zulu"
+     "text": "Zacharias"
     },
     {
-     "text": "Golf"
+     "text": "Gustav"
     },
     {
-     "text": "Hotel"
+     "text": "Heinrich"
     },
     {
-     "text": "Romeo"
+     "text": "Richard"
     },
     {
-     "text": "Juliet"
+     "text": "Xanthippe"
     }
    ],
    "category": "Language/Words/Grammar",
    "decoys": [
     {
-     "text": "Mama"
+     "text": "Mutter"
     },
     {
-     "text": "December"
+     "text": "Dezember"
     },
     {
-     "text": "Carl"
+     "text": "Kartoffel"
+    },
+    {
+     "text": "Xaver"
     },
     {
      "text": "Zebra"
     },
     {
-     "text": "Mango"
+     "text": "Oskar"
     },
     {
-     "text": "Pisces"
+     "text": "Barbara"
+    },
+    {
+     "text": "Jonas"
     }
    ],
    "id": "81101",
    "isValid": "",
-   "prompt": "Which words are part of the NATO phonetic alphabet?",
-   "us": true,
+   "prompt": "Welche dieser Wörter sind Teil des deutschen Buchstabieralphabets?",
+   "us": false,
    "x": false
   },
   {
@@ -12303,49 +12360,52 @@
   {
    "answers": [
     {
-     "text": "[i]War & Peace[/i] by Leo Tolstoy"
+     "text": "[i]Krieg und Frieden[/i] von Leo Tolstoi"
     },
     {
-     "text": "[i]Infinite Jest[/i] by David Foster Wallace"
+     "text": "[i]Unendlicher Spaß[/i] von David Foster Wallace"
     },
     {
-     "text": "[i]Les Misérables[/i] by Victor Hugo"
+     "text": "[i]Die Elenden[/i] von Victor Hugo"
     },
     {
-     "text": "[i]The Lord of the Rings[/i] by J.R.R. Tolkein"
+     "text": "[i]Der Herr der Ringe[/i] von J.R.R. Tolkien"
     },
     {
-     "text": "[i]The Count of Monte Cristo[/i] by Alexandre Dumas"
+     "text": "[i]Der Graf von Monte Christo[/i] von Alexandre Dumas"
     },
     {
-     "text": "[i]Atlas Shrugged[/i] by Ayn Rand"
+     "text": "[i]Atlas wirft die Welt ab[/i] von Ayn Rand"
     },
     {
-     "text": "[i]The Stand[/i] by Stephen King"
+     "text": "[i]The Stand - Das letzte Gefecht[/i] von Stephen King"
     },
     {
-     "text": "[i]Don Quixote[/i] by Miguel de Cervantes"
+     "text": "[i]Don Quijote[/i] von Miguel de Cervantes"
+    },
+    {
+     "text": "[i]Limit[/i] von Frank Schätzing"
     }
    ],
    "category": "Literature",
    "decoys": [
     {
-     "text": "[i]Roots[/i] by Alex Haley"
+     "text": "[i]Wurzeln[/i] von Alex Haley"
     },
     {
-     "text": "[i]Misery[/i] by Stephen King"
+     "text": "[i]Sie[/i] von Stephen King"
     },
     {
-     "text": "[i]The Golden Compass[/i] by Philip Pullman"
+     "text": "[i]Der Goldene Kompass[/i] von Philip Pullman"
     },
     {
-     "text": "[i]Harry Potter and the Order of the Phoenix[/i] by J.K. Rowling"
+     "text": "[i]Harry Potter und der Orden des Phönix[/i] von J.K. Rowling"
     }
    ],
    "id": "81735",
    "isValid": "",
-   "prompt": "Which novels are over a thousand pages long?",
-   "us": true,
+   "prompt": "Welche dieser Romane erstrecken sich in ihrer originalen Ausgabe auf über tausend Seiten?",
+   "us": false,
    "x": false
   },
   {
@@ -12373,6 +12433,15 @@
     },
     {
      "text": "[i]Mega Man 2[/i]"
+    },
+    {
+     "text": "[i]Punch-Out!![/i]"
+    },
+    {
+     "text": "[i]Blaster Master[/i]"
+    },
+    {
+     "text": "[i]Yoshi[/i]"
     }
    ],
    "category": "",
@@ -12388,12 +12457,21 @@
     },
     {
      "text": "[i]Crash Bandicoot[/i]"
+    },
+    {
+     "text": "[i]F-Zero[/i]"
+    },
+    {
+     "text": "[i]Super Mario Kart[/i]"
+    },
+    {
+     "text": "[i]Tomb Raider[/i]"
     }
    ],
    "id": "81855",
    "isValid": "",
-   "prompt": "Which of these games were played on the original Nintendo Entertainment System?",
-   "us": true,
+   "prompt": "Welche dieser Spiele waren auf dem originalen [i]Nintendo Entertainment System[/i] (auch [i]NES[/i]) spielbar?",
+   "us": false,
    "x": false
   },
   {
