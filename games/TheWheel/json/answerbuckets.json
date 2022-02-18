@@ -304,7 +304,7 @@
 			]
 		},
         {
-			"keywords": ["Nintendo"],
+			"keywords": ["Nintendo","Mario","Luigi","Peach","Donkey Kong"],
 			"sequential": [],
 			"answers": [
 				"Für diese Frage muss ich meinen guten Freund Domtendo fragen.",
@@ -316,6 +316,31 @@
 				"Ich kann es verkraften mit 1fps Online Games zu spielen.",
 				"Kann ich Kommenatare wie: “Warum spielst du Kinderspiele?“ aushalten",
 				"Ich habe Freude daran, die Hälfte vom Jahr nur Ports zu spielen."
+			]
+		},
+      {
+			"keywords": ["Til Schweiger"],
+			"sequential": [],
+			"answers": [
+				"Der würde mich wenigstens verstehen, weil ich immerhin nicht nuschel",
+        "Über Til machen sich zwar viele lustig, aber er will vielleicht auch nur Liebe.",
+        "Wenn man Regie, Drehbuch und Schauspieler gleichzeitig ist, kann das nichts werden"
+			]
+		},
+      {
+			"keywords": ["Erde eine Scheibe","Ist die Welt eine Scheibe","Flache Erde","Flatearth","Flat Earth", "Erde flach", "Erde Scheibe"],
+			"sequential": [],
+			"answers": [
+				"Nein, die Erde ist mindestens genauso Rund wie ich.",
+        "Die Erde ist rund und zusätzlich von unglaublicher Größe!"
+			]
+		},
+      {
+			"keywords": ["Corona","Covid","Coronavirus"],
+			"sequential": [],
+			"answers": [
+				"Über Corona darf ich laut dem Gesundheitsamt keine Aussage treffen.",
+        "Die Regierung hat mir befohlen, zu Corona-Fragen zu schweigen."
 			]
 		},
         {
@@ -967,8 +992,25 @@
 				"Im britischen Imperiumssystem heißt die Maßeinheit “One Radish“. Das hat nichts mit dem Gemüse zu tun."
 			]
         },		
+      {
+            "keywords":["Wie"],
+            "sequential": ["alt"],
+            "answers":[ 
+				"Mindestens 30 Jahre. Wenn man der Biologie Glauben schenkt.",
+        "Stell dir schon mal den Timer auf 15 Minuten.",
+        "Kürzer als du denkst. Also leb dein Leben, alter!"
+      ]
+        },
+      {
+            "keywords":["Wie"],
+            "sequential": ["geht es dir"],
+            "answers":[ 
+				"Fantastisch! Danke der Nachfrage!",
+        "Großartig! Und jetzt bestaune meine unglaubliche Größe!"
+      ]
+        },
         {
-            "keywords":["Ist", "Ist nicht", "Kann", "Kann nicht", "Werde", "Wird", "War", "Brauche", "Hat", "Macht", "Kennt", "Kennst",  "Könnte", "Könntest", "Werden", "Soll", "Sollte", "Sollen", "Würde", "Würden", "Sind", "Bist", "Haben", "Hast", "Habe", "Hätte", "Hätten", "Darf", "Dürfen", "Darfst", "Dürft", "Können", "Könnt", "Mache", "Macht", "Machen"],
+            "keywords":["Ist", "Ist nicht", "Kann", "Kann nicht", "Werde", "Wird", "War", "Wirst", "Brauche", "Hat", "Macht", "Kennt", "Kennst",  "Könnte", "Könntest", "Werden", "Soll", "Sollte", "Sollen", "Würde", "Würden", "Sind", "Bist", "Haben", "Hast", "Habe", "Hätte", "Hätten", "Darf", "Dürfen", "Darfst", "Dürft", "Können", "Könnt", "Mache", "Macht", "Machen"],
             "sequential": [],
             "answers":[
 				"Auf einer Skala von 1-10: Wahrscheinlich nicht.", 
