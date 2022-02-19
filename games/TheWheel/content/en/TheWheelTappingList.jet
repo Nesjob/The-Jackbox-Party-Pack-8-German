@@ -12214,6 +12214,9 @@
     },
     {
      "text": "Franklin"
+    },
+    {
+     "text": "Woodstock"
     }
    ],
    "category": "Animation/Comic Books",
@@ -12222,25 +12225,31 @@
      "text": "Odie"
     },
     {
-     "text": "Jon Arbuckle"
+     "text": "Jon"
     },
     {
-     "text": "Sally Mae"
+     "text": "Stephen"
     },
     {
-     "text": "Miss Wormwood"
+     "text": "Mrs. Norton"
     },
     {
-     "text": "Genevieve"
+     "text": "Genoveva"
     },
     {
      "text": "Doug"
+    },
+    {
+     "text": "Max"
+    },
+    {
+     "text": "Jaqueline"
     }
    ],
    "id": "81065",
    "isValid": "",
-   "prompt": "Which of these names belong to [i]Peanuts[/i] characters?",
-   "us": true,
+   "prompt": "Welche dieser Namen gehören zu Charakteren aus “[i]Die Peanuts[/i]”?",
+   "us": false,
    "x": false
   },
   {
@@ -12480,13 +12489,13 @@
      "text": "Tigger"
     },
     {
-     "text": "Eeyore"
+     "text": "Lumpi"
     },
     {
-     "text": "Piglet"
+     "text": "Ferkel"
     },
     {
-     "text": "Owl"
+     "text": "Eule"
     },
     {
      "text": "Rabbit"
@@ -12495,31 +12504,37 @@
      "text": "Christopher Robin"
     },
     {
-     "text": "Kanga and Roo"
+     "text": "Kanga"
+    },
+    {
+     "text": "Ruh"
     }
    ],
    "category": "Animation/Comic Books",
    "decoys": [
     {
-     "text": "Falcon"
+     "text": "Falke"
     },
     {
-     "text": "Jiminy Cricket"
+     "text": "Jiminy Grille"
     },
     {
-     "text": "Aslan"
+     "text": "Löwwe"
     },
     {
-     "text": "Heffalumps"
+     "text": "Heffalump"
     },
     {
-     "text": "Woozles"
+     "text": "Wuschel"
+    },
+    {
+     "text": "Jagular"
     }
    ],
    "id": "82094",
    "isValid": "",
-   "prompt": "Who are Winnie the Pooh's friends?",
-   "us": true,
+   "prompt": "Welches sind Freunde von [i]Winnie Puuh[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -12540,10 +12555,13 @@
      "text": "Camille Pissarro"
     },
     {
-     "text": "Mary Cassat"
+     "text": "Mary Cassatt"
     },
     {
      "text": "Alfred Sisley"
+    },
+    {
+     "text": "Berthe Morisot"
     }
    ],
    "category": "Art",
@@ -12562,12 +12580,15 @@
     },
     {
      "text": "Salvador Dali"
+    },
+    {
+     "text": "August Macke"
     }
    ],
    "id": "82096",
    "isValid": "",
-   "prompt": "Which artists were impressionist painters of the 19th century?",
-   "us": true,
+   "prompt": "Welche dieser Künstler waren impressionistische Maler des 19. Jahrhunderts?",
+   "us": false,
    "x": false
   },
   {
@@ -12643,6 +12664,9 @@
     },
     {
      "text": "377"
+    },
+    {
+     "text": "1597"
     }
    ],
    "category": "Math",
@@ -12658,12 +12682,15 @@
     },
     {
      "text": "992"
+    },
+    {
+     "text": "322"
     }
    ],
    "id": "82099",
    "isValid": "",
-   "prompt": "Which numbers are in the Fibonacci Sequence?",
-   "us": true,
+   "prompt": "Welche dieser Zahlen sind Teil der Fibonacci-Folge?",
+   "us": false,
    "x": false
   },
   {
@@ -12717,97 +12744,115 @@
   {
    "answers": [
     {
-     "text": "Boxing Day"
+     "text": "Neujahr"
     },
     {
-     "text": "Guy Fawkes Night"
+     "text": "Karfreitag"
     },
     {
-     "text": "St. George's Day"
+     "text": "Ostermontag"
     },
     {
-     "text": "Maundy Thursday"
+     "text": "Tag der Arbeit"
     },
     {
-     "text": "Hogmanay"
+     "text": "(Christi-)Himmelfahrt"
     },
     {
-     "text": "Remembrance Day"
+     "text": "Pfingstmontag"
     },
     {
-     "text": "Burns' Night"
+     "text": "Tag der Deutschen Einheit"
     },
     {
-     "text": "The Queen's Birthday"
+     "text": "1. & 2. Weihnachtsfeiertag"
     }
    ],
    "category": "Calendar/Holidays",
    "decoys": [
     {
-     "text": "Midsommar"
+     "text": "Buß- und Bettag"
     },
     {
-     "text": "St. Bevedere's Day"
+     "text": "Allerheiligen"
     },
     {
-     "text": "Bloody Sunday"
+     "text": "Reformationstag"
     },
     {
-     "text": "Commonwealth Day"
+     "text": "Weltkindertag"
+    },
+    {
+     "text": "Mariä Himmelfahrt"
+    },
+    {
+     "text": "Pfingstsonntag"
+    },
+    {
+     "text": "Heilige Drei Könige"
+    },
+    {
+     "text": "Fronleichnam"
+    },
+    {
+     "text" : "Frauentag"
+    },
+    {
+     "text": "Ostersonntag"
     }
    ],
    "id": "82102",
    "isValid": "",
-   "prompt": "Which of these are holidays celebrated in the United Kingdom?",
-   "us": true,
+   "prompt": "An welchen dieser gesetzlichen Feiertage hat ganz Deutschland frei?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "hypothalamus"
+     "text": "Hypothalamus"
     },
     {
-     "text": "pituitary gland"
+     "text": "Hirnanhangsdrüse"
     },
     {
-     "text": "thyroid gland"
+     "text": "Schilddrüse"
     },
     {
-     "text": "parathyroids"
+     "text": "Nebenschilddrüse"
     },
     {
-     "text": "adrenal gland"
+     "text": "Nebenniere"
     },
     {
-     "text": "pineal body"
+     "text": "Zirbeldrüse"
     },
     {
-     "text": "ovaries"
+     "text": "Eierstock"
     },
     {
-     "text": "testes"
+     "text": "Hoden"
     }
    ],
    "category": "Anatomy",
    "decoys": [
     {
-     "text": "liver"
+     "text": "Leber"
     },
     {
-     "text": "gallbladder"
+     "text": "Gallenblase"
     },
     {
-     "text": "hippocampus"
+     "text": "Hippocampus"
     },
     {
-     "text": "ultralisk cavern"
+     "text": "Milz"
     }
    ],
    "id": "82104",
    "isValid": "",
-   "prompt": "Which organs are part of the endocrine system?",
-   "us": true,
+   "prompt": "Welche dieser Organe sind Teil des Hormonsystems?",
+   "us": false,
    "x": false
   },
   {
@@ -12861,7 +12906,7 @@
   {
    "answers": [
     {
-     "text": "[i]Grease[/i]"
+     "text": "[i]Grease - Schmiere[/i]"
     },
     {
      "text": "[i]Pulp Fiction[/i]"
@@ -12870,16 +12915,16 @@
      "text": "[i]Michael[/i]"
     },
     {
-     "text": "[i]Saturday Night Fever[/i]"
+     "text": "[i]Saturday Night Fever[/i]/[i]Nur Samstag Nacht[/i]"
     },
     {
      "text": "[i]Urban Cowboy[/i]"
     },
     {
-     "text": "[i]The Experts[/i]"
+     "text": "[i]Die Experten[/i]"
     },
     {
-     "text": "[i]Look Who's Talking[/i]"
+     "text": "[i]Kuck mal, wer da spricht![/i]"
     },
     {
      "text": "[i]Perfect[/i]"
@@ -12891,97 +12936,121 @@
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "[i]Battlefield Earth[/i]"
+     "text": "[i]Battlefield Earth – Kampf um die Erde[/i]"
     },
     {
-     "text": "[i]Phenomenon[/i]"
+     "text": "[i]Phenomenon – Das Unmögliche wird wahr[/i]"
     },
     {
      "text": "[i]Waterworld[/i]"
+    },
+    {
+     "text": "[i]High School Musical[/i]"
+    },
+    {
+     "text": "[i]Billy Elliot – I Will Dance[/i]"
     }
    ],
    "id": "82626",
    "isValid": "",
-   "prompt": "Which movies feature John Travolta dancing?",
-   "us": true,
+   "prompt": "In welchen dieser Filme sieht man John Travolta tanzen?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Stuttgart"
+     "text": "Toronto"
     },
     {
-     "text": "Frankfurt am Main"
+     "text": "Montreal"
     },
     {
-     "text": "Berlin"
+     "text": "Vancouver"
     },
     {
-     "text": "Brandenberg"
+     "text": "Edmonton"
     },
     {
-     "text": "Bonn"
+     "text": "Hamilton"
     },
     {
-     "text": "Hamburg"
+     "text": "Ottawa"
     },
     {
-     "text": "Dresden"
+     "text": "Québec"
     },
     {
-     "text": "Bremen"
+     "text": "Cambridge"
+    },
+    {
+     "text": "Brampton"
+    },
+    {
+     "text": "Guelph"
     }
    ],
    "category": "Geography & Landmarks",
    "decoys": [
     {
-     "text": "Vienna"
+     "text": "Sapporo"
     },
     {
-     "text": "Salzburg"
+     "text": "Seattle"
     },
     {
-     "text": "Warsaw"
+     "text": "Rochester"
     },
     {
-     "text": "Zürich"
+     "text": "Dijon"
     },
     {
-     "text": "Moscow"
+     "text": "Toulouse"
     },
     {
-     "text": "Innsbruck"
+     "text": "Livingstone"
+    },
+    {
+     "text": "Maputo"
+    },
+    {
+     "text": "Bogotá"
+    },
+    {
+     "text": "Melbourne"
+    },
+    {
+     "text": "Winneba"
     }
    ],
    "id": "82635",
    "isValid": "",
-   "prompt": "Which cities are in Germany?",
-   "us": true,
+   "prompt": "Welche dieser Städte liegen in Kanada?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Brittany (Bretagne)"
+     "text": "Bretagne"
     },
     {
-     "text": "Corsica (Corse)"
+     "text": "Corsica"
     },
     {
-     "text": "Ile-de-France (Paris)"
+     "text": "Ile-de-France (Agglomeration Paris)"
     },
     {
-     "text": "Normandy (Normandie)"
+     "text": "Normandie"
     },
     {
-     "text": "Grand Est (Alsace, Champagne, Lorraine)"
+     "text": "Grand Est (Alsace-Champagne-Ardenne-Lorrai)"
     },
     {
-     "text": "Hauts de France"
+     "text": "Hauts-de-France"
     },
     {
-     "text": "Auvergne-Rhone Alpes"
+     "text": "Auvergne-Rhone-Alpes"
     },
     {
      "text": "Nouvelle-Aquitaine"
@@ -12990,34 +13059,37 @@
    "category": "Geography & Landmarks",
    "decoys": [
     {
-     "text": "Baden-Wurtemburg"
+     "text": "Castilla-La Mancha"
     },
     {
-     "text": "Bohemia"
+     "text": "Böhmen"
     },
     {
-     "text": "West Flanders"
+     "text": "Flandre-Occidentale"
     },
     {
-     "text": "Quebec"
+     "text": "Québec"
+    },
+    {
+     "text": "Asturias"
     }
    ],
    "id": "82646",
    "isValid": "",
-   "prompt": "Which of these are regions of France?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um Regionen in Frankreich?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Russia"
+     "text": "Russland"
     },
     {
-     "text": "Lithuania"
+     "text": "Litauen"
     },
     {
-     "text": "Latvia"
+     "text": "Lettland"
     },
     {
      "text": "Ukraine"
@@ -13026,34 +13098,34 @@
      "text": "Belarus"
     },
     {
-     "text": "Georgia"
+     "text": "Georgien"
     },
     {
-     "text": "Uzbekistan"
+     "text": "Usbekistan"
     },
     {
-     "text": "Armenia"
+     "text": "Armenien"
     }
    ],
    "category": "Geography & Landmarks",
    "decoys": [
     {
-     "text": "Romania"
+     "text": "Rumänien"
     },
     {
-     "text": "Poland"
+     "text": "Polen"
     },
     {
-     "text": "Yugoslavia"
+     "text": "Jugoslawien"
     },
     {
-     "text": "Czechoslovakia"
+     "text": "Tschechoslowakei"
     }
    ],
    "id": "82650",
    "isValid": "",
-   "prompt": "Which countries were members of the Soviet Union?",
-   "us": true,
+   "prompt": "Welche dieser Länder waren Teil der Sowjetunion?",
+   "us": false,
    "x": false
   },
   {
@@ -13062,154 +13134,199 @@
      "text": "Ukraine"
     },
     {
-     "text": "Yakutsk"
+     "text": "Irkutsk"
     },
     {
-     "text": "Western United States"
+     "text": "Weststaaten"
     },
     {
-     "text": "Kamchatka"
+     "text": "Kamtschatka"
     },
     {
-     "text": "Argentina"
+     "text": "Argentinen"
     },
     {
-     "text": "Congo"
+     "text": "Kongo"
     },
     {
      "text": "Siam"
     },
     {
-     "text": "Middle East"
+     "text": "Mittlerer Osten"
+    },
+    {
+     "text": "Ural"
+    },
+    {
+     "text": "Island"
+    },
+    {
+     "text": "Japan"
+    },
+    {
+     "text": "Ontario"
     }
    ],
    "category": "Games",
    "decoys": [
     {
-     "text": "Northern Australia"
+     "text": "Nord-Australien"
     },
     {
-     "text": "Burma"
+     "text": "Myanmar"
     },
     {
      "text": "Kombucha"
     },
     {
      "text": "Sudan"
+    },
+    {
+     "text": "Chile"
+    },
+    {
+     "text": "Antarktis"
+    },
+    {
+     "text": "Arktis"
+    },
+    {
+     "text": "Südamerika"
     }
    ],
    "id": "82676",
    "isValid": "",
-   "prompt": "Which of these are regions on a [i]Risk[/i] board?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um Regionen auf einem [i]Risiko[/i]-Spielbrett?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "red"
+     "text": "Gelb"
     },
     {
-     "text": "blue"
+     "text": "Orange"
     },
     {
-     "text": "yellow"
+     "text": "Zinnoberrot"
     },
     {
-     "text": "orange"
+     "text": "Magentarot"
     },
     {
-     "text": "green"
+     "text": "Violett"
     },
     {
-     "text": "violet"
+     "text": "Ultramarinblau"
     },
     {
-     "text": "brown"
+     "text": "Cyanblau"
     },
     {
-     "text": "black"
+     "text": "Blaugrün"
     },
     {
-     "text": "white"
+     "text": "Gelbgrün"
     },
     {
-     "text": "gray"
+     "text": "Ockergelb"
     },
     {
-     "text": "carnation pink"
+     "text": "Gebrannte Siena"
     },
     {
-     "text": "indigo"
+     "text": "Schwarz"
     }
    ],
    "category": "Factoids",
    "decoys": [
     {
-     "text": "cerulean"
+     "text": "Khaki"
     },
     {
-     "text": "apricot"
+     "text": "Tiefbraun"
     },
     {
-     "text": "yellow green"
+     "text": "Scharlachrot"
     },
     {
-     "text": "scarlet"
+     "text": "Pfauenblau"
+    },
+    {
+     "text": "Pflaume"
+    },
+    {
+     "text": "Rosa"
+    },
+    {
+     "text": "Signalgrün"
+    },
+    {
+     "text": "Hibiskus"
     }
    ],
    "id": "82678",
    "isValid": "",
-   "prompt": "What colors are in a 12-pack of Crayola crayons?",
-   "us": true,
+   "prompt": "Welche 12 Farben sind in einem normalen [i]Pelikan[/i]-Wasserfarbkasten?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "trapezius"
+     "text": "Trapezmuskel"
     },
     {
-     "text": "latissimus dorsi"
+     "text": "Großer Rückenmuskel"
     },
     {
-     "text": "rhomboid major"
+     "text": "Großer Rautenmuskel"
     },
     {
-     "text": "serratus posterior superior"
+     "text": "Hinterer oberer Sägezahnmuskel"
     },
     {
-     "text": "splenius cervicus"
+     "text": "Hinterer unterer Sägezahnmuskel"
     },
     {
-     "text": "levator scapulae"
+     "text": "Schulterblattheber"
     },
     {
-     "text": "semispinalis"
+     "text": "Halbdornmuskel"
     },
     {
-     "text": "longissimus"
+     "text": "Bogorodsky-Zwischensehne"
     }
    ],
    "category": "Anatomy",
    "decoys": [
     {
-     "text": "rhomboid inferior"
+     "text": "Stiller Rautenmuskel"
     },
     {
-     "text": "transversus abdominis"
+     "text": "Querverlaufender Bauchmuskel"
     },
     {
-     "text": "pectoralis major"
+     "text": "Großer Brustmuskel"
     },
     {
-     "text": "deltoid"
+     "text": "Deltamuskel"
+    },
+    {
+     "text": "Volldornmuskel"
+    },
+    {
+     "text": "Schneidermuskel"
+    },
+    {
+     "text": "Kammmuskel"
     }
    ],
    "id": "82688",
    "isValid": "",
-   "prompt": "Which of these are muscles of the human back?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um Muskeln aus dem menschlichen Rücken?",
+   "us": false,
    "x": false
   },
   {
@@ -13317,124 +13434,124 @@
   {
    "answers": [
     {
-     "text": "beanie"
+     "text": "Beanie"
     },
     {
-     "text": "deerstalker"
+     "text": "Deerstalker-Mütze"
     },
     {
-     "text": "fez"
+     "text": "Fes"
     },
     {
-     "text": "fedora"
+     "text": "Fedora"
     },
     {
-     "text": "baseball cap"
+     "text": "Baseballkappe"
     },
     {
-     "text": "beret"
+     "text": "Barett"
     },
     {
-     "text": "top hat"
+     "text": "Zylinder"
     },
     {
-     "text": "cowboy hat"
+     "text": "Cowboyhut"
     },
     {
-     "text": "ushanka"
+     "text": "Uschanka"
     },
     {
-     "text": "bowler"
+     "text": "Melone"
     }
    ],
    "category": "Fashion",
    "decoys": [
     {
-     "text": "welding cap"
+     "text": "Schweißhelm"
     },
     {
-     "text": "excavator hat"
+     "text": "Fingerhut"
     },
     {
-     "text": "self-driving hat"
+     "text": "Exkavator"
     },
     {
-     "text": "pierogi"
+     "text": "Pirogge"
     },
     {
-     "text": "rattle cap"
+     "text": "Clapé-Hut"
     },
     {
-     "text": "Eames visor"
+     "text": "Mountbatten"
     }
    ],
    "id": "82694",
    "isValid": "",
-   "prompt": "Which of these hats are real hats?",
-   "us": true,
+   "prompt": "Vor welchen dieser Hüte sollte ich mich hüten, da sie wirklich existieren?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Kill The Nemean Lion"
+     "text": "Erlegung des Nemeischen Löwen"
     },
     {
-     "text": "Slay The Lernaean Hydra"
+     "text": "Tötung der neunköpfigen Hydra"
     },
     {
-     "text": "Capture the Ceryneian Hind"
+     "text": "Einfangen der Kerynitischen Hirschkuh"
     },
     {
-     "text": "Capture the Erymanthian Boar"
+     "text": "Einfangen des Erymanthischen Ebers"
     },
     {
-     "text": "Clean the Augean Stables"
+     "text": "Ausmisten der Rinderställe des Augias"
     },
     {
-     "text": "Slay The Stymphalian Birds"
+     "text": "Vertreibung der Stymphalischen Vögel"
     },
     {
-     "text": "Capture The Cretan Bull"
+     "text": "Einfangen des Kretischen Stiers"
     },
     {
-     "text": "Capture The Mares Of Diomedes"
+     "text": "Zähmung der menschenfressenden Rosse des Diomedes"
     },
     {
-     "text": "Obtain The Belt of Hippolyte"
+     "text": "Herbeischaffung des Gürtels der Hippolyte"
     },
     {
-     "text": "Obtain The Cattle of Geryon"
+     "text": "Raub der Rinderherde des Riesen Geryon"
     },
     {
-     "text": "Steal Three Golden Apples"
+     "text": "Pflücken der goldenen Äpfel der Hesperiden"
     },
     {
-     "text": "Kidnap Cerberus"
+     "text": "Heraufbringen des Kerberos an die Oberwelt"
     }
    ],
    "category": "Literature",
    "decoys": [
     {
-     "text": "Capture The Best Parking Space"
+     "text": "Sichern des besten Parkplatzes"
     },
     {
-     "text": "Steal Ten Silver Arrows"
+     "text": "Stehlen der silbernen Pfeile der Artemis"
     },
     {
-     "text": "Slay The Crimean Avatar"
+     "text": "Den Beschützer des Tauris täuschen"
     },
     {
-     "text": "Eat The Final Pickle"
+     "text": "Bekämpfen der Samosischen Hähne"
     },
     {
-     "text": "Digest The Final Pickle"
+     "text": "Stehlen des letzten Granatapfel der Hera"
     }
    ],
    "id": "82698",
    "isValid": "",
-   "prompt": "Which tasks were assigned to Hercules as part of his famous Twelve Labors?",
-   "us": true,
+   "prompt": "Welche Aufgaben wurden Herkules im Rahmen seiner “zwölf Arbeiten” aufgetragen?",
+   "us": false,
    "x": false
   },
   {
@@ -13503,115 +13620,121 @@
   {
    "answers": [
     {
-     "text": "right whale"
+     "text": "Südkaper"
     },
     {
-     "text": "bowhead whale"
+     "text": "Grönlandwal"
     },
     {
-     "text": "gray whale"
+     "text": "Grauwal"
     },
     {
-     "text": "humpback whale"
+     "text": "Buckelwal"
     },
     {
-     "text": "Bryde's whale"
+     "text": "Brydewal"
     },
     {
-     "text": "sperm whale"
+     "text": "Pottwal"
     },
     {
-     "text": "beaked whale"
+     "text": "Schnabelwal"
     },
     {
-     "text": "beluga whale"
+     "text": "Weißwal"
     },
     {
-     "text": "narwhal"
+     "text": "Narwal"
     },
     {
-     "text": "North Atlantic right whale"
+     "text": "Atlantischer Nordkaper"
+    },
+    {
+     "text": "La-Plata-Delfin"
     }
    ],
    "category": "Animals",
    "decoys": [
     {
-     "text": "South Pacific left whale"
+     "text": "Pazifischer Krillwal"
     },
     {
-     "text": "whale shark"
+     "text": "Walhai"
     },
     {
-     "text": "tiger whale"
+     "text": "Schnauzenwal"
     },
     {
-     "text": "grouper"
+     "text": "Faskolarwal"
+    },
+    {
+     "text": "Bundestagswal"
     }
    ],
    "id": "82703",
    "isValid": "",
-   "prompt": "Which of these is a real species of whale?",
-   "us": true,
+   "prompt": "Welches sind echte Walarten?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Belgium"
+     "text": "Belgien"
     },
     {
-     "text": "Canada"
+     "text": "Kanada"
     },
     {
-     "text": "Denmark"
+     "text": "Dänemark"
     },
     {
-     "text": "France"
+     "text": "Frankreich"
     },
     {
-     "text": "Iceland"
+     "text": "Island"
     },
     {
-     "text": "Italy"
+     "text": "Italien"
     },
     {
-     "text": "Luxembourg"
+     "text": "Luxemburg"
     },
     {
-     "text": "The Netherlands"
+     "text": "Niederlande"
     },
     {
-     "text": "Norway"
+     "text": "Norwegen"
     },
     {
      "text": "Portugal"
     },
     {
-     "text": "The United Kingdom"
+     "text": "Vereinigtes Königreich"
     },
     {
-     "text": "The United States"
+     "text": "Vereinigte Staaten von Amerika"
     }
    ],
    "category": "History",
    "decoys": [
     {
-     "text": "Spain"
+     "text": "Spanien"
     },
     {
-     "text": "Greece"
+     "text": "Griechenland"
     },
     {
-     "text": "Russia"
+     "text": "Russland"
     },
     {
-     "text": "Germany"
+     "text": "Deutschland"
     }
    ],
    "id": "82704",
    "isValid": "",
-   "prompt": "Which nations were among the founding members of NATO in 1949?",
-   "us": true,
+   "prompt": "Welche dieser Länder waren Gründungsmitglieder der NATO im Jahr 1949?",
+   "us": false,
    "x": false
   },
   {
@@ -13626,7 +13749,7 @@
      "text": "Buenos Aires"
     },
     {
-     "text": "Santiago"
+     "text": "Santiago de Chile"
     },
     {
      "text": "Quito"
@@ -13650,19 +13773,25 @@
      "text": "São Paulo"
     },
     {
-     "text": "Salvador"
+     "text": "San Salvador"
+    },
+    {
+     "text": "Salvador de Bahia"
     },
     {
      "text": "Cali Fornia"
     },
     {
      "text": "Cartagena"
+    },
+    {
+     "text": "Mérida"
     }
    ],
    "id": "82705",
    "isValid": "",
-   "prompt": "Which of these are capital cities of South American countries?",
-   "us": true,
+   "prompt": "Welches sind Hauptstädte von südamerikanischen Ländern?",
+   "us": false,
    "x": false
   },
   {
