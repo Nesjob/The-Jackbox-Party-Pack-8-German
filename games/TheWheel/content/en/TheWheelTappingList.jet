@@ -12453,7 +12453,7 @@
      "text": "[i]Yoshi[/i]"
     }
    ],
-   "category": "",
+   "category": "Games",
    "decoys": [
     {
      "text": "[i]Mortal Kombat[/i]"
@@ -13332,55 +13332,64 @@
   {
    "answers": [
     {
-     "text": "center"
+     "text": "Mittelpunkt"
     },
     {
-     "text": "radius"
+     "text": "Radius"
     },
     {
-     "text": "diameter"
+     "text": "Durchmesser"
     },
     {
-     "text": "circumference"
+     "text": "Umfang"
     },
     {
-     "text": "tangent"
+     "text": "Tangente"
     },
     {
-     "text": "secant"
+     "text": "Sekante"
     },
     {
-     "text": "chord"
+     "text": "Sehne"
     },
     {
-     "text": "arc"
+     "text": "Kreisbogen"
     },
     {
-     "text": "segment"
+     "text": "Kreissegment"
     },
     {
-     "text": "sector"
+     "text": "Kreissektor"
     }
    ],
    "category": "Math",
    "decoys": [
     {
-     "text": "hypoteneuse"
+     "text": "Hypotenuse"
     },
     {
-     "text": "vertex"
+     "text": "Scheitelpunkt"
     },
     {
-     "text": "angle"
+     "text": "Seite"
     },
     {
-     "text": "side"
+     "text": "Kreisdistrikt"
+    },
+    {
+     "text": "Kreisverwaltung"
+    },
+    {
+     "text": "Ankathete"
+    },
+    {
+     "text": "Parabel"
     }
    ],
    "id": "82689",
    "isValid": "",
-   "prompt": "Which of these are different parts of a circle?",
-   "us": true,
+   "prompt": "Welches sind Teile eines Kreises?",
+   "us": false,
    "x": false
   },
   {
@@ -13797,97 +13806,118 @@
   {
    "answers": [
     {
-     "text": "goalkeeper"
+     "text": "Torhüter"
     },
     {
-     "text": "striker"
+     "text": "Mittelstürmer"
     },
     {
-     "text": "center back"
+     "text": "Außenverteidiger"
     },
     {
-     "text": "winger"
+     "text": "Flügelspieler"
     },
     {
-     "text": "fullback"
+     "text": "Innenverteidiger"
     },
     {
-     "text": "sweeper"
+     "text": "Libero"
     },
     {
-     "text": "forward"
+     "text": "Hängende Spitze"
     },
     {
-     "text": "midfielder"
+     "text": "Mittelfeldspieler"
     }
    ],
    "category": "Sports",
    "decoys": [
     {
-     "text": "tight end"
+     "text": "Tight End"
     },
     {
-     "text": "double back"
+     "text": "Kreisläufer"
     },
     {
-     "text": "total striker"
+     "text": "Doppelte Verteidiger"
     },
     {
-     "text": "short stop"
+     "text": "Kurze Stopper"
+    },
+    {
+     "text": "Abschläger"
+    },
+    {
+     "text": "Steller"
+    },
+    {
+     "text": "Hibernier"
+    },
+    {
+     "text": "Balester"
     }
    ],
    "id": "82716",
    "isValid": "",
-   "prompt": "Which of these are soccer positions?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um Positionen im Fußball?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "bandicoot"
+     "text": "Nasenbeutler"
     },
     {
-     "text": "Tasmanian devil"
+     "text": "Tasmanischer Teufel"
     },
     {
-     "text": "numbat"
+     "text": "Numbat"
     },
     {
-     "text": "Virginia oppossum"
+     "text": "Nordopossum"
     },
     {
-     "text": "kangaroo"
+     "text": "Känguru"
     },
     {
-     "text": "glider"
+     "text": "Großflugbeutler"
     },
     {
-     "text": "koala"
+     "text": "Koala"
+    },
+    {
+     "text": "Nacktnasenwombat"
     }
    ],
    "category": "Animals",
    "decoys": [
     {
-     "text": "platypus"
+     "text": "Schnabeltier"
     },
     {
-     "text": "wolverine"
+     "text": "Beutelfuchs"
     },
     {
-     "text": "rat"
+     "text": "Ratte"
     },
     {
-     "text": "naked mole-rat"
+     "text": "Nacktmull"
     },
     {
-     "text": "pangolin"
+     "text": "Schuppentier"
+    },
+    {
+     "text": "Gleithörnchen"
+    },
+    {
+     "text": "Nemesisbeutler"
     }
    ],
    "id": "82742",
    "isValid": "",
-   "prompt": "Which of these animals are marsupials?",
-   "us": true,
+   "prompt": "Welche dieser Tiere sind Beuteltiere?",
+   "us": false,
    "x": false
   },
   {
@@ -13992,52 +14022,58 @@
   {
    "answers": [
     {
-     "text": "grilled mutton chops"
+     "text": "Gegrillte Hammelkoteletts"
     },
     {
-     "text": "custard pudding"
+     "text": "Vanillepudding"
     },
     {
-     "text": "potted shrimps"
+     "text": "Topfgarnelen"
     },
     {
-     "text": "apple meringue"
+     "text": "Apfelbaiser"
     },
     {
-     "text": "corned ox tongue"
+     "text": "Ochsenzunge"
     },
     {
-     "text": "veal & ham pie"
+     "text": "Kalbs- und Schinkenpastete"
     },
     {
-     "text": "soused herrings"
+     "text": "Eingelegte Heringe"
     },
     {
-     "text": "salmon mayonnaise"
+     "text": "Lachs mit Mayonnaise"
     }
    ],
    "category": "History",
    "decoys": [
     {
-     "text": "gruel"
+     "text": "Haferbrei"
     },
     {
-     "text": "wine jelly"
+     "text": "Weinmarmelade"
     },
     {
-     "text": "rice soup"
+     "text": "Reissuppe"
     },
     {
-     "text": "Swedish bread"
+     "text": "Knäckebrot"
     },
     {
-     "text": "cool ranch haddock"
+     "text": "Schellfischfarce"
+    },
+    {
+     "text": "Apfelstrudel"
+    },
+    {
+     "text": "Kartoffeltörtchen mit Kaviar"
     }
    ],
    "id": "82891",
    "isValid": "",
-   "prompt": "Which foods were available on the first-class luncheon menu of the [i]Titanic[/i] just hours before it sank on April 14th, 1912?",
-   "us": true,
+   "prompt": "Welche dieser Speisen wurden in der ersten Klasse der [i]Titanic[/i] serviert, nur Stunden bevor sie am 14. April 1912 sank?",
+   "us": false,
    "x": false
   },
   {
@@ -14046,56 +14082,71 @@
      "text": "Charles Lindbergh"
     },
     {
-     "text": "The Computer"
+     "text": "Der Computer"
     },
     {
      "text": "Greta Thunberg"
     },
     {
-     "text": "Elizabeth II"
+     "text": "Elisabeth II."
     },
     {
-     "text": "Ben Bernanke"
+     "text": "Willy Brandt"
     },
     {
-     "text": "Franklin Delano Roosevelt"
+     "text": "Franklin D. Roosevelt"
     },
     {
-     "text": "American Women"
+     "text": "Donald Trump"
     },
     {
      "text": "Barack Obama"
     },
     {
-     "text": "You"
+     "text": "Du"
     },
     {
-     "text": "U.S. Scientists"
+     "text": "Adolf Hitler"
+    },
+    {
+     "text": "Der Durchschnittsamerikaner"
+    },
+    {
+     "text": "Josef Stalin"
     }
    ],
    "category": "Historical Figures",
    "decoys": [
     {
-     "text": "P. T. Barnum"
+     "text": "David Hasselhoff"
     },
     {
-     "text": "Oprah Winfrey"
+     "text": "Helmut Kohl"
     },
     {
      "text": "Lady Gaga"
     },
     {
-     "text": "The Coffee Maker"
+     "text": "Deine Mutter"
     },
     {
-     "text": "American Kittens"
+     "text": "Die amerikanischen Arbeiter"
+    },
+    {
+     "text": "Mahatma Ghandi"
+    },
+    {
+     "text": "Das Smartphone"
+    },
+    {
+     "text": "Joseph Ratzinger/Benedikt XVI."
     }
    ],
    "id": "82899",
    "isValid": "",
-   "prompt": "As of 2020, which of these people, groups, or concepts have been named [i]Time[/i] magazine's Person of the Year?",
-   "us": true,
-   "x": false
+   "prompt": "Welche dieser Personen, Gruppen oder Gegenstände wurden Stand 2021 vom US-amerikanischen [i]Time Magazine[/i] zur “Person of the Year” ausgezeichnet?",
+   "us": false,
+   "x": true
   },
   {
    "answers": [
@@ -14154,58 +14205,67 @@
   {
    "answers": [
     {
-     "text": "Cauliflower Jellyfish"
+     "text": "Blumenkohlqualle"
     },
     {
-     "text": "Flower Hat Jellyfish"
+     "text": "Kompassqualle"
     },
     {
-     "text": "Bloodybelly Comb Jellyfish"
+     "text": "Gepunktete Wurzelmundqualle"
     },
     {
-     "text": "Fried Egg Jellyfish"
+     "text": "Spiegelei-Qualle"
     },
     {
-     "text": "Crystal Jellyfish"
+     "text": "Kristallqualle"
     },
     {
-     "text": "Upside-Down Jellyfish"
+     "text": "Cassiopea"
     },
     {
-     "text": "Pink Meanie Jellyfish"
+     "text": "Ohrenqualle"
     },
     {
-     "text": "Lion's Mane Jellyfish"
+     "text": "Gelbe Haarqualle"
     },
     {
-     "text": "Sea Nettle Jellyfish"
+     "text": "Würfelqualle"
+    },
+    {
+     "text": "Feuerqualle"
     }
    ],
    "category": "Animals",
    "decoys": [
     {
-     "text": "Butterball Jellyfish"
+     "text": "Lampenqualle"
     },
     {
-     "text": "Happy-Go-Lucky Jellyfish"
+     "text": "Dreiecksqualle"
     },
     {
-     "text": "Big Baby Jellyfish"
+     "text": "Smaragdqualle"
     },
     {
-     "text": "Jell's Bells Jellyfish"
+     "text": "Rippenqualle"
     },
     {
-     "text": "Jellyfish Jellyfish"
+     "text": "Quallenqualle"
     },
     {
-     "text": "BLT On Rye Jellyfish"
+     "text": "Olivenqualle"
+    },
+    {
+     "text": "Korallenqualle"
+    },
+    {
+     "text": "W-Qualle"
     }
    ],
    "id": "82907",
    "isValid": "",
-   "prompt": "Which of these are actual types of jellyfish?",
-   "us": true,
+   "prompt": "Welches sind echte Arten von Quallen?",
+   "us": false,
    "x": false
   },
   {
@@ -14389,6 +14449,15 @@
     },
     {
      "text": "Ono Takashi"
+    },
+    {
+     "text": "Isabell Werth"
+    },
+    {
+     "text": "Birgit Fischer"
+    },
+    {
+     "text": "Tobias Wendl"
     }
    ],
    "category": "Sports",
@@ -14404,12 +14473,21 @@
     },
     {
      "text": "Lindsey Vonn"
+    },
+    {
+     "text": "Sven Fischer"
+    },
+    {
+     "text": "Ludger Beerbaum"
+    },
+    {
+     "text": "André Lange"
     }
    ],
    "id": "83080",
    "isValid": "",
-   "prompt": "Which athletes have won five or more Olympic gold medals?",
-   "us": true,
+   "prompt": "Welche dieser Athleten haben fünf oder mehr olympische Goldmedaillen gewonnen?",
+   "us": false,
    "x": false
   },
   {
@@ -14559,49 +14637,61 @@
   {
    "answers": [
     {
-     "text": "four-in-hand"
+     "text": "Four-in-Hand"
     },
     {
-     "text": "half windsor"
+     "text": "Halber Windsorknoten"
     },
     {
-     "text": "full windsor"
+     "text": "Windsorknoten"
     },
     {
-     "text": "simple"
+     "text": "Cavendish-Knoten"
     },
     {
-     "text": "kelvin"
+     "text": "Kelvin-Knoten"
     },
     {
-     "text": "pratt"
+     "text": "Plattsburgh-Knoten"
     },
     {
-     "text": "eldredge"
+     "text": "Hannoveranerknoten"
     },
     {
-     "text": "trinity"
+     "text": "Atlantik-Knoten"
+    },
+    {
+     "text": "Victoria-Knoten"
     }
    ],
    "category": "Fashion",
    "decoys": [
     {
-     "text": "half nelson"
+     "text": "Halber Nelson-Knoten"
     },
     {
-     "text": "fisherman's"
+     "text": "Fischerknoten"
     },
     {
-     "text": "square"
+     "text": "Québec-Knoten"
     },
     {
-     "text": "don"
+     "text": "Pazifik-Knoten"
+    },
+    {
+     "text": "Einfacher Drilling"
+    },
+    {
+     "text": "Dakota-Knoten"
+    },
+    {
+     "text": "Arborknoten"
     }
    ],
    "id": "83447",
    "isValid": "",
-   "prompt": "Which of these are actual necktie knots?",
-   "us": true,
+   "prompt": "Welches sind echte Krawattenknoten?",
+   "us": false,
    "x": false
   },
   {
