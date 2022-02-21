@@ -14271,7 +14271,7 @@
   {
    "answers": [
     {
-     "text": "[i]The Bodyguard[/i]"
+     "text": "[i]Bodyguard[/i]"
     },
     {
      "text": "[i]Purple Rain[/i]"
@@ -14280,10 +14280,10 @@
      "text": "[i]Space Jam[/i]"
     },
     {
-     "text": "[i]Waiting To Exhale[/i]"
+     "text": "[i]Waiting to Exhale – Warten auf Mr. Right[/i]"
     },
     {
-     "text": "[i]Grease[/i]"
+     "text": "[i]Grease - Schmiere[/i]"
     },
     {
      "text": "[i]Dirty Dancing[/i]"
@@ -14295,7 +14295,7 @@
      "text": "[i]Forrest Gump[/i]"
     },
     {
-     "text": "[i]Saturday Night Fever[/i]"
+     "text": "[i]Saturday Night Fever[/i]/[i]Nur Samstag Nacht[/i]"
     },
     {
      "text": "[i]Titanic[/i]"
@@ -14304,28 +14304,28 @@
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "[i]Shrek[/i]"
+     "text": "[i]Shrek – Der tollkühne Held[/i]"
     },
     {
-     "text": "[i]Soundtrack: The Movie[/i]"
+     "text": "[i]Tanz in den Morgen[/i]"
     },
     {
      "text": "[i]Mamma Mia! Here We Go Again[/i]"
     },
     {
-     "text": "[i]Big Night[/i]"
+     "text": "[i]Big Night – Nacht der Genüsse[/i]"
     },
     {
      "text": "[i]Cats[/i]"
     },
     {
-     "text": "[i]The Shawshank Redemption[/i]"
+     "text": "[i]Die Verurteilten[/i]"
     }
    ],
    "id": "82934",
    "isValid": "",
-   "prompt": "As of 2020, which of these movies have produced one of the top ten best-selling soundtracks of all time?",
-   "us": true,
+   "prompt": "Aus welchen dieser Filme stammen die Top 10 der meistverkauften Soundtracks aller Zeiten? (Stand 2020)",
+   "us": false,
    "x": false
   },
   {
@@ -14541,97 +14541,115 @@
   {
    "answers": [
     {
-     "text": "luv u"
+     "text": "Hartzen"
     },
     {
-     "text": "be mine"
+     "text": "Swag"
     },
     {
-     "text": "hug me"
+     "text": "Fly sein"
     },
     {
-     "text": "wild one"
+     "text": "Lost"
     },
     {
-     "text": "true love"
-    },
-    {
-     "text": "you & me"
+     "text": "Cringe"
     }
    ],
-   "category": "",
+   "category": "Language/Words/Grammar",
    "decoys": [
     {
-     "text": "giddy up"
+     "text": "Bankster"
     },
     {
-     "text": "u r weird"
+     "text": "Guttenbergen"
     },
     {
-     "text": "pip pip cheerio"
+     "text": "Hayvan"
     },
     {
-     "text": "fax me baby"
+     "text": "Rumoxidieren"
     },
     {
-     "text": "detest u"
+     "text": "Glucose-haltig"
     },
     {
-     "text": "divorce me"
+     "text": "Wyld"
+    },
+    {
+     "text": "GG"
+    },
+    {
+     "text": "Rofl"
+    },
+    {
+     "text": "Unterhopft sein"
+    },
+    {
+     "text": "Immatrikulationshintergrund"
+    },
+    {
+     "text": "Swaggernaut"
     }
    ],
    "id": "83343",
    "isValid": "",
-   "prompt": "Which of the following phrases are on Brach's popular Valentine's Day conversation heart candies?",
-   "us": true,
+   "prompt": "Finde die ersten Plätze des “Jugendwort des Jahres” bis 2021!",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "blue number card"
+     "text": "Blaue Zahlenkarte"
     },
     {
-     "text": "draw 2 card"
+     "text": "Zieh Zwei"
     },
     {
-     "text": "reverse card"
+     "text": "Retour"
     },
     {
-     "text": "skip card"
+     "text": "Aussetzen"
     },
     {
-     "text": "wild card"
+     "text": "Farbwahl"
     },
     {
-     "text": "wild draw 4 card"
+     "text": "Zieh Vier Farbwahl"
     },
     {
-     "text": "red number card"
+     "text": "Rote Zahlenkarte"
     },
     {
-     "text": "green number card"
+     "text": "Grüne Zahlenkarte"
     },
     {
-     "text": "yellow number card"
+     "text": "Gelbe Zahlenkarte"
     }
    ],
    "category": "Games",
    "decoys": [
     {
-     "text": "wild draw 2 card"
+     "text": "Zieh Zwei Farbwahl"
     },
     {
-     "text": "dump card"
+     "text": "Verteilen"
     },
     {
-     "text": "purple number card"
+     "text": "Lila Zahlenkarte"
+    },
+    {
+     "text": "Mischen"
+    },
+    {
+     "text": "Zieh Drei"
     }
    ],
    "id": "83446",
    "isValid": "",
-   "prompt": "Which of these are actual cards in the original [i]Uno[/i]?",
-   "us": true,
+   "prompt": "Welches sind echte Karten aus dem originalen [i]UNO[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -14697,49 +14715,55 @@
   {
    "answers": [
     {
-     "text": "West Germany"
+     "text": "Deutschland"
     },
     {
-     "text": "France"
+     "text": "Frankreich"
     },
     {
-     "text": "Brazil"
+     "text": "Brasilien"
     },
     {
-     "text": "Italy"
+     "text": "Italien"
     },
     {
-     "text": "Spain"
+     "text": "Spanien"
     },
     {
      "text": "Uruguay"
     },
     {
-     "text": "Argentina"
+     "text": "Argentinien"
     }
    ],
    "category": "Sports",
    "decoys": [
     {
-     "text": "Iceland"
+     "text": "Island"
     },
     {
-     "text": "United States"
+     "text": "Vereinigte Staaten von Amerika"
     },
     {
-     "text": "United Kingdom"
+     "text": "Vereinigtes Königreich"
     },
     {
      "text": "Chile"
     },
     {
-     "text": "Poland"
+     "text": "Polen"
+    },
+    {
+     "text": "Japan"
+    },
+    {
+     "text": "Russland"
     }
    ],
    "id": "83457",
    "isValid": "",
-   "prompt": "As of 2020, which of these countries have won the FIFA Men's World Cup?",
-   "us": true,
+   "prompt": "Welche dieser Länder haben bis 2021 die Fußball-Weltmeisterschaft der Männer gewonnen?",
+   "us": false,
    "x": false
   },
   {
@@ -14757,13 +14781,16 @@
      "text": "Scorpion"
     },
     {
-     "text": "Sonya"
+     "text": "Sonya Blade"
     },
     {
      "text": "Sub-Zero"
     },
     {
      "text": "Raiden"
+    },
+    {
+     "text": "Shang Tsung"
     }
    ],
    "category": "Games",
@@ -14782,12 +14809,15 @@
     },
     {
      "text": "Chun-Li"
+    },
+    {
+     "text": "Ryu"
     }
    ],
    "id": "83522",
    "isValid": "",
-   "prompt": "Who are the playable characters in the original [i]Mortal Kombat[/i]?",
-   "us": true,
+   "prompt": "Welches sind spielbare Charaktere aus dem originalen [i]Mortal Kombat[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -15000,196 +15030,256 @@
   {
    "answers": [
     {
-     "text": "soprano"
+     "text": "Sopran"
     },
     {
-     "text": "mezzo-soprano"
+     "text": "Mezzosopran"
     },
     {
-     "text": "contralto"
+     "text": "Alt"
     },
     {
-     "text": "countertenor"
+     "text": "Kontratenor"
     },
     {
-     "text": "tenor"
+     "text": "Tenor"
     },
     {
-     "text": "baritone"
+     "text": "Bariton"
     },
     {
-     "text": "bass"
+     "text": "Bass"
+    },
+    {
+     "text": "Soubrette"
     }
    ],
    "category": "Music",
    "decoys": [
     {
-     "text": "falsetto"
+     "text": "Falsetto"
     },
     {
-     "text": "operatic"
+     "text": "Opera"
     },
     {
-     "text": "pavarotti"
+     "text": "Pavarotti"
     },
     {
-     "text": "molto bene"
+     "text": "Molto bene"
     },
     {
-     "text": "smoky"
+     "text": "Fumoso"
+    },
+    {
+     "text": "Sopruffo"
     }
    ],
    "id": "84752",
    "isValid": "",
-   "prompt": "Which of these are singing voice types?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um Stimmlagen des Gesangs?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Nile river turns to blood"
+     "text": "Wasser wird zu Blut"
     },
     {
-     "text": "frogs"
+     "text": "Frösche"
     },
     {
-     "text": "lice"
+     "text": "Stechmücken"
     },
     {
-     "text": "swarm of locusts"
+     "text": "Heuschrecken"
     },
     {
-     "text": "pestilence of livestock"
+     "text": "Viehpest"
     },
     {
-     "text": "boils"
+     "text": "Geschwüre an Menschen und Tieren"
     },
     {
-     "text": "thunderstorm of hail and fire"
+     "text": "Schwerer Hagel"
     },
     {
-     "text": "three days of darkness"
+     "text": "Dreitägige Finsternis"
+    },
+    {
+     "text": "Ungeziefer"
     }
    ],
    "category": "Religion",
    "decoys": [
     {
-     "text": "Wi-Fi cut out"
+     "text": "Überflutungen"
     },
     {
-     "text": "death of third born sons"
+     "text": "Tod des Drittgeborenen"
     },
     {
-     "text": "sand storms"
+     "text": "Sandstürme"
     },
     {
-     "text": "foul stench"
+     "text": "Verwesungsgestank überzieht das Land"
+    },
+    {
+     "text": "Grippewellen"
+    },
+    {
+     "text": "Feuersbrünste"
+    },
+    {
+     "text": "Arbeitslosigkeitswelle"
     }
    ],
    "id": "84775",
    "isValid": "",
-   "prompt": "Which of these are actual plagues from the Book of Exodus?",
-   "us": true,
+   "prompt": "Was gehört zu den [i]zehn biblischen Plagen[/i] aus dem 2. Buch Mose (Exodus)?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "dodo"
+     "text": "Dodo"
     },
     {
-     "text": "great auk"
+     "text": "Riesenalk"
     },
     {
-     "text": "aurochs"
+     "text": "Auerochse"
     },
     {
-     "text": "triceratops"
+     "text": "Triceratops"
     },
     {
-     "text": "Steller’s sea cow"
+     "text": "Riesenseekuh"
     },
     {
-     "text": "Mexican grizzly bear"
+     "text": "Mexikanischer Grizzlybär"
     },
     {
-     "text": "mastodon"
+     "text": "Mammut"
     },
     {
-     "text": "northern white rhino"
+     "text": "Atlasbär"
+    },
+    {
+     "text": "Wandertaube"
+    },
+    {
+     "text": "Mauritiusboa"
+    },
+    {
+     "text": "Antigua-Glattkopfleguan"
+    },
+    {
+     "text": "Muschelkrebs"
+    },
+    {
+     "text": "Goldkröte"
     }
    ],
    "category": "Animals",
    "decoys": [
     {
-     "text": "polar bear"
+     "text": "Eisbär"
     },
     {
-     "text": "snow leopard"
+     "text": "Schneeleopard"
     },
     {
-     "text": "giant panda"
+     "text": "Europäische Honigbiene"
     },
     {
-     "text": "western honeybee"
+     "text": "Java-Nashorn"
+    },
+    {
+     "text": "Breitmaulnashorn"
+    },
+    {
+     "text": "Große Heidelibelle"
+    },
+    {
+     "text": "Geierschildkröte"
     }
    ],
    "id": "84779",
    "isValid": "",
-   "prompt": "As of 2020, which of these animals are extinct?",
-   "us": true,
+   "prompt": "Welche dieser Tiere gelten Stand 2021 als ausgestorben?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Meow Mix"
+     "text": "Felix"
     },
     {
      "text": "Purina"
     },
     {
-     "text": "Iams"
+     "text": "Whiskas"
     },
     {
-     "text": "9 Lives"
+     "text": "Kitekat"
     },
     {
-     "text": "Blue Wilderness"
+     "text": "Sheba"
     },
     {
-     "text": "Friskies"
+     "text": "Animonda"
     },
     {
-     "text": "Kit & Kaboodle"
+     "text": "Winston"
     },
     {
-     "text": "Rachael Ray Nutrish"
+     "text": "Dreamies"
     },
     {
-     "text": "Fancy Feast"
+     "text": "Cadora"
+    },
+    {
+     "text": "Finé"
+    },
+    {
+     "text": "Vitakraft"
     }
    ],
    "category": "Companies & Brands",
    "decoys": [
     {
-     "text": "Guy Fieri Flavor Cat"
+     "text": "Rinti"
     },
     {
-     "text": "Cat Fancy"
+     "text": "Frolic"
     },
     {
-     "text": "Tidy Cats"
+     "text": "Kitten"
     },
     {
-     "text": "I’m Feline Great!"
+     "text": "Tigra"
+    },
+    {
+     "text": "Pedigree"
+    },
+    {
+     "text": "Cat Noir"
+    },
+    {
+     "text": "FreshCat"
+    },
+    {
+     "text": "Catana"
     }
    ],
    "id": "84781",
    "isValid": "",
-   "prompt": "Which of these are actual cat food brands?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um echte Katzenfutter-Marken?",
+   "us": false,
    "x": false
   },
   {
@@ -15297,127 +15387,145 @@
   {
    "answers": [
     {
-     "text": "Kareem Abdul-Jabbar"
+     "text": "Robert Lewandowski"
     },
     {
-     "text": "Karl Malone"
+     "text": "Bastian Schweinsteiger"
     },
     {
-     "text": "LeBron James"
+     "text": "Marco Reus"
     },
     {
-     "text": "Kobe Bryant"
+     "text": "Mario Gómez"
     },
     {
-     "text": "Michael Jordan"
+     "text": "Michael Ballack"
     },
     {
-     "text": "Wilt Chamberlain"
+     "text": "Oliver Kahn"
     },
     {
-     "text": "Shaquille O’Neal"
+     "text": "Lothar Matthäus"
     },
     {
-     "text": "Kevin Garnett"
+     "text": "Oliver Bierhoff"
     },
     {
-     "text": "Dirk Nowitzki"
+     "text": "Miroslav Klose"
     },
     {
-     "text": "Hakeem Olajuwon"
+     "text": "Franz Beckenbauer"
+    },
+    {
+     "text": "Manuel Neuer"
     }
    ],
    "category": "Sports",
    "decoys": [
     {
-     "text": "Larry Bird"
+     "text": "Uli Hoeneß"
     },
     {
-     "text": "Dennis Rodman"
+     "text": "Mats Hummels"
     },
     {
-     "text": "John Elway"
+     "text": "Lukas Podolski"
     },
     {
-     "text": "James Naismith"
+     "text": "Mesut Özil"
     },
     {
-     "text": "Magic Johnson"
+     "text": "Joshua Kimmich"
+    },
+    {
+     "text": "Dirk Nowitzki"
+    },
+    {
+     "text": "Jogi Löw"
+    },
+    {
+     "text": "Timo Hildebrand"
+    },
+    {
+     "text": "Rudi Assauer"
     }
    ],
    "id": "85039",
    "isValid": "",
-   "prompt": "Which NBA players have scored more than 25,000 total career points?",
-   "us": true,
+   "prompt": "Welche dieser Fußballspieler erhielten bis 2021 den Titel des deutschen “Fußballer des Jahres”?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "bell bottoms"
+     "text": "Schlaghose"
     },
     {
-     "text": "harem"
+     "text": "Sirwal"
     },
     {
-     "text": "palazzo"
+     "text": "Palazzo-Hose"
     },
     {
-     "text": "jodhpurs"
+     "text": "Jodhpurhose"
     },
     {
-     "text": "hot"
+     "text": "Hot Pants"
     },
     {
-     "text": "cargo"
+     "text": "Cargohose"
     },
     {
-     "text": "khaki"
+     "text": "Bermuda"
     },
     {
-     "text": "carpenter"
+     "text": "Zimmermannshose"
     },
     {
-     "text": "high-rise"
+     "text": "Caprihose"
     },
     {
-     "text": "dungarees"
+     "text": "Latzhose"
     },
     {
-     "text": "capri"
+     "text": "Chino Hose"
     }
    ],
    "category": "Fashion",
    "decoys": [
     {
-     "text": "turkey"
+     "text": "Turkey"
     },
     {
-     "text": "poot"
+     "text": "Boothose"
     },
     {
-     "text": "machiavellian"
+     "text": "Machiavelli Hose"
     },
     {
-     "text": "France"
+     "text": "Horloge"
+    },
+    {
+     "text": "Slika Hose"
     }
    ],
    "id": "85044",
    "isValid": "",
-   "prompt": "Which of these are types of pants?",
-   "us": true,
+   "prompt": "Welches sind echte Hosenarten?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Arabian"
+     "text": "Araber"
     },
     {
-     "text": "Thoroughbred"
+     "text": "Englisches Vollblut"
     },
     {
-     "text": "Shetland Pony"
+     "text": "Shetlandpony"
     },
     {
      "text": "Palomino"
@@ -15429,7 +15537,7 @@
      "text": "Appaloosa"
     },
     {
-     "text": "Tennessee Walker"
+     "text": "Tennessee Walking Horse"
     },
     {
      "text": "Morgan"
@@ -15438,31 +15546,40 @@
      "text": "Clydesdale"
     },
     {
-     "text": "Florida Cracker Horse"
+     "text": "Ardenner"
     },
     {
-     "text": "Percheron"
+     "text": "Hannoveraner"
+    },
+    {
+     "text": "Hack"
     }
    ],
    "category": "Animals",
    "decoys": [
     {
-     "text": "Horse of Destiny"
+     "text": "Saggezzaner"
     },
     {
-     "text": "Kentucky Bourbon Draft Horse"
+     "text": "Kentucky Bourbon"
     },
     {
-     "text": "Mr. Ed"
+     "text": "Ebuzianer"
     },
     {
-     "text": "Unicorn"
+     "text": "Schwertpferd"
+    },
+    {
+     "text": "Caraway"
+    },
+    {
+     "text": "Kahvi"
     }
    ],
    "id": "85052",
    "isValid": "",
-   "prompt": "Which of these are real horse breeds?",
-   "us": true,
+   "prompt": "Welches davon sind echte Pferderassen?",
+   "us": false,
    "x": false
   },
   {
@@ -15573,7 +15690,7 @@
      "text": "Stark"
     },
     {
-     "text": "Lannister"
+     "text": "Lennister"
     },
     {
      "text": "Baratheon"
@@ -15582,7 +15699,7 @@
      "text": "Targaryen"
     },
     {
-     "text": "Greyjoy"
+     "text": "Graufreud"
     },
     {
      "text": "Arryn"
@@ -15597,7 +15714,7 @@
      "text": "Tyrell"
     }
    ],
-   "category": "",
+   "category": "Film & TV",
    "decoys": [
     {
      "text": "Bannister"
@@ -15606,160 +15723,220 @@
      "text": "Downey"
     },
     {
-     "text": "Asong Oficeandfire"
+     "text": "Oeselsch"
     },
     {
      "text": "Glyyven"
+    },
+    {
+     "text": "Prewett"
+    },
+    {
+     "text": "Peverell"
+    },
+    {
+     "text": "Livländ"
     }
    ],
    "id": "85191",
    "isValid": "",
-   "prompt": "Which of these are Great Houses in [i]Game of Thrones[/i]?",
-   "us": true,
+   "prompt": "Wie heißen die Häuser aus [i]Game of Thrones[/i]?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Germany"
+     "text": "Deutschland"
     },
     {
      "text": "Japan"
     },
     {
-     "text": "Romania"
+     "text": "Rumänien"
     },
     {
-     "text": "Italy"
+     "text": "Italien"
     },
     {
-     "text": "France"
+     "text": "Frankreich"
     },
     {
-     "text": "Bulgaria"
+     "text": "Bulgarien"
+    },
+    {
+     "text": "Kanada"
+    },
+    {
+     "text": "Griechenland"
+    },
+    {
+     "text": "Großbritannien"
+    },
+    {
+     "text": "Vereinigte Staaten von Amerika"
     }
    ],
    "category": "History",
    "decoys": [
     {
-     "text": "Genovia"
+     "text": "Genovien"
     },
     {
-     "text": "Mexico"
+     "text": "Mexiko"
     },
     {
-     "text": "Iceland"
+     "text": "Island"
     },
     {
      "text": "Portugal"
     },
     {
-     "text": "Mattress Factory"
+     "text": "Argentinien"
     },
     {
      "text": "Vietnam"
+    },
+    {
+     "text": "Spanien"
+    },
+    {
+     "text": "Schweiz"
+    },
+    {
+     "text": "Dänemark"
     }
    ],
    "id": "85440",
    "isValid": "",
-   "prompt": "Which countries fought in World War I?",
-   "us": true,
+   "prompt": "Welche dieser Länder kämpften im Ersten Weltkrieg?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "battleship"
+     "text": "Schlachtschiff"
     },
     {
-     "text": "boot"
+     "text": "Schuh"
     },
     {
-     "text": "cannon"
+     "text": "Kanone"
     },
     {
-     "text": "iron"
+     "text": "Bügeleisen"
     },
     {
-     "text": "thimble"
+     "text": "Fingerhut"
     },
     {
-     "text": "top hat"
+     "text": "Zylinder"
+    },
+    {
+     "text": "Geldbörse"
+    },
+    {
+     "text": "Laterne"
+    },
+    {
+     "text": "Rennwagen"
+    },
+    {
+     "text": "Schaukelpferd"
     }
    ],
    "category": "Games",
    "decoys": [
     {
-     "text": "sack of money"
+     "text": "Geldsack"
     },
     {
-     "text": "penguin"
+     "text": "Pinguin"
     },
     {
-     "text": "monocle"
+     "text": "Monokel"
     },
     {
-     "text": "wheel"
+     "text": "Rad"
     },
     {
-     "text": "diamond ring"
+     "text": "Diamantring"
     },
     {
-     "text": "Scottish terrier"
+     "text": "Hund"
+    },
+    {
+     "text": "Tyrannosaurus Rex"
+    },
+    {
+     "text": "Katze"
+    },
+    {
+     "text": "Schildkröte"
+    },
+    {
+     "text": "Gummi-Ente"
     }
    ],
    "id": "85441",
    "isValid": "",
-   "prompt": "Which of these are the original [i]Monopoly[/i] game pieces?",
-   "us": true,
+   "prompt": "Welches sind Spielfiguren aus dem ursprünglichen [i]Monopoly[/i]?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Twist It!"
+     "text": "Drehen!"
     },
     {
-     "text": "Pull It!"
+     "text": "Ziehen!"
     },
     {
-     "text": "Spin It!"
+     "text": "Rollen!"
     },
     {
-     "text": "Flick It!"
+     "text": "Sägen!"
     },
     {
-     "text": "Bop It!"
+     "text": "Klopfen!"
     },
     {
-     "text": "Shout It!"
+     "text": "Schreien!"
     },
     {
-     "text": "Shake It!"
+     "text": "Hämmern!"
+    },
+    {
+     "text": "Tippen!"
     }
    ],
    "category": "Games",
    "decoys": [
     {
-     "text": "Throw it!"
+     "text": "Werfen!"
     },
     {
-     "text": "Punch it!"
+     "text": "Boxen!"
     },
     {
-     "text": "Smell it!"
+     "text": "Riechen!"
     },
     {
-     "text": "Switch it!"
+     "text": "Hüpfen!"
     },
     {
-     "text": "Bend it!"
+     "text": "Biegen!"
+    },
+    {
+     "text": "Lecken!"
     }
    ],
    "id": "85442",
    "isValid": "",
-   "prompt": "Which of these are actual [i]Bop It[/i] game commands?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um Aktionen aus dem Spiel “[i]Bop It[/i]”?",
+   "us": false,
    "x": false
   },
   {
@@ -15822,13 +15999,13 @@
      "text": "Nepal"
     },
     {
-     "text": "Myanmar/Burma"
+     "text": "Myanmar"
     },
     {
      "text": "Bhutan"
     },
     {
-     "text": "Bangladesh"
+     "text": "Bangladesch"
     },
     {
      "text": "Sri Lanka"
@@ -15846,16 +16023,25 @@
      "text": "Jordan"
     },
     {
-     "text": "Tanzania"
+     "text": "Tansania"
     },
     {
      "text": "Afghanistan"
+    },
+    {
+     "text": "Kirgisistan"
+    },
+    {
+     "text": "Thailand"
+    },
+    {
+     "text": "Burundi"
     }
    ],
    "id": "85458",
    "isValid": "",
-   "prompt": "What countries border India?",
-   "us": true,
+   "prompt": "Welche dieser Länder teilen sich eine Grenze mit Indien?",
+   "us": false,
    "x": false
   },
   {
@@ -15867,7 +16053,7 @@
      "text": "Brachiosaurus"
     },
     {
-     "text": "Velociraptor"
+     "text": "Vulcanodon"
     },
     {
      "text": "Apatosaurus"
@@ -15894,79 +16080,97 @@
    "category": "Animals",
    "decoys": [
     {
-     "text": "Diplo"
+     "text": "Diploraptor"
     },
     {
-     "text": "Dinosaurus"
+     "text": "Torbudoculus"
     },
     {
-     "text": "Ol' Chompers"
+     "text": "Schnapposaurus"
     },
     {
-     "text": "The Vegetarian One"
+     "text": "Gluposaurus"
     },
     {
      "text": "Jurassicasaurus"
+    },
+    {
+     "text": "Igratops"
+    },
+    {
+     "text": "Minusculus"
     }
    ],
    "id": "85463",
    "isValid": "",
-   "prompt": "Which of these are real dinosaurs?",
-   "us": true,
+   "prompt": "Welches sind echte Dinosaurier?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Gothic"
+     "text": "Gotik"
     },
     {
-     "text": "Postmodern"
+     "text": "Postmoderne"
     },
     {
-     "text": "Neoclassical"
+     "text": "Neoklassizismus"
     },
     {
-     "text": "Modern"
+     "text": "Moderne"
     },
     {
-     "text": "Classical"
+     "text": "Klassizismus"
     },
     {
-     "text": "Arts & Crafts"
+     "text": "Bauhaus"
     },
     {
-     "text": "Baroque"
+     "text": "Barock"
     },
     {
-     "text": "Victorian"
+     "text": "Organische Architektur"
     },
     {
-     "text": "Brutalist"
+     "text": "Brutalismus"
     },
     {
-     "text": "Art Deco"
+     "text": "Art Déco"
+    },
+    {
+     "text": "Viktorianische Architektur"
     }
    ],
    "category": "Art",
    "decoys": [
     {
-     "text": "You Know, The Nice Houses"
+     "text": "Simplicissimus"
     },
     {
-     "text": "Crabapple"
+     "text": "Barbaralismus"
     },
     {
-     "text": "Mitosis"
+     "text": "Geisler"
     },
     {
-     "text": "Post-Neo-Alarmism"
+     "text": "Post-Neoalarmismus"
+    },
+    {
+     "text": "Nationalismus"
+    },
+    {
+     "text": "Rumastilismus"
+    },
+    {
+     "text": "Neomoderner Stil"
     }
    ],
    "id": "85501",
    "isValid": "",
-   "prompt": "Which of these are actual styles of architecture?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um echte Architekturstile?",
+   "us": false,
    "x": false
   },
   {
