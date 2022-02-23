@@ -10251,49 +10251,49 @@
   {
    "answers": [
     {
-     "text": "nachos"
+     "text": "Nachos"
     },
     {
      "text": "Red Bull"
     },
     {
-     "text": "salad"
+     "text": "Salat"
     },
     {
-     "text": "lollipop"
+     "text": "Lolli"
     },
     {
-     "text": "shrimp"
+     "text": "Garnelen"
     },
     {
-     "text": "ice cream"
+     "text": "Eis"
     },
     {
-     "text": "burger"
+     "text": "Burger"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "strawberry milkshake"
+     "text": "Erdbeer-Milchshake"
     },
     {
-     "text": "carrot sticks"
+     "text": "Karottensticks"
     },
     {
-     "text": "chocolate cake"
+     "text": "Schokoladenkuchen"
     },
     {
-     "text": "pizza slice"
+     "text": "Pizzastück"
     },
     {
-     "text": "corn cob"
+     "text": "Maiskolben"
     }
    ],
    "id": "79459",
    "isValid": "",
-   "prompt": "What are some of the many things Brad Pitt consumes in [i]Ocean's Eleven[/i]?",
-   "us": true,
+   "prompt": "Was sind einige der vielen Dinge, die Brad Pitt in “[i]Ocean's Eleven[/i]” verspeist?",
+   "us": false,
    "x": false
   },
   {
@@ -16176,55 +16176,67 @@
   {
    "answers": [
     {
-     "text": "par"
+     "text": "Par"
     },
     {
-     "text": "eagle"
+     "text": "Eagle"
     },
     {
-     "text": "handicap"
+     "text": "Vorgabe"
     },
     {
-     "text": "birdie"
+     "text": "Birdie"
     },
     {
-     "text": "mulligan"
+     "text": "Mulligan"
     },
     {
-     "text": "bogey"
+     "text": "Bogey"
     },
     {
-     "text": "fried egg"
+     "text": "Spiegelei"
     },
     {
-     "text": "fore"
+     "text": "Fore"
     },
     {
-     "text": "dogleg"
+     "text": "Dogleg"
     },
     {
-     "text": "albatross"
+     "text": "Albatross"
+    },
+    {
+     "text": "Dackeltöter"
+    },
+    {
+     "text": "Ostrich"
     }
    ],
    "category": "Sports",
    "decoys": [
     {
-     "text": "elevensies"
+     "text": "Buzzard"
     },
     {
-     "text": "knackerbacker"
+     "text": "Knackerbacker"
     },
     {
-     "text": "long boy"
+     "text": "Long Boy"
     },
     {
-     "text": "ice cream store"
+     "text": "Sparrow"
+    },
+    {
+     "text": "Oldie"
+    },
+    {
+     "text": "Barrier"
     }
    ],
    "id": "85503",
    "isValid": "",
-   "prompt": "Which of these are real golf terms that golfers like to use?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um echte Golfbegriffe?",
+   "us": false,
    "x": false
   },
   {
@@ -16278,55 +16290,64 @@
   {
    "answers": [
     {
-     "text": "fiddle leaf fig"
+     "text": "Geigen-Feige"
     },
     {
-     "text": "pothos"
+     "text": "Goldene Efeutute"
     },
     {
-     "text": "jade"
+     "text": "Geldbaum"
     },
     {
-     "text": "spider plant"
+     "text": "Grünlilie"
     },
     {
-     "text": "croton"
+     "text": "Kroton"
     },
     {
-     "text": "philodendron"
+     "text": "Philodendren"
     },
     {
-     "text": "ivy"
+     "text": "Efeu"
     },
     {
-     "text": "peace lily"
+     "text": "Pfeilblatt"
     },
     {
-     "text": "dracaena"
+     "text": "Drachenbaum"
     },
     {
-     "text": "snake plant"
+     "text": "Bogenhanf"
     }
    ],
    "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "plantasaurus"
+     "text": "Pflanzosaurus"
     },
     {
-     "text": "leafy boi"
+     "text": "Grünling"
     },
     {
-     "text": "marbletree"
+     "text": "Marmorbaum"
     },
     {
-     "text": "lemon pepper ficus"
+     "text": "Zitronenpfeffer"
+    },
+    {
+     "text": "Grüner Mühlenstrauch"
+    },
+    {
+     "text": "Kastenblättler"
+    },
+    {
+     "text": "Commeliniden"
     }
    ],
    "id": "85636",
    "isValid": "",
-   "prompt": "Which of these are real houseplants?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um echte Zimmerpflanzen?",
+   "us": false,
    "x": false
   },
   {
@@ -16431,49 +16452,61 @@
   {
    "answers": [
     {
-     "text": "[i]The Bold And The Beautiful[/i]"
+     "text": "[i]Dahoam is Dahoam[/i]"
     },
     {
-     "text": "[i]Passions[/i]"
+     "text": "[i]Schloss Einstein[/i]"
     },
     {
-     "text": "[i]Guiding Light[/i]"
+     "text": "[i]Jede Menge Leben[/i]"
     },
     {
-     "text": "[i]General Hospital[/i]"
+     "text": "[i]In aller Freundschaft[/i]"
     },
     {
-     "text": "[i]Days Of Our Lives[/i]"
+     "text": "[i]Großstadtträume[/i]"
     },
     {
-     "text": "[i]The Young And The Restless[/i]"
+     "text": "[i]Bettys Diagnose[/i]"
     },
     {
-     "text": "[i]All My Children[/i]"
+     "text": "[i]Verbotene Liebe - Next Generation[/i]"
     },
     {
-     "text": "[i]One Life To Live[/i]"
+     "text": "[i]Herz über Kopf[/i]"
     },
     {
-     "text": "[i]As The World Turns[/i]"
+     "text": "[i]Unter uns[/i]"
+    },
+    {
+     "text": "[i]Ahornallee[/i]"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "[i]Moody's Point[/i]"
+     "text": "[i]Brennende Leidenschaft[/i]"
     },
     {
-     "text": "[i]As Time Goes By[/i]"
+     "text": "[i]Klinik am Südring[/i]"
     },
     {
-     "text": "[i]Movers and Shakers[/i]"
+     "text": "[i]Lisas Café[/i]"
+    },
+    {
+     "text": "[i]Die Pauls - Männer im Überschuss[/i]"
+    },
+    {
+     "text": "[i]Seelenfarben[/i]"
+    },
+    {
+     "text": "[i]Tina mobil[/i]"
     }
    ],
    "id": "85644",
    "isValid": "",
-   "prompt": "Which of these are or were real American daytime soap operas?",
-   "us": true,
+   "prompt": "Welches sind echte deutsche Seifenopern?",
+   "us": false,
    "x": false
   },
   {
@@ -16533,205 +16566,259 @@
   {
    "answers": [
     {
+     "text": "Grashüpfer"
+    },
+    {
      "text": "Monster"
     },
     {
-     "text": "Alien"
+     "text": "Oktopus"
     },
     {
-     "text": "Bee"
+     "text": "Dalmatiner"
     },
     {
-     "text": "Pineapple"
+     "text": "Alpaka"
     },
     {
-     "text": "Rottweiler"
+     "text": "Hummer"
     },
     {
-     "text": "Black Widow"
+     "text": "Schwein"
     },
     {
-     "text": "Skeleton"
+     "text": "Chili"
     },
     {
-     "text": "Ice Cream"
+     "text": "Rentier"
     },
     {
-     "text": "Taco"
+     "text": "Axolotl"
     },
     {
-     "text": "Robot"
+     "text": "Biene"
     },
     {
-     "text": "Banana"
+     "text": "Drache"
     },
     {
-     "text": "Night Angel"
+     "text": "Einhorn"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "Earth Angel"
+     "text": "Koala"
     },
     {
-     "text": "Evil Burrito"
+     "text": "Burrito"
     },
     {
-     "text": "Denver Omelette"
+     "text": "Roboterkatze"
+    },
+    {
+     "text": "Eisbär"
+    },
+    {
+     "text": "Banane"
     }
    ],
    "id": "85646",
    "isValid": "",
-   "prompt": "As of 2020, which horrifying creatures have been used as disguises on the U.S. version of [i]The Masked Singer[/i]?",
-   "us": true,
+   "prompt": "Welche dieser Kreaturen dienten Stand 2021 als Verkleidung für Prominente in der deutschen Version von “[i]The Masked Singer[/i]”?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Mohawk"
+     "text": "Deutschland"
     },
     {
-     "text": "Oneida"
+     "text": "Frankreich"
     },
     {
-     "text": "Onondaga"
+     "text": "Italien"
     },
     {
-     "text": "Cayuga"
+     "text": "Japan"
     },
     {
-     "text": "Seneca"
+     "text": "Kanada"
     },
     {
-     "text": "Tuscarora"
+     "text": "Vereinigtes Königreich"
+    },
+    {
+     "text": "Vereinigte Staaten von Amerika"
     }
    ],
    "category": "History",
    "decoys": [
     {
-     "text": "Apache"
+     "text": "China"
     },
     {
-     "text": "Chippewa"
+     "text": "Russland"
     },
     {
-     "text": "Hopi"
+     "text": "Argentinien"
     },
     {
-     "text": "Sioux"
+     "text": "Brasilien"
     },
     {
-     "text": "Aleut"
+     "text": "Indien"
     },
     {
-     "text": "Seminole"
+     "text": "Südkorea"
+    },
+    {
+     "text": "Türkei"
+    },
+    {
+     "text": "Mexiko"
+    },
+    {
+     "text": "Australien"
+    },
+    {
+     "text": "Indonesien"
+    },
+    {
+     "text": "Saudi-Arabien"
     }
    ],
    "id": "85647",
    "isValid": "",
-   "prompt": "Which indigenous American nations are members of the Iroquois Confederacy, also known as the Six Nations?",
-   "us": true,
+   "prompt": "Welche dieser Länder sind Stand 2021 Mitgliedstaaten der [i]G7[/i]?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Red Vines"
+     "text": "Kit Kat"
     },
     {
-     "text": "Jujyfruits"
+     "text": "Caretta Orange"
     },
     {
-     "text": "Sixlets"
+     "text": "BIG SANDWICH"
     },
     {
-     "text": "Sugar Babies"
+     "text": "KAKTUS"
     },
     {
-     "text": "Boston Baked Beans"
+     "text": "HIMBI"
     },
     {
-     "text": "Red Hots"
+     "text": "MILK FLIP"
     },
     {
-     "text": "Chuckles"
+     "text": "PIRULO Watermelon"
+    },
+    {
+     "text": "Smarties Pop Up"
     }
    ],
    "category": "Food & Drink",
    "decoys": [
     {
-     "text": "Sugar Ferns"
+     "text": "PIRULO Lemon"
     },
     {
      "text": "Triplets"
     },
     {
-     "text": "Cocoa Wheels"
+     "text": "Kokos-K.O."
     },
     {
-     "text": "Beef Taffy"
+     "text": "TWISTER"
     },
     {
-     "text": "Nashville Hot Chicken"
+     "text": "Cornetto"
     },
     {
      "text": "Bloopees"
+    },
+    {
+     "text": "Likkies Strawberry Cheesecake"
+    },
+    {
+     "text": "Flutschfinger"
+    },
+    {
+     "text": "Solero Exotic"
+    },
+    {
+     "text": "Calippo"
     }
    ],
    "id": "85648",
    "isValid": "",
-   "prompt": "Which of these are vintage American movie theater candies?",
-   "us": true,
+   "prompt": "Welche dieser Eissorten hat [i]Nestlé Schöller[/i] im Angebot?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "kicking (or trying to kick) an opponent"
+     "text": "(Versuchtes) Treten des Gegners"
     },
     {
-     "text": "tripping an opponent"
+     "text": "Gegner ein Bein stellen"
     },
     {
-     "text": "charging an opponent in a dangerous way"
+     "text": "Tackling mit dem Fuß"
     },
     {
-     "text": "striking or attempting to strike an opponent"
+     "text": "(Versuchtes) Schlagen des Gegners"
     },
     {
-     "text": "holding an opponent"
+     "text": "Gegner beißen"
     },
     {
-     "text": "pushing an opponent"
+     "text": "Gegner stoßen"
     },
     {
-     "text": "handling the ball"
+     "text": "Absichtliches Handspiel"
     },
     {
-     "text": "jumping at an opponent"
+     "text": "Gegner anspringen"
     }
    ],
    "category": "Sports",
    "decoys": [
     {
-     "text": "double dribbling"
+     "text": "Doppel-Dribbeln"
     },
     {
-     "text": "charging the goalkeeper’s credit card"
+     "text": "Stehlen der Kreditkarte des Torwartes"
     },
     {
-     "text": "use of foul language"
+     "text": "Beleidigung des Gegners"
     },
     {
-     "text": "raising hockey stick above height of shoulders"
+     "text": "Küssen des Gegners"
+    },
+    {
+     "text": "Behinderung des Torwartes"
+    },
+    {
+     "text": "Abseits"
+    },
+    {
+     "text": "Vortäuschen eines Vergehens"
+    },
+    {
+     "text": "Beleidigung des Schiedsrichterteams"
     }
    ],
    "id": "85654",
    "isValid": "",
-   "prompt": "Which of these soccer fouls will result in a direct free kick for the opposing team?",
-   "us": true,
+   "prompt": "Welche dieser Fouls führen im Fußball zu einem direkten Freistoß für das gegnerische Team?",
+   "us": false,
    "x": false
   },
   {
@@ -16756,6 +16843,9 @@
     },
     {
      "text": "Dolce & Gabbana"
+    },
+    {
+     "text": "Gucci"
     }
    ],
    "category": "Fashion",
@@ -16777,12 +16867,15 @@
     },
     {
      "text": "Alexander MacQueen"
+    },
+    {
+     "text": "Giorgo Armani"
     }
    ],
    "id": "85655",
    "isValid": "",
-   "prompt": "Which of these luxury fashion brands are spelled correctly?",
-   "us": true,
+   "prompt": "Welche dieser Luxus-Modemarken sind richtig geschrieben?",
+   "us": false,
    "x": false
   },
   {
@@ -16825,12 +16918,18 @@
     },
     {
      "text": "Toby Stephens"
+    },
+    {
+     "text": "Benedict Cumberbatch"
+    },
+    {
+     "text": "Rowan Atkinson"
     }
    ],
    "id": "85719",
    "isValid": "",
-   "prompt": "As of 2021, which of these actors have portrayed James Bond in film or television?",
-   "us": true,
+   "prompt": "Welche dieser Schauspieler verkörperten bis 2021 [i]James Bond[/i] in Film und Fernsehen?",
+   "us": false,
    "x": false
   },
   {
@@ -16893,10 +16992,10 @@
      "text": "Søren Kierkegaard"
     },
     {
-     "text": "Plato"
+     "text": "Platon"
     },
     {
-     "text": "Socrates"
+     "text": "Sokrates"
     },
     {
      "text": "Jean-Paul Sartre"
@@ -16909,6 +17008,9 @@
     },
     {
      "text": "Bertrand Russell"
+    },
+    {
+     "text": "Poseidonios"
     }
    ],
    "category": "Historical Figures",
@@ -16917,22 +17019,28 @@
      "text": "Frederick Durst"
     },
     {
-     "text": "Steve Harwell"
+     "text": "Michael Schenker"
     },
     {
-     "text": "Benedict Cumberbatch"
+     "text": "William Holden"
     },
     {
      "text": "Bono"
     },
     {
-     "text": "Confucius"
+     "text": "Konfuzius"
+    },
+    {
+     "text": "Mozi"
+    },
+    {
+     "text": "Cro"
     }
    ],
    "id": "85761",
    "isValid": "",
-   "prompt": "Which of these individuals were famous Western philosophers?",
-   "us": true,
+   "prompt": "Welche dieser Personen waren bekannte westliche Philosophen?",
+   "us": false,
    "x": false
   },
   {
@@ -16989,10 +17097,10 @@
      "text": "Desmond Tutu"
     },
     {
-     "text": "Elie Wiesel"
+     "text": "Willy Brandt"
     },
     {
-     "text": "Mikhail Gorbachev"
+     "text": "Michail Gorbatschow"
     },
     {
      "text": "Nelson Mandela"
@@ -17001,82 +17109,115 @@
      "text": "Malala Yousafzai"
     },
     {
-     "text": "The World Food Programme"
+     "text": "Welternährungsprogramm der UN"
     },
     {
      "text": "Dag Hammarskjöld"
     },
     {
      "text": "Amnesty International"
+    },
+    {
+     "text": "Ärzte ohne Grenzen"
+    },
+    {
+     "text": "Europäische Union"
     }
    ],
    "category": "Historical Figures",
    "decoys": [
     {
-     "text": "Franklin Delano Roosevelt"
+     "text": "Franklin D. Roosevelt"
     },
     {
      "text": "Mahatma Gandhi"
     },
     {
-     "text": "Bill and Melinda Gates"
+     "text": "Bill Gates"
     },
     {
      "text": "Che Guevara"
+    },
+    {
+     "text": "Fidel Castro"
+    },
+    {
+     "text": "Claus Schenk Graf von Stauffenberg"
+    },
+    {
+     "text": "George Washington"
+    },
+    {
+     "text": "Angela Merkel"
     }
    ],
    "id": "85905",
    "isValid": "",
-   "prompt": "Which of these are winners of the Nobel Peace Prize?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um Gewinner des Friedensnobelpreises?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Master Sword"
+     "text": "Master-Schwert"
     },
     {
-     "text": "stepladder"
+     "text": "Leiter"
     },
     {
-     "text": "iron boots"
+     "text": "Eisenstiefel"
     },
     {
-     "text": "slingshot"
+     "text": "Schleuder"
     },
     {
-     "text": "Deku mask"
+     "text": "Deku-Schale"
     },
     {
-     "text": "boomerang"
+     "text": "Bumerang"
     },
     {
-     "text": "bunny hood"
+     "text": "Hasenohren"
+    },
+    {
+     "text": "Schaufel"
     }
    ],
    "category": "Games",
    "decoys": [
     {
-     "text": "Mega Buster"
+     "text": "Plasma-Kanone"
     },
     {
-     "text": "stilettos"
+     "text": "Stöckelschuhe"
     },
     {
-     "text": "Deku clogs"
+     "text": "Goronenpanzer"
     },
     {
-     "text": "lockpicks"
+     "text": "Dietrich"
     },
     {
-     "text": "Fluffruit"
+     "text": "Samtapfel"
+    },
+    {
+     "text": "Lumina-Kugel"
+    },
+    {
+     "text": "Fluchtseil"
+    },
+    {
+     "text": "Zauberlampe"
+    },
+    {
+     "text": "Wünschelrute"
     }
    ],
    "id": "85950",
    "isValid": "",
-   "prompt": "Which of these are tools Link uses in the [i]Legend of Zelda[/i] series?",
-   "us": true,
+   "prompt": "Welche dieser Gegenstände benutzt Link in der “[i]The Legend of Zelda[/i]”-Reihe?",
+   "us": false,
    "x": false
   },
   {
@@ -17097,13 +17238,22 @@
      "text": "Hathor"
     },
     {
-     "text": "Thoth"
+     "text": "Thot"
     },
     {
      "text": "Anubis"
     },
     {
      "text": "Amun"
+    },
+    {
+     "text": "Benu"
+    },
+    {
+     "text": "Wadj-wer"
+    },
+    {
+     "text": "Mut"
     }
    ],
    "category": "Religion",
@@ -17119,12 +17269,27 @@
     },
     {
      "text": "Io"
+    },
+    {
+     "text": "Demeter"
+    },
+    {
+     "text": "Hebe"
+    },
+    {
+     "text": "Nofretete"
+    },
+    {
+     "text": "Schablowinski"
+    },
+    {
+     "text": "Snofru"
     }
    ],
    "id": "85954",
    "isValid": "",
-   "prompt": "Which of these figures are from Egyptian mythology?",
-   "us": true,
+   "prompt": "Welches sind echte ägyptische Götter?",
+   "us": false,
    "x": false
   },
   {
@@ -17178,55 +17343,55 @@
   {
    "answers": [
     {
-     "text": "hard-boiled"
+     "text": "Hartgekocht"
     },
     {
-     "text": "over easy"
+     "text": "Spiegelei"
     },
     {
-     "text": "scrambled"
+     "text": "Rührei"
     },
     {
-     "text": "soft-boiled"
+     "text": "Weichgekocht"
     },
     {
-     "text": "poached"
+     "text": "Pochiert"
     },
     {
-     "text": "sunny side up"
+     "text": "Omelett"
     },
     {
-     "text": "omelette"
+     "text": "Gebacken"
     },
     {
-     "text": "shirred"
+     "text": "Egg Benedict"
     },
     {
-     "text": "over hard"
-    },
-    {
-     "text": "eggs benedict"
+     "text": "Frittiert"
     }
    ],
    "category": "Food & Drink",
    "decoys": [
     {
-     "text": "over difficult"
+     "text": "Hartgesotten"
     },
     {
-     "text": "eggs macabre"
+     "text": "Makabre Eier"
     },
     {
-     "text": "frazzled"
+     "text": "Zerfranst"
     },
     {
-     "text": "cramped"
+     "text": "Krampusei"
+    },
+    {
+     "text": "Egg Forbudt"
     }
    ],
    "id": "85996",
    "isValid": "",
-   "prompt": "Which of these are real egg preparations?",
-   "us": true,
+   "prompt": "Welches davon sind echte Ei-Zubereitungen?",
+   "us": false,
    "x": false
   },
   {
@@ -17301,58 +17466,67 @@
   {
    "answers": [
     {
-     "text": "Maritime Law"
+     "text": "Agrarrecht"
     },
     {
-     "text": "Criminal Law"
+     "text": "Erbrecht"
     },
     {
-     "text": "Environmental Law"
+     "text": "IT-Recht"
     },
     {
-     "text": "Corporate Law"
+     "text": "Medizinrecht"
     },
     {
-     "text": "Military Law"
+     "text": "Versicherungsrecht"
     },
     {
-     "text": "Family Law"
+     "text": "Strafrecht"
     },
     {
-     "text": "Real Estate Law"
+     "text": "Verwaltungsrecht"
     },
     {
-     "text": "Tax Law"
+     "text": "Familienrecht"
     },
     {
-     "text": "Personal Injury Law"
+     "text": "Arbeitsrecht"
     },
     {
-     "text": "Employment Law"
+     "text": "Steuerrecht"
     },
     {
-     "text": "Entertainment Law"
+     "text": "Verkehrsrecht"
+    },
+    {
+     "text": "Sportrecht"
     }
    ],
    "category": "Occupations",
    "decoys": [
     {
-     "text": "Highway Law"
+     "text": "Grenzrecht"
     },
     {
-     "text": "Family Reunion Law"
+     "text": "Zeitungsrecht"
     },
     {
-     "text": "Fitness Law"
+     "text": "Unfallrecht"
     },
     {
-     "text": "Toast Law, the laws of toast"
+     "text": "Speiserecht"
+    },
+    {
+     "text": "Gewerkschaftsrecht"
+    },
+    {
+     "text": "Europarecht"
     }
    ],
    "id": "86006",
    "isValid": "",
-   "prompt": "Which of these are actual fields of law in which a lawyer might specialize?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um echte Rechtsgebiete für deutsche Fachanwälte?",
+   "us": false,
    "x": false
   },
   {
@@ -17475,62 +17649,68 @@
   {
    "answers": [
     {
-     "text": "I'm Not Really a Waitress"
+     "text": "Downtown Red"
     },
     {
-     "text": "Cajun Shrimp"
+     "text": "Ballerina"
     },
     {
-     "text": "Lincoln Park After Dark"
+     "text": "Electric Yellow"
     },
     {
-     "text": "Tickle My France-y"
+     "text": "Pink About It"
     },
     {
-     "text": "Reykjavik Has All the Hot Spots"
+     "text": "Crystal Clear"
     },
     {
-     "text": "Don't Provoke the Plum!"
+     "text": "Bubblicious"
     },
     {
-     "text": "Samurai Breaks a Nail"
+     "text": "Cherry On The Cake"
     },
     {
-     "text": "We Seafood and Eat It"
+     "text": "Winter Baby"
     },
     {
-     "text": "My Solar Clock Is Ticking"
+     "text": "Blackout"
     },
     {
-     "text": "CIA = Color Is Awesome"
+     "text": "Peach Pie"
+    },
+    {
+     "text": "White Dream"
     }
    ],
    "category": "Fashion",
    "decoys": [
     {
-     "text": "I Have a Reservation"
+     "text": "Sleepover Squad"
     },
     {
-     "text": "Facing Mortality in Lilac!"
+     "text": "Red Roses"
     },
     {
-     "text": "Napoleon's Hat"
+     "text": "Yellow Sin"
     },
     {
-     "text": "Goth Coworker's Nightmare"
+     "text": "Dolphin Blue"
     },
     {
-     "text": "Papa Soup Rings the Bell"
+     "text": "Kiwi Green"
     },
     {
-     "text": "Enemies of Fire"
+     "text": "Cloudless"
+    },
+    {
+     "text": "Toxic Green"
     }
    ],
    "id": "86022",
    "isValid": "",
-   "prompt": "Which of the following are real names of OPI nail polish colors?",
-   "us": true,
-   "x": false
+   "prompt": "Welches sind echte Nagellackfarben von [i]Maybelline New York[/i]?",
+   "us": false,
+   "x": true
   },
   {
    "answers": [
@@ -17586,55 +17766,61 @@
   {
    "answers": [
     {
-     "text": "English"
+     "text": "Englisch"
     },
     {
-     "text": "German"
+     "text": "Deutsch"
     },
     {
-     "text": "Netherlandic (Dutch)"
+     "text": "Niederländisch"
     },
     {
-     "text": "Danish"
+     "text": "Dänisch"
     },
     {
-     "text": "Swedish"
+     "text": "Schwedisch"
     },
     {
-     "text": "Icelandic"
+     "text": "Isländisch"
     },
     {
-     "text": "Norwegian"
+     "text": "Norwegisch"
     },
     {
-     "text": "Faroese"
+     "text": "Färöisch"
     },
     {
      "text": "Afrikaans"
     },
     {
-     "text": "Yiddish"
+     "text": "Jiddisch"
     }
    ],
    "category": "Language/Words/Grammar",
    "decoys": [
     {
-     "text": "Greek"
+     "text": "Griechisch"
     },
     {
-     "text": "Russian"
+     "text": "Russisch"
     },
     {
      "text": "Dothraki"
     },
     {
-     "text": "Gaelic"
+     "text": "Goidelisch"
+    },
+    {
+     "text": "Französisch"
+    },
+    {
+     "text": "Persisch"
     }
    ],
    "id": "86024",
    "isValid": "",
-   "prompt": "Which of these are Germanic languages?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um germanische Sprachen?",
+   "us": false,
    "x": false
   },
   {
@@ -17712,10 +17898,10 @@
    "category": "Games",
    "decoys": [
     {
-     "text": "Puny Kong"
+     "text": "Donny Kong"
     },
     {
-     "text": "Donkey Kong Sr."
+     "text": "Donkey Kong Senior"
     },
     {
      "text": "Kremlin Kong"
@@ -17725,12 +17911,15 @@
     },
     {
      "text": "Babby Kong"
+    },
+    {
+     "text": "Punky Kong"
     }
    ],
    "id": "86068",
    "isValid": "",
-   "prompt": "Which Kongs are part of the Donkey Kong family tree?",
-   "us": true,
+   "prompt": "Welche Kongs sind Teil des [i]Donkey Kong[/i]-Stammbaums?",
+   "us": false,
    "x": false
   },
   {
