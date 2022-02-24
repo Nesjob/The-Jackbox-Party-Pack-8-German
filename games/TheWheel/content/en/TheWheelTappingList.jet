@@ -16935,52 +16935,70 @@
   {
    "answers": [
     {
-     "text": "Naomi Campbell"
+     "text": "Stefanie Giesinger"
     },
     {
-     "text": "Christy Turlington"
+     "text": "Vanessa Fuchs"
     },
     {
-     "text": "Cindy Crawford"
+     "text": "Luisa Hartema"
     },
     {
-     "text": "Tyra Banks"
+     "text": "Jennifer Hof"
     },
     {
-     "text": "Kate Moss"
+     "text": "Lena Gercke"
     },
     {
-     "text": "Linda Evangelista"
+     "text": "Kim Hnizdo"
     },
     {
-     "text": "Carla Bruni"
+     "text": "Simone Kowalski"
     },
     {
-     "text": "Kimora Lee Simmons"
+     "text": "Alex Mariah Peter"
     },
     {
-     "text": "Heidi Klum"
+     "text": "Sara Nuru"
     }
    ],
    "category": "Celebrities",
    "decoys": [
     {
-     "text": "Twiggy"
+     "text": "Heidi Klum"
     },
     {
-     "text": "Jean Shrimpton"
+     "text": "Birgit Schönau"
     },
     {
-     "text": "Gigi Hadid"
+     "text": "Sarah Engels"
     },
     {
-     "text": "Duckie Thot"
+     "text": "Daniela Katzenberger"
+    },
+    {
+     "text": "Georgina Fleur"
+    },
+    {
+     "text": "Sarah Knappik"
+    },
+    {
+     "text": "Barbara Salesch"
+    },
+    {
+     "text": "Désirée Nick"
+    },
+    {
+     "text": "Katharina Rau"
+    },
+    {
+     "text": "Kolinda Grabar-Kitarovic"
     }
    ],
    "id": "85720",
    "isValid": "",
-   "prompt": "Which of these famous names were supermodels of the 1990s?",
-   "us": true,
+   "prompt": "Welches sind Siegerinnen von [i]Germany's Next Topmodel[/i] bis 2021?",
+   "us": false,
    "x": false
   },
   {
@@ -17397,70 +17415,73 @@
   {
    "answers": [
     {
-     "text": "Maine"
+     "text": "Deutschland"
     },
     {
-     "text": "New Hampshire"
+     "text": "Österreich"
     },
     {
-     "text": "Vermont"
+     "text": "Slowakei"
     },
     {
-     "text": "Massachusetts"
+     "text": "Ungarn"
     },
     {
-     "text": "Connecticut"
+     "text": "Kroatien"
     },
     {
-     "text": "New York"
+     "text": "Serbien"
     },
     {
-     "text": "New Jersey"
+     "text": "Rumänien"
     },
     {
-     "text": "Pennsylvania"
+     "text": "Bulgarien"
     },
     {
-     "text": "Maryland"
+     "text": "Republik Moldau"
     },
     {
-     "text": "West Virginia"
-    },
-    {
-     "text": "Virginia"
-    },
-    {
-     "text": "Tennessee"
-    },
-    {
-     "text": "North Carolina"
-    },
-    {
-     "text": "Georgia"
+     "text": "Ukraine"
     }
    ],
    "category": "Geography & Landmarks",
    "decoys": [
     {
-     "text": "Florida"
+     "text": "Slowenien"
     },
     {
-     "text": "South Carolina"
+     "text": "Tschechien"
     },
     {
-     "text": "Kentucky"
+     "text": "Albanien"
     },
     {
-     "text": "Alaska"
+     "text": "Spanien"
     },
     {
-     "text": "Oregon"
+     "text": "Schweiz"
+    },
+    {
+     "text": "Montenegro"
+    },
+    {
+     "text": "Italien"
+    },
+    {
+     "text": "Polen"
+    },
+    {
+     "text": "Russland"
+    },
+    {
+     "text": "Niederlande"
     }
    ],
    "id": "85997",
    "isValid": "",
-   "prompt": "Through which U.S. states does the Appalachian Trail pass?",
-   "us": true,
+   "prompt": "Durch welche dieser Länder fließt die Donau?",
+   "us": false,
    "x": false
   },
   {
@@ -18045,7 +18066,7 @@
      "text": "Niihau"
     },
     {
-     "text": "Hawaii Island"
+     "text": "Hawaii"
     },
     {
      "text": "Kahoolawe"
@@ -18063,64 +18084,94 @@
      "text": "Bali"
     },
     {
-     "text": "Atlantis"
+     "text": "Sylt"
     },
     {
      "text": "Mali"
+    },
+    {
+     "text": "Nauru"
+    },
+    {
+     "text": "Alofi"
+    },
+    {
+     "text": "Praia"
     }
    ],
    "id": "86130",
    "isValid": "",
-   "prompt": "Which of the following are actual Hawaiian islands?",
-   "us": true,
+   "prompt": "Welches sind echte Inseln von Hawaii?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "H-E-B"
+     "text": "SPAR express"
     },
     {
-     "text": "Publix"
+     "text": "Netto Marken-Discount"
     },
     {
-     "text": "Jewel"
+     "text": "E-Center"
     },
     {
-     "text": "Aldi"
+     "text": "Marktkauf"
     },
     {
-     "text": "Hy-Vee"
+     "text": "Edeka"
     },
     {
-     "text": "Albertsons"
+     "text": "Nah & Gut"
     },
     {
-     "text": "Rouses Market"
+     "text": "diska"
     },
     {
-     "text": "Food Lion Grocery Store"
+     "text": "Super 2000"
     }
    ],
    "category": "Companies & Brands",
    "decoys": [
     {
-     "text": "Bass Pro Shops"
+     "text": "Action"
     },
     {
-     "text": "Menards"
+     "text": "Alnatura"
     },
     {
-     "text": "Staples"
+     "text": "Brutto"
     },
     {
-     "text": "Home Depot"
+     "text": "Jysk"
+    },
+    {
+     "text": "Kaufland"
+    },
+    {
+     "text": "Norma"
+    },
+    {
+     "text": "Penny Markt"
+    },
+    {
+     "text": "Selgros"
+    },
+    {
+     "text": "HIT"
+    },
+    {
+     "text": "Aldi"
+    },
+    {
+     "text": "Metro"
     }
    ],
    "id": "86162",
    "isValid": "",
-   "prompt": "Which of these are American grocery store chains?",
-   "us": true,
+   "prompt": "Welche dieser Lebensmittelmärkte gehören zur [i]Edeka-Gruppe[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -18183,28 +18234,34 @@
   {
    "answers": [
     {
-     "text": "Athens"
+     "text": "Athen"
     },
     {
      "text": "Sparta"
     },
     {
-     "text": "Corinth"
+     "text": "Korinth"
     },
     {
-     "text": "Thebes"
+     "text": "Theben"
     },
     {
-     "text": "Syracuse"
+     "text": "Syrakus"
     },
     {
-     "text": "Aegina"
+     "text": "Ägina"
     },
     {
-     "text": "Rhodes"
+     "text": "Rhodos"
     },
     {
      "text": "Argos"
+    },
+    {
+     "text": "Sikyon"
+    },
+    {
+     "text": "Milet"
     }
    ],
    "category": "History",
@@ -18213,19 +18270,31 @@
      "text": "Jerusalem"
     },
     {
-     "text": "Chromium"
+     "text": "Chrom"
     },
     {
      "text": "Patronus"
     },
     {
-     "text": "Sokovia"
+     "text": "Dolma"
+    },
+    {
+     "text": "Kopita"
+    },
+    {
+     "text": "Eukenos"
+    },
+    {
+     "text": "Miook"
+    },
+    {
+     "text": "Ormara"
     }
    ],
    "id": "86347",
    "isValid": "",
-   "prompt": "Which of these were City-States (or poleis) of Ancient Greece?",
-   "us": true,
+   "prompt": "Welche dieser Städte waren Stadtstaaten (auch genannt Polis) im antiken Griechenland?",
+   "us": false,
    "x": false
   },
   {
@@ -18279,53 +18348,74 @@
   {
    "answers": [
     {
-     "text": "Canada"
+     "text": "Kanada"
     },
     {
-     "text": "Sweden"
+     "text": "Schweden"
     },
     {
-     "text": "Switzerland"
+     "text": "Schweiz"
     },
     {
-     "text": "Norway"
+     "text": "Norwegen"
     },
     {
-     "text": "Great Britain"
+     "text": "Vereinigtes Königreich"
     },
     {
-     "text": "United States"
+     "text": "Vereinigte Staaten von Amerika"
     },
     {
-     "text": "Denmark"
+     "text": "Dänemark"
     },
     {
-     "text": "Finland"
+     "text": "Finnland"
     },
     {
-     "text": "South Korea"
+     "text": "Südkorea"
     },
     {
-     "text": "China"
+     "text": "Volksrepublik China"
+    },
+    {
+     "text": "Japan"
+    },
+    {
+     "text": "Italien"
     }
    ],
    "category": "Sports",
    "decoys": [
     {
-     "text": "Austria"
+     "text": "Österreich"
     },
     {
-     "text": "Greece"
+     "text": "Griechenland"
     },
     {
-     "text": "Iceland"
+     "text": "Island"
+    },
+    {
+     "text": "Spanien"
+    },
+    {
+     "text": "Russland"
+    },
+    {
+     "text": "Mexiko"
+    },
+    {
+     "text": "Neuseeland"
+    },
+    {
+     "text": "Kroatien"
     }
    ],
    "id": "86378",
    "isValid": "",
-   "prompt": "As of 2018, which of these countries has won any sort of Olympic medal in curling, a.k.a. “The Sport of the Gods.”",
-   "us": true,
-   "x": true
+   "prompt": "Welche dieser Länder haben Stand 2022 in der göttlichen Kunst des Curlings mindestens eine olympische Medaille gewonnen?",
+   "us": false,
+   "x": false
   },
   {
    "answers": [
