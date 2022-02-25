@@ -357,13 +357,13 @@
      "text": "Baum"
     },
     {
-     "text": "Lotus"
+     "text": "Lotussitz"
     },
     {
      "text": "Katze"
     },
     {
-     "text": "Taube"
+     "text": "Taubenstellung"
     }
    ],
    "category": "Anatomy",
@@ -386,7 +386,7 @@
    ],
    "id": "76751",
    "isValid": "",
-   "prompt": "Wobei handelt es sich um eine Yoga Pose?",
+   "prompt": "Wobei handelt es sich um eine Yoga-Pose?",
    "us": false,
    "x": false
   },
@@ -621,7 +621,7 @@
      "text": "Land Rover"
     },
     {
-     "text": "Rolls-Royce"
+     "text": "Rolls Royce"
     },
     {
      "text": "Fiat"
@@ -987,12 +987,6 @@
      "text": "Einen Staudamm bauen"
     },
     {
-     "text": "Einen Knüppel schnitzen"
-    },
-    {
-     "text": "Eine Brücke bauen"
-    },
-    {
      "text": "Menschen retten"
     }
    ],
@@ -1025,7 +1019,7 @@
    ],
    "id": "76775",
    "isValid": "",
-   "prompt": "Was kann man laut dem Song “Ich und mein Holz” alles mit Holz machen?",
+   "prompt": "Was kann man laut dem Song (Ich und mein) “Holz” alles mit Holz machen?",
    "us": false,
    "x": false
   },
@@ -1551,13 +1545,13 @@
      "text": "Veganes Bistro"
     },
     {
-     "text": "Tarot Shop"
+     "text": "Tarot-Shop"
     },
     {
-     "text": "Karaoke Bar"
+     "text": "Karaoke-Bar"
     },
     {
-     "text": "Yoga Studio"
+     "text": "Yoga-Studio"
     },
     {
      "text": "Tierrettung"
@@ -1569,7 +1563,7 @@
      "text": "Dreitägiges Musikfestival"
     },
     {
-     "text": "Einwöchiger Meditationsretreat"
+     "text": "Einwöchiger Meditationsrückzug"
     },
     {
      "text": "Bike-Sharing"
@@ -2232,7 +2226,7 @@
      "text": "Emaille"
     },
     {
-     "text": "Enkaustik"
+     "text": "Kalk"
     }
    ],
    "category": "Art",
@@ -2252,7 +2246,7 @@
    ],
    "id": "76880",
    "isValid": "",
-   "prompt": "Welches davon sind Farbarten?",
+   "prompt": "Welche davon sind Farbarten?",
    "us": false,
    "x": false
   },
@@ -2331,7 +2325,7 @@
      "text": "Deutscher Schauspielpreis"
     },
     {
-     "text": "Kid's Choice Award"
+     "text": "Kids' Choice Award"
     },
     {
      "text": "Lola"
@@ -3171,7 +3165,7 @@
      "text": "[i]Atemlos durch die Nacht[/i]"
     },
     {
-     "text": "[i]Das Karussel in meinem Bauch[/i]"
+     "text": "[i]Das Karussell in meinem Bauch[/i]"
     },
     {
      "text": "[i]Ein kleines Glück[/i]"
@@ -3246,7 +3240,7 @@
      "text": "Erdbeere"
     },
     {
-     "text": "Apfelsine"
+     "text": "Orange"
     },
     {
      "text": "Schokoladenkuchen"
@@ -3780,10 +3774,10 @@
      "text": "Uni Braunschweig"
     },
     {
-     "text": "Uni Bochum"
+     "text": "Uni Potsdam"
     },
     {
-     "text": "TU Darmstadt"
+     "text": "Uni Witten/Herdecke"
     },
     {
      "text": "Uni Heidelberg"
@@ -4827,7 +4821,7 @@
      "text": "Ringelblume"
     },
     {
-     "text": "Geißblatt"
+     "text": "Holunder"
     },
     {
      "text": "Kürbisblüte"
@@ -5262,7 +5256,7 @@
      "text": "Camembert"
     },
     {
-     "text": "Eiernudeln"
+     "text": "Eiernudeln (gekocht)"
     },
     {
      "text": "Wassermelone"
@@ -5307,7 +5301,7 @@
      "text": "“Mambo No. 5”"
     },
     {
-     "text": "“It's My Life”"
+     "text": "“Alles nur geklaut”"
     },
     {
      "text": "“Nothing Else Matters”"
@@ -9318,7 +9312,7 @@
   {
    "answers": [
     {
-     "text": "Golgi Apparat"
+     "text": "Golgi-Apparat"
     },
     {
      "text": "Kernhülle"
@@ -13647,9 +13641,6 @@
      "text": "Pottwal"
     },
     {
-     "text": "Schnabelwal"
-    },
-    {
      "text": "Weißwal"
     },
     {
@@ -14043,7 +14034,7 @@
      "text": "Eingelegte Heringe"
     },
     {
-     "text": "Lachs mit Mayonnaise"
+     "text": "Lachs mit Schaumsauce"
     }
    ],
    "category": "History",
@@ -14133,7 +14124,7 @@
      "text": "Die amerikanischen Arbeiter"
     },
     {
-     "text": "Mahatma Ghandi"
+     "text": "Das Rad"
     },
     {
      "text": "Das Smartphone"
@@ -14214,13 +14205,10 @@
      "text": "Gepunktete Wurzelmundqualle"
     },
     {
-     "text": "Spiegelei-Qualle"
+     "text": "Spiegeleiqualle"
     },
     {
      "text": "Kristallqualle"
-    },
-    {
-     "text": "Cassiopea"
     },
     {
      "text": "Ohrenqualle"
@@ -14230,9 +14218,6 @@
     },
     {
      "text": "Würfelqualle"
-    },
-    {
-     "text": "Feuerqualle"
     }
    ],
    "category": "Animals",
@@ -14439,7 +14424,7 @@
      "text": "Ryan Lochte"
     },
     {
-     "text": "Nikolay Andrianov"
+     "text": "Nikolai Andrianow"
     },
     {
      "text": "Nadia Comaneci"
@@ -14448,7 +14433,7 @@
      "text": "Carl Lewis"
     },
     {
-     "text": "Ono Takashi"
+     "text": "Takashi Ono"
     },
     {
      "text": "Isabell Werth"
@@ -15177,9 +15162,6 @@
      "text": "Antigua-Glattkopfleguan"
     },
     {
-     "text": "Muschelkrebs"
-    },
-    {
      "text": "Goldkröte"
     }
    ],
@@ -15789,7 +15771,7 @@
      "text": "Island"
     },
     {
-     "text": "Portugal"
+     "text": "Norwegen"
     },
     {
      "text": "Argentinien"
@@ -15907,9 +15889,6 @@
     },
     {
      "text": "Hämmern!"
-    },
-    {
-     "text": "Tippen!"
     }
    ],
    "category": "Games",
