@@ -3804,58 +3804,64 @@
   {
    "answers": [
     {
-     "text": "Snooki"
+     "text": "Beatrice Egli"
     },
     {
-     "text": "Pauly D"
+     "text": "Pietro Lombardi"
     },
     {
-     "text": "Vinny"
+     "text": "Daniel Schuhmacher"
     },
     {
-     "text": "The Situation"
+     "text": "Mark Medlock"
     },
     {
-     "text": "Angelina"
+     "text": "Elli Erl"
     },
     {
-     "text": "Ronnie"
+     "text": "Alexander Klaws"
     },
     {
-     "text": "J-Woww"
+     "text": "Luca Hänni"
     },
     {
-     "text": "Sammi"
+     "text": "Marie Wegener"
     },
     {
-     "text": "Deena"
+     "text": "Alphonso Williams"
     }
    ],
    "category": "Celebrities",
    "decoys": [
     {
-     "text": "Tony"
+     "text": "Menderes Bağci"
     },
     {
-     "text": "The Boss"
+     "text": "Jeannine Rossi"
     },
     {
-     "text": "Candi"
+     "text": "Sarah Engels"
     },
     {
-     "text": "$nickers"
+     "text": "Michael Schulte"
     },
     {
-     "text": "Chrystal"
+     "text": "Alice Merton"
     },
     {
-     "text": "Saucy Sierra"
+     "text": "Ben Dolic"
+    },
+    {
+     "text": "Jamie-Lee Kriewitz"
+    },
+    {
+     "text": "Conchita Wurst"
     }
    ],
    "id": "77671",
    "isValid": "",
-   "prompt": "Which of these were [i]Jersey Shore[/i] cast members?",
-   "us": true,
+   "prompt": "Welche dieser Personen sind Stand 2021 Gewinner von “[i]Deutschland sucht den Superstar[/i]”?",
+   "us": false,
    "x": false
   },
   {
@@ -7302,50 +7308,50 @@
   {
    "answers": [
     {
-     "text": "a bitch"
+     "text": "Julianischer Kalender"
     },
     {
-     "text": "a lover"
+     "text": "Gregorianischer Kalender"
     },
     {
-     "text": "a child"
+     "text": "Neujulianischer Kalender"
     },
     {
-     "text": "a mother"
+     "text": "Badi-Kalender"
     },
     {
-     "text": "a sinner"
+     "text": "Französischer Revolutionskalender"
     },
     {
-     "text": "a saint"
+     "text": "Georgischer Kalender"
     },
     {
-     "text": "your dream"
+     "text": "Indischer Nationalkalender"
     },
     {
-     "text": "your Hell"
+     "text": "Iranischer Kalender"
     }
    ],
-   "category": "Music",
+   "category": "Factoids",
    "decoys": [
     {
-     "text": "a witch"
+     "text": "Chinesischer Kalender"
     },
     {
-     "text": "a glover"
+     "text": "Altrussischer Kalender"
     },
     {
-     "text": "a toddler"
+     "text": "Babylonischer Mondkalender"
     },
     {
-     "text": "a singer"
+     "text": "Altskandinavischer Kalender"
     }
    ],
    "id": "78555",
    "isValid": "",
-   "prompt": "Which of these are among the many things Meredith Brooks claims to be in her most famous song?",
-   "us": true,
-   "x": true
+   "prompt": "Wobei handelt es sich um Sonnenkalender?",
+   "us": false,
+   "x": false
   },
   {
    "answers": [
@@ -10965,52 +10971,61 @@
   {
    "answers": [
     {
-     "text": "[i]East of Eden[/i]"
+     "text": "Gutemine"
     },
     {
-     "text": "[i]Wild[/i]"
+     "text": "Majestix"
     },
     {
-     "text": "[i]A Million Little Pieces[/i]"
+     "text": "Troubadix"
     },
     {
-     "text": "[i]Song of Solomon[/i]"
+     "text": "Automatix"
     },
     {
-     "text": "[i]Becoming[/i]"
+     "text": "Falbala"
     },
     {
-     "text": "[i]The Underground Railroad[/i]"
+     "text": "Obelix"
     },
     {
-     "text": "[i]The Road[/i]"
+     "text": "Idefix"
     },
     {
-     "text": "[i]Anna Karenina[/i]"
+     "text": "Amnesix"
+    },
+    {
+     "text": "Homöopatix"
     }
    ],
    "category": "Literature",
    "decoys": [
     {
-     "text": "[i]Harry Potter and the Goblet of Fire[/i]"
+     "text": "Bäckerix"
     },
     {
-     "text": "[i]Dreams from My Father[/i]"
+     "text": "Kochfix"
     },
     {
-     "text": "[i]Nicole Kidman: An Unauthorized Biography[/i]"
+     "text": "Salesa"
     },
     {
-     "text": "[i]The Bible[/i]"
+     "text": "Putzix"
     },
     {
-     "text": "[i]Where's Waldo?[/i]"
+     "text": "Moralapostix"
+    },
+    {
+     "text": "Storchix"
+    },
+    {
+     "text": "Gargamel"
     }
    ],
    "id": "79809",
    "isValid": "",
-   "prompt": "Which books have been chosen for Oprah's Book Club?",
-   "us": true,
+   "prompt": "Welche der Namen gehören zu Figuren aus den [i]Asterix[/i]-Comics?",
+   "us": false,
    "x": false
   },
   {
@@ -11070,49 +11085,70 @@
   {
    "answers": [
     {
-     "text": "Social Security"
+     "text": "Bildung, Wissenschaft und Forschung"
     },
     {
-     "text": "Securities and Exchange Commission"
+     "text": "Europäische und internationale Angelegenheiten"
     },
     {
-     "text": "Federal Housing Administration"
+     "text": "Kunst, Kultur, öffentlicher Dienst und Sport"
     },
     {
-     "text": "Federal Communications Commission"
+     "text": "Finanzen"
     },
     {
-     "text": "Federal Deposit Insurance Corporation"
+     "text": "Arbeit"
     },
     {
-     "text": "Tennessee Valley Authority"
+     "text": "Justiz"
     },
     {
-     "text": "Farm Credit Administration"
+     "text": "Landesverteidigung"
     },
     {
-     "text": "Fannie Mae"
+     "text": "Landwirtschaft, Regionen und Tourismus"
     }
    ],
-   "category": "History",
+   "category": "Factoids",
    "decoys": [
     {
-     "text": "Federal Theatre Project"
+     "text": "Post und Telekommunikation"
     },
     {
-     "text": "Works Progress Administration"
+     "text": "Heimat und Werte"
     },
     {
-     "text": "Federal Tuna Authority"
+     "text": "Brot und Spiele"
     },
     {
-     "text": "National Puppeteer Registration Administration"
+     "text": "Luftraumsicherheit"
+    },
+    {
+     "text": "Migration"
+    },
+    {
+     "text": "Vertriebene, Flüchtlinge und Kriegsgeschädigte"
+    },
+    {
+     "text": "Schienenverkehr"
+    },
+    {
+     "text": "Propaganda"
+    },
+    {
+     "text": "Raumordung, Bauwesen und Städtebau"
+    },
+    {
+     "text": "Wirtschaftliche Zusammenarbeit und Entwicklung"
+    },
+    {
+     "text": "Auswärtiges Amt"
     }
    ],
    "id": "79855",
    "isValid": "",
-   "prompt": "Which of FDR’s New Deal programs are still around in the 21st century?",
-   "us": true,
+   "prompt": "Wobei handelt es sich Stand 2021 um echte österreichische Bundesministerien?",
+   "us": false,
    "x": false
   },
   {
@@ -11247,55 +11283,61 @@
   {
    "answers": [
     {
-     "text": "room"
+     "text": "Taube"
     },
     {
-     "text": "moon"
+     "text": "Pferd"
     },
     {
-     "text": "light"
+     "text": "Hase"
     },
     {
-     "text": "red balloon"
+     "text": "Ziege"
     },
     {
-     "text": "chairs"
+     "text": "Kuh"
     },
     {
-     "text": "kittens"
+     "text": "Schwein"
     },
     {
-     "text": "clocks"
+     "text": "Fliege"
     },
     {
-     "text": "socks"
-    },
-    {
-     "text": "mouse"
-    },
-    {
-     "text": "comb"
-    },
-    {
-     "text": "brush"
-    },
-    {
-     "text": "nobody"
+     "text": "Hund"
     }
    ],
    "category": "Literature",
    "decoys": [
     {
-     "text": "soap"
+     "text": "Katze"
     },
     {
-     "text": "hope"
+     "text": "Hirsch"
+    },
+    {
+     "text": "Igel"
+    },
+    {
+     "text": "Schlange"
+    },
+    {
+     "text": "Schildkröte"
+    },
+    {
+     "text": "Schaf"
+    },
+    {
+     "text": "Eule"
+    },
+    {
+     "text": "Maus"
     }
    ],
    "id": "79917",
    "isValid": "",
-   "prompt": "Which things does the bunny say goodnight to in [i]Goodnight Moon[/i]?",
-   "us": true,
+   "prompt": "Welche Tiere besucht der Maulwurf im Kinderbuch “[i]Vom kleinen Maulwurf, der wissen wollte, wer ihm auf den Kopf gemacht hat[/i]”?",
+   "us": false,
    "x": false
   },
   {
@@ -17913,49 +17955,52 @@
   {
    "answers": [
     {
-     "text": "éclair"
+     "text": "Gazpacho"
     },
     {
-     "text": "french onion soup"
+     "text": "Paella"
     },
     {
-     "text": "madeleines"
+     "text": "Chorizo"
     },
     {
-     "text": "crepes"
+     "text": "Escalivada"
     },
     {
-     "text": "ratatouille"
+     "text": "Churros"
     },
     {
-     "text": "chocolate souffle"
+     "text": "Migas"
+    },
+    {
+     "text": "Pulpo á feira"
     }
    ],
    "category": "Food & Drink",
    "decoys": [
     {
-     "text": "french fries"
+     "text": "Madeleines"
     },
     {
-     "text": "quiche"
+     "text": "Ratatouille"
     },
     {
-     "text": "french toast"
+     "text": "Sopa de Sucio"
     },
     {
-     "text": "tarte flambée"
+     "text": "Francesinha"
     },
     {
-     "text": "beef jerky"
+     "text": "Caldo verde"
     },
     {
-     "text": "apple strudel"
+     "text": "Arroz de Pato"
     }
    ],
    "id": "86128",
    "isValid": "",
-   "prompt": "Which foods originated in France?",
-   "us": true,
+   "prompt": "Welche dieser Gerichte stammen aus Spanien?",
+   "us": false,
    "x": false
   },
   {
