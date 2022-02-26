@@ -441,43 +441,46 @@
   {
    "answers": [
     {
-     "text": "Lead Belly"
+     "text": "Pink Floyd"
     },
     {
      "text": "Whitney Houston"
     },
     {
-     "text": "The Notorious B.I.G."
+     "text": "Paul McCartney"
     },
     {
-     "text": "The Cure"
+     "text": "Bruce Springsteen"
     },
     {
-     "text": "Depeche Mode"
+     "text": "Queen"
     },
     {
-     "text": "The E Street Band"
+     "text": "Michael Jackson"
     },
     {
-     "text": "Berry Gordy Jr."
+     "text": "AC/DC"
     },
     {
-     "text": "The Grateful Dead"
+     "text": "Prince"
     },
     {
      "text": "Madonna"
     },
     {
-     "text": "Black Sabbath"
+     "text": "Peter Gabriel"
     },
     {
-     "text": "N.W.A"
+     "text": "Metallica"
+    },
+    {
+     "text": "ABBA"
     }
    ],
    "category": "Music",
    "decoys": [
     {
-     "text": "OutKast"
+     "text": "Rammstein"
     },
     {
      "text": "Nickelback"
@@ -486,13 +489,16 @@
      "text": "Sonic Youth"
     },
     {
-     "text": "Hootie & The Blowfish"
+     "text": "Scorpions"
+    },
+    {
+     "text": "Coldplay"
     }
    ],
    "id": "76761",
    "isValid": "",
-   "prompt": "As of 2020, which of these artists have been inducted into the Rock & Roll Hall of Fame?",
-   "us": true,
+   "prompt": "Welche dieser Künstler und Bands sind Stand 2021 Mitglieder der “Rock and Roll Hall of Fame”?",
+   "us": false,
    "x": false
   },
   {
@@ -1563,7 +1569,7 @@
      "text": "Dreitägiges Musikfestival"
     },
     {
-     "text": "Einwöchiger Meditationsrückzug"
+     "text": "Einwöchiger Meditationsretreat"
     },
     {
      "text": "Bike-Sharing"
@@ -18708,49 +18714,55 @@
   {
    "answers": [
     {
-     "text": "exposition"
+     "text": "Exposition"
     },
     {
-     "text": "inciting incident"
+     "text": "Erregendes Moment"
     },
     {
-     "text": "rising action"
+     "text": "Steigerung"
     },
     {
-     "text": "climax"
+     "text": "Höhepunkt"
     },
     {
-     "text": "falling action"
+     "text": "Fallende Handlung"
     },
     {
-     "text": "conclusion (denouement)"
+     "text": "Letzte Spannung"
     },
     {
-     "text": "resolution"
+     "text": "Katastrophe"
     }
    ],
    "category": "Literature",
    "decoys": [
     {
-     "text": "first romantic kiss"
+     "text": "Erster Kuss"
     },
     {
-     "text": "big fight (battle)"
+     "text": "Großer Konflikt"
     },
     {
-     "text": "second, more romantic kiss"
+     "text": "Intrige"
     },
     {
-     "text": "plot twist"
+     "text": "Plötzliche Wendung"
     },
     {
-     "text": "epilogue"
+     "text": "Epilog"
+    },
+    {
+     "text": "Verortung des Geschehenen"
+    },
+    {
+     "text": "Missverständnis"
     }
    ],
    "id": "86462",
    "isValid": "",
-   "prompt": "Which of these are elements of a story according to Freytag’s Pyramid?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um Bestandteile des [i]pyramidalen Aufbaus[/i] eines Dramas nach Freytag?",
+   "us": false,
    "x": false
   },
   {
@@ -18837,37 +18849,46 @@
      "text": "Fred"
     },
     {
-     "text": "Fezziwig"
+     "text": "Mr. Fezziwig"
     },
     {
      "text": "Mrs. Cratchit"
     },
     {
-     "text": "The Ghost of Christmas Past"
+     "text": "Der Geist der vergangenen Weihnacht"
     },
     {
-     "text": "The Ghost of Christmas Present"
+     "text": "Der Geist der diesjährigen Weihnachtsnacht"
     },
     {
-     "text": "The Ghost of Christmas Yet to Come"
+     "text": "Der Geist der zukünftigen Weihnacht"
     }
    ],
    "category": "Literature",
    "decoys": [
     {
-     "text": "Father Time"
+     "text": "Väterchen Frost"
     },
     {
      "text": "George Bailey"
     },
     {
-     "text": "Rizzo the Rat"
+     "text": "Floyd Pepper"
+    },
+    {
+     "text": "Michael Darling"
+    },
+    {
+     "text": "Mary Barnabas"
+    },
+    {
+     "text": "Rizzo die Ratte"
     }
    ],
    "id": "86466",
    "isValid": "",
-   "prompt": "Which of these are characters from Charles Dickens’ novella [i]A Christmas Carol[/i]?",
-   "us": true,
+   "prompt": "Welches sind Charaktere aus Charles Dickens weltberühmter Erzählung “[i]Eine Weihnachtsgeschichte[/i]”?",
+   "us": false,
    "x": false
   },
   {
@@ -18895,6 +18916,9 @@
     },
     {
      "text": "Winston Churchill"
+    },
+    {
+     "text": "Harold Wilson"
     }
    ],
    "category": "Historical Figures",
@@ -18903,166 +18927,193 @@
      "text": "John Lennon"
     },
     {
-     "text": "Prince Phillip"
+     "text": "Prinz Philipp"
     },
     {
      "text": "John Cleese"
     },
     {
      "text": "Hugh Grant"
+    },
+    {
+     "text": "John Bercow"
+    },
+    {
+     "text": "Robert Donat"
     }
    ],
    "id": "86468",
    "isValid": "",
-   "prompt": "Which individuals have actually been prime minister of the United Kingdom?",
-   "us": true,
+   "prompt": "Welche dieser Personen sind oder waren Stand 2021 Premierminister des Vereinigten Königreichs?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Christianity"
+     "text": "Christentum"
     },
     {
-     "text": "Judaism"
+     "text": "Judentum"
     },
     {
      "text": "Islam"
     },
     {
-     "text": "Baha'i Faith"
+     "text": "Bahaitum"
     },
     {
-     "text": "Rastafarianism"
+     "text": "Rastafari"
     },
     {
-     "text": "Zoroastrianism"
+     "text": "Zoroastrismus"
     },
     {
-     "text": "Sikhism"
+     "text": "Sikhismus"
+    },
+    {
+     "text": "Jesidentum"
     }
    ],
    "category": "Religion",
    "decoys": [
     {
-     "text": "Paganism"
+     "text": "Atheismus"
     },
     {
-     "text": "Shinto"
+     "text": "Shintoismus"
     },
     {
-     "text": "Confucianism"
+     "text": "Konfuzianismus"
     },
     {
-     "text": "Agnosticism"
+     "text": "Agnostizismus"
     },
     {
-     "text": "Buddhism"
+     "text": "Buddhismus"
+    },
+    {
+     "text": "Tengrismus"
     }
    ],
    "id": "86471",
    "isValid": "",
-   "prompt": "Which of these are monotheistic religions?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um monotheistische Religionen?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "onions"
+     "text": "Zwiebeln"
     },
     {
-     "text": "grapes"
+     "text": "Weintrauben"
     },
     {
-     "text": "garlic"
+     "text": "Knoblauch"
     },
     {
-     "text": "chives"
+     "text": "Schnittlauch"
     },
     {
-     "text": "caffeine"
+     "text": "Koffein"
     },
     {
-     "text": "chocolate"
+     "text": "Schokolade"
+    },
+    {
+     "text": "Avocado"
     }
    ],
    "category": "Animals",
    "decoys": [
     {
-     "text": "spinach"
+     "text": "Spinat"
     },
     {
-     "text": "pumpkin"
+     "text": "Kürbis"
     },
     {
-     "text": "eggs"
+     "text": "Ei"
     },
     {
-     "text": "cantaloupe"
+     "text": "Melone"
     },
     {
-     "text": "oatmeal"
+     "text": "Hafer"
     },
     {
-     "text": "bananas"
+     "text": "Banane"
+    },
+    {
+     "text": "Apfel"
     }
    ],
    "id": "86474",
    "isValid": "",
-   "prompt": "Which of these foods are toxic to cats?",
-   "us": true,
+   "prompt": "Welche dieser Lebensmittel sind giftig für Katzen?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Christina Aguilera"
+     "text": "Nena"
     },
     {
-     "text": "Shakira"
+     "text": "BossHoss"
     },
     {
-     "text": "Adam Levine"
+     "text": "Smudo"
     },
     {
-     "text": "Usher"
+     "text": "Yvonne Catterfeld"
     },
     {
-     "text": "Pharrell Williams"
+     "text": "Rea Garvey"
     },
     {
-     "text": "Alicia Keys"
+     "text": "Johannes Oerding"
     },
     {
-     "text": "Blake Shelton"
+     "text": "Sido"
+    },
+    {
+     "text": "Nico Santos"
+    },
+    {
+     "text": "Stefanie Kloß"
     }
    ],
    "category": "Music",
    "decoys": [
     {
-     "text": "Susan Boyle"
+     "text": "Ross Antony"
     },
     {
-     "text": "Paula Abdul"
+     "text": "Stefan Raab"
     },
     {
-     "text": "Neil Degrasse Tyson"
+     "text": "Thomas D"
     },
     {
-     "text": "Ricky Martin"
+     "text": "Farin Urlaub"
     },
     {
-     "text": "Donna Summer"
+     "text": "Peter Brugger"
     },
     {
-     "text": "Ashlee Simpson"
+     "text": "H.P. Baxxter"
+    },
+    {
+     "text": "Bill Kaulitz"
     }
    ],
    "id": "86476",
    "isValid": "",
-   "prompt": "Which celebrities have been coaches on [i]The Voice[/i]?",
-   "us": true,
+   "prompt": "Welche dieser Promis sind oder waren Stand 2021 Coaches bei “[i]The Voice of Germany[/i]”?",
+   "us": false,
    "x": false
   },
   {
@@ -19242,49 +19293,73 @@
   {
    "answers": [
     {
-     "text": "Douglas Edwards"
+     "text": "Susanne Daubner"
     },
     {
-     "text": "Walter Cronkite"
+     "text": "Claus-Erich Boetzkes"
     },
     {
-     "text": "Dan Rather"
+     "text": "Jo Brauner"
     },
     {
-     "text": "Connie Chung"
+     "text": "Judith Rakers"
     },
     {
-     "text": "Bob Schieffer"
+     "text": "Jens Riewa"
     },
     {
-     "text": "Katie Couric"
+     "text": "Constantin Schreiber"
     },
     {
-     "text": "Scott Pelley"
+     "text": "Linda Zervakis"
     },
     {
-     "text": "Norah O’Donnell"
+     "text": "Thorsten Schröder"
+    },
+    {
+     "text": "Julia-Niharika Sen"
+    },
+    {
+     "text": "Michail Paweletz"
     }
    ],
    "category": "News Media",
    "decoys": [
     {
-     "text": "Edward R. Murrow"
+     "text": "Mariette Slomka"
     },
     {
-     "text": "Tom Brokaw"
+     "text": "Bettina Schausten"
     },
     {
-     "text": "Andy Rooney"
+     "text": "Claus Kleber"
     },
     {
-     "text": "Tucker Carlson"
+     "text": "Maybrit Illner"
+    },
+    {
+     "text": "Ingeborg Wurster"
+    },
+    {
+     "text": "Peter Kloeppel"
+    },
+    {
+     "text": "Annett Möller"
+    },
+    {
+     "text": "Kay-Sölve Richter"
+    },
+    {
+     "text": "Barbara Schöneberger"
+    },
+    {
+     "text": "Carsten Stahl"
     }
    ],
    "id": "86501",
    "isValid": "",
-   "prompt": "Which of these individuals have been anchors of the [i]CBS Evening News[/i] program?",
-   "us": true,
+   "prompt": "Welche dieser Personen sind oder waren Stand 2021 Moderatoren der [i]ARD Tagesschau[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -19338,49 +19413,55 @@
   {
    "answers": [
     {
-     "text": "soldier"
+     "text": "Soldat"
     },
     {
-     "text": "cop"
+     "text": "Polizist"
     },
     {
-     "text": "construction worker"
+     "text": "Bauarbeiter"
     },
     {
-     "text": "Native American warrior"
+     "text": "Amerikanischer Ureinwohner"
     },
     {
-     "text": "biker"
+     "text": "Biker"
     },
     {
-     "text": "cowboy"
+     "text": "Cowboy"
     }
    ],
    "category": "Music",
    "decoys": [
     {
-     "text": "plumber"
+     "text": "Klempner"
     },
     {
-     "text": "mailman"
+     "text": "Postbote"
     },
     {
-     "text": "horse jockey"
+     "text": "Jockey"
     },
     {
-     "text": "clown"
+     "text": "Clown"
     },
     {
-     "text": "maitre d’"
+     "text": "Koch"
     },
     {
-     "text": "football coach"
+     "text": "Fitnesstrainer"
+    },
+    {
+     "text": "Kapitän"
+    },
+    {
+     "text": "Feuerwehrmann"
     }
    ],
    "id": "86503",
    "isValid": "",
-   "prompt": "Which costumes did The Village People wear in their music video for \"YMCA\"?",
-   "us": true,
+   "prompt": "Welche dieser Kostüme trugen die [i]Village People[/i] im Musikvideo zu “YMCA”?",
+   "us": false,
    "x": false
   },
   {
@@ -19434,49 +19515,61 @@
   {
    "answers": [
     {
-     "text": "€5"
+     "text": "1$"
     },
     {
-     "text": "€10"
+     "text": "2$"
     },
     {
-     "text": "€20"
+     "text": "5$"
     },
     {
-     "text": "€50"
+     "text": "10$"
     },
     {
-     "text": "€100"
+     "text": "20$"
     },
     {
-     "text": "€200"
+     "text": "50$"
     },
     {
-     "text": "€500"
+     "text": "100$"
+    },
+    {
+     "text": "500$"
+    },
+    {
+     "text": "1.000$"
+    },
+    {
+     "text": "10.000$"
     }
    ],
    "category": "Money",
    "decoys": [
     {
-     "text": "€1"
+     "text": "3$"
     },
     {
-     "text": "€2"
+     "text": "25$"
     },
     {
-     "text": "€25"
+     "text": "200$"
     },
     {
-     "text": "€1000"
+     "text": "2.000$"
     },
     {
-     "text": "€2000"
+     "text": "0,5$"
+    },
+    {
+     "text": "50.000$"
     }
    ],
    "id": "86514",
    "isValid": "",
-   "prompt": "Which of these are the values of the paper denominations of the euro(€)?",
-   "us": true,
+   "prompt": "Mit welchen dieser US-Dollar-Banknoten kann man in den USA auch heute noch bezahlen?",
+   "us": false,
    "x": false
   },
   {
@@ -19533,16 +19626,16 @@
      "text": "Romeo Montague"
     },
     {
-     "text": "Juliet Capulet"
+     "text": "Julia Capulet"
     },
     {
-     "text": "Friar Lawrence"
+     "text": "Bruder Lorenzo"
     },
     {
      "text": "Mercutio"
     },
     {
-     "text": "The Nurse"
+     "text": "Rosalinde"
     },
     {
      "text": "Tybalt"
@@ -19554,27 +19647,30 @@
      "text": "Paris"
     },
     {
-     "text": "The Apothecary"
+     "text": "Die Amme"
     }
    ],
    "category": "Theatre/Performing Arts",
    "decoys": [
     {
-     "text": "Hector"
-    },
-    {
-     "text": "Lady Macbeth"
+     "text": "Fräulein Margaret"
     },
     {
      "text": "Ophelia"
     },
     {
      "text": "Prospero"
+    },
+    {
+     "text": "Diederich"
+    },
+    {
+     "text": "Theseus"
     }
    ],
    "id": "86521",
    "isValid": "",
-   "prompt": "Which of these are characters in Shakespeare’s [i]Romeo & Juliet[/i]?",
+   "prompt": "Welches sind Charaktere aus “[i]Romeo und Julia[/i]” von William Shakespeare?",
    "us": true,
    "x": false
   },
