@@ -7254,7 +7254,7 @@
   {
    "answers": [
     {
-     "text": "Proszenium"
+     "text": "Rundbogenbühne"
     },
     {
      "text": "Arenabühne"
@@ -7266,7 +7266,7 @@
      "text": "Gassenbühne"
     },
     {
-     "text": "Drehbühne"
+     "text": "Towerbühne"
     },
     {
      "text": "Manege"
@@ -8307,12 +8307,6 @@
      "text": "Große Zitterspinne"
     },
     {
-     "text": "Wolfsspinne"
-    },
-    {
-     "text": "Vogelspinne"
-    },
-    {
      "text": "Goliath-Vogelspinne"
     },
     {
@@ -8323,9 +8317,6 @@
     },
     {
      "text": "Veränderliche Krabbenspinne"
-    },
-    {
-     "text": "Tapezierspinne"
     },
     {
      "text": "[i]Spintharus davidbowiei[/i]"
@@ -8682,9 +8673,6 @@
      "text": "Polio"
     },
     {
-     "text": "Medinawurm"
-    },
-    {
      "text": "Masern"
     },
     {
@@ -8856,7 +8844,7 @@
      "text": "Mobbing"
     },
     {
-     "text": "Casting Show"
+     "text": "Casting-Show"
     },
     {
      "text": "Smoking"
@@ -9336,7 +9324,7 @@
      "text": "Zentriol"
     },
     {
-     "text": "Endoplasmatisches Reticulum"
+     "text": "Endoplasmatisches Retikulum"
     },
     {
      "text": "Ribosome"
@@ -10317,9 +10305,6 @@
      "text": "Wassermokassinotter"
     },
     {
-     "text": "Grubenotter"
-    },
-    {
      "text": "Inlandtaipan"
     },
     {
@@ -10560,7 +10545,7 @@
      "text": "Internet Archive"
     },
     {
-     "text": "Aol"
+     "text": "AOL"
     }
    ],
    "category": "Internet",
@@ -10754,7 +10739,7 @@
    ],
    "id": "79664",
    "isValid": "",
-   "prompt": "Wobei handelt es sich um Arten von Knoten?",
+   "prompt": "Wobei handelt es sich um echte Knoten?",
    "us": false,
    "x": false
   },
@@ -10796,9 +10781,6 @@
    ],
    "category": "Animals",
    "decoys": [
-    {
-     "text": "Kröte"
-    },
     {
      "text": "Salamander"
     },
@@ -18501,58 +18483,58 @@
   {
    "answers": [
     {
-     "text": "[i]The Adventures of Huckleberry Finn[/i]"
+     "text": "[i]Von Idioten umzingelt![/i]"
     },
     {
-     "text": "[i]The Last of the Mohicans[/i]"
+     "text": "[i]Gibt's Probleme?[/i]"
     },
     {
-     "text": "[i]Little Women[/i]"
+     "text": "[i]Jetzt reicht's![/i]"
     },
     {
-     "text": "[i]The Scarlet Letter[/i]"
+     "text": "[i]Geht's noch?[/i]"
     },
     {
-     "text": "[i]Pride and Prejudice[/i]"
+     "text": "[i]Keine Panik![/i]"
     },
     {
-     "text": "[i]Heart of Darkness[/i]"
+     "text": "[i]Dumm gelaufen![/i]"
     },
     {
-     "text": "[i]Oliver Twist[/i]"
+     "text": "[i]Böse Falle![/i]"
     },
     {
-     "text": "[i]Crime and Punishment[/i]"
+     "text": "[i]So ein Mist![/i]"
     },
     {
-     "text": "[i]War and Peace[/i]"
+     "text": "[i]Und Tschüss![/i]"
     },
     {
-     "text": "[i]Moby Dick[/i]"
+     "text": "[i]Halt mal die Luft an![/i]"
     }
    ],
    "category": "Literature",
    "decoys": [
     {
-     "text": "[i]Robinson Crusoe[/i]"
+     "text": "[i]Jetzt erst recht![/i]"
     },
     {
-     "text": "[i]Gulliver’s Travels[/i]"
+     "text": "[i]Schluss mit lustig![/i]"
     },
     {
-     "text": "[i]The Vicar of Wakefield[/i]"
+     "text": "[i]Alles cool![/i]"
     },
     {
-     "text": "[i]Their Eyes Were Watching God[/i]"
+     "text": "[i]Das geht nicht![/i]"
     },
     {
-     "text": "[i]The Fault in Our Stars[/i]"
+     "text": "[i]Ach menno![/i]"
     }
    ],
    "id": "86448",
    "isValid": "",
-   "prompt": "Which of these books are from the 19th century?",
-   "us": true,
+   "prompt": "Welches davon sind Gregs Tagebücher?",
+   "us": false,
    "x": false
   },
   {
