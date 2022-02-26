@@ -573,7 +573,7 @@
         },
         {
             "keywords":["Wann"],
-            "sequential": ["ist", "sind", "können", "kann", "werden", "wird", "machen", "macht", "hat", "könnte", "soll", "sollte", "würde", "hätte", "hatte", "würde", "darf", "dürfen"],
+            "sequential": [],
             "answers":[
 				"Fünfzehn Minuten nach dem Nachtisch. Nicht früher, nicht später.",
 				"In dem Moment, in dem du heute Abend einschläfst.",
@@ -1006,6 +1006,17 @@
             "sequential": ["geht es dir"],
             "answers":[ 
 				"Fantastisch! Danke der Nachfrage!",
+        "Großartig! Und jetzt bestaune meine unglaubliche Größe!",
+		"Den Umständen entsprechend."
+      ]
+        },
+		{
+            "keywords":["Wie"],
+            "sequential": ["lange", "lang", "viel Zeit"],
+            "answers":[ 
+				"Also mindestens noch bis übermorgen.",
+				"Solange, bis die Milch bei dir im Kühlschrank abgelaufen ist.",
+				"Bis Ostern. Aber nur, wenn die Sonne scheint. Ansonsten musst du noch ein Jahr länger warten.",
         "Großartig! Und jetzt bestaune meine unglaubliche Größe!"
       ]
         },
