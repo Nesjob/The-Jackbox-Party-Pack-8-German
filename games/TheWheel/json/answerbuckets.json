@@ -45,7 +45,7 @@
 				"Immer, wenn es einen Schalttag gibt. Dieser Tag.",
 				"Ich sage, du bist der Anti-Garfield und fängst an, montags zu lieben.",
 				"Wenn man Rob de Nijs glauben darf, “Es Ist Freitag! Freitag!”",
-				"Weißt du was, lass uns den Dienstag nehmen.  Jemand muss es dem Dienstag geben!",
+				"Weißt du was, lass uns den Dienstag nehmen. Jemand muss es dem Dienstag geben!",
 				"Der beste Tag der Woche ist der Sonntag. Er kann ein schönes Ende oder ein neuer Anfang sein.",
 				"Samstag. Was für eine Verschwendung einer Frage.",
 				"Ich habe eine Vorliebe für meinen Geburtstag. Aber der Kuchen ist durch die vielen Kerzen zu einem Feuerrisiko geworden."		
@@ -60,7 +60,7 @@
 				"Ich sehe Liebe und Zusammenleben in deiner Zukunft. Außerdem eine unheilige Sauerei, die zu einer Nagetierplage führt.",
 				"Ich sehe Liebe in deiner Zukunft. Ich sehe auch jahrelange, kleinliche Streitereien, die täglich vorkommen werden. Glückwunsch.",
 				"Du wirst dich viele Male verlieben. Und viele werden dich lieben. Sei vorsichtig, was du dir wünschst.",
-				"Die wahre Liebe wird dich finden.  Sie kann sogar direkt vor deiner Nase sein.  Nein, nicht ich. Ich bin eine Videospielfigur.",
+				"Die wahre Liebe wird dich finden. Sie kann sogar direkt vor deiner Nase sein. Nein, nicht ich. Ich bin eine Videospielfigur.",
 				"“Die Liebe ist überall um dich herum, Schätzchen. Du musst nur deine Augen öffnen und sie sehen!“ (Danke, Mama.)",
 				"Du hast deinen Seelenverwandten bereits getroffen. Sie waren in deiner 8. Klasse im Naturwissenschaftsunterricht.",
 				"Die Liebe wird dich finden. Es ist das Beste, die Dinge einfach geschehen zu lassen.",
@@ -274,7 +274,7 @@
 			]
 		},
         {
-			"keywords": ["Was ist dein Lieblings", "Was soll ich dir opfern", "Hast du ein Lieblings Opfer", "Was soll ich dir als Opfer anbieten", "Was isst du", "Was isst du gerne", "Isst du"], 
+			"keywords": ["Was ist dein", "Was soll ich dir opfern", "Hast du ein Lieblings Opfer", "Was soll ich dir als Opfer anbieten", "Was isst du", "Was isst du gerne", "Isst du"], 
 			"sequential": [],
 			"answers": [
 				"Ich habe eine Schwäche für Kinder Schokobons.",   
@@ -286,7 +286,7 @@
 			]
 		},
         {
-			"keywords": ["Fick dich", "Verpiss dich", "Fick dich einfach"],
+			"keywords": ["Fick dich", "Verpiss dich", "Fick dich einfach", "Arsch"],
 			"sequential": [],
 			"answers": [
 				"Warte, bis der Abspann neunmal durchläuft, um meine Antwort zu bekommen. Ich verspreche, es wird sich lohnen.",
@@ -304,7 +304,7 @@
 			]
 		},
         {
-			"keywords": ["Nintendo"],
+			"keywords": ["Nintendo","Mario","Luigi","Peach","Donkey Kong"],
 			"sequential": [],
 			"answers": [
 				"Für diese Frage muss ich meinen guten Freund Domtendo fragen.",
@@ -318,6 +318,31 @@
 				"Ich habe Freude daran, die Hälfte vom Jahr nur Ports zu spielen."
 			]
 		},
+      {
+			"keywords": ["Til Schweiger"],
+			"sequential": [],
+			"answers": [
+				"Der würde mich wenigstens verstehen, weil ich immerhin nicht nuschel",
+        "Über Til machen sich zwar viele lustig, aber er will vielleicht auch nur Liebe.",
+        "Wenn man Regie, Drehbuch und Schauspieler gleichzeitig ist, kann das nichts werden"
+			]
+		},
+      {
+			"keywords": ["Erde eine Scheibe","Ist die Welt eine Scheibe","Flache Erde","Flatearth","Flat Earth", "Erde flach", "Erde Scheibe"],
+			"sequential": [],
+			"answers": [
+				"Nein, die Erde ist mindestens genauso Rund wie ich.",
+        "Die Erde ist rund und zusätzlich von unglaublicher Größe!"
+			]
+		},
+      {
+			"keywords": ["Corona","Covid","Coronavirus"],
+			"sequential": [],
+			"answers": [
+				"Über Corona darf ich laut dem Gesundheitsamt keine Aussage treffen.",
+        "Die Regierung hat mir befohlen, zu Corona-Fragen zu schweigen."
+			]
+		},
         {
             "keywords":["oder"],
             "sequential": [],
@@ -327,7 +352,7 @@
 				"Jedes von beiden ist perfekt. Wir erleben ein Massenaussterben. Mach weiter und sei glücklich.",
 				"Das rechte.",
 				"Kommt auf den Tag an.",
-				"Die erste.  Den ganzen Tag. Jeden Tag.",
+				"Die erste. Den ganzen Tag. Jeden Tag.",
 				"Welches macht dir Freude? Nimm das andere. Mit der Zeit wirst du es verstehen.",
 				"Welches auch immer am günstigsten ist.",
 				"Warum nicht beides?",
@@ -359,15 +384,15 @@
 				"Meine Kristallkugel sagt die erste Wahl! Nein, im Ernst, ich habe keine Kristallkugel. Ich bin nur allwissend.",
 				"Bei welcher Variante ist die Wahrscheinlichkeit geringer, dass du ohne Geld und mit gestohlenen Habseligkeiten strandest? Entscheide dich für die eine.",
 				"Die zweite Option ist sicherlich verlockend, aber die erste ist die richtige.",
-				"Seien wir mal ehrlich.  Du wirst so oder so unglücklich sein.",
-				"Versuch Folgendes: Denk an deinen Tod. Stell dir jetzt deine Frage.  Die Antwort ist ziemlich klar, oder?",
+				"Seien wir mal ehrlich. Du wirst so oder so unglücklich sein.",
+				"Versuch Folgendes: Denk an deinen Tod. Stell dir jetzt deine Frage. Die Antwort ist ziemlich klar, oder?",
 				"Ich meine, du vergleichst hier Äpfel mit Birnen. Aber wenn ich mich entscheiden müsste, würde ich mich für... Kumquats entscheiden.",
 				"Wenn heute eine gerade Zahl ist, wähle Nummer 1.",
 				"Hier ist eine weitere Möglichkeit. Nichts.",
 				"Tomate, Tomahto. Eh, ich fühle mich heute britisch. Die zweite.",
 				"Welche Wahl bringt dich näher daran, Bundeskanzler zu werden?",
 				"Welche Option bringt dich deinen Träumen am nächsten?",
-				"Das ist eine falsche Dichotomie.  Ich lehne diese Frage von ganzem Herzen ab und verweise dich von meinem Berg.",
+				"Das ist eine falsche Dichotomie. Ich lehne diese Frage von ganzem Herzen ab und verweise dich von meinem Berg.",
 				"Zwei Wege trennten sich in einem Wald und ich... Ich wähle die lächerliche Option, die weniger befahren wird.",
 				"Die gefährlichere Wahl. Denk an die Geschichten!",
 				"Ich weiß, dass es nicht zwei Dinge auf einmal sein können, aber... wäre das nicht was?  Wie auch immer, entscheide dich für das Erste.",
@@ -389,11 +414,11 @@
 			]
         },	
         {
-            "keywords":["Wer", "Wessen", "Welcher", "Welches", "Wem", "Von wem"],
+            "keywords":["Wer", "Wessen", "Welcher", "Welches", "Wem", "Von wem", "Wen"],
             "sequential": [],
             "answers":[
 				"Der EINZIG WAHRE Furzende Tim!!",
-				"Wie jeder.  Auf viele verschiedene kleine Arten.",
+				"Wie jeder. Auf viele verschiedene kleine Arten.",
 				"Ich empfehle einen guten Fußpfleger.",
 				"Der Junge aus deiner Mittelschule, der immer einen Mantel trug!",
 				"Da fällt mir nur ein Name ein: Norbert.",
@@ -411,10 +436,10 @@
 				"Eine wunderschöne Sternschnuppe. Wünsch dir was!",
 				"Der ehemalige Bundeskanzler Helmut Kohl. Gratuliere, denke ich?",
 				"Jürgen Drews, der selbsternannte “König von Mallorca“.",
-				"Ein Klempner.  Und sein schlaksiger Bruder.",
+				"Ein Klempner. Und sein schlaksiger Bruder.",
 				"Dein Nachbar von nebenan. Sprich sofort mit ihnen!",
 				"Pastatron 3000, der einzige kochende, brodelnde Pastabot der Welt!",
-				"Wer auch immer sie sind, sie sind haarig.  Ich sehe eine MENGE Haare.",
+				"Wer auch immer sie sind, sie sind haarig. Ich sehe eine MENGE Haare.",
 				"Sorry, das ist dein Vater, aber als altes russisches Kindermädchen verkleidet.",
 				"Es ist nicht deine Mutter. Deine Mutter hat mir gesagt, dass ich dir das sagen soll.",
 				"Ich bekomme keinen Namen, aber sie stehen vor deinem Haus in einem nicht gekennzeichneten Lieferwagen.",
@@ -472,7 +497,7 @@
 				"Huch... ein Magier.",
 				"Ein übereifriger Fußballfan.",
 				"Eine Dame mit einem Banjo.",
-				"Eine Sonderstaatsanwältin für die Bundespolizei.  Und sie ist heiß!",
+				"Eine Sonderstaatsanwältin für die Bundespolizei. Und sie ist heiß!",
 				"Brieftaubenhändlerin, Beschützerin der Maulwurfsmenschen und Herrscherin über den Untergrund.",
 				"Germany's Next Topmodel. Nicht die Gewinnerin des Wettbewerbs, sondern eine von denen, die die Haare abgeschnitten bekommen beim Umstyling.",
 				"Ein Delphin mit einer kleinen Schwanzflosse.",
@@ -548,7 +573,7 @@
         },
         {
             "keywords":["Wann"],
-            "sequential": ["ist", "sind", "können", "kann", "werden", "wird", "machen", "macht", "hat", "könnte", "soll", "sollte", "würde", "hätte", "hatte", "würde", "darf", "dürfen"],
+            "sequential": [],
             "answers":[
 				"Fünfzehn Minuten nach dem Nachtisch. Nicht früher, nicht später.",
 				"In dem Moment, in dem du heute Abend einschläfst.",
@@ -574,7 +599,7 @@
 				"24. September 1749.",
 				"In etwa vier Jahren, sechs, wenn du dich entscheidest, eine Assistenzzeit zu machen.",
 				"Wenn der Schiefe Turm von Pisa nach Ulm kommt.",
-				"In Kürze!  Geduld, Süße.",
+				"In Kürze! Geduld, Süße.",
 				"Ich bin ein Schriftsteller in Chicago und schreibe dies am 23. Juli 2021. Du liest das jetzt gerade. ”Wann” bedeutet nichts.",
 				"Oh-oh! Morgen. Ich hoffe, du bist bereit.",
 				"Eine Sekunde nach der letzten Sekunde des letzten Tages des Universums.",
@@ -583,7 +608,7 @@
 				"Oh! Äh, in welcher Zeitlinie bist du noch mal? Upsilon? Es wird Dienstag sein.",
 				"Eh. Erst in ein paar Wochen.",
 				"Der Versand dauert 5-7 Werktage.",
-				"Nächster Valentinstag!  Oh, wie romantisch!",
+				"Nächster Valentinstag! Oh, wie romantisch!",
 				"In der Pause! Du musst es nur bis dahin aushalten!",
 				"Du feierst diesen Feiertag noch nicht, aber am 12. Jahrestag des Sieges über die Orks.",
 				"MORGEN! Moment, ist das ein Schaltjahr? Oh. NIEMALS!",
@@ -619,7 +644,7 @@
 				"Das nächste Mal, wenn es regnet.",
 				"In 24 Stunden! Sorry, [i]Jahre[/i]. In 24 Jahren. Mein Fehler.",
 				"In einer dunklen und stürmischen Nacht.",
-				"März.  Der schlimmste Monat.",
+				"März. Der schlimmste Monat.",
 				"Irgendwo ist es 5 Uhr.", 
 				"Der Tag nach der Apokalypse, leider.",
 				"Niemals! Muahahaha!",
@@ -680,12 +705,12 @@
 				"In den Hallen des Bundestages.",
 				"Die Ecke des Glücks und der Gesundheit.",
 				"Auf der Spitze des Fernsehturms.",
-				"Es tut mir so leid.  Planet Iggrama-X.  Ziemlich weit weg von allen anderen.",
+				"Es tut mir so leid. Planet Iggrama-X. Ziemlich weit weg von allen anderen.",
 				"Der verzauberte Wald!",
 				"Stuttgart.",
 				"Der Marianengraben.",
 				"Der Grund eines Flusses. Entschuldigung.",
-				"Ulaanbaatar, Mongolei!  Tolles Essen!",
+				"Ulaanbaatar, Mongolei! Tolles Essen!",
 				"Ein verlassener Laser-Tag-Platz",
 				"Marcel Davis' Garten.",
 				"Im Inneren des supermassiven schwarzen Lochs im Zentrum der Milchstraße.",
@@ -695,7 +720,7 @@
 				"Im Inneren eines riesigen Gurkenglases, nachdem es 100 Jahre lang konserviert wurde",
 				"Würde es dir den Tag verderben, wenn ich Nirgendwo sage?  Denn die Antwort ist nirgendwo. Überhaupt nirgendwo.",
 				"Das Königreich Spanien.",
-				"Eine der 7.000 philippinischen Inseln!  Das Beste, was ich tun kann.",
+				"Eine der 7.000 philippinischen Inseln! Das Beste, was ich tun kann.",
 				"Eine dunkle Gasse.",
 				"Du kennst den Ort. Ich treffe dich dort.",
 				"Das zweite Regal in deinem Wäscheschrank.",
@@ -755,7 +780,7 @@
 				"Ich glaube, der Wirtschaftscrash 2008 hatte etwas damit zu tun.",
 				"Weil die Welt rund ist.",
 				"Frag Dr. Emmett Brown . Eigentlich müsstest du in der Zeit zurückgehen und Dr. Emmett Brown fragen.",
-				"Zum Teil wegen des Kapitalismus.  Aber vor allem, weil die Menschen Idioten sind.",
+				"Zum Teil wegen des Kapitalismus. Aber vor allem, weil die Menschen Idioten sind.",
 				"Ich wünschte, ich könnte origineller sein, aber so ist das Leben nun mal.",
 				"Wir alle kämpfen darum, das zu verstehen, aber die Wahrheit ist, dass die Alternative viel, viel, viel schlimmer ist.",
 				"Ich kann das nicht beantworten. Geh und spiel [i]Trivia Murder Party 2[/i], du kleiner Schlingel.",
@@ -806,10 +831,10 @@
 				"Seien wir ehrlich, Bestechung funktioniert.",
 				"Indem du ein Tiefdruckgebiet mit einer besonders heiklen Sturmfront kombinierst.",
 				"Du musst den geheimen Akkord spielen, den David spielte und der dem Herrn gefiel.",
-				"Du kannst es schaffen.  Leg dich ins Zeug.",
+				"Du kannst es schaffen. Leg dich ins Zeug.",
 				"Indem du dich mit mehreren Lamas anfreundest. MEHRERE.",
 				"Indem du hart arbeitest und freundlich bist.",
-				"Heiraten!  Die Ehe bringt alles in Ordnung.",
+				"Heiraten! Die Ehe bringt alles in Ordnung.",
 				"Mit der Hilfe eines weisen alten Weisen. Ich wünschte nur, ich würde einen kennen.",
 				"Durch die Kraft der positiven Gedanken.",
 				"Durch einen ausgeklügelten Raub.",
@@ -865,13 +890,13 @@
 				"Jeden Tag! Das ist gut für dich!",
 				"Jeden zweiten Tag, mit schnellen Jogging-Bewegungen.",
 				"Nur, wenn es draußen 60 Grad warm ist.",
-				"Bitte.  Man braucht es gar nicht zu tun.",
+				"Bitte. Man braucht es gar nicht zu tun.",
 				"Das hängt von den Feiertagen ab, aber normalerweise dauert es 5-7 Werktage.",
 				"Immer, wenn du dein Lied im Radio hörst.",
 				"Sechsmal mehr als du gedacht hast.",
 				"Fünfmal am Tag. Bei weniger musst du sofort einen Arzt aufsuchen.",
 				"Jeden Tag, wenn du 89 Jahre alt wirst.",
-				"So oft, wie du eine Pommes gestohlen hast.  Dieb.",
+				"So oft, wie du eine Pommes gestohlen hast. Dieb.",
 				"Einmal. Zweimal, wenn du einen harten Tag im Büro hattest.",
 				"Jedes Mal, wenn du nach draußen gehst.",
 				"Maximal 50 Mal.",
@@ -920,7 +945,7 @@
 				"Ungefähr sechs.",
 				"Was auch immer eine Brotbox ist - ungefähr diese Maße.",
 				"Nicht annähernd das, was auf dem Bild im Katalog versprochen wurde.",
-				"Ich meine, das ist eine Art persönliche Vorliebe.  So viel oder so wenig, wie du willst.",
+				"Ich meine, das ist eine Art persönliche Vorliebe. So viel oder so wenig, wie du willst.",
 				"Eine beträchtliche Menge, aber nichts Obszönes.",
 				"Was auch immer du dir vorstellst, aber in der Größe eines Luftballons.",
 				"Im Durchschnitt etwa fünf bis sieben Zentimeter.",
@@ -967,8 +992,36 @@
 				"Im britischen Imperiumssystem heißt die Maßeinheit “One Radish“. Das hat nichts mit dem Gemüse zu tun."
 			]
         },		
+      {
+            "keywords":["Wie"],
+            "sequential": ["alt"],
+            "answers":[ 
+				"Mindestens 30 Jahre. Wenn man der Biologie Glauben schenkt.",
+        "Stell dir schon mal den Timer auf 15 Minuten.",
+        "Kürzer als du denkst. Also leb dein Leben, alter!"
+      ]
+        },
+      {
+            "keywords":["Wie"],
+            "sequential": ["geht es dir"],
+            "answers":[ 
+				"Fantastisch! Danke der Nachfrage!",
+        "Großartig! Und jetzt bestaune meine unglaubliche Größe!",
+		"Den Umständen entsprechend."
+      ]
+        },
+		{
+            "keywords":["Wie"],
+            "sequential": ["lange", "lang", "viel Zeit"],
+            "answers":[ 
+				"Also mindestens noch bis übermorgen.",
+				"Solange, bis die Milch bei dir im Kühlschrank abgelaufen ist.",
+				"Bis Ostern. Aber nur, wenn die Sonne scheint. Ansonsten musst du noch ein Jahr länger warten.",
+        "Großartig! Und jetzt bestaune meine unglaubliche Größe!"
+      ]
+        },
         {
-            "keywords":["Ist", "Ist nicht", "Kann", "Kann nicht", "Werde", "Wird", "War", "Brauche", "Hat", "Macht", "Kennt", "Kennst",  "Könnte", "Könntest", "Werden", "Soll", "Sollte", "Sollen", "Würde", "Würden", "Sind", "Bist", "Haben", "Hast", "Habe", "Hätte", "Hätten", "Darf", "Dürfen", "Darfst", "Dürft", "Können", "Könnt", "Mache", "Macht", "Machen"],
+            "keywords":["Ist", "Ist nicht", "Kann", "Kann nicht", "Werde", "Wird", "War", "Wirst", "Brauche", "Hat", "Macht", "Kennt", "Kennst",  "Könnte", "Könntest", "Werden", "Soll", "Sollte", "Sollen", "Würde", "Würden", "Sind", "Bist", "Haben", "Hast", "Habe", "Hätte", "Hätten", "Darf", "Dürfen", "Darfst", "Dürft", "Können", "Könnt", "Mache", "Macht", "Machen"],
             "sequential": [],
             "answers":[
 				"Auf einer Skala von 1-10: Wahrscheinlich nicht.", 
@@ -1005,7 +1058,7 @@
 				"Lass mich deine Frage mit einer anderen Frage beantworten: Nein?",
 				"Ich habe den Mann gefragt, der in deinem Lieblingssnack-Automaten wohnt und wir sind uns beide einig: Ja!",
 				"Oh, das ist ein großes JA mit Schlagsahne und einer Kirsche. Das stimmt, du kannst dieses JA essen.",
-				"Wenn das nächste Sandwich, das du isst, mit Thunfisch ist, dann ist das höchstwahrscheinlich ein JA!  Geh und hol den Thunfisch!",
+				"Wenn das nächste Sandwich, das du isst, mit Thunfisch ist, dann ist das höchstwahrscheinlich ein JA! Geh und hol den Thunfisch!",
 				"Ich füge das “Nein“ in “Auf keinen Fall“ ein. Nur zur Betonung.",
 				"Nein, und mach dir NICHT die Mühe, andere Riesenräder zu fragen, weil wir reden.",
 				"Die Zeichen stehen auf... jein?",
@@ -1061,7 +1114,7 @@
 				"Es gibt keine Absolutheiten. Außer in diesem Fall. Ja.",
 				"Ja. Und die Welt wird nie wieder dieselbe sein.",
 				"Abso-wie-immer!",
-				"Biep biep!  Das ist eine Bejahung!",
+				"Biep biep! Das ist eine Bejahung!",
 				"Ja! Schreit es von den Dächern! Die Antwort ist Ja!",
 				"Jupp!",
 				"Nein. Glaube mir, es ist das Beste.",
