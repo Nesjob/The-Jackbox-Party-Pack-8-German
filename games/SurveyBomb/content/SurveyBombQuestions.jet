@@ -281,7 +281,7 @@
     "Als Garderobe getarnt"
    ],
    "id": "76665",
-   "intro": "Ich bin gewisserweise selbst eine Scream Queen.",
+   "intro": "Ich bin gewissermaßen selbst eine Scream Queen.",
    "isValid": "",
    "outro": null,
    "question": "Die sichersten Verstecke in einem Horrorfilm",
@@ -293,14 +293,14 @@
   {
    "category": "set",
    "choices": [
-    "Hawaiian Shirt & Swimsuit",
-    "Overalls",
-    "Workout Clothes",
-    "Pajamas",
-    "Tuxedo/Ball Gown",
-    "Trench Coat",
-    "Romper",
-    "Halloween Costume"
+    "Hawaiishirt und Badeanzug",
+    "Overall",
+    "Jogginganzug",
+    "Pyjama",
+    "Anzug oder Kleid",
+    "Trenchcoat",
+    "Onesie",
+    "Halloween Kostüm"
    ],
    "id": "76666",
    "intro": "Fashion montage!",
