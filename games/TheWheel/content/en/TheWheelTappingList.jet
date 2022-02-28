@@ -16362,52 +16362,67 @@
   {
    "answers": [
     {
-     "text": "tent"
+     "text": "Schlafsack"
     },
     {
-     "text": "hiking boots"
+     "text": "Dosenöffner"
     },
     {
-     "text": "water bottles"
+     "text": "Kleidung"
     },
     {
-     "text": "food"
+     "text": "Gummistiefel"
     },
     {
-     "text": "sleeping bag"
+     "text": "Fotoapparat"
     },
     {
-     "text": "emergency supplies"
+     "text": "Taschenlampe"
     },
     {
-     "text": "camping stove"
+     "text": "Schutzmaske"
     },
     {
-     "text": "backpack"
+     "text": "Besteck"
+    },
+    {
+     "text": "Material zur Wundversorgung"
+    },
+    {
+     "text": "Kopfbedeckung"
     }
    ],
-   "category": "Tools",
+   "category": "Factoids",
    "decoys": [
     {
-     "text": "jar of honey"
+     "text": "Mittel zur Selbstverteidigung"
     },
     {
-     "text": "harmonica"
+     "text": "Rundfunkgerät"
     },
     {
-     "text": "hand puppets"
+     "text": "Bastelkleber"
     },
     {
-     "text": "shampoo"
+     "text": "Geld"
     },
     {
-     "text": "bear (to ward off bears)"
+     "text": "Insektenschutzmittel"
+    },
+    {
+     "text": "Campingtoilette"
+    },
+    {
+     "text": "Telefonnummern von Angehörigen"
+    },
+    {
+     "text": "Seil"
     }
    ],
    "id": "85640",
    "isValid": "",
-   "prompt": "According to REI, what items are absolutely necessary to bring on a backpacking trip?",
-   "us": true,
+   "prompt": "Welche dieser Dinge sollte man laut dem [i]Bundesamt für Bevölkerungsschutz[/i] jederzeit als Notgepäck vorbereitet haben?",
+   "us": false,
    "x": false
   },
   {
@@ -18432,49 +18447,58 @@
   {
    "answers": [
     {
-     "text": "Robitussin"
+     "text": "Ibu 400 akut"
     },
     {
-     "text": "Tylenol"
+     "text": "Hoggar Night 25mg"
     },
     {
-     "text": "Aleve"
+     "text": "Iberogast"
     },
     {
-     "text": "Benadryl"
+     "text": "Pantoprazol ratiopharm 20mg"
     },
     {
-     "text": "Claritin"
+     "text": "Bepanthen Wund- und Heilsalbe"
     },
     {
-     "text": "Pepto-Bismol"
+     "text": "Femannose N"
     },
     {
-     "text": "Dramamine"
+     "text": "Mucosolvan Saft 30mg/5ml"
     },
     {
-     "text": "Tums"
+     "text": "Immodium akut"
+    },
+    {
+     "text": "Opium D6 Tabletten"
     }
    ],
    "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "Prozac"
+     "text": "Ibuprofen AL 400"
     },
     {
-     "text": "Taltz"
+     "text": "Opium D5"
     },
     {
-     "text": "Lipitor"
+     "text": "Dolormin"
     },
     {
-     "text": "Ortho Tri-Cyclen"
+     "text": "Metformin Hexal 500mg"
+    },
+    {
+     "text": "Captopril STADA 100mg Tabletten"
+    },
+    {
+     "text": "ACC 200mg tabs"
     }
    ],
    "id": "86423",
    "isValid": "",
-   "prompt": "Which of these are over-the-counter medicines?",
-   "us": true,
+   "prompt": "Welche dieser Medikamente sind rezeptfrei in der Apotheke erhältlich?",
+   "us": false,
    "x": false
   },
   {
@@ -18486,43 +18510,49 @@
      "text": "[i]Melancholia[/i]"
     },
     {
-     "text": "[i]This Is the End[/i]"
+     "text": "[i]Das ist das Ende[/i]"
     },
     {
-     "text": "[i]28 Days Later[/i]"
+     "text": "[i]28 Tage später[/i]"
     },
     {
-     "text": "[i]WALL-E[/i]"
+     "text": "[i]Wall-E - Der Letzte räumt die Erde auf[/i]"
     },
     {
-     "text": "[i]The Day After[/i]"
+     "text": "[i]The Day After - Der Tag danach[/i]"
+    },
+    {
+     "text": "[i]Akira[/i]"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "[i]Hannah Montana: The Movie[/i]"
+     "text": "[i]Kim Possible[/i]"
     },
     {
      "text": "[i]Nomadland[/i]"
     },
     {
-     "text": "[i]A Kiss Before Dying[/i]"
+     "text": "[i]Der Kuß vor dem Tode[/i]"
     },
     {
-     "text": "[i]28 Days[/i]"
+     "text": "[i]28 Tage[/i]"
     },
     {
      "text": "[i]The Boss Baby[/i]"
     },
     {
-     "text": "[i]Beverly Hills Cop 2[/i]"
+     "text": "[i]RoboCop[/i]"
+    },
+    {
+     "text": "[i]Hubert und Staller - Die ins Gras beißen[/i]"
     }
    ],
    "id": "86447",
    "isValid": "",
-   "prompt": "Which movies are about the end of the world?",
-   "us": true,
+   "prompt": "In welchen dieser Filme geht es um das Ende der Welt?",
+   "us": false,
    "x": false
   },
   {
@@ -19698,7 +19728,7 @@
    "id": "86521",
    "isValid": "",
    "prompt": "Welches sind Charaktere aus “[i]Romeo und Julia[/i]” von William Shakespeare?",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
