@@ -1735,66 +1735,50 @@
   {
    "answers": [
     {
-     "text": "Joseph Biden",
+     "text": "Olaf Scholz",
      "value": "1"
     },
     {
-     "text": "George W. Bush",
+     "text": "Angela Merkel",
      "value": "2"
     },
     {
-     "text": "Ronald Reagan",
+     "text": "Gerhard Schröder",
      "value": "3"
     },
     {
-     "text": "Richard Nixon",
+     "text": "Helmut Kohl",
      "value": "4"
     },
     {
-     "text": "Lyndon B. Johnson",
+     "text": "Helmut Schmidt",
      "value": "5"
     },
     {
-     "text": "Harry S. Truman",
+     "text": "Willy Brandt",
      "value": "6"
     },
     {
-     "text": "Woodrow Wilson",
+     "text": "Kurt Georg Kiesinger",
      "value": "7"
     },
     {
-     "text": "Theodore Roosevelt",
+     "text": "Ludwig Erhard",
      "value": "8"
     },
     {
-     "text": "Rutherford B. Hayes",
+     "text": "Konrad Adenauer",
      "value": "9"
-    },
-    {
-     "text": "Abraham Lincoln",
-     "value": "10"
-    },
-    {
-     "text": "Andrew Jackson",
-     "value": "11"
-    },
-    {
-     "text": "James Madison",
-     "value": "12"
-    },
-    {
-     "text": "George Washington",
-     "value": "13"
     }
    ],
    "category": "Historical Figures",
    "id": "79129",
    "isValid": "",
-   "prompt": "Who was more recently President of the United States?",
+   "prompt": "Wer ist der aktuellere Bundeskanzler Deutschlands?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -2233,11 +2217,11 @@
    "category": "Games",
    "id": "83483",
    "isValid": "",
-   "prompt": "Which video game console was released earlier?",
+   "prompt": "Welche Videospielkonsole wurde früher veröffentlicht?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -2568,62 +2552,62 @@
   {
    "answers": [
     {
-     "text": "myriagon",
+     "text": "Myriagon",
      "value": "10000"
     },
     {
-     "text": "hectagon",
+     "text": "Hektagon",
      "value": "100"
     },
     {
-     "text": "pentadecagon",
+     "text": "Pentadekagon",
      "value": "15"
     },
     {
-     "text": "dodecagon",
+     "text": "Dodecagon",
      "value": "12"
     },
     {
-     "text": "decagon",
+     "text": "Decagon",
      "value": "10"
     },
     {
-     "text": "nonagon",
+     "text": "Nonagon",
      "value": "9"
     },
     {
-     "text": "octagon",
+     "text": "Oktagon",
      "value": "8"
     },
     {
-     "text": "heptagon",
+     "text": "Heptagon",
      "value": "7"
     },
     {
-     "text": "hexagon",
+     "text": "Hexagon",
      "value": "6"
     },
     {
-     "text": "pentagon",
+     "text": "Pentagon",
      "value": "5"
     },
     {
-     "text": "square",
+     "text": "Quadrat",
      "value": "4"
     },
     {
-     "text": "triangle",
+     "text": "Dreieck",
      "value": "3"
     }
    ],
    "category": "Math",
    "id": "83877",
    "isValid": "",
-   "prompt": "Which shape has more sides?",
+   "prompt": "Welche Form hat mehr Seiten?",
    "sort": "descending",
    "subtype": "most/least",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3107,11 +3091,11 @@
    "category": "Language/Words/Grammar",
    "id": "84270",
    "isValid": "",
-   "prompt": "Which letter is closest to M in the English alphabet?",
+   "prompt": "Welcher Buchstabe ist am nächsten am M im deutschen Alphabet?",
    "sort": "ascending",
    "subtype": "closest",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3182,70 +3166,70 @@
   {
    "answers": [
     {
-     "text": "ultraexclusively",
+     "text": "Schadenserhebung",
      "value": "16"
     },
     {
-     "text": "narcissistically",
+     "text": "Kaufentscheidung",
      "value": "16"
     },
     {
-     "text": "objectivization",
+     "text": "Himbeertörtchen",
      "value": "15"
     },
     {
-     "text": "bacteriologists",
+     "text": "Entschlüsselung",
      "value": "15"
     },
     {
-     "text": "ridiculousness",
+     "text": "Fernsehsendung",
      "value": "14"
     },
     {
-     "text": "jellifications",
+     "text": "Zuversichtlich",
      "value": "14"
     },
     {
-     "text": "jabberwockies",
+     "text": "Markteintritt",
      "value": "13"
     },
     {
-     "text": "squeezability",
+     "text": "erfolgssicher",
      "value": "13"
     },
     {
-     "text": "subjectivism",
+     "text": "Verbesserung",
      "value": "12"
     },
     {
-     "text": "nailclippers",
+     "text": "Kabeltrommel",
      "value": "12"
     },
     {
-     "text": "razzamatazz",
+     "text": "Anwesenheit",
      "value": "11"
     },
     {
-     "text": "mozzarellas",
+     "text": "unglaublich",
      "value": "11"
     },
     {
-     "text": "vaccinated",
+     "text": "Regensturm",
      "value": "10"
     },
     {
-     "text": "sabbatical",
+     "text": "verstecken",
      "value": "10"
     }
    ],
    "category": "Language/Words/Grammar",
    "id": "84337",
    "isValid": "",
-   "prompt": "Which word has more letters?",
+   "prompt": "Welches Wort hat mehr Buchstaben?",
    "sort": "descending",
    "subtype": "most/least",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3275,7 +3259,7 @@
      "value": "7"
     },
     {
-     "text": "7 -1",
+     "text": "7 - 1",
      "value": "6"
     },
     {
@@ -3295,18 +3279,18 @@
      "value": "2"
     },
     {
-     "text": "521-520",
+     "text": "521 - 520",
      "value": "1"
     }
    ],
    "category": "Math",
    "id": "84388",
    "isValid": "",
-   "prompt": "Which math problem has the bigger answer?",
+   "prompt": "Welche mathematische Aufgabe hat ein größeres Ergebnis?",
    "sort": "descending",
    "subtype": "most/least",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3507,10 +3491,6 @@
   {
    "answers": [
     {
-     "text": "LiveJournal",
-     "value": "1999"
-    },
-    {
      "text": "Wikipedia",
      "value": "2001"
     },
@@ -3521,6 +3501,10 @@
     {
      "text": "LinkedIn",
      "value": "2003"
+    },
+    {
+     "text": "studiVZ",
+     "value": "2005"
     },
     {
      "text": "YouTube",
@@ -3558,11 +3542,11 @@
    "category": "Internet",
    "id": "84434",
    "isValid": "",
-   "prompt": "Which social media site was launched first?",
+   "prompt": "Welche Social-Media-Plattform ist zuerst an den Start gegangen?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3999,28 +3983,20 @@
   {
    "answers": [
     {
-     "text": "Jim Beam",
-     "value": "1795"
+     "text": "Sparkasse",
+     "value": "1778"
     },
     {
-     "text": "DuPont",
-     "value": "1802"
-    },
-    {
-     "text": "Colgate",
-     "value": "1806"
-    },
-    {
-     "text": "Remington",
-     "value": "1816"
-    },
-    {
-     "text": "Pabst Blue Ribbon",
-     "value": "1844"
+     "text": "Rewe",
+     "value": "1927"
     },
     {
      "text": "20th Century Fox",
      "value": "1935"
+    },
+    {
+     "text": "Volkswagen",
+     "value": "1937"
     },
     {
      "text": "Sony",
@@ -4031,8 +4007,8 @@
      "value": "1955"
     },
     {
-     "text": "Wal-Mart",
-     "value": "1962"
+     "text": "DHL",
+     "value": "1969"
     },
     {
      "text": "Starbucks",
@@ -4047,6 +4023,10 @@
      "value": "1994"
     },
     {
+     "text": "Deutsche Telekom",
+     "value": "1995"
+    },
+    {
      "text": "Google",
      "value": "1998"
     }
@@ -4054,72 +4034,72 @@
    "category": "Companies & Brands",
    "id": "85051",
    "isValid": "",
-   "prompt": "Which of these companies was founded earlier?",
+   "prompt": "Welches dieser Unternehmen wurde früher gegründet?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Dr. Jill Biden",
+     "text": "Frank Walter Steinmeier",
      "value": "1"
     },
     {
-     "text": "Michelle Obama",
+     "text": "Joachim Gauck",
      "value": "2"
     },
     {
-     "text": "Barbara Bush",
+     "text": "Christian Wulff",
      "value": "3"
     },
     {
-     "text": "Betty Ford",
+     "text": "Horst Köhler",
      "value": "4"
     },
     {
-     "text": "Jackie Kennedy",
+     "text": "Johannes Rau",
      "value": "5"
     },
     {
-     "text": "Eleanor Roosevelt",
+     "text": "Roman Herzog",
      "value": "6"
     },
     {
-     "text": "Edith Wilson",
+     "text": "Richard von Weizsäcker",
      "value": "7"
     },
     {
-     "text": "Edith Roosevelt",
+     "text": "Karl Carstens",
      "value": "8"
     },
     {
-     "text": "Mary Todd Lincoln",
+     "text": "Walter Scheel",
      "value": "9"
     },
     {
-     "text": "Sarah Polk",
+     "text": "Gustav Heinemann",
      "value": "10"
     },
     {
-     "text": "Dolley Madison",
+     "text": "Heinrich Lübke",
      "value": "11"
     },
     {
-     "text": "Martha Washington",
+     "text": "Theodor Heuss",
      "value": "12"
     }
    ],
    "category": "Historical Figures",
    "id": "85202",
    "isValid": "",
-   "prompt": "Who is the more recent First Lady of the United States?",
+   "prompt": "Wer ist der aktuellere Bundespräsident Deutschlands?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4133,7 +4113,7 @@
      "value": "2"
     },
     {
-     "text": "Four of a Kind",
+     "text": "Vierling",
      "value": "3"
     },
     {
@@ -4145,19 +4125,19 @@
      "value": "5"
     },
     {
-     "text": "Straight",
+     "text": "Straße",
      "value": "6"
     },
     {
-     "text": "Three of a Kind",
+     "text": "Drilling",
      "value": "7"
     },
     {
-     "text": "Two Pair",
+     "text": "Zwei Paare",
      "value": "8"
     },
     {
-     "text": "Pair",
+     "text": "Paar",
      "value": "9"
     },
     {
@@ -4180,68 +4160,68 @@
    "category": "Games",
    "id": "85203",
    "isValid": "",
-   "prompt": "Which poker hand is ranked higher?",
+   "prompt": "Welche Pokerhand hat den höheren Wert?",
    "sort": "ascending",
    "subtype": "most/least",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Copernicus suggests Earth moves around the sun",
+     "text": "Copernicus behauptet, dass sich die Erde um die Sonne bewegt",
      "value": "1543"
     },
     {
-     "text": "Galileo discovers Jupiter's moons",
+     "text": "Galileo entdeckt Jupiters Monde",
      "value": "1610"
     },
     {
-     "text": "Uranus discovered",
+     "text": "Uranus wurde entdeckt",
      "value": "1781"
     },
     {
-     "text": "Pluto discovered",
+     "text": "Pluto wurde entdeckt",
      "value": "1930"
     },
     {
-     "text": "Sputnik launched",
+     "text": "Sputnik gestartet",
      "value": "1957"
     },
     {
-     "text": "John Glenn orbits Earth",
+     "text": "John Glenn umkreist die Erde",
      "value": "1962"
     },
     {
-     "text": "first crewed Moon landing",
+     "text": "erste bemannte Mondlandung",
      "value": "1969"
     },
     {
-     "text": "Voyager I spacecraft launched",
+     "text": "Raumsonde Voyager I gestartet",
      "value": "1977"
     },
     {
-     "text": "Hubble Space Telescope launched into orbit",
+     "text": "Hubble-Weltraumteleskop in die Umlaufbahn gebracht",
      "value": "1990"
     },
     {
-     "text": "First crew resides on International Space Station",
+     "text": "Die erste Besatzung befindet sich auf der ISS",
      "value": "2000"
     },
     {
-     "text": "Curiosity Rover lands on Mars",
+     "text": "Curiosity Rover landet auf dem Mars",
      "value": "2012"
     }
    ],
    "category": "History",
    "id": "85204",
    "isValid": "",
-   "prompt": "Which achievement in the history of space exploration happened first?",
+   "prompt": "Welche Errungenschaft in der Geschichte der Weltraumforschung geschah zuerst?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4263,8 +4243,8 @@
      "value": "1770"
     },
     {
-     "text": "Chopin",
-     "value": "1810"
+     "text": "Franz Schubert",
+     "value": "1819"
     },
     {
      "text": "Tchaikovsky",
@@ -4310,7 +4290,7 @@
    "category": "Historical Figures",
    "id": "85449",
    "isValid": "",
-   "prompt": "Which famous composer was born first?",
+   "prompt": "Welcher berühmte Komponist wurde zuerst geboren?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
@@ -4432,11 +4412,11 @@
    "category": "Games",
    "id": "85451",
    "isValid": "",
-   "prompt": "Which [i]Final Fantasy[/i] game was released first?",
+   "prompt": "Welches [i]Final Fantasy[/i] Spiel ist zuerst erschienen?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5096,86 +5076,90 @@
   {
    "answers": [
     {
-     "text": "tomatoes",
+     "text": "Tomaten",
      "value": "181"
     },
     {
-     "text": "onions, dry",
+     "text": "Zwiebeln, trocken",
      "value": "100"
     },
     {
-     "text": "cucumbers/gherkins",
+     "text": "Gurken",
      "value": "88"
     },
     {
-     "text": "cabbages",
+     "text": "Kohl",
      "value": "70"
     },
     {
-     "text": "eggplants",
+     "text": "Auberginen",
      "value": "55"
     },
     {
-     "text": "carrots and turnips",
+     "text": "Karotten und Rüben",
      "value": "45"
     },
     {
-     "text": "chillies/peppers",
+     "text": "Chilis/Paprika",
      "value": "38"
     },
     {
-     "text": "garlic",
+     "text": "Knoblauch",
      "value": "30"
     },
     {
-     "text": "spinach",
+     "text": "Spinat",
      "value": "30"
     },
     {
-     "text": "lettuce",
+     "text": "Salat",
      "value": "29"
     },
     {
-     "text": "green beans",
+     "text": "grüne Bohnen",
      "value": "27"
     },
     {
-     "text": "cauliflowers/broccoli",
+     "text": "Blumenkohl/Brokkoli",
      "value": "27"
     },
     {
-     "text": "pumpkins/squash/gourds",
+     "text": "Kürbisse",
      "value": "23"
     },
     {
-     "text": "green peas",
+     "text": "grüne Erbsen",
      "value": "22"
     },
     {
-     "text": "mushrooms/truffles",
+     "text": "Pilze/Trüffel",
      "value": "12"
     },
     {
-     "text": "okra",
+     "text": "Okra",
      "value": "10"
     },
     {
-     "text": "artichokes",
+     "text": "Artischocken",
      "value": "2"
     }
    ],
    "category": "Food & Drink",
    "id": "85769",
    "isValid": "",
-   "prompt": "Based on 2019 data, which vegetable is more mass-produced globally?",
+   "prompt": "Basierend auf Daten von 2019, welches Gemüse wird weltweit am meisten in Massenproduktion produziert?",
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(in millions of metric tons)",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "answers": [
+    {
+     "text": "YouTube Music",
+     "value": "2015"
+    },
     {
      "text": "Spotify",
      "value": "2008"
@@ -5185,11 +5169,7 @@
      "value": "2001"
     },
     {
-     "text": "satellite radio (Sirius/XM)",
-     "value": "2001"
-    },
-    {
-     "text": "Pandora",
+     "text": "Pandora (Internetradio)",
      "value": "2000"
     },
     {
@@ -5197,115 +5177,103 @@
      "value": "1999"
     },
     {
-     "text": "first mp3 player",
+     "text": "der erste mp3-Player",
      "value": "1997"
     },
     {
-     "text": "compact disc (CD) player",
+     "text": "CD-Spieler",
      "value": "1979"
     },
     {
-     "text": "8 track tape",
+     "text": "8-Spur-Kassette",
      "value": "1964"
     },
     {
-     "text": "cassette player",
+     "text": "Kassettenspieler",
      "value": "1963"
     },
     {
-     "text": "reel-to-reel audio recorder",
+     "text": "Audiorekorder",
      "value": "1928"
     },
     {
-     "text": "radio",
+     "text": "Radio",
      "value": "1895"
     },
     {
-     "text": "phonograph/record player",
+     "text": "Phonograph/Plattenspieler",
      "value": "1877"
     },
     {
-     "text": "live music",
+     "text": "Live Musik",
      "value": "1"
     }
    ],
    "category": "Technology",
    "id": "85843",
    "isValid": "",
-   "prompt": "Which of these methods of listening to music came about most recently?",
+   "prompt": "Welche dieser Methoden des Musikhörens kam zuletzt raus?",
    "sort": "descending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "healthcare/social assistance",
-     "value": "20413"
+     "text": "Dienstleistungsbereiche",
+     "value": "33671"
     },
     {
-     "text": "state/local government",
-     "value": "19759"
+     "text": "Öffentliche und sonstige private Dienstleister",
+     "value": "14680"
     },
     {
-     "text": "leisure/hospitality",
-     "value": "16576"
+     "text": "Handel, Verkehr und Gastgewerbe",
+     "value": "9875"
     },
     {
-     "text": "retail",
-     "value": "15644"
+     "text": "Produzierendes Gewerbe (kein Baugewerbe)",
+     "value": "8080"
     },
     {
-     "text": "manufacturing",
-     "value": "12839"
+     "text": "Verarbeitendes Gewerbe",
+     "value": "7471"
     },
     {
-     "text": "financial activities",
-     "value": "8746"
+     "text": "Unternehmensdienstleister",
+     "value": "6128"
     },
     {
-     "text": "construction",
-     "value": "7492"
+     "text": "Baugewerbe",
+     "value": "2607"
     },
     {
-     "text": "transportation/warehousing",
-     "value": "5618"
+     "text": "Information und Kommunikation",
+     "value": "1430"
     },
     {
-     "text": "educational services",
-     "value": "3765"
+     "text": "Finanz- und Versicherungsdienstleister",
+     "value": "1080"
     },
     {
-     "text": "information",
-     "value": "2859"
+     "text": "Land- und Forstwirtschaft und Fischerei",
+     "value": "562"
     },
     {
-     "text": "federal government",
-     "value": "2834"
-    },
-    {
-     "text": "agriculture/forestry/fishing/hunting",
-     "value": "2303"
-    },
-    {
-     "text": "utilities",
-     "value": "549"
-    },
-    {
-     "text": "mining",
-     "value": "685"
+     "text": "Grundstücks- und Wohnungswesen",
+     "value": "478"
     }
    ],
    "category": "Occupations",
    "id": "85847",
    "isValid": "",
-   "prompt": "As of 2020, which of these industries employed more people in the United States?",
+   "prompt": "Stand 2021, welcher Wirtschaftsbereich hat in Deutschland mehr Erwerbstätige beschäftigt?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in thousands of jobs)",
-   "us": true,
+   "unit": "(in Tausend Jobs)",
+   "us": false,
    "x": false
   },
   {
@@ -5457,7 +5425,7 @@
      "value": "3"
     },
     {
-     "text": "[i]The Incredible Hulk[/i]",
+     "text": "[i]Der unglaubliche Hulk[/i]",
      "value": "4"
     },
     {
@@ -5473,7 +5441,7 @@
      "value": "7"
     },
     {
-     "text": "[i]Captain America: The Winter Soldier[/i]",
+     "text": "[i]The Return of the First Avenger[/i]",
      "value": "8"
     },
     {
@@ -5481,7 +5449,7 @@
      "value": "9"
     },
     {
-     "text": "[i]Captain America: Civil War[/i]",
+     "text": "[i]The First Avenger: Civil War[/i]",
      "value": "10"
     },
     {
@@ -5493,7 +5461,7 @@
      "value": "11"
     },
     {
-     "text": "[i]Thor: Ragnarok[/i]",
+     "text": "[i]Thor: Tag der Entscheidung[/i]",
      "value": "11"
     },
     {
@@ -5508,11 +5476,11 @@
    "category": "Film & TV",
    "id": "85877",
    "isValid": "",
-   "prompt": "Chronologically, which storyline in the Marvel Cinematic Universe takes place earlier?",
+   "prompt": "Welcher Handlungsstrang im Marvel Film-Universum findet chronologisch früher statt?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5579,63 +5547,63 @@
   {
    "answers": [
     {
-     "text": "“Oh, killing me softly and I’m still falling”",
+     "text": "“Ich muss mal weg, kenn jede Taube hier beim Namen”",
      "value": "1"
     },
     {
-     "text": "“Oh, you got me all gone, don’t ever let me go”",
+     "text": "“Die Sonne blendet, alles fliegt vorbei”",
      "value": "2"
     },
     {
-     "text": "“My baby is a ten”",
+     "text": "“Ich weiß, sie wartet und ich hol sie ab”",
      "value": "3"
     },
     {
-     "text": "“We dressing to the nine”",
+     "text": "“Ein Frauenchor am Straßenrand, der für mich singt”",
      "value": "4"
     },
     {
-     "text": "“He pick me up, we eight”",
+     "text": "“Ich lehne mich zurück und guck ins tiefe Blau”",
      "value": "5"
     },
     {
-     "text": "“Make me feel so lucky, seven”",
+     "text": "“Schließ' die Augen und lauf einfach geradeaus”",
      "value": "6"
     },
     {
-     "text": "“He kiss me in his six”",
+     "text": "“Alles gewinnen beim Spiel mit gezinkten Karten”",
      "value": "7"
     },
     {
-     "text": "“We be making love in five”",
+     "text": "“Ich grabe Schätze aus im Schnee und Sand”",
      "value": "8"
     },
     {
-     "text": "“Still the one I do this four”",
+     "text": "“Ich lad' die alten Vögel und Verwandten ein”",
      "value": "9"
     },
     {
-     "text": "“I’m trying to make us three”",
+     "text": "“Und feiern eine Woche jede Nacht”",
      "value": "10"
     },
     {
-     "text": "“From that two”",
+     "text": "“Hier bin ich gebor'n, hier werd ich begraben”",
      "value": "11"
     },
     {
-     "text": "“He still the one”",
+     "text": "“Meine 100 Enkel spielen Cricket auf'm Rasen”",
      "value": "12"
     }
    ],
    "category": "Music",
    "id": "85882",
    "isValid": "",
-   "prompt": "In the song “Countdown,” which lyric does Beyoncé sing earlier in the chorus?",
+   "prompt": "In dem Lied “Haus am See”, welcher Textteil ist zuerst im Lied zu hören?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
-   "x": true
+   "us": false,
+   "x": false
   },
   {
    "answers": [
@@ -5778,11 +5746,11 @@
   {
    "answers": [
     {
-     "text": "Coca-Cola (original)",
+     "text": "Coca-Cola (Original)",
      "value": "1886"
     },
     {
-     "text": "Diet Coke",
+     "text": "Coca-Cola Light",
      "value": "1982"
     },
     {
@@ -5794,7 +5762,7 @@
      "value": "1985"
     },
     {
-     "text": "Diet Cherry Coke",
+     "text": "Cherry Coke Light",
      "value": "1985"
     },
     {
@@ -5802,7 +5770,7 @@
      "value": "2002"
     },
     {
-     "text": "Coke with Lime",
+     "text": "Coke Lime",
      "value": "2005"
     },
     {
@@ -5818,7 +5786,7 @@
      "value": "2016"
     },
     {
-     "text": "Zesty Blood Orange Diet Coke ",
+     "text": "Zesty Blood Orange Coke Light",
      "value": "2018"
     },
     {
@@ -5837,7 +5805,7 @@
    "category": "Companies & Brands",
    "id": "86029",
    "isValid": "",
-   "prompt": "Which flavor or variant of Coca-Cola was released first?",
+   "prompt": "Welcher Geschmack oder welche Variante von Coca-Cola wurde zuerst auf den Markt gebracht?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
@@ -5847,70 +5815,70 @@
   {
    "answers": [
     {
-     "text": "oxygen",
+     "text": "Sauerstoff",
      "value": "1"
     },
     {
-     "text": "carbon",
+     "text": "Kohlenstoff",
      "value": "2"
     },
     {
-     "text": "hydrogen",
+     "text": "Wasserstoff",
      "value": "3"
     },
     {
-     "text": "nitrogen",
+     "text": "Stickstoff",
      "value": "4"
     },
     {
-     "text": "calcium",
+     "text": "Kalzium",
      "value": "5"
     },
     {
-     "text": "phosphorus",
+     "text": "Phosphor",
      "value": "6"
     },
     {
-     "text": "potassium",
+     "text": "Kalium",
      "value": "7"
     },
     {
-     "text": "sulfur",
+     "text": "Schwefel",
      "value": "7"
     },
     {
-     "text": "sodium",
+     "text": "Natrium",
      "value": "9"
     },
     {
-     "text": "chlorine",
+     "text": "Chlor",
      "value": "9"
     },
     {
-     "text": "magnesium",
+     "text": "Magnesium",
      "value": "11"
     },
     {
-     "text": "iron",
+     "text": "Eisen",
      "value": "12"
     },
     {
-     "text": "zinc",
+     "text": "Zink",
      "value": "13"
     },
     {
-     "text": "copper",
+     "text": "Kupfer",
      "value": "14"
     }
    ],
    "category": "Science & Medicine",
    "id": "86032",
    "isValid": "",
-   "prompt": "Which element makes up a larger percentage of the human body?",
+   "prompt": "Welches Element macht einen größeren Prozentsatz des menschlichen Körpers aus?",
    "sort": "ascending",
    "subtype": "most/least",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
