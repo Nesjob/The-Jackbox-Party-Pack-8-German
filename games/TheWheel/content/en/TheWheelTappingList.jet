@@ -4242,52 +4242,73 @@
   {
    "answers": [
     {
-     "text": "checks"
+     "text": "Die Heimkehr"
     },
     {
-     "text": "duplex"
+     "text": "Sterbehilfe"
     },
     {
-     "text": "light blue convertible"
+     "text": "Der Kunstfehler"
     },
     {
-     "text": "Tiffany's decorations"
+     "text": "Gewalt im Spiel"
     },
     {
-     "text": "deed to a platinum mine"
+     "text": "Steinschlag"
     },
     {
-     "text": "yacht"
+     "text": "Rivalen"
     },
     {
-     "text": "sable"
+     "text": "Arzt unter Verdacht"
+    },
+    {
+     "text": "Gefahr für Udo"
+    },
+    {
+     "text": "Ein kleiner Teufel"
+    },
+    {
+     "text": "Ein Kind, ein Kind, ein Kind"
+    },
+    {
+     "text": "Der Anfang vom Ende"
+    },
+    {
+     "text": "Der Tod der alten Dame"
     }
    ],
-   "category": "Music",
+   "category": "Film & TV",
    "decoys": [
     {
-     "text": "mansion"
+     "text": "Kleines Kind, großes Aua"
     },
     {
-     "text": "Chanel bag"
+     "text": "Selbstloser Engel"
     },
     {
-     "text": "cold hard cash"
+     "text": "Rettung in letzter Sekunde"
     },
     {
-     "text": "French Bulldog puppy"
+     "text": "Herzschmerz"
     },
     {
-     "text": "Jet Ski"
+     "text": "Angst um Dr. Brinkmann"
     },
     {
-     "text": "silk robe"
+     "text": "Ein schrecklicher Verdacht"
+    },
+    {
+     "text": "Rosenkrieg"
+    },
+    {
+     "text": "Schmeichelei um Drei"
     }
    ],
    "id": "77684",
    "isValid": "",
-   "prompt": "Which things does Eartha Kitt want in the song “Santa Baby”?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um echte Folgentitel von “[i]Die Schwarzwaldklinik[/i]”?",
+   "us": false,
    "x": false
   },
   {
@@ -4392,49 +4413,70 @@
   {
    "answers": [
     {
-     "text": "hop up out the bed"
+     "text": "Berlin"
     },
     {
-     "text": "turn his swag on"
+     "text": "Bremen"
     },
     {
-     "text": "take a look in the mirror"
+     "text": "Darmstadt"
     },
     {
-     "text": "say “what's up”"
+     "text": "Dresden"
     },
     {
-     "text": "get money"
+     "text": "Fulda"
     },
     {
-     "text": "turn it up"
+     "text": "Hamburg"
+    },
+    {
+     "text": "Heidelberg"
+    },
+    {
+     "text": "Paderborn"
+    },
+    {
+     "text": "Stuttgart"
+    },
+    {
+     "text": "Ulm"
+    },
+    {
+     "text": "Jena"
     }
    ],
-   "category": "Music",
+   "category": "Geography & Landmarks",
    "decoys": [
     {
-     "text": "do not get any money"
+     "text": "Chemnitz"
     },
     {
-     "text": "stretch"
+     "text": "Bonn"
     },
     {
-     "text": "apply toner"
+     "text": "Kaiserslautern"
     },
     {
-     "text": "log dream in dream journal"
+     "text": "Regensburg"
     },
     {
-     "text": "make bed"
+     "text": "Magdeburg"
     },
     {
-     "text": "meditate"
+     "text": "Wolfsburg"
+    },
+    {
+     "text": "Wuppertal"
+    },
+    {
+     "text": "Cottbus"
     }
    ],
    "id": "77713",
    "isValid": "",
-   "prompt": "Which of these are part of Soulja Boy's morning routine in the song “Turn My Swag On”?",
-   "us": true,
+   "prompt": "Welche dieser deutschen Städte existieren unter gleichem Namen auch in den USA?",
+   "us": false,
    "x": false
   },
   {
@@ -5187,55 +5229,55 @@
   {
    "answers": [
     {
-     "text": "China"
+     "text": "Cote d'Azur, Frankreich"
     },
     {
-     "text": "Thailand"
+     "text": "Kapstadt, Südafrika"
     },
     {
-     "text": "Palau"
+     "text": "Los Angeles, USA"
     },
     {
-     "text": "Brazil"
+     "text": "Miami, USA"
     },
     {
-     "text": "Panama"
-    },
-    {
-     "text": "Australia"
-    },
-    {
-     "text": "Nicaragua"
-    },
-    {
-     "text": "Fiji"
+     "text": "Los Cabos, Mexiko"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "Bikini Atoll"
+     "text": "Groote Eylandt, Australien"
     },
     {
-     "text": "Russia"
+     "text": "Sankt Petersburg, Russland"
     },
     {
-     "text": "Vatican City"
+     "text": "Vatikanstadt"
     },
     {
-     "text": "Galápagos Islands"
+     "text": "Dubai"
     },
     {
-     "text": "India"
+     "text": "Kuhului, Hawaii"
     },
     {
-     "text": "Old Country Buffet"
-    }
+     "text": "Galapagosinseln"
+    },
+    { 
+     "text": "Punta de Perlas, Nicaragua"
+    },
+    {
+     "text": "Monaco"
+    },
+     {
+     "text": "Sylt, Deutschland"
+     }
    ],
    "id": "77955",
    "isValid": "",
-   "prompt": "In which locations has [i]Survivor[/i] been filmed?",
-   "us": true,
+   "prompt": "An welchen dieser Orte haben Stand 2021 schon Frauenherzen höhergeschlagen in “[i]Der Bachelor[/i]”?",
+   "us": false,
    "x": false
   },
   {
