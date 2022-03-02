@@ -3,109 +3,127 @@
   {
    "answers": [
     {
-     "text": "bacon"
+     "text": "Kopfsalat"
     },
     {
-     "text": "avocado"
+     "text": "Radicchio"
     },
     {
-     "text": "chicken"
+     "text": "Brennnesseln"
     },
     {
-     "text": "tomato"
+     "text": "Rucola"
     },
     {
-     "text": "egg"
+     "text": "Chinakohl"
     },
     {
-     "text": "chives"
+     "text": "Mangold"
     },
     {
-     "text": "watercress"
+     "text": "Bataviasalat"
     },
     {
-     "text": "romaine lettuce"
+     "text": "Gartenkresse"
     },
     {
-     "text": "Roquefort cheese"
+     "text": "Romanasalat"
     }
    ],
    "category": "Food & Drink",
    "decoys": [
     {
-     "text": "steak"
+     "text": "Furienblatt"
     },
     {
-     "text": "carrot"
+     "text": "Spierstrauch"
     },
     {
-     "text": "wonton strips"
+     "text": "Geißblatt"
+    },
+    {
+     "text": "Germanasalat"
+    },
+    {
+     "text": "Helmutskohl"
+    },
+    {
+     "text": "Kashkkirkohl"
+    },
+    {
+     "text": "Kaunassalat"
     }
    ],
    "id": "76698",
    "isValid": "",
-   "prompt": "Which ingredients are in a traditional Cobb salad?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um Salatpflanzen?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "house"
+     "text": "Harz"
     },
     {
-     "text": "face"
+     "text": "Erzgebirge"
     },
     {
-     "text": "kegel"
+     "text": "Fichtelgebirge"
     },
     {
-     "text": "disguise"
+     "text": "Bayerischer Wald"
     },
     {
-     "text": "cook"
+     "text": "Schwäbische Alb"
     },
     {
-     "text": "clean"
-    },
-    {
-     "text": "garage"
-    },
-    {
-     "text": "name"
-    },
-    {
-     "text": "dangly"
-    },
-    {
-     "text": "cobra"
-    },
-    {
-     "text": "demeanor"
+     "text": "Schwarzwald"
     }
    ],
-   "category": "Music",
+   "category": "Geography & Landmarks",
    "decoys": [
     {
-     "text": "cigar"
+     "text": "Rothaargebirge"
     },
     {
-     "text": "tuba"
+     "text": "Westerwald"
     },
     {
-     "text": "moustache"
+     "text": "Eifel"
     },
     {
-     "text": "penultimate"
+     "text": "Hunsrück"
     },
     {
-     "text": "ubiquitous"
+     "text": "Taunus"
+    },
+    {
+     "text": "Vogelsberg"
+    },
+    {
+     "text": "Thüringer Wald"
+    },
+    {
+     "text": "Rhön"
+    },
+    {
+     "text": "Spessart"
+    },
+    {
+     "text": "Fränkische Alb"
+    },
+    {
+     "text": "Oberpfälzer Wald"
+    },
+    {
+     "text": "Odenwald"
     }
    ],
    "id": "76730",
    "isValid": "",
-   "prompt": "Which words are in the song “WAP”? (G-Rated)",
-   "us": true,
+   "prompt": "Welche dieser Mittelgebirge sind in ihrer höchsten Erhebung über 1 Kilometer hoch?",
+   "us": false,
    "x": false
   },
   {
@@ -2529,58 +2547,64 @@
   {
    "answers": [
     {
-     "text": "toxic"
+     "text": "Actimel"
     },
     {
-     "text": "poison"
+     "text": "Milch-Schnitte"
     },
     {
-     "text": "air"
+     "text": "Capri-Sonne"
     },
     {
-     "text": "high"
+     "text": "Glacéau Smartwater"
     },
     {
-     "text": "with"
+     "text": "Grünländer-Käse"
     },
     {
-     "text": "dangerous"
+     "text": "Alete Kinderkeks"
     },
     {
-     "text": "hit"
+     "text": "HiPP Instant-Früchtetee"
     },
     {
-     "text": "me"
+     "text": "Zott Monte Drink"
     },
     {
-     "text": "baby"
-    },
-    {
-     "text": "too"
+     "text": "Zwergenwiese Bio Kinder-Tomatensauce"
     }
    ],
-   "category": "Music",
+   "category": "Food & Drink",
    "decoys": [
     {
-     "text": "toxique"
+     "text": "Pom-Bär"
     },
     {
-     "text": "one"
+     "text": "Yakult Original"
     },
     {
-     "text": "time"
+     "text": "Frucht-Tiger"
     },
     {
-     "text": "boy"
+     "text": "Kinder Pinguí"
     },
     {
-     "text": "oops"
+     "text": "Haribo Berries"
+    },
+    {
+     "text": "Monster-Backe Knister"
+    },
+    {
+     "text": "Ritter Sport Edel-Vollmilch"
+    },
+    {
+     "text": "Philadelphia Basilikum & Zitrone"
     }
    ],
    "id": "76931",
    "isValid": "",
-   "prompt": "Which words are in the song “Toxic” by Britney Spears?",
-   "us": true,
+   "prompt": "Welche dieser Produkte erhielten Stand 2021 den Negativpreis “[i]Goldener Windbeutel[/i]” für dreiste Werbelügen?",
+   "us": false,
    "x": false
   },
   {
@@ -10902,49 +10926,61 @@
   {
    "answers": [
     {
-     "text": "Aruba"
+     "text": "Rotfuchs"
     },
     {
-     "text": "Bermuda"
+     "text": "Polarfuchs"
     },
     {
-     "text": "Key Largo"
+     "text": "Bengalfuchs"
     },
     {
-     "text": "Jamaica"
+     "text": "Tibetfuchs"
     },
     {
-     "text": "The Bahamas"
+     "text": "Fennek"
     },
     {
-     "text": "Port-au-Prince"
+     "text": "Löffelhund"
+    },
+    {
+     "text": "Graufuchs"
+    },
+    {
+     "text": "Kitfuchs"
     }
    ],
    "category": "Music",
    "decoys": [
     {
-     "text": "Hoboken"
+     "text": "Kleptifux"
     },
     {
-     "text": "Jakarta"
+     "text": "Rudelfuchs"
     },
     {
-     "text": "Brian Wilson's Private Island"
+     "text": "Schakal"
     },
     {
-     "text": "Cuba"
+     "text": "Rutenfuchs"
     },
     {
-     "text": "Barbados"
+     "text": "Kojote"
     },
     {
-     "text": "Antigua"
+     "text": "Antiguafuchs"
+    },
+    {
+     "text": "Parforcefuchs"
+    },
+    {
+     "text": "Wolf"
     }
    ],
    "id": "79802",
    "isValid": "",
-   "prompt": "Where are the places the Beach Boys want to take ya in the song “Kokomo”?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um Fuchsarten?",
+   "us": false,
    "x": false
   },
   {
