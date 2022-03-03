@@ -1224,58 +1224,58 @@
   {
    "answers": [
     {
-     "text": "witness something majestic"
+     "text": "Brummbär"
     },
     {
-     "text": "help a stranger"
+     "text": "Happy"
     },
     {
-     "text": "laugh until I cry"
+     "text": "Hatschi"
     },
     {
-     "text": "drive a Shelby Mustang"
+     "text": "Schlafmütz"
     },
     {
-     "text": "kiss a beautiful girl"
+     "text": "Pimpel"
     },
     {
-     "text": "get a tattoo"
+     "text": "Seppl"
     },
     {
-     "text": "skydiving"
-    },
-    {
-     "text": "visit Stonehenge"
-    },
-    {
-     "text": "go on a safari"
-    },
-    {
-     "text": "visit the Taj Mahal"
+     "text": "Chef"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "finish a marathon"
+     "text": "Sunny"
     },
     {
-     "text": "catch a swordfish"
+     "text": "Hansi"
     },
     {
-     "text": "compete in a hot dog eating contest"
+     "text": "Nieserich"
     },
     {
-     "text": "make love in Paris"
+     "text": "Schlaubi"
     },
     {
-     "text": "do a spot-on Morgan Freeman impression"
+     "text": "Grummel"
+    },
+    {
+     "text": "Xilebo"
+    },
+    {
+     "text": "Nestor"
+    },
+    {
+     "text": "Berti"
     }
    ],
    "id": "76779",
    "isValid": "",
-   "prompt": "Which of these are actual bucket list items from [i]The Bucket List[/i]?",
-   "us": true,
+   "prompt": "Wie heißen die Zwerge aus “[i]Schneewittchen und die sieben Zwerge[/i]”?",
+   "us": false,
    "x": false
   },
   {
@@ -4983,49 +4983,73 @@
   {
    "answers": [
     {
-     "text": "Ferber method"
+     "text": "Kümmelfrüchte"
     },
     {
-     "text": "extinction"
+     "text": "Anisfrüchte"
     },
     {
-     "text": "chair method"
+     "text": "Korianderfrüchte"
     },
     {
-     "text": "pick up and pat"
+     "text": "Fenchelfrüchte"
     },
     {
-     "text": "fading method"
+     "text": "Kamillenblüten"
     },
     {
-     "text": "weighted sleep suit"
+     "text": "Kalmuswurzelstock"
+    },
+    {
+     "text": "Pfefferminzblätter"
+    },
+    {
+     "text": "Ingwerwurzelstock"
     }
    ],
    "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "tucker 'em out"
+     "text": "Arnikablüten"
     },
     {
-     "text": "antihistamine method"
+     "text": "Bärentraubenblätter"
     },
     {
-     "text": "tabling or table routine"
+     "text": "Weißdornblüten"
     },
     {
-     "text": "hush hush shush shush"
+     "text": "Zimtrinde"
     },
     {
-     "text": "Van Horn technique"
+     "text": "Baldrianwurzel"
     },
     {
-     "text": "mommy proxy"
+     "text": "Ringelblumen"
+    },
+    {
+     "text": "Salbeiblätter"
+    },
+    {
+     "text": "Himbeerblätter"
+    },
+    {
+     "text": "Johanniskraut"
+    },
+    {
+     "text": "Birkenblätter"
+    },
+    {
+     "text": "Lavendelblüten"
+    },
+    {
+     "text": "Meerretichwurzel"
     }
    ],
    "id": "77926",
    "isValid": "",
-   "prompt": "Which of these are recognized baby sleep training techniques?",
-   "us": true,
+   "prompt": "Welche dieser Heilpflanzen helfen bei Blähungen?",
+   "us": false,
    "x": false
   },
   {
@@ -5193,61 +5217,64 @@
   {
    "answers": [
     {
-     "text": "“I'm A Go-Go God”"
+     "text": "Mond"
     },
     {
-     "text": "“My Dad Is A Bro”"
+     "text": "Amalthea"
     },
     {
-     "text": "“I'm Addicted To Tanning”"
+     "text": "Phobos"
     },
     {
-     "text": "“I'm A Cyborg”"
+     "text": "Ariel"
     },
     {
-     "text": "“I'm A Textaholic”"
+     "text": "Kallisto"
     },
     {
-     "text": "“I'm In A Fight Church”"
+     "text": "Europa"
     },
     {
-     "text": "“I'm In A Forbidden Relationship”"
+     "text": "Proteus"
     },
     {
-     "text": "“I Want To Be An Obscure Pageant Queen”"
+     "text": "Ferdinand"
+    },
+    {
+     "text": "Deimos"
     }
    ],
-   "category": "Film & TV",
+   "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "“I'm An Architect And My Life Is Pretty Normal”"
+     "text": "Pril"
     },
     {
-     "text": "“I Am George Washington And I Time-Traveled Here... Help?”"
+     "text": "Washington"
     },
     {
-     "text": "“I'm Addicted To E-Banking”"
+     "text": "Ammit"
     },
     {
-     "text": "“My Brother Sells Exotic Fish”"
+     "text": "Schenut"
     },
     {
-     "text": "“I'm A Crocodile & I Want This Camera Crew Out Of My Swamp”"
+     "text": "Merisma"
     },
     {
-     "text": "“I Can’t Stop Eating Pancakes!”"
+     "text": "Chons"
     },
     {
-     "text": "“I’m Married To A Podiatrist”"
+     "text": "Pluto"
     },
     {
-     "text": "“I’ve Never Seen A Dog (On Purpose)”"
+     "text": "Australia"
     }
    ],
    "id": "77954",
    "isValid": "",
-   "prompt": "Which are actual episode titles from MTV’s [i]True Life[/i]?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um echte Monde unseres Sonnensystems?",
+   "us": false,
    "x": false
   },
   {
@@ -6378,52 +6405,70 @@
   {
    "answers": [
     {
-     "text": "raindrops on roses"
+     "text": "Finnland"
     },
     {
-     "text": "whiskers on kittens"
+     "text": "Norwegen"
     },
     {
-     "text": "wild geese that fly with the moon on their wings"
+     "text": "Österreich"
     },
     {
-     "text": "doorbells"
+     "text": "Schweiz"
     },
     {
-     "text": "brown paper packages tied up with strings"
+     "text": "Belgien"
     },
     {
-     "text": "girls in white dresses with blue satin sashes"
+     "text": "Deutschland"
     },
     {
-     "text": "snowflakes that stay on my nose and eyelashes"
+     "text": "Spanien"
+    },
+    {
+     "text": "Vereinigtes Königreich"
     }
    ],
    "category": "Music",
    "decoys": [
     {
-     "text": "red sauce with noodles"
+     "text": "Frankreich"
     },
     {
-     "text": "bright silver tea sets"
+     "text": "Andorra"
     },
     {
-     "text": "a chorus of altar boys ready to sing"
+     "text": "Dänemark"
     },
     {
-     "text": "cream on my strudel"
+     "text": "Polen"
     },
     {
-     "text": "leather bound mittens"
+     "text": "Kroatien"
     },
     {
-     "text": "nervous young bachelor with a diamond ring"
+     "text": "Griechenland"
+    },
+    {
+     "text": "Italien"
+    },
+    {
+     "text": "Australien"
+    },
+    {
+     "text": "Kanada"
+    },
+    {
+     "text": "Georgien"
+    },
+    {
+     "text": "Litauen"
     }
    ],
    "id": "78267",
    "isValid": "",
-   "prompt": "Which items are mentioned in the song “My Favorite Things”?",
-   "us": true,
+   "prompt": "Welche dieser Länder erreichten Stand 2021 5-mal oder häufiger den letzten Platz im Finale des [i]Eurovision Song Contest[/i]?",
+   "us": false,
    "x": false
   },
   {
