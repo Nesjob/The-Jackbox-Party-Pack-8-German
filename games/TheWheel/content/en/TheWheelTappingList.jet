@@ -1740,52 +1740,55 @@
   {
    "answers": [
     {
-     "text": "[i]Christmas Town[/i]"
+     "text": "[i]Independence Day[/i]"
     },
     {
-     "text": "[i]A Shoe Addict’s Christmas[/i]"
+     "text": "[i]Moon 44[/i]"
     },
     {
-     "text": "[i]Moonlight & Mistletoe[/i]"
+     "text": "[i]2012[/i]"
     },
     {
-     "text": "[i]A Christmas Detour[/i]"
+     "text": "[i]Godzilla[/i]"
     },
     {
-     "text": "[i]Switched for Christmas[/i]"
+     "text": "[i]Stargate[/i]"
     },
     {
-     "text": "[i]Journey Back to Christmas[/i]"
+     "text": "[i]10.000 B.C.[/i]"
     },
     {
-     "text": "[i]Christmas Under Wraps[/i]"
+     "text": "[i]Moonfall[/i]"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "[i]Christmas Is Missing[/i]"
+     "text": "[i]Children of Men[/i]"
     },
     {
-     "text": "[i]I Fell in Love With a Snowman[/i]"
+     "text": "[i]2012 Armageddon[/i]"
     },
     {
-     "text": "[i]A Caveman Christmas[/i]"
+     "text": "[i]Pacific Rim[/i]"
     },
     {
-     "text": "[i]The Mistletoe Murders[/i]"
+     "text": "[i]Der Tag, an dem die Erde stillstand[/i]"
     },
     {
-     "text": "[i]Carol’s Christmas Carol[/i]"
+     "text": "[i]Der Marsianer – Rettet Mark Watney[/i]"
     },
     {
-     "text": "[i]Yuletide at High Tide[/i]"
+     "text": "[i]Titanic 2 – Die Rückkehr[/i]"
+    },
+    {
+     "text": "[i]San Andreas[/i]"
     }
    ],
    "id": "76824",
    "isValid": "",
-   "prompt": "Which titles are real Hallmark Christmas movies starring Candace Cameron Bure?",
-   "us": true,
+   "prompt": "Welche dieser Filme stammen von Roland Emmerich?",
+   "us": false,
    "x": false
   },
   {
@@ -2664,55 +2667,70 @@
   {
    "answers": [
     {
-     "text": "Dr. Bold"
+     "text": "Cashewnuss"
     },
     {
-     "text": "Dr. Perky"
+     "text": "Kokosnuss"
     },
     {
-     "text": "Dr. Chek"
+     "text": "Mandel"
     },
     {
-     "text": "Dr. Up!"
+     "text": "Muskatnuss"
     },
     {
-     "text": "Dr. Publix"
+     "text": "Paranuss"
     },
     {
-     "text": "Mr. Ahhh"
+     "text": "Pekannuss"
     },
     {
-     "text": "Dr. WOW"
+     "text": "Pistazie"
     },
     {
-     "text": "Dr. Thunder"
+     "text": "Sheanuss"
     },
     {
-     "text": "Dr. Pop"
+     "text": "Pilinuss"
+    },
+    {
+     "text": "Erdmandel"
     }
    ],
    "category": "Food & Drink",
    "decoys": [
     {
-     "text": "Dr. Meh"
+     "text": "Bucheckern"
     },
     {
-     "text": "Dr. No Way"
+     "text": "Echte Walnuss"
     },
     {
-     "text": "Mr. Doctor"
+     "text": "Edelkastanie"
     },
     {
-     "text": "Dr. OK"
+     "text": "Eichel"
     },
     {
-     "text": "Dr. Of Anthropology"
+     "text": "Erdnuss"
+    },
+    {
+     "text": "Haselnuss"
+    },
+    {
+     "text": "Hanfnuss"
+    },
+    {
+     "text": "Macadamianuss"
+    },
+    {
+     "text": "Steinnuss"
     }
    ],
    "id": "76955",
    "isValid": "",
-   "prompt": "Which of these are actual generic Dr. Pepper knockoffs?",
-   "us": true,
+   "prompt": "Wobei handelt es sich im botanischen Sinn nicht um Nüsse?",
+   "us": false,
    "x": false
   },
   {
@@ -16659,55 +16677,70 @@
   {
    "answers": [
     {
-     "text": "pork pie"
+     "text": "Wrestler"
     },
     {
-     "text": "bowler"
+     "text": "Inferno"
     },
     {
-     "text": "newsboy"
+     "text": "Feuer"
     },
     {
-     "text": "fedora"
+     "text": "Frost"
     },
     {
-     "text": "panama"
+     "text": "Eis"
     },
     {
-     "text": "bucket"
+     "text": "Popstar"
     },
     {
-     "text": "snapback"
+     "text": "Tornado"
     },
     {
-     "text": "trilby"
+     "text": "Schlaf"
     },
     {
-     "text": "beanie"
+     "text": "Wurf"
     },
     {
-     "text": "cowboy"
-    },
-    {
-     "text": "beret"
+     "text": "Igel"
     }
    ],
-   "category": "Fashion",
+   "category": "Games",
    "decoys": [
     {
-     "text": "castelvetrano"
+     "text": "Krallen"
     },
     {
-     "text": "nicoise"
+     "text": "Spiegel"
     },
     {
-     "text": "cobb"
+     "text": "Sprinter"
+    },
+    {
+     "text": "Vogel"
+    },
+    {
+     "text": "Känguru"
+    },
+    {
+     "text": "Wasser"
+    },
+    {
+     "text": "Elektro"
+    },
+    {
+     "text": "Politiker"
+    },
+    {
+     "text": "Bogenschütze"
     }
    ],
    "id": "85645",
    "isValid": "",
-   "prompt": "Which of these are styles of hats?",
-   "us": true,
+   "prompt": "Welche dieser Fähigkeiten hat Kirby in seinem zweiten Spiel “[i]Kirby's Adventure[/i]”?",
+   "us": false,
    "x": false
   },
   {
@@ -16800,7 +16833,7 @@
      "text": "Vereinigte Staaten von Amerika"
     }
    ],
-   "category": "History",
+   "category": "Factoids",
    "decoys": [
     {
      "text": "China"
@@ -19299,65 +19332,62 @@
   {
    "answers": [
     {
-     "text": "Louisiana"
+     "text": "Augustus"
     },
     {
-     "text": "Missouri"
+     "text": "Tiberius"
     },
     {
-     "text": "Arkansas"
+     "text": "Claudius"
     },
     {
-     "text": "Iowa"
+     "text": "Nero"
     },
     {
-     "text": "North Dakota"
+     "text": "Titus"
     },
     {
-     "text": "South Dakota"
+     "text": "Verus"
     },
     {
-     "text": "Nebraska"
+     "text": "Gallienus"
     },
     {
-     "text": "Oklahoma"
+     "text": "Tacitus"
     },
     {
-     "text": "Kansas"
-    },
-    {
-     "text": "Colorado"
-    },
-    {
-     "text": "Wyoming"
-    },
-    {
-     "text": "Montana"
-    },
-    {
-     "text": "Minnesota"
+     "text": "Decius"
     }
    ],
    "category": "History",
    "decoys": [
     {
-     "text": "Wisconsin"
+     "text": "Friedulas"
     },
     {
-     "text": "Illinois"
+     "text": "Caesar"
     },
     {
-     "text": "Ohio"
+     "text": "Octoburus"
     },
     {
-     "text": "Tennessee"
+     "text": "Brutus"
+    },
+    {
+     "text": "Angelius"
+    },
+    {
+     "text": "Pilatus"
+    },
+    {
+     "text": "Schwanzus Longus"
     }
    ],
    "id": "86477",
    "isValid": "",
-   "prompt": "Which U.S. states were once part of the land collectively known as the Louisiana Purchase?",
-   "us": true,
-   "x": false
+   "prompt": "Wobei handelt es sich um Kaiser des Römischen Reiches?",
+   "us": false,
+   "x": true
   },
   {
    "answers": [
