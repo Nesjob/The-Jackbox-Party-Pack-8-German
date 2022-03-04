@@ -60,7 +60,8 @@
                 },
                 {
                     "altSpellings": [
-                        "indische Republik"
+                        "Indische Republik",
+                        "Republik Indien"
                     ],
                     "hint": "",
                     "text": "Indien"
@@ -90,7 +91,8 @@
                         "Pastetchen",
                         "Hamburger",
                         "Rindfleisch",
-                        "gegrilltes Fleisch"
+                        "gegrilltes Fleisch",
+                        "Patty"
                     ],
                     "hint": "",
                     "text": "Fleisch"
@@ -125,7 +127,11 @@
                 {
                     "altSpellings": [
                         "Gürkchen",
-                        "Gurke"
+                        "Gurke",
+                        "saure Gurke",
+                        "saure Gurken",
+                        "Gewürzgurke",
+                        "Gewürzgurken"
                     ],
                     "hint": "",
                     "text": "Gurken"
@@ -145,7 +151,11 @@
                         "Brötchen",
                         "Sesamkörner",
                         "Brot",
-                        "Sesam Brötchen"
+                        "Sesam Brötchen",
+                        "Burgerbrötchen",
+                        "Burger Brötchen",
+                        "Bun",
+                        "Buns"
                     ],
                     "hint": "Eine Sache fehlt noch, die unbedingt oben drauf muss!",
                     "text": "Sesambrötchen"
@@ -166,7 +176,8 @@
                     "altSpellings": [
                         "Silvester",
                         "Sylvester",
-                        "Neu Jahr"
+                        "Neu Jahr",
+                        "Neujahrstag"
                     ],
                     "hint": "",
                     "text": "Neujahr"
@@ -183,7 +194,8 @@
                     "altSpellings": [
                         "Tag der Frauen",
                         "Tag der Frau",
-                        "Frauentag"
+                        "Frauentag",
+                        "Weltfrauentag"
                     ],
                     "hint": "",
                     "text": "Internationaler Frauentag"
@@ -205,7 +217,8 @@
                 },
                 {
                     "altSpellings": [
-                        "Arbeitstag"
+                        "Arbeitstag",
+                        "Maifeiertag"
                     ],
                     "hint": "An euren Leistungen könnt ihr noch etwas ARBEITEN, denke ich.",
                     "text": "Tag der Arbeit"
@@ -228,10 +241,11 @@
                 },
                 {
                     "altSpellings": [
-                        "Frohnleichnamsfest"
+                        "Fronleichnamsfest",
+                        "Frohnleichnam"
                     ],
                     "hint": "",
-                    "text": "Frohnleichnam"
+                    "text": "Fronleichnam"
                 },
                 {
                     "altSpellings": [
@@ -243,7 +257,9 @@
                 },
                 {
                     "altSpellings": [
-                        "Kindertag"
+                        "Kindertag",
+                        "Tag des Kindes",
+                        "Internationaler Kindertag"
                     ],
                     "hint": "Denkt doch einer mal an die KINDER!",
                     "text": "Weltkindertag"
@@ -252,6 +268,7 @@
                     "altSpellings": [
                         "Deutsche Einheit",
                         "Vereinigungs Tag",
+                        "Vereinigungstag",
                         "Tag der Einheit",
                         "Wiedervereinigung"
                     ],
@@ -560,36 +577,48 @@
         {
             "answers": [
                 {
+                    "altSpellings": [],
                     "text": "Cadmium"
                 },
                 {
+                    "altSpellings": [
+                        "Cäsium"
+                    ],
                     "text": "Caesium"
                 },
                 {
+                    "altSpellings": [],
                     "hint": "Heißer Tipp: Eins ist ein Bestandteil von einem leckeren Glas Milch!",
                     "text": "Calcium"
                 },
                 {
+                    "altSpellings": [],
                     "text": "Californium"
                 },
                 {
+                    "altSpellings": [],
                     "text": "Cer"
                 },
                 {
+                    "altSpellings": [],
                     "hint": "Hmm... wie heißt nochmal das Zeug, das die in Schwimmbecken reinmachen?",
                     "text": "Chlor"
                 },
                 {
+                    "altSpellings": [],
                     "hint": "Eines klingt wie mein Lieblings-Internetbrowser...",
                     "text": "Chrom"
                 },
                 {
+                    "altSpellings": [],
                     "text": "Cobalt"
                 },
                 {
+                    "altSpellings": [],
                     "text": "Copernicium"
                 },
                 {
+                    "altSpellings": [],
                     "text": "Curium"
                 }
             ],
@@ -747,6 +776,7 @@
                     "text": "Brotmesser"
                 },
                 {
+                    "altSpellings": [],
                     "hint": "Euren Antworten fehlt es an Löchern!",
                     "text": "Sieb"
                 },
@@ -766,6 +796,7 @@
                 },
                 {
                     "altSpellings": [
+                        "Pizzaschneider",
                         "Pizza Schneider",
                         "Pizzamesser",
                         "Schneiderad",
@@ -1095,8 +1126,8 @@
                         "Schoko Eis",
                         "Schoko Eiscreme",
                         "Schokoladen Eis",
-                        "Schokoladen Eiscreme"
-                        
+                        "Schokoladen Eiscreme",
+                        "Schokoladen"
                     ],
                     "hint": "(genervt) Okay, ich buchstabiere es einfach für euch: Schokolade! Es ist so offensichtlich, tippt einfach Schokolade ein!",
                     "text": "Schokolade"
@@ -1106,7 +1137,8 @@
                         "Vanille Eis",
                         "Vanille Eiscreme",
                         "Vanile Eis",
-                        "Vanile Eiscreme"
+                        "Vanile Eiscreme",
+                        "Vanile"
                     ],
                     "hint": "Einige würden sagen, dass es der langweiligste Geschmack ist.",
                     "text": "Vanille"
@@ -1125,7 +1157,9 @@
                     "altSpellings": [
                         "Joghurt Eis",
                         "Joghurt Eiscreme",
-                        "Jogurt Eis"
+                        "Jogurt Eis",
+                        "Yoghurt",
+                        "Yogurt"
                     ],
                     "text": "Joghurt"
                 },
@@ -1145,7 +1179,9 @@
                     "altSpellings": [
                         "Zitronen",
                         "Zitronen Eis",
-                        "Zitronen Eiscreme"
+                        "Zitronen Eiscreme",
+                        "Limone",
+                        "Limonen"
                     ],
                     "text": "Zitrone"
                 },
@@ -1172,7 +1208,9 @@
                         "Kekse",
                         "Keksteig",
                         "Keks Eis",
-                        "Keks Eiscreme"
+                        "Keks Eiscreme",
+                        "Keks",
+                        "Cookie"
                     ],
                     "text": "Cookies"
                 },
@@ -1184,7 +1222,9 @@
                         "Stracciatella Eis",
                         "Stracciatella Eiscreme",
                         "Straciatela Eis",
-                        "Straciatela Eiscreme"
+                        "Straciatela Eiscreme",
+                        "Straziatella",
+                        "Straciatella"
                     ],
                     "hint": "Einfach, aber elegant. Ich mag die Schokostücke am liebsten.",
                     "text": "Stracciatella"
@@ -1193,7 +1233,8 @@
                     "altSpellings": [
                         "Pistazien Eis",
                         "Pistazien Eiscreme",
-                        "Pistazieneis"
+                        "Pistazieneis",
+                        "Pistazien"
                     ],
                     "hint": "Eine meiner liebsten Sorten hat eine grüne Färbung und ein nussiges Aroma.",
                     "text": "Pistazie"
@@ -1540,7 +1581,9 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "Floete"
+                        "Floete",
+                        "Altflöte",
+                        "Bassflöte"
                     ],
                     "hint": "",
                     "text": "Flöte"
@@ -1559,7 +1602,11 @@
                     "text": "Piccoloflöte"
                 },
                 {
-                    "altSpellings": [],
+                    "altSpellings": [
+                        "Hoboe",
+                        "Bass-Oboe",
+                        "Oboe d'amore"
+                    ],
                     "hint": "",
                     "text": "Oboe"
                 },
@@ -1575,7 +1622,7 @@
                     "altSpellings": [
                         "Klarinete",
                         "B-Klarinette",
-                        "B KLarinette",
+                        "B Klarinette",
                         "Bassklarinette",
                         "Bass Klarinette",
                         "A-Klarinette",
@@ -2086,7 +2133,8 @@
                         "Falsches Filet",
                         "Falsch Filet",
                         "Falsche Lende",
-                        "Mittelbug"
+                        "Mittelbug",
+                        "Blatt"
                     ],
                     "hint": "Oft stellen mir Menschen die Frage: “Kann ein FILET FALSCH sein?”. Die Antwort ist ja, natürlich kann es das! ",
                     "text": "Schulter"
@@ -2281,7 +2329,7 @@
                     "altSpellings": [
                         "Super Mario"
                     ],
-                    "hint": "It's a me! Ihr wisst schon, der dessen Name im Titel steht?",
+                    "hint": "It's a me! Ihr wisst schon, der, dessen Name im Titel steht?",
                     "text": "Mario"
                 },
                 {
@@ -2302,7 +2350,7 @@
                         "Peach",
                         "Prinzessin Toadstool"
                     ],
-                    "hint": "War da nicht noch jemand Royales dabei? Irgendeine Königin, war es ein Prinz?",
+                    "hint": "War da nicht noch jemand royales dabei? Irgendeine Königin, war es ein Prinz?",
                     "text": "Prinzessin Peach"
                 },
                 {
@@ -2330,7 +2378,7 @@
                 },
                 {
                     "altSpellings": [],
-                    "hint": "Ein Dinosaurier der auf Kommando Eier legen kann! Ich weiß, dass ihr wisst wen ich meine.",
+                    "hint": "Ein Dinosaurier, der auf Kommando Eier legen kann! Ich weiß, dass ihr wisst, wen ich meine.",
                     "text": "Yoshi"
                 }
             ],
@@ -2350,7 +2398,9 @@
                         "Discounter",
                         "Einkaufsladen",
                         "Super Markt",
-                        "Markt"
+                        "Markt",
+                        "Im Supermarkt",
+                        "Im Discounter"
                     ],
                     "hint": "Was soll Matthias Schweighöfer denn mit all seinem Geld anfangen?",
                     "text": "Supermarkt"
@@ -2361,7 +2411,9 @@
                         "Arzt Praxis",
                         "Praxis",
                         "beim Arzt",
-                        "Arzt"
+                        "Arzt",
+                        "In der Arztpraxis",
+                        "Beim Doktor"
                    ],
                     "hint": "",
                     "text": "Arztpraxis"
@@ -2372,7 +2424,7 @@
                         "Autowerkstatt",
                         "Mechaniker",
                         "Die Werkstatt",
-                        "in der Werkstatt"
+                        "In der Werkstatt"
                     ],
                     "hint": "",
                     "text": "Werkstatt"
@@ -2392,7 +2444,8 @@
                     "altSpellings": [
                         "die Bücherei",
                         "Bibliothek",
-                        "In der Bücherei"
+                        "In der Bücherei",
+                        "In der Bibliothek"
                     ],
                     "hint": "",
                     "text": "Bücherei"
@@ -2440,7 +2493,8 @@
                 {
                     "altSpellings": [
                         "das Schlafzimmer",
-                        "Schlafzimmer"
+                        "Schlaf Zimmer",
+                        "im Schlafzimmer"
                     ],
                     "hint": "",
                     "text": "Schlafzimmer"
@@ -2451,14 +2505,17 @@
                         "Bade Zimmer",
                         "Toilette",
                         "WC",
-                        "das Bad"
+                        "das Bad",
+                        "im Bad",
+                        "im Badezimmer"
                     ],
                     "hint": "",
                     "text": "Bad"
                 },
                 {
                     "altSpellings": [
-                        "die Küche"
+                        "die Küche",
+                        "in der Küche"
                     ],
                     "hint": "“Die einzige Sache, die hier kocht, bin ich, und zwar vor Wut wegen der hohen Stromrechnung!”",
                     "text": "Küche"
@@ -2469,7 +2526,8 @@
                         "Wohn Raum",
                         "Wohn Zimmer",
                         "das Wohnzimmer",
-                        "Salon"
+                        "Salon",
+                        "im Wohnzimmer"
                     ],
                     "hint": "",
                     "text": "Wohnzimmer"
@@ -2479,7 +2537,9 @@
                         "Speisesaal",
                         "Speiseraum",
                         "Ess Zimmer",
-                        "das Esszimmer"
+                        "das Esszimmer",
+                        "im Esszimmer",
+                        "im Speisesaal"
                     ],
                     "hint": "",
                     "text": "Esszimmer"
@@ -2487,7 +2547,9 @@
                 {
                     "altSpellings": [
                         "die Garage",
-                        "Abstellkammer"
+                        "Abstellkammer",
+                        "in der Garage",
+                        "in der Abstellkammer"
                     ],
                     "hint": "“Für wen ist denn die ganze Festtagsbeleuchtung hier? Für die Spinnen?”",
                     "text": "Garage"
@@ -2497,9 +2559,11 @@
                         "das Arbeitszimmer",
                         "Büro",
                         "das Büro",
-                        "Office"
+                        "Office",
+                        "im Büro",
+                        "im Arbeitszimmer"
                     ],
-                    "hint": "“Ach, wenn ich schon hier bin, kann ich auch gleich noch das Wlan ausschalten.”",
+                    "hint": "“Ach, wenn ich schon hier bin, kann ich auch gleich noch das WLAN ausschalten.”",
                     "text": "Arbeitszimmer"
                 },
                 {
@@ -2508,7 +2572,8 @@
                         "Wickelraum",
                         "Spielzimmer",
                         "Jugendraum",
-                        "das Kinderzimmer"
+                        "das Kinderzimmer",
+                        "im Kinderzimmer"
                     ],
                     "hint": "“Es ist nie zu früh im Leben eines Babys für Lektionen in Sparsamkeit!”",
                     "text": "Kinderzimmer"
@@ -2519,7 +2584,8 @@
                         "Diele",
                         "Gang",
                         "Korridor",
-                        "Hausflur"
+                        "Hausflur",
+                        "im Flur"
                     ],
                     "hint": "",
                     "text": "Flur"
@@ -2543,6 +2609,7 @@
                         "Dorito Chips",
                         "Nachos",
                         "Nacho",
+                        "Nacho-Chips",
                         "Tortilla-Chips",
                         "Tortilla Chips",
                         "Tortillas"
@@ -2577,7 +2644,7 @@
                     "altSpellings": [
                         "Banane"
                     ],
-                    "hint": "Schonmal versucht eine ohne Hände zu schälen? Tja, so sieht mein Alltag aus.",
+                    "hint": "Schonmal versucht eine davon ohne Hände zu schälen? Tja, so sieht mein Alltag aus.",
                     "text": "Bananen"
                 },
                 {
@@ -2607,7 +2674,8 @@
                         "Kekse",
                         "Schokokekse",
                         "Schoko Keks",
-                        "Keks"
+                        "Keks",
+                        "American Cookies"
                     ],
                     "hint": "",
                     "text": "Cookies"
@@ -2647,7 +2715,10 @@
                         "Prahlen",
                         "Selbstverherrlichung",
                         "Arroganz",
-                        "Egoismus"
+                        "Egoismus",
+                        "Superbia",
+                        "Eitelkeit",
+                        "Übermut"
                     ],
                     "hint": "Bist du egoistisch oder arrogant? Ganz eindeutig, du bist ein Sünder.",
                     "text": "Hochmut"
@@ -2659,7 +2730,8 @@
                         "Habsucht",
                         "Geizigkeit",
                         "Gierigkeit",
-                        "Geiz"
+                        "Geiz",
+                        "Avaritia"
                     ],
                     "hint": "",
                     "text": "Habgier"
@@ -2669,7 +2741,10 @@
                         "Sehnsucht",
                         "Begehren",
                         "Erotik",
-                        "Lüsternheit"
+                        "Lüsternheit",
+                        "Ausschweifung",
+                        "Genusssucht",
+                        "Luxuria"
                     ],
                     "hint": "Gefühle des Begehrens? Warum fragst du noch?",
                     "text": "Wollust"
@@ -2678,7 +2753,8 @@
                     "altSpellings": [
                         "Eifersucht",
                         "Neidisch",
-                        "Misgunst"
+                        "Missgunst",
+                        "Invidia"
                     ],
                     "hint": "Du möchtest etwas, das aber jemand anderes schon hat? Willkommen in Sin City, einziger Einwohner: Du!",
                     "text": "Neid"
@@ -2689,9 +2765,18 @@
                         "Voellerei",
                         "Gefräßigkeit",
                         "Gefräßig",
+                        "Gefraessigkeit",
+                        "Gefraeßigkeit",
                         "Gelage",
                         "Fresserei",
-                        "Orgie"
+                        "Orgie",
+                        "Gula",
+                        "Maßlosigkeit",
+                        "Masslosigkeit",
+                        "Unmäßigkeit",
+                        "Unmaessigkeit",
+                        "Unmaeßigkeit",
+                        "Selbstsucht"
                     ],
                     "hint": "Über den Hunger hinaus essen? (singend) Eine Sünde.",
                     "text": "Völlerei"
@@ -2703,7 +2788,9 @@
                         "Rage",
                         "Aggressivität",
                         "Raserei",
-                        "Cholerisch"
+                        "Cholerisch",
+                        "Ira",
+                        "Rachsucht"
                     ],
                     "hint": "",
                     "text": "Zorn"
@@ -2717,7 +2804,11 @@
                         "Sorglosigkeit",
                         "Desinteresse",
                         "Gleichgültigkeit",
-                        "Energielosigkeit"
+                        "Energielosigkeit",
+                        "Acedia",
+                        "Feigheit",
+                        "Ignoranz",
+                        "Überdruss"
                     ],
                     "hint": "Faulenzen? Wenn man eine so begrenzte Zeit hat wie ihr Menschen...",
                     "text": "Trägheit"
@@ -2957,7 +3048,7 @@
                         "Moyito",
                         "Mojido"
                     ],
-                    "hint": "Der weltbekannte kubanische Longdrink, Fidel Castro hätte ihn sicherlich getrunken.",
+                    "hint": "Der weltbekannte kubanische Longdrink; Fidel Castro hätte ihn sicherlich getrunken.",
                     "text": "Mojito"
                 },
                 {
@@ -3227,7 +3318,8 @@
                     "altSpellings": [
                         "Kein Ohr Hasen",
                         "Kein Ohrhasen",
-                        "KeinOhr Hasen"
+                        "KeinOhr Hasen",
+                        "Keinohrhase"
                     ],
                     "hint": "Also ein Hase, aber ohne Ohren... Wie kommt man auf sowas?",
                     "text": "[i]Keinohrhasen[/i]"
@@ -3383,7 +3475,7 @@
                     "altSpellings": [
                         "Vehicle"
                     ],
-                    "hint": "Das Wort heißt auch im englischen fast gleich!",
+                    "hint": "Das Wort heißt auch im Englischen fast gleich!",
                     "text": "Vehikel"
                 },
                 {
@@ -3559,7 +3651,7 @@
                         "Mishneh Torah",
                         "Worte"
                     ],
-                    "hint": "Achtung Spoiler: Am Ende von diesem Teil stirbt Mose! Ihr seid genauso entsetzt wie ich, als ich es erfahren musste.",
+                    "hint": "Achtung, Spoiler: Am Ende von diesem Teil stirbt Mose! Ihr seid genauso entsetzt wie ich, als ich es erfahren musste.",
                     "text": "Deuteronomium"
                 }
             ],
@@ -3743,7 +3835,7 @@
                         "Berlin-Mitte",
                         "Bezirk Mitte"
                     ],
-                    "hint": "In diesem ehrlichgesagt sehr unkreativ benannten Bezirk befindet sich auch der Sitz des Bundestag.",
+                    "hint": "In diesem ehrlich gesagt sehr unkreativ benannten Bezirk befindet sich auch der Sitz des Bundestages.",
                     "text": "Mitte"
                 },
                 {
@@ -4016,7 +4108,8 @@
                         "Shanghai Disney",
                         "Disneyland Shanghai",
                         "Shanghai Disney Resort",
-                        "Shangai"
+                        "Shangai",
+                        "Schanghai"
                     ],
                     "hint": "",
                     "text": "Shanghai"
@@ -4039,7 +4132,8 @@
                         "Bay Lake",
                         "Buena Vista",
                         "Disneyworld Orlando",
-                        "Walt Disney World Resort Orlando"
+                        "Walt Disney World Resort Orlando",
+                        "Walt Disney World Resort"
                     ],
                     "hint": "",
                     "text": "Orlando"
@@ -4109,7 +4203,8 @@
                         "Orchidee",
                         "Diana Weiss",
                         "Diana",
-                        "Weiss"
+                        "Weiss",
+                        "Mrs. White"
                     ],
                     "hint": "WEIẞ sie mehr als sie verrät?",
                     "text": "Frau Weiß"
@@ -4145,7 +4240,8 @@
                         "Baronin",
                         "Klara Porz",
                         "Klara",
-                        "Clara"
+                        "Clara",
+                        "Mrs. Peacock"
                     ],
                     "hint": "",
                     "text": "Baronin von Porz"
@@ -4782,8 +4878,7 @@
                 },
                 {
                     "altSpellings": [
-                        "Sechseck",
-                        "Achteck"
+                        "Sechseck"
                     ],
                     "hint": "Damit würde ich wie das coolste Stoppschild der Welt aussehen.",
                     "text": "Hexagon"
@@ -4985,7 +5080,7 @@
                         "Kirsch",
                         "Kirschen"
                     ],
-                    "hint": "Zum Anbeißen, wohlgeformt und im Innern Rot, genau wie ich.",
+                    "hint": "Zum Anbeißen, wohlgeformt und im Innern rot, genau wie ich.",
                     "text": "Kirschkuchen"
                 },
                 {
@@ -5158,7 +5253,7 @@
                         "Chris Hemsworth",
                         "Hemsworth"
                     ],
-                    "hint": "Sohn Odins und nordischer Donnergott? Ganz ehrlich, ich würd ihn nehmen.",
+                    "hint": "Sohn Odins und nordischer Donnergott? Ganz ehrlich, ich würd' ihn nehmen.",
                     "text": "Thor"
                 },
                 {
@@ -5365,8 +5460,8 @@
                     "text": "Hai"
                 },
                 {
-                    "text": "Mai",
-                    "hint": "Kommt schon Leute, denkt an meinen Lieblings-Monat."
+                    "hint": "Kommt schon Leute, denkt an meinen Lieblings-Monat.",
+                    "text": "Mai"
                 },
                 {
                     "text": "Schrei"
@@ -5541,7 +5636,7 @@
                         "Russische Förderation",
                         "Russische SFSR"
                     ],
-                    "hint": "(singend)“Moskau, Moskau, deine Seele ist so groß...”",
+                    "hint": "(singend) “Moskau, Moskau, deine Seele ist so groß...”",
                     "text": "Russland"
                 },
                 {
@@ -5828,7 +5923,7 @@
                         "Pälweerm",
                         "Pelworm"
                     ],
-                    "hint": "Diese Insel liegt etwa einen Meter unter Normalnull, ist daher vollständig auf seinen acht Meter hohen Deich angewiesen.",
+                    "hint": "Diese Insel liegt etwa einen Meter unter Normalnull und ist daher vollständig auf seinen acht Meter hohen Deich angewiesen.",
                     "text": "Pellworm"
                 },
                 {
@@ -6877,7 +6972,7 @@
                 },
                 {
                     "altSpellings": [
-                        "Tauros",
+                        "Taurus",
                         "Stiere"
                     ],
                     "hint": "",
@@ -6901,7 +6996,7 @@
                 },
                 {
                     "altSpellings": [
-                        "Aquaris",
+                        "Aquarius",
                         "Wasser Mann"
                     ],
                     "hint": "",
@@ -6931,7 +7026,8 @@
                 {
                     "altSpellings": [
                         "Der Wunschpunsch",
-                        "Wunschpunsch"
+                        "Wunschpunsch",
+                        "Satanarchäolügenialkohöllischer Wunschpunsch"
                     ],
                     "hint": "Als allwissendes Wesen kenne ich diesen langen Namen natürlich auswendig, aber ich will euch ja nicht den Rätselspaß verderben...",
                     "text": "[i]Der satanarchäolügenialkohöllische Wunschpunsch[/i]"
@@ -7013,7 +7109,8 @@
                         "Groß Britannien",
                         "Vereinigtes Königreich Großbritannien und Nordirland",
                         "UK",
-                        "U K"
+                        "U K",
+                        "VK"
                     ],
                     "hint": "Kommt schon, bei diesem Land steht es sogar im Namen!",
                     "text": "Vereinigtes Königreich"
@@ -7210,10 +7307,11 @@
                 {
                     "altSpellings": [
                         "Snooker",
-                        "Biliard"
+                        "Biliard",
+                        "Billiard"
                     ],
                     "hint": "Was meine größte Angst ist? Von einem riesigen Stab in ein Loch geschubst zu werden!",
-                    "text": "Billiard"
+                    "text": "Billard"
                 },
                 {
                     "altSpellings": [
@@ -7248,14 +7346,17 @@
                 {
                     "altSpellings": [
                         "Volley Ball",
-                        "Voleyball"
+                        "Voleyball",
+                        "Voley Ball"
                     ],
                     "hint": "",
                     "text": "Volleyball"
                 },
                 {
                     "altSpellings": [
-                        "Tisch Tennis"
+                        "Tisch Tennis",
+                        "Tischtenis",
+                        "Tisch Tenis"
                     ],
                     "hint": "",
                     "text": "Tischtennis"
@@ -7529,7 +7630,7 @@
             "exactSpelling": false,
             "id": "83329",
             "isValid": "",
-            "prompt": "Paketdienste, die es nicht schaffen, mir meine Pakete auch zu liefern",
+            "prompt": "Paketdienste, die es nicht schaffen, mir meine Pakete rechtzeitig zu liefern",
             "subtype": "subjective",
             "us": false,
             "x": false
@@ -7580,7 +7681,8 @@
                     "altSpellings": [
                         "Blather Around",
                         "Blather",
-                        "Blater Around"
+                        "Blater Around",
+                        "Blather Round"
                     ],
                     "hint": "",
                     "text": "[i]Blather ‘Round[/i]"
@@ -7693,7 +7795,8 @@
                         "Frankfurt",
                         "Frankfurt am Main",
                         "Mainz",
-                        "Wiesbaden"
+                        "Wiesbaden",
+                        "Rhein Main"
                     ],
                     "hint": "",
                     "text": "Rhein-Main"
@@ -7763,7 +7866,7 @@
                     "altSpellings": [
                         "Messer"
                     ],
-                    "hint": "Diese Waffe nach vollbrachter Tat nicht mehr für Gemüse benutzen, Küchenhygiene ist sehr wichtig!",
+                    "hint": "Diese Waffe sollte man nach vollbrachter Tat nicht mehr für Gemüse benutzen, Küchenhygiene ist sehr wichtig!",
                     "text": "Dolch"
                 },
                 {
@@ -8014,7 +8117,8 @@
                     "altSpellings": [
                         "Niederdeutsch",
                         "Nieder Deutsch",
-                        "Platt Deutsch"
+                        "Platt Deutsch",
+                        "Platt"
                     ],
                     "hint": "Platt ist hier nicht nur das Land, sondern anscheinend auch die Sprache!",
                     "text": "Plattdeutsch"
@@ -8022,7 +8126,8 @@
                 {
                     "altSpellings": [
                         "Mittel-Bairisch",
-                        "Nord-Bairisch"
+                        "Nord-Bairisch",
+                        "Bayrisch"
                     ],
                     "hint": "Kommt schon, es ist eines jeden erster Gedanke. Jetzt schreibt es schon auf!",
                     "text": "Bairisch"
@@ -8073,11 +8178,6 @@
                     "altSpellings": [],
                     "hint": "",
                     "text": "Damm"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "Bann"
                 }
             ],
             "category": "Language/Words/Grammar",
@@ -8113,7 +8213,7 @@
                     "altSpellings": [
                         "Geifer",
                         "Sabber",
-                        "Salvia"
+                        "Saliva"
                     ],
                     "hint": "Bei einem der gesuchten Wörter bleibt euch die Spucke weg!",
                     "text": "Speichel"
@@ -8121,9 +8221,11 @@
                 {
                     "altSpellings": [
                         "Magensäure",
+                        "Magensaeure",
                         "Salzsäure",
                         "Succus gastricus",
                         "Magen Säure",
+                        "Magen Saeure",
                         "Magen Saft"
                     ],
                     "hint": "Hat jemand von euch zufälligerweise Sodbrennen?",
@@ -8161,7 +8263,9 @@
                         "Träne",
                         "Zähre",
                         "Tränen Flüssigkeit",
-                        "Tränensekret"
+                        "Tränensekret",
+                        "Traene",
+                        "Traenen"
                     ],
                     "hint": "",
                     "text": "Tränen"
@@ -8193,7 +8297,8 @@
                         "Popel",
                         "Schnodder",
                         "Nasenschleim",
-                        "Nasen Schleim"
+                        "Nasen Schleim",
+                        "Rotze"
                     ],
                     "hint": "Putzt eure Nasen, dann findet ihr ganz viel vom gesuchten Begriff.",
                     "text": "Nasensekret"
@@ -8241,7 +8346,7 @@
                         "Hjundai",
                         "Hiundai"
                     ],
-                    "hint": "Also ich will ja nichts sagen, aber irgendwie sind da ziemlich viele japanische Hersteller dabei.",
+                    "hint": "Also, ich will ja nichts sagen, aber irgendwie sind da ziemlich viele japanische Hersteller dabei.",
                     "text": "Hyundai Motor"
                 },
                 {
@@ -8309,7 +8414,8 @@
                     "altSpellings": [
                         "BMW Group",
                         "Bayerische Motoren Werke",
-                        "BMW AG"
+                        "BMW AG",
+                        "B M W"
                     ],
                     "hint": "Ich denke mir immer gerne neue Vollversionen für die Akronyme aus. Wie wäre es mit “Bananen-Moped-Wischwasser” oder “Barbarische-Mixer-Weltmeisterschaft”?",
                     "text": "BMW"
@@ -8331,7 +8437,7 @@
                     "text": "Mazda"
                 }
             ],
-            "category": "Companies & Brands",
+            "category": "Brands",
             "exactSpelling": false,
             "id": "83441",
             "isValid": "",
@@ -8454,14 +8560,16 @@
                     "altSpellings": [
                         "Thun Fisch",
                         "Tunfisch",
-                        "Thunfische"
+                        "Thunfische",
+                        "Tun Fisch",
+                        "Tunfische"
                     ],
                     "hint": "Der Name dieses Fisches kommt aus dem Altgriechischen und bedeutet in etwa “Ich schieße entlang”.",
                     "text": "Thunfisch"
                 },
                 {
                     "altSpellings": [
-                        "Altlantischer Lachs",
+                        "Atlantischer Lachs",
                         "Lachse",
                         "Pazifischer Lachs"
                     ],
