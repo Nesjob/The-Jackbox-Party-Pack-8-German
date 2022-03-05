@@ -1338,49 +1338,52 @@
   {
    "answers": [
     {
-     "text": "rainbow"
+     "text": "Kanadischer Biber"
     },
     {
-     "text": "cutthroat"
+     "text": "Weißstorch"
     },
     {
-     "text": "gila"
+     "text": "Grauwolf"
     },
     {
-     "text": "brook"
+     "text": "Dikdik"
     },
     {
-     "text": "Dolly Varden"
+     "text": "Graugans"
     },
     {
-     "text": "lake"
+     "text": "Höckerschwan"
+    },
+    {
+     "text": "Kakadu"
+    },
+    {
+     "text": "Präriewühlmaus"
     }
    ],
    "category": "Animals",
    "decoys": [
     {
-     "text": "hatchet"
+     "text": "Löwe"
     },
     {
-     "text": "amber"
+     "text": "Seepferdchen"
     },
     {
-     "text": "wolf"
+     "text": "Schimpanse"
     },
     {
-     "text": "dunset"
+     "text": "Seehund"
     },
     {
-     "text": "pencil"
-    },
-    {
-     "text": "Sally blue"
+     "text": "Rotfuchs"
     }
    ],
    "id": "76781",
    "isValid": "",
-   "prompt": "Which of these are trout from North America?",
-   "us": true,
+   "prompt": "Welche dieser Tiere sind monogam, bleiben also bis ans Ende ihres Lebens mit ihren Partner zusammen?",
+   "us": false,
    "x": false
   },
   {
@@ -4101,7 +4104,7 @@
      "text": "Okay Girls"
     },
     {
-     "text": "Girls Nation"
+     "text": "Girls' Day"
     },
     {
      "text": "Flower Girls"
@@ -4115,8 +4118,8 @@
    ],
    "id": "77678",
    "isValid": "",
-   "prompt": "Which of these are actual K-pop groups with “Girl” in their name?",
-   "us": true,
+   "prompt": "Welches sind echte [i]K-Pop[/i]-Bands mit “Girl” im Namen?",
+   "us": false,
    "x": false
   },
   {
@@ -4179,22 +4182,22 @@
      "text": "Grandpa Joe"
     },
     {
-     "text": "Mike Teevee"
+     "text": "Mike Teavee"
     },
     {
-     "text": "Augustus Gloop"
+     "text": "Augustus Glupsch"
     },
     {
-     "text": "Veruca Salt"
+     "text": "Violetta"
     },
     {
-     "text": "Violet Beauregarde"
+     "text": "Oompa Loompas"
     },
     {
-     "text": "Arthur Slugworth"
+     "text": "Großvater George"
     },
     {
-     "text": "Grandpa George"
+     "text": "Willy Wonka"
     }
    ],
    "category": "Film & TV",
@@ -4203,22 +4206,25 @@
      "text": "Veronica Salt"
     },
     {
-     "text": "Charlie Beckett"
+     "text": "Grandpa Glupsch"
     },
     {
-     "text": "Grandpa Bill"
+     "text": "Großvater Bill"
     },
     {
      "text": "Sebastian Slop"
     },
     {
      "text": "Georgina Wrapper"
+    },
+    {
+     "text": "Barbara Glupsch"
     }
    ],
    "id": "77680",
    "isValid": "",
-   "prompt": "Which of these are characters from [i]Willy Wonka & the Chocolate Factory[/i]?",
-   "us": true,
+   "prompt": "Welche dieser Figuren stammen aus Tim Burtons “[i]Charlie und die Schokoladenfabrik[/i]”?",
+   "us": false,
    "x": false
   },
   {
@@ -5646,55 +5652,64 @@
   {
    "answers": [
     {
-     "text": "Diddy"
+     "text": "Gustav"
     },
     {
-     "text": "Puff Daddy"
+     "text": "Kosmos"
     },
     {
-     "text": "Love"
+     "text": "Zeitmaschine"
     },
     {
-     "text": "Puffy"
+     "text": "Stark wie Zwei"
     },
     {
-     "text": "Sean John"
+     "text": "CasaNova"
     },
     {
-     "text": "Brother Love"
+     "text": "Phönix"
     },
     {
-     "text": "Swag"
+     "text": "Odyssee"
     },
     {
-     "text": "P. Diddy"
+     "text": "Udopia"
+    },
+    {
+     "text": "Ball Pompös"
+    },
+    {
+     "text": "Benjamin"
     }
    ],
    "category": "Music",
    "decoys": [
     {
-     "text": "Sean"
+     "text": "Brutus"
     },
     {
-     "text": "Puff Diddly Darn it"
+     "text": "Meine Perle"
     },
     {
-     "text": "Master P"
+     "text": "Innere Dämonen"
     },
     {
-     "text": "Power Puff Daddy"
+     "text": "Jüngstes Gericht"
     },
     {
-     "text": "P Shizzle"
+     "text": "Schwert"
     },
     {
-     "text": "Daddy Combs"
+     "text": "Sturm"
+    },
+    {
+     "text": "Angst-Antilope"
     }
    ],
    "id": "78053",
    "isValid": "",
-   "prompt": "Which of these are, or have been, Sean Combs’ stage names?",
-   "us": true,
+   "prompt": "Welches sind Alben von Udo Lindenberg?",
+   "us": false,
    "x": false
   },
   {
@@ -6492,52 +6507,55 @@
   {
    "answers": [
     {
-     "text": "joker"
+     "text": "Schiffsverkehr"
     },
     {
-     "text": "smoker"
+     "text": "Vollmond"
     },
     {
-     "text": "midnight toker"
+     "text": "Neue Welt"
     },
     {
-     "text": "picker"
+     "text": "Lass es uns nicht regnen"
     },
     {
-     "text": "grinner"
+     "text": "Hartgeld"
     },
     {
-     "text": "lover"
+     "text": "Flugzeuge im Bauch"
     },
     {
-     "text": "sinner"
+     "text": "Currywurst"
+    },
+    {
+     "text": "Bleibt alles anders"
     }
    ],
    "category": "Music",
    "decoys": [
     {
-     "text": "stoker"
+     "text": "Reeperbahn"
     },
     {
-     "text": "red hot poker"
+     "text": "Herzbube"
     },
     {
-     "text": "singer"
+     "text": "Lass mich nicht los"
     },
     {
-     "text": "swinger"
+     "text": "Sorge"
     },
     {
-     "text": "guv’ner"
+     "text": "Kampf um dein Herz"
     },
     {
-     "text": "winner"
+     "text": "Wie ein Vulkan"
     }
    ],
    "id": "78286",
    "isValid": "",
-   "prompt": "What things does Steve Miller claim to be in his most famous song?",
-   "us": true,
+   "prompt": "Welches sind Lieder von Herbert Grönemeyer?",
+   "us": false,
    "x": false
   },
   {
@@ -6954,55 +6972,55 @@
   {
    "answers": [
     {
-     "text": "trees of green"
+     "text": "Löcher in der Hose"
     },
     {
-     "text": "red roses"
+     "text": "Lärm"
     },
     {
-     "text": "skies of blue"
+     "text": "Gefärbte Haare"
     },
     {
-     "text": "clouds of white"
+     "text": "Löcher in der Nase"
     },
     {
-     "text": "friends shaking hands"
+     "text": "Elektrische Gitarren"
     },
     {
-     "text": "bright blessed days"
+     "text": "Schlechter Umgang"
     },
     {
-     "text": "colors of the rainbow"
-    },
-    {
-     "text": "dark sacred nights"
-    },
-    {
-     "text": "babies growing"
+     "text": "Freunde"
     }
    ],
    "category": "Music",
    "decoys": [
     {
-     "text": "pants of orange"
+     "text": "Ungesunde Ernährung"
     },
     {
-     "text": "cars of purple"
+     "text": "Schlafen bis um 3"
     },
     {
-     "text": "siblings arguing bitterly"
+     "text": "Haare wie eine Frau"
     },
     {
-     "text": "clouds of pollen"
+     "text": "Handynutzung"
     },
     {
-     "text": "trumpets of brass"
+     "text": "Alkoholkonsum"
+    },
+    {
+     "text": "Löcher in den Ohren"
+    },
+    {
+     "text": "Piercing in der Nase"
     }
    ],
    "id": "78403",
    "isValid": "",
-   "prompt": "Which things does Louis Armstrong see in “What a Wonderful World”?",
-   "us": true,
+   "prompt": "Was kritisieren die Eltern im Lied “Junge” von den [i]Ärzten[/i] an ihrem Sohn?",
+   "us": false,
    "x": false
   },
   {
@@ -12759,49 +12777,61 @@
   {
    "answers": [
     {
-     "text": "George Marshall"
+     "text": "Vitali Klitschko"
     },
     {
-     "text": "Douglas MacArthur"
+     "text": "Roland Kaiser"
     },
     {
-     "text": "Dwight D. Eisenhower"
+     "text": "Ralph Caspers"
     },
     {
-     "text": "Henry H. Arnold"
+     "text": "Barbara Schöneberger"
     },
     {
-     "text": "Omar Bradley"
+     "text": "Udo Lindenberg"
     },
     {
-     "text": "Ulysses S. Grant"
+     "text": "Peter Maffay"
     },
     {
-     "text": "William T. Sherman"
+     "text": "Otto Hahn"
     },
     {
-     "text": "Philip Sheridan"
+     "text": "Rolf Zuckowski"
+    },
+    {
+     "text": "Jogi Löw"
+    },
+    {
+     "text": "Iris Berben"
+    },
+    {
+     "text": "Peter Lustig"
     }
    ],
    "category": "Historical Figures",
    "decoys": [
     {
-     "text": "George S. Patton"
+     "text": "Bastian Schweinsteiger"
     },
     {
-     "text": "Norman Schwartzkopf"
+     "text": "Helene Fischer"
     },
     {
-     "text": "Colin Powell"
+     "text": "Robert Koch"
     },
     {
-     "text": "William Westmoreland"
+     "text": "Albert Einstein"
+    },
+    {
+     "text": "Günther Jauch"
     }
    ],
    "id": "82097",
    "isValid": "",
-   "prompt": "Which of these men held the rank of General of the Army of the United States?",
-   "us": true,
+   "prompt": "Welchen dieser Personen wurde Stand 2021 das Bundesverdienstkreuz verliehen?",
+   "us": false,
    "x": false
   },
   {
@@ -15138,49 +15168,70 @@
   {
    "answers": [
     {
-     "text": "“Well, how did I get here?”"
+     "text": "Partei für Gesundheitsforschung"
     },
     {
-     "text": "“How do I work this?”"
+     "text": "Partei der Humanisten"
     },
     {
-     "text": "“Where is that large automobile?”"
+     "text": "Menschliche Welt"
     },
     {
-     "text": "“This is not my beautiful house!”"
+     "text": "Europäische Partei LIEBE"
     },
     {
-     "text": "“This is not my beautiful wife!”"
+     "text": "Die Violetten"
     },
     {
-     "text": "“What is that beautiful house?”"
+     "text": "Bündnis für Innovation & Gerechtigkeit"
     },
     {
-     "text": "“Where does that highway go to?”"
+     "text": "Familien-Partei Deutschlands"
     },
     {
-     "text": "“Am I right? Am I wrong?”"
+     "text": "Bayernpartei"
     },
     {
-     "text": "“My God! What have I done?”"
+     "text": "Demokratie in Europa - DiEM25"
+    },
+    {
+     "text": "Deutsche Kommunistische Partei"
+    },
+    {
+     "text": "Sozialistische Gleichheitspartei, Vierte Internationale"
     }
    ],
-   "category": "Music",
+   "category": "Factoids",
    "decoys": [
     {
-     "text": "“Where is that shotgun shack?”"
+     "text": "Bündnis Zukunft JETZT"
     },
     {
-     "text": "“Cat's in the cradle and the silver spoon”"
+     "text": "Aktion für Naturschutz"
     },
     {
-     "text": "“Are we having fun yet?”"
+     "text": "Nationalistische Freiheitspartei - DAS ORIGINAL"
+    },
+    {
+     "text": "Die Verbündeten - Gerechtigkeit"
+    },
+    {
+     "text": "Partei der europäischen Christen"
+    },
+    {
+     "text": "Basis K - Kommunistisches Deutschland"
+    },
+    {
+     "text": "SBD - Spartanisches Bündnis Deutschland"
+    },
+    {
+     "text": "BALANCE - Partei für Menschen- und Naturschutz"
     }
    ],
    "id": "84261",
    "isValid": "",
-   "prompt": "What might you say to yourself according to the Talking Heads hit “Once in a Lifetime”?",
-   "us": true,
+   "prompt": "Welche dieser Namen gehören zu Parteien, die bei der Europawahl 2019 wählbar waren?",
+   "us": false,
    "x": false
   },
   {
@@ -19452,52 +19503,64 @@
   {
    "answers": [
     {
-     "text": "[i]Rushmore[/i]"
+     "text": "Mauritius"
     },
     {
-     "text": "[i]The Royal Tenenbaums[/i]"
+     "text": "Kanada"
     },
     {
-     "text": "[i]The Life Aquatic[/i]"
+     "text": "Macau"
     },
     {
-     "text": "[i]The Darjeeling Limited[/i]"
+     "text": "Kuba"
     },
     {
-     "text": "[i]Fantastic Mr. Fox[/i]"
+     "text": "Tansania"
     },
     {
-     "text": "[i]Moonrise Kingdom[/i]"
+     "text": "Uruguay"
     },
     {
-     "text": "[i]The Grand Budapest Hotel[/i]"
+     "text": "Hawaii"
     },
     {
-     "text": "[i]Isle of Dogs[/i]"
+     "text": "Japan"
     },
     {
-     "text": "[i]The French Dispatch[/i]"
+     "text": "Malediven"
+    },
+    {
+     "text": "Palau"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "[i]Bottle Rocket[/i]"
+     "text": "Mond"
     },
     {
-     "text": "[i]Lost in Translation[/i]"
+     "text": "Hackbratan"
     },
     {
-     "text": "[i]Broken Flowers[/i]"
+     "text": "Schweden"
     },
     {
-     "text": "[i]St. Vincent[/i]"
+     "text": "Brasilien"
+    },
+    {
+     "text": "Mexiko"
+    },
+    {
+     "text": "Panama"
+    },
+    {
+     "text": "Hongkong"
     }
    ],
    "id": "86482",
    "isValid": "",
-   "prompt": "Which of these movies are collaborations between Wes Anderson and Bill Murray?",
-   "us": true,
+   "prompt": "Welche dieser Ziele steuerte das [i]Traumschiff[/i] unter dem Kapitän Victor Burger, gespielt durch Sascha Hehn, an?",
+   "us": false,
    "x": false
   },
   {
