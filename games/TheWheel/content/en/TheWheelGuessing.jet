@@ -252,9 +252,10 @@
     "Domtendo",
     "Domi",
     "Geilkind",
-    "Neumayer"
+    "Neumayer",
+    "Dominik Neumayer"
    ],
-   "answer": "Dominik Neumayer",
+   "answer": "Dominik Neumayer / Domtendo",
    "category": "Celebrities",
    "clues": [
     {
@@ -406,42 +407,42 @@
   },
   {
    "altSpellings": [
-    "Count Dracula"
+    "Graf Drakula"
    ],
-   "answer": "Dracula",
+   "answer": "Drakula",
    "category": "Literature",
    "clues": [
     {
-     "clue": "He was a little intense, and quite pale.",
+     "clue": "Er war ein wenig angespannt und ziemlich blass.",
      "clueComment": ""
     },
     {
-     "clue": "He said he lives in a castle.",
-     "clueComment": "He says he lives in a castle. He could be a little full of himself, but hey, if you got it, flaunt it!"
+     "clue": "Er sagte, er wohne wohl in einem Schloss.",
+     "clueComment": "Er sagte, er wohne wohl in einem Schloss. Er könnte manchmal etwas egozentrisch sein, aber hey! Das soll nicht mein Problem sein!"
     },
     {
-     "clue": "I couldn’t place the accent but he’s got to be Eastern European.",
+     "clue": "Ich konnte seinen Akzent nicht ganz zuordnen, aber er muss Osteuropäer sein.",
      "clueComment": ""
     },
     {
-     "clue": "He doesn’t like garlic, but who does? It’s an acquired taste!",
+     "clue": "Er mag keinen Knoblauch, aber wer tut das schon? Es ist ein ausgestorbener Geschmack!",
      "clueComment": ""
     },
     {
-     "clue": "Maybe it’s a superstition, but he’s really turned off by crosses.",
+     "clue": "Vielleicht ist das ein Aberglaube, aber er hat wirklich Angst vor Kreuzen.",
      "clueComment": ""
     },
     {
-     "clue": "Turns out he’s from Transylvania and he’s hungry for human blood.",
+     "clue": "Scheinbar kommt er aus Transsylvanien und ist hungrig nach menschlichem Blut.",
      "clueComment": ""
     }
    ],
    "followup": null,
    "id": "80178",
    "isValid": "",
-   "prompt": "What eerily attractive man once suddenly appeared on my mountaintop?",
-   "reveal": "Then he told me he lives forever and I said, \"Oh yeah, can you eat garlic forever?\" That shut him up.",
-   "us": true,
+   "prompt": "Welcher unheimlich attraktive Mann tauchte einst plötzlich auf meiner Bergspitze auf?",
+   "reveal": "Dann meinte er zu mir, er könnte ewig leben und ich sagte: \"Ach ja, kannst du auf ewig Knoblauch essen?\" Dann war er leise.",
+   "us": false,
    "x": false
   },
   {
@@ -514,38 +515,39 @@
    "altSpellings": [
     "Alexander",
     "Alexander III",
-    "King Alexander"
+    "Alexander der Grosse",
+    "König Alexander"
    ],
-   "answer": "Alexander the Great",
+   "answer": "Alexander der Große",
    "category": "Historical Figures",
    "clues": [
     {
-     "clue": "He was from the ancient Greek kingdom of Macedonia.",
+     "clue": "Er stammte aus dem antiken griechischen Königreich Mazedonien.",
      "clueComment": ""
     },
     {
-     "clue": "He conquered the Persian Empire.",
-     "clueComment": "He conquered the Persian Empire. Before the age of 32! What’s your excuse?"
+     "clue": "Er eroberte das Persische Reich.",
+     "clueComment": "Er eroberte das Persische Reich. Bevor er 32 wurde! Was ist deine Ausrede?"
     },
     {
-     "clue": "He was tutored by Aristotle.",
-     "clueComment": "He was tutored by Aristotle. When he was younger he dealt with Play-Doh. (clears throat) Sorry that was bad."
+     "clue": "Er wurde von Aristoteles unterrichtet.",
+     "clueComment": "Er wurde von Aristoteles unterrichtet. Als er jünger war, beschäftigte er sich mit Play-Doh. (räuspert sich) Tut mir leid, das war schlimm."
     },
     {
-     "clue": "He founded the city of Alexandria in Egypt.",
+     "clue": "Er gründete die Stadt Alexandria in Ägypten.",
      "clueComment": ""
     },
     {
-     "clue": "Because of his military victories he earned the epithet “The Great.”",
+     "clue": "Aufgrund seiner militärischen Erfolge erhielt er den Beinamen „Der Große“.",
      "clueComment": ""
     }
    ],
    "followup": null,
    "id": "81432",
    "isValid": "",
-   "prompt": "Which historical leader am I thinking of?",
+   "prompt": "An welchen historischen Anführer denke ich?",
    "reveal": null,
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -554,110 +556,109 @@
    "category": "Geography & Landmarks",
    "clues": [
     {
-     "clue": "It's in South America.",
+     "clue": "Es ist in Südamerika.",
      "clueComment": ""
     },
     {
-     "clue": "It's home to one of the largest lakes in the world: Lake Titicaca.",
-     "clueComment": "It's home to one of the largest lakes in the world: Lake Titicaca. Don't. Just don't."
+     "clue": "Hier befindet sich einer der größten Seen der Welt: der Titicacasee.",
+     "clueComment": "Hier befindet sich einer der größten Seen der Welt: der Titicacasee. Ja, sehr lustig. Haha."
     },
     {
-     "clue": "Machu Picchu is located there.",
-     "clueComment": "Machu Picchu is located there. That’s where one of my cousins lives!"
+     "clue": "Dort befindet sich Machu Picchu.",
+     "clueComment": "Dort befindet sich Machu Picchu. Da wohnt einer meiner Cousins!"
     },
     {
-     "clue": "It’s known to many for its alpaca sweaters.",
+     "clue": "Es ist vielen für seine Alpakapullover bekannt.",
      "clueComment": ""
     },
     {
-     "clue": "Its capital city is Lima.",
+     "clue": "Die Hauptstadt ist Lima.",
      "clueComment": ""
     }
    ],
-   "followup": "It's so hard to keep track! You humans loooove your borders.",
+   "followup": "Es ist so schwer, den Überblick zu behalten! Ihr Menschen liiiiebt eure Grenzen.",
    "id": "81492",
    "isValid": "",
-   "prompt": "What country am I thinking of?",
+   "prompt": "An welches Land denke ich?",
    "reveal": null,
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "altSpellings": [
     "Nessie",
-    "Loch Ness Monster"
+    "Loch Ness Monster",
+    "Loch Ness",
+    "Monster Loch Ness"
    ],
-   "answer": "The Loch Ness Monster",
+   "answer": "Das Loch Ness Monster",
    "category": "Celebrities",
    "clues": [
     {
-     "clue": "She's a bit of a recluse.",
+     "clue": "Sie ist ein bisschen zurückgezogen.",
      "clueComment": ""
     },
     {
-     "clue": "The most famous photo of her was taken in 1934 by a surgeon who later revealed it was fake.",
+     "clue": "Das berühmteste Foto von ihr wurde 1934 von einem Chirurgen aufgenommen, der später herausfand, dass es sich um eine Fälschung handelte.",
      "clueComment": ""
     },
     {
-     "clue": "No one has ever actually seen her. She might not even exist!",
-     "clueComment": "No one has ever actually seen her. She might not even exist! Believe me, I get that all the time myself."
+     "clue": "Niemand hat sie jemals wirklich gesehen. Vielleicht existiert sie gar nicht!",
+     "clueComment": "Niemand hat sie jemals wirklich gesehen. Vielleicht existiert sie gar nicht! Glaubt mir, das höre ich selbst andauernd."
     },
     {
-     "clue": "People think she might look like a plesiosaur.",
+     "clue": "Die Leute denken, sie könnte wie ein Plesiosaurier aussehen.",
      "clueComment": ""
     },
     {
-     "clue": "She lives in a huge lake, but they call it a loch over in Scotland.",
+     "clue": "Sie lebt in einem riesigen See, aber in Schottland nennen sie den See „Loch“.",
      "clueComment": ""
     }
    ],
    "followup": null,
    "id": "81497",
    "isValid": "",
-   "prompt": "Which famous individual am I thinking of?",
+   "prompt": "An welche berühmte Persönlichkeit denke ich?",
    "reveal": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "altSpellings": [
-    "Mediterranean",
-    "Mediteranean",
-    "Medeterranean",
-    "Meditteranean",
-    "The Mediterranean",
-    "Mediterranean Sea"
+    "Mittelmeer",
+    "europäisches Mittelmeer",
+    "das europäische Mittelmeer"
    ],
-   "answer": "The Mediterranean Sea",
+   "answer": "Das Mittelmeer",
    "category": "Geography & Landmarks",
    "clues": [
     {
-     "clue": "It was an important means of trade and cultural exchange for budding civilizations.",
-     "clueComment": "It was an important means of trade and cultural exchange for budding civilizations. Especially for the Egyptians, Mesopotamians and Greeks. Some good folks there."
+     "clue": "Es war ein wichtiger Bestandteil für den Handel- und Kulturaustausch für aufstrebende Zivilisationen.",
+     "clueComment": "Es war ein wichtiger Bestandteil für den Handel- und Kulturaustausch für aufstrebende Zivilisationen. Besonders für die Ägypter, Mesopotamier und Griechen. Ein paar Leute von denen waren echt korrekt."
     },
     {
-     "clue": "In the Bible, it was known as the Great Sea.",
+     "clue": "In der Bibel war es als das Große Meer bekannt.",
      "clueComment": ""
     },
     {
-     "clue": "It borders over 20 different countries.",
+     "clue": "Es grenzt an über 20 verschiedene Länder.",
      "clueComment": ""
     },
     {
-     "clue": "Its biggest islands are Sicily and Sardinia.",
-     "clueComment": "Its biggest islands are Sicily and Sardinia. Italy's got some bragging rights."
+     "clue": "Seine größten Inseln sind Sizilien und Sardinien.",
+     "clueComment": "Seine größten Inseln sind Sizilien und Sardinien. Italien hat einen guten Grund zum Angeben."
     },
     {
-     "clue": "It separates Europe from Africa.",
+     "clue": "Es trennt Europa von Afrika.",
      "clueComment": ""
     }
    ],
    "followup": null,
    "id": "81714",
    "isValid": "",
-   "prompt": "What body of water am I thinking about?",
-   "reveal": "I do love my lonely mountaintop, but what I wouldn’t give to lay my slices on the sands of...",
-   "us": true,
+   "prompt": "An welches Gewässer denke ich?",
+   "reveal": "Ich liebe ja meine einsame Bergspitze, aber was würde ich nicht dafür geben, einmal meine Scheiben einzutauchen in...",
+   "us": false,
    "x": false
   },
   {
@@ -698,40 +699,39 @@
   },
   {
    "altSpellings": [
-    "Icelandish",
     "Islenka",
-    "Icelandic Language"
+    "isländische Sprache"
    ],
-   "answer": "Icelandic",
+   "answer": "isländisch",
    "category": "Language/Words/Grammar",
    "clues": [
     {
-     "clue": "It can be very difficult to learn for English speakers.",
+     "clue": "Für Deutsche-Muttlersprachler kann es ziemlich schwer sein, die Sprache zu lernen.",
      "clueComment": ""
     },
     {
-     "clue": "It belongs to the Germanic branch of languages.",
-     "clueComment": "It belongs to the Germanic branch of languages. But I swear it's really fun and cute and nothing like German. Sorry, that came out the wrong way."
+     "clue": "Es gehört trotzdem zum germanischen Sprachzweig.",
+     "clueComment": "Es gehört trotzdem zum germanischen Sprachzweig. Und es klingt auch echt lustig und süß. Anders als Deutsch. Okay, ich wollte nicht, dass das in die Richtung geht."
     },
     {
-     "clue": "It is the native language of an island in the North Atlantic.",
+     "clue": "Es ist die Muttersprache einer Insel im Nordatlantik.",
      "clueComment": ""
     },
     {
-     "clue": "The land where it is spoken is home to around 30 active volcanoes.",
+     "clue": "Das Land, in dem es gesprochen wird, beherbergt rund 30 aktive Vulkane.",
      "clueComment": ""
     },
     {
-     "clue": "It is the native language of Bjork.",
+     "clue": "Den Leuten dort haben wir LazyTown zu verdanken.",
      "clueComment": ""
     }
    ],
    "followup": null,
    "id": "81852",
    "isValid": "",
-   "prompt": "What is my favorite European language?",
+   "prompt": "Was ist meine europäische Lieblingssprache?",
    "reveal": null,
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -887,82 +887,86 @@
   },
   {
    "altSpellings": [
-    "the liver",
-    "my liver"
+    "die Leber",
+    "meine Leber"
    ],
-   "answer": "Liver",
+   "answer": "Leber",
    "category": "Anatomy",
    "clues": [
     {
-     "clue": "It’s located in your abdomen.",
+     "clue": "Es befindet sich in eurem Bauch.",
      "clueComment": ""
     },
     {
-     "clue": "It is the largest internal organ.",
-     "clueComment": "It is the largest internal organ. It's big! It's bold! It's beautiful!"
+     "clue": "Es ist das größte innere Organ.",
+     "clueComment": "Es ist das größte innere Organ. Es ist groß! Es ist mutig! Es ist wunderschön!"
     },
     {
-     "clue": "It produces bile.",
-     "clueComment": "It produces bile. One of my favorite human juices. I'm telling you, it's underrated!"
+     "clue": "Es produziert Galle.",
+     "clueComment": "Es produziert Galle. Einer meiner Lieblings-Säfte von Menschen. Ich sag's euch, die wird unterschätzt!"
     },
     {
-     "clue": "It also breaks down poisons like drugs and alcohol.",
+     "clue": "Es baut auch Gifte wie Drogen und Alkohol ab.",
      "clueComment": ""
     },
     {
-     "clue": "It's a cute reddish-brown color.",
+     "clue": "Es hat eine süße rotbraune Farbe.",
      "clueComment": ""
     },
     {
-     "clue": "It rhymes with the word “river.”",
+     "clue": "Es reimt sich auf das Wort “Kleber.”",
      "clueComment": ""
     }
    ],
-   "followup": "I just like thinking about them!",
+   "followup": "Ich liebe es einfach, daran zu denken",
    "id": "81916",
    "isValid": "",
-   "prompt": "What is my favorite of your lovely organs?",
+   "prompt": "Welches menschliche Organ finde ich einfach am besten?",
    "reveal": null,
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "altSpellings": [
-    "There’s no crying in baseball",
-    "No crying in baseball",
-    "There is no crying in baseball",
-    "don’t cry in baseball"
+    "Ich bin der König der Welt",
+    "Ich bin der König der Welt!",
+    "der König der Welt",
+    "der König der Welt!",
+    "Ich bin der König von der Welt",
+    "Ich bin König der Welt",
+    "König der Welt",
+    "I'm the King of the world"
    ],
-   "answer": "“There’s no crying in baseball!”",
+   "answer": "“Ich bin der König der Welt!”",
    "category": "Science & Medicine",
    "clues": [
     {
-     "clue": "The quote is shouted.",
+     "clue": "Das Zitat wird geschrien.",
      "clueComment": ""
     },
     {
-     "clue": "It’s from a sports movie.",
-     "clueComment": "It's from a sports movie. Also a WWII movie. And a feminist movie. Just an all around great picture."
+     "clue": "Es kommt in einem wirklich dramatischen Film vor.",
+     "clueComment": "Es kommt in einem wirklich dramatischen Film vor. Heutzutage sind alle Filme dramatisch, wenn am Ende Leute draufgehen."
     },
     {
-     "clue": "The quote is shouted near the dugout of a baseball field.",
+     "clue": "Das Zitat wird auf einem Kreuzfahrtschiff geschrien.",
      "clueComment": ""
     },
     {
-     "clue": "It is delivered by Tom Hanks.",
-     "clueComment": "It is delivered by Tom Hanks. Trying his darndest to be unlikable."
+     "clue": "Es wird gespielt von Leonardo DiCaprio.",
+     "clueComment": "Es wird gespielt von Leonardo DiCaprio. Funfact! Die Szene stand gar nicht im Skript! Aber er hat es großartig gespielt!"
     },
     {
-     "clue": "The movie is [i]A League of Their Own[/i]",
+     "clue": "Der Film heißt [i]Titanic[/i]",
      "clueComment": ""
     }
    ],
-   "followup": "Even if it doesn't make sense. ESPECIALLY if it doesn't make sense.",
+   "followup": "Und das bin ich auch, wenn wir ehrlich sind. Hier oben bin ich der König der Welt.",
    "id": "81920",
    "isValid": "",
-   "prompt": "What is a movie quote I love to repeat?",
+   "prompt": "Welches Filmzitat wiederhole ich gerne immer wieder?",
    "reveal": null,
-   "us": true,
+   "us": false,
    "x": false
   },
   {
