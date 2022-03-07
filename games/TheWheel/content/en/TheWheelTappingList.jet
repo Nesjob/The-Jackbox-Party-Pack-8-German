@@ -1389,55 +1389,55 @@
   {
    "answers": [
     {
-     "text": "[i]The Godfather[/i]"
+     "text": "[i]Wenn Liebe so einfach wäre[/i]"
     },
     {
-     "text": "[i]Midnight Cowboy[/i]"
+     "text": "[i]Die Vorstadtkrokodile[/i]"
     },
     {
-     "text": "[i]Mamma Mia! Here We Go Again[/i]"
+     "text": "[i]Der grosse Kater[/i]"
     },
     {
-     "text": "[i]Lethal Weapon[/i]"
+     "text": "[i]Gegen die Wand[/i]"
     },
     {
-     "text": "[i]The Godfather: Part III[/i]"
+     "text": "[i]Nosferatu – Eine Symphonie des Grauens[/i]"
     },
     {
-     "text": "[i]Serpico[/i]"
+     "text": "[i]Thor – The Dark Kingdom[/i]"
     },
     {
-     "text": "[i]Once Upon a Time in Mexico[/i]"
-    },
-    {
-     "text": "[i]Midnight Express[/i]"
+     "text": "[i]Das Boot[/i]"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "[i]The Godfather: Part II[/i]"
+     "text": "[i]Muppets Most Wanted[/i]"
     },
     {
-     "text": "[i]The Gang That Couldn't Shoot Straight[/i]"
+     "text": "[i]Inglourious Basterds[/i]"
     },
     {
-     "text": "[i]The King of Comedy[/i]"
+     "text": "[i]Keinohrhasen[/i]"
     },
     {
-     "text": "[i]Midnight Run[/i]"
+     "text": "[i]Der bewegte Mann[/i]"
     },
     {
-     "text": "[i]Goodfellas[/i]"
+     "text": "[i]Atomic Blonde[/i]"
     },
     {
-     "text": "[i]Dirty Grandpa[/i]"
+     "text": "[i]Bastard - Willkommen im Paradies[/i]"
+    },
+    {
+     "text": "[i]Vier gegen die Bank[/i]"
     }
    ],
    "id": "76782",
    "isValid": "",
-   "prompt": "Which movies is Robert De Niro NOT in?",
-   "us": true,
+   "prompt": "In welchen dieser Filme spielt Til Schweiger NICHT mit?",
+   "us": false,
    "x": false
   },
   {
@@ -7128,49 +7128,49 @@
   {
    "answers": [
     {
-     "text": "parenthesis"
+     "text": "Mathematik"
     },
     {
-     "text": "exponents"
+     "text": "Informatik"
     },
     {
-     "text": "multiplication"
+     "text": "Naturwissenschaft"
     },
     {
-     "text": "division"
-    },
-    {
-     "text": "addition"
-    },
-    {
-     "text": "subtraction"
+     "text": "Technik"
     }
    ],
-   "category": "Math",
+   "category": "Factoids",
    "decoys": [
     {
-     "text": "parallels"
+     "text": "Talgdrüse"
     },
     {
-     "text": "equation"
+     "text": "Muskel"
     },
     {
-     "text": "mathematical"
+     "text": "Nerv"
     },
     {
-     "text": "dividend"
+     "text": "Ionosphäre"
     },
     {
-     "text": "sanitization"
+     "text": "Ingolstadt"
     },
     {
-     "text": "action"
+     "text": "München"
+    },
+    {
+     "text": "Nürnberg"
+    },
+    {
+     "text": "Tutzing"
     }
    ],
    "id": "78414",
    "isValid": "",
-   "prompt": "What the heck does PEMDAS stand for?",
-   "us": true,
+   "prompt": "Wofür zum Geier steht die Abkürzung “MINT”?",
+   "us": false,
    "x": false
   },
   {
@@ -17844,58 +17844,70 @@
   {
    "answers": [
     {
-     "text": "Andiamo"
+     "text": "Äskulapnatter"
     },
     {
-     "text": "Social Distancing"
+     "text": "Feldhase"
     },
     {
-     "text": "Grace"
+     "text": "Rotwild"
     },
     {
-     "text": "Shenanigans"
+     "text": "Wolf"
     },
     {
-     "text": "Cool Change"
+     "text": "Siebenschläfer"
     },
     {
-     "text": "Island Time"
+     "text": "Braunbär"
     },
     {
-     "text": "Knot On Call"
+     "text": "Seehund"
     },
     {
-     "text": "Mojo"
+     "text": "Elch"
     },
     {
-     "text": "Freedom"
+     "text": "Wisent"
     },
     {
-     "text": "Serenity"
+     "text": "Braunbrustigel"
     }
    ],
-   "category": "Vehicles",
+   "category": "Animals",
    "decoys": [
     {
-     "text": "Titanic"
+     "text": "Europäischer Biber"
     },
     {
-     "text": "Warm Boatmeal"
+     "text": "Bachflohkrebs"
     },
     {
-     "text": "Rudder Madness"
+     "text": "Altdeutscher Schäferhund"
     },
     {
-     "text": "Oar Really??"
+     "text": "Känguru"
     },
     {
-     "text": "Some Like It Yacht"
+     "text": "Yeti"
+    },
+    {
+     "text": "Waschbär"
+    },
+    {
+     "text": "Bluthänfling"
+    },
+    {
+     "text": "Turmfalke"
+    },
+    {
+     "text": "Fischotter"
     }
    ],
    "id": "86014",
    "isValid": "",
-   "prompt": "According to the Boat Owner’s Association of The United States, what were the top ten boat names for the year 2021?",
-   "us": true,
+   "prompt": "Welche dieser Tiere waren deutsche [i]Wildtiere des Jahres[/i] der 2000er Jahre?",
+   "us": false,
    "x": false
   },
   {
@@ -18927,52 +18939,70 @@
   {
    "answers": [
     {
-     "text": "Kris Jenner"
+     "text": "Maria"
     },
     {
-     "text": "Caitlyn Jenner"
+     "text": "Nikolaus"
     },
     {
-     "text": "Kendall Jenner"
+     "text": "Johann"
     },
     {
-     "text": "Kylie Jenner"
+     "text": "Jacob"
     },
     {
-     "text": "Kourtney Kardashian"
+     "text": "Philipp"
     },
     {
-     "text": "Kim Kardashian"
+     "text": "Franz"
     },
     {
-     "text": "Khloe Kardashian"
+     "text": "Joseph"
     },
     {
-     "text": "Rob Kardashian"
-    },
-    {
-     "text": "Scott Disick"
+     "text": "Sylvester"
     }
    ],
    "category": "Celebrities",
    "decoys": [
     {
-     "text": "Kramer Kardashian"
+     "text": "Thomas"
     },
     {
-     "text": "Klementine Jenner"
+     "text": "Jesus"
     },
     {
-     "text": "Karla Jenner"
+     "text": "Barbara"
     },
     {
-     "text": "Kristophe Waltz"
+     "text": "Heinrich"
+    },
+    {
+     "text": "Leopold"
+    },
+    {
+     "text": "Georg"
+    },
+    {
+     "text": "August"
+    },
+    {
+     "text": "Theodor"
+    },
+    {
+     "text": "Ludwig"
+    },
+    {
+     "text": "Martin"
+    },
+    {
+     "text": "Richard"
     }
    ],
    "id": "86461",
    "isValid": "",
-   "prompt": "Which individuals made regular appearances on [i]Keeping Up with the Kardashians[/i]?",
-   "us": true,
+   "prompt": "Welches sind Teile des vollständigen Namens von Karl-Theodor zu Guttenberg?",
+   "us": false,
    "x": false
   },
   {
@@ -19032,67 +19062,67 @@
   {
    "answers": [
     {
-     "text": "ugh"
+     "text": "Seufz"
     },
     {
-     "text": "hey"
+     "text": "Prost"
     },
     {
-     "text": "my god"
+     "text": "Huhu"
     },
     {
-     "text": "ouch"
+     "text": "Wow"
     },
     {
-     "text": "um"
+     "text": "Bäh"
     },
     {
-     "text": "er"
+     "text": "Ähm"
     },
     {
-     "text": "well"
+     "text": "Hm"
     },
     {
-     "text": "rats"
+     "text": "Grins"
     },
     {
-     "text": "aww"
+     "text": "Pst"
     },
     {
-     "text": "darn"
+     "text": "Aha"
     },
     {
-     "text": "crud"
+     "text": "Hallo"
     },
     {
-     "text": "heck"
+     "text": "Husch-Husch"
     },
     {
-     "text": "uh oh"
+     "text": "Tja"
     },
     {
-     "text": "ahh!"
+     "text": "Meine Herren"
     }
    ],
    "category": "Language/Words/Grammar",
    "decoys": [
     {
-     "text": "and"
+     "text": "Und"
     },
     {
-     "text": "you"
+     "text": "Du"
     },
     {
-     "text": "what"
+     "text": "Schnickschnack"
     },
     {
-     "text": "own"
+     "text": "Eichhörnchen"
     }
    ],
    "id": "86464",
    "isValid": "",
-   "prompt": "Which of these are examples of an interjection?",
-   "us": true,
+   "prompt": "Welches sind Beispiele für Interjektionen?",
+   "us": false,
    "x": false
   },
   {
@@ -19740,49 +19770,49 @@
   {
    "answers": [
     {
-     "text": "various ghosts ([i]A Christmas Carol[/i])"
+     "text": "Verschiedenste Geister ([i]Eine Weihnachtsgeschichte[/i])"
     },
     {
-     "text": "time machine (H.G. Wells)"
+     "text": "Zeitmaschine (H.G. Wells)"
     },
     {
-     "text": "the TARDIS ([i]Doctor Who[/i])"
+     "text": "TARDIS ([i]Doctor Who[/i])"
     },
     {
-     "text": "Guardian of Forever ([i]Star Trek[/i])"
+     "text": "Sofa ([i](T)Raumschiff Surprise – Periode 1[/i])"
     },
     {
-     "text": "Delorean ([i]Back to the Future[/i])"
+     "text": "DeLorean ([i]Zurück in die Zukunft[/i])"
     },
     {
-     "text": "phonebooth ([i]Bill & Ted[/i])"
+     "text": "Telefonzelle ([i]Bill & Teds verrückte Reise durch die Zeit[/i])"
     },
     {
-     "text": "a hot tub time machine ([i]Hot Tub Time Machine[/i])"
+     "text": "Whirlpool ([i]Hot Tub – Der Whirlpool … ist ’ne verdammte Zeitmaschine![/i])"
     },
     {
-     "text": "quantum realm ([i]Avengers: Endgame[/i])"
+     "text": "Quantenraum ([i]Avengers: Endgame[/i])"
     },
     {
-     "text": "time turner ([i]Harry Potter[/i])"
+     "text": "Zeitumkehrer ([i]Harry Potter und der Gefangene von Askaban[/i])"
     }
    ],
    "category": "Pop Culture",
    "decoys": [
     {
-     "text": "mugwumps ([i]Naked Lunch[/i])"
+     "text": "Mugwump ([i]Naked Lunch[/i])"
     },
     {
-     "text": "bistromathic drive ([i]Hitchhiker's Guide to the Galaxy[/i])"
+     "text": "Unendliche-Unwahrscheinlichkeits-Antrieb ([i]Per Anhalter durch die Galaxis[/i])"
     },
     {
-     "text": "Planet Terminus ([i]Foundation[/i] trilogy)"
+     "text": "Planet Terminus ([i]Foundation-Zyklus[/i])"
     }
    ],
    "id": "86512",
    "isValid": "",
-   "prompt": "Which of these are actual methods of time travel used in fiction?",
-   "us": true,
+   "prompt": "Welches sind Methoden in der Fiktion, um durch die Zeit zu reisen?",
+   "us": false,
    "x": false
   },
   {
