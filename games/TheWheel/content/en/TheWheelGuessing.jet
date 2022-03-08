@@ -736,42 +736,38 @@
   },
   {
    "altSpellings": [
-    "when in rome",
-    "When in rome do as the romans do",
-    "when in rome do as the romans",
-    "when in rome do what the romans do",
-    "when in rome..."
+    "Übung macht den Meister"
    ],
-   "answer": "“When in Rome...”",
+   "answer": "“Übung macht den Meister”",
    "category": "Language/Words/Grammar",
    "clues": [
     {
-     "clue": "It’s said before the speaker does something uncharacteristic in an unfamiliar place.",
-     "clueComment": "It's said before the speaker does something uncharacteristic in an unfamiliar place. Like jumping into a pool wearing a tux, which is a thing I guess."
-    },
-    {
-     "clue": "It is also the title of a 2010 rom-com starring Kristen Bell.",
-     "clueComment": "It is also the title of a 2010 rom-com starring Kristen Bell. You see that one? I didn't either."
-    },
-    {
-     "clue": "It mentions the capital of Italy.",
-     "clueComment": "It mentions the capital of Italy. Not Milan. That's the fashion capital."
-    },
-    {
-     "clue": "The idiom suggests that one should do what is customary in a particular setting to fit in.",
+     "clue": "Man sagt es zur Aufmunterung, wenn jemand anderes etwas neu erlernt, aber noch Anfangsschwierigkeiten hat.",
      "clueComment": ""
     },
     {
-     "clue": "It ends with “...do as the Romans do.”",
+     "clue": "Edmund Wetter hat ein Buch mit dem gleichen Namen verfasst.",
+     "clueComment": "Edmund Wetter hat ein Buch mit dem gleichen Namen verfasst. Es ist ein Buch zur Übung von Rechtschreibung."
+    },
+    {
+     "clue": "Andere Varianten lauten “Von nichts kommt nichts” oder “Ohne Fleiß keine Preis”.",
+     "clueComment": "Andere Varianten lauten “Von nichts kommt nichts” oder “Ohne Fleiß keine Preis”. Und nur dadurch habe ich es zur Gottheit geschafft."
+    },
+    {
+     "clue": "Es stammt ursprünglich aus dem lateinischen: “Repetitio est mater studiorum” - “Wiederholung ist die Mutter der Studien”.",
+     "clueComment": ""
+    },
+    {
+     "clue": "“Wenn du es noch ganz oft versuchst, klappt es irgendwann bestimmt richtig gut!!”",
      "clueComment": ""
     }
    ],
    "followup": null,
    "id": "81853",
    "isValid": "",
-   "prompt": "What is my favorite idiom?",
+   "prompt": "Was ist mein Lieblings-Sprichwort?",
    "reveal": null,
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -2368,7 +2364,7 @@
    "followup": null,
    "id": "85683",
    "isValid": "",
-   "prompt": "Which life-saving drug makes me proud of humanity?",
+   "prompt": "Welches lebensrettende Medikament macht mich stolz auf die Menschheit?",
    "reveal": null,
    "us": true,
    "x": false
@@ -2382,32 +2378,32 @@
    "category": "Social Media",
    "clues": [
     {
-     "clue": "Look, it ain't Facebook.",
-     "clueComment": "Look, it ain't Facebook. I can only get invited to so many improv shows, you know?"
+     "clue": "Leute, es ist nicht Facebook.",
+     "clueComment": "Leute, es ist nicht Facebook. Oh! Entschuldigt! Meta!"
     },
     {
-     "clue": "It was founded in 2003 and, as of 2021, it has over 740 million members.",
+     "clue": "Sie wurde 2003 gegründet und hatte im Jahr 2021 über 740 Millionen Mitglieder",
      "clueComment": ""
     },
     {
-     "clue": "It's primarily designed for networking.",
+     "clue": "Man benutzt es hauptsächlich, um sich miteinander zu vernetzen.",
      "clueComment": ""
     },
     {
-     "clue": "On this site, users can upload their resumes or CVs to apply for jobs.",
-     "clueComment": "On this site, users can upload their resumes or CVs to apply for jobs. It’s really fascinating how many of you are proficient in Microsoft Word."
+     "clue": "Auf der Seite können die Nutzer ihre Lebensläufe hochladen, um sich auf Stellen zu bewerben.",
+     "clueComment": "Auf der Seite können die Nutzer ihre Lebensläufe hochladen, um sich auf Stellen zu bewerben. Es ist echt beeindruckend, wie viele von euch kompetent im Umgang mit Microsoft Word sind."
     },
     {
-     "clue": "Its name stems from the fact that you can use the site to link up with other people.",
+     "clue": "Der Name beruht auf dem Vorgang, sich bei einem neuen Job einzuklinken.",
      "clueComment": ""
     }
    ],
-   "followup": "I may be immortal, but I'm certainly not going to spend my eternal existence missing out on all the latest trends!",
+   "followup": "Ich bin zwar unsterblich, aber ich werde bestimmt nicht den Rest meines Daseins damit verbringen, die ganzen neuen Trends zu verpassen!",
    "id": "86343",
    "isValid": "",
-   "prompt": "What social media platform do I have to check every day?",
-   "reveal": "Hi! I'd like to add you to my professional network on this mountaintop!",
-   "us": true,
+   "prompt": "Bei welcher Social-Media-Plattform muss ich jeden Tag reinschauen?",
+   "reveal": "Hi! Ich würde euch gerne in mein geschäftliches Netzwerk auf meinen Berggipfel einladen!",
+   "us": false,
    "x": false
   },
   {
@@ -2624,74 +2620,67 @@
    "category": "Music",
    "clues": [
     {
-     "clue": "This hip-hop artist was born in 1999.",
-     "clueComment": "This artist was born in 1999. So, if you don't mind, I'm going to go ahead and crumble into dust."
+     "clue": "Dieser Hip-Hop-Künstler wurde 1999 geboren.",
+     "clueComment": "Dieser Hip-Hop-Künstler wurde 1999 geboren. Also, wenn es euch nichts ausmacht, werde ich einfach weitermachen und zu Staub zerfallen."
     },
     {
-     "clue": "Their legal first name, Montero, is also part of the title of one of their hit songs.",
+     "clue": "Der gesetzliche Vorname des Künstlers lautet Montero ist auch Teil des Titels eines seiner Hits.",
      "clueComment": ""
     },
     {
-     "clue": "This artist is known for multiple remixes of their popular country rap song, including collaborations with Diplo and Billy Ray Cyrus.",
+     "clue": "Dieser Künstler ist bekannt für mehrere Remixe seines beliebten Country-Rap-Songs, darunter waren Kollaborationen mit Diplo und Billy Ray Cyrus.",
      "clueComment": ""
     },
     {
-     "clue": "It's time to go down to the Old Town Road with this “Lil” musician.",
+     "clue": "Kommt mit zur Old Town Road mit diesem Lil' Musiker.",
      "clueComment": ""
     }
    ],
    "followup": "",
    "id": "86355",
    "isValid": "",
-   "prompt": "Which modern musician fuels my spinning workout playlist?",
-   "reveal": "Get your horses and put them in the back. It’s...",
+   "prompt": "Welcher moderne Künstler bringt wieder Leben in meine Workout-Plylist?",
+   "reveal": "Holt euch eure Pferde und stellt sie hinten an. Es ist...",
    "us": true,
    "x": false
   },
   {
    "altSpellings": [
-    "jazz dab",
-    "jazz spot",
-    "jazz dot",
-    "small beard",
-    "mouche",
-    "flavor savor",
-    "dork tuft",
-    "shizmash",
-    "Nollsey",
-    "beard patch",
-    "jazz patch"
+    "Schnurrbart",
+    "Schnauzer",
+    "Schnauzbart",
+    "Schnäuzer"
    ],
-   "answer": "Soul Patch",
+   "answer": "Oberlippenbart",
    "category": "Fashion",
    "clues": [
     {
-     "clue": "It's not makeup. In fact, it grows naturally from the face, if one so wishes.",
+     "clue": "Es ist kein Make-up. Genau genommen wächst es auf natürliche Weise im Gesicht, wenn man so will.",
      "clueComment": ""
     },
     {
-     "clue": "Okay, it's made of hair if you haven't guessed. It may accompany other hairy facial parts, or it may fly solo.",
+     "clue": "Okay, es besteht aus Haaren, falls ihr es noch nicht wusstet.",
      "clueComment": ""
     },
     {
-     "clue": "For a time, it was associated with beatniks and jazz.",
+     "clue": "In den 70ern und frühen 80ern hatte er seine Hochphase.",
      "clueComment": ""
     },
     {
-     "clue": "The great Frank Zappa sported a big, beautiful, black one paired with an equally bold moustache.",
+     "clue": "Was wäre Rhett Butler nur ohne gewesen?!",
      "clueComment": ""
     },
     {
-     "clue": "It sprouts in a soulful clump below the lower lip.",
+     "clue": "Charlie Chaplin hatte ihn auch! Böse Zungen sagen, damit sieht er aus wie ein deutscher Diktator.",
      "clueComment": ""
     }
    ],
    "followup": null,
    "id": "86357",
    "isValid": "",
-   "prompt": "What highly specific facial adornment do I find appealing on certain people?",
-   "reveal": "You may know it as the jazz dab, the small beard, the mouche, the flavor savor or even the dork tuft. But I just call it...",
-   "us": true,
+   "prompt": "Welche Gesichtsverziehrung finde ich an bestimmten Menschen höchst ansprechend?",
+   "reveal": "Ihr kennt ihn als Moustache, Dali, Schnauzer, Chaplin, Walross, Fu Manchu, aber ich sage einfach...",
+   "us": false,
    "x": false
   },
   {
@@ -2735,106 +2724,109 @@
   },
   {
    "altSpellings": [
-    "Rodney",
-    "Rod Dangerfield",
-    "Dangerfield"
+    "Luke",
+    "Mockridge",
+    "Luke Mockridsch",
+    "Luke Mogridge",
+    "Luke Mockritsch"
    ],
-   "answer": "Rodney Dangerfield",
+   "answer": "Luke Mockridge",
    "category": "Celebrities",
    "clues": [
     {
-     "clue": "Note the word “had.” This comic has unfortunately passed on to the Laugh Factory in the sky.",
+     "clue": "Er studierte in Kanada, und hat dort schon im Bühnenprogramm des High School Musicals aufgetreten.",
      "clueComment": ""
     },
     {
-     "clue": "This comic started comedy as a teenager, took a break to be a traveling salesman, but returned to the scene in the 1960s.",
+     "clue": "Seit seiner ersten Tour durch Deutschland war er regelmäßig zu Gast in deutschen Fernsehsendungen.",
      "clueComment": ""
     },
     {
-     "clue": "During the peak of his career, he starred in films like [i]Caddyshack[/i] and [i]Back to School[/i].",
+     "clue": "Von 2013 bis 2016 hat er die Sendung NightWash moderiert!",
      "clueComment": ""
     },
     {
-     "clue": "He's known for his catchphrase alluding to the lack of respect he garners from family, friends, and the world at large.",
-     "clueComment": ""
+        "clue": "Er wurde in Bonn geboren, hat aber auch die italienische und kanadische Staatsangehörigkeit.",
+        "clueComment": ""
     },
     {
-     "clue": "Comedy IS a rather dangerous field you know. Danger. Field.",
+     "clue": "In seinem Programm redet er viel über seine Kindheit in den Neunzigern.",
      "clueComment": ""
     }
    ],
    "followup": null,
    "id": "86444",
    "isValid": "",
-   "prompt": "Which stand-up comic had me rolling in the aisles?",
-   "reveal": "He has MY respect...",
-   "us": true,
+   "prompt": "Welcher Comedian schafft es immer, mich zum lachen zu bringen?",
+   "reveal": "Das Rad! Die Woche und ich präsentiert...",
+   "us": false,
    "x": false
   },
   {
    "altSpellings": [
-    "the guillotine",
-    "guilotine",
-    "gillotine"
+    "die Guillotine",
+    "Guilotine",
+    "Gillotine",
+    "Fallbeil"
    ],
-   "answer": "guillotine",
+   "answer": "Guillotine",
    "category": "Technology",
    "clues": [
     {
-     "clue": "Invented in the late 1700s, this device was named after a French physician.",
+     "clue": "Dieses im späten 17. Jahrhundert erfundene Gerät wurde nach einem französischen Arzt benannt.",
      "clueComment": ""
     },
     {
-     "clue": "Objectionable by modern standards, it was actually intended to be a more humane way to perform a particular procedure.",
+     "clue": "Nach modernen Maßstäben zufolge, sollte es eigentlich eine humanere Art sein, ein bestimmtes Verfahren durchzuführen.",
      "clueComment": ""
     },
     {
-     "clue": "It was used thousands of times over during the “Reign of Terror.”",
+     "clue": "Es wurde während der „Terrorherrschaft“ tausendfach verwendet.",
      "clueComment": ""
     },
     {
-     "clue": "Necessary components include two posts, heavy counterweights, and an angled blade.",
-     "clueComment": "Necessary components include two posts, heavy counterweights, and an angled blade. Do not build this at home!"
+     "clue": "Zu den notwendigen Komponenten gehören zwei Pfosten, schwere Gegengewichte und ein abgewinkeltes Beil.",
+     "clueComment": "Zu den notwendigen Komponenten gehören zwei Pfosten, schwere Gegengewichte und ein abgewinkeltes Beil. Nicht zuhause nachmachen!"
     },
     {
-     "clue": "It was designed for executions as an improvement to the axe and the sword.",
+     "clue": "Es wurde für Hinrichtungen als Verbesserung der Axt und des Schwertes entwickelt.",
      "clueComment": ""
     }
    ],
    "followup": null,
    "id": "86508",
    "isValid": "",
-   "prompt": "Which historical item creeps me out a little?",
-   "reveal": "I'm not the only thing that's going to roll around here...",
-   "us": true,
+   "prompt": "Welches historische Gerät macht mir ein wenig Angst?",
+   "reveal": "Ich bin danach nicht das einzige, das hier rumrollen wird...",
+   "us": false,
    "x": true
   },
   {
    "altSpellings": [
-    "Tapping",
-    "Tap",
-    "Tapdance",
-    "Tapdancing",
-    "tap dance"
+    "Stepp Tanz",
+    "Stepptanzen",
+    "Steppen",
+    "Stepp",
+    "Stepp tanzen"
    ],
-   "answer": "Tap Dancing",
+   "answer": "Stepptanz",
    "category": "Theatre/Performing Arts",
    "clues": [
     {
-     "clue": "Famous dancers in this style include Bill Robinson, Savion Glover, and Gregory Hines.",
+     "clue": "Berühmte Tänzer in diesem Stil sind unter anderem Fred Astaire, Vera-Ellen, und Michael Flatley.",
      "clueComment": ""
     },
     {
-     "clue": "This art form developed in America as a fusion of West African percussive dance forms and European clogging dance styles.",
+     "clue": "Diese Kunstform entwickelte sich in Amerika als Fusion westafrikanischer perkussiver Tanzformen und europäischer Tanzstile.",
      "clueComment": ""
     },
     {
-     "clue": "Common steps in this genre include “shuffle,” “ball change,” and “buffalo.”",
+     "clue": "Übliche Schritte in diesem Stil sind „Shuffle“, „Ball Change“ und „Brush“.",
      "clueComment": ""
     },
     {
-     "clue": "The key to this is shoes outfitted with plates at the heel and toe used to create beats and rhythms.",
-     "clueComment": ""
+     "clue": "Das Wichtigste sind im Prinzip je zwei Metallplatten vorne und hinten an den Schuhen, um beim Tanzen rhythmische Klänge zu erzeugen.",
+     "clueComment": "Das Wichtigste sind im Prinzip je zwei Metallplatten vorne und hinten an den Schuhen, um beim Tanzen rhythmische Klänge zu erzeugen. Dabei wird der Tänzer selbst zum Musiker!"
     }
    ],
    "followup": null,
@@ -2842,7 +2834,7 @@
    "isValid": "",
    "prompt": "Which type of dance makes me wiggle my hypothetical toes?",
    "reveal": null,
-   "us": true,
+   "us": false,
    "x": false
   }
  ]
