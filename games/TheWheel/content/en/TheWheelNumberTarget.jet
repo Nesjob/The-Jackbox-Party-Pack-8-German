@@ -247,7 +247,7 @@
    "prompt": "Ab welcher Temparatur verdampft ein Diamant?",
    "unit": "(Siedepunkt in Grad Celsius)",
    "us": false,
-   "value": "4830",
+   "value": "4827",
    "x": false
   },
   {
@@ -347,7 +347,7 @@
    "prompt": "Wie lange würde man brauchen, um alle drei [i]Herr der Ringe[/i] Filme in der Extended Edition zu schauen?",
    "unit": "(in Minuten)",
    "us": false,
-   "value": "695",
+   "value": "681",
    "x": false
   },
   {
@@ -407,7 +407,7 @@
    "prompt": "Wie viele Folgen hatte die originale [i]Raumschiff Enterprise[/i] Serie?",
    "unit": "",
    "us": false,
-   "value": "80",
+   "value": "79",
    "x": false
   },
   {
@@ -594,7 +594,7 @@
    "category": "Film & TV",
    "id": "78066",
    "isValid": "",
-   "prompt": "Wie alt ist Ash Ketchum im Anime [i]Pokémon[/i]?",
+   "prompt": "Wie alt ist Ash Ketchum im [i]Pokémon[/i]?",
    "unit": "(in Jahren)",
    "us": false,
    "value": "10",
@@ -606,7 +606,7 @@
    "isValid": "",
    "prompt": "Wie groß ist die größte Giraffe der Welt? (laut [i]Guinness World Records[/i])",
    "unit": "(in Zentimetern)",
-   "us": true,
+   "us": false,
    "value": "570",
    "x": false
   },
