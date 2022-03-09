@@ -2712,7 +2712,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Kinozeit! Ich habe die Ticket, schnapp du dir deinen liebsten Snack!",
+   "question": "Kinozeit! Ich habe die Tickets, schnapp du dir deinen liebsten Snack!",
    "questionShort": "Kinosnack",
    "round": "first",
    "us": false,
@@ -2824,11 +2824,10 @@
     "hart gekocht",
     "weich gekocht",
     "gerührt",
-    "Omelet",
+    "Omelett",
     "Spiegelei",
     "Senfeier",
     "Eiersalat",
-    "weich gekocht",
     "super hart gekocht",
     "roh",
     "pochiert",
@@ -2856,7 +2855,6 @@
     "Chop Suey",
     "Chicken Wings",
     "Reis",
-    "Chow Mein",
     "Reisnudeln",
     "Teigtaschen"
    ],
@@ -2877,8 +2875,6 @@
     "Cola Zero",
     "Fanta",
     "Sprite",
-    "Root Beer",
-    "Dr. Pepper",
     "Kirsch Cola",
     "Eistee",
     "Limonade",
@@ -3000,9 +2996,9 @@
     "spielt Gitarre",
     "Sexy Vampir (Film)",
     "Sexy Vampire (Serie)",
-    "vager Influencer",
+    "durchschnittlicher Influencer",
     "Tatsächlich talentiert!",
-    "Hat einen Explosionschannel auf YouTube"
+    "Hat einen krassen Channel auf YouTube"
    ],
    "id": "78370",
    "intro": null,
@@ -3019,7 +3015,7 @@
    "choices": [
     "\"Oh, wow.\"",
     "\"Wie nett!\"",
-    "\"Shhhhhh.\"",
+    "\"Schhhhhh.\"",
     "\"Wie war nochmal dein Name?\"",
     "\"Schon cringe.\"",
     "\"Oof.\"",
@@ -3039,14 +3035,14 @@
   {
    "category": "hypothetical",
    "choices": [
-    "Wird zu einem Monster",
+    "Wirst zu einem Monster",
     "Schläft für 100 Jahre",
     "Nase wächst, wenn du lügst",
     "Alles was du anfässt wird zu Gold",
     "Ein Frosch bis du geküsst wirst",
     "Gefühle müssen gesungen werden",
     "dein Spiegel beleidigt dich täglich",
-    "lebt in einem großen Schuh"
+    "lebst in einem großen Schuh"
    ],
    "id": "78398",
    "intro": "Was eine verflucht gute Frage!",
