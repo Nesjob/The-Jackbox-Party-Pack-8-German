@@ -60,7 +60,8 @@
                 },
                 {
                     "altSpellings": [
-                        "indische Republik"
+                        "Indische Republik",
+                        "Republik Indien"
                     ],
                     "hint": "",
                     "text": "Indien"
@@ -90,7 +91,8 @@
                         "Pastetchen",
                         "Hamburger",
                         "Rindfleisch",
-                        "gegrilltes Fleisch"
+                        "gegrilltes Fleisch",
+                        "Patty"
                     ],
                     "hint": "",
                     "text": "Fleisch"
@@ -125,7 +127,11 @@
                 {
                     "altSpellings": [
                         "Gürkchen",
-                        "Gurke"
+                        "Gurke",
+                        "saure Gurke",
+                        "saure Gurken",
+                        "Gewürzgurke",
+                        "Gewürzgurken"
                     ],
                     "hint": "",
                     "text": "Gurken"
@@ -145,7 +151,11 @@
                         "Brötchen",
                         "Sesamkörner",
                         "Brot",
-                        "Sesam Brötchen"
+                        "Sesam Brötchen",
+                        "Burgerbrötchen",
+                        "Burger Brötchen",
+                        "Bun",
+                        "Buns"
                     ],
                     "hint": "Eine Sache fehlt noch, die unbedingt oben drauf muss!",
                     "text": "Sesambrötchen"
@@ -166,7 +176,8 @@
                     "altSpellings": [
                         "Silvester",
                         "Sylvester",
-                        "Neu Jahr"
+                        "Neu Jahr",
+                        "Neujahrstag"
                     ],
                     "hint": "",
                     "text": "Neujahr"
@@ -183,7 +194,8 @@
                     "altSpellings": [
                         "Tag der Frauen",
                         "Tag der Frau",
-                        "Frauentag"
+                        "Frauentag",
+                        "Weltfrauentag"
                     ],
                     "hint": "",
                     "text": "Internationaler Frauentag"
@@ -205,7 +217,8 @@
                 },
                 {
                     "altSpellings": [
-                        "Arbeitstag"
+                        "Arbeitstag",
+                        "Maifeiertag"
                     ],
                     "hint": "An euren Leistungen könnt ihr noch etwas ARBEITEN, denke ich.",
                     "text": "Tag der Arbeit"
@@ -228,10 +241,11 @@
                 },
                 {
                     "altSpellings": [
-                        "Frohnleichnamsfest"
+                        "Fronleichnamsfest",
+                        "Frohnleichnam"
                     ],
                     "hint": "",
-                    "text": "Frohnleichnam"
+                    "text": "Fronleichnam"
                 },
                 {
                     "altSpellings": [
@@ -243,7 +257,9 @@
                 },
                 {
                     "altSpellings": [
-                        "Kindertag"
+                        "Kindertag",
+                        "Tag des Kindes",
+                        "Internationaler Kindertag"
                     ],
                     "hint": "Denkt doch einer mal an die KINDER!",
                     "text": "Weltkindertag"
@@ -252,6 +268,7 @@
                     "altSpellings": [
                         "Deutsche Einheit",
                         "Vereinigungs Tag",
+                        "Vereinigungstag",
                         "Tag der Einheit",
                         "Wiedervereinigung"
                     ],
@@ -560,36 +577,48 @@
         {
             "answers": [
                 {
+                    "altSpellings": [],
                     "text": "Cadmium"
                 },
                 {
+                    "altSpellings": [
+                        "Cäsium"
+                    ],
                     "text": "Caesium"
                 },
                 {
+                    "altSpellings": [],
                     "hint": "Heißer Tipp: Eins ist ein Bestandteil von einem leckeren Glas Milch!",
                     "text": "Calcium"
                 },
                 {
+                    "altSpellings": [],
                     "text": "Californium"
                 },
                 {
+                    "altSpellings": [],
                     "text": "Cer"
                 },
                 {
+                    "altSpellings": [],
                     "hint": "Hmm... wie heißt nochmal das Zeug, das die in Schwimmbecken reinmachen?",
                     "text": "Chlor"
                 },
                 {
+                    "altSpellings": [],
                     "hint": "Eines klingt wie mein Lieblings-Internetbrowser...",
                     "text": "Chrom"
                 },
                 {
+                    "altSpellings": [],
                     "text": "Cobalt"
                 },
                 {
+                    "altSpellings": [],
                     "text": "Copernicium"
                 },
                 {
+                    "altSpellings": [],
                     "text": "Curium"
                 }
             ],
@@ -747,6 +776,7 @@
                     "text": "Brotmesser"
                 },
                 {
+                    "altSpellings": [],
                     "hint": "Euren Antworten fehlt es an Löchern!",
                     "text": "Sieb"
                 },
@@ -766,6 +796,7 @@
                 },
                 {
                     "altSpellings": [
+                        "Pizzaschneider",
                         "Pizza Schneider",
                         "Pizzamesser",
                         "Schneiderad",
@@ -932,98 +963,159 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "syrah"
+                        "Republik Madagaskar",
+                        "Madagascar"
                     ],
-                    "text": "Shiraz"
+                    "hint": "Bei einem handelt es sich immerhin um den flächenmäßig zweitgrößten Inselstaat der Welt.",
+                    "text": "Madagaskar"
                 },
                 {
                     "altSpellings": [
-                        "cabernet sauvignon",
-                        "cab"
+                        "Republik Malawi",
+                        "Malavi",
+                        "Malafi"
                     ],
-                    "hint": "Allow me to help. What's another word for a taxi?",
-                    "text": "Cabernet"
+                    "hint": "",
+                    "text": "Malawi"
                 },
                 {
                     "altSpellings": [
-                        "Bordeaux wine"
+                        "Malaysien",
+                        "Malaisia",
+                        "Malaisien"
                     ],
-                    "hint": "THIS one comes from a very specific region in France.",
-                    "text": "Bordeaux"
+                    "hint": "Die Hauptstadt dieses Landes ist Kuala Lumpur.",
+                    "text": "Malaysia"
                 },
                 {
                     "altSpellings": [
-                        "Malbeck"
+                        "Republik Malediven",
+                        "Malediwen",
+                        "Maledifen"
                     ],
-                    "text": "Malbec"
+                    "text": "Malediven"
                 },
                 {
                     "altSpellings": [
-                        "Nebyolo",
-                        "Nebolo",
-                        "Nebbyolo"
+                        "Republik Mali",
+                        "Mahli"
                     ],
-                    "hint": "There's that one that starts with an \"N.\"",
-                    "text": "Nebbiolo"
+                    "hint": "",
+                    "text": "Mali"
                 },
                 {
                     "altSpellings": [
-                        "Tempranila",
-                        "Tempraniyo"
+                        "Republik Malta"
                     ],
-                    "text": "Tempranillo"
+                    "hint": "Wie hieß noch gleich dieser eine Inselstaat im Mittelmeer?",
+                    "text": "Malta"
                 },
                 {
                     "altSpellings": [
-                        "Montapulchiano"
+                        "Maroko",
+                        "Marocco",
+                        "Maroco",
+                        "Königreich Marokko"
                     ],
-                    "hint": "Don't forget that long one that starts with an \"M.\"",
-                    "text": "Montepulciano"
+                    "hint": "",
+                    "text": "Marokko"
                 },
                 {
                     "altSpellings": [
-                        "Merlow",
-                        "Murlow"
+                        "Marschallinseln",
+                        "Marshall Inseln",
+                        "Marschall Inseln",
+                        "Republik Marshallinseln",
+                        "Marschalinseln",
+                        "Marshalinseln"
                     ],
-                    "hint": "Of course there's the wine that everyone who doesn't drink wine says is their favorite. Does that help?",
-                    "text": "Merlot"
+                    "hint": "Wie viele Menschen leben in diesem Inselstaat? 59.000?! Also da hat man sicher seine Ruhe...",
+                    "text": "Marshallinseln"
                 },
                 {
                     "altSpellings": [
-                        "Peno Noir",
-                        "Pino Noir"
+                        "Islamische Republik Mauretanien",
+                        "Republik Mauretanien",
+                        "Mauredanien"
                     ],
-                    "text": "Pinot Noir"
+                    "text": "Mauretanien"
                 },
                 {
                     "altSpellings": [
-                        "Kianti",
-                        "Keyanti"
+                        "Republik Mauritius",
+                        "Maurizius",
+                        "Mauritsius"
                     ],
-                    "text": "Chianti"
+                    "text": "Mauritius"
                 },
                 {
                     "altSpellings": [
-                        "Barolo wine"
+                        "Mexico",
+                        "Vereinigte Mexikanische Staaten"
                     ],
-                    "text": "Barolo"
+                    "text": "Mexiko"
                 },
                 {
                     "altSpellings": [
-                        "primitivo",
-                        "zinfundell"
+                        "Föderierte Staaten von Mikronesien",
+                        "Micronesien",
+                        "Migronesien"
                     ],
-                    "hint": "What's that one that starts with a Z?",
-                    "text": "Zinfandel"
+                    "hint": "",
+                    "text": "Mikronesien"
+                },
+                {
+                    "altSpellings": [
+                        "Moldova",
+                        "Republik Moldau",
+                        "Republik Moldova",
+                        "Moldawien"
+                    ],
+                    "text": "Moldau"
+                },
+                {
+                    "altSpellings": [
+                        "Monako",
+                        "Fürstentum Monaco"
+                    ],
+                    "hint": "Dieser europäische Stadtstaat ist für sein Casino bekannt. Und sonst für gar nichts.",
+                    "text": "Monaco"
+                },
+                {
+                    "altSpellings": [
+                        "Mongolischer Staat",
+                        "Mongolen"
+                    ],
+                    "text": "Mongolei"
+                },
+                {
+                    "altSpellings": [],
+                    "text": "Montenegro"
+                },
+                {
+                    "altSpellings": [
+                        "Mosambic",
+                        "Republik Mosambik"
+                    ],
+                    "text": "Mosambik"
+                },
+                {
+                    "altSpellings": [
+                        "Burma",
+                        "Republik der Union Myanmar",
+                        "Mianmar",
+                        "Birma"
+                    ],
+                    "text": "Myanmar"
                 }
             ],
-            "category": "Food & Drink",
+            "category": "Geography & Landmarks",
             "exactSpelling": false,
             "id": "77201",
             "isValid": "",
-            "prompt": "My 12 Preferred Red Wines for When I Need to... Unwind",
-            "subtype": "subjective",
-            "us": true,
+            "prompt": "Die Namen welcher Länder starten mit dem Buchstaben “M”?",
+            "subtype": "name",
+            "us": false,
             "x": false
         },
         {
@@ -1034,8 +1126,8 @@
                         "Schoko Eis",
                         "Schoko Eiscreme",
                         "Schokoladen Eis",
-                        "Schokoladen Eiscreme"
-                        
+                        "Schokoladen Eiscreme",
+                        "Schokoladen"
                     ],
                     "hint": "(genervt) Okay, ich buchstabiere es einfach für euch: Schokolade! Es ist so offensichtlich, tippt einfach Schokolade ein!",
                     "text": "Schokolade"
@@ -1045,7 +1137,8 @@
                         "Vanille Eis",
                         "Vanille Eiscreme",
                         "Vanile Eis",
-                        "Vanile Eiscreme"
+                        "Vanile Eiscreme",
+                        "Vanile"
                     ],
                     "hint": "Einige würden sagen, dass es der langweiligste Geschmack ist.",
                     "text": "Vanille"
@@ -1064,7 +1157,9 @@
                     "altSpellings": [
                         "Joghurt Eis",
                         "Joghurt Eiscreme",
-                        "Jogurt Eis"
+                        "Jogurt Eis",
+                        "Yoghurt",
+                        "Yogurt"
                     ],
                     "text": "Joghurt"
                 },
@@ -1084,7 +1179,9 @@
                     "altSpellings": [
                         "Zitronen",
                         "Zitronen Eis",
-                        "Zitronen Eiscreme"
+                        "Zitronen Eiscreme",
+                        "Limone",
+                        "Limonen"
                     ],
                     "text": "Zitrone"
                 },
@@ -1111,7 +1208,9 @@
                         "Kekse",
                         "Keksteig",
                         "Keks Eis",
-                        "Keks Eiscreme"
+                        "Keks Eiscreme",
+                        "Keks",
+                        "Cookie"
                     ],
                     "text": "Cookies"
                 },
@@ -1123,7 +1222,9 @@
                         "Stracciatella Eis",
                         "Stracciatella Eiscreme",
                         "Straciatela Eis",
-                        "Straciatela Eiscreme"
+                        "Straciatela Eiscreme",
+                        "Straziatella",
+                        "Straciatella"
                     ],
                     "hint": "Einfach, aber elegant. Ich mag die Schokostücke am liebsten.",
                     "text": "Stracciatella"
@@ -1132,7 +1233,8 @@
                     "altSpellings": [
                         "Pistazien Eis",
                         "Pistazien Eiscreme",
-                        "Pistazieneis"
+                        "Pistazieneis",
+                        "Pistazien"
                     ],
                     "hint": "Eine meiner liebsten Sorten hat eine grüne Färbung und ein nussiges Aroma.",
                     "text": "Pistazie"
@@ -1479,7 +1581,9 @@
             "answers": [
                 {
                     "altSpellings": [
-                        "Floete"
+                        "Floete",
+                        "Altflöte",
+                        "Bassflöte"
                     ],
                     "hint": "",
                     "text": "Flöte"
@@ -1498,7 +1602,11 @@
                     "text": "Piccoloflöte"
                 },
                 {
-                    "altSpellings": [],
+                    "altSpellings": [
+                        "Hoboe",
+                        "Bass-Oboe",
+                        "Oboe d'amore"
+                    ],
                     "hint": "",
                     "text": "Oboe"
                 },
@@ -1514,7 +1622,7 @@
                     "altSpellings": [
                         "Klarinete",
                         "B-Klarinette",
-                        "B KLarinette",
+                        "B Klarinette",
                         "Bassklarinette",
                         "Bass Klarinette",
                         "A-Klarinette",
@@ -2025,7 +2133,8 @@
                         "Falsches Filet",
                         "Falsch Filet",
                         "Falsche Lende",
-                        "Mittelbug"
+                        "Mittelbug",
+                        "Blatt"
                     ],
                     "hint": "Oft stellen mir Menschen die Frage: “Kann ein FILET FALSCH sein?”. Die Antwort ist ja, natürlich kann es das! ",
                     "text": "Schulter"
@@ -2220,7 +2329,7 @@
                     "altSpellings": [
                         "Super Mario"
                     ],
-                    "hint": "It's a me! Ihr wisst schon, der dessen Name im Titel steht?",
+                    "hint": "It's a me! Ihr wisst schon, der, dessen Name im Titel steht?",
                     "text": "Mario"
                 },
                 {
@@ -2241,7 +2350,7 @@
                         "Peach",
                         "Prinzessin Toadstool"
                     ],
-                    "hint": "War da nicht noch jemand Royales dabei? Irgendeine Königin, war es ein Prinz?",
+                    "hint": "War da nicht noch jemand royales dabei? Irgendeine Königin, war es ein Prinz?",
                     "text": "Prinzessin Peach"
                 },
                 {
@@ -2269,7 +2378,7 @@
                 },
                 {
                     "altSpellings": [],
-                    "hint": "Ein Dinosaurier der auf Kommando Eier legen kann! Ich weiß, dass ihr wisst wen ich meine.",
+                    "hint": "Ein Dinosaurier, der auf Kommando Eier legen kann! Ich weiß, dass ihr wisst, wen ich meine.",
                     "text": "Yoshi"
                 }
             ],
@@ -2289,7 +2398,9 @@
                         "Discounter",
                         "Einkaufsladen",
                         "Super Markt",
-                        "Markt"
+                        "Markt",
+                        "Im Supermarkt",
+                        "Im Discounter"
                     ],
                     "hint": "Was soll Matthias Schweighöfer denn mit all seinem Geld anfangen?",
                     "text": "Supermarkt"
@@ -2300,7 +2411,9 @@
                         "Arzt Praxis",
                         "Praxis",
                         "beim Arzt",
-                        "Arzt"
+                        "Arzt",
+                        "In der Arztpraxis",
+                        "Beim Doktor"
                    ],
                     "hint": "",
                     "text": "Arztpraxis"
@@ -2311,7 +2424,7 @@
                         "Autowerkstatt",
                         "Mechaniker",
                         "Die Werkstatt",
-                        "in der Werkstatt"
+                        "In der Werkstatt"
                     ],
                     "hint": "",
                     "text": "Werkstatt"
@@ -2331,7 +2444,8 @@
                     "altSpellings": [
                         "die Bücherei",
                         "Bibliothek",
-                        "In der Bücherei"
+                        "In der Bücherei",
+                        "In der Bibliothek"
                     ],
                     "hint": "",
                     "text": "Bücherei"
@@ -2379,7 +2493,8 @@
                 {
                     "altSpellings": [
                         "das Schlafzimmer",
-                        "Schlafzimmer"
+                        "Schlaf Zimmer",
+                        "im Schlafzimmer"
                     ],
                     "hint": "",
                     "text": "Schlafzimmer"
@@ -2390,14 +2505,17 @@
                         "Bade Zimmer",
                         "Toilette",
                         "WC",
-                        "das Bad"
+                        "das Bad",
+                        "im Bad",
+                        "im Badezimmer"
                     ],
                     "hint": "",
                     "text": "Bad"
                 },
                 {
                     "altSpellings": [
-                        "die Küche"
+                        "die Küche",
+                        "in der Küche"
                     ],
                     "hint": "“Die einzige Sache, die hier kocht, bin ich, und zwar vor Wut wegen der hohen Stromrechnung!”",
                     "text": "Küche"
@@ -2408,7 +2526,8 @@
                         "Wohn Raum",
                         "Wohn Zimmer",
                         "das Wohnzimmer",
-                        "Salon"
+                        "Salon",
+                        "im Wohnzimmer"
                     ],
                     "hint": "",
                     "text": "Wohnzimmer"
@@ -2418,7 +2537,9 @@
                         "Speisesaal",
                         "Speiseraum",
                         "Ess Zimmer",
-                        "das Esszimmer"
+                        "das Esszimmer",
+                        "im Esszimmer",
+                        "im Speisesaal"
                     ],
                     "hint": "",
                     "text": "Esszimmer"
@@ -2426,7 +2547,9 @@
                 {
                     "altSpellings": [
                         "die Garage",
-                        "Abstellkammer"
+                        "Abstellkammer",
+                        "in der Garage",
+                        "in der Abstellkammer"
                     ],
                     "hint": "“Für wen ist denn die ganze Festtagsbeleuchtung hier? Für die Spinnen?”",
                     "text": "Garage"
@@ -2436,9 +2559,11 @@
                         "das Arbeitszimmer",
                         "Büro",
                         "das Büro",
-                        "Office"
+                        "Office",
+                        "im Büro",
+                        "im Arbeitszimmer"
                     ],
-                    "hint": "“Ach, wenn ich schon hier bin, kann ich auch gleich noch das Wlan ausschalten.”",
+                    "hint": "“Ach, wenn ich schon hier bin, kann ich auch gleich noch das WLAN ausschalten.”",
                     "text": "Arbeitszimmer"
                 },
                 {
@@ -2447,7 +2572,8 @@
                         "Wickelraum",
                         "Spielzimmer",
                         "Jugendraum",
-                        "das Kinderzimmer"
+                        "das Kinderzimmer",
+                        "im Kinderzimmer"
                     ],
                     "hint": "“Es ist nie zu früh im Leben eines Babys für Lektionen in Sparsamkeit!”",
                     "text": "Kinderzimmer"
@@ -2458,7 +2584,8 @@
                         "Diele",
                         "Gang",
                         "Korridor",
-                        "Hausflur"
+                        "Hausflur",
+                        "im Flur"
                     ],
                     "hint": "",
                     "text": "Flur"
@@ -2482,6 +2609,7 @@
                         "Dorito Chips",
                         "Nachos",
                         "Nacho",
+                        "Nacho-Chips",
                         "Tortilla-Chips",
                         "Tortilla Chips",
                         "Tortillas"
@@ -2516,7 +2644,7 @@
                     "altSpellings": [
                         "Banane"
                     ],
-                    "hint": "Schonmal versucht eine ohne Hände zu schälen? Tja, so sieht mein Alltag aus.",
+                    "hint": "Schonmal versucht eine davon ohne Hände zu schälen? Tja, so sieht mein Alltag aus.",
                     "text": "Bananen"
                 },
                 {
@@ -2546,7 +2674,8 @@
                         "Kekse",
                         "Schokokekse",
                         "Schoko Keks",
-                        "Keks"
+                        "Keks",
+                        "American Cookies"
                     ],
                     "hint": "",
                     "text": "Cookies"
@@ -2586,7 +2715,10 @@
                         "Prahlen",
                         "Selbstverherrlichung",
                         "Arroganz",
-                        "Egoismus"
+                        "Egoismus",
+                        "Superbia",
+                        "Eitelkeit",
+                        "Übermut"
                     ],
                     "hint": "Bist du egoistisch oder arrogant? Ganz eindeutig, du bist ein Sünder.",
                     "text": "Hochmut"
@@ -2598,7 +2730,8 @@
                         "Habsucht",
                         "Geizigkeit",
                         "Gierigkeit",
-                        "Geiz"
+                        "Geiz",
+                        "Avaritia"
                     ],
                     "hint": "",
                     "text": "Habgier"
@@ -2608,7 +2741,10 @@
                         "Sehnsucht",
                         "Begehren",
                         "Erotik",
-                        "Lüsternheit"
+                        "Lüsternheit",
+                        "Ausschweifung",
+                        "Genusssucht",
+                        "Luxuria"
                     ],
                     "hint": "Gefühle des Begehrens? Warum fragst du noch?",
                     "text": "Wollust"
@@ -2617,7 +2753,8 @@
                     "altSpellings": [
                         "Eifersucht",
                         "Neidisch",
-                        "Misgunst"
+                        "Missgunst",
+                        "Invidia"
                     ],
                     "hint": "Du möchtest etwas, das aber jemand anderes schon hat? Willkommen in Sin City, einziger Einwohner: Du!",
                     "text": "Neid"
@@ -2628,9 +2765,18 @@
                         "Voellerei",
                         "Gefräßigkeit",
                         "Gefräßig",
+                        "Gefraessigkeit",
+                        "Gefraeßigkeit",
                         "Gelage",
                         "Fresserei",
-                        "Orgie"
+                        "Orgie",
+                        "Gula",
+                        "Maßlosigkeit",
+                        "Masslosigkeit",
+                        "Unmäßigkeit",
+                        "Unmaessigkeit",
+                        "Unmaeßigkeit",
+                        "Selbstsucht"
                     ],
                     "hint": "Über den Hunger hinaus essen? (singend) Eine Sünde.",
                     "text": "Völlerei"
@@ -2642,7 +2788,9 @@
                         "Rage",
                         "Aggressivität",
                         "Raserei",
-                        "Cholerisch"
+                        "Cholerisch",
+                        "Ira",
+                        "Rachsucht"
                     ],
                     "hint": "",
                     "text": "Zorn"
@@ -2656,7 +2804,11 @@
                         "Sorglosigkeit",
                         "Desinteresse",
                         "Gleichgültigkeit",
-                        "Energielosigkeit"
+                        "Energielosigkeit",
+                        "Acedia",
+                        "Feigheit",
+                        "Ignoranz",
+                        "Überdruss"
                     ],
                     "hint": "Faulenzen? Wenn man eine so begrenzte Zeit hat wie ihr Menschen...",
                     "text": "Trägheit"
@@ -2896,7 +3048,7 @@
                         "Moyito",
                         "Mojido"
                     ],
-                    "hint": "Der weltbekannte kubanische Longdrink, Fidel Castro hätte ihn sicherlich getrunken.",
+                    "hint": "Der weltbekannte kubanische Longdrink; Fidel Castro hätte ihn sicherlich getrunken.",
                     "text": "Mojito"
                 },
                 {
@@ -3166,7 +3318,8 @@
                     "altSpellings": [
                         "Kein Ohr Hasen",
                         "Kein Ohrhasen",
-                        "KeinOhr Hasen"
+                        "KeinOhr Hasen",
+                        "Keinohrhase"
                     ],
                     "hint": "Also ein Hase, aber ohne Ohren... Wie kommt man auf sowas?",
                     "text": "[i]Keinohrhasen[/i]"
@@ -3322,7 +3475,7 @@
                     "altSpellings": [
                         "Vehicle"
                     ],
-                    "hint": "Das Wort heißt auch im englischen fast gleich!",
+                    "hint": "Das Wort heißt auch im Englischen fast gleich!",
                     "text": "Vehikel"
                 },
                 {
@@ -3498,7 +3651,7 @@
                         "Mishneh Torah",
                         "Worte"
                     ],
-                    "hint": "Achtung Spoiler: Am Ende von diesem Teil stirbt Mose! Ihr seid genauso entsetzt wie ich, als ich es erfahren musste.",
+                    "hint": "Achtung, Spoiler: Am Ende von diesem Teil stirbt Mose! Ihr seid genauso entsetzt wie ich, als ich es erfahren musste.",
                     "text": "Deuteronomium"
                 }
             ],
@@ -3682,7 +3835,7 @@
                         "Berlin-Mitte",
                         "Bezirk Mitte"
                     ],
-                    "hint": "In diesem ehrlichgesagt sehr unkreativ benannten Bezirk befindet sich auch der Sitz des Bundestag.",
+                    "hint": "In diesem ehrlich gesagt sehr unkreativ benannten Bezirk befindet sich auch der Sitz des Bundestages.",
                     "text": "Mitte"
                 },
                 {
@@ -3955,7 +4108,8 @@
                         "Shanghai Disney",
                         "Disneyland Shanghai",
                         "Shanghai Disney Resort",
-                        "Shangai"
+                        "Shangai",
+                        "Schanghai"
                     ],
                     "hint": "",
                     "text": "Shanghai"
@@ -3978,7 +4132,8 @@
                         "Bay Lake",
                         "Buena Vista",
                         "Disneyworld Orlando",
-                        "Walt Disney World Resort Orlando"
+                        "Walt Disney World Resort Orlando",
+                        "Walt Disney World Resort"
                     ],
                     "hint": "",
                     "text": "Orlando"
@@ -4048,7 +4203,8 @@
                         "Orchidee",
                         "Diana Weiss",
                         "Diana",
-                        "Weiss"
+                        "Weiss",
+                        "Mrs. White"
                     ],
                     "hint": "WEIẞ sie mehr als sie verrät?",
                     "text": "Frau Weiß"
@@ -4084,7 +4240,8 @@
                         "Baronin",
                         "Klara Porz",
                         "Klara",
-                        "Clara"
+                        "Clara",
+                        "Mrs. Peacock"
                     ],
                     "hint": "",
                     "text": "Baronin von Porz"
@@ -4216,7 +4373,7 @@
             "exactSpelling": false,
             "id": "79408",
             "isValid": "",
-            "prompt": "Die Hauptcharaktere aus “[i]The Big Bang Theorie[/i]”",
+            "prompt": "Die Hauptcharaktere aus “[i]The Big Bang Theory[/i]”",
             "subtype": "name",
             "us": false,
             "x": false
@@ -4721,8 +4878,7 @@
                 },
                 {
                     "altSpellings": [
-                        "Sechseck",
-                        "Achteck"
+                        "Sechseck"
                     ],
                     "hint": "Damit würde ich wie das coolste Stoppschild der Welt aussehen.",
                     "text": "Hexagon"
@@ -4924,7 +5080,7 @@
                         "Kirsch",
                         "Kirschen"
                     ],
-                    "hint": "Zum Anbeißen, wohlgeformt und im Innern Rot, genau wie ich.",
+                    "hint": "Zum Anbeißen, wohlgeformt und im Innern rot, genau wie ich.",
                     "text": "Kirschkuchen"
                 },
                 {
@@ -5097,7 +5253,7 @@
                         "Chris Hemsworth",
                         "Hemsworth"
                     ],
-                    "hint": "Sohn Odins und nordischer Donnergott? Ganz ehrlich, ich würd ihn nehmen.",
+                    "hint": "Sohn Odins und nordischer Donnergott? Ganz ehrlich, ich würd' ihn nehmen.",
                     "text": "Thor"
                 },
                 {
@@ -5304,8 +5460,8 @@
                     "text": "Hai"
                 },
                 {
-                    "text": "Mai",
-                    "hint": "Kommt schon Leute, denkt an meinen Lieblings-Monat."
+                    "hint": "Kommt schon Leute, denkt an meinen Lieblings-Monat.",
+                    "text": "Mai"
                 },
                 {
                     "text": "Schrei"
@@ -5480,7 +5636,7 @@
                         "Russische Förderation",
                         "Russische SFSR"
                     ],
-                    "hint": "(singend)“Moskau, Moskau, deine Seele ist so groß...”",
+                    "hint": "(singend) “Moskau, Moskau, deine Seele ist so groß...”",
                     "text": "Russland"
                 },
                 {
@@ -5767,7 +5923,7 @@
                         "Pälweerm",
                         "Pelworm"
                     ],
-                    "hint": "Diese Insel liegt etwa einen Meter unter Normalnull, ist daher vollständig auf seinen acht Meter hohen Deich angewiesen.",
+                    "hint": "Diese Insel liegt etwa einen Meter unter Normalnull und ist daher vollständig auf seinen acht Meter hohen Deich angewiesen.",
                     "text": "Pellworm"
                 },
                 {
@@ -6268,107 +6424,153 @@
         {
             "answers": [
                 {
-                    "altSpellings": [],
+                    "altSpellings": [
+                        "Republik Österreich",
+                        "Östereich",
+                        "Öster Reich"
+                    ],
                     "hint": "",
-                    "text": "fling"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "thing"
+                    "text": "Österreich"
                 },
                 {
                     "altSpellings": [
-                        "ding ding ding"
+                        "Königreich Belgien"
                     ],
-                    "hint": "What's the sound of getting something right?!",
-                    "text": "ding"
-                },
-                {
-                    "altSpellings": [],
                     "hint": "",
-                    "text": "sing"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "sling"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "bring"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "cling"
+                    "text": "Belgien"
                 },
                 {
                     "altSpellings": [
-                        "a king"
+                        "Republik Zypern",
+                        "Züpern"
                     ],
-                    "hint": "Not a Jack, not a Queen...",
-                    "text": "king"
+                    "hint": "",
+                    "text": "Zypern"
+                },
+                {
+                    "altSpellings": [
+                        "Republik Estland"
+                    ],
+                    "hint": "Die Hauptstadt eines der gesuchten Länder ist Tallinn. Das kennt ihr doch sicher!",
+                    "text": "Estland"
+                },
+                {
+                    "altSpellings": [
+                        "Finland",
+                        "Republik Finnland"
+                    ],
+                    "hint": "Mann, bei den nordeuropäischen Ländern kommt man so leicht durcheinander...",
+                    "text": "Finnland"
+                },
+                {
+                    "altSpellings": [
+                        "Französische Republik"
+                    ],
+                    "hint": "Dieses Land ist immerhin das am häufigsten besuchte Land der Welt!",
+                    "text": "Frankreich"
+                },
+                {
+                    "altSpellings": [
+                        "Bundesrepublik Deutschland"
+                    ],
+                    "hint": "",
+                    "text": "Deutschland"
+                },
+                {
+                    "altSpellings": [
+                        "Hellenische Republik"
+                    ],
+                    "hint": "",
+                    "text": "Griechenland"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "ring"
+                    "text": "Irland"
                 },
                 {
-                    "altSpellings": [],
+                    "altSpellings": [
+                        "Italienische Republik"
+                    ],
+                    "hint": "Das Land der Pasta und Pizza.",
+                    "text": "Italien"
+                },
+                {
+                    "altSpellings": [
+                        "Republik Lettland",
+                        "Letland"
+                    ],
                     "hint": "",
-                    "text": "swing"
+                    "text": "Lettland"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "You'll need two of these to fly, little ones.",
-                    "text": "wing"
-                },
-                {
-                    "altSpellings": [],
+                    "altSpellings": [
+                        "Republik Litauen",
+                        "Littauen"
+                    ],
                     "hint": "",
-                    "text": "ping"
+                    "text": "Litauen"
                 },
                 {
-                    "altSpellings": [],
+                    "altSpellings": [
+                        "Großherzogtum Luxemburg",
+                        "Luxembourg"
+                    ],
                     "hint": "",
-                    "text": "zing"
+                    "text": "Luxemburg"
                 },
                 {
-                    "altSpellings": [],
+                    "altSpellings": [
+                        "Republik Malta"
+                    ],
                     "hint": "",
-                    "text": "sting"
+                    "text": "Malta"
                 },
                 {
-                    "altSpellings": [],
+                    "altSpellings": [
+                        "Holland"
+                    ],
                     "hint": "",
-                    "text": "bing"
+                    "text": "Niederlande"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "If you win, you may adorn yourself with so much of this.",
-                    "text": "bling"
+                    "altSpellings": [
+                        "Portugiesische Republik"
+                    ],
+                    "hint": "Welches Land ist denn am westlichsten in Europa?",
+                    "text": "Portugal"
                 },
                 {
-                    "altSpellings": [],
+                    "altSpellings": [
+                        "Slowakische Republik",
+                        "Slowacei"
+                    ],
                     "hint": "",
-                    "text": "wring"
+                    "text": "Slowakei"
                 },
                 {
-                    "altSpellings": [],
+                    "altSpellings": [
+                        "Republik Slowenien",
+                        "Slovenien"
+                    ],
                     "hint": "",
-                    "text": "ting"
+                    "text": "Slowenien"
+                },
+                {
+                    "altSpellings": [
+                        "Königreich Spanien"
+                    ],
+                    "hint": "",
+                    "text": "Spanien"
                 }
             ],
-            "category": "Language/Words/Grammar",
-            "exactSpelling": true,
+            "category": "Factoids",
+            "exactSpelling": false,
             "id": "83263",
             "isValid": "",
-            "prompt": "What rhymes with “string”? (one-syllable common words only)",
-            "subtype": "rhyme",
-            "us": true,
+            "prompt": "Die 19 Länder der europäischen Union, die Stand 2021 den Euro als offizielle Währung haben",
+            "subtype": "name",
+            "us": false,
             "x": false
         },
         {
@@ -6376,156 +6578,240 @@
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "flower"
+                    "text": "Berlin"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "cower"
+                    "text": "Hamburg"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "",
-                    "text": "dour"
+                    "hint": "Ich glaube, eine der Städte liegt im Ausland. Ich war da mal und die Menschen haben irgendein Kauderwelsch gesprochen.",
+                    "text": "München"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "Some of you may like your cream this way.",
-                    "text": "sour"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "tower"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "power"
+                    "hint": "Eine der Städte ist eine Hochburg des Karnevals. Deshalb findet man mich dort auch nie.",
+                    "text": "Köln"
                 },
                 {
                     "altSpellings": [
-                        "plougher"
+                        "Frankfurt",
+                        "Frankfurt Main"
                     ],
-                    "hint": "What do you call one who toils in a field?",
-                    "text": "plower"
+                    "hint": "",
+                    "text": "Frankfurt am Main"
+                },
+                {
+                    "altSpellings": [
+                        "Stutgart",
+                        "Stuttgard"
+                    ],
+                    "hint": "",
+                    "text": "Stuttgart"
+                },
+                {
+                    "altSpellings": [
+                        "Düseldorf",
+                        "Duesseldorf"
+                    ],
+                    "hint": "Nachts liege ich manchmal wach und frage mich, ob der Name dieser Stadt von “Dussel” abstammt.",
+                    "text": "Düsseldorf"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "scour"
+                    "text": "Dortmund"
+                },
+                {
+                    "altSpellings": [
+                        "Esen"
+                    ],
+                    "hint": "",
+                    "text": "Essen"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "hour"
+                    "text": "Leipzig"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "our"
+                    "text": "Bremen"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "Hey! Don't look at me that way!",
-                    "text": "glower"
+                    "hint": "",
+                    "text": "Dresden"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "You'll need this for a proper bake.",
-                    "text": "flour"
+                    "hint": "",
+                    "text": "Hannover"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "",
+                    "text": "Nürnberg"
+                },
+                {
+                    "altSpellings": [
+                        "Düsburg"
+                    ],
+                    "hint": "",
+                    "text": "Duisburg"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "",
+                    "text": "Bochum"
+                },
+                {
+                    "altSpellings": [
+                        "Wupertal"
+                    ],
+                    "hint": "Also wenn ein Elefant in die Schwebebahn dieser Stadt passt, dann warum nicht auch ich?",
+                    "text": "Wuppertal"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "Das gibts doch gar nicht! Doch, und zwar in DIESER Stadt.",
+                    "text": "Bielefeld"
+                },
+                {
+                    "altSpellings": [
+                        "Bon"
+                    ],
+                    "hint": "",
+                    "text": "Bonn"
+                },
+                {
+                    "altSpellings": [
+                        "Muenster"
+                    ],
+                    "hint": "Der Tatort aus dieser Stadt soll gut sein, also hab ich mal gehört...",
+                    "text": "Münster"
                 }
             ],
-            "category": "Language/Words/Grammar",
-            "exactSpelling": true,
+            "category": "Geography & Landmarks",
+            "exactSpelling": false,
             "id": "83264",
             "isValid": "",
-            "prompt": "What rhymes with “shower”? (one- or two-syllable common words only)",
-            "subtype": "rhyme",
-            "us": true,
+            "prompt": "Die bevölkerungsreichsten Städte Deutschlands (Stand 2015)",
+            "subtype": "name",
+            "us": false,
             "x": false
         },
         {
             "answers": [
                 {
                     "altSpellings": [
-                        "cheque"
+                        "Spongebob Schwammkopf",
+                        "Schpongebob"
                     ],
-                    "hint": "",
-                    "text": "check"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "I'm here at your blank and call. I'm good like that.",
-                    "text": "beck"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "neck"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "deck"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "What's another word for a little, tiny, baby kiss?",
-                    "text": "peck"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "speck"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "I imagine some of you may work in THIS industry.",
-                    "text": "tech"
+                    "hint": "Es steht in der Frage. Also, worauf wartet ihr noch?",
+                    "text": "Spongebob"
                 },
                 {
                     "altSpellings": [
-                        "treck"
+                        "Patrick Star",
+                        "Padrick",
+                        "Patrik"
                     ],
-                    "hint": "You all made a journey to my mountaintop. You could say you made one of these.",
-                    "text": "trek"
+                    "hint": "",
+                    "text": "Patrick"
                 },
                 {
                     "altSpellings": [
-                        "wrek"
+                        "Thaddäus Tentakel",
+                        "Thadäus",
+                        "Thadäus Tentakel",
+                        "Taddäus",
+                        "Tadäus"
+                    ],
+                    "hint": "Funfact: Dieser mürrische Tintenfisch hat nur sechs Tentakel. Ein echter Tintenfisch hätte acht. Tragisch.",
+                    "text": "Thaddäus"
+                },
+                {
+                    "altSpellings": [
+                        "Sheldon Plankton",
+                        "Sheldon",
+                        "Planckton"
                     ],
                     "hint": "",
-                    "text": "wreck"
+                    "text": "Plankton"
                 },
                 {
-                    "altSpellings": [],
+                    "altSpellings": [
+                        "Sandy Cheeks",
+                        "Sandie Cheeks",
+                        "Sandie"
+                    ],
+                    "hint": "Ein texanisches Eichhörnchen unter Wasser. Ein TEXANISCHES EICHHÖRNCHEN UNTER WASSER?!",
+                    "text": "Sandy"
+                },
+                {
+                    "altSpellings": [
+                        "Misses Puff",
+                        "Mrs Puff",
+                        "Puff",
+                        "Mrs. Poppy Puff",
+                        "Poppy Puff",
+                        "Misses Poppy Puff"
+                    ],
                     "hint": "",
-                    "text": "heck"
+                    "text": "Mrs. Puff"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "Some Slovaks can relate to THIS word.",
-                    "text": "Czech"
+                    "altSpellings": [
+                        "Perla Krabs",
+                        "Perla Krebs"
+                    ],
+                    "hint": "Ein Wal als Tochter eines Krebses. Ich bin mir nicht sicher, aber die Macher dieser Serie scheinen in Sexualkunde echt geschlafen zu haben.",
+                    "text": "Perla"
                 },
                 {
-                    "altSpellings": [],
+                    "altSpellings": [
+                        "Gerald B. Schneckerich",
+                        "Garie",
+                        "Gery",
+                        "Gary Wilson Jr."
+                    ],
                     "hint": "",
-                    "text": "dreck"
+                    "text": "Gary"
                 },
                 {
-                    "altSpellings": [],
+                    "altSpellings": [
+                        "Eugene Krabs",
+                        "Krabs",
+                        "Eugene Herbert Krabs",
+                        "Mister Krabs",
+                        "Mister Eugene Krabs",
+                        "Mr Krabs",
+                        "Mr. Eugene Krabs"
+                    ],
                     "hint": "",
-                    "text": "fleck"
+                    "text": "Mr. Krabs"
+                },
+                {
+                    "altSpellings": [
+                        "Karen Plankton",
+                        "Caren Plankton",
+                        "Caren"
+                    ],
+                    "hint": "",
+                    "text": "Karen"
                 }
             ],
-            "category": "Language/Words/Grammar",
-            "exactSpelling": true,
+            "category": "Film & TV",
+            "exactSpelling": false,
             "id": "83267",
             "isValid": "",
-            "prompt": "What rhymes with “Shrek”? (one-syllable common words only)",
-            "subtype": "rhyme",
-            "us": true,
+            "prompt": "Hauptfiguren aus [i]Spongebob Schwammkopf[/i]",
+            "subtype": "name",
+            "us": false,
             "x": false
         },
         {
@@ -6686,7 +6972,7 @@
                 },
                 {
                     "altSpellings": [
-                        "Tauros",
+                        "Taurus",
                         "Stiere"
                     ],
                     "hint": "",
@@ -6710,7 +6996,7 @@
                 },
                 {
                     "altSpellings": [
-                        "Aquaris",
+                        "Aquarius",
                         "Wasser Mann"
                     ],
                     "hint": "",
@@ -6740,7 +7026,8 @@
                 {
                     "altSpellings": [
                         "Der Wunschpunsch",
-                        "Wunschpunsch"
+                        "Wunschpunsch",
+                        "Satanarchäolügenialkohöllischer Wunschpunsch"
                     ],
                     "hint": "Als allwissendes Wesen kenne ich diesen langen Namen natürlich auswendig, aber ich will euch ja nicht den Rätselspaß verderben...",
                     "text": "[i]Der satanarchäolügenialkohöllische Wunschpunsch[/i]"
@@ -6822,7 +7109,8 @@
                         "Groß Britannien",
                         "Vereinigtes Königreich Großbritannien und Nordirland",
                         "UK",
-                        "U K"
+                        "U K",
+                        "VK"
                     ],
                     "hint": "Kommt schon, bei diesem Land steht es sogar im Namen!",
                     "text": "Vereinigtes Königreich"
@@ -7019,10 +7307,11 @@
                 {
                     "altSpellings": [
                         "Snooker",
-                        "Biliard"
+                        "Biliard",
+                        "Billiard"
                     ],
                     "hint": "Was meine größte Angst ist? Von einem riesigen Stab in ein Loch geschubst zu werden!",
-                    "text": "Billiard"
+                    "text": "Billard"
                 },
                 {
                     "altSpellings": [
@@ -7057,14 +7346,17 @@
                 {
                     "altSpellings": [
                         "Volley Ball",
-                        "Voleyball"
+                        "Voleyball",
+                        "Voley Ball"
                     ],
                     "hint": "",
                     "text": "Volleyball"
                 },
                 {
                     "altSpellings": [
-                        "Tisch Tennis"
+                        "Tisch Tennis",
+                        "Tischtenis",
+                        "Tisch Tenis"
                     ],
                     "hint": "",
                     "text": "Tischtennis"
@@ -7338,7 +7630,7 @@
             "exactSpelling": false,
             "id": "83329",
             "isValid": "",
-            "prompt": "Paketdienste, die es nicht schaffen, mir meine Pakete auch zu liefern",
+            "prompt": "Paketdienste, die es nicht schaffen, mir meine Pakete rechtzeitig zu liefern",
             "subtype": "subjective",
             "us": false,
             "x": false
@@ -7389,7 +7681,8 @@
                     "altSpellings": [
                         "Blather Around",
                         "Blather",
-                        "Blater Around"
+                        "Blater Around",
+                        "Blather Round"
                     ],
                     "hint": "",
                     "text": "[i]Blather ‘Round[/i]"
@@ -7502,7 +7795,8 @@
                         "Frankfurt",
                         "Frankfurt am Main",
                         "Mainz",
-                        "Wiesbaden"
+                        "Wiesbaden",
+                        "Rhein Main"
                     ],
                     "hint": "",
                     "text": "Rhein-Main"
@@ -7572,7 +7866,7 @@
                     "altSpellings": [
                         "Messer"
                     ],
-                    "hint": "Diese Waffe nach vollbrachter Tat nicht mehr für Gemüse benutzen, Küchenhygiene ist sehr wichtig!",
+                    "hint": "Diese Waffe sollte man nach vollbrachter Tat nicht mehr für Gemüse benutzen, Küchenhygiene ist sehr wichtig!",
                     "text": "Dolch"
                 },
                 {
@@ -7823,7 +8117,8 @@
                     "altSpellings": [
                         "Niederdeutsch",
                         "Nieder Deutsch",
-                        "Platt Deutsch"
+                        "Platt Deutsch",
+                        "Platt"
                     ],
                     "hint": "Platt ist hier nicht nur das Land, sondern anscheinend auch die Sprache!",
                     "text": "Plattdeutsch"
@@ -7831,7 +8126,8 @@
                 {
                     "altSpellings": [
                         "Mittel-Bairisch",
-                        "Nord-Bairisch"
+                        "Nord-Bairisch",
+                        "Bayrisch"
                     ],
                     "hint": "Kommt schon, es ist eines jeden erster Gedanke. Jetzt schreibt es schon auf!",
                     "text": "Bairisch"
@@ -7882,11 +8178,6 @@
                     "altSpellings": [],
                     "hint": "",
                     "text": "Damm"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "Bann"
                 }
             ],
             "category": "Language/Words/Grammar",
@@ -7902,261 +8193,397 @@
             "answers": [
                 {
                     "altSpellings": [],
-                    "hint": "More than one alcoholic beverage of this type for me!",
-                    "text": "beers"
-                },
-                {
-                    "altSpellings": [],
                     "hint": "",
-                    "text": "clears"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Your two little ear holes!",
-                    "text": "ears"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Lots of people have these, like being scared of spiders. Or quadrilaterals.",
-                    "text": "fears"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "These are the little things that make watches go. And wheels for that matter.",
-                    "text": "gears"
+                    "text": "Blut"
                 },
                 {
                     "altSpellings": [
-                        "piers"
+                        "Limphe",
+                        "Lymph-Flüssigkeit",
+                        "Lymph",
+                        "Lymphplasma",
+                        "Lymph Plasma",
+                        "Lymphserum",
+                        "Lymph Serum"
                     ],
-                    "hint": "Either your companions, OR a way you can walk over the ocean.",
-                    "text": "peers"
+                    "hint": "",
+                    "text": "Lymphe"
                 },
                 {
                     "altSpellings": [
-                        "tiers"
+                        "Geifer",
+                        "Sabber",
+                        "Saliva"
                     ],
-                    "hint": "These come out of your eye holes when you're sad.",
-                    "text": "tears"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Oh, how the THESE fly by.",
-                    "text": "years"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "sears"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "I'm... sort of... shaped like this.",
-                    "text": "spheres"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "",
-                    "text": "spears"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "The wheel in your car does this.",
-                    "text": "steers"
+                    "hint": "Bei einem der gesuchten Wörter bleibt euch die Spucke weg!",
+                    "text": "Speichel"
                 },
                 {
                     "altSpellings": [
-                        "dears"
+                        "Magensäure",
+                        "Magensaeure",
+                        "Salzsäure",
+                        "Succus gastricus",
+                        "Magen Säure",
+                        "Magen Saeure",
+                        "Magen Saft"
                     ],
-                    "hint": "Oh Frankie! Come look! There's a bunch of these cute antlered guys on the lawn!",
-                    "text": "deers"
+                    "hint": "Hat jemand von euch zufälligerweise Sodbrennen?",
+                    "text": "Magensaft"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "When the creature gets closer, it does this.",
-                    "text": "nears"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "The evil villain does this with his wicked mouth.",
-                    "text": "sneers"
-                },
-                {
-                    "altSpellings": [],
+                    "altSpellings": [
+                        "Harn",
+                        "Pipi",
+                        "Stuhl"
+                    ],
                     "hint": "",
-                    "text": "sheers"
+                    "text": "Urin"
                 },
                 {
-                    "altSpellings": [],
+                    "altSpellings": [
+                        "Gallenflüssigkeit",
+                        "Gallen Flüssigkeit",
+                        "Gale"
+                    ],
                     "hint": "",
-                    "text": "veers"
+                    "text": "Galle"
                 },
                 {
-                    "altSpellings": [],
+                    "altSpellings": [
+                        "Schweiss",
+                        "Schwitzen"
+                    ],
                     "hint": "",
-                    "text": "smears"
+                    "text": "Schweiß"
+                },
+                {
+                    "altSpellings": [
+                        "Tränenflüssigkeit",
+                        "Träne",
+                        "Zähre",
+                        "Tränen Flüssigkeit",
+                        "Tränensekret",
+                        "Traene",
+                        "Traenen"
+                    ],
+                    "hint": "",
+                    "text": "Tränen"
+                },
+                {
+                    "altSpellings": [
+                        "Mutter Milch",
+                        "Milch",
+                        "Frauenmilch",
+                        "Frauen Milch"
+                    ],
+                    "hint": "",
+                    "text": "Muttermilch"
+                },
+                {
+                    "altSpellings": [
+                        "Sperma",
+                        "Samenflüssigkeit",
+                        "Spermien",
+                        "Samen"
+                    ],
+                    "hint": "Ähm, ihr habt doch sicher nicht eure Kinder auf den Berg mitgenommen? Ansonsten wäre das jetzt blöd...",
+                    "text": "Ejakulat"
+                },
+                {
+                    "altSpellings": [
+                        "Nasen Sekret",
+                        "Rotz",
+                        "Popel",
+                        "Schnodder",
+                        "Nasenschleim",
+                        "Nasen Schleim",
+                        "Rotze"
+                    ],
+                    "hint": "Putzt eure Nasen, dann findet ihr ganz viel vom gesuchten Begriff.",
+                    "text": "Nasensekret"
                 }
             ],
-            "category": "Language/Words/Grammar",
-            "exactSpelling": true,
+            "category": "Science & Medicine",
+            "exactSpelling": false,
             "id": "83404",
             "isValid": "",
-            "prompt": "What rhymes with “cheers”? (one-syllable common words only)",
-            "subtype": "rhyme",
-            "us": true,
-            "x": false
+            "prompt": "Die ekeligsten menschlichen Körperflüssigkeiten",
+            "subtype": "name",
+            "us": false,
+            "x": true
         },
         {
             "answers": [
                 {
-                    "altSpellings": [],
-                    "hint": "Do you like all my chunky jewelry? Or my favorite ’80s band?",
-                    "text": "bangle"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Earrings do this from the ear.",
-                    "text": "dangle"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Sleigh bells go jingle and...",
-                    "text": "jangle"
-                },
-                {
-                    "altSpellings": [],
+                    "altSpellings": [
+                        "VW",
+                        "Volks Wagen"
+                    ],
                     "hint": "",
-                    "text": "mangle"
+                    "text": "Volkswagen"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "This is putting a shiny decoration on something.",
-                    "text": "spangle"
+                    "altSpellings": [
+                        "Tojota",
+                        "Toyota Motor Corporation"
+                    ],
+                    "hint": "",
+                    "text": "Toyota"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "If I wear a collar too tight, it feels like this.",
-                    "text": "strangle"
+                    "altSpellings": [
+                        "General Motors Company",
+                        "GMC"
+                    ],
+                    "hint": "",
+                    "text": "General Motors"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "Make sure to brush your hair, otherwise you get this.",
-                    "text": "tangle"
+                    "altSpellings": [
+                        "Hyundai",
+                        "Hyundai Motor Group",
+                        "Hjundai",
+                        "Hiundai"
+                    ],
+                    "hint": "Also, ich will ja nichts sagen, aber irgendwie sind da ziemlich viele japanische Hersteller dabei.",
+                    "text": "Hyundai Motor"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "The official definition of this is “to accomplish something via trickery.”",
-                    "text": "wangle"
+                    "altSpellings": [
+                        "Ford Motor Company",
+                        "Fort"
+                    ],
+                    "hint": "",
+                    "text": "Ford"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "This is what I gotta do to gather up all my misbehaving cows.",
-                    "text": "wrangle"
+                    "altSpellings": [
+                        "Nisan",
+                        "Nissan Motor Corporation",
+                        "Nissan Automobil AG"
+                    ],
+                    "hint": "",
+                    "text": "Nissan"
+                },
+                {
+                    "altSpellings": [
+                        "Honda Motor Co."
+                    ],
+                    "hint": "",
+                    "text": "Honda"
+                },
+                {
+                    "altSpellings": [
+                        "Fiat Krisler",
+                        "Fiat Chrisler",
+                        "Fiat",
+                        "Chrysler"
+                    ],
+                    "hint": "",
+                    "text": "Fiat Chrysler"
+                },
+                {
+                    "altSpellings": [
+                        "Renault SA",
+                        "Renault Group"
+                    ],
+                    "hint": "Uhh, den Französischen kenne ich. Die wollten mich mal als Werbemodel für Ganzjahresreifen!",
+                    "text": "Renault"
+                },
+                {
+                    "altSpellings": [
+                        "Suzuki Motor Corporation",
+                        "Susuki"
+                    ],
+                    "hint": "",
+                    "text": "Suzuki"
+                },
+                {
+                    "altSpellings": [
+                        "Mercedes-Benz Group",
+                        "Mercedes",
+                        "Mercedes-Benz",
+                        "Daimler-Benz",
+                        "Mercedes Benz"
+                    ],
+                    "hint": "",
+                    "text": "Daimler"
+                },
+                {
+                    "altSpellings": [
+                        "BMW Group",
+                        "Bayerische Motoren Werke",
+                        "BMW AG",
+                        "B M W"
+                    ],
+                    "hint": "Ich denke mir immer gerne neue Vollversionen für die Akronyme aus. Wie wäre es mit “Bananen-Moped-Wischwasser” oder “Barbarische-Mixer-Weltmeisterschaft”?",
+                    "text": "BMW"
+                },
+                {
+                    "altSpellings": [
+                        "Gely",
+                        "Geelie",
+                        "Geeli"
+                    ],
+                    "hint": "Ich gehe jede Wette ein, dass ihr von einem noch nie etwas gehört habt. Der Name bedeutet auf chinesisch “Glückverheißendes Automobil”.",
+                    "text": "Geely"
+                },
+                {
+                    "altSpellings": [
+                        "Mazda Motor Corporation"
+                    ],
+                    "hint": "",
+                    "text": "Mazda"
                 }
             ],
-            "category": "Language/Words/Grammar",
-            "exactSpelling": true,
+            "category": "Companies & Brands",
+            "exactSpelling": false,
             "id": "83441",
             "isValid": "",
-            "prompt": "What rhymes with “angle”? (two-syllable common words only)",
-            "subtype": "rhyme",
-            "us": true,
+            "prompt": "Die größten Kraftfahrzeughersteller im Jahr 2020",
+            "subtype": "name",
+            "us": false,
             "x": false
         },
         {
             "answers": [
                 {
-                    "altSpellings": [],
-                    "hint": "At the grocery, you love to take your time walking down this.",
-                    "text": "aisle"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "This is that icky sour stuff in your stomach.",
-                    "text": "bile"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Kids these days have never seen a phone with this.",
-                    "text": "dial"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Let me just put your documents away in this.",
-                    "text": "file"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "I am innocent! Incapable of tricking anyone, I am without this!",
-                    "text": "guile"
-                },
-                {
                     "altSpellings": [
-                        "isles"
+                        "Goldbrasse",
+                        "Dorade Royale",
+                        "Orade",
+                        "Orata",
+                        "Doraden"
                     ],
-                    "hint": "Oh, to be back on those beautiful other word for islands.",
-                    "text": "isle"
-                },
-                {
-                    "altSpellings": [
-                        "ill"
-                    ],
-                    "hint": "Shortened version of \"I will\"!",
-                    "text": "i'll"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Word is, Eminem has eight of these.",
-                    "text": "mile"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "A bunch of things on top of each other in one spot.",
-                    "text": "pile"
-                },
-                {
-                    "altSpellings": [],
                     "hint": "",
-                    "text": "rile"
+                    "text": "Dorade"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "How can I say no to that conglomeration of teeth and lips?",
-                    "text": "smile"
+                    "altSpellings": [
+                        "Schuppenkarpfen",
+                        "Spiegelkarpfen",
+                        "Zeilkarpfen"
+                    ],
+                    "hint": "",
+                    "text": "Karpfen"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "Ooh! This word mean aesthetic!",
-                    "text": "style"
+                    "altSpellings": [
+                        "Echter Barsch",
+                        "Flussbarsch",
+                        "Streber",
+                        "Kaulbarsch",
+                        "Rotbarsch",
+                        "Barsche"
+                    ],
+                    "hint": "",
+                    "text": "Barsch"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "All players of the Wheel are granted a fair and free one of these by a jury of their peers.",
-                    "text": "trial"
+                    "altSpellings": [
+                        "Europäischer Hecht",
+                        "Seehecht",
+                        "Hechte"
+                    ],
+                    "hint": "Einer der gesuchten Fische ist echt aggressiv, selbst kleine Vögel stehen auf seiner Speisekarte.",
+                    "text": "Hecht"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "This word is disgusting! Gross!",
-                    "text": "vile"
+                    "altSpellings": [
+                        "Sander",
+                        "Schill",
+                        "Hechtbarsch",
+                        "Zahnmaul",
+                        "Fogosch"
+                    ],
+                    "hint": "",
+                    "text": "Zander"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "This word is going to take... a bit.",
-                    "text": "while"
+                    "altSpellings": [
+                        "Shellfisch",
+                        "Schellfisch",
+                        "Schell Fisch",
+                        "Schellfische"
+                    ],
+                    "hint": "",
+                    "text": "Schellfisch"
                 },
                 {
-                    "altSpellings": [],
-                    "hint": "Meaning \"mischief,\" this is more often used as a descriptor.",
-                    "text": "wile"
+                    "altSpellings": [
+                        "Atlantischer Hering",
+                        "Echter Hering",
+                        "Heringe"
+                    ],
+                    "hint": "",
+                    "text": "Hering"
+                },
+                {
+                    "altSpellings": [
+                        "Atlantische Sardine",
+                        "Europäische Sardine",
+                        "Sardinen"
+                    ],
+                    "hint": "Diese Fischart wird bei uns meist in Öl eingelegt.",
+                    "text": "Sardine"
+                },
+                {
+                    "altSpellings": [
+                        "Europäische Sardelle",
+                        "Sardellen"
+                    ],
+                    "hint": "Eine der Fischarten wird oft eingesalzen unter dem Namen “Anchovis” verkauft.",
+                    "text": "Sardelle"
+                },
+                {
+                    "altSpellings": [
+                        "Bachforelle",
+                        "Meerforelle",
+                        "Forele",
+                        "Seeforelle",
+                        "Forellen"
+                    ],
+                    "hint": "Einer ist immerhin der deutsche Fisch des Jahres 2013. Nein, das bringt euch nichts, ich gebe nur mit meinem Wissen an.",
+                    "text": "Forelle"
+                },
+                {
+                    "altSpellings": [
+                        "Schole",
+                        "Goldbutt",
+                        "Schollen"
+                    ],
+                    "hint": "",
+                    "text": "Scholle"
+                },
+                {
+                    "altSpellings": [
+                        "Thun Fisch",
+                        "Tunfisch",
+                        "Thunfische",
+                        "Tun Fisch",
+                        "Tunfische"
+                    ],
+                    "hint": "Der Name dieses Fisches kommt aus dem Altgriechischen und bedeutet in etwa “Ich schieße entlang”.",
+                    "text": "Thunfisch"
+                },
+                {
+                    "altSpellings": [
+                        "Atlantischer Lachs",
+                        "Lachse",
+                        "Pazifischer Lachs"
+                    ],
+                    "hint": "",
+                    "text": "Lachs"
                 }
             ],
-            "category": "Language/Words/Grammar",
-            "exactSpelling": true,
+            "category": "Food & Drink",
+            "exactSpelling": false,
             "id": "83445",
             "isValid": "",
-            "prompt": "What rhymes with “tile”? (one-syllable common words only)",
-            "subtype": "rhyme",
-            "us": true,
+            "prompt": "Die leckersten Speisefische",
+            "subtype": "subjective",
+            "us": false,
             "x": false
         },
         {
@@ -8244,85 +8671,52 @@
             "answers": [
                 {
                     "altSpellings": [],
-                    "hint": "",
-                    "text": "bound"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "One of these is a cooking term. You'll need high heat to make it happen.",
-                    "text": "browned"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Think kings and queens.",
-                    "text": "crowned"
+                    "hint": "Ihr sucht ein Bauteil eines Schiffrumpfes.",
+                    "text": "Kiel"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "downed"
+                    "text": "Nil"
+                },
+                {
+                    "altSpellings": [],
+                    "hint": "Die Pfützen bei Ebbe an der Nordsee haben einen Namen. Schreibt ihn!",
+                    "text": "Priel"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "drowned"
+                    "text": "Siel"
                 },
                 {
                     "altSpellings": [],
-                    "hint": "LOST and...",
-                    "text": "found"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "There's another word for floor, but think “outdoors.”",
-                    "text": "ground"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "You're missing an easy one. It's a kind of dog.",
-                    "text": "hound"
+                    "hint": "Was macht ihr denn gerade?",
+                    "text": "Spiel"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "mound"
-                },
-                {
-                    "altSpellings": [
-                        "lb.",
-                        "lb"
-                    ],
-                    "hint": "What's that English currency called?",
-                    "text": "pound"
+                    "text": "Stiel"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "sound"
+                    "text": "Deal"
                 },
                 {
                     "altSpellings": [],
                     "hint": "",
-                    "text": "wound"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Come on. Don't be a Bozo.",
-                    "text": "clowned"
-                },
-                {
-                    "altSpellings": [],
-                    "hint": "Does this prompt put a sad look on your face?",
-                    "text": "frowned"
+                    "text": "Stil"
                 }
             ],
             "category": "Language/Words/Grammar",
             "exactSpelling": true,
             "id": "86377",
             "isValid": "",
-            "prompt": "What rhymes with “round”? (one-syllable common words only)",
+            "prompt": "Was reimt sich auf “Ziel”? (nur einsilbige, bekannte Nomen)",
             "subtype": "rhyme",
-            "us": true,
+            "us": false,
             "x": false
         }
     ]

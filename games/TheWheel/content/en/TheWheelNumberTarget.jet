@@ -27,14 +27,14 @@
    "prompt": "Wie viele Länder sind Teil vom Kontinent Afrika?",
    "unit": "",
    "us": false,
-   "value": "55",
+   "value": "54",
    "x": false
   },
   {
    "category": "Factoids",
    "id": "76784",
    "isValid": "",
-   "prompt": "Laut dem [i]Internationalem Institut für Humorforschung[/i], wie oft lacht der durchschnittliche Erwachsene am Tag?",
+   "prompt": "Laut dem [i]Internationalen Institut für Humorforschung[/i], wie oft lacht der durchschnittliche Erwachsene am Tag?",
    "unit": "",
    "us": false,
    "value": "17",
@@ -97,7 +97,7 @@
    "prompt": "Wie lange ist Queens Hitsong “Bohemian Rhapsody”?",
    "unit": "(in Sekunden)",
    "us": false,
-   "value": "354",
+   "value": "355",
    "x": false
   },
   {
@@ -127,7 +127,7 @@
    "prompt": "Wie viele Folgen hatte das erste Minecraft Let's Play von Gronkh?",
    "unit": "",
    "us": false,
-   "value": "1251",
+   "value": "1278",
    "x": false
   },
   {
@@ -214,7 +214,7 @@
    "category": "Factoids",
    "id": "77198",
    "isValid": "",
-   "prompt": "Wenn ihr den größten Burrito der Welt essen würdet, wie viel Kilo würdet ihr dann essen müssen?",
+   "prompt": "Wenn ihr den größten Burrito der Welt essen würdet, wie viel Kilo müsstet ihr essen?",
    "unit": "(gerundet auf das nächste Kilo)",
    "us": false,
    "value": "5800",
@@ -245,9 +245,9 @@
    "id": "77219",
    "isValid": "",
    "prompt": "Ab welcher Temparatur verdampft ein Diamant?",
-   "unit": "(in Grad Celsius)",
+   "unit": "(Siedepunkt in Grad Celsius)",
    "us": false,
-   "value": "763",
+   "value": "4827",
    "x": false
   },
   {
@@ -284,7 +284,7 @@
    "category": "",
    "id": "77268",
    "isValid": "",
-   "prompt": "Wie viele Toffiffee sind in einer normalen Packung?",
+   "prompt": "Wie viele Toffifee sind in einer normalen Packung?",
    "unit": "",
    "us": false,
    "value": "15",
@@ -334,7 +334,7 @@
    "category": "",
    "id": "77313",
    "isValid": "",
-   "prompt": "Welche Temparatur kann ein Blitz erreichen?",
+   "prompt": "Welche Temperatur kann ein Blitz erreichen?",
    "unit": "(in Grad Celsius)",
    "us": false,
    "value": "30000",
@@ -364,7 +364,7 @@
    "category": "Geography & Landmarks",
    "id": "77332",
    "isValid": "",
-   "prompt": "Wie viele Jenga Türme ist der Burj Khalifa hoch?",
+   "prompt": "Wie viele Jenga-Türme ist der Burj Khalifa hoch?",
    "unit": "(in klassischen Jenga Türmen)",
    "us": false,
    "value": "2964",
@@ -434,10 +434,10 @@
    "category": "Factoids",
    "id": "77623",
    "isValid": "",
-   "prompt": "Wie viel Prozent der Personen in Deutschland haben 2019 täglich das Internet benutzt?",
+   "prompt": "Wie viel Prozent der Personen in Deutschland haben 2019 laut Statistia täglich das Internet benutzt?",
    "unit": "(in Prozent)",
    "us": false,
-   "value": "71",
+   "value": "51",
    "x": false
   },
   {
@@ -504,7 +504,7 @@
    "category": "Science & Medicine",
    "id": "77635",
    "isValid": "",
-   "prompt": "Wie alt war \"Methuselah,\" der älteste lebende Baum der Welt, im Jahr 2021?",
+   "prompt": "Wie alt war \"Methuselah\", der älteste lebende Baum der Welt, im Jahr 2021?",
    "unit": "(in Jahren)",
    "us": false,
    "value": "4853",
@@ -545,9 +545,9 @@
    "id": "77749",
    "isValid": "",
    "prompt": "Wie viele Einwohner hatte Berlin in der Mitte des 19. Jahrhunderts?",
-   "unit": "(in Tausend Einwohnern",
+   "unit": "(in Tausend Einwohnern)",
    "us": false,
-   "value": "100",
+   "value": "420",
    "x": false
   },
   {
@@ -577,7 +577,7 @@
    "prompt": "Bis zu wie viele Tage dauert die Tragzeit eines Nashorns?",
    "unit": "(in Tagen)",
    "us": false,
-   "value": "540",
+   "value": "546",
    "x": false
   },
   {
@@ -594,7 +594,7 @@
    "category": "Film & TV",
    "id": "78066",
    "isValid": "",
-   "prompt": "Wie alt ist Ash Ketchum in [i]Pokémon[/i]?",
+   "prompt": "Wie alt ist Ash Ketchum im [i]Pokémon[/i]?",
    "unit": "(in Jahren)",
    "us": false,
    "value": "10",
@@ -606,7 +606,7 @@
    "isValid": "",
    "prompt": "Wie groß ist die größte Giraffe der Welt? (laut [i]Guinness World Records[/i])",
    "unit": "(in Zentimetern)",
-   "us": true,
+   "us": false,
    "value": "570",
    "x": false
   },
@@ -657,14 +657,14 @@
    "prompt": "Wie lang ist die Chinesische Mauer... in Berliner Mauern?",
    "unit": "(in Berliner Mauern)",
    "us": false,
-   "value": "137",
+   "value": "136",
    "x": false
   },
   {
    "category": "Calendar/Holidays",
    "id": "78404",
    "isValid": "",
-   "prompt": "Wie süß! Euer Ehepartner hat euch ein traditionelles Hochzeitsgeschenk aus Korallen geschenkt! Wie lange seid ihr schon verheiratet",
+   "prompt": "Wie süß! Euer Ehepartner hat euch ein traditionelles Hochzeitsgeschenk aus Korallen geschenkt! Wie lange seid ihr schon verheiratet?",
    "unit": "(in Jahren)",
    "us": false,
    "value": "35",
@@ -684,7 +684,7 @@
    "category": "Companies & Brands",
    "id": "78410",
    "isValid": "",
-   "prompt": "Hej! Ihr habt gerade beschlossen, das beliebteste IKEA Produkt, das BILLY-Bücherregal zu bauen. Wie viele Schritte müssen befolgt werden, um es zusammenzubauen?",
+   "prompt": "Hej! Ihr habt gerade beschlossen, das beliebteste IKEA-Produkt, das BILLY-Bücherregal zu bauen. Wie viele Schritte müssen befolgt werden, um es zusammenzubauen?",
    "unit": "(in Anleitungsschritten)",
    "us": false,
    "value": "14",
@@ -714,7 +714,7 @@
    "category": "",
    "id": "78600",
    "isValid": "",
-   "prompt": "Wie viele Wörter in der deutschen Sprache enden auf “nf”?",
+   "prompt": "Wie viele Wörter in der deutschen Sprache enden laut Duden auf “nf”?",
    "unit": "",
    "us": false,
    "value": "5",
@@ -737,7 +737,7 @@
    "prompt": "Wie viele öffentliche Toiletten gab es in Rom um 400 n. Chr.?",
    "unit": "",
    "us": false,
-   "value": "3",
+   "value": "144",
    "x": false
   },
   {
@@ -847,7 +847,7 @@
    "prompt": "Wenn ihr einen Euro für jeden Milliliter Flüssigkeit bekommen würdet, die eure Blase aufnehmen kann, wie viel würdet ihr bekommen?",
    "unit": "(in Euro)",
    "us": true,
-   "value": "400",
+   "value": "1000",
    "x": false
   },
   {
@@ -947,7 +947,7 @@
    "prompt": "Wenn ihr eine Tonne Gummibärchen hättet, wie viel Pfund wären das?",
    "unit": "(in Pfund Gummibärchen)",
    "us": true,
-   "value": "2000",
+   "value": "2205",
    "x": false
   },
   {
@@ -967,7 +967,7 @@
    "prompt": "Wie viele Zeitzonen gibt es in Russland?",
    "unit": "(in Zeitzonen)",
    "us": false,
-   "value": "13",
+   "value": "9",
    "x": false
   },
   {
@@ -1064,7 +1064,7 @@
    "category": "Pop Culture",
    "id": "81502",
    "isValid": "",
-   "prompt": "Wie viele Filme hatten 2020 in den Deutschen Kinos über 1.000.000 Besucher?",
+   "prompt": "Wie viele Filme hatten 2020 in den deutschen Kinos über 1.000.000 Besucher?",
    "unit": "(in Filmen)",
    "us": false,
    "value": "5",
@@ -1127,7 +1127,7 @@
    "prompt": "Wie viele Bücher hat Dame Barbara Cartland, einer der produktivsten Romanautorinnen, zu ihren Lebzeiten geschrieben?",
    "unit": "(in Büchern)",
    "us": true,
-   "value": "723",
+   "value": "724",
    "x": false
   },
   {
@@ -1197,7 +1197,7 @@
    "prompt": "Wie viele Kalorien hat laut Nutritionix ein ganzes Brathähnchen mit einem Gewicht von 600 Gramm?",
    "unit": "(in Kalorien)",
    "us": false,
-   "value": "1104",
+   "value": "1341",
    "x": false
   },
   {
@@ -1234,10 +1234,10 @@
    "category": "",
    "id": "81602",
    "isValid": "",
-   "prompt": "Wie viele Charaktere aus der [i]Bob der Baumeister[/i] Serie werden im klassischen Intro erwähnt?",
+   "prompt": "Wie viele Charaktere aus der [i]Bob der Baumeister[/i]-Serie werden im klassischen Intro erwähnt?",
    "unit": "(in Charakteren)",
    "us": false,
-   "value": "12",
+   "value": "11",
    "x": false
   },
   {
@@ -1267,7 +1267,7 @@
    "prompt": "Wie viele Stücke hat Shakespeare in seinem Leben geschrieben?",
    "unit": "",
    "us": false,
-   "value": "37",
+   "value": "38",
    "x": false
   },
   {
@@ -1347,7 +1347,7 @@
    "prompt": "In welchem Jahr hat Johann Philipp Reis das Telefon erfunden?",
    "unit": "",
    "us": false,
-   "value": "1859",
+   "value": "1861",
    "x": false
   },
   {
@@ -1387,7 +1387,7 @@
    "prompt": "Wie alt war Kleopatra als sie gestorben ist?",
    "unit": "(in Jahren)",
    "us": false,
-   "value": "39",
+   "value": "38",
    "x": false
   },
   {
@@ -1404,10 +1404,10 @@
    "category": "Historical Figures",
    "id": "81715",
    "isValid": "",
-   "prompt": "In welchem Jahr hat Albert Einstein die Relativitätstheorie aufgestellt?",
+   "prompt": "In welchem Jahr hat Albert Einstein erstmals die Relativitätstheorie aufgestellt?",
    "unit": "",
    "us": false,
-   "value": "1915",
+   "value": "1905",
    "x": false
   },
   {
@@ -1484,7 +1484,7 @@
    "category": "History",
    "id": "82471",
    "isValid": "",
-   "prompt": "In welchem Jahr fand die Love Parade in Duisburg statt?",
+   "prompt": "In welchem Jahr fand die Love Parade in Duisburg zuletzt statt?",
    "unit": "",
    "us": false,
    "value": "2010",
@@ -1534,7 +1534,7 @@
    "category": "Music",
    "id": "82541",
    "isValid": "",
-   "prompt": "Wie viele Strecken konnte man im ersten Mario Kart Spiel befahren?",
+   "prompt": "Wie viele Strecken konnte man im ersten Mario Kart-Spiel befahren?",
    "unit": "(Super Mario Kart)",
    "us": true,
    "value": "20",
