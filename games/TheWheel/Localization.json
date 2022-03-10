@@ -93,7 +93,7 @@
         "TRIVIA_TYPE_NUMBERTARGET_NAME": "Aufzählen",
         "TRIVIA_TYPE_MATCHING_NAME" : "Gegenstücke",
         "TRIVIA_TYPE_RAPIDFIRE_NAME" : "Dies oder Das",
-        "TRIVIA_TYPE_GUESSING_NAME" : "An was denke ich?!",
+        "TRIVIA_TYPE_GUESSING_NAME" : "An was denke ich?",
         
         "GUESSING_PROMPT": "Wovon denkst du, spricht das Rad?",
         
@@ -113,7 +113,7 @@
         "SLICE_TYPE_NEIGHBOR_NAME": "GEWINNER",
         "SLICE_TYPE_BONUS_NAME": "KRAFT\nSCHEIBE",
 
-        "SLICE_TYPE_WINNER_NAME": "%s Gewinnt",
+        "SLICE_TYPE_WINNER_NAME": "%s gewinnt",
         "SLICE_TYPE_WINNER_DESCRIPTION": "%s gewinnt das Spiel!",
 
         "SLICE_TYPE_POINTS_NAME": "GEWINNER",
@@ -128,7 +128,7 @@
         "SLICE_TYPE_AUDIENCE_NAME": "GEWINNER",
         "SLICE_TYPE_AUDIENCE_DESCRIPTION": "????????",
 
-        "MINI_WHEEL_TITLE_TOP": "GEWINNER",
+        "MINI_WHEEL_TITLE_TOP": "SIEGER",
         "MINI_WHEEL_TITLE_BOTTOM": "RAD",
 
         "SCOREBOARD_NEEDED_TO_WIN": "Zum Sieg benötigt",
@@ -234,9 +234,9 @@
         "TEXT_DESCRIPTION_TAPPING_LIST_REVEAL": "Die richtigen Antworten waren %s",
         "TEXT_DESCRIPTION_TAPPING_LIST_PLAYER_RESULT": "%s hat %s richtig",
 
-        "TEXT_DESCRIPTION_GUESSING_REVEAL": "The answer was %s",
-        "TEXT_DESCRIPTION_GUESSING_PLAYER_RESULT": "%s got it in %s seconds",
-        "TEXT_DESCRIPTION_GUESSING_PLAYER_NO_ONE": "No one got it!",
+        "TEXT_DESCRIPTION_GUESSING_REVEAL": "Die Antwort war %s",
+        "TEXT_DESCRIPTION_GUESSING_PLAYER_RESULT": "%s hatte es in %s Sekunden",
+        "TEXT_DESCRIPTION_GUESSING_PLAYER_NO_ONE": "Niemand wusste es!",
 
         "TEXT_DESCRIPTION_MATCHING_REVEAL": "Die Antworten waren %s",
         "TEXT_DESCRIPTION_MATCHING_PLAYER_RESULT": "%s hat %s passend",
