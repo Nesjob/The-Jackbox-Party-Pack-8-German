@@ -146,7 +146,7 @@
     "Startverzögerungen",
     "Die einzige Unterhaltung: [i]Zoolander 2[/i]",
     "Stürmisches Wetter",
-    "Schrulliger Pilot"
+    "Häufige, unverständliche Durchsagen"
    ],
    "id": "76659",
    "intro": null,
@@ -399,7 +399,7 @@
    "question": "Der beste fiktionale Ort, um plötzlich dahin teleportiert zu werden",
    "questionShort": "bester fiktionale Ort",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -423,7 +423,7 @@
    "question": "Der schlimmste fiktionale Ort, um plötzlich dahin teleportiert zu werden",
    "questionShort": "schlimmster fiktionaler Ort",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -513,7 +513,7 @@
    "question": "Welcher Muppet wäre der schrecklichste Mitbewohner?",
    "questionShort": "Schlimmster Mitbewohner Muppet",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -849,7 +849,7 @@
    "question": "Damit kannst du das perfekte Stillleben zeichnen",
    "questionShort": "Bestes Stillleben",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1006,7 +1006,7 @@
    "question": "Du kennst doch die Rentiere des Weihnachtsmanns, oder? Welchen Namen findest du am besten?",
    "questionShort": "dein Rentier Name",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1205,7 +1205,7 @@
    "question": "Von welchem Geist würdest du am liebsten heimgesucht werden?",
    "questionShort": "Bevorzugte Geister",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1407,7 +1407,7 @@
    "question": "Du bist in einer romantischen Komödie und dein Ex kommt um die Ecke! Schnell! Wie tarnst du dich?",
    "questionShort": "beste spontane Verkleidung",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1429,7 +1429,7 @@
    "question": "Der beste Name für einen schnulzen Autor",
    "questionShort": "Bester Schnulzen Autor Name",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -1607,7 +1607,7 @@
    "question": "Welcher dritte Teil war der Schlechteste?",
    "questionShort": "Dritte Teile..",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1695,7 +1695,7 @@
    "question": "Such dir einfach 'nen Finger aus?",
    "questionShort": "Finger aussuchen",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1758,7 +1758,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Welche Kombination von unnützen Items wird dir dabei helfen eine Bombe zu entschärfen?",
+   "question": "Welche Kombination von unnützen Dingen wird dir dabei helfen eine Bombe zu entschärfen?",
    "questionShort": "Na los MacGyver",
    "round": "second",
    "us": false,
@@ -1915,7 +1915,7 @@
    "question": "Dein Ex ist in der Karaoke Bar! Welchen Song singst du, um klar zu machen, was abgeht?",
    "questionShort": "Ex beim Karaoke",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1937,7 +1937,7 @@
    "question": "Welcher Schulclub rettet die Welt, wenn Aliens einmarschieren?",
    "questionShort": "Schulclub Rächer",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2022,7 +2022,7 @@
    "intro": "Die nächste Frage ist außerirdisch!",
    "isValid": "",
    "outro": null,
-   "question": "Aliens kommen auf die Erde. Schnell, was schenkst du ihnen?.",
+   "question": "Aliens kommen auf die Erde. Schnell, was schenkst du ihnen?",
    "questionShort": "Aliens Willkommen heißen",
    "round": "third",
    "us": false,
@@ -2158,7 +2158,6 @@
     "Nervig",
     "Nerdy",
     "Eklig",
-    "Stoisch",
     "Schlau",
     "Gruselig"
    ],
@@ -2214,7 +2213,7 @@
    "intro": "Wie wärs mit Spinnenweben?",
    "isValid": "",
    "outro": null,
-   "question": "Für den Rest deines Lebens, darfst du nur noch Klamotten aus diesem Stoff tragen",
+   "question": "Für den Rest deines Lebens darfst du nur noch Klamotten aus diesem Stoff tragen",
    "questionShort": "Okayste Stoffe",
    "round": "second",
    "us": false,
@@ -2324,7 +2323,7 @@
     "Puppen",
     "Action Figuren",
     "Hula Hoop",
-    "Yo-Yo",
+    "Jo-Jo",
     "Pokemon Karten"
    ],
    "id": "78099",
@@ -2501,7 +2500,7 @@
    "question": "Suche dir einen Theme Song aus, der immer erklingt, wenn du irgendwo auftauchst",
    "questionShort": "dein Theme Song",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2548,7 +2547,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Du MUSST eine von diesen Sachen  auf deine Eiscreme tun. Für was entscheidest du dich?",
+   "question": "Du MUSST eine von diesen Sachen auf deine Eiscreme tun. Für was entscheidest du dich?",
    "questionShort": "Unappetizing Sundae Toppings",
    "round": "second",
    "us": false,
@@ -2599,7 +2598,7 @@
    "question": "Welchen Orb hättest du am liebsten an deiner Seite?",
    "questionShort": "Freundliche Orbs",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2619,9 +2618,9 @@
    "isValid": "",
    "outro": null,
    "question": "Diese Prinzessin sollte definitiv NICHT deine Hochzeit planen.",
-   "questionShort": "Schechteste Prinzessin als Hochzeitsplanerin",
+   "questionShort": "Schlechteste Prinzessin als Hochzeitsplanerin",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2646,7 +2645,7 @@
    "question": "Dieser Bösewicht sollte am ehesten das Fußball Team deines Kindes coachen",
    "questionShort": "Böse Fußballcoaches",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2668,7 +2667,7 @@
    "question": "Der beste Name für einen R&B Sänger aus den 70ern",
    "questionShort": "Beste R&B Sänger Namen",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2690,7 +2689,7 @@
    "question": "Du wurdest getötet, aber dein Hirn kann in eine Maschine gepflanzt werden. Für welche entscheidest du dich?",
    "questionShort": "Roboter Jobs",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2741,7 +2740,7 @@
    "question": "Welchen Bond Film würdest du am ehesten anschauen?",
    "questionShort": "Noch nicht gefilmte 007 Filme",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -2763,7 +2762,7 @@
    "question": "Der schlimmste Song für den ersten Hochzeitstanz",
    "questionShort": "schlimmste Hochzeitsongs",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -2815,7 +2814,7 @@
    "question": "Welche Disney Dads waren echt keine guten Väter?",
    "questionShort": "schlechteste Disney Väter",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2824,11 +2823,10 @@
     "hart gekocht",
     "weich gekocht",
     "gerührt",
-    "Omelet",
+    "Omelett",
     "Spiegelei",
     "Senfeier",
     "Eiersalat",
-    "weich gekocht",
     "super hart gekocht",
     "roh",
     "pochiert",
@@ -2856,7 +2854,6 @@
     "Chop Suey",
     "Chicken Wings",
     "Reis",
-    "Chow Mein",
     "Reisnudeln",
     "Teigtaschen"
    ],
@@ -2877,8 +2874,6 @@
     "Cola Zero",
     "Fanta",
     "Sprite",
-    "Root Beer",
-    "Dr. Pepper",
     "Kirsch Cola",
     "Eistee",
     "Limonade",
@@ -2919,7 +2914,7 @@
    "question": "Okay Leute, Zeit ein paar Tacos zusammenzuwürfeln!",
    "questionShort": "Tacos machen",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3000,9 +2995,9 @@
     "spielt Gitarre",
     "Sexy Vampir (Film)",
     "Sexy Vampire (Serie)",
-    "vager Influencer",
+    "durchschnittlicher Influencer",
     "Tatsächlich talentiert!",
-    "Hat einen Explosionschannel auf YouTube"
+    "Hat einen krassen Channel auf YouTube"
    ],
    "id": "78370",
    "intro": null,
@@ -3019,10 +3014,10 @@
    "choices": [
     "\"Oh, wow.\"",
     "\"Wie nett!\"",
-    "\"Schhhhhh.\"",
+    "\"Shhhhhh.\"",
     "\"Wie war nochmal dein Name?\"",
     "\"Schon cringe.\"",
-    "\"Oof.\"",
+    "\"Uff.\"",
     "\"Interessant!\"",
     "\"Tja.\""
    ],
@@ -3039,20 +3034,20 @@
   {
    "category": "hypothetical",
    "choices": [
-    "Wird zu einem Monster",
+    "Wirst zu einem Monster",
     "Schläft für 100 Jahre",
     "Nase wächst, wenn du lügst",
     "Alles was du anfässt wird zu Gold",
     "Ein Frosch bis du geküsst wirst",
     "Gefühle müssen gesungen werden",
     "dein Spiegel beleidigt dich täglich",
-    "lebt in einem großen Schuh"
+    "lebst in einem großen Schuh"
    ],
    "id": "78398",
    "intro": "Was eine verflucht gute Frage!",
    "isValid": "",
    "outro": null,
-   "question": "Mit welchem Märchen-Fluch, könntest du dich abfinden?",
+   "question": "Mit welchem Märchen-Fluch könntest du dich abfinden?",
    "questionShort": "Märchen Flüche",
    "round": "second",
    "us": false,
@@ -13232,7 +13227,7 @@
    "question": "Du kandidierst für ein Amt. Was ist dein Wahlkampfslogan?",
    "questionShort": "Dein politischer Slogan",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -13254,7 +13249,7 @@
    "question": "Welches Gadget von Batman hättest du gerne?",
    "questionShort": "Die besten Bat-gets",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -13466,7 +13461,7 @@
    "question": "Welche unwahrscheinliche Horrorfilm-Bedrohung ist die GRUSELIGSTE!?",
    "questionShort": "Jetzt hab' ich aber Angst!",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -13488,7 +13483,7 @@
    "question": "Welcher Pop-Punk-Songtitel beschreibt deinen aktuellen Lebensstand?",
    "questionShort": "Pop Punk Status",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -13510,7 +13505,7 @@
    "question": "Ein bösartiger Gangster hat versucht, dich umzubringen. Du hast überlebt. Welchen \"coolen\" Spruch sagst du, wenn du durch die Tür stürmst?!?!",
    "questionShort": "Coole untote Sprüche",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   }
  ]
