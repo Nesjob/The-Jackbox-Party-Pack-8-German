@@ -146,7 +146,7 @@
     "Startverzögerungen",
     "Die einzige Unterhaltung: [i]Zoolander 2[/i]",
     "Stürmisches Wetter",
-    "Schrulliger Pilot"
+    "Häufige, unverständliche Durchsagen"
    ],
    "id": "76659",
    "intro": null,
@@ -199,7 +199,7 @@
    "question": "Welchen Beruf könntest du vermutlich am längsten ausüben, bevor du als Betrüger entlarvt wirst?",
    "questionShort": "Leicht zu fälschende Jobs",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -399,7 +399,7 @@
    "question": "Der beste fiktionale Ort, um plötzlich dahin teleportiert zu werden",
    "questionShort": "bester fiktionale Ort",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -423,7 +423,7 @@
    "question": "Der schlimmste fiktionale Ort, um plötzlich dahin teleportiert zu werden",
    "questionShort": "schlimmster fiktionaler Ort",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -513,7 +513,7 @@
    "question": "Welcher Muppet wäre der schrecklichste Mitbewohner?",
    "questionShort": "Schlimmster Mitbewohner Muppet",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -605,7 +605,7 @@
    "question": "Dein persönlicher Assistent übernimmt ab heute diese Sache für dich und du musst sie nie wieder tun.",
    "questionShort": "Verschwundene Pflichten",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -627,7 +627,7 @@
    "question": "Von welchem Magazin hättest du am liebsten ein lebenslanges Abonnement umsonst?",
    "questionShort": "Liebstes lebenslanges Abo",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -805,7 +805,7 @@
    "question": "In welcher Show würdest du die beste Leistung erbringen?",
    "questionShort": "Show, die du gewinnen könntest",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -849,7 +849,7 @@
    "question": "Damit kannst du das perfekte Stillleben zeichnen",
    "questionShort": "Bestes Stillleben",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -937,7 +937,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Die gender-neutrale Ansprache, die du mehr verwenden willst:  “Hallo…”",
+   "question": "Die gender-neutrale Ansprache, die du mehr verwenden willst: “Hallo…”",
    "questionShort": "beste genderneutrale Ansprache",
    "round": "third",
    "us": false,
@@ -1006,7 +1006,7 @@
    "question": "Du kennst doch die Rentiere des Weihnachtsmanns, oder? Welchen Namen findest du am besten?",
    "questionShort": "dein Rentier Name",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1205,7 +1205,7 @@
    "question": "Von welchem Geist würdest du am liebsten heimgesucht werden?",
    "questionShort": "Bevorzugte Geister",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1407,7 +1407,7 @@
    "question": "Du bist in einer romantischen Komödie und dein Ex kommt um die Ecke! Schnell! Wie tarnst du dich?",
    "questionShort": "beste spontane Verkleidung",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1429,7 +1429,7 @@
    "question": "Der beste Name für einen schnulzen Autor",
    "questionShort": "Bester Schnulzen Autor Name",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -1607,7 +1607,7 @@
    "question": "Welcher dritte Teil war der Schlechteste?",
    "questionShort": "Dritte Teile..",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1695,7 +1695,7 @@
    "question": "Such dir einfach 'nen Finger aus?",
    "questionShort": "Finger aussuchen",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1758,7 +1758,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Welche Kombination von unnützen Items wird dir dabei helfen eine Bombe zu entschärfen?",
+   "question": "Welche Kombination von unnützen Dingen wird dir dabei helfen eine Bombe zu entschärfen?",
    "questionShort": "Na los MacGyver",
    "round": "second",
    "us": false,
@@ -1915,7 +1915,7 @@
    "question": "Dein Ex ist in der Karaoke Bar! Welchen Song singst du, um klar zu machen, was abgeht?",
    "questionShort": "Ex beim Karaoke",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2022,7 +2022,7 @@
    "intro": "Die nächste Frage ist außerirdisch!",
    "isValid": "",
    "outro": null,
-   "question": "Aliens kommen auf die Erde. Schnell, was schenkst du ihnen?.",
+   "question": "Aliens kommen auf die Erde. Schnell, was schenkst du ihnen?",
    "questionShort": "Aliens Willkommen heißen",
    "round": "third",
    "us": false,
@@ -2158,7 +2158,6 @@
     "Nervig",
     "Nerdy",
     "Eklig",
-    "Stoisch",
     "Schlau",
     "Gruselig"
    ],
@@ -2214,7 +2213,7 @@
    "intro": "Wie wärs mit Spinnenweben?",
    "isValid": "",
    "outro": null,
-   "question": "Für den Rest deines Lebens, darfst du nur noch Klamotten aus diesem Stoff tragen",
+   "question": "Für den Rest deines Lebens darfst du nur noch Klamotten aus diesem Stoff tragen",
    "questionShort": "Okayste Stoffe",
    "round": "second",
    "us": false,
@@ -2324,7 +2323,7 @@
     "Puppen",
     "Action Figuren",
     "Hula Hoop",
-    "Yo-Yo",
+    "Jo-Jo",
     "Pokemon Karten"
    ],
    "id": "78099",
@@ -2501,7 +2500,7 @@
    "question": "Suche dir einen Theme Song aus, der immer erklingt, wenn du irgendwo auftauchst",
    "questionShort": "dein Theme Song",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2548,7 +2547,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Du MUSST eine von diesen Sachen  auf deine Eiscreme tun. Für was entscheidest du dich?",
+   "question": "Du MUSST eine von diesen Sachen auf deine Eiscreme tun. Für was entscheidest du dich?",
    "questionShort": "Unappetizing Sundae Toppings",
    "round": "second",
    "us": false,
@@ -2599,7 +2598,7 @@
    "question": "Welchen Orb hättest du am liebsten an deiner Seite?",
    "questionShort": "Freundliche Orbs",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2619,9 +2618,9 @@
    "isValid": "",
    "outro": null,
    "question": "Diese Prinzessin sollte definitiv NICHT deine Hochzeit planen.",
-   "questionShort": "Schechteste Prinzessin als Hochzeitsplanerin",
+   "questionShort": "Schlechteste Prinzessin als Hochzeitsplanerin",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2646,7 +2645,7 @@
    "question": "Dieser Bösewicht sollte am ehesten das Fußball Team deines Kindes coachen",
    "questionShort": "Böse Fußballcoaches",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2668,7 +2667,7 @@
    "question": "Der beste Name für einen R&B Sänger aus den 70ern",
    "questionShort": "Beste R&B Sänger Namen",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2690,7 +2689,7 @@
    "question": "Du wurdest getötet, aber dein Hirn kann in eine Maschine gepflanzt werden. Für welche entscheidest du dich?",
    "questionShort": "Roboter Jobs",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2738,10 +2737,10 @@
    "intro": "Der Name ist Cavern, Laverne Cavern....",
    "isValid": "",
    "outro": null,
-   "question": "Wlchen Bond Film würdest du am ehesten anschauen?",
+   "question": "Welchen Bond Film würdest du am ehesten anschauen?",
    "questionShort": "Noch nicht gefilmte 007 Filme",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -2815,7 +2814,7 @@
    "question": "Welche Disney Dads waren echt keine guten Väter?",
    "questionShort": "schlechteste Disney Väter",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2915,7 +2914,7 @@
    "question": "Okay Leute, Zeit ein paar Tacos zusammenzuwürfeln!",
    "questionShort": "Tacos machen",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2941,7 +2940,7 @@
    "question": "Die besten Zutaten für das Silvester Raclette",
    "questionShort": "beste Raclette Zutaten",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3015,10 +3014,10 @@
    "choices": [
     "\"Oh, wow.\"",
     "\"Wie nett!\"",
-    "\"Schhhhhh.\"",
+    "\"Shhhhhh.\"",
     "\"Wie war nochmal dein Name?\"",
     "\"Schon cringe.\"",
-    "\"Oof.\"",
+    "\"Uff.\"",
     "\"Interessant!\"",
     "\"Tja.\""
    ],
@@ -3048,7 +3047,7 @@
    "intro": "Was eine verflucht gute Frage!",
    "isValid": "",
    "outro": null,
-   "question": "Mit welchem Märchen-Fluch, könntest du dich abfinden?",
+   "question": "Mit welchem Märchen-Fluch könntest du dich abfinden?",
    "questionShort": "Märchen Flüche",
    "round": "second",
    "us": false,
@@ -3095,7 +3094,7 @@
    "question": "Was für einen Keks hättest du gerade gerne?",
    "questionShort": "Kekse!",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3119,7 +3118,7 @@
    "question": "Where would you like to go on a first date?",
    "questionShort": "Fun First Date Activities",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -3145,7 +3144,7 @@
    "question": "Gut reaction… who do you think killed the count in this fancy manor?",
    "questionShort": "Who Killed the Count?",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3167,7 +3166,7 @@
    "question": "Pick an exotic pet to be your exotic pet!",
    "questionShort": "Exotic Pets",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3189,7 +3188,7 @@
    "question": "Oh no, someone just walked in on you changing! Quick, grab a nearby item to hide your shame!",
    "questionShort": "Hide Your Shame",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -3233,7 +3232,7 @@
    "question": "What instruments would you most like to master?",
    "questionShort": "Best Instruments",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3255,7 +3254,7 @@
    "question": "Build the perfect roommate!",
    "questionShort": "Perfect Roommates",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3277,7 +3276,7 @@
    "question": "Pick an EXTREME!!! sport to play professionally",
    "questionShort": "Extreme Sports",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3301,7 +3300,7 @@
    "question": "The shampoos you are LEAST likely to use",
    "questionShort": "Worst Shampoos",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -3323,7 +3322,7 @@
    "question": "Build the perfect smoothie.",
    "questionShort": "Perfect Smoothies",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3347,7 +3346,7 @@
    "question": "In the shower, what parts should you wash first?",
    "questionShort": "First Wash in Shower",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -3373,7 +3372,7 @@
    "question": "Worst place to get broken up with",
    "questionShort": "Place of Break Up",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3399,7 +3398,7 @@
    "question": "Argh, Cap'n, pick your pirate crew from the scurviest, wretchedest sea dogs I've ever feasted me eyes upon.",
    "questionShort": "Your Pirate Crew",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -3421,7 +3420,7 @@
    "question": "Choose your ideal sleepwear from this awful list. Muahahaha.",
    "questionShort": "Sleepwear",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3446,7 +3445,7 @@
    "question": "You're a newly famous pop star. What do you want to do first?",
    "questionShort": "Pop Star Moves",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3468,7 +3467,7 @@
    "question": "Imagine you're taking a midnight bathroom break and your house is pitch black. Which of the following are you most likely to do?",
    "questionShort": "Night Bathroom Breaks",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3491,7 +3490,7 @@
    "question": "Go back to the 1600s and gift the people of the world a modern invention",
    "questionShort": "1600s Get Modern Inventions",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3513,7 +3512,7 @@
    "question": "Soap opera problems you would NOT want to deal with",
    "questionShort": "Soap Opera Problems",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3538,7 +3537,7 @@
    "question": "You can bring back any animal from extinction, so you choose...",
    "questionShort": "Bring Back from Extinction",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3560,7 +3559,7 @@
    "question": "What's the most surefire excuse for cancelling plans?",
    "questionShort": "Best Excuses to Bail",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3582,7 +3581,7 @@
    "question": "Between us, which roles in the third-grade pageant about the food chain are the REAL stars?",
    "questionShort": "Best Food Chain Roles",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3606,7 +3605,7 @@
    "question": "The world's most interesting delicacies that you'd be willing to try",
    "questionShort": "I Would Try...",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -3630,7 +3629,7 @@
    "question": "Your weapon of choice for the zombie apocalypse",
    "questionShort": "Zombie Apocalypse Weapons",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3680,7 +3679,7 @@
    "question": "Our plan to conquer the world: recruit and train a bug army. Which insects are you picking?",
    "questionShort": "Build Your Swarm",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3704,7 +3703,7 @@
    "question": "Your new partner is finally coming over! What books do you leave on the coffee table?",
    "questionShort": "Best First Impression Books",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -3730,7 +3729,7 @@
    "question": "Hey, college student! Dress up your instant Ramen with stuff you have laying around!",
    "questionShort": "College Student Ramen Fixes",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -3756,7 +3755,7 @@
    "question": "Congrats on the new kitty! Which wild name are you giving them?",
    "questionShort": "Best Cat Names",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3778,7 +3777,7 @@
    "question": "Ew. This is the WORST kind of infestation to have in your house",
    "questionShort": "Worst Infestations",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3803,7 +3802,7 @@
    "question": "Creatures that you wouldn't want to turn Big and Red à la Clifford the Big Red Dog.",
    "questionShort": "Clifforded Monstrosities",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3827,7 +3826,7 @@
    "question": "By day, you're you. By night, you are possessed by an alternate personality! Who do you want to be?",
    "questionShort": "Nighttime Alternate Personalities",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3851,7 +3850,7 @@
    "question": "The BEST fries",
    "questionShort": "Best Fries",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3875,7 +3874,7 @@
    "question": "Ok, let's do this. Sexiest piece of office equipment.",
    "questionShort": "Sexiest Office Supplies",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -3897,7 +3896,7 @@
    "question": "Hey, what do you want with your sandwich?",
    "questionShort": "Sandwich Sides",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3919,7 +3918,7 @@
    "question": "I'm turning you into cyborgs! Which robot part are you most excited about?!",
    "questionShort": "Best Robot Features",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3945,7 +3944,7 @@
    "question": "The absolute most important things you look for in an apartment",
    "questionShort": "Apartment Hunting Must Haves",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3971,7 +3970,7 @@
    "question": "What's the worst thing you could get for the Holiday Gift Exchange this year?",
    "questionShort": "Bad Secret Santa Gifts",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3996,7 +3995,7 @@
    "question": "If the rooms of your place were people, who would be your BEST FRIEND?",
    "questionShort": "Best Rooms",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4018,7 +4017,7 @@
    "question": "What can you simply not live without on your big, fancy yacht?",
    "questionShort": "Yacht Must-Haves",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4040,7 +4039,7 @@
    "question": "Once and for all... what's the key to getting a good night's sleep?",
    "questionShort": "Bedtime Routines",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4062,7 +4061,7 @@
    "question": "Which smell would you like just one whiff of, and no more?",
    "questionShort": "Whiffing It",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4085,7 +4084,7 @@
    "question": "Which M. Night Shyamalan movie would be the worst to live through?",
    "questionShort": "Worst M. Night of Your Life",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4107,7 +4106,7 @@
    "question": "What's the most consistently reliable fruit?",
    "questionShort": "Fruits That Are Always Mostly Good",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4129,7 +4128,7 @@
    "question": "No time to explain! Which color is the most delicious?",
    "questionShort": "Tasty Colors",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4153,7 +4152,7 @@
    "question": "Who's the real champion of the spice rack?",
    "questionShort": "Spicy Spices",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4175,7 +4174,7 @@
    "question": "Boo! You're a ghost. Where do you want to haunt for the rest of time?",
    "questionShort": "Best Haunting Spots",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4221,7 +4220,7 @@
    "question": "Which animal looks like it's hiding a naughty little secret?",
    "questionShort": "Secretive Animals",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -4245,7 +4244,7 @@
    "question": "Build the perfect sneaker",
    "questionShort": "Perfect Sneaker",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4267,7 +4266,7 @@
    "question": "What's the key to a great concert experience?",
    "questionShort": "Concert Must-Haves",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4289,7 +4288,7 @@
    "question": "Which activity should never ever ever last for more than thirty minutes?",
    "questionShort": "Thirty Minutes on the Clock",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -4311,7 +4310,7 @@
    "question": "Where are you building your supervillain lair?",
    "questionShort": "Supervillain Lairs",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4333,7 +4332,7 @@
    "question": "What is the WORST time for the groom to get cold feet and leave their own wedding?",
    "questionShort": "Worst Groom Exits",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4357,7 +4356,7 @@
    "question": "How many coffee mugs should a couple have at home?",
    "questionShort": "Best Number of Mugs",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4379,7 +4378,7 @@
    "question": "What is the absolute WORST place to buy sushi?",
    "questionShort": "Worst Places to Buy",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4403,7 +4402,7 @@
    "question": "Manicure time! Pick a nail polish color!",
    "questionShort": "Pick a Nail Polish",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4425,7 +4424,7 @@
    "question": "Be the host with the most! Build your dream... guest bathroom.",
    "questionShort": "Best Guest Bathrooms",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4450,7 +4449,7 @@
    "question": "Pick a team of resourceful cartoon rodents for your secret military operation.",
    "questionShort": "Useful Cartoon Rodents",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4476,7 +4475,7 @@
    "question": "We're going to the deli! Give me your bagel order!",
    "questionShort": "Bagel Order!",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4498,7 +4497,7 @@
    "question": "Lecture's boring, so time for some doodlin'. What are you doodlin'?",
    "questionShort": "Best Doodles",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4522,7 +4521,7 @@
    "question": "Hey Slugger! What was your favorite part of summer camp?",
    "questionShort": "Favorite Camp Activities",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4546,7 +4545,7 @@
    "question": "To be honest? Most of the time, I wish I was this emoji.",
    "questionShort": "I Am This Emoji",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4568,7 +4567,7 @@
    "question": "Ok, it's not called \"space\" anymore. Pick the new name for space!",
    "questionShort": "Naming Space",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4592,7 +4591,7 @@
    "question": "Best reason to ask the front desk to change your hotel room",
    "questionShort": "Reasons to Change Room",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4614,7 +4613,7 @@
    "question": "Which of these made-up horror movies sounds the scariest?",
    "questionShort": "Scariest Horror Movies",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4636,7 +4635,7 @@
    "question": "At midnight, one of these afflictions overtakes you until morning. Which is worst?",
    "questionShort": "Midnight Afflictions",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4658,7 +4657,7 @@
    "question": "A sorceress has cursed you to taste only one flavor for the rest of time. Which can you tolerate?",
    "questionShort": "Tolerable Flavors",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4680,7 +4679,7 @@
    "question": "Choose a different time and place to visit for one week",
    "questionShort": "One Week Visits",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4705,7 +4704,7 @@
    "question": "Make it stop!!! The most annoying Christmas songs",
    "questionShort": "Annoying Xmas Songs",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4731,7 +4730,7 @@
    "question": "Your headstone (RIP) can only be engraved with one of the following options. \"Here lies a...\"",
    "questionShort": "Headstone Engravements",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -4753,7 +4752,7 @@
    "question": "It's Sunday! What are you getting up to?",
    "questionShort": "Lazy Sunday",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4777,7 +4776,7 @@
    "question": "Hot day! Cool drinks! What's on your drink koozie?",
    "questionShort": "Koozin' for a Brusin'",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -4799,7 +4798,7 @@
    "question": "What's your favorite Chex Mix piece?",
    "questionShort": "Mix It Up",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4821,7 +4820,7 @@
    "question": "Which item is the most worthy of putting on the fridge?",
    "questionShort": "Fridge-Worthy Items",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4843,7 +4842,7 @@
    "question": "The aliens ask you to take them to your leader. Who do you bring them to?",
    "questionShort": "Introduce the Aliens to...",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4869,7 +4868,7 @@
    "question": "What horses are you definitely NOT betting on at the Kentucky Derby?",
    "questionShort": "Worst Kentucky Derby Horses",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4895,7 +4894,7 @@
    "question": "Hey, wacky sitcom neighbor, pick your catchphrase",
    "questionShort": "Your Sitcom Catchphrase",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4917,7 +4916,7 @@
    "question": "What folktale/urban legend is likeliest to be true?",
    "questionShort": "True Folktales",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4943,7 +4942,7 @@
    "question": "You've been invited to a get-together. The host has asked you to bring snacks. What's the worst thing you could bring?",
    "questionShort": "Bringing Bad Party Snacks",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5016,7 +5015,7 @@
    "question": "It's time to ruin the neighborhood with lawn ornaments. What's going on your lawn!?",
    "questionShort": "Worst Lawn Ornaments",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5039,7 +5038,7 @@
    "question": "Which combination would make the spookiest haunted house?",
    "questionShort": "Spookiest Haunted Houses",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5061,7 +5060,7 @@
    "question": "Which gift best says, \"I like you... as a friend\"?",
    "questionShort": "Best \"Friend\" Gifts",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5083,7 +5082,7 @@
    "question": "Which of these reality stars would you want to be roommates with?",
    "questionShort": "Reality TV Roommates",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5107,7 +5106,7 @@
    "question": "It's late. The cute person at the bar wants to take you to another spot. Where are you NOT going?",
    "questionShort": "Worst Second Location",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -5131,7 +5130,7 @@
    "question": "Which of these trending topics are you clicking on to learn more?",
    "questionShort": "Interesting Trending Topics",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5157,7 +5156,7 @@
    "question": "Renaissance Faire! What hodge podge of history and fantasy are you dressing up as today?",
    "questionShort": "Ren Faire Costumes",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5183,7 +5182,7 @@
    "question": "Which quirky detective do you want to solve your murder?",
    "questionShort": "Detective on Your Case",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5207,7 +5206,7 @@
    "question": "What is essential to the perfect outdoor BBQ party?",
    "questionShort": "Perfect BBQ",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5229,7 +5228,7 @@
    "question": "Which of these are you NOT riding?",
    "questionShort": "I Will NOT Ride...",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5253,7 +5252,7 @@
    "question": "I would totally wear this shirt: \"Kiss me, I'm...\"",
    "questionShort": "\"Kiss Me, I'm...\"",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5275,7 +5274,7 @@
    "question": "Which of these public proposals would you actually say \"yes\" to",
    "questionShort": "Best Public Proposals",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5297,7 +5296,7 @@
    "question": "Which of these theme parks sounds the absolute worst?",
    "questionShort": "Worst Theme Parks",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5321,7 +5320,7 @@
    "question": "Aww, are you home sick with a cold? Pick some remedies to make it all better.",
    "questionShort": "Home Cold Remedies",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5343,7 +5342,7 @@
    "question": "Which movie do you most want to see get a gritty reboot?",
    "questionShort": "Gritty Reboots",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5365,7 +5364,7 @@
    "question": "What is the best Halloween costume for a tiny little fuzzy dog and their tiny little fuzzy paws???",
    "questionShort": "Best Dog Halloween Costumes",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5387,7 +5386,7 @@
    "question": "What's the WORST thing about parades?",
    "questionShort": "Parades Are Bad",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5409,7 +5408,7 @@
    "question": "No one likes a naked salad! Quick, pick a salad dressing to enjoy!",
    "questionShort": "Best Salad Dressings",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5431,7 +5430,7 @@
    "question": "What is the most impressive thing someone could juggle?",
    "questionShort": "Most Impressive Things to Juggle",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5481,7 +5480,7 @@
    "question": "Tame one beast! And then RIDE it!!!",
    "questionShort": "Tame a Beast",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5504,7 +5503,7 @@
    "question": "It's the most important meal of the day! Pick a breakfast to stuff in your face.",
    "questionShort": "Pick a Breakfast",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -5582,7 +5581,7 @@
    "question": "Let's say you found a time capsule from the past. What objects would you like to take home with you?",
    "questionShort": "Time Capsule Objects",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5604,7 +5603,7 @@
    "question": "You're all alone at night with no cell service. Absolute scariest place to be?",
    "questionShort": "Scariest Places to Be Alone",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5629,7 +5628,7 @@
    "question": "Who is the SEXIEST of [i]People[/i]'s Sexiest Men Alive? (either in their prime or now)",
    "questionShort": "Sexiest Men Alive",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -5651,7 +5650,7 @@
    "question": "You're the lead detective on a huge case. Who do you want for a partner?",
    "questionShort": "Case Partners",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5675,7 +5674,7 @@
    "question": "Construct the perfect 2000s-era outfit.",
    "questionShort": "Fashion of the Millenium",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5719,7 +5718,7 @@
    "question": "WORST liquid to accidentally fill your humidifier with",
    "questionShort": "Humidifier Mistakes",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5741,7 +5740,7 @@
    "question": "If you didn't have to worry about breathing or food, which planet would you raise a family on?",
    "questionShort": "Family Antimatters",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5765,7 +5764,7 @@
    "question": "Ya fell in a well! And there's a bunch of weird stuff down there! Use a few items together to get yourself out!",
    "questionShort": "Escape a Well",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5787,7 +5786,7 @@
    "question": "Your creator is discontinuing less-popular parts of the human body to cut costs. Which should go first?",
    "questionShort": "Everything Must Go",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5809,7 +5808,7 @@
    "question": "In a household of four, what chores would you REALLY HATE to get on the chore wheel?",
    "questionShort": "Worst Chores",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5831,7 +5830,7 @@
    "question": "You can only listen to one song for the rest of your life, and it has to be from 2009. What's it gonna be?",
    "questionShort": "2009 Hit... Forever.",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5853,7 +5852,7 @@
    "question": "What material do you want to stick your whole hand into for no reason?",
    "questionShort": "Put Your Hand in It",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5875,7 +5874,7 @@
    "question": "Which is the WORST seat on the bus?",
    "questionShort": "Worst Bus Seats",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5899,7 +5898,7 @@
    "question": "Websites are human now! Which one are you marrying?",
    "questionShort": "Lawfully Wedded Clicks",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5921,7 +5920,7 @@
    "question": "What noise would you least like to wake you in the morning?",
    "questionShort": "Worst Morning Noises",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5945,7 +5944,7 @@
    "question": "Which combination of flavors and textures will produce the Ultimate Candy Bar?",
    "questionShort": "Candy Bar Combos",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5967,7 +5966,7 @@
    "question": "What do you look for in a really good pen?",
    "questionShort": "Really Good Pens",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5991,7 +5990,7 @@
    "question": "Which is your favorite British curse word I just made up?",
    "questionShort": "Fake British Curse Words",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -6013,7 +6012,7 @@
    "question": "You're trying to work the doorknob but you just lotioned your hands. How do you get out?",
    "questionShort": "Open Door With...",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6038,7 +6037,7 @@
    "question": "You're being pressured by your friends into getting matching tattoos of Steve Buscemi. Where are you getting yours?",
    "questionShort": "Where to Tattoo",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -6060,7 +6059,7 @@
    "question": "What are we putting off for tomorrow?",
    "questionShort": "Procrastination Nation",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6082,7 +6081,7 @@
    "question": "If this animal grows wings and starts to fly, I'm moving to a bunker.",
    "questionShort": "Worst Hypothetically Winged Beasts",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6104,7 +6103,7 @@
    "question": "When you go to sleep... how are you configured?",
    "questionShort": "Superior Sleeping Shapes",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6126,7 +6125,7 @@
    "question": "Well shoot... the grizzled detective identified you as the murderer. What probably gave you away?",
    "questionShort": "Caught Ya!",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -6148,7 +6147,7 @@
    "question": "Welcome to Apocalypse Teen School! Which archetype are you?",
    "questionShort": "Save the World, Teens",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6170,7 +6169,7 @@
    "question": "What would be the most dangerous animal to hunt?",
    "questionShort": "The MOST Dangerous Game",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -6196,7 +6195,7 @@
    "question": "If your life was an epic poem, who would be your Olympian sponsor?",
    "questionShort": "Olympian Sponsors",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6220,7 +6219,7 @@
    "question": "Sometimes friendship can be a lot of work. Which of these are you most reluctant to do even for your most beloved friends?",
    "questionShort": "Reluctant Helping Hand",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6244,7 +6243,7 @@
    "question": "Before you are eight containers. Pick the one that probably does NOT contain a deadly neurotoxin.",
    "questionShort": "Mysterious Concoctions",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6269,7 +6268,7 @@
    "question": "Build the perfect organism using parts from other animals.",
    "questionShort": "Perfect Chimeras",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6295,7 +6294,7 @@
    "question": "You have the Midas Touch, but instead of gold everything turns to...",
    "questionShort": "Turn What You Touch Into...",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6318,7 +6317,7 @@
    "question": "You get to customize your boss! Pick the necessary leadership qualities (the ones you don't pick, they will not have).",
    "questionShort": "Customize Your Boss' Qualities",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6343,7 +6342,7 @@
    "question": "What are you going to do when you finally retire?",
    "questionShort": "Retirement Plans",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6369,7 +6368,7 @@
    "question": "Which cooked frozen food item would you not mind eating still frozen?",
    "questionShort": "Eating Frozen Food",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6391,7 +6390,7 @@
    "question": "We had a great day at the Natural History Museum! What are you buying at the gift shop?",
    "questionShort": "Best Gift Shop Purchases",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6413,7 +6412,7 @@
    "question": "Where are you going on your dream honeymoon?",
    "questionShort": "Dream Honeymoon",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -6435,7 +6434,7 @@
    "question": "If you beat Death in a board game, you get to live! Which game are you picking?",
    "questionShort": "Games to Beat Death",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6457,7 +6456,7 @@
    "question": "What's the biggest red flag a new partner could have?",
    "questionShort": "Biggest Red Flags",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6479,7 +6478,7 @@
    "question": "Finally, you've earned a relaxing day off! How do you want to spend it?",
    "questionShort": "Your Ideal Day Off",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6502,7 +6501,7 @@
    "question": "Toast! Toast! Craft the perfect best man/maid of honor speech!",
    "questionShort": "Wedding Speech Necessities",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6546,7 +6545,7 @@
    "question": "What major question do you most want to know the answer to?",
    "questionShort": "Major Questions",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6568,7 +6567,7 @@
    "question": "Fish are fun! Which fish would you most like to hang out with?",
    "questionShort": "Funnest Fish",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6592,7 +6591,7 @@
    "question": "We can't afford a Broadway Musical. We have to go Off-Off-Off-Off Broadway and see one of these.",
    "questionShort": "Pick a Cheap Musical",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6618,7 +6617,7 @@
    "question": "Just like a Mermaid or a Centaur, choose your bottom animal half.",
    "questionShort": "Your Bottom Animal Half",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6635,7 +6634,7 @@
    "question": "A time-traveler has arrived to prevent a terrible future from occurring! Who must they stop?!",
    "questionShort": "Who Must the Time-Traveler Stop?",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -6652,7 +6651,7 @@
    "question": "Who would survive the longest in the Hunger Games?",
    "questionShort": "Hunger Game Champions",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6669,7 +6668,7 @@
    "question": "If we were playing [i]Quiplash[/i] instead, who would be in the lead?",
    "questionShort": "Funniest Quiplashers",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6686,7 +6685,7 @@
    "question": "A huge pie fight breaks out, who is getting the messiest?",
    "questionShort": "Messy Pie Fight Participants",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6703,7 +6702,7 @@
    "question": "Who had the wildest night last night?",
    "questionShort": "Party Animals",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6720,7 +6719,7 @@
    "question": "You're all invited to spend the night in a haunted house. Who is chickening out first? (after a few doors start slamming)",
    "questionShort": "Afraid of Haunted Houses",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6742,7 +6741,7 @@
    "question": "You’ve got to have an animal body part now. Don't ask questions. What’ll it be?",
    "questionShort": "Animal Body Parts",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6764,7 +6763,7 @@
    "question": "A job you would not want performed by someone still in training",
    "questionShort": "Still In Training",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6791,7 +6790,7 @@
    "question": "Most grating everyday sounds",
    "questionShort": "Grating Sounds",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6813,7 +6812,7 @@
    "question": "There’s gold at the bottom of a chalice, but you have to drink the contents to get to it. Which one can you get down?",
    "questionShort": "Drink for Gold",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6835,7 +6834,7 @@
    "question": "Pick one source of light to have in your windowless home",
    "questionShort": "Home Light Sources",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6857,7 +6856,7 @@
    "question": "Subgenre of music you love the most! (You have to choose!)",
    "questionShort": "Favorite Music Subgenres",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6883,7 +6882,7 @@
    "question": "What's the mundane Victorian-era activity you would enjoy the most?",
    "questionShort": "Victorian Era Activities",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6906,7 +6905,7 @@
    "question": "Which character are you in a slasher flick?",
    "questionShort": "Slasher Flick Characters",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6928,7 +6927,7 @@
    "question": "Which of these could you eat a lot of? (But there are no drinks available)",
    "questionShort": "Eat But No Drink",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6951,7 +6950,7 @@
    "question": "The wholesome childhood activity you'd like to do again as an adult",
    "questionShort": "Childhood Activities",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6974,7 +6973,7 @@
    "question": "We're at a hipster speakeasy, pick your elaborate specialty cocktails.",
    "questionShort": "Hipster Specialty Cocktails",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -6996,7 +6995,7 @@
    "question": "Your fish need a fun home! What cool decorations are you putting in your fish tank?",
    "questionShort": "Fish Tank Furniture",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7018,7 +7017,7 @@
    "question": "Which of these deadly sins is the actual worst?",
    "questionShort": "Deadliest Sins",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -7043,7 +7042,7 @@
    "question": "What's the worst vehicle to do a cross-country summer road trip?",
    "questionShort": "Worst Cross-Country Road Trip Vehicles",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7065,7 +7064,7 @@
    "question": "Build your perfect work friend!",
    "questionShort": "Perfect Work Friends",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7089,7 +7088,7 @@
    "question": "You're hitchhiking across the country, who would you refuse a ride from?",
    "questionShort": "Hitchhiker Refuses a Ride",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -7118,7 +7117,7 @@
    "question": "You've been hired by a snack corporation to come up with the ultimate snack mix. What's definitely going in?",
    "questionShort": "Build Your Snack Mix",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7140,7 +7139,7 @@
    "question": "In what way would you like your life to be more like a movie?",
    "questionShort": "Real-Life Movies",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7162,7 +7161,7 @@
    "question": "Pack a bag for a fun day at the beach!",
    "questionShort": "Beach Bag",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7184,7 +7183,7 @@
    "question": "If you could split yourself into five clones of you, what crazy thing would you attempt to pull off?",
    "questionShort": "Fun with Five Clones",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7206,7 +7205,7 @@
    "question": "You have to poop in the restroom of one of these",
    "questionShort": "\"Best\" Public Restrooms",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7231,7 +7230,7 @@
    "question": "Build your perfect Swiss army knife.",
    "questionShort": "Swiss Army Knife",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7253,7 +7252,7 @@
    "question": "Bad news: you're one of those people who has a signature hat now. Which hat are you picking?",
    "questionShort": "Signature Hats",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7277,7 +7276,7 @@
    "question": "You've snuck away from your tour group. Where would you like to be locked in overnight?",
    "questionShort": "Overnight Visits",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7303,7 +7302,7 @@
    "question": "You need to medal in this year's Summer Olympics to win the respect of your loved one's parents. Which sport are you competing in?",
    "questionShort": "Going for the Gold",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7329,7 +7328,7 @@
    "question": "Pick a name for your pee wee football team from these (all the good ones have been taken)",
    "questionShort": "Best Child Football Mascots",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7352,7 +7351,7 @@
    "question": "Combine traits and create the perfect hairstylist",
    "questionShort": "Build the Perfect Hairstylist",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7374,7 +7373,7 @@
    "question": "At your friend's house for the first time. You're alarmed to discover they do not own this...",
    "questionShort": "Worst Thing to Not Own",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7398,7 +7397,7 @@
    "question": "Your hot air balloon is too heavy to make it across the mountains. You may crash. What do you throw out?",
    "questionShort": "Toss Out of Balloon",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7420,7 +7419,7 @@
    "question": "You slightly annoy a warlock. What would be the WORST minor curse to receive?",
    "questionShort": "Worst Minor Curses",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7444,7 +7443,7 @@
    "question": "What would be the best part of being an outlaw in the Old West?",
    "questionShort": "Fav Old West Features",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7466,7 +7465,7 @@
    "question": "If you were a barnyard animal, how would you like to spend your days?",
    "questionShort": "Barnyard Activities",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -7488,7 +7487,7 @@
    "question": "If forced, which invention would you erase from history?",
    "questionShort": "Expendable Inventions",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7505,7 +7504,7 @@
    "question": "The clown isn't showing up to entertain at a child's birthday party. Who would be the next best option?",
    "questionShort": "Birthday Party Entertainers",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7522,7 +7521,7 @@
    "question": "Which combination of roommates would make the best sitcom?",
    "questionShort": "Sitcom Roommates",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7544,7 +7543,7 @@
    "question": "You have a full year to hone one these skills with the world's leading experts. What do you choose?",
    "questionShort": "One-Year Apprenticeships",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7566,7 +7565,7 @@
    "question": "If these were all golden retriever sized and trainable, what would be the best pet?",
    "questionShort": "Best Dog-Sized Creatures",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7590,7 +7589,7 @@
    "question": "Build a team of superheroes that could defeat the ones you don't pick.",
    "questionShort": "Team to Defeat the Rest",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7660,7 +7659,7 @@
    "question": "One type of pasta has to disappear forever. Which one do you say \"arrivederci\" to?",
    "questionShort": "Reject a Pasta",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7684,7 +7683,7 @@
    "question": "Roller Derby names! Pick the toughest Roller Derby name!",
    "questionShort": "Roller Derby Names!",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7708,7 +7707,7 @@
    "question": "Pick your ice cream flavor!",
    "questionShort": "ICE CREAM PICK IT",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7730,7 +7729,7 @@
    "question": "Which letter do you think would be the easiest to remove from your vocabulary?",
    "questionShort": "Lose a Letter",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7752,7 +7751,7 @@
    "question": "What little creature would you HATE to have following you everywhere you go?",
    "questionShort": "Unwelcome Mini Companions",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7774,7 +7773,7 @@
    "question": "Which fictional weapon are you definitely going to hurt yourself with?",
    "questionShort": "Fictional Ouchies",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7796,7 +7795,7 @@
    "question": "The restaurant you’re on a date at has a menu full of items you’ve never heard of and can’t pronounce! What do you do?",
    "questionShort": "Unfamiliar Menu",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7818,7 +7817,7 @@
    "question": "Internet search you’d be most embarrassed for someone to see",
    "questionShort": "Embarrassing Internet Searches",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -7840,7 +7839,7 @@
    "question": "What's the WORST quality a massage therapist could have?",
    "questionShort": "Masseuse Worst Qualities",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -7864,7 +7863,7 @@
    "question": "Which of these do you wish grew on trees?",
    "questionShort": "Should Grow on Trees",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7890,7 +7889,7 @@
    "question": "Inedible stuff you secretly get the urge to eat",
    "questionShort": "Eat Inedible Stuff",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7912,7 +7911,7 @@
    "question": "What's the worst thing to hear outside your front door?",
    "questionShort": "Bad Front Door Words",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7938,7 +7937,7 @@
    "question": "The country song that describes you on a typical wild night out... based on the title alone",
    "questionShort": "Wild Night Country Songs",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7960,7 +7959,7 @@
    "question": "If you snuck your way into an orchestra, what instrument could you convincingly play without anyone noticing?",
    "questionShort": "Fake an Orchestral Instrument",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -7982,7 +7981,7 @@
    "question": "Oh no! You can't find your keys! Where do you start looking?",
    "questionShort": "Likely Places for Lost Keys",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8006,7 +8005,7 @@
    "question": "Take a deep breath... and name your champion bowling team.",
    "questionShort": "Bowling Team Names",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8028,7 +8027,7 @@
    "question": "All the cool kids are doing it! What are you selling your soul for?",
    "questionShort": "Selling Your Soul",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8050,7 +8049,7 @@
    "question": "What problem do you *wish* you had?",
    "questionShort": "Best Problems",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8072,7 +8071,7 @@
    "question": "What would be the best thing to find in a buried treasure chest?",
    "questionShort": "Treasure Chests",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8094,7 +8093,7 @@
    "question": "It's never too late to make a career change! Pick your new DJ name.",
    "questionShort": "DJ Names",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -8140,7 +8139,7 @@
    "question": "Happy wedding day! Who do you want officiating the ceremony?",
    "questionShort": "Wedding Officiants",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8163,7 +8162,7 @@
    "question": "What is the most trustworthy household appliance?",
    "questionShort": "Trustworthy Appliances",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8185,7 +8184,7 @@
    "question": "It's late at night... what \"As Seen On TV\" product are you ordering?",
    "questionShort": "As Seen On TV",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8207,7 +8206,7 @@
    "question": "You just won the big game! Pick a beverage to have poured over your head in celebration!",
    "questionShort": "Sports Shower",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8229,7 +8228,7 @@
    "question": "Which of these would you find on a curb... and actually use?",
    "questionShort": "Find On Curb; Use",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -8251,7 +8250,7 @@
    "question": "What restaurant would you NOT want to eat at based on the name alone?",
    "questionShort": "Worst Restaurants",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8273,7 +8272,7 @@
    "question": "You've got a court hearing at 12 and a triathlon at 2. What are you wearing that day?",
    "questionShort": "Triathlon Court Hearing Outfits",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8295,7 +8294,7 @@
    "question": "Oh no... you're going to cry at work. Where are you hiding?",
    "questionShort": "Best Crying Spots",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8317,7 +8316,7 @@
    "question": "Fridge clean-out time! Which leftovers would you turn into a makeshift lunch?",
    "questionShort": "The Right Left Overs",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8341,7 +8340,7 @@
    "question": "Which file type would you choose to be your cool \"Future Name\"?",
    "questionShort": "Cool New Names",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8363,7 +8362,7 @@
    "question": "If you were a piece of infrastructure, which one would you be?",
    "questionShort": "Personable Passages",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8385,7 +8384,7 @@
    "question": "You're arranging the perfect bouquet. What's going in that bunch of blooms?",
    "questionShort": "The Perfect Bouquet",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8407,7 +8406,7 @@
    "question": "Ah shoot. It's a [i]Saw[/i] situation. Which body parts are you willing to part with?",
    "questionShort": "It's a [i]Saw[/i] Situation",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -8429,7 +8428,7 @@
    "question": "How do you respond to this teenager who just said \"Whatever.\" to you?",
    "questionShort": "Rude Teenage Reactions",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8451,7 +8450,7 @@
    "question": "Despite your family's pleas, you're getting in a fight at the zoo. Who are you fighting?",
    "questionShort": "Zoo Fight!",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8473,7 +8472,7 @@
    "question": "What would be the best weather for an afternoon nap?",
    "questionShort": "Nap Weather",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8548,7 +8547,7 @@
    "question": "Who of the following would you consider your everyday archnemesis?",
    "questionShort": "Everyday Archnemeses",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8570,7 +8569,7 @@
    "question": "Which member of the Scooby-Doo gang are you?",
    "questionShort": "Scooby-Doo Gang Members",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8596,7 +8595,7 @@
    "question": "Build your perfect dinner plate at a family get-together",
    "questionShort": "Food at Family Function",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -8618,7 +8617,7 @@
    "question": "What is the most unfortunate thing to step on in your home?",
    "questionShort": "Worst Thing to Step On",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8644,7 +8643,7 @@
    "question": "What thing of the past do you wish was still in popular use today?",
    "questionShort": "Bring Back Past Fads",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8667,7 +8666,7 @@
    "question": "Out of these, which item is DEFINITELY NOT a sandwich?",
    "questionShort": "Not a Sandwich!!!",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8689,7 +8688,7 @@
    "question": "Ow! Which of these minor pains hurts the most?",
    "questionShort": "Minor Pain",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8733,7 +8732,7 @@
    "question": "Which of these non-swears are just a little too close to a swear for a little kid's TV show?",
    "questionShort": "Watch Your Mouth!",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -8759,7 +8758,7 @@
    "question": "What is the most American thing?",
    "questionShort": "AMERICA",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8781,7 +8780,7 @@
    "question": "You're late! There's only a few things you can do before you walk out the door, which do you pick?",
    "questionShort": "Abbreviated Morning Routine",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8805,7 +8804,7 @@
    "question": "What events could you completely stop attending and it would be perfectly fine?",
    "questionShort": "Events Never Again",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8849,7 +8848,7 @@
    "question": "What low-maintenance drink do you get to prove to the bartender you're a good patron?",
    "questionShort": "Easy Drinks",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -8871,7 +8870,7 @@
    "question": "You're checking out the merch at your favorite band's concert. What are you buying?",
    "questionShort": "Best Band Merch",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8895,7 +8894,7 @@
    "question": "If you were cursed to be a vehicle for the rest of your life, which would you pick?",
    "questionShort": "The Motormorphosis",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8919,7 +8918,7 @@
    "question": "Mom says you can only get a few things at the book fair. What you getting?",
    "questionShort": "Unfair Book Fair",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8941,7 +8940,7 @@
    "question": "Time for a bath! What are we bringing in there?",
    "questionShort": "Bathtime Accessories",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8963,7 +8962,7 @@
    "question": "You see a man! You know him! But you can't remember his name! What are you calling him?",
    "questionShort": "Acquaintance Pet Names",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -8985,7 +8984,7 @@
    "question": "Your movie MUST get a Best Picture nomination! What does it need?",
    "questionShort": "Guaranteed Best Picture Nom",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9007,7 +9006,7 @@
    "question": "The office has a bunch of reusable coffee mugs. Which one is the best?",
    "questionShort": "Best Office Mugs",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9029,7 +9028,7 @@
    "question": "Which variation on names for a grandma is the most unpleasant?",
    "questionShort": "Grandparent Names",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9051,7 +9050,7 @@
    "question": "Where's the best spot for a nap?",
    "questionShort": "Best Nap Spots",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9073,7 +9072,7 @@
    "question": "Which keyboard symbol, to you, has the most *personality*?",
    "questionShort": "Symbol Fight",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9095,7 +9094,7 @@
    "question": "It's 2AM, what are you doing up?",
    "questionShort": "Late Night Activities",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -9117,7 +9116,7 @@
    "question": "Create the most distracting video call background",
    "questionShort": "Distracting Video Call Backgrounds",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9141,7 +9140,7 @@
    "question": "You're so glamorous and elegant! Build the charcuterie board that proves it.",
    "questionShort": "Charcuterie Boarding",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9163,7 +9162,7 @@
    "question": "You can't stop sleepwalking! Where do you WANT to wake up?",
    "questionShort": "Best Place To Wake",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9185,7 +9184,7 @@
    "question": "Prank time! Prank time! Pull a prank on your friend!! (Pick the best)",
    "questionShort": "Best Pranks",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9207,7 +9206,7 @@
    "question": "You're at one of those paint-your-own-pottery places. What are you painting?",
    "questionShort": "Pottery Paintin'",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9229,7 +9228,7 @@
    "question": "We're handing out high school superlatives today! Which one do you want?",
    "questionShort": "High School Superlatives",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9268,7 +9267,7 @@
    "question": "What combination would make the best planet?",
    "questionShort": "Perfect Planet",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9290,7 +9289,7 @@
    "question": "What would be the WORST thing to bite into?",
    "questionShort": "Worst Bites",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9314,7 +9313,7 @@
    "question": "If you could choose, what would you want your partner's breath to smell like all the time?",
    "questionShort": "Mmm, Fresh Breath",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9336,7 +9335,7 @@
    "question": "You're on a road trip with your friends and they hand you the aux cord. What are you playing?",
    "questionShort": "Aux Cord Decisions",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9362,7 +9361,7 @@
    "question": "You've been transported to a strange fantasy world. Who are your travelling companions? (If you could pick)",
    "questionShort": "Fantasy Travelling Companions",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9387,7 +9386,7 @@
    "question": "What character voice do you think you can do best... right now?",
    "questionShort": "Your Best Voice",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9409,7 +9408,7 @@
    "question": "Best thing to say after turning down a public proposal...",
    "questionShort": "Smoothest Turn Down Line",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9432,7 +9431,7 @@
    "question": "What SHOULD fire alarms sound like?",
    "questionShort": "Best Fire Alarms",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9454,7 +9453,7 @@
    "question": "Let's settle this once and for all... What IS the funniest home video?",
    "questionShort": "Funniest Home Videos",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -9471,7 +9470,7 @@
    "question": "If your team was a pirate crew, who would be the most likely to stage a mutiny and overthrow the captain?",
    "questionShort": "Pirate Mutiny",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9488,7 +9487,7 @@
    "question": "When attending a social function, which player is most likely to show up fashionably late?",
    "questionShort": "Fashionably Late Player",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9510,7 +9509,7 @@
    "question": "Which messy food would be the worst to eat in front of a date?",
    "questionShort": "First Date Food",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9527,7 +9526,7 @@
    "question": "You're in a high school AP chemistry class. Which player is most likely to remind the teacher there was a homework assignment?",
    "questionShort": "Teacher's Pet Player",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9549,7 +9548,7 @@
    "question": "I know that you are bread. So fess up. What kind of bread are you?",
    "questionShort": "U R Bread",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -9571,7 +9570,7 @@
    "question": "A magic genie is granting wishes at his wish stand! Get in line and pick your top wishes before you get to the counter.",
    "questionShort": "Genie Wishes",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9623,7 +9622,7 @@
    "question": "Which R&B song title describes the current state of your love life?",
    "questionShort": "Love Life Songs",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -9662,7 +9661,7 @@
    "question": "Be honest, who are you at a night club???",
    "questionShort": "Club Personas",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -9684,7 +9683,7 @@
    "question": "What do you treasure the most in a friendship?",
    "questionShort": "Friend Faves",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9706,7 +9705,7 @@
    "question": "Based on what they do and their vibe, pick the tools you'd gladly call a friend",
    "questionShort": "Toolbox Buddies",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9728,7 +9727,7 @@
    "question": "Oh no! You forgot your anniversary! What's the best thing to quickly give your partner so it looks like you care?",
    "questionShort": "Last-Minute Anniversary Gifts",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -9750,7 +9749,7 @@
    "question": "You have to walk home ten blocks and it is pouring. What are the WORST shoes to be wearing?",
    "questionShort": "Rain in Bad Shoes",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9772,7 +9771,7 @@
    "question": "Which kitchen utensil would be the worst kisser?",
    "questionShort": "Bad Kisser Kitchen Tools",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -9794,7 +9793,7 @@
    "question": "Which uniform do you think you'd look pretty attractive in?",
    "questionShort": "Hot Uniform Dress Up",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -9811,7 +9810,7 @@
    "question": "The stakes have never been higher. Who do you want in your post-apocalyptic zombie-fighting crew?",
    "questionShort": "Apocalypse Buddies",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9845,7 +9844,7 @@
    "question": "You have one (1) sandwich. Pick someone to give half your sandwich to right now.",
    "questionShort": "Share a Bite",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9862,7 +9861,7 @@
    "question": "Your group time-travels back to the Old West. Who's most likely to stick around to start a new life as a cowboy or cowgirl?",
    "questionShort": "Cowboy Culture",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9879,7 +9878,7 @@
    "question": "Whoever manages to get to the top of Mt. Everest first will win $1 million. Who's winning that money?",
    "questionShort": "Race to the Top",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9896,7 +9895,7 @@
    "question": "One of you is a vampire posing as a human! The question is... which of you is the most likely to be a secret vampire?",
    "questionShort": "Secret Vampire",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9913,7 +9912,7 @@
    "question": "Let's be honest: who would be the most entertaining star of their own reality TV show?",
    "questionShort": "Reality TV Stardom",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9930,7 +9929,7 @@
    "question": "You're all going on a trip, and one person has to hold onto everyone's tickets and passports. Who are you trusting with your important documents?",
    "questionShort": "Tickets Please",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9953,7 +9952,7 @@
    "question": "What insect-like attributes would you most like to adopt?",
    "questionShort": "A Bug's Life",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -9970,7 +9969,7 @@
    "question": "It's April Fool's Day! Who do you NOT want to prank you?",
    "questionShort": "Prank Avoidance",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10009,7 +10008,7 @@
    "question": "The best activity for an adult's birthday party, hands down",
    "questionShort": "Best Birthday",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10026,7 +10025,7 @@
    "question": "Who would be excellent at playing Batman?",
    "questionShort": "Great Batman!",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10048,7 +10047,7 @@
    "question": "The part of a live concert where you go ABSOLUTELY NUTS",
    "questionShort": "Best Live Concert Moments",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10093,7 +10092,7 @@
    "question": "Time to put your book down. How are you saving your spot?",
    "questionShort": "Saving Your Place",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10117,7 +10116,7 @@
    "question": "Who are the love interests in the Young Adult novel you're writing?",
    "questionShort": "Y.A. Love Interests",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10139,7 +10138,7 @@
    "question": "What part of the amusement park are you avoiding?",
    "questionShort": "Least Amusing Parts of Park",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10161,7 +10160,7 @@
    "question": "What IS your favorite thing?",
    "questionShort": "Fav Favorite Things",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10183,7 +10182,7 @@
    "question": "Welcome to your new home! What decoration will make it feel the most like \"your place\"?",
    "questionShort": "Best for Nesting",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10205,7 +10204,7 @@
    "question": "Based only on the name, which real U.S. city would you want to live in?",
    "questionShort": "Best Zany City Names",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10222,7 +10221,7 @@
    "question": "Who would be the best at giving really bad news?",
    "questionShort": "Bad News Bears",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10239,7 +10238,7 @@
    "question": "Who would be the best guest at a wedding where you only kinda know the couple?",
    "questionShort": "Best Guests",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10256,7 +10255,7 @@
    "question": "If I had something in my teeth right now, which one of you would step up and say something first?",
    "questionShort": "Pick Me!",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10278,7 +10277,7 @@
    "question": "What's the WORST part about outdoor music festivals?",
    "questionShort": "Music Festival Worsts",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10295,7 +10294,7 @@
    "question": "Welcome to Cabin 14! Who's going to cry and go home early?",
    "questionShort": "Cabin Gabbin'",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10317,7 +10316,7 @@
    "question": "You have to win this cross-country race! Build your team of vehicles!",
    "questionShort": "Cross-Country Race Vehicles",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10341,7 +10340,7 @@
    "question": "If I had to pick, the best person to date would be...",
    "questionShort": "My Gotham City Date",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -10365,7 +10364,7 @@
    "question": "What would be the coolest car to own?",
    "questionShort": "Coolest Cars",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10391,7 +10390,7 @@
    "question": "What unexpected location would be the cutest place to meet the love of your life?",
    "questionShort": "Meet-Cute Locations",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10415,7 +10414,7 @@
    "question": "Which hobbies could you really get into?",
    "questionShort": "Most Interesting Hobby",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10463,7 +10462,7 @@
    "question": "The Spice Girl you would definitely NOT wannabe",
    "questionShort": "Spice Girl Not Wannabe",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -10486,7 +10485,7 @@
    "question": "What's the WORST nightmare to have?",
    "questionShort": "Worst Nightmares",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10508,7 +10507,7 @@
    "question": "The WORST word",
    "questionShort": "Worst Words",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -10552,7 +10551,7 @@
    "question": "Which empty place would be the most fun to play a giant game of hide and seek in?",
    "questionShort": "Giant Hide & Seek",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10574,7 +10573,7 @@
    "question": "Which is the WORST place to forget to bring your ID to?",
    "questionShort": "Forgot ID",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -10596,7 +10595,7 @@
    "question": "What's the WORST kind of movie?",
    "questionShort": "Worst Movies",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10622,7 +10621,7 @@
    "question": "The best celebrity to hang out with for a week",
    "questionShort": "Best Celebrity Hang Sesh",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10646,7 +10645,7 @@
    "question": "Which euphemism for sex is the LEAST sexy?",
    "questionShort": "Least Sexy Euphemisms",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -10668,7 +10667,7 @@
    "question": "You're on a modeling competition series, and the producers want to give you a new hairdo. Which one could you pull off?",
    "questionShort": "Model Hairdos",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10692,7 +10691,7 @@
    "question": "Which animated moments are most likely to make you cry?",
    "questionShort": "Cartoon Crying",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10716,7 +10715,7 @@
    "question": "[i]The Great Gatsby[/i] is played out! Which classic book should be the theme of your next New Year’s Eve Party?",
    "questionShort": "Book Party Themes",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10740,7 +10739,7 @@
    "question": "You’re building a Halloween maze attraction… what is absolutely necessary?",
    "questionShort": "Halloween Maze Ingredients",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10764,7 +10763,7 @@
    "question": "You're headed out to a bar. Whatta ya lookin for?",
    "questionShort": "Best Bar Features",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -10788,7 +10787,7 @@
    "question": "What super spy features do you want on your car?",
    "questionShort": "Spy Car Features",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10828,7 +10827,7 @@
    "question": "The person who would definitely let their curiosity get the better of them and open Pandora's box",
    "questionShort": "Pandora's Box Player",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10850,7 +10849,7 @@
    "question": "You're being sent back in time to the last ice age! Which small items will help you befriend/protect against cavepeople?",
    "questionShort": "Items for the Cavemen",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10867,7 +10866,7 @@
    "question": "You're in jail for a misdemeanor you didn't commit. Who could come in as your lawyer and get you off scot-free?",
    "questionShort": "Your Attorney",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10889,7 +10888,7 @@
    "question": "You're having a portrait painted of yourself to be hung in your study.  How do you wish to be posing?",
    "questionShort": "Pick a Portrait Pose",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10911,7 +10910,7 @@
    "question": "What's the WORST thing to do immediately after eating a twelve-inch roast beef sandwich?",
    "questionShort": "Bad Post-Sandwich Activities",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10937,7 +10936,7 @@
    "question": "What is the cutest costume a baby could wear?",
    "questionShort": "Cutest Baby Costumes",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10963,7 +10962,7 @@
    "question": "We're making a quick zoo trip. What attractions do you HAVE to hit?",
    "questionShort": "Best Zoo Attractions",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10989,7 +10988,7 @@
    "question": "Which animals would you be LEAST happy to introduce to your local ecosystem?",
    "questionShort": "Worst New Neighbors",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11011,7 +11010,7 @@
    "question": "Hey, I just got to the party! Where are you?",
    "questionShort": "Your House Party Haunts",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11037,7 +11036,7 @@
    "question": "The best, most fun wedding to ATTEND as a friend's plus one would include the following...",
    "questionShort": "Best Wedding Qualities",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -11059,7 +11058,7 @@
    "question": "Which element would you like to have complete control over?",
    "questionShort": "Elemental Mastery",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11085,7 +11084,7 @@
    "question": "What is your favorite Pixar movie?",
    "questionShort": "Your Favorite Pixar",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11133,7 +11132,7 @@
    "question": "Time for some online dating! What profile picture would you be most likely to swipe right on?! (Say yes to!)",
    "questionShort": "Swipe Right To...",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -11155,7 +11154,7 @@
    "question": "Pick a wrestling gimmick/character before you get in the ring!",
    "questionShort": "Ready to Rumble",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11177,7 +11176,7 @@
    "question": "Your TV is broken and the library is open! Pick a book to read tonight.",
    "questionShort": "Which Book to Read",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11199,7 +11198,7 @@
    "question": "Every astronaut gets to bring a Personal Preference Kit into space with them. What would go in your kit?",
    "questionShort": "Astronaut Baggage",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11223,7 +11222,7 @@
    "question": "New rule: you're only allowed to listen to music or podcasts in one room of your house. Which room are you choosing?",
    "questionShort": "Music Rooms",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11245,7 +11244,7 @@
    "question": "You've got a stack of quarters and an hour to kill. What prize are you trying to grab out of the claw machine?",
    "questionShort": "Claw and Order",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11262,7 +11261,7 @@
    "question": "You're lost in a new country and have nowhere to stay. Who do you want as your co-pilot on this international adventure?",
    "questionShort": "Travel Buddies",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11279,7 +11278,7 @@
    "question": "Who do you absolutely trust to plan the perfect birthday for you?",
    "questionShort": "Birthday Plans",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11304,7 +11303,7 @@
    "question": "Which term for currency would make the nicest name for a newborn baby?",
    "questionShort": "Million Euro Babies",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11326,7 +11325,7 @@
    "question": "Welcome to our day spa! Choose which bathtub you'd like to soak in.",
    "questionShort": "Unique Spa Soaks",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11350,7 +11349,7 @@
    "question": "The city you most want to visit... ten years in the future.",
    "questionShort": "Future Cities",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11374,7 +11373,7 @@
    "question": "The city you most want to visit... 100 years ago!",
    "questionShort": "Historic Cities",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11396,7 +11395,7 @@
    "question": "Which meal could you happily eat for dinner every day for the rest of your life?",
    "questionShort": "Everyday Dinners",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11440,7 +11439,7 @@
    "question": "You've been nominated for an Academy Award! What are you wearing?!",
    "questionShort": "Oscar Outfits",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -11462,7 +11461,7 @@
    "question": "You're starting an indie rock band. What unique things would you love to help define your sound?",
    "questionShort": "Eclectic Instruments for Indie Band",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11485,7 +11484,7 @@
    "question": "Which item are you most likely to pick up at a secondhand store?",
    "questionShort": "Secondhand Store Items",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11507,7 +11506,7 @@
    "question": "Which fairytale would you be scared to find yourself in?",
    "questionShort": "Fairytales",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11541,7 +11540,7 @@
    "question": "Who is going to be the least happy about the mandatory company escape room retreat?",
    "questionShort": "No Escape From Team Building",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11563,7 +11562,7 @@
    "question": "You're a Disney Princess, where would you like to live?",
    "questionShort": "Best Princess Homes",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11585,7 +11584,7 @@
    "question": "What do you think is the best part of being Dracula?",
    "questionShort": "Dracula Perks",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11607,7 +11606,7 @@
    "question": "Some individuals, who are DEFINITELY not supervillains, each offer you riches and power. Which one are you working for?",
    "questionShort": "Best \"Not Evil\" Bosses",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11631,7 +11630,7 @@
    "question": "We’re making new Pokémon. Who is your starter/new best friend?",
    "questionShort": "Best New Pokémon",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11655,7 +11654,7 @@
    "question": "What spells would you like to learn at a wizard school?",
    "questionShort": "Best Spells  to Learn",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11677,7 +11676,7 @@
    "question": "The pool's kinda cold. How are you getting in?",
    "questionShort": "Pool Entry",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11699,7 +11698,7 @@
    "question": "Which organizing technique NEVER works for you!?",
    "questionShort": "Organ-Sighs",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11721,7 +11720,7 @@
    "question": "Ok! How are we outsmarting this bridge troll?",
    "questionShort": "Bridge Troll Tricks",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11743,7 +11742,7 @@
    "question": "Build the perfect Sweet Sixteen birthday party",
    "questionShort": "It's Your Special Day!",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11765,7 +11764,7 @@
    "question": "Which section of the home improvement store do you feel the LEAST confident in?",
    "questionShort": "Home Disappointments",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11787,7 +11786,7 @@
    "question": "Welcome to wrestling! What's your finishing move?",
    "questionShort": "Finishing Moves",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11813,7 +11812,7 @@
    "question": "Based on the name, which of these scented candles would you LEAST like to own?",
    "questionShort": "Worst Scented Candles",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11835,7 +11834,7 @@
    "question": "Which would be the WORST animal skin to replace your own skin?",
    "questionShort": "Worst Animal Skins",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11861,7 +11860,7 @@
    "question": "Which of these pants would look best on a grizzly bear?",
    "questionShort": "Bear Pants",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11883,7 +11882,7 @@
    "question": "Line up, kids! Which is the BEST place in the classroom line?",
    "questionShort": "Line Up!",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11905,7 +11904,7 @@
    "question": "What type of joke do you love the most?",
    "questionShort": "Love That Joke",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11927,7 +11926,7 @@
    "question": "What's the WORST thing to be written on a kid's report card?",
    "questionShort": "Bad Report Card Comments",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11961,7 +11960,7 @@
    "question": "Whose book of poetry would you like to read?",
    "questionShort": "Poetry Books By...",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -11983,7 +11982,7 @@
    "question": "What would be the cutest hairstyle on a newborn baby?",
    "questionShort": "Put Hair on a Baby!",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12005,7 +12004,7 @@
    "question": "Brrr! It's a chilly winter day! What's the best way to warm up?",
    "questionShort": "Warm Up for Winter!",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12027,7 +12026,7 @@
    "question": "If you could only do one type of exercise for the rest of your life, which one would you choose?",
    "questionShort": "One Exercise Forever!",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12049,7 +12048,7 @@
    "question": "We're no longer naming days of the week after mythic figures. What new set of things would make better days of the week?",
    "questionShort": "New Days of Week",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12071,7 +12070,7 @@
    "question": "It's just not a post-apocalypse bunker without a big ol' stockpile of this item!",
    "questionShort": "Stockpile This",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12093,7 +12092,7 @@
    "question": "Where is the absolute worst place you could wear a pair of those sneakers with wheels on them? (Yes, with the wheels out.)",
    "questionShort": "Wheels Down",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12115,7 +12114,7 @@
    "question": "It's a hot summer day, and the ice cream truck just showed up! What are you spending your hard-earned allowance on?",
    "questionShort": "Ice Cream Truck",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12137,7 +12136,7 @@
    "question": "What's the worst thing to come home to after a relaxing vacation?",
    "questionShort": "Post-Vacation Nightmares",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12159,7 +12158,7 @@
    "question": "You're in the bathroom at a party and there's no hand towel to dry your hands on! What do you use instead?",
    "questionShort": "No Hand Towel Bathroom",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12207,7 +12206,7 @@
    "question": "Which of these is the worst month of the year to have a wedding?",
    "questionShort": "Worst Wedding Months!",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12229,7 +12228,7 @@
    "question": "You've gained access to the Illuminati's Database of Historical Mysteries. You've got time to look up the answer to one question. Which will it be?",
    "questionShort": "Historical Mystery Questions",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -12251,7 +12250,7 @@
    "question": "No more Christmas Trees! Which of these would be OK to put in your house for the holidays and decorate instead?",
    "questionShort": "DIY Christmas Trees",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12273,7 +12272,7 @@
    "question": "Which of these old man names would be cutest to name a little boy?",
    "questionShort": "Best Old Man Names",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12297,7 +12296,7 @@
    "question": "Which [i]Super Mario World[/i] enemy would be absolutely horrifying to see in real life?",
    "questionShort": "Real-Life Mario Enemies",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12319,7 +12318,7 @@
    "question": "What item are you splurging on for your camping trip?",
    "questionShort": "Camping Trip Splurge",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12343,7 +12342,7 @@
    "question": "It's time for a long, relaxing walk! Where do you want to stroll?",
    "questionShort": "Take A Walk",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12360,7 +12359,7 @@
    "question": "You're all superheroes now. Congrats! Who's going to cause the most property damage, intentionally or otherwise, with their newfound powers?",
    "questionShort": "Bringing Down The Houses",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12377,7 +12376,7 @@
    "question": "Assemble the perfect laser tag team that's guaranteed to defeat the remaining players.",
    "questionShort": "Laser Tag Team Time",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12394,7 +12393,7 @@
    "question": "Aliens are here, and they want to abduct the person who is the best dancer. Who's getting abducted?",
    "questionShort": "Dance Dance Alien Abduction",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12416,7 +12415,7 @@
    "question": "If you were teeny tiny, where would you sleep?",
    "questionShort": "Tiny Sleeping Places",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12438,7 +12437,7 @@
    "question": "Where would be the awesomest place to build a massive rollercoaster?",
    "questionShort": "Awesome Rollercoaster Landscapes",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12455,7 +12454,7 @@
    "question": "Which player would make a good mob boss?",
    "questionShort": "Double Life Player",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12472,7 +12471,7 @@
    "question": "Which player would be the most useful if your group was stranded on a desert island?",
    "questionShort": "Desert Island Player",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12489,7 +12488,7 @@
    "question": "Which player would make the best game show host?",
    "questionShort": "Game Show Host Player",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12511,7 +12510,7 @@
    "question": "You're cleaning out the attic. Which item would you feel weirdest about throwing away?",
    "questionShort": "Precious (?) Items",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -12533,7 +12532,7 @@
    "question": "Congratulations on your [i]Poll Mine[/i] Platinum Membership! Which membership benefits do you enjoy the most?",
    "questionShort": "Membership Perks",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12550,7 +12549,7 @@
    "question": "We're at a fun party full of nice acquaintances! Who has already made friends with the family dog?",
    "questionShort": "I'm Fine Over Here!",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12567,7 +12566,7 @@
    "question": "Face it, we're all getting older. SOMEONE's gonna have to get really into model trains. Who's it gonna be?",
    "questionShort": "Aging Gracefully",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12589,7 +12588,7 @@
    "question": "Once and for all, how do you prefer your bathroom set up?",
    "questionShort": "Bathroom Preferences",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12613,7 +12612,7 @@
    "question": "Which film franchise should never end?",
    "questionShort": "Never-Ending Franchises",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12636,7 +12635,7 @@
    "question": "Welcome to RESTAURANT. What can I get started for ya?",
    "questionShort": "What Can I Get Started for Ya?",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -12658,7 +12657,7 @@
    "question": "Which everyday activity most deserves a \"Good Job!\" sticker?",
    "questionShort": "Good Job!",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12680,7 +12679,7 @@
    "question": "You're a bored kid. What are you resorting to for entertainment?",
    "questionShort": "Better Than Nothing Activities",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12726,7 +12725,7 @@
    "question": "By shape alone, which continent would totally be the champion in a Street Fighter-style tournament against all the other continents?",
    "questionShort": "Continental Kombat!",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12748,7 +12747,7 @@
    "question": "Who is NOT getting hired back next year at the Budget Haunted House?",
    "questionShort": "Worst Off-Brand Monsters",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12765,7 +12764,7 @@
    "question": "Who turns out to be the killer in a horror movie?",
    "questionShort": "Horror Movie Survivors",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12788,7 +12787,7 @@
    "question": "Who are the sexiest X-Men?",
    "questionShort": "Sexy X-Men",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -12805,7 +12804,7 @@
    "question": "If this was [i]Harry Potter[/i], which player would be sorted into Slytherin?",
    "questionShort": "Slytherin Players",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12827,7 +12826,7 @@
    "question": "Ok, dorks! Which nerdy location would you like to drive your nerd bus full of nerds to?",
    "questionShort": "NERDS!!!",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12849,7 +12848,7 @@
    "question": "Happy School Picture Day! Which background are you going for?",
    "questionShort": "Picture Day Backgrounds",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12866,7 +12865,7 @@
    "question": "Of this motley space crew, who is most likely to romance an alien?",
    "questionShort": "Most Likely Alien Lover",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -12888,7 +12887,7 @@
    "question": "It's snowing, time to bust out the winter coat! What's the WORST thing to find in the pocket from last year?",
    "questionShort": "Last Winter's Pocket Souvenirs",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12910,7 +12909,7 @@
    "question": "What would be the worst qualities for a hair stylist/barber to have?",
    "questionShort": "Hair Stylist Worst Qualities",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12934,7 +12933,7 @@
    "question": "Which of these would be the WORST live act to perform at a high school prom?",
    "questionShort": "Bad Prom Bands",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12951,7 +12950,7 @@
    "question": "Who would be the best at narrating a nature documentary?",
    "questionShort": "Best Documentary Narrators",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12977,7 +12976,7 @@
    "question": "ZAP! I've shrunk you down to the size of a little mouse! Which would be the most fun places to explore?",
    "questionShort": "Tiny Expeditions",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -12994,7 +12993,7 @@
    "question": "Who's probably the closest to snapping and becoming an edgy vigilante who roams the streets dealing out their personal brand of justice?",
    "questionShort": "Most Likely Vigilante",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -13042,7 +13041,7 @@
    "question": "Your teenager's prom date just pulled up. What's the WORST-case scenario?",
    "questionShort": "Iffy Prom Rides",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -13067,7 +13066,7 @@
    "question": "Say you've freed a persnickety magic fish who comes with a carefully curated wish list. Which are you choosing?",
    "questionShort": "Curated Genie Wishes",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -13089,7 +13088,7 @@
    "question": "Your fingers have transformed in the night! Which of these options do you think you could make work?",
    "questionShort": "New Fingers!",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -13113,7 +13112,7 @@
    "question": "You're invulnerable except for one spot on your body. Where would you put your so-called Achilles' Heel?",
    "questionShort": "Personal Achilles' \"Heel\"",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -13130,7 +13129,7 @@
    "question": "Your fellowship must destroy the One Ring. Who do you think can resist its power and throw it into the fires of Mount Doom?",
    "questionShort": "[i]The Lord of the Rings[/i]",
    "round": "second",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -13156,7 +13155,7 @@
    "question": "Build your ideal grocery store!",
    "questionShort": "Ideal Grocery Store",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -13180,7 +13179,7 @@
    "question": "You're attending a big party tonight. What's the WORST-case scenario?",
    "questionShort": "Nightmare Party",
    "round": "first",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -13462,7 +13461,7 @@
    "question": "Welche unwahrscheinliche Horrorfilm-Bedrohung ist die GRUSELIGSTE!?",
    "questionShort": "Jetzt hab' ich aber Angst!",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -13506,7 +13505,7 @@
    "question": "Ein bösartiger Gangster hat versucht, dich umzubringen. Du hast überlebt. Welchen \"coolen\" Spruch sagst du, wenn du durch die Tür stürmst?!?!",
    "questionShort": "Coole untote Sprüche",
    "round": "third",
-   "us": false,
+   "us": true,
    "x": false
   }
  ]
