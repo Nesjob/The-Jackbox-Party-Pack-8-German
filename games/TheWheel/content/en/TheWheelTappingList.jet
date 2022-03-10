@@ -2013,58 +2013,73 @@
   {
    "answers": [
     {
-     "text": "St. Louis’ baseball team"
+     "text": "Ratte"
     },
     {
-     "text": "Toronto’s baseball team"
+     "text": "Büffel"
     },
     {
-     "text": "Philadelphia’s football team"
+     "text": "Tiger"
     },
     {
-     "text": "Pittsburgh’s hockey team"
+     "text": "Hase"
     },
     {
-     "text": "Baltimore’s football team"
+     "text": "Drache"
     },
     {
-     "text": "Arizona’s football team"
+     "text": "Schlange"
     },
     {
-     "text": "Anaheim’s hockey team"
+     "text": "Pferd"
     },
     {
-     "text": "New Orleans’ basketball team"
+     "text": "Schaf"
     },
     {
-     "text": "Atlanta’s basketball team"
+     "text": "Affe"
     },
     {
-     "text": "Baltimore’s baseball team"
+     "text": "Hahn"
+    },
+    {
+     "text": "Hund"
+    },
+    {
+     "text": "Schwein"
     }
    ],
-   "category": "Sports",
+   "category": "Factoids",
    "decoys": [
     {
-     "text": "Cleveland’s football team"
+     "text": "Maus"
     },
     {
-     "text": "Chicago’s football team"
+     "text": "Kuh"
     },
     {
-     "text": "Detroit’s baseball team"
+     "text": "Panda"
     },
     {
-     "text": "Winnipeg’s hockey team"
+     "text": "Fuchs"
     },
     {
-     "text": "Miami’s baseball team"
+     "text": "Fasan"
+    },
+    {
+     "text": "Elefant"
+    },
+    {
+     "text": "Rotschnabelbülbül"
+    },
+    {
+     "text": "Schnabeltier"
     }
    ],
    "id": "76852",
    "isValid": "",
-   "prompt": "Which professional sports teams are named after birds?",
-   "us": true,
+   "prompt": "Welche dieser Tiere sind Teil der chinesischen Tierkreiszeichen?",
+   "us": false,
    "x": false
   },
   {
@@ -2425,6 +2440,9 @@
     },
     {
      "text": "Oberkaka"
+    },
+    {
+     "text": "Elend"
     }
    ],
    "category": "Geography & Landmarks",
@@ -2457,49 +2475,52 @@
   {
    "answers": [
     {
-     "text": "Kristy Thomas"
+     "text": "Atari Home Pong"
     },
     {
-     "text": "Claudia Kishi"
+     "text": "Atari 5200"
     },
     {
-     "text": "Mary Anne Spier"
+     "text": "Atari Flashback"
     },
     {
-     "text": "Stacey McGill"
+     "text": "Atari 7800"
     },
     {
-     "text": "Dawn Schafer"
+     "text": "Atari Video Pinball"
     },
     {
-     "text": "Mallory Pike"
+     "text": "Atari VCS"
     },
     {
-     "text": "Jessi Ramsey"
+     "text": "Atari Jaguar"
     }
    ],
-   "category": "Literature",
+   "category": "Games",
    "decoys": [
     {
-     "text": "Cher Horowitz"
+     "text": "Atari 360"
     },
     {
-     "text": "Jessica Wakefield"
+     "text": "Atari Revolution"
     },
     {
-     "text": "Elizabeth Wakefield"
+     "text": "Atari Indoor Soccer"
     },
     {
-     "text": "Lila Fowler"
+     "text": "Atari Fun Machine"
     },
     {
-     "text": "Rory Gilmore"
+     "text": "Atari 10400"
+    },
+    {
+     "text": "Atari Series S"
     }
    ],
    "id": "76915",
    "isValid": "",
-   "prompt": "Which names are main characters from [i]The Baby-Sitters Club[/i]?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um echte Videospielkonsolen von [i]Atari[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -10068,61 +10089,58 @@
   {
    "answers": [
     {
-     "text": "Billy Crystal"
+     "text": "Otto Nerz"
     },
     {
-     "text": "Bob Hope"
+     "text": "Helmut Schön"
     },
     {
-     "text": "Chris Rock"
+     "text": "Jupp Derwall"
     },
     {
-     "text": "Ellen DeGeneres"
+     "text": "Franz Beckenbauer"
     },
     {
-     "text": "Whoopi Goldberg"
+     "text": "Berti Vogts"
     },
     {
-     "text": "James Franco & Anne Hathaway"
+     "text": "Erich Ribbeck"
     },
     {
-     "text": "Jimmy Kimmel"
+     "text": "Rudi Völler"
     },
     {
-     "text": "Neil Patrick Harris"
+     "text": "Jürgen Klinsmann"
     },
     {
-     "text": "Hugh Jackman"
+     "text": "Joachim Löw"
     },
     {
-     "text": "Jon Stewart"
-    },
-    {
-     "text": "Steve Martin"
+     "text": "Hansi Flick"
     }
    ],
    "category": "Celebrities",
    "decoys": [
     {
-     "text": "James Franco & Seth Rogen"
+     "text": "Joseph Blatter"
     },
     {
-     "text": "Dustin Hoffman"
+     "text": "Dustin Hoffmann"
     },
     {
-     "text": "Barbra Streisand"
+     "text": "Christian Seifert"
     },
     {
-     "text": "Gary Oldman"
+     "text": "Karl-Heinz Rummenigge"
     },
     {
-     "text": "Jamie Lee Curtis"
+     "text": "Kurt Schreier"
     }
    ],
    "id": "79437",
    "isValid": "",
-   "prompt": "Which of these celebrities have hosted the Oscars?",
-   "us": true,
+   "prompt": "Welche dieser Personen waren oder sind Stand 2021 Bundestrainer der deutschen Fußballnationalmannschaft der Männer?",
+   "us": false,
    "x": false
   },
   {
@@ -11901,31 +11919,25 @@
   {
    "answers": [
     {
-     "text": "Zendaya"
-    },
-    {
-     "text": "Emma Stone"
+     "text": "Karoline Herfurth"
     },
     {
      "text": "Prince Harry"
     },
     {
-     "text": "Lil Kim"
+     "text": "Michael Fassbender"
     },
     {
-     "text": "Seth Green"
+     "text": "Ed Sheeran"
     },
     {
-     "text": "Jessica Chastain"
+     "text": "Boris Becker"
     },
     {
      "text": "Nicole Kidman"
     },
     {
-     "text": "Carrot Top"
-    },
-    {
-     "text": "Rihanna"
+     "text": "Andrea Berg"
     }
    ],
    "category": "Pop Culture",
@@ -11940,19 +11952,19 @@
      "text": "Samuel L. Jackson"
     },
     {
-     "text": "Pitbull"
+     "text": "Stefan Raab"
     },
     {
-     "text": "Terry Crews"
+     "text": "Madonna"
     },
     {
-     "text": "Howie Mandel"
+     "text": "Nena"
     }
    ],
    "id": "80253",
    "isValid": "",
-   "prompt": "Which of these celebs are, or have been, redheads?",
-   "us": true,
+   "prompt": "Welche dieser bekannten Persönlichkeiten sind von Natur aus rothaarig?",
+   "us": false,
    "x": false
   },
   {
@@ -12801,7 +12813,7 @@
      "text": "Rolf Zuckowski"
     },
     {
-     "text": "Jogi Löw"
+     "text": "Joachim Löw"
     },
     {
      "text": "Iris Berben"
@@ -15645,7 +15657,7 @@
      "text": "Dirk Nowitzki"
     },
     {
-     "text": "Jogi Löw"
+     "text": "Joachim Löw"
     },
     {
      "text": "Timo Hildebrand"
@@ -17295,49 +17307,52 @@
   {
    "answers": [
     {
-     "text": "Boston Bruins"
+     "text": "Zwölf Sonnenblumen in einer Vase"
     },
     {
-     "text": "Toronto Maple Leafs"
+     "text": "Der Irrenhausgarten in Saint-Rémy"
     },
     {
-     "text": "Chicago Black Hawks"
+     "text": "Weizenfeld unter einem Gewitterhimmel"
     },
     {
-     "text": "New York Rangers"
+     "text": "Ernte in der Provence"
     },
     {
-     "text": "Detroit Red Wings"
+     "text": "Spaziergang im Mondlicht"
     },
     {
-     "text": "Montreal Canadiens"
+     "text": "Sternennacht"
+    },
+    {
+     "text": "Getreidefeld mit Raben"
+    },
+    {
+     "text": "Vase mit Kornblumen und Klatschmohn"
     }
    ],
-   "category": "Sports",
+   "category": "Art",
    "decoys": [
     {
-     "text": "Philadelphia Flyers"
+     "text": "Mondscheinballade"
     },
     {
-     "text": "Minnesota North Stars"
+     "text": "Wolkenmeer in der Bretagne"
     },
     {
-     "text": "Vancouver Canucks"
+     "text": "Drei Kühe auf der Weide"
     },
     {
-     "text": "Ottawa Senators"
+     "text": "Gartenallee in Rueil"
     },
     {
-     "text": "Edmonton Oilers"
-    },
-    {
-     "text": "Pittsburgh Penguins"
+     "text": "Der Schrei"
     }
    ],
    "id": "85872",
    "isValid": "",
-   "prompt": "Which teams are part of the Original Six of the National Hockey League?",
-   "us": true,
+   "prompt": "Welche dieser Kunstwerke stammen von Vincent van Gogh?",
+   "us": false,
    "x": false
   },
   {
@@ -18891,49 +18906,67 @@
   {
    "answers": [
     {
-     "text": "two all-beef patties"
+     "text": "Billy"
     },
     {
-     "text": "lettuce"
+     "text": "Kallax"
     },
     {
-     "text": "special sauce"
+     "text": "Besta"
     },
     {
-     "text": "cheese"
+     "text": "Gnedby"
     },
     {
-     "text": "pickles"
+     "text": "Baggebo"
     },
     {
-     "text": "onions"
-    },
-    {
-     "text": "sesame seed bun"
+     "text": "Gersby"
     }
    ],
    "category": "Companies & Brands",
    "decoys": [
     {
-     "text": "tomato"
+     "text": "Venjan"
     },
     {
-     "text": "ketchup"
+     "text": "Fränsta"
     },
     {
-     "text": "grease"
+     "text": "Storseleby"
     },
     {
-     "text": "bacon"
+     "text": "Ankarede"
     },
     {
-     "text": "caramelized onions"
+     "text": "Allavare"
+    },
+    {
+     "text": "Markitta"
+    },
+    {
+     "text": "Lainio"
+    },
+    {
+     "text": "Parkalompolo"
+    },
+    {
+     "text": "Abisko"
+    },
+    {
+     "text": "Tarfala"
+    },
+    {
+     "text": "Bredsel"
+    },
+    {
+     "text": "Skunk"
     }
    ],
    "id": "86460",
    "isValid": "",
-   "prompt": "Which of these things appear in a McDonald's Big Mac (according to the classic jingle)?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um [i]IKEA[/i]-Regale?",
+   "us": false,
    "x": false
   },
   {

@@ -1,0 +1,45 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "A",
+      "v": "intro",
+      "n": "IntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "In welchem Jahr wurde die erste erfolgreiche Operation am offenen Herzen durchgeführt?"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasFollowupAudio"
+    },
+    {
+      "t": "A",
+      "v": "followup",
+      "n": "FollowupAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "A",
+      "v": "outro",
+      "n": "OutroAudio"
+    }
+  ]
+}

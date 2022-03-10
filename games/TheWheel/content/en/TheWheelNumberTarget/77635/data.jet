@@ -1,0 +1,46 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "A",
+      "v": "intro",
+      "n": "IntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "Wie alt war “Methuselah”, der älteste lebende Baum der Welt, im Jahr 2021?"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasFollowupAudio"
+    },
+    {
+      "t": "A",
+      "v": "followup",
+      "n": "FollowupAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "A",
+      "v": "outro",
+      "n": "OutroAudio",
+      "s": "4800 Jahre! Das ist ja süß."
+    }
+  ]
+}

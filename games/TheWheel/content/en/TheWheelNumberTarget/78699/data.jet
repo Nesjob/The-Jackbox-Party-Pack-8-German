@@ -1,0 +1,46 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "A",
+      "v": "intro",
+      "n": "IntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "Wie viel Prozent der Pringles sind eigentlich Kartoffeln?"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasFollowupAudio"
+    },
+    {
+      "t": "A",
+      "v": "followup",
+      "n": "FollowupAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "A",
+      "v": "outro",
+      "n": "OutroAudio",
+      "s": "Viele von euch sind bestimmt auch nur zur Hälfte Kartoffeln. Ich sag's ja nur."
+    }
+  ]
+}

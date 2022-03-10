@@ -1,0 +1,46 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "A",
+      "v": "intro",
+      "n": "IntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "In welchem Jahr hat die Weltbevölkerung die 3-Milliarden-Grenze überschritten?"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasFollowupAudio"
+    },
+    {
+      "t": "A",
+      "v": "followup",
+      "n": "FollowupAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "A",
+      "v": "outro",
+      "n": "OutroAudio",
+      "s": "Ich weiß noch, als es nur 300 waren. Das ganze lästern hinter den Rücken war viel schlimmer."
+    }
+  ]
+}

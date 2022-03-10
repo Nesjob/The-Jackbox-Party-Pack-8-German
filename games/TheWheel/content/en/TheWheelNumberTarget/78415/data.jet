@@ -1,0 +1,46 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "A",
+      "v": "intro",
+      "n": "IntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "In welchem Jahr wurde der gelbe Notizblock erfunden?"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasFollowupAudio"
+    },
+    {
+      "t": "A",
+      "v": "followup",
+      "n": "FollowupAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "A",
+      "v": "outro",
+      "n": "OutroAudio",
+      "s": "Wisst ihr, was noch im Jahr 1888 rauskam? Der Kugelschreiber! Kein Witz! Könnt ihr das glauben? An den Rändern rummalen kam aber erst im Jahr 1900 raus."
+    }
+  ]
+}

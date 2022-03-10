@@ -1,0 +1,47 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "A",
+      "v": "intro",
+      "n": "IntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "Wie weit ist der nächste Stern in Lichtjahren von unserem Sonnensystem entfernt?"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFollowupAudio"
+    },
+    {
+      "t": "A",
+      "v": "followup",
+      "n": "FollowupAudio",
+      "s": "Falls es euch hilft, der Stern heißt Proxima Centauri. Falls es nicht hilft, haben wir auch noch viele andere Fragen zu Tieren und Sitcoms."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "A",
+      "v": "outro",
+      "n": "OutroAudio",
+      "s": "4,25 Lichtjahre, um genau zu sein! Ich mach gleich nen kurzen Abstecher, soll ich wem was vom Neptun mitbringen?"
+    }
+  ]
+}
