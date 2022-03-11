@@ -3118,13 +3118,13 @@
    "question": "Was wäre für dich das perfekte erste Date?",
    "questionShort": "erstes Date",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
    "category": "hypothetical",
    "choices": [
-    "der stoische Butler",
+    "der gelassene Butler",
     "die glückliche Witwe",
     "der Trophäenjäger",
     "der reiche Anwalt",
@@ -3141,10 +3141,10 @@
    "intro": "Dramatischer Donner!",
    "isValid": "",
    "outro": null,
-   "question": "Nun..was denkst du, wer den Grafen dieses Schlosses getötet hat?",
+   "question": "Nun... Was denkst du, wer den Grafen dieses Schlosses getötet hat?",
    "questionShort": "Wer war der Mörder?",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3166,7 +3166,7 @@
    "question": "Such dir ein exotisches Haustier aus für deine Wohnung!",
    "questionShort": "Exotische Haustiere",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3188,7 +3188,7 @@
    "question": "Oh nein, jemand hat dich beim Duschen erwischt. Schnell, greif nach etwas um deine Genitalien zu verdecken!",
    "questionShort": "Verstecke deine Scham",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -3210,7 +3210,7 @@
    "question": "Such dir jemanden aus, mit dem du einen Tag lang rumhängen willst!",
    "questionShort": "Prominententag",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3232,7 +3232,7 @@
    "question": "Welches Instrument würdest du am liebsten meistern?",
    "questionShort": "Bestes Instrument",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3254,7 +3254,7 @@
    "question": "Baue dir den perfekten Mitbewohner!",
    "questionShort": "perfekter Mitbewohner",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3276,7 +3276,7 @@
    "question": "Such dir eine EXTREME!!! Sportart aus, in der du Profi werden willst.",
    "questionShort": "Extreme Sportarten",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3297,10 +3297,10 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Die Shampoos, die ihr definitiv nicht verwenden werden.",
+   "question": "Die Shampoos, die ihr definitiv nicht verwenden werdet.",
    "questionShort": "schlechte Shampoos",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -3322,7 +3322,7 @@
    "question": "Mixe den perfekten Smoothie.",
    "questionShort": "perfekte Smoothies",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3346,7 +3346,7 @@
    "question": "Was sollte man unter der Dusche zuerst waschen?",
    "questionShort": "Duschen",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -3361,7 +3361,7 @@
     "beim Adoptieren",
     "in der Halbzeit eines Fußballspiels",
     "Im Krankenwagen nach einem Unfall",
-    "auf dem Todesbett",
+    "am Sterbebett",
     "auf einer Trauerfeier",
     "romantisches Café"
    ],
@@ -3372,7 +3372,7 @@
    "question": "Schlechtester Ort zum Schlussmachen",
    "questionShort": "Ort zum Schlussmachen",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3395,7 +3395,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Arrr Käpt'n. Es wird Zeit Kameraden auszusuchen, die keine Landratten sind! ",
+   "question": "Arrr Käpt'n. Es wird Zeit, Kameraden auszusuchen, die keine Landratten sind!",
    "questionShort": "deine Piratencrew",
    "round": "third",
    "us": true,
@@ -3417,10 +3417,10 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Suche dir den besten Pyjama aus dieser miserablen Liste aus. Muahahaha.",
+   "question": "Suche dir den besten Schlafanzug aus dieser miserablen Liste aus. Muahahaha.",
    "questionShort": "Pyjama",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3445,7 +3445,7 @@
    "question": "Du bist plötzlich ein berühmter Popstar. Was machst du zuerst?",
    "questionShort": "Pop Star Sachen",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3456,7 +3456,7 @@
     "auf Socke ausrutschen",
     "über eine Box fallen",
     "in eine Wand rennen",
-    "Knie am Kaffeetisch anstoßen",
+    "Knie am Tisch anstoßen",
     "Katzennapf umschmeißen",
     "auf Kissen fallen"
    ],
@@ -3467,7 +3467,7 @@
    "question": "Stell dir vor, du musst mitten in der Nacht aufs Klo und dich durch ein dunkles Zimmer tasten. Was passiert am ehesten?",
    "questionShort": "nächtliche Klopause",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3476,10 +3476,10 @@
     "Rauchmelder",
     "Desinfektionsmittel",
     "Flugzeug",
-    "Pop Rocks",
+    "Centershock",
     "Internet",
     "Geschirrspüler",
-    "Jacuzzi",
+    "Whirlpool",
     "E-Gitarre",
     "Nicer Dicer"
    ],
@@ -3490,7 +3490,7 @@
    "question": "Welche moderne Erfindung würdest du Menschen aus dem siebzehnten Jahrhundert geben?",
    "questionShort": "Moderne Erfindungen",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3509,7 +3509,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Seifenoper Probleme, auf die du absolut keinen Bock hast.",
+   "question": "Seifenoper-Probleme, auf die du absolut keinen Bock hast.",
    "questionShort": "Seifenoper Probleme",
    "round": "second",
    "us": true,
@@ -3537,7 +3537,7 @@
    "question": "Du kannst ein ausgestorbenes Tier wieder zurück bringen! Für welches entscheidest du dich?",
    "questionShort": "Nicht mehr ausgestorben",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3559,7 +3559,7 @@
    "question": "Was ist die beste Ausrede?",
    "questionShort": "Beste Ausreden",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3629,8 +3629,8 @@
    "question": "Deine Wunschwaffe während der Zombieapokalypse",
    "questionShort": "Zombieapokalypse Waffen",
    "round": "third",
-   "us": true,
-   "x": false
+   "us": false,
+   "x": true
   },
   {
    "category": "set",
@@ -3655,7 +3655,7 @@
    "question": "An welchem Feiertag sollen alle anderen arbeiten, während du frei hast?",
    "questionShort": "Feiertage frei",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3679,7 +3679,7 @@
    "question": "Unser Plan für die Weltherrschaft? Eine Insektenarmee! Wen rekrutieren wir?",
    "questionShort": "Baue deinen Schwarm.",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3729,7 +3729,7 @@
    "question": "Hey Studi! Pepp dein Instant Ramen etwas auf!",
    "questionShort": "Fancy Ramen",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -3755,7 +3755,7 @@
    "question": "Was für ein süßes kleines Kätzchen!! Wie heißt es denn?",
    "questionShort": "Beste Katzennamen",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3777,7 +3777,7 @@
    "question": "Igitt...diese Hausgäste will man nicht haben.",
    "questionShort": "Schlimmste Infestation ",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3802,7 +3802,7 @@
    "question": "Gar kein Bock auf dieses Tier in einer Riesenform.",
    "questionShort": "Monsterhafte Tiere",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3826,7 +3826,7 @@
    "question": "Tagsüber bist du du selbst, aber nachts nimmst du eine geheime Identität an! Welche?",
    "questionShort": "geheime Identitäten",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3850,7 +3850,7 @@
    "question": "Die BESTEN Pommes",
    "questionShort": "beste Pommes",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3874,7 +3874,7 @@
    "question": "Ok, packen wir's an. Die erotischsten Büroartikel.",
    "questionShort": "erotische Büroartikel",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -3918,7 +3918,7 @@
    "question": "Ich verwandle euch in Cyborgs! Auf welches Upgrade freut ihr euch am meisten?!",
    "questionShort": "Beste Roboterfeatures",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3944,7 +3944,7 @@
    "question": "Diese Sachen sind bei einer neuen Wohnung wichtig!",
    "questionShort": "Wohnung Must Haves",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3954,7 +3954,7 @@
     "Armageddon Blu-ray",
     "Lederhosen mit Reißverschlüssen",
     "Notizzettel",
-    "eine falsche Trophäe",
+    "ein Plastik-Pokal",
     "Hundesocken",
     "Lotions",
     "Schneemann-Krawatte",
@@ -3970,7 +3970,7 @@
    "question": "Was ist das schlechteste Wichtelgeschenk?",
    "questionShort": "schlechte Wichtelgeschenke",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3995,7 +3995,7 @@
    "question": "Wenn Räume Personen wären, welcher wäre am ehesten dein bester Freund?",
    "questionShort": "Beste Räume",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4003,7 +4003,7 @@
    "choices": [
     "Kino",
     "Whirlpool",
-    "Gourmetkoch",
+    "Gourmetküche",
     "Konzerthalle",
     "Pool",
     "Sportraum",
@@ -4017,7 +4017,7 @@
    "question": "Welcher Raum auf deiner großen, teuren Yacht ist der wichtigste?",
    "questionShort": "Yacht Must-Haves",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4039,7 +4039,7 @@
    "question": "Um das mal klar zu stellen: Was sorgt für den besten Schlaf?",
    "questionShort": "Schlafroutinen",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4061,7 +4061,7 @@
    "question": "Welchen Geruch würdest du gerne einmal kurz schnuppern?",
    "questionShort": "Schnuppern",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4106,7 +4106,7 @@
    "question": "Auf welche Frucht kann man sich immer verlassen?",
    "questionShort": "Früchte die meist gut sind",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4128,7 +4128,7 @@
    "question": "Hinterfragt mich nicht! Welche Farbe ist die leckerste?",
    "questionShort": "leckere Farben",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4171,10 +4171,10 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Boo! Du bist ein Geist. Wo wirst du spuken?",
+   "question": "Buh! Du bist ein Geist. Wo wirst du spuken?",
    "questionShort": "Spuken gehen",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4220,7 +4220,7 @@
    "question": "Welches Tier sieht aus, als hätte es ein schmutziges kleines Geheimnis?",
    "questionShort": "geheimnisvolle Tiere",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -4266,7 +4266,7 @@
    "question": "Beste Voraussetzungen für ein super Konzert?",
    "questionShort": "Konzert Must-Haves",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
