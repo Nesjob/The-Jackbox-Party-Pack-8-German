@@ -4383,52 +4383,61 @@
   {
    "answers": [
     {
-     "text": "Florida"
+     "text": "[i]Das Fernsehgericht tagt[/i]"
     },
     {
-     "text": "Thelma"
+     "text": "[i]Königlich Bayerisches Amtsgericht[/i]"
     },
     {
-     "text": "Willona"
+     "text": "[i]Ehen vor Gericht[/i]"
     },
     {
-     "text": "J.J."
+     "text": "[i]Verkehrsgericht[/i]"
     },
     {
-     "text": "James"
+     "text": "[i]Streit um drei[/i]"
     },
     {
-     "text": "Michael"
+     "text": "[i]Richterin Barbara Salesch[/i]"
     },
     {
-     "text": "Nathan"
+     "text": "[i]Das Strafgericht[/i]"
+    },
+    {
+     "text": "[i]Das Familiengericht[/i]"
+    },
+    {
+     "text": "[i]Das Jugendgericht[/i]"
+    },
+    {
+     "text": "[i]Richter Alexander Hold[/i]"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "Winifred"
+     "text": "[i]Richterin Idina Menzel[/i]"
     },
     {
-     "text": "Jameson"
+     "text": "[i]Hof der Gerechtigkeit[/i]"
     },
     {
-     "text": "Ethel"
+     "text": "[i]Der Strafgerichtshof[/i]"
     },
     {
-     "text": "Virgina"
+     "text": "[i]Schuldig im Sinne der Anklage[/i]"
     },
     {
-     "text": "George"
+     "text": "[i]Mediatoren im Einsatz[/i]"
     },
     {
-     "text": "Beebee"
+     "text": "[i]Richter in Deutschland - Echte Fälle & echte Urteile[/i]"
     }
    ],
    "id": "77687",
    "isValid": "",
-   "prompt": "Which characters were series regulars on the ’70s sitcom [i]Good Times[/i]?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um echte Gerichtssendungen im deutschen Fernsehen?",
+   "us": false,
    "x": false
   },
   {
@@ -10254,100 +10263,97 @@
   {
    "answers": [
     {
-     "text": "Cheetos"
+     "text": "Berliner"
     },
     {
-     "text": "Sun Chips"
+     "text": "Berliner Ballen"
     },
     {
-     "text": "Doritos"
+     "text": "Faschingskrapfen"
     },
     {
-     "text": "Funyuns"
+     "text": "Glaskrapfen"
     },
     {
-     "text": "Grandma's Cookies"
+     "text": "Kreppel"
     },
     {
-     "text": "Lay's Potato Chips"
+     "text": "Pfannkuchen"
     },
     {
-     "text": "Rold Gold Pretzels"
+     "text": "Krapfen"
     },
     {
-     "text": "Ruffles"
+     "text": "Puffel"
     }
    ],
    "category": "Food & Drink",
    "decoys": [
     {
-     "text": "Cheezits"
+     "text": "Pummel"
     },
     {
-     "text": "Pringles"
+     "text": "Pummeluff"
     },
     {
-     "text": "Kettle Chips"
+     "text": "Frikadelle"
     },
     {
-     "text": "Hostess Cupcakes"
-    },
-    {
-     "text": "Bugles"
+     "text": "Schlawiner"
     }
    ],
    "id": "79456",
    "isValid": "",
-   "prompt": "Which snacky-snacks are Frito Lay snacky-snacks?",
-   "us": true,
+   "prompt": "Unter welchen dieser Namen ist eine gewisse mit Marmelade gefüllte Spezialität aus Berlin bekannt?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "throwing an object overboard"
+     "text": "Rot"
     },
     {
-     "text": "skipping the muster drill"
+     "text": "Weiß"
     },
     {
-     "text": "refusing to be screened"
+     "text": "Grün"
     },
     {
-     "text": "stealing"
+     "text": "Blau"
     },
     {
-     "text": "fighting a guest"
+     "text": "Gelb"
     },
     {
-     "text": "getting gravely ill"
+     "text": "Schwarz"
     }
    ],
    "category": "Factoids",
    "decoys": [
     {
-     "text": "befriending the captain"
+     "text": "Braun"
     },
     {
-     "text": "singing sea shanties"
+     "text": "Rosa"
     },
     {
-     "text": "hogging the buffet"
+     "text": "Grau"
     },
     {
-     "text": "being taller than 5'6\""
+     "text": "Violett"
     },
     {
-     "text": "pretending to be a senior for discounts"
+     "text": "Pink"
     },
     {
-     "text": "speaking to ship entertainers off-duty"
+     "text": "Karo"
     }
    ],
    "id": "79457",
    "isValid": "",
-   "prompt": "Which of these actions will get you kicked off a cruise?",
-   "us": true,
+   "prompt": "Welche dieser Farben sind auf der Flagge von Südafrika vertreten?",
+   "us": false,
    "x": false
   },
   {
@@ -10641,49 +10647,64 @@
   {
    "answers": [
     {
-     "text": "pop"
+     "text": "Miss"
     },
     {
-     "text": "six"
+     "text": "Lane"
     },
     {
-     "text": "squish"
+     "text": "Gasse"
     },
     {
-     "text": "uh-uh"
+     "text": "Frame"
     },
     {
-     "text": "Cicero"
+     "text": "Turkey"
     },
     {
-     "text": "Lipschitz"
+     "text": "Fallraum"
+    },
+    {
+     "text": "Strike"
+    },
+    {
+     "text": "Babysplit"
+    },
+    {
+     "text": "Creaper"
     }
    ],
-   "category": "Theatre/Performing Arts",
+   "category": "Sports",
    "decoys": [
     {
-     "text": "bop"
+     "text": "Hole in One"
     },
     {
-     "text": "screech"
+     "text": "Schwalbe"
     },
     {
-     "text": "aha"
+     "text": "Pass"
     },
     {
-     "text": "Sicily"
+     "text": "Birdie"
     },
     {
-     "text": "Lipsticks"
+     "text": "Bodeneffekt"
     },
     {
-     "text": "fish sticks"
+     "text": "Early Bird"
+    },
+    {
+     "text": "Lame Duck"
+    },
+    {
+     "text": "Cold Buffet"
     }
    ],
    "id": "79654",
    "isValid": "",
-   "prompt": "Which words are repeated in “Cell Block Tango” from the musical [i]Chicago[/i]?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um Fachbegriffe aus dem Bowling?",
+   "us": false,
    "x": false
   },
   {
@@ -16455,49 +16476,52 @@
   {
    "answers": [
     {
-     "text": "Word"
+     "text": "Dreamcast"
     },
     {
-     "text": "Excel"
+     "text": "Nomad"
     },
     {
-     "text": "Powerpoint"
+     "text": "Mega Drive"
     },
     {
-     "text": "Access"
+     "text": "Game Gear"
     },
     {
-     "text": "Outlook"
+     "text": "Mega-CD"
     },
     {
-     "text": "Skype for Business"
+     "text": "Saturn"
     },
     {
-     "text": "Publisher"
+     "text": "32X"
     },
     {
-     "text": "InfoPath"
+     "text": "Master System"
     }
    ],
-   "category": "Companies & Brands",
+   "category": "Games",
    "decoys": [
     {
-     "text": "Discord"
+     "text": "Uranus"
     },
     {
-     "text": "Messenger"
+     "text": "Bronze"
     },
     {
-     "text": "Sheets"
+     "text": "Virtua Machine"
     },
     {
-     "text": "Steam"
+     "text": "Jupiter"
+    },
+    {
+     "text": "Entertainment System"
     }
    ],
    "id": "85606",
    "isValid": "",
-   "prompt": "Which of these applications have been bundled in Microsoft Office Suite?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um echte Videospielkonsolen von [i]Sega[/i]?",
+   "us": false,
    "x": false
   },
   {
