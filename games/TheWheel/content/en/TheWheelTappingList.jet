@@ -2199,52 +2199,49 @@
   {
    "answers": [
     {
-     "text": "“The Raven”"
+     "text": "Pippilotta"
     },
     {
-     "text": "“The Black Cat”"
+     "text": "Viktualia"
     },
     {
-     "text": "“The Tell-Tale Heart”"
+     "text": "Rollgardina"
     },
     {
-     "text": "“The Haunted Palace”"
+     "text": "Pfefferminz"
     },
     {
-     "text": "“The Premature Burial”"
-    },
-    {
-     "text": "“The Purloined Letter”"
-    },
-    {
-     "text": "“The Pit and the Pendulum”"
-    },
-    {
-     "text": "“The Masque of the Red Death”"
+     "text": "Efraimstochter"
     }
    ],
    "category": "Literature",
    "decoys": [
     {
-     "text": "“The Guilt”"
+     "text": "Estefania"
     },
     {
-     "text": "“The Stand”"
+     "text": "Emillota"
     },
     {
-     "text": "“The Dark Tower”"
+     "text": "Karolita"
     },
     {
-     "text": "“The Magician’s Nephew”"
+     "text": "Colorado"
     },
     {
-     "text": "“The Owl and the Pussy-Cat”"
+     "text": "Annika"
+    },
+    {
+     "text": "Philippina"
+    },
+    {
+     "text": "Tellicherry"
     }
    ],
    "id": "76863",
    "isValid": "",
-   "prompt": "Which poems or stories are by Edgar Allen Poe?",
-   "us": true,
+   "prompt": "Welches sind Vornamen von Pippi Langstrumpf?",
+   "us": false,
    "x": false
   },
   {
@@ -2298,64 +2295,52 @@
   {
    "answers": [
     {
-     "text": "maxillary central incisor"
+     "text": "Troposphäre"
     },
     {
-     "text": "maxillary lateral incisor"
+     "text": "Stratosphäre"
     },
     {
-     "text": "maxillary canine"
+     "text": "Mesosphäre"
     },
     {
-     "text": "maxillary first premolar"
+     "text": "Thermosphäre"
     },
     {
-     "text": "maxillary second premolar"
-    },
-    {
-     "text": "maxillary first molar"
-    },
-    {
-     "text": "mandibular central incisor"
-    },
-    {
-     "text": "mandibular cuspid"
-    },
-    {
-     "text": "mandibular third molar"
-    },
-    {
-     "text": "mandibular canine"
-    },
-    {
-     "text": "mandibular second premolar"
+     "text": "Exosphäre"
     }
    ],
-   "category": "Anatomy",
+   "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "mandibular maxillary"
+     "text": "Mikrosphäre"
     },
     {
-     "text": "mandibular third wisdom"
+     "text": "Halosphäre"
     },
     {
-     "text": "wolf tooth"
+     "text": "Lithosphäre"
     },
     {
-     "text": "maximus teethicius"
+     "text": "Luftosphäre"
     },
     {
-     "text": "candible chompercillium"
+     "text": "Filosphäre"
     },
     {
-     "text": "the gummy works"
+     "text": "Nubesphäre"
+    },
+    {
+     "text": "Felhósphäre"
+    },
+    {
+     "text": "Asthenosphäre"
     }
    ],
    "id": "76883",
    "isValid": "",
-   "prompt": "Which ones are actual teeth in the human mouth?",
-   "us": true,
+   "prompt": "Welches sind Schichten der Erdatmosphäre?",
+   "us": false,
    "x": false
   },
   {
@@ -4560,55 +4545,61 @@
   {
    "answers": [
     {
-     "text": "Brookie-O"
+     "text": "Joghurt"
     },
     {
-     "text": "Java Chip"
+     "text": "Trauben-Nuss"
     },
     {
-     "text": "Birthday Cake"
+     "text": "Kuhflecken"
     },
     {
-     "text": "Chocolate"
+     "text": "Erdbeer"
     },
     {
-     "text": "Peanut Butter"
+     "text": "[i]Oreo[/i] White"
     },
     {
-     "text": "Carrot Cake"
+     "text": "[i]Oreo[/i] Sandwich"
     },
     {
-     "text": "Lemon"
+     "text": "Himbeer"
     },
     {
-     "text": "Caramel Coconut"
+     "text": "Caramel"
+    },
+    {
+     "text": "Luflée"
     }
    ],
    "category": "Food & Drink",
    "decoys": [
     {
-     "text": "Marzipan"
+     "text": "[i]TUC[/i] Lemon"
     },
     {
      "text": "Raspberry Cheesecake"
     },
     {
-     "text": "Banana Cream Pie"
+     "text": "Cherry Chère"
     },
     {
-     "text": "Spinach"
+     "text": "Schaumkuss"
     },
     {
-     "text": "Brown Sugar"
+     "text": "Mandel & Rosine"
     },
     {
-     "text": "Chamomile"
+     "text": "Currywurst"
+    },
+    {
+     "text": "Lakritz"
     }
    ],
    "id": "77762",
    "isValid": "",
-   "prompt": "Which of these are real Oreo flavors?",
-   "us": true,
+   "prompt": "Welches sind echte Geschmackssorten von [i]Milka[/i]-Schokoladentafeln?",
+   "us": false,
    "x": false
   },
   {
@@ -13794,64 +13785,73 @@
   {
    "answers": [
     {
-     "text": "\"I love you.\""
+     "text": "Link"
     },
     {
-     "text": "\"Will you play with me?\""
+     "text": "Zelda"
     },
     {
-     "text": "\"Please change my dress.\""
+     "text": "Impa"
     },
     {
-     "text": "\"Please brush my hair.\""
+     "text": "Shiek"
     },
     {
-     "text": "\"Where are we going?\""
+     "text": "Ganondorf"
     },
     {
-     "text": "\"Please carry me.\""
+     "text": "Malon"
     },
     {
-     "text": "\"I'm hungry!\""
+     "text": "Tetra"
     },
     {
-     "text": "\"I'm sleepy.\""
+     "text": "Midna"
     },
     {
-     "text": "\"Tell me a story.\""
+     "text": "Tingle"
     },
     {
-     "text": "\"Let's play house.\""
-    },
-    {
-     "text": "\"I hurt myself!\""
+     "text": "Navi"
     }
    ],
    "category": "Games",
    "decoys": [
     {
-     "text": "\"Obey.\""
+     "text": "Tracer"
     },
     {
-     "text": "\"I'm thirsty.\""
+     "text": "Resetti"
     },
     {
-     "text": "\"Is this all there is?\""
+     "text": "Kamek"
     },
     {
-     "text": "\"I want to be alone.\""
+     "text": "Melinda"
     },
     {
-     "text": "\"Sweet dreams!\""
+     "text": "Ratchet"
     },
     {
-     "text": "“Mother, I feel a deep emptiness.”"
+     "text": "Aloy"
+    },
+    {
+     "text": "Cloud"
+    },
+    {
+     "text": "Peach"
+    },
+    {
+     "text": "Dioji"
+    },
+    {
+     "text": "Nanaki"
     }
    ],
    "id": "82700",
    "isValid": "",
-   "prompt": "Which phrases was the original Chatty Cathy doll programmed to say upon its release in 1960?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um Charaktere aus der “[i]The Legend of Zelda[/i]”-Videospielreihe?",
+   "us": false,
    "x": false
   },
   {
@@ -14598,49 +14598,73 @@
   {
    "answers": [
     {
-     "text": "Big Questions"
+     "text": "[i]007 jagt Dr. No[/i]"
     },
     {
-     "text": "Extemporaneous Debate"
+     "text": "[i]Liebesgrüße aus Moskau[/i]"
     },
     {
-     "text": "Mixed Extemporaneous Speaking"
+     "text": "[i]Goldfinger[/i]"
     },
     {
-     "text": "Prose"
+     "text": "[i]Feuerball[/i]"
     },
     {
-     "text": "Dramatic Interpretation"
+     "text": "[i]Man lebt nur zweimal[/i]"
     },
     {
-     "text": "Humorous Interpretation"
+     "text": "[i]Der Spion, der mich liebte[/i]"
     },
     {
-     "text": "Congressional Debate"
+     "text": "[i]Octopussy[/i]"
     },
     {
-     "text": "Original Oratory"
+     "text": "[i]GoldenEye[/i]"
     },
     {
-     "text": "Impromptu"
+     "text": "[i]Lizenz zum Töten[/i]"
+    },
+    {
+     "text": "[i]Die Welt ist nicht genug[/i]"
+    },
+    {
+     "text": "[i]Skyfall[/i]"
+    },
+    {
+     "text": "[i]Keine Zeit zu sterben[/i]"
     }
    ],
-   "category": "Factoids",
+   "category": "Film & TV",
    "decoys": [
     {
-     "text": "Extemporaneous Expository"
+     "text": "[i]Der Tod ist nicht das Ende[/i]"
     },
     {
-     "text": "Humorous Debate"
+     "text": "[i]Operation Neapolitaner[/i]"
     },
     {
-     "text": "Mixed Yelling"
+     "text": "[i]Der Mann mit dem Platin-Colt[/i]"
+    },
+    {
+     "text": "[i]Ein Blick zum sterben[/i]"
+    },
+    {
+     "text": "[i]Alles hat ein Ende[/i]"
+    },
+    {
+     "text": "[i]Goldrausch[/i]"
+    },
+    {
+     "text": "[i]Ohne Netz und doppelten Boden[/i]"
+    },
+    {
+     "text": "[i]Morgen ist ein guter Tag zum sterben[/i]"
     }
    ],
    "id": "83060",
    "isValid": "",
-   "prompt": "Which of these are official student competition events developed by the National Speech & Debate Association?",
-   "us": true,
+   "prompt": "Welches sind echte Filme über [i]James Bond[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -18873,58 +18897,70 @@
   {
    "answers": [
     {
-     "text": "“Will the Real Martian Please Stand Up?”"
+     "text": "“Kollision”"
     },
     {
-     "text": "“Time Enough at Last”"
+     "text": "“Die kleine Prinzessin”"
     },
     {
-     "text": "“The Monsters Are Due on Maple Street”"
+     "text": "“Bomben bei Kilometer 92”"
     },
     {
-     "text": "“The Howling Man”"
+     "text": "“Babyalarm”"
     },
     {
-     "text": "“Five Characters in Search of an Exit”"
+     "text": "“FKK-Alarm für Semir”"
     },
     {
-     "text": "“I Sing the Body Electric”"
+     "text": "“Wo ist Semir?”"
     },
     {
-     "text": "“Nightmare at 20,000 Feet”"
+     "text": "“Abflug”"
     },
     {
-     "text": "“An Occurrence at Owl Creek Bridge”"
+     "text": "“Hetzjagd auf Semir”"
     },
     {
-     "text": "“I Am the Night—Color Me Black”"
+     "text": "“Liebesgrüße aus Moskau”"
     },
     {
-     "text": "“Where Is Everybody?”"
+     "text": "“Der Mentalist”"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "“Scarecrow Walks at Midnight”"
+     "text": "“Wer ist Semir?”"
     },
     {
-     "text": "“If the Shoe Fits”"
+     "text": "“Holz vor der Hütte”"
     },
     {
-     "text": "“The Rod Serling Power Hour”"
+     "text": "“Auf den Spuren meiner Mutter”"
     },
     {
-     "text": "“The Ugly Barnacle”"
+     "text": "“Verlorene Fracht”"
     },
     {
-     "text": "“A Most Perplexing Predicament”"
+     "text": "“Hinter Schloss und Riegel”"
+    },
+    {
+     "text": "“Vereitelter Spieleabend”"
+    },
+    {
+     "text": "“Toter Geisterfahrer”"
+    },
+    {
+     "text": "“Regentag-Zulage”"
+    },
+    {
+     "text": "“Brot und Ziele”"
     }
    ],
    "id": "86449",
    "isValid": "",
-   "prompt": "Which of these are real episodes from the original [i]The Twilight Zone[/i] series?",
-   "us": true,
+   "prompt": "Welches sind echte Folgentitel von “[i]Alarm für Cobra 11 - Die Autobahnpolizei[/i]”?",
+   "us": false,
    "x": false
   },
   {
@@ -19530,61 +19566,73 @@
   {
    "answers": [
     {
-     "text": "Santa with Face Mask"
+     "text": "Karnimani"
     },
     {
-     "text": "Ranch Dressing"
+     "text": "Fletiamo"
     },
     {
-     "text": "T-Rex"
+     "text": "Dusselgurr"
     },
     {
-     "text": "Power Drill"
+     "text": "Katapuldra"
     },
     {
-     "text": "Cannoli"
+     "text": "Puponcho"
     },
     {
-     "text": "Yoga Mat"
+     "text": "Volbeat"
     },
     {
-     "text": "Howling Wolf"
+     "text": "Onix"
     },
     {
-     "text": "Crossword Puzzle"
+     "text": "Brigaron"
     },
     {
-     "text": "Toilet Plunger"
+     "text": "Pikachu"
     },
     {
-     "text": "Sasquatch"
+     "text": "Kapu-Riki"
     },
     {
-     "text": "Guacamole"
+     "text": "Efoserp"
     },
     {
-     "text": "Meatball Sandwich"
+     "text": "Schiggy"
+    },
+    {
+     "text": "Lauchzelot"
     }
    ],
-   "category": "Calendar/Holidays",
+   "category": "Games",
    "decoys": [
     {
-     "text": "Therapist"
+     "text": "Brikador"
     },
     {
-     "text": "All-Knowing Wheel"
+     "text": "Flosera"
     },
     {
-     "text": "The Band Chumbawumba"
+     "text": "Nagpfel"
     },
     {
-     "text": "Bullfighter"
+     "text": "Zabrelos"
+    },
+    {
+     "text": "Flori"
+    },
+    {
+     "text": "Kapu-Loca"
+    },
+    {
+     "text": "Volcora"
     }
    ],
    "id": "86479",
    "isValid": "",
-   "prompt": "As of 2021, which of the following are real Christmas tree ornaments that could be purchased from Old World Christmas dot com?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um echte Pokémon?",
+   "us": false,
    "x": false
   },
   {
@@ -19935,49 +19983,49 @@
   {
    "answers": [
     {
-     "text": "[i]Grease[/i]"
+     "text": "Plaza Mayor"
     },
     {
-     "text": "[i]West Side Story[/i]"
+     "text": "Museo del Prado"
     },
     {
-     "text": "[i]Heathers[/i]"
+     "text": "Puerta del Sol"
     },
     {
-     "text": "[i]Spring Awakening[/i]"
-    },
-    {
-     "text": "[i]Mean Girls[/i]"
-    },
-    {
-     "text": "[i]Hairspray[/i]"
-    },
-    {
-     "text": "[i]Dear Evan Hansen[/i]"
-    },
-    {
-     "text": "[i]Footloose[/i]"
+     "text": "Calle Gran Vía"
     }
    ],
-   "category": "Theatre/Performing Arts",
+   "category": "Geography & Landmarks",
    "decoys": [
     {
-     "text": "[i]Cabaret[/i]"
+     "text": "Sagrada Familia"
     },
     {
-     "text": "[i]Kinky Boots[/i]"
+     "text": "Casa Milà"
     },
     {
-     "text": "[i]Waitress[/i]"
+     "text": "Plaza de Espana"
     },
     {
-     "text": "[i]Rent[/i]"
+     "text": "Parque Güell"
+    },
+    {
+     "text": "Alhambra"
+    },
+    {
+     "text": "Mosteiro dos Jerónimos"
+    },
+    {
+     "text": "Jardin des Tuileries"
+    },
+    {
+     "text": "Forum Romanum"
     }
    ],
    "id": "86517",
    "isValid": "",
-   "prompt": "Which of these Broadway musicals are set in high school?",
-   "us": true,
+   "prompt": "Welche der folgenden Sehenswürdigkeiten habe ich bei meinem Städtetrip in Madrid letzten Sommer gesehen?",
+   "us": false,
    "x": false
   },
   {
