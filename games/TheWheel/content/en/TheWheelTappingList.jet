@@ -411,49 +411,55 @@
   {
    "answers": [
     {
-     "text": "[i]Almost, Maine[/i]"
+     "text": "Kartoffel"
     },
     {
-     "text": "[i]Beauty and the Beast[/i]"
+     "text": "Tomate"
     },
     {
-     "text": "[i]Our Town[/i]"
+     "text": "Paprika"
     },
     {
-     "text": "[i]The Crucible[/i]"
+     "text": "Aubergine"
     },
     {
-     "text": "[i]10 Ways to Survive the Zombie Apocalypse[/i]"
+     "text": "Tollkirsche"
     },
     {
-     "text": "[i]Into the Woods[/i]"
+     "text": "Tabakpflanze"
     },
     {
-     "text": "[i]Shrek[/i]"
+     "text": "Garten-Petunie"
     },
     {
-     "text": "[i]A Midsummer Night's Dream[/i]"
+     "text": "Engelstrompete"
     }
    ],
-   "category": "Theatre/Performing Arts",
+   "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "[i]Rent[/i]"
+     "text": "Krokus"
     },
     {
-     "text": "[i]Oedipus Rex[/i]"
+     "text": "Zucchini"
     },
     {
-     "text": "[i]Death of a Salesman[/i]"
+     "text": "Karotte"
     },
     {
-     "text": "[i]Hardly, Montana[/i]"
+     "text": "Hanfpflanze"
+    },
+    {
+     "text": "Hopfen"
+    },
+    {
+     "text": "Damen-Tulpe"
     }
    ],
    "id": "76756",
    "isValid": "",
-   "prompt": "Which of these titles are 2019's most-performed plays by high schoolers?",
-   "us": true,
+   "prompt": "Bei welchen dieser Pflanzen handelt es sich um [i]Nachtschattengewächse[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -10986,52 +10992,64 @@
   {
    "answers": [
     {
-     "text": "Juror 1"
+     "text": "Geschworener Nr. 1"
     },
     {
-     "text": "Juror 2"
+     "text": "Geschworener Nr. 2"
     },
     {
-     "text": "Juror 4"
+     "text": "Geschworener Nr. 3"
     },
     {
-     "text": "Juror 6"
+     "text": "Geschworener Nr. 4"
     },
     {
-     "text": "Juror 7"
+     "text": "Geschworener Nr. 5"
     },
     {
-     "text": "Juror 8"
+     "text": "Geschworener Nr. 6"
     },
     {
-     "text": "Juror 9"
+     "text": "Geschworener Nr. 7"
     },
     {
-     "text": "Juror 11"
+     "text": "Geschworener Nr. 8"
     },
     {
-     "text": "Juror 12"
+     "text": "Geschworener Nr. 9"
+    },
+    {
+     "text": "Geschworener Nr. 10"
+    },
+    {
+     "text": "Geschworener Nr. 11"
+    },
+    {
+     "text": "Geschworener Nr. 12"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "Juror 13"
+     "text": "Geschworener Nr. 13"
     },
     {
-     "text": "Juror 15"
+     "text": "Geschworener Nr. 15"
     },
     {
-     "text": "Juror 17"
+     "text": "Geschworener Nr. 25173"
     },
     {
-     "text": "Judge Dredd"
+     "text": "Richter Dredd"
+    },
+    {
+     "text": "Gerichtsdiener Applebaum"
     }
    ],
    "id": "79684",
    "isValid": "",
-   "prompt": "Which characters are in [i]12 Angry Men[/i]?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um Figuren aus dem Spielfilmklassiker “[i]Die zwölf Geschworenen[/i]”?",
+   "us": false,
    "x": false
   },
   {
@@ -11220,55 +11238,67 @@
   {
    "answers": [
     {
-     "text": "Jon Lovitz"
+     "text": "[i]Hannibal[/i]"
     },
     {
-     "text": "Kelsey Grammer"
+     "text": "[i]Gott vergibt… Django nie![/i]"
     },
     {
-     "text": "Patrick Stewart"
+     "text": "[i]Vier für ein Ave Maria[/i]"
     },
     {
-     "text": "Meryl Streep"
+     "text": "[i]Die rechte und die linke Hand des Teufels[/i]"
     },
     {
-     "text": "Paul McCartney"
+     "text": "[i]Vier Fäuste für ein Halleluja[/i]"
     },
     {
-     "text": "Larry King"
+     "text": "[i]Zwei Missionare[/i]"
     },
     {
-     "text": "Winona Ryder"
+     "text": "[i]Zwei wie Pech und Schwefel[/i]"
     },
     {
-     "text": "Sting"
+     "text": "[i]Freibeuter der Meere[/i]"
+    },
+    {
+     "text": "[i]Zwei Asse trumpfen auf[/i]"
+    },
+    {
+     "text": "[i]Zwei außer Rand und Band[/i]"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "Tom Cruise"
+     "text": "[i]Zwei suchen die Gefahr[/i]"
     },
     {
-     "text": "Jack Nicholson"
+     "text": "[i]Die Augen des Todes[/i]"
     },
     {
-     "text": "Nicole Kidman"
+     "text": "[i]Die Irrfahrten des Herkules[/i]"
     },
     {
-     "text": "Bruce Springsteen"
+     "text": "[i]Vier Fäuste gegen Barcelona[/i]"
     },
     {
-     "text": "Clint Eastwood"
+     "text": "[i]Zwei lassen nicht locker![/i]"
     },
     {
-     "text": "Shirley Temple"
+     "text": "[i]Bis das die Faust uns scheidet[/i]"
+    },
+    {
+     "text": "[i]Zwei auf Hawaii[/i]"
+    },
+    {
+     "text": "[i]Zwei Höllenhunde auf dem Weg zum Himmel[/i]"
     }
    ],
    "id": "79853",
    "isValid": "",
-   "prompt": "As of 2020, which of these celebrities have lent their voices to [i]The Simpsons[/i]?",
-   "us": true,
+   "prompt": "In welchen dieser Filme sind [i]Bud Spencer[/i] und [i]Terence Hill[/i] gemeinsam zu sehen?",
+   "us": false,
    "x": false
   },
   {
@@ -15066,58 +15096,70 @@
   {
    "answers": [
     {
-     "text": "collection of things"
+     "text": "Aprikose"
     },
     {
-     "text": "radio or television receiver"
+     "text": "Erdbeere"
     },
     {
-     "text": "visual scenery"
+     "text": "Himbeere"
     },
     {
-     "text": "cutting, young plant, or bulb"
+     "text": "Pfirsich-Maracuja"
     },
     {
-     "text": "harden into a solid"
+     "text": "Zitrone"
     },
     {
-     "text": "adjust a clock"
+     "text": "Kirsche"
     },
     {
-     "text": "put, lay, or sit"
+     "text": "Mango"
     },
     {
-     "text": "start a fire"
+     "text": "Kiwi"
     },
     {
-     "text": "arranged in advance"
+     "text": "Kirsch-Banane"
+    },
+    {
+     "text": "Orange"
+    },
+    {
+     "text": "Waldfrucht"
     }
    ],
-   "category": "Language/Words/Grammar",
+   "category": "Food & Drinks",
    "decoys": [
     {
-     "text": "a fall to a lower level"
+     "text": "Spekulatius"
     },
     {
-     "text": "an emission of gas from the anus"
+     "text": "Knoblauch"
     },
     {
-     "text": "a strong unpleasant smell"
+     "text": "Feige"
     },
     {
-     "text": "an inflatable bag"
+     "text": "Johannisbeere"
     },
     {
-     "text": "to swell or puff out"
+     "text": "Vanille"
     },
     {
-     "text": "glide with a swaying motion"
+     "text": "Kaffee-Karamell"
+    },
+    {
+     "text": "Haselnuss"
+    },
+    {
+     "text": "Schokolade"
     }
    ],
    "id": "83927",
    "isValid": "",
-   "prompt": "Which of these are meanings for the word “set” in English?",
-   "us": true,
+   "prompt": "Welches sind echte [i]Froop[/i]-Sorten?",
+   "us": false,
    "x": false
   },
   {
@@ -15177,49 +15219,73 @@
   {
    "answers": [
     {
-     "text": "hodor"
+     "text": "Karamell"
     },
     {
-     "text": "hodor"
+     "text": "Schoko-Nuss"
     },
     {
-     "text": "hodor"
+     "text": "Pistazie"
     },
     {
-     "text": "hodor"
+     "text": "Himbeere"
     },
     {
-     "text": "hodor"
+     "text": "Kirsche"
     },
     {
-     "text": "hodor"
+     "text": "Schoko"
     },
     {
-     "text": "hodor"
+     "text": "Zimt"
+    },
+    {
+     "text": "Vanille"
+    },
+    {
+     "text": "Apfel"
+    },
+    {
+     "text": "Erdbeere"
+    },
+    {
+     "text": "À la gebrannte Mandel"
     }
    ],
-   "category": "Film & TV",
+   "category": "Food & Drink",
    "decoys": [
     {
-     "text": "odor"
+     "text": "Stracciatella"
     },
     {
-     "text": "hors d'oeuvres"
+     "text": "À la Popcorn"
     },
     {
-     "text": "Mordor"
+     "text": "Kiwi"
     },
     {
-     "text": "hold door"
+     "text": "Cookies"
     },
     {
-     "text": "dodor"
+     "text": "À la Bratapfel"
+    },
+    {
+     "text": "Ananas"
+    },
+    {
+     "text": "Thunfisch"
+    },
+    {
+     "text": "Schwarze Johannisbeere"
+    },
+    {
+     "text": "Honig-Passionsfrucht"
     }
    ],
    "id": "84257",
    "isValid": "",
-   "prompt": "What words are spoken by Wylis in the first four seasons of [i]Game of Thrones[/i]?",
-   "us": true,
+   "prompt": "Welches sind echte “[i]Müller Milchreis Original[/i]”-Sorten?",
+   "us": false,
    "x": false
   },
   {
@@ -15546,49 +15612,70 @@
   {
    "answers": [
     {
-     "text": "Google Fiber"
+     "text": "[i]Transmorphers[/i]"
     },
     {
-     "text": "Cox"
+     "text": "[i]Snakes on a Train[/i]"
     },
     {
-     "text": "Spectrum"
+     "text": "[i]Krieg der Welten 2 - Die nächste Angriffswelle[/i]"
     },
     {
-     "text": "Verizon"
+     "text": "[i]Supernova 2012[/i]"
     },
     {
-     "text": "AT&T"
+     "text": "[i]The Terminators[/i]"
     },
     {
-     "text": "Xfinity"
+     "text": "[i]Thor - Der Allmächtige[/i]"
     },
     {
-     "text": "CenturyLink"
+     "text": "[i]Abraham Lincoln vs. Zombies[/i]"
     },
     {
-     "text": "HughesNet"
+     "text": "[i]Nazi Sky - Die Rückkehr des Bösen[/i]"
+    },
+    {
+     "text": "[i]Android Cop[/i]"
+    },
+    {
+     "text": "[i]Independents' Day[/i]"
+    },
+    {
+     "text": "[i]Triassic World[/i]"
+    },
+    {
+     "text": "[i]Interception[/i]"
     }
    ],
-   "category": "Companies & Brands",
+   "category": "Film & TV",
    "decoys": [
     {
-     "text": "Nestle"
+     "text": "[i]1917 - Kampf an der Front[/i]"
     },
     {
-     "text": "JP Morgan Chase"
+     "text": "[i]Angriff der Titanen[/i]"
     },
     {
-     "text": "DonkeyNet"
+     "text": "[i]Star Tracker: Beyond Imagination[/i]"
     },
     {
-     "text": "Cheugy"
+     "text": "[i]Ich - Einfach Unbelehrbar[/i]"
+    },
+    {
+     "text": "[i]Under Control[/i]"
+    },
+    {
+     "text": "[i]Kiss Kiss And Bang Bang[/i]"
+    },
+    {
+     "text": "[i]Infamous Bastards[/i]"
     }
    ],
    "id": "84786",
    "isValid": "",
-   "prompt": "Which of these are, or have been, TV and internet service providers in the U.S.?",
-   "us": true,
+   "prompt": "Welches sind echte [i]Mockbuster[/i], also billige Filme, die erfolgreiche Titel imitieren?",
+   "us": false,
    "x": false
   },
   {
@@ -20085,58 +20172,61 @@
   {
    "answers": [
     {
-     "text": "Taylor Swift"
+     "text": "Erdbeere"
     },
     {
-     "text": "David Fincher"
+     "text": "Himbeere"
     },
     {
-     "text": "Alex Swan"
+     "text": "Brombeere"
     },
     {
-     "text": "Jay Leno"
+     "text": "Holunderbeere"
     },
     {
-     "text": "Screamin' Jay Hawkins"
+     "text": "Vogelbeere"
     },
     {
-     "text": "Robin Willams"
+     "text": "Wacholderbeere"
     },
     {
-     "text": "Gil Scott-Heron"
-    },
-    {
-     "text": "Starling Marte"
-    },
-    {
-     "text": "Russell Crowe"
+     "text": "Kirsche"
     }
    ],
-   "category": "Animals",
+   "category": "Factoids",
    "decoys": [
     {
-     "text": "\"Weird Al\" Yankovic"
+     "text": "Heidelbeere"
     },
     {
-     "text": "David Duchovny"
+     "text": "Kiwi"
     },
     {
-     "text": "Bob Mortimer"
+     "text": "Preiselbeere"
     },
     {
-     "text": "Wayne Brady"
+     "text": "Stachelbeere"
     },
     {
-     "text": "Ben Jacobs"
+     "text": "Rote Johannisbeere"
     },
     {
-     "text": "Anthony Rizzo"
+     "text": "Banane"
+    },
+    {
+     "text": "Avocado"
+    },
+    {
+     "text": "Weinbeere"
+    },
+    {
+     "text": "Guave"
     }
    ],
    "id": "86547",
    "isValid": "",
-   "prompt": "Which of these people have a bird somewhere in their name?",
-   "us": true,
+   "prompt": "Bei welchen dieser Pflanzen handelt es sich im Sinne der Botanik NICHT um [i]Beeren[/i]?",
+   "us": false,
    "x": false
   },
   {
