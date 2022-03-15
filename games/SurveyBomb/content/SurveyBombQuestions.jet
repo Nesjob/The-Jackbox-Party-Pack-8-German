@@ -4288,7 +4288,7 @@
    "question": "Was sollte gesetzlich nicht länger als 30 Minuten dauern dürfen?",
    "questionShort": "nicht mehr als dreißig Minuten",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -4306,11 +4306,11 @@
    "id": "79045",
    "intro": null,
    "isValid": "",
-   "outro": "Man sollte meinen ein Geheimversteck in einem Vulkan kostet eine Menge. Aber Wohnungen in Berlin sind doch um einiges teurer.",
+   "outro": "Man sollte meinen ein Geheimversteck in einem Vulkan kostet eine Menge. Aber Wohnungen in Berlin sind noch um einiges teurer.",
    "question": "Wo baust du dein böses Geheimversteck?",
    "questionShort": "Geheimversteck",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4332,7 +4332,7 @@
    "question": "Der SCHLECHTESTE Zeitpunkt um eine Hochzeit abzubrechen.",
    "questionShort": "Hochzeit abbrechen",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4378,7 +4378,7 @@
    "question": "Wo sollte man definitiv kein Sushi kaufen?",
    "questionShort": "schlechtes Sushi",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4402,7 +4402,7 @@
    "question": "Zeit für eine Maniküre! Sucht euch eine Farbe aus!",
    "questionShort": "Nagellack aussuchen",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4414,8 +4414,8 @@
     "dekorative Badebomben",
     "lustiges Klobuch",
     "kleiner Mülleimer",
-    "eine Rolle Klopapier",
-    "Bilder von Leuchtürmen"
+    "eine Ersatz-Rolle Klopapier",
+    "Bilder von Leuchttürmen"
    ],
    "id": "79072",
    "intro": null,
@@ -4424,7 +4424,7 @@
    "question": "Sei der beste Gastgeber überhaupt! Baue das perfekte Gästeklo.",
    "questionShort": "Bestes Gästeklo",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4440,7 +4440,7 @@
     "Alvin",
     "Jerry (Tom und Jerry)",
     "Pinky (Kumpel von Brain)",
-    "die copyrightes Maus (ihr wisst schon)"
+    "die markenrechtlich geschützte Maus (ihr wisst schon)"
    ],
    "id": "79112",
    "intro": null,
@@ -4482,7 +4482,7 @@
    "category": "favorite",
    "choices": [
     "Welpe",
-    "das coole S'",
+    "das coole S",
     "ein Auge",
     "kleine Blümchen",
     "einen Anime Charakter",
@@ -4494,10 +4494,10 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Die Unterrichtsstunde ist langweilig..zeichnen wir also was?",
+   "question": "Die Unterrichtsstunde ist langweilig... zeichnen wir also was?",
    "questionShort": "beste Kritzeleien",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4521,7 +4521,7 @@
    "question": "Was findest du am besten im Sommercamp?",
    "questionShort": "Sommercamp Aktivitäten",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4530,7 +4530,6 @@
     "Kotzgesicht",
     "Koch",
     "Zug",
-    "Mrs. Claus",
     "Shorts",
     "Shrimp",
     "Wasserpolo",
@@ -4543,9 +4542,9 @@
    "isValid": "",
    "outro": null,
    "question": "Ehrlich gesagt, wäre ich am liebsten dieses Emoji.",
-   "questionShort": "ich bin dieses Emoji",
+   "questionShort": "Ich bin dieses Emoji",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4555,7 +4554,7 @@
     "Kometenwelt!",
     "Kein-Atmen-Land",
     "Parkplatz für Raketen",
-    "Gottes magische Pizza",
+    "Gottes Geheimversteck",
     "The Big Chill",
     "Dinosauriertöter",
     "das schlechtere [i]Star Wars[/i]"
@@ -4567,7 +4566,7 @@
    "question": "Okay, das Weltall braucht einen neuen Namen!",
    "questionShort": "Weltallnamen",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4591,7 +4590,7 @@
    "question": "Bester Grund um am Empfang nach einem neuen Hotelzimmer zu fragen.",
    "questionShort": "Zimmerwechselgrund",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4613,7 +4612,7 @@
    "question": "Welcher dieser erfundenen Horrorfilme klingt am gruseligsten?",
    "questionShort": "gruselige Horrorfilme",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4635,7 +4634,7 @@
    "question": "Ab Mitternacht hast du bis zum Morgen mit einer dieser Sachen zu kämpfen. Für welche entscheidest du dich?",
    "questionShort": "Mitternachtszustände",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4657,18 +4656,18 @@
    "question": "Eine Hexe hat dich so verzaubert, dass du nur noch eine Geschmacksrichtung ausmachen kannst. Welche ist am erträglichsten?",
    "questionShort": "erträgliche Geschmacksrichtungen",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "category": "hypothetical",
    "choices": [
-    "Tokyo 2075",
+    "Tokio 2075",
     "London 1881",
     "Paris 1964",
-    "Cairo 1400 v.Chr.",
+    "Cairo 1400 v. Chr.",
     "New York  1923",
-    "Athens 300 v.Chr.",
+    "Athen 300 v. Chr.",
     "Weltall 3022",
     "Rom 150"
    ],
@@ -4679,7 +4678,7 @@
    "question": "Such dir einen Ort und Zeit aus, um ihn für eine Woche zu besuchen.",
    "questionShort": "einwöchiger Urlaub",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
