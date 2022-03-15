@@ -5796,73 +5796,73 @@
   {
    "answers": [
     {
-     "text": "Wet Seal"
+     "text": "Cordelia"
     },
     {
-     "text": "Limited Too"
+     "text": "Ophelia"
     },
     {
-     "text": "Delia's"
+     "text": "Bianca"
     },
     {
-     "text": "Hot Topic"
+     "text": "Juliet"
     },
     {
-     "text": "Claire's"
+     "text": "Ariel"
     },
     {
-     "text": "Spencer's"
+     "text": "Margaret"
     },
     {
-     "text": "Aéropostale"
+     "text": "Titania"
     },
     {
-     "text": "Hollister"
+     "text": "Miranda"
     },
     {
-     "text": "Build-A-Bear Workshop"
+     "text": "Rosalind"
     },
     {
-     "text": "Journey’s"
-    },
-    {
-     "text": "Charlotte Russe"
-    },
-    {
-     "text": "Buckle"
+     "text": "Belinda"
     }
    ],
-   "category": "Companies & Brands",
+   "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "Abernathy & Funk"
+     "text": "Sophie"
     },
     {
-     "text": "Make-A-Mole Factory"
+     "text": "Freya"
     },
     {
-     "text": "High End Socks"
+     "text": "Ava"
     },
     {
-     "text": "Slacks! Slacks! Slacks!"
+     "text": "Olivia"
     },
     {
-     "text": "Quantum Phys-kicks"
+     "text": "Alise"
     },
     {
-     "text": "Just Top Hats"
+     "text": "Ardena"
     },
     {
      "text": "Sparkle"
     },
     {
-     "text": "Sassy!"
+     "text": "Doriana"
+    },
+    {
+     "text": "Sophine"
+    },
+    {
+     "text": "Mildred"
     }
    ],
    "id": "78057",
    "isValid": "",
-   "prompt": "Which of these were actual “mall stores” of the 2000s?",
-   "us": true,
+   "prompt": "Welches sind echte Monde des Uranus?",
+   "us": false,
    "x": false
   },
   {
@@ -6711,58 +6711,55 @@
   {
    "answers": [
     {
-     "text": "flapper"
+     "text": "Kurt Schumacher"
     },
     {
-     "text": "handle"
+     "text": "Hans-Jochen Vogel"
     },
     {
-     "text": "fill valve"
+     "text": "Frank-Walter Steinmeier"
     },
     {
-     "text": "fill tube"
+     "text": "Oskar Lafontaine"
     },
     {
-     "text": "float"
+     "text": "Martin Schulz"
     },
     {
-     "text": "flush valve"
+     "text": "Johannes Rau"
     },
     {
-     "text": "overflow tube"
+     "text": "Erich Ollenhauer"
     },
     {
-     "text": "floor flange"
-    },
-    {
-     "text": "wax ring"
+     "text": "Rudolf Scharping"
     }
    ],
-   "category": "Technology",
+   "category": "Celebrities",
    "decoys": [
     {
-     "text": "dongle"
+     "text": "Guido Westerwelle"
     },
     {
-     "text": "sink arm"
+     "text": "Wolfram Koch"
     },
     {
-     "text": "dipper"
+     "text": "Lothar Bisky"
     },
     {
-     "text": "flush capper"
+     "text": "Rainer Barzel"
     },
     {
-     "text": "smeller cap"
+     "text": "Edmund Stoiber"
     },
     {
-     "text": "hork tube"
+     "text": "Harald Krassnitzer"
     }
    ],
    "id": "78304",
    "isValid": "",
-   "prompt": "Which of these super cool items are parts of a toilet?",
-   "us": true,
+   "prompt": "Welche dieser Personen waren ERFOLGLOSE Kanzlerkandidaten der SPD?",
+   "us": false,
    "x": false
   },
   {
@@ -7053,49 +7050,64 @@
   {
    "answers": [
     {
-     "text": "“Bye Bye Bye”"
+     "text": "“In der Weihnachtsbäckerei”"
     },
     {
-     "text": "“It’s Gonna Be Me”"
+     "text": "“Jetzt kommt die Osterzeit”"
     },
     {
-     "text": "“Tearin’ Up My Heart”"
+     "text": "“Die Traumautomaten”"
     },
     {
-     "text": "“I Want You Back”"
+     "text": "“So wichtig bist du auch wieder nicht”"
     },
     {
-     "text": "“Pop”"
+     "text": "“Bis ans Ende der Welt”"
     },
     {
-     "text": "”Digital Get Down”"
+     "text": "”Stups der kleine Osterhase”"
     },
     {
-     "text": "“Just Got Paid”"
+     "text": "“Menschenskinder”"
     },
     {
-     "text": "“Space Cowboy”"
+     "text": "“Du bist nicht alles – Aber alles ist nichts ohne dich”"
+    },
+    {
+     "text": "“Deutschland, deine Kinder”"
     }
    ],
    "category": "Music",
    "decoys": [
     {
-     "text": "“I Want It That Way”"
+     "text": "“Karl der Käfer”"
     },
     {
-     "text": "“Everybody”"
+     "text": "“Kinder wollen leben, spielen, lachen”"
     },
     {
-     "text": "“As Long As You Love Me”"
+     "text": "“Häschen in der Grube”"
     },
     {
-     "text": "“Larger Than Life”"
+     "text": "“Zeit für Abenteuer”"
+    },
+    {
+     "text": "“Holt die Lichter aus dem Haus”"
+    },
+    {
+     "text": "“Ich hab dich superduper schwubbidubbi lieb”"
+    },
+    {
+     "text": "“Wir werden immer größer”"
+    },
+    {
+     "text": "“Hörst du die Regenwürmer husten?”"
     }
    ],
    "id": "78412",
    "isValid": "",
-   "prompt": "Which songs are by NSYNC? NOT Backstreet Boys!",
-   "us": true,
+   "prompt": "Welche dieser Lieder sind von euer aller Lieblingskünstler Rolf Zuckowski?",
+   "us": false,
    "x": false
   },
   {
@@ -9222,109 +9234,130 @@
   {
    "answers": [
     {
-     "text": "smog"
+     "text": "Alliteration"
     },
     {
-     "text": "brunch"
+     "text": "Asyndeton"
     },
     {
-     "text": "mockumentary"
+     "text": "Ellipse"
     },
     {
-     "text": "spork"
+     "text": "Litotes"
     },
     {
-     "text": "prequel"
+     "text": "Zeugma"
     },
     {
-     "text": "cosplay"
+     "text": "Personifikation"
     },
     {
-     "text": "sitcom"
+     "text": "Chiasmus"
     },
     {
-     "text": "Brexit"
+     "text": "Correctio"
     },
     {
-     "text": "webinar"
+     "text": "Klimax"
     },
     {
-     "text": "motel"
+     "text": "Adynaton"
     },
     {
-     "text": "Labradoodle"
+     "text": "Gleichnis"
+    },
+    {
+     "text": "Montage"
     }
    ],
    "category": "Language/Words/Grammar",
    "decoys": [
     {
-     "text": "dank"
+     "text": "Konvertase"
     },
     {
-     "text": "shampoo"
+     "text": "Ribosom"
     },
     {
-     "text": "hamster"
+     "text": "Esperadismus"
     },
     {
-     "text": "jaunt"
+     "text": "Propagation"
     },
     {
-     "text": "brouhaha"
+     "text": "Endosymbiose"
+    },
+    {
+     "text": "Xylophon"
+    },
+    {
+     "text": "Hjärnaton"
     }
    ],
    "id": "79184",
    "isValid": "",
-   "prompt": "Which words are common portmanteaus (i.e. words that blend two or more words)?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um echte [i]rhetorische Stilmittel[/i]?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Francis Ford Coppola"
+     "text": "Hans-Christoph Seebohm"
     },
     {
-     "text": "Talia Shire"
+     "text": "Lauritz Lauritzen"
     },
     {
-     "text": "Gia Coppola"
+     "text": "Georg Leber"
     },
     {
-     "text": "Nicolas Cage"
+     "text": "Werner Dollinger"
     },
     {
-     "text": "Jason Schwartzman"
+     "text": "Günther Krause"
     },
     {
-     "text": "Sofia Coppola"
+     "text": "Franz Müntefering"
     },
     {
-     "text": "Carmine Coppola"
+     "text": "Wolfgang Tiefensee"
+    },
+    {
+     "text": "Andreas Scheuer"
+    },
+    {
+     "text": "Alexander Dobrindt"
     }
    ],
    "category": "Celebrities",
    "decoys": [
     {
-     "text": "Maria Shriver"
+     "text": "Franz-Josef Wuermeling"
     },
     {
-     "text": "Sofia Loren"
+     "text": "Klaus Kinkel"
     },
     {
-     "text": "Monica Belluci"
+     "text": "Waldemar Kraft"
     },
     {
-     "text": "Al Pacino"
+     "text": "Ursula Lehr"
     },
     {
-     "text": "Abe Vigoda"
+     "text": "Walter Ulbricht"
+    },
+    {
+     "text": "Gerhard Stoltenberg"
+    },
+    {
+     "text": "Elisabeth Schwarzhaupt"
     }
    ],
    "id": "79197",
    "isValid": "",
-   "prompt": "Which celebrities are members of the Coppola family tree?",
-   "us": true,
+   "prompt": "Welche dieser Personen sind oder waren deutsche Verkehrsminister?",
+   "us": false,
    "x": false
   },
   {
@@ -11724,58 +11757,73 @@
   {
    "answers": [
     {
-     "text": "Same-Day Canvas Prints"
+     "text": "Seat"
     },
     {
-     "text": "Wall Tiles"
+     "text": "Audi"
     },
     {
-     "text": "5x5 Same-Day Photo Magnet"
+     "text": "Skoda"
     },
     {
-     "text": "4x6 Collage Print"
+     "text": "Cupra"
     },
     {
-     "text": "Height Charts"
+     "text": "Bentley"
     },
     {
-     "text": "Same-Day Collage Mounted Photos"
+     "text": "Lamborghini"
     },
     {
-     "text": "Contemporary Framed Prints"
+     "text": "MAN"
     },
     {
-     "text": "Matte Posters"
+     "text": "Navistar"
     },
     {
-     "text": "8x10 Collage Bamboo Panel"
+     "text": "Ducati"
     },
     {
-     "text": "Wallet Prints"
+     "text": "Scania"
     }
    ],
    "category": "Companies & Brands",
    "decoys": [
     {
-     "text": "Same-Day Engraving"
+     "text": "Aston Martin"
     },
     {
-     "text": "8x10 Metal Pressing"
+     "text": "Fiat"
     },
     {
-     "text": "Two-Day 3D Printing"
+     "text": "Mini"
     },
     {
-     "text": "Wallet Canvas"
+     "text": "Smart"
     },
     {
-     "text": "Three-Day Matte Keychain"
+     "text": "Lada"
+    },
+    {
+     "text": "Land Rover"
+    },
+    {
+     "text": "Rolls-Royce"
+    },
+    {
+     "text": "Toyota"
+    },
+    {
+     "text": "Mazda"
+    },
+    {
+     "text": "Kawasaki"
     }
    ],
    "id": "79927",
    "isValid": "",
-   "prompt": "As of 2021, which photo print options are available at CVS?",
-   "us": true,
+   "prompt": "Welche dieser Fahrzeugmarken sind Teil der [i]Volkswagen AG[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -12558,50 +12606,56 @@
   {
    "answers": [
     {
-     "text": "on the counter"
+     "text": "“Call My Name”"
     },
     {
-     "text": "in the shower"
+     "text": "“Dream Team”"
     },
     {
-     "text": "on the sofa"
+     "text": "“We Have a Dream”"
     },
     {
-     "text": "on camera"
+     "text": "“Phänomenal”"
     },
     {
-     "text": "on the bathroom floor"
+     "text": "“Bella Donna”"
     },
     {
-     "text": "red-handed"
+     "text": "“Cinderella”"
+    },
+    {
+     "text": "“Lüg mich an”"
+    },
+    {
+     "text": "“Warum”"
     }
    ],
    "category": "Music",
    "decoys": [
     {
-     "text": "with a tuba"
+     "text": "“Copacabana”"
     },
     {
-     "text": "on the credenza"
+     "text": "“Portofino”"
     },
     {
-     "text": "with her best friend"
+     "text": "“Liebe ohne Grenzen”"
     },
     {
-     "text": "with embezzled stocks"
+     "text": "“Love Me More”"
     },
     {
-     "text": "on the kitchen floor"
+     "text": "“Pastel de Amor”"
     },
     {
-     "text": "in the sauna"
+     "text": "“Mädchen aus dem Block”"
     }
    ],
    "id": "81320",
    "isValid": "",
-   "prompt": "Which of these are ways one can get caught in the song “It Wasn't Me”?",
-   "us": true,
-   "x": true
+   "prompt": "Welches sind Lieder vom absoluten Ausnahmekünstler Pietro Lombardi?",
+   "us": false,
+   "x": false
   },
   {
    "answers": [
@@ -13119,7 +13173,7 @@
      "text": "“My Beloved Monster” - Eels"
     },
     {
-     "text": "“Hallelujah” (Leonard Cohen cover) - Rufus Wainwright"
+     "text": "“Hallelujah” (Cover) - Rufus Wainwright"
     },
     {
      "text": "“You Belong To Me“ - Jason Wade"
@@ -13128,13 +13182,13 @@
      "text": "“The Best Years of Our Lives“ - Baha Men"
     },
     {
-     "text": "“I'm A Believer“ (cover) - Smashmouth"
+     "text": "“I'm A Believer“ (Cover) - Smashmouth"
     }
    ],
    "category": "Music",
    "decoys": [
     {
-     "text": "“Hallelujah” (Leonard Cohen cover) - Jeff Buckley"
+     "text": "“Hallelujah” (Cover) - Jeff Buckley"
     },
     {
      "text": "“Accidentally in Love” - Counting Crows"
@@ -13148,8 +13202,8 @@
    ],
    "id": "82209",
    "isValid": "",
-   "prompt": "Which songs are on the soundtrack album of the 2001 animated masterpiece [i]Shrek[/i]?",
-   "us": true,
+   "prompt": "Welche dieser Lieder sind auf dem Soundtrack-Album von “[i]Shrek - Der tollkühne Held[/i]”?",
+   "us": false,
    "x": false
   },
   {
@@ -14580,49 +14634,64 @@
   {
    "answers": [
     {
-     "text": "King"
+     "text": "Mysterio"
     },
     {
-     "text": "California King"
+     "text": "Grüner Kobold"
     },
     {
-     "text": "Queen"
+     "text": "Vulture"
     },
     {
-     "text": "Full"
+     "text": "Doctor Octopus"
     },
     {
-     "text": "Twin"
+     "text": "Electro"
     },
     {
-     "text": "Twin XL"
+     "text": "Rhino"
     },
     {
-     "text": "Olympic Queen"
+     "text": "Venom"
+    },
+    {
+     "text": "Black Tarantula"
+    },
+    {
+     "text": "Tombstone"
+    },
+    {
+     "text": "Kingpin"
     }
    ],
-   "category": "Factoids",
+   "category": "Comics",
    "decoys": [
     {
-     "text": "California Queen"
+     "text": "Professor Zoom"
     },
     {
      "text": "Manhattan King"
     },
     {
-     "text": "Super Full"
+     "text": "Phantomias"
     },
     {
-     "text": "Junior"
+     "text": "Megalon"
     },
     {
-     "text": "Bunk"
+     "text": "Skunk"
+    },
+    {
+     "text": "Red Tornado"
+    },
+    {
+     "text": "Fantomah"
     }
    ],
    "id": "83035",
    "isValid": "",
-   "prompt": "Which of these are common mattress sizes in the U.S.?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um Gegner von [i]Spider-Man[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -15165,55 +15234,61 @@
   {
    "answers": [
     {
-     "text": "environment"
+     "text": "1860"
     },
     {
-     "text": "nickelodeon"
+     "text": "1868"
     },
     {
-     "text": "copperhead"
+     "text": "1752"
     },
     {
-     "text": "marigold"
+     "text": "2144"
     },
     {
-     "text": "pleading"
+     "text": "2000"
     },
     {
-     "text": "ringleader"
+     "text": "2360"
     },
     {
-     "text": "stinks"
+     "text": "1936"
     },
     {
-     "text": "unironic"
+     "text": "4864"
+    },
+    {
+     "text": "1832"
     }
    ],
-   "category": "Language/Words/Grammar",
+   "category": "Calendar/Holidays",
    "decoys": [
     {
-     "text": "bugs"
+     "text": "1786"
     },
     {
-     "text": "shiner"
+     "text": "1902"
     },
     {
-     "text": "telemetry"
+     "text": "2007"
     },
     {
-     "text": "oxymoron"
+     "text": "1694"
     },
     {
-     "text": "toucan"
+     "text": "1574"
     },
     {
-     "text": "pizza"
+     "text": "2150"
+    },
+    {
+     "text": "2069"
     }
    ],
    "id": "83930",
    "isValid": "",
-   "prompt": "Which words contain an elemental metal inside them?",
-   "us": true,
+   "prompt": "Welche dieser Jahre waren oder werden Schaltjahre?",
+   "us": false,
    "x": false
   },
   {
@@ -16789,6 +16864,12 @@
     },
     {
      "text": "Triple H"
+    },
+    {
+     "text": "Rey Mysterio"
+    },
+    {
+     "text": "Shelton Benjamin"
     }
    ],
    "category": "Sports",
@@ -16804,12 +16885,18 @@
     },
     {
      "text": "“Not Polite” Mark McMeanerson"
+    },
+    {
+     "text": "Bombing Billy"
+    },
+    {
+     "text": "Sheldon Cooper"
     }
    ],
    "id": "85641",
    "isValid": "",
-   "prompt": "Which of these are (or were) real WWE wrestlers?",
-   "us": true,
+   "prompt": "Welches sind oder waren echte [i]WWE[/i]-Wrestler?",
+   "us": false,
    "x": false
   },
   {
