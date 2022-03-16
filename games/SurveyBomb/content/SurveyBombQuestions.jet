@@ -4711,7 +4711,6 @@
    "choices": [
     "schlechter Verlierer",
     "Nervensäge",
-    "Doppel Dipper",
     "Absolutes Chaos",
     "Schlechter Poet",
     "Drängler",
@@ -4729,7 +4728,7 @@
    "question": "Du bist gestorben. (RIP) Was ist die Inschrift auf deinem Grabstein?",
    "questionShort": "Grabsteininschrift",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -4751,7 +4750,7 @@
    "question": "Es ist Sonntag! Was hast du so vor?",
    "questionShort": "fauler Sonntag",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4775,7 +4774,7 @@
    "question": "Ah ja, ein kühler Drink! Was ist auf deinem Untersetzer drauf?",
    "questionShort": "Bierdeckel, Schmierdeckel",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -4788,7 +4787,7 @@
     "Pizzacracker",
     "Salzstangen",
     "Erdnussflips",
-    "Nic Noc Knockoffs"
+    "Nic Nac Knockoffs"
    ],
    "id": "79227",
    "intro": null,
@@ -4797,7 +4796,7 @@
    "question": "Es ist Partyzeit und es gibt eine Snackbox! Wonach greifst du?",
    "questionShort": "Mix It Up",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4819,7 +4818,7 @@
    "question": "Was hat seinen Platz am Kühlschrank am meisten verdient?",
    "questionShort": "Kühlschrank-würdig",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4838,10 +4837,10 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Aliens fragen dich sie zu deinem Anführer zu führen. Wohin bringst du sie?",
+   "question": "Aliens wollen, dass du sie zu deinem Anführer bringst. Wohin bringst du sie?",
    "questionShort": "Zum Anführer!",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4850,13 +4849,10 @@
     "zwei gebrochene Beine",
     "wird schnell nervös",
     "Chonker",
-    "hat Kurzschlüsse",
     "sabbert viel",
     "schläft ständig ein",
-    "Jockey hasst es",
     "ist eigentlich ein Esel",
     "ist ein Zwergpony",
-    "ist einfach ein Typ",
     "frisst nur Suppe",
     "kann sprechen"
    ],
@@ -4867,7 +4863,7 @@
    "question": "Auf welches Pferd wirst du bei einem Rennen definitv nicht wetten?",
    "questionShort": "schlechteste Rennpferde",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4893,7 +4889,7 @@
    "question": "Du bist in einer Comedy Sitcom. Was ist deine Catchphrase?",
    "questionShort": "Deine Sitcom Catchphrase",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4912,7 +4908,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Welche Folklore Figuren gibt es wahrscheinlich wirklich?",
+   "question": "Welche traditionellen Figuren gibt es wahrscheinlich wirklich?",
    "questionShort": "Wahre Geschichten",
    "round": "first",
    "us": true,
@@ -4922,17 +4918,15 @@
    "category": "worst",
    "choices": [
     "Lakritze",
-    "Hard Seltzer",
     "rohe Chicken Wings",
     "Brezeln ohne Salz",
     "Wraps ohne irgendwas",
     "grüne Bohnen",
     "Thunfisch",
-    "ein Topf Borscht",
+    "ein Topf Rotkohlsuppe",
     "Grapefruit Saft",
     "Vegane Mayo",
-    "süßer Mais",
-    "Reiskuchen"
+    "Mais"
    ],
    "id": "79235",
    "intro": null,
@@ -4941,7 +4935,7 @@
    "question": "Jeder soll ein paar Snacks zur Party mitbringen. Was wäre die schlechteste Wahl?",
    "questionShort": "Schlechte Party Snacks",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4976,9 +4970,7 @@
    "choices": [
     "Fangen",
     "Verstecken",
-    "Hüpfeseil",
-    "Marco Polo",
-    "Zweifelderall",
+    "Seilchenspringen",
     "Bockspringen",
     "Ich sehe was, was du nicht siehst",
     "Rotes Licht/grünes Licht",
@@ -4989,10 +4981,10 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Welches Schulhof-Spiel wwürdest du am liebsten in dein tägliches Arbeitsleben integrieren?",
+   "question": "Welches Schulhof-Spiel würdest du am liebsten in dein tägliches Arbeitsleben integrieren?",
    "questionShort": "Schulhof Spiele",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5014,7 +5006,7 @@
    "question": "Zeit die Nachbarschaft zu ruinieren indem du deinen Vorgarten dekorierst! Welche Deko wird es!?",
    "questionShort": "schlimmste Dekoration",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5037,7 +5029,7 @@
    "question": "Was gehört zu einem so richtig gruseligen verfluchten Haus?",
    "questionShort": "gruseligste Horrorvilla",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5059,7 +5051,7 @@
    "question": "Welches Geschenk sagt am besten \"Ich mag dich... als Kumpel\"?",
    "questionShort": "Beste \"Kumpel\" Geschenke",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
