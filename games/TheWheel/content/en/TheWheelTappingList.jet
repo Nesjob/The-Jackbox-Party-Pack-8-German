@@ -4434,49 +4434,49 @@
   {
    "answers": [
     {
-     "text": "[i]The 400 Blows[/i]"
+     "text": "[i]Sie küßten und sie schlugen ihn[/i]"
     },
     {
-     "text": "[i]Cleo From 5 to 7[/i]"
+     "text": "[i]Cleo – Mittwoch zwischen 5 und 7[/i]"
     },
     {
-     "text": "[i]Breathless[/i]"
+     "text": "[i]Außer Atem[/i]"
     },
     {
-     "text": "[i]Hiroshima Mon Amour[/i]"
+     "text": "[i]Hiroshima, mon amour[/i]"
     },
     {
-     "text": "[i]Last Year at Marienbad[/i]"
+     "text": "[i]Letztes Jahr in Marienbad[/i]"
     },
     {
-     "text": "[i]Lola[/i]"
+     "text": "[i]Lola, das Mädchen aus dem Hafen[/i]"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "[i]Shrek 2[/i]"
+     "text": "[i]Shrek 2 – Der tollkühne Held kehrt zurück[/i]"
     },
     {
-     "text": "[i]The Graduate[/i]"
+     "text": "[i]Die Reifeprüfung[/i]"
     },
     {
-     "text": "[i]Valley of the Dolls[/i]"
+     "text": "[i]Das Tal der Puppen[/i]"
     },
     {
-     "text": "[i]Faces[/i]"
+     "text": "[i]Gesichter[/i]"
     },
     {
-     "text": "[i]The Room[/i]"
+     "text": "[i]Honig im Kopf[/i]"
     },
     {
-     "text": "[i]Soul Plane[/i]"
+     "text": "[i]Sonnenallee[/i]"
     }
    ],
    "id": "77689",
    "isValid": "",
-   "prompt": "Which films are from the French New Wave?",
-   "us": true,
+   "prompt": "Welche dieser Filme stammen aus der [i]Nouvelle Vague[/i], einer Stilrichtung des französischen Kinos?",
+   "us": false,
    "x": false
   },
   {
@@ -5106,49 +5106,58 @@
   {
    "answers": [
     {
-     "text": "Barb-a-loots"
+     "text": "[i]Wenn das Morgengrauen kommt[/i]"
     },
     {
-     "text": "Star-Bellied Sneetches"
+     "text": "[i]Wächter des Schreckens[/i]"
     },
     {
-     "text": "North-Going Zax"
+     "text": "[i]Meister der Mutanten[/i]"
     },
     {
-     "text": "Once-ler's Family"
+     "text": "[i]Die Geisterhöhle[/i]"
     },
     {
-     "text": "Whos"
+     "text": "[i]Das unheimliche Labor[/i]"
     },
     {
-     "text": "Swomee Swans"
+     "text": "[i]Der Schreckensfisch[/i]"
     },
     {
-     "text": "Hakken-Kraks"
+     "text": "[i]Der Schneemann geht um[/i]"
     },
     {
-     "text": "Green-bearded Schlottz"
+     "text": "[i]Fürchte dich sehr![/i]"
     }
    ],
    "category": "Literature",
    "decoys": [
     {
-     "text": "East-Going Zax"
+     "text": "[i]Alien-Panik[/i]"
     },
     {
-     "text": "Oompa Loompas"
+     "text": "[i]Kampf im Vollmondschein[/i]"
     },
     {
-     "text": "Gruffalo"
+     "text": "[i]Pass auf vor Bigfoot![/i]"
     },
     {
-     "text": "Great Whangdoodles"
+     "text": "[i]Der Schlaf der Medusa[/i]"
+    },
+    {
+     "text": "[i]Der Fluch liegt im Schatten[/i]"
+    },
+    {
+     "text": "[i]Der wilde Jäger[/i]"
+    },
+    {
+     "text": "[i]Küsse zum Morgengrauen[/i]"
     }
    ],
    "id": "77945",
    "isValid": "",
-   "prompt": "Which of these are creatures from the mind of Dr. Seuss?",
-   "us": true,
+   "prompt": "Welche dieser Titel gehören zu echten Büchern aus der [i]Gänsehaut[/i]-Reihe?",
+   "us": false,
    "x": false
   },
   {
@@ -5969,7 +5978,7 @@
    ],
    "id": "78064",
    "isValid": "",
-   "prompt": "Welche dieser Bands waren Teil der [i]neuen Deutschen Welle[/i]?",
+   "prompt": "Welche dieser Bands waren Teil der [i]Neuen Deutschen Welle[/i]?",
    "us": false,
    "x": false
   },
@@ -7728,49 +7737,55 @@
   {
    "answers": [
     {
-     "text": "George Clooney"
+     "text": "Zitrone"
     },
     {
-     "text": "Brad Pitt"
+     "text": "Totes Insekt"
     },
     {
-     "text": "Matt Damon"
+     "text": "Tulpe"
     },
     {
-     "text": "Don Cheadle"
+     "text": "Uhr"
     },
     {
-     "text": "Casey Affleck"
+     "text": "Spiegel"
     },
     {
-     "text": "Scott Caan"
+     "text": "Würfel"
     },
     {
-     "text": "Elliott Gould"
+     "text": "Wein"
     },
     {
-     "text": "Bernie Mac"
+     "text": "Seifenblase"
     },
     {
-     "text": "Eddie Jemison"
-    },
-    {
-     "text": "Carl Reiner"
-    },
-    {
-     "text": "Qin Shaobo"
+     "text": "Fisch"
     }
    ],
-   "category": "Film & TV",
+   "category": "Art",
    "decoys": [
     {
-     "text": "Stanley Tucci"
+     "text": "Smartphone"
+    },
+    {
+     "text": "Fluggerät"
+    },
+    {
+     "text": "Erbrochenes"
+    },
+    {
+     "text": "Regen"
+    },
+    {
+     "text": "Hase"
     }
    ],
    "id": "78605",
    "isValid": "",
-   "prompt": "Which actors appeared in the 2001 [i]Ocean's Eleven[/i] remake?",
-   "us": true,
+   "prompt": "Bei welchen dieser Gegenstände handelt es sich um klassische [i]Vanitas[/i]-Bildsymbole?",
+   "us": false,
    "x": false
   },
   {
@@ -9633,37 +9648,37 @@
   {
    "answers": [
     {
-     "text": "[i]Closer[/i]"
+     "text": "[i]Hautnah[/i]"
     },
     {
-     "text": "[i]Doubt[/i]"
+     "text": "[i]Glaubensfrage[/i]"
     },
     {
-     "text": "[i]Six Degrees of Separation[/i]"
+     "text": "[i]Das Leben – Ein Sechserpack[/i]"
     },
     {
-     "text": "[i]A Streetcar Named Desire[/i]"
+     "text": "[i]Endstation Sehnsucht[/i]"
     },
     {
      "text": "[i]Amadeus[/i]"
     },
     {
-     "text": "[i]Who's Afraid of Virginia Woolf[/i]"
+     "text": "[i]Der Besuch der alten Dame[/i]"
     },
     {
-     "text": "[i]The Odd Couple[/i]"
+     "text": "[i]Der Killer und die Nervensäge[/i]"
     },
     {
-     "text": "[i]Glengarry Glen Ross[/i]"
+     "text": "[i]In der Stunde des Luchses[/i]"
     },
     {
      "text": "[i]Fences[/i]"
     },
     {
-     "text": "[i]The Crucible[/i]"
+     "text": "[i]Hexenjagd[/i]"
     },
     {
-     "text": "[i]Twelve Angry Men[/i]"
+     "text": "[i]Die zwölf Geschworenen[/i]"
     },
     {
      "text": "[i]Ma Rainey’s Black Bottom[/i]"
@@ -9675,22 +9690,22 @@
      "text": "[i]There Will Be Blood[/i]"
     },
     {
-     "text": "[i]The Royal Tenenbaums[/i]"
+     "text": "[i]Honig im Kopf[/i]"
     },
     {
-     "text": "[i]Armaggedon[/i]"
+     "text": "[i]Armageddon – Das jüngste Gericht[/i]"
     },
     {
-     "text": "[i]Some Like It Hot[/i]"
+     "text": "[i]Manche mögen’s heiß[/i]"
     },
     {
-     "text": "[i]Mrs. Doubtfire[/i]"
+     "text": "[i]Mrs. Doubtfire – Das stachelige Kindermädchen[/i]"
     }
    ],
    "id": "79409",
    "isValid": "",
-   "prompt": "Which feature films were originally stage plays?",
-   "us": true,
+   "prompt": "Welche dieser Spielfilme waren ursprünglich Theaterstücke?",
+   "us": false,
    "x": false
   },
   {
@@ -18021,61 +18036,73 @@
   {
    "answers": [
     {
-     "text": "Vice President"
+     "text": "Stellvertreter*in des Bundeskanzlers"
     },
     {
-     "text": "Chief of Staff"
+     "text": "Bundesminister*in der Finanzen"
     },
     {
-     "text": "Secretary of Defense"
+     "text": "Bundesminister*in des Innern"
     },
     {
-     "text": "Secretary of Education"
+     "text": "Bundesminister*in des Auswärtigen"
     },
     {
-     "text": "Secretary of Transportation"
+     "text": "Bundesminister*in für Arbeit und Soziales"
     },
     {
-     "text": "Secretary of Housing and Urban Development"
+     "text": "Bundesminister*in der Verteidigung"
     },
     {
-     "text": "Secretary of Interior"
+     "text": "Bundesminister*in für Familie, Senioren, Frauen und Jugend"
     },
     {
-     "text": "Attorney General"
+     "text": "Bundesminister*in für Digitales und Verkehr"
     },
     {
-     "text": "Secretary of the Treasury"
+     "text": "Bundesminister*in für Bildung und Forschung"
     },
     {
-     "text": "Secretary of State"
+     "text": "Bundesminister*in für wirtschaftliche Zusammenarbeit und Entwicklung"
     },
     {
-     "text": "Chair of the Council of Economic Advisers"
+     "text": "Chef*in des Bundeskanzleramts"
     },
     {
-     "text": "U.S. Ambassador to the United Nations"
+     "text": "Bundesminister*in für besondere Aufgaben"
     }
    ],
    "category": "Occupations",
    "decoys": [
     {
-     "text": "Chairman of the Joints Chiefs of Staff"
+     "text": "Bundesminister*in für Kultur und Kunst"
     },
     {
-     "text": "Chair of the Senate Budget Committee"
+     "text": "Bundesminister*in für Haushaltsfragen"
     },
     {
-     "text": "White House Press Secretary"
+     "text": "Chef*in der Öffentlichkeitsarbeit des Bundeskanzleramts"
     },
     {
-     "text": "Secretary of National Nutrition"
+     "text": "Vertretung des Gewerkschaftsverbandes"
+    },
+    {
+     "text": "Bundespräsident*in"
+    },
+    {
+     "text": "Bundesminister*in für Migration, Flüchtlinge und Integration"
+    },
+    {
+     "text": "Beauftragter der Bundesregierung für Ostdeutschland"
+    },
+    {
+     "text": "Bundesminister*in für die Aktenvernichtung"
     }
    ],
    "id": "86010",
    "isValid": "",
-   "prompt": "Which of these roles are part of the presidential cabinet of the United States?",
-   "us": true,
+   "prompt": "Welche dieser politischen Ämter sind Teil des deutschen [i]Bundeskabinetts[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -18231,7 +18258,7 @@
      "text": "Muhammad Ali"
     },
     {
-     "text": "Evander Holyfield"
+     "text": "Wladimir Klitschko"
     },
     {
      "text": "George Foreman"
@@ -18241,6 +18268,9 @@
     },
     {
      "text": "Lennox Lewis"
+    },
+    {
+     "text": "Max Schmeling"
     }
    ],
    "category": "Sports",
@@ -18256,12 +18286,15 @@
     },
     {
      "text": "Tyson Beckford"
+    },
+    {
+     "text": "Florian “Doom Fist” Broder"
     }
    ],
    "id": "86023",
    "isValid": "",
-   "prompt": "Which of the following people once reigned as the undisputed world heavyweight boxing champion?",
-   "us": true,
+   "prompt": "Welche dieser Personen waren einst unangefochtene Weltmeister im Schwergewichtsboxen?",
+   "us": false,
    "x": false
   },
   {
@@ -18477,55 +18510,70 @@
   {
    "answers": [
     {
-     "text": "[i]Can't Buy A Thrill[/i]"
+     "text": "Bellgrave"
     },
     {
-     "text": "[i]Countdown To Ecstasy[/i]"
+     "text": "Die Allergie"
     },
     {
-     "text": "[i]Pretzel Logic[/i]"
+     "text": "Dementi"
     },
     {
-     "text": "[i]Katy Lied[/i]"
+     "text": "Rinderwahnsinn"
     },
     {
-     "text": "[i]The Royal Scam[/i]"
+     "text": "Oomph!"
     },
     {
-     "text": "[i]Aja[/i]"
+     "text": "Metallspürhunde"
     },
     {
-     "text": "[i]Gaucho[/i]"
+     "text": "Janus"
     },
     {
-     "text": "[i]Two Against Nature[/i]"
+     "text": "De Randgruppe"
     },
     {
-     "text": "[i]Everything Must Go[/i]"
+     "text": "Treibhaus"
+    },
+    {
+     "text": "Nervenbeisser"
+    },
+    {
+     "text": "Eisbrecher"
+    },
+    {
+     "text": "Rammstein"
     }
    ],
    "category": "Music",
    "decoys": [
     {
-     "text": "[i]A Very Steely Dan Christmas[/i]"
+     "text": "Steinschlag"
     },
     {
-     "text": "[i]Help! We're Steely Dan[/i]"
+     "text": "Brandt"
     },
     {
-     "text": "[i]Steely Dan IV[/i]"
+     "text": "Hurrikan"
     },
     {
-     "text": "[i]Steely Dan's Rumours[/i]"
+     "text": "Flegel!"
     },
     {
-     "text": "[i]Dan Steely And The No-Good Twins[/i]"
+     "text": "Parasite"
+    },
+    {
+     "text": "Ausgebrannt"
+    },
+    {
+     "text": "Frittierfett"
     }
    ],
    "id": "86129",
    "isValid": "",
-   "prompt": "Which of the following are Steely Dan albums?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um echte Bands der [i]Neuen Deutschen Härte[/i]?",
+   "us": false,
    "x": false
   },
   {
