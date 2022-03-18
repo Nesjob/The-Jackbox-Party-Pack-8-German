@@ -3582,55 +3582,70 @@
   {
    "answers": [
     {
-     "text": "ghouls"
+     "text": "Doom Metal"
     },
     {
-     "text": "vampires"
+     "text": "Thrash Metal"
     },
     {
-     "text": "Dracula"
+     "text": "Kawaii Metal"
     },
     {
-     "text": "Dracula's Son"
+     "text": "Mathcore"
     },
     {
-     "text": "Wolfman"
+     "text": "Rap Metal"
     },
     {
-     "text": "zombies"
+     "text": "Viking Metal"
     },
     {
-     "text": "Igor"
+     "text": "Heavy Metal"
     },
     {
-     "text": "baying hounds"
+     "text": "Christlicher Metal"
     },
     {
-     "text": "coffin-bangers"
+     "text": "Goregrind"
+    },
+    {
+     "text": "Symphonic Metal"
     }
    ],
    "category": "Music",
    "decoys": [
     {
-     "text": "mummies"
+     "text": "Trash Metal"
     },
     {
-     "text": "aliens"
+     "text": "Demon Metal"
     },
     {
-     "text": "Swamp Thing"
+     "text": "Zombie Metal"
     },
     {
-     "text": "skeletons"
+     "text": "Blacked Djent"
     },
     {
-     "text": "spooky birds"
+     "text": "Bowelgrind"
+    },
+    {
+     "text": "Power Core"
+    },
+    {
+     "text": "Progressive Nu Metal"
+    },
+    {
+     "text": "Christian Worship Metal"
+    },
+    {
+     "text": "Bondage Metal"
     }
    ],
    "id": "77644",
    "isValid": "",
-   "prompt": "Which creatures are mentioned in the “Monster Mash”?",
-   "us": true,
+   "prompt": "Welches sind echte Stilrichtungen des Metal?",
+   "us": false,
    "x": false
   },
   {
@@ -4671,58 +4686,64 @@
   {
    "answers": [
     {
-     "text": "[i]The Civil War[/i]"
+     "text": "[i]Galileo[/i]"
     },
     {
-     "text": "[i]Baseball[/i]"
+     "text": "[i]W wie Wissen[/i]"
     },
     {
-     "text": "[i]Lewis & Clark[/i]"
+     "text": "[i]Quarks[/i]"
     },
     {
-     "text": "[i]Jazz[/i]"
+     "text": "[i]Planet Wissen[/i]"
     },
     {
-     "text": "[i]The Vietnam War[/i]"
+     "text": "[i]Pur+[/i]"
     },
     {
-     "text": "[i]Thomas Jefferson[/i]"
+     "text": "[i]Alles Wissen[/i]"
     },
     {
-     "text": "[i]Mark Twain[/i]"
+     "text": "[i]Welt der Wunder[/i]"
     },
     {
-     "text": "[i]The Dust Bowl[/i]"
+     "text": "[i]Nano[/i]"
     },
     {
-     "text": "[i]Prohibition[/i]"
+     "text": "[i]Leschs Kosmos[/i]"
+    },
+    {
+     "text": "[i]Wissen macht Ah![/i]"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "[i]Potatoes![/i]"
+     "text": "[i]Wissen![/i]"
     },
     {
-     "text": "[i]Indian Ocean: The Small Ocean[/i]"
+     "text": "[i]Besser Wissen[/i]"
     },
     {
-     "text": "[i]Destiny's Child: An American Dynasty[/i]"
+     "text": "[i]Wissen ist Macht[/i]"
     },
     {
-     "text": "[i]The Dude Who Invented Windex[/i]"
+     "text": "[i]Mikro[/i]"
     },
     {
-     "text": "[i]L.L. Bean[/i]"
+     "text": "[i]Ratio[/i]"
     },
     {
-     "text": "[i]Beer Pong[/i]"
+     "text": "[i]Logisch![/i]"
+    },
+    {
+     "text": "[i]GlasKlar[/i]"
     }
    ],
    "id": "77796",
    "isValid": "",
-   "prompt": "Which of these are real Ken Burns documentaries?",
-   "us": true,
+   "prompt": "Welches sind echte Wissenssendungen im deutschen Fernsehen?",
+   "us": false,
    "x": false
   },
   {
@@ -4824,55 +4845,52 @@
   {
    "answers": [
     {
-     "text": "Audrey Hepburn"
+     "text": "[i]Die Blechtrommel[/i]"
     },
     {
-     "text": "Mel Brooks"
+     "text": "[i]Nirgendwo in Afrika[/i]"
     },
     {
-     "text": "Whoopi Goldberg"
-    },
-    {
-     "text": "James Earl Jones"
-    },
-    {
-     "text": "John Legend"
-    },
-    {
-     "text": "Alan Menken"
-    },
-    {
-     "text": "Liza Minelli"
-    },
-    {
-     "text": "Rita Moreno"
+     "text": "[i]Das Leben der Anderen[/i]"
     }
    ],
-   "category": "Pop Culture",
+   "category": "Film & TV",
    "decoys": [
     {
-     "text": "Walt Disney"
+     "text": "[i]Das Versprechen[/i]"
     },
     {
-     "text": "John Travolta"
+     "text": "[i]Bittere Ernte[/i]"
     },
     {
-     "text": "Judy Garland"
+     "text": "[i]Die Brücke[/i]"
     },
     {
-     "text": "Meatloaf"
+     "text": "[i]Toni Erdmann[/i]"
     },
     {
-     "text": "Richard Pryor"
+     "text": "[i]Systemsprenger[/i]"
     },
     {
-     "text": "Cher"
+     "text": "[i]Die geliebten Schwestern[/i]"
+    },
+    {
+     "text": "[i]Mama, ich lebe[/i]"
+    },
+    {
+     "text": "[i]Die flambierte Frau[/i]"
+    },
+    {
+     "text": "[i]Werk ohne Autor[/i]"
+    },
+    {
+     "text": "[i]Das Boot[/i]"
     }
    ],
    "id": "77823",
    "isValid": "",
-   "prompt": "Which celebrities were EGOT recipients? (EGOT = Emmy, Grammy, Oscar, Tony)",
-   "us": true,
+   "prompt": "Welche dieser deutschen Filme gewannen den [i]Oscar[/i] als [i]bester internationaler Film[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -6948,7 +6966,7 @@
      "text": "Santana"
     },
     {
-     "text": "The Grateful Dead"
+     "text": "Grateful Dead"
     },
     {
      "text": "Creedence Clearwater Revival"
@@ -6963,13 +6981,13 @@
      "text": "Janis Joplin"
     },
     {
-     "text": "The Band"
+     "text": "Swami Satchidananda"
     },
     {
      "text": "Sly & The Family Stone"
     },
     {
-     "text": "Crosby, Stills & Nash (and Young)"
+     "text": "Crosby, Stills, Nash & Young"
     },
     {
      "text": "Jimi Hendrix"
@@ -6984,22 +7002,25 @@
      "text": "The Rolling Stones"
     },
     {
-     "text": "The Beatles"
+     "text": "Die Beatles"
     },
     {
      "text": "Joni Mitchell"
     },
     {
-     "text": "The Doors"
+     "text": "Elvis Presley"
     },
     {
-     "text": "The Monkees"
+     "text": "Stevie Wonder"
+    },
+    {
+     "text": "Modern Talking"
     }
    ],
    "id": "78402",
    "isValid": "",
-   "prompt": "Which groovy musical acts performed at Woodstock '69?",
-   "us": true,
+   "prompt": "Welche dieser groovigen Musiker und Bands traten 1969 beim [i]Woodstock[/i]-Festival auf?",
+   "us": false,
    "x": false
   },
   {
@@ -7407,28 +7428,19 @@
   {
    "answers": [
     {
-     "text": "Tony Hawk"
+     "text": "Poppy Honey Rosie"
     },
     {
-     "text": "Tony Hawk"
+     "text": "Daisy Boo Pamela"
     },
     {
-     "text": "Tony Hawk"
+     "text": "Petal Blossom Rainbow"
     },
     {
-     "text": "Tony Hawk"
+     "text": "Buddy Bear Maurice"
     },
     {
-     "text": "Tony Hawk"
-    },
-    {
-     "text": "Tony Hawk"
-    },
-    {
-     "text": "Tony Hawk"
-    },
-    {
-     "text": "Tony Hawk"
+     "text": "River Rocket Blue Dallas"
     }
    ],
    "category": "Celebrities",
@@ -7437,19 +7449,28 @@
      "text": "Tom Hanks"
     },
     {
-     "text": "Tom Hardy"
+     "text": "Rose Star Butterfly"
     },
     {
-     "text": "Tonya Harding"
+     "text": "Queen Leaf Cloud"
     },
     {
-     "text": "Tony Hawks"
+     "text": "Peach Mississippi Star"
+    },
+    {
+     "text": "X AE A-XII"
+    },
+    {
+     "text": "Marie Bee Chamomile"
+    },
+    {
+     "text": "Puppy Lily Ana"
     }
    ],
    "id": "78424",
    "isValid": "",
-   "prompt": "Tony Hawk",
-   "us": true,
+   "prompt": "Wie heißen die 5 Kinder von Chefkoch [i]Jamie Oliver[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -7893,28 +7914,40 @@
   {
    "answers": [
     {
-     "text": "Czech Pilsner"
+     "text": "Kölsch"
     },
     {
-     "text": "Extra Special Bitter"
+     "text": "Pale Ale"
     },
     {
-     "text": "Hefeweizen"
+     "text": "Blond Ale"
     },
     {
-     "text": "India Pale Ale"
+     "text": "Oshikundu"
     },
     {
-     "text": "Lager"
+     "text": "Braunschweiger Mumme"
     },
     {
-     "text": "Oatmeal Stout"
+     "text": "Umqombothi"
     },
     {
-     "text": "Red Ale"
+     "text": "Tripel"
     },
     {
-     "text": "Saison"
+     "text": "Sake"
+    },
+    {
+     "text": "Barley Wine"
+    },
+    {
+     "text": "Dampfbier"
+    },
+    {
+     "text": "Grisette"
+    },
+    {
+     "text": "Helles Lager"
     }
    ],
    "category": "Food & Drink",
@@ -7923,19 +7956,31 @@
      "text": "Funkenweizen"
     },
     {
-     "text": "India Dark Ale"
+     "text": "Komeraku"
     },
     {
      "text": "Swisher Sweet"
     },
     {
      "text": "Drunkenlager"
+    },
+    {
+     "text": "Svampara"
+    },
+    {
+     "text": "Viseler Weizen"
+    },
+    {
+     "text": "Dekanbier"
+    },
+    {
+     "text": "Schnittbier"
     }
    ],
    "id": "78621",
    "isValid": "",
-   "prompt": "Which of these are actual beer varietals?",
-   "us": true,
+   "prompt": "Welches sind echte [i]Biersorten[/i]?",
+   "us": false,
    "x": true
   },
   {
@@ -8278,6 +8323,9 @@
     },
     {
      "text": "Warrant"
+    },
+    {
+     "text": "Steel Panther"
     }
    ],
    "category": "Music",
@@ -8290,12 +8338,18 @@
     },
     {
      "text": "Creedence Clearwater Revival"
+    },
+    {
+     "text": "Metallica"
+    },
+    {
+     "text": "DragonForce"
     }
    ],
    "id": "78709",
    "isValid": "",
-   "prompt": "Which groups are widely considered to be hair metal bands?",
-   "us": true,
+   "prompt": "Bei welchen dieser Bands handelt es sich um “[i]Hair Metal Bands[/i]”?",
+   "us": false,
    "x": false
   },
   {
@@ -8775,49 +8829,64 @@
   {
    "answers": [
     {
-     "text": "“Don’t Stop Believin’”"
+     "text": "Scandium"
     },
     {
-     "text": "“The Fox (What Does The Fox Say?)”"
+     "text": "Praseodym"
     },
     {
-     "text": "“Gangnam Style”"
+     "text": "Samarium"
     },
     {
-     "text": "“Don't Rain On My Parade”"
+     "text": "Europium"
     },
     {
-     "text": "“Teenage Dream”"
+     "text": "Yttrium"
     },
     {
-     "text": "“Let's Have A Kiki / Turkey Lurkey Time”"
+     "text": "Gadolinium"
     },
     {
-     "text": "“Thong Song”"
+     "text": "Holmium"
     },
     {
-     "text": "“Hair / Crazy In Love”"
+     "text": "Promethium"
+    },
+    {
+     "text": "Dysprosium"
+    },
+    {
+     "text": "Didym"
     }
    ],
-   "category": "Film & TV",
+   "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "“Twinkle Twinkle Little Star”"
+     "text": "Starinyl"
     },
     {
-     "text": "“Yellow Submarine / WAP”"
+     "text": "Peatolium"
     },
     {
-     "text": "“Cello Suite No. 1 in G Major”"
+     "text": "Lithium"
     },
     {
-     "text": "“The Boys Are Back In Town / In The Navy”"
+     "text": "Satelithium"
+    },
+    {
+     "text": "Lutharsium"
+    },
+    {
+     "text": "Nilsonium"
+    },
+    {
+     "text": "Radiumunglaublichgrosius"
     }
    ],
    "id": "78876",
    "isValid": "",
-   "prompt": "Which songs were covered on [i]Glee[/i]?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um echte [i]Seltene Erden[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -9213,10 +9282,10 @@
      "text": "Daft Punk"
     },
     {
-     "text": "Insane Clown Posse"
+     "text": "Cro"
     },
     {
-     "text": "MF DOOM"
+     "text": "Lordi"
     },
     {
      "text": "Buckethead"
@@ -9225,10 +9294,10 @@
    "category": "Music",
    "decoys": [
     {
-     "text": "Britney Spears"
+     "text": "Florian Silbereisen"
     },
     {
-     "text": "The Shins"
+     "text": "Rammstein"
     },
     {
      "text": "Vampire Weekend"
@@ -9242,8 +9311,8 @@
    ],
    "id": "79183",
    "isValid": "",
-   "prompt": "Which musicians are known for dressing up so you can't see their faces while performing?",
-   "us": true,
+   "prompt": "Welche dieser Musiker sind dafür bekannt, sich so zu verkleiden, dass man ihre Gesichter bei Auftritten nicht sehen kann?",
+   "us": false,
    "x": false
   },
   {
@@ -9426,49 +9495,61 @@
   {
    "answers": [
     {
-     "text": "your tired"
+     "text": "Bolivien"
     },
     {
-     "text": "your poor"
+     "text": "Peru"
     },
     {
-     "text": "your huddled masses yearning to breathe free"
+     "text": "Ecuador"
     },
     {
-     "text": "the wretched refuse of your teeming shore"
+     "text": "Chile"
     },
     {
-     "text": "the homeless"
+     "text": "Kolumbien"
     },
     {
-     "text": "tempest-tost"
+     "text": "Argentinien"
+    },
+    {
+     "text": "Venezuela"
     }
    ],
-   "category": "Literature",
+   "category": "Geography & Landmarks",
    "decoys": [
     {
-     "text": "your wearied"
+     "text": "Brasilien"
     },
     {
-     "text": "your splendid"
+     "text": "Guyana"
     },
     {
-     "text": "your middle classes yearning to breathe easy"
+     "text": "Suriname"
     },
     {
-     "text": "the retching mob of your blistering sores"
+     "text": "Paraguay"
     },
     {
-     "text": "the forlorn and lost"
+     "text": "Uruguay"
     },
     {
-     "text": "your storied pomp"
+     "text": "Mexiko"
+    },
+    {
+     "text": "Kasachstan"
+    },
+    {
+     "text": "Panama"
+    },
+    {
+     "text": "Gorgonzola"
     }
    ],
    "id": "79278",
    "isValid": "",
-   "prompt": "What does the Statue of Liberty want according to the poem, “The New Colossus,” inscribed on its pedestal?",
-   "us": true,
+   "prompt": "Durch welche dieser Länder verlaufen die Anden?",
+   "us": false,
    "x": false
   },
   {
@@ -12429,67 +12510,58 @@
   {
    "answers": [
     {
-     "text": "“Like A Virgin”"
+     "text": "Vitamin A (Retinol)"
     },
     {
-     "text": "“Crazy For You”"
+     "text": "Vitamin B1 (Thiamin)"
     },
     {
-     "text": "“Live To Tell”"
+     "text": "Vitamin B2 (Riboflavin)"
     },
     {
-     "text": "“Papa Don't Preach”"
+     "text": "Vitamin B3 (Niacin)"
     },
     {
-     "text": "“Open Your Heart”"
+     "text": "Vitamin B6 (Pyridoxin)"
     },
     {
-     "text": "”Who's That Girl”"
+     "text": "Vitamin B9 (Folsäure)"
     },
     {
-     "text": "“Like A Prayer”"
+     "text": "Vitamin C (Ascorbinsäure)"
     },
     {
-     "text": "“Vogue”"
+     "text": "Vitamin E (Alpha-Tocopherol)"
     },
     {
-     "text": "“Justify My Love”"
-    },
-    {
-     "text": "“This Used To Be My Playground”"
-    },
-    {
-     "text": "“Take A Bow”"
-    },
-    {
-     "text": "“Music”"
+     "text": "Vitamin K (Phyllochinon)"
     }
    ],
-   "category": "Music",
+   "category": "Factoids",
    "decoys": [
     {
-     "text": "“September”"
+     "text": "Vitamin B5 (Pantothensäure)"
     },
     {
-     "text": "“MMMBop”"
+     "text": "Vitamin B12 (Cobalamin)"
     },
     {
-     "text": "“Rolling in the Deep”"
+     "text": "Vitamin D3 (Cholecalciferol)"
     },
     {
-     "text": "“Rain on Me”"
+     "text": "Vitamin B13 (Orotsäure)"
     },
     {
-     "text": "“Bad Romance”"
+     "text": "Vitamin L (Arcanocerol)"
     },
     {
-     "text": "“All About That Bass”"
+     "text": "Vitamin G20 (Internatioxin)"
     }
    ],
    "id": "80467",
    "isValid": "",
-   "prompt": "Which of these #1 hit songs are Madonna's?",
-   "us": true,
+   "prompt": "Welche dieser Vitamine sind in Grünkohl enthalten?",
+   "us": false,
    "x": false
   },
   {
@@ -18708,59 +18780,74 @@
   {
    "answers": [
     {
-     "text": "barbarian"
+     "text": "Delfin"
     },
     {
-     "text": "bard"
+     "text": "Nacktnasenwombat"
     },
     {
-     "text": "cleric"
+     "text": "Gabelschwanzseekuh"
     },
     {
-     "text": "druid"
+     "text": "Wanderratte"
     },
     {
-     "text": "fighter"
+     "text": "Panzernashorn"
     },
     {
-     "text": "monk"
+     "text": "Großer Langzungenflughund"
     },
     {
-     "text": "paladin"
+     "text": "Zwergfledermaus"
     },
     {
-     "text": "ranger"
+     "text": "Pazifisches Walross"
     },
     {
-     "text": "rogue"
+     "text": "Du"
     },
     {
-     "text": "sorcerer"
+     "text": "Chinesisches Schuppentier"
     },
     {
-     "text": "warlock"
+     "text": "Geflecktes Rüsselhündchen"
     },
     {
-     "text": "wizard"
+     "text": "Bennett-Baumkänguru"
+    },
+    {
+     "text": "Schnabeltier"
     }
    ],
-   "category": "Games",
+   "category": "Animals",
    "decoys": [
     {
-     "text": "thief"
+     "text": "Tigerhai"
     },
     {
-     "text": "sidekick"
+     "text": "Graugans"
     },
     {
-     "text": "scribe"
+     "text": "Weinbergschnecke"
+    },
+    {
+     "text": "Nesselqualle"
+    },
+    {
+     "text": "Seefledermaus"
+    },
+    {
+     "text": "Weberknecht"
+    },
+    {
+     "text": "Grüne Pfirsichblattlaus"
     }
    ],
    "id": "86193",
    "isValid": "",
-   "prompt": "Which of these are basic classes in [i]Dungeons & Dragons[/i] 5th Edition?",
-   "us": true,
-   "x": true
+   "prompt": "Welches sind [i]Säugetiere[/i]?",
+   "us": false,
+   "x": false
   },
   {
    "answers": [
