@@ -289,83 +289,91 @@
   },
   {
    "altSpellings": [
-    "The First Amendment",
-    "1st amendment",
-    "the 1st amendment",
-    "amendment one",
-    "amendment I",
-    "1 amendment"
+    "CS",
+    "Counter Strike",
+    "Counter-Strike",
+    "Counter Strike Global Offensive",
+    "CS GO",
+    "CSGO",
+    "CS:GO",
+    "Counter Strike GO",
+    "Counter-Strike GO",
+    "Counter Strike: Global Offensive",
+    "CS Global Offensive",
+    "Global Offensive",
+    ""
    ],
-   "answer": "First Amendment",
-   "category": "History",
+   "answer": "Counter-Strike: Global Offensive",
+   "category": "Games",
    "clues": [
     {
-     "clue": "It's part of the Bill of Rights.",
+     "clue": "Es wurde von Valve veröffentlicht.",
      "clueComment": ""
     },
     {
-     "clue": "It says nothing about your right to a speedy trial.",
-     "clueComment": "It says nothing about your right to a speedy trial. And nothing about well-regulated militias for that matter."
+     "clue": "Es erschien im Jahre 2012.",
+     "clueComment": "Es erschien im Jahre 2012. Aber ist bis heute noch sehr beliebt!"
     },
     {
-     "clue": "If you want to pray to me or any other god, this amendment has got you covered.",
+     "clue": "In dem Spiel treten zwei Teams mit je 5 Spielern gegeneinander an.",
      "clueComment": ""
     },
     {
-     "clue": "You like marching with 1000 close friends, trying to chant in unison? This amendment supports that.",
+     "clue": "Es handelt sich um einen kompetitiven First-Person Shooter.",
      "clueComment": ""
     },
     {
-     "clue": "It protects your right to free speech, freedom of the press, and freedom of religion.",
+     "clue": "In dem Spiel geht es darum, dass Terroristen eine Bombe platzieren müssen, während das andere Team sie entschärft.",
      "clueComment": ""
     }
    ],
-   "followup": "Oh, like you weren't thinking about one too.",
+   "followup": "So ohne Arme ist es gar nicht so leicht zu aimen.",
    "id": "80169",
    "isValid": "",
-   "prompt": "Which famous American legislative act am I thinking of?",
+   "prompt": "Welches Computerspiel macht mir unglaublich viel Spaß?",
    "reveal": "",
-   "us": true,
-   "x": false
+   "us": false,
+   "x": true
   },
   {
    "altSpellings": [
+    "Sirup",
     "Syrup",
-    "Pancake Syrup"
+    "Ahorn Sirup"
    ],
-   "answer": "Maple Syrup",
+   "answer": "Ahornsirup",
    "category": "Food & Drink",
    "clues": [
     {
-     "clue": "It is neither ketchup nor mustard! Bah!",
+     "clue": "Es ist weder Ketchup noch Senf! Bah!",
      "clueComment": ""
     },
     {
-     "clue": "A single serving is packed with over 100% of your recommended daily intake of manganese.",
+     "clue": "Eine einzelne Portion enthält über 100 % eurer empfohlenen Tagesdosis an Mangan.",
      "clueComment": ""
     },
     {
-     "clue": "'Tis more sweet than savory. Far, far more sweet!",
+     "clue": "Es ist eher süß als herzhaft. Viel, viel süßer!",
      "clueComment": ""
     },
     {
-     "clue": "It is a beloved export of Canada!",
+     "clue": "Es ist ein beliebter Exportartikel aus Kanada!",
      "clueComment": ""
     },
     {
-     "clue": "It’s essentially boiled tree sap.",
+     "clue": "Es ist im Prinzip nur gekochter Saft von Bäumen.",
      "clueComment": ""
     },
     {
-     "clue": "You’ll be more likely to find it on the breakfast table than the dinner one.",
+     "clue": "Ihr werdet es eher auf dem Frühstückstisch finden als beim Abendessen.",
      "clueComment": ""
     }
    ],
    "followup": null,
    "id": "80170",
    "isValid": "",
-   "prompt": "Mortals, behold! Please identify your world's most fabulous condiment!",
-   "reveal": "Any pancake is simply naked without it!",
+   "prompt": "Seht her! Bitte nennt mir die beste würzige Zutat der Welt!",
+   "reveal": "Jeder Pfannkuchen ist ohne es einfach nackt!",
    "us": true,
    "x": false
   },
@@ -772,39 +780,38 @@
   },
   {
    "altSpellings": [
-    "West Side",
-    "Westside Story"
+    "Starlight"
    ],
-   "answer": "[i]West Side Story[/i]",
+   "answer": "[i]Starlight Express[/i]",
    "category": "Theatre/Performing Arts",
    "clues": [
     {
-     "clue": "It's a very [i]cool[/i] musical.",
-     "clueComment": "It's a very cool musical. It makes me want to snap my fingers, which is hard because I don't have any."
+     "clue": "Es ist ein Musical von [i]Andrew Lloyd Webber[/i]",
+     "clueComment": "Es ist ein Musical von [i]Andrew Lloyd Webber[/i]. Ein GENIE!"
     },
     {
-     "clue": "The answer’s around here... [i]somewhere[/i]",
+     "clue": "Es ist ein sehr [i]rasantes[/i] Musical.",
      "clueComment": ""
     },
     {
-     "clue": "The show is about two kids in love, and it ends... not great.",
-     "clueComment": "The show is about two kids in love, and it ends... not great. Anyone getting a Romeo and Juliet kind of vibe here?"
+     "clue": "Es geht um den Traum eines Kindes, in welchem es selber eine Weltmeisterschaft austrägt.",
+     "clueComment": "Es geht um den Traum eines Kindes, in welchem es selber eine Weltmeisterschaft austrägt. Nein, es ist nicht Fußball!"
     },
     {
-     "clue": "It might be the only musical where Jets and Sharks dance around together on dry land.",
+     "clue": "Im Prinzip sind alle Darsteller auf Rollschuhen und verkörpern dabei Züge.",
      "clueComment": ""
     },
     {
-     "clue": "It’s no East Side Saga, but rather a... something else.",
+     "clue": "Da das Musical so besonders ist, wurde extra dafür ein eigenes Theater in Bochum errichtet.",
      "clueComment": ""
     }
    ],
    "followup": "",
    "id": "81884",
    "isValid": "",
-   "prompt": "Which musical's show tunes have I been singing all day?",
+   "prompt": "Die Songs von welchem Musical hab ich den ganzen Tag im Kopf?",
    "reveal": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
