@@ -659,7 +659,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -966,7 +966,7 @@
      "value": "893"
     },
     {
-     "text": "Großer Schoko-Milchschake",
+     "text": "Großer Schoko-Milchshake",
      "value": "830"
     },
     {
@@ -982,7 +982,7 @@
      "value": "550"
     },
     {
-     "text": "Pommes Frites",
+     "text": "Große Pommes Frites",
      "value": "490"
     },
     {
@@ -1000,7 +1000,7 @@
     {
      "text": "Riffelkartoffeln",
      "value": "289"
-    }
+    },
     {
      "text": "Hamburger",
      "value": "250"
@@ -1287,11 +1287,11 @@
      "value": "-551"
     },
     {
-     "text": "Jesus Christ (Christentum)",
+     "text": "Jesus Christus (Christentum)",
      "value": "-4"
     },
     {
-     "text": "Muhammad (Islam)",
+     "text": "Mohammed (Islam)",
      "value": "570"
     },
     {
@@ -1307,7 +1307,7 @@
      "value": "1805"
     },
     {
-     "text": "Bahaʾullah (Bahaitum)",
+     "text": "Baha'ullah (Bahaitum)",
      "value": "1817"
     },
     {
@@ -1477,7 +1477,7 @@
    "category": "Science & Medicine",
    "id": "79042",
    "isValid": "",
-   "prompt": "Welcher dieser Planeten bewegt sich im All am langsamsten",
+   "prompt": "Welcher dieser Planeten bewegt sich im All am langsamsten?",
    "sort": "ascending",
    "subtype": "most/least",
    "unit": "(in miles per hour)",
@@ -1552,7 +1552,7 @@
      "value": "310"
     },
     {
-     "text": "Nord Carolina",
+     "text": "North Carolina",
      "value": "214"
     },
     {
@@ -1576,7 +1576,7 @@
      "value": "130"
     },
     {
-     "text": "Süd Carolina",
+     "text": "South Carolina",
      "value": "123"
     },
     {
@@ -1587,7 +1587,7 @@
    "category": "Factoids",
    "id": "79061",
    "isValid": "",
-   "prompt": "Welche Stadt hatte 2021 die meisten Walmart-Filialen?",
+   "prompt": "Welcher US-Staat hatte 2021 die meisten Walmart-Filialen?",
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(in Walmarts)",
@@ -2048,7 +2048,7 @@
      "value": "1980"
     },
     {
-     "text": "Jamaica",
+     "text": "Jamaika",
      "value": "1962"
     },
     {
@@ -2283,7 +2283,7 @@
    "subtype": "closest",
    "unit": "",
    "us": false,
-   "x": false
+   "x": true
   },
   {
    "answers": [
@@ -2774,7 +2774,7 @@
    "category": "Science & Medicine",
    "id": "83980",
    "isValid": "",
-   "prompt": "Welcher Meilenstein in der Evolutionsgeschichte passierte zuerst?",
+   "prompt": "Welcher Meilenstein in der Evolutionsgeschichte geschah zuerst?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "(in millions of years ago)",
@@ -2839,7 +2839,7 @@
    "sort": "descending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2892,7 +2892,7 @@
    "category": "History",
    "id": "84259",
    "isValid": "",
-   "prompt": "Welcher Konflikt mit Amerikanischer Beteiligung passierte zuerst? ",
+   "prompt": "Welcher Konflikt mit Amerikanischer Beteiligung passierte zuerst?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
@@ -3973,7 +3973,7 @@
    "category": "Celebrities",
    "id": "85035",
    "isValid": "",
-   "prompt": "Welche dieser Sänger wurden zuerst geboren?",
+   "prompt": "Welcher dieser Sänger wurde zuerst geboren?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
@@ -4503,7 +4503,7 @@
      "value": "2"
     },
     {
-     "text": "Plato starb",
+     "text": "Platon starb",
      "value": "3"
     },
     {
@@ -4511,7 +4511,7 @@
      "value": "4"
     },
     {
-     "text": "Der Prophet Muhammad wird geboren",
+     "text": "Der Prophet Mohammed wird geboren",
      "value": "5"
     },
     {
@@ -4551,7 +4551,7 @@
      "value": "14"
     },
     {
-     "text": "Kelly Clarkson gewinnt als Erste [i]American Idol[/i]", 
+     "text": "Alexander Klaws gewinnt als Erster [i]DSDS[/i]", 
      "value": "15"
     },
     {
