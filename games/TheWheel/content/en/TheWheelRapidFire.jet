@@ -655,11 +655,11 @@
    "category": "Music",
    "id": "78720",
    "isValid": "",
-   "prompt": "As of 2020, which musician has received more Grammys?",
+   "prompt": "Welcher Musiker hat bis 2020 mehr Grammys erhalten?",
    "sort": "descending",
    "subtype": "most/least",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -962,15 +962,15 @@
   {
    "answers": [
     {
-     "text": "40 Piece Chicken McNuggets",
-     "value": "1660"
+     "text": "20 Chicken McNuggets",
+     "value": "893"
     },
     {
-     "text": "Large Chocolate Shake",
+     "text": "Großer Schoko-Milchschake",
      "value": "830"
     },
     {
-     "text": "Regular McFlurry with M&M'S Candies",
+     "text": "McFlurry mit M&M'S",
      "value": "640"
     },
     {
@@ -982,42 +982,42 @@
      "value": "550"
     },
     {
-     "text": "Large World Famous Fries",
+     "text": "Pommes Frites",
      "value": "490"
     },
     {
-     "text": "Double Cheeseburger",
+     "text": "Doppel-Cheeseburger",
      "value": "450"
     },
     {
-     "text": "McChicken",
+     "text": "McChicken Classic",
      "value": "400"
     },
     {
-     "text": "Fish-O-Filet",
+     "text": "Filet-o-Fish",
      "value": "380"
     },
+    {
+     "text": "Riffelkartoffeln",
+     "value": "289"
+    }
     {
      "text": "Hamburger",
      "value": "250"
     },
     {
-     "text": "Hash Brown",
-     "value": "140"
-    },
-    {
-     "text": "Apple Slices",
+     "text": "Apfelstücke",
      "value": "15"
     }
    ],
    "category": "Food & Drink",
    "id": "78810",
    "isValid": "",
-   "prompt": "Which McDonald's menu item has more calories?",
+   "prompt": "Welches Gericht von McDonalds hat die meisten Kalorien?",
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(in calories)",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -1084,54 +1084,54 @@
   {
    "answers": [
     {
-     "text": "oxygen",
+     "text": "Sauerstoff",
      "value": "46.1"
     },
     {
-     "text": "silicon",
+     "text": "Silicium",
      "value": "28.2"
     },
     {
-     "text": "aluminum",
+     "text": "Aluminium",
      "value": "8.2"
     },
     {
-     "text": "iron",
+     "text": "Eisen",
      "value": "5.6"
     },
     {
-     "text": "calcium",
+     "text": "Kalcium",
      "value": "4.1"
     },
     {
-     "text": "sodium",
+     "text": "Natrium",
      "value": "2.4"
     },
     {
-     "text": "potassium",
+     "text": "Kalium",
      "value": "2.09"
     },
     {
-     "text": "titanium",
+     "text": "Titan",
      "value": "0.57"
     },
     {
-     "text": "hydrogen",
+     "text": "Wasserstoff",
      "value": "0.14"
     },
     {
-     "text": "zirconium",
+     "text": "Zirconium",
      "value": "0.01"
     }
    ],
    "category": "Science & Medicine",
    "id": "78819",
    "isValid": "",
-   "prompt": "Which element is more common in Earth's crust?",
+   "prompt": "Welches Element kommt am häufigsten in der Erdkruste vor?",
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(in % of mass)",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -1271,23 +1271,23 @@
   {
    "answers": [
     {
-     "text": "Moses (Judaism)",
+     "text": "Moses (Judentum)",
      "value": "-1300"
     },
     {
-     "text": "Zarathustra (Zoroastrianism)",
+     "text": "Zarathustra (Zoroastrismus)",
      "value": "-628"
     },
     {
-     "text": "Buddha (Buddhism)",
+     "text": "Buddha (Buddhismus)",
      "value": "-623"
     },
     {
-     "text": "Confucius (Confucianism)",
+     "text": "Konfuzius (Konfuzianismus)",
      "value": "-551"
     },
     {
-     "text": "Jesus Christ (Christianity)",
+     "text": "Jesus Christ (Christentum)",
      "value": "-4"
     },
     {
@@ -1295,19 +1295,19 @@
      "value": "570"
     },
     {
-     "text": "Guru Nanak (Sikhism)",
+     "text": "Guru Nanak (Sikhismus)",
      "value": "1469"
     },
     {
-     "text": "Martin Luther (Lutheranism)",
+     "text": "Martin Luther (Luthertum)",
      "value": "1483"
     },
     {
-     "text": "Joseph Smith (Mormonism)",
+     "text": "Joseph Smith (Mormonentum)",
      "value": "1805"
     },
     {
-     "text": "Bahaʾullah (Baha'i Faith)",
+     "text": "Bahaʾullah (Bahaitum)",
      "value": "1817"
     },
     {
@@ -1318,11 +1318,11 @@
    "category": "Religion",
    "id": "78878",
    "isValid": "",
-   "prompt": "Which religious founder was born first?",
+   "prompt": "Welcher Gründer einer Religion wurde zuerst geboren?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -1442,7 +1442,7 @@
   {
    "answers": [
     {
-     "text": "Neptune",
+     "text": "Neptun",
      "value": "12146"
     },
     {
@@ -1462,7 +1462,7 @@
      "value": "53858"
     },
     {
-     "text": "Earth",
+     "text": "Erde",
      "value": "66615"
     },
     {
@@ -1470,18 +1470,18 @@
      "value": "78337"
     },
     {
-     "text": "Mercury",
+     "text": "Merkur",
      "value": "107082"
     }
    ],
    "category": "Science & Medicine",
    "id": "79042",
    "isValid": "",
-   "prompt": "Which planet has a slower orbital speed?",
+   "prompt": "Welcher dieser Planeten bewegt sich im All am langsamsten",
    "sort": "ascending",
    "subtype": "most/least",
    "unit": "(in miles per hour)",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -1552,7 +1552,7 @@
      "value": "310"
     },
     {
-     "text": "North Carolina",
+     "text": "Nord Carolina",
      "value": "214"
     },
     {
@@ -1576,7 +1576,7 @@
      "value": "130"
     },
     {
-     "text": "South Carolina",
+     "text": "Süd Carolina",
      "value": "123"
     },
     {
@@ -1587,7 +1587,7 @@
    "category": "Factoids",
    "id": "79061",
    "isValid": "",
-   "prompt": "As of 2021, which U.S. state had more Walmarts?",
+   "prompt": "Welche Stadt hatte 2021 die meisten Walmart-Filialen?",
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(in Walmarts)",
@@ -2044,7 +2044,7 @@
      "value": "1981"
     },
     {
-     "text": "Zimbabwe",
+     "text": "Simbabwe",
      "value": "1980"
     },
     {
@@ -2068,7 +2068,7 @@
      "value": "1947"
     },
     {
-     "text": "The Bahamas",
+     "text": "Die Bahamas",
      "value": "1973"
     },
     {
@@ -2076,18 +2076,18 @@
      "value": "1919"
     },
     {
-     "text": "Ireland",
+     "text": "Irland",
      "value": "1919"
     },
     {
-     "text": "The United States",
+     "text": "Vereinigte Staaten von Amerika",
      "value": "1776"
     }
    ],
    "category": "History",
    "id": "82427",
    "isValid": "",
-   "prompt": "Which country declared independence from the British Empire more recently?",
+   "prompt": "Welches dieser Länder erklärte zuletzt seine Unabhängigkeit von England?",
    "sort": "descending",
    "subtype": "closest",
    "unit": "",
@@ -2097,23 +2097,23 @@
   {
    "answers": [
     {
-     "text": "[i]Gone with the Wind[/i]",
+     "text": "[i]Vom Winde verweht[/i]",
      "value": "238"
     },
     {
-     "text": "[i]Lawrence of Arabia[/i]",
+     "text": "[i]Lawrence von Arabien[/i]",
      "value": "228"
     },
     {
-     "text": "[i]Seven Samurai[/i]",
+     "text": "[i]Die sieben Samurai[/i]",
      "value": "207"
     },
     {
-     "text": "[i]The Godfather: Part II[/i]",
+     "text": "[i]Der Pate: Teil II[/i]",
      "value": "202"
     },
     {
-     "text": "[i]Schindler’s List[/i]",
+     "text": "[i]Schindler’s Liste[/i]",
      "value": "195"
     },
     {
@@ -2137,30 +2137,30 @@
      "value": "120"
     },
     {
-     "text": "[i]Eternal Sunshine of the Spotless Mind[/i]",
+     "text": "[i]Vergiss mein nicht![/i]",
      "value": "108"
     },
     {
-     "text": "[i]The Princess Bride[/i]",
+     "text": "[i]Die Braut des Prinzen[/i]",
      "value": "98"
     },
     {
-     "text": "[i]The Lion King[/i] (1994)",
+     "text": "[i]Der König der Löwen[/i] (1994)",
      "value": "88"
     },
     {
-     "text": "[i]Before Sunset[/i]",
+     "text": "[i]Vor Sonnenuntergang[/i]",
      "value": "80"
     }
    ],
    "category": "Film & TV",
    "id": "83482",
    "isValid": "",
-   "prompt": "Which of these feature films has the longer run time?",
+   "prompt": "Welcher dieser Filme ist länger?",
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(in minutes)",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -2227,62 +2227,62 @@
   {
    "answers": [
     {
-     "text": "brain",
+     "text": "Gehirn",
      "value": "1"
     },
     {
-     "text": "eyes",
+     "text": "Augen",
      "value": "2"
     },
     {
-     "text": "tongue",
+     "text": "Zunge",
      "value": "3"
     },
     {
-     "text": "esophogus",
+     "text": "Speiseröhre",
      "value": "4"
     },
     {
-     "text": "lungs",
+     "text": "Lunge",
      "value": "6"
     },
     {
-     "text": "heart",
+     "text": "Herz",
      "value": "6"
     },
     {
-     "text": "liver",
+     "text": "Leber",
      "value": "7"
     },
     {
-     "text": "stomach",
+     "text": "Magen",
      "value": "8"
     },
     {
-     "text": "kidneys",
+     "text": "Nieren",
      "value": "9"
     },
     {
-     "text": "small intestine",
+     "text": "Dünndarm",
      "value": "10"
     },
     {
-     "text": "uterus",
+     "text": "Gebärmutter",
      "value": "11"
     },
     {
-     "text": "anus",
+     "text": "Anus",
      "value": "12"
     }
    ],
    "category": "Anatomy",
    "id": "83484",
    "isValid": "",
-   "prompt": "On an average standing human being, which of these organs is stacked closest to the top?",
+   "prompt": "Welches dieser Organe ist bei einem durschschnittlichen stehenden Menschen am weitesten oben?",
    "sort": "ascending",
    "subtype": "closest",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -2353,15 +2353,15 @@
   {
    "answers": [
     {
-     "text": "Alert, Nunavet, Canada",
+     "text": "Alert, Nunavet, Kanada",
      "value": "1"
     },
     {
-     "text": "Hammerfest, Norway",
+     "text": "Hammerfest, Norwegen",
      "value": "2"
     },
     {
-     "text": "Reykjavik, Iceland",
+     "text": "Reykjavik, Island",
      "value": "3"
     },
     {
@@ -2369,15 +2369,15 @@
      "value": "4"
     },
     {
-     "text": "Aberdeen, Scotland",
+     "text": "Aberdeen, Schottland",
      "value": "5"
     },
     {
-     "text": "Winnipeg, Manitoba, Canada",
+     "text": "Winnipeg, Manitoba, Kanada",
      "value": "6"
     },
     {
-     "text": "New York City",
+     "text": "New York City, USA",
      "value": "7"
     },
     {
@@ -2385,7 +2385,7 @@
      "value": "8"
     },
     {
-     "text": "Havana, Cuba",
+     "text": "Havana, Kuba",
      "value": "9"
     },
     {
@@ -2393,30 +2393,30 @@
      "value": "10"
     },
     {
-     "text": "Nairobi, Kenya",
+     "text": "Nairobi, Kenia",
      "value": "11"
     },
     {
-     "text": "Rio de Janeiro, Brazil",
+     "text": "Rio de Janeiro, Brasilien",
      "value": "12"
     },
     {
-     "text": "Cape Town, South Africa",
+     "text": "Kapstadt, Südafrika",
      "value": "13"
     },
     {
-     "text": "Aukland, New Zealand",
+     "text": "Aukland, Neuseeland",
      "value": "14"
     }
    ],
    "category": "Geography & Landmarks",
    "id": "83684",
    "isValid": "",
-   "prompt": "Which of these cities is closer to the North Pole?",
+   "prompt": "Welche diese Städte liegt näher am Nordpol?",
    "sort": "ascending",
    "subtype": "closest",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -2723,62 +2723,62 @@
   {
    "answers": [
     {
-     "text": "first multicellular life",
+     "text": "Erstes mehrzelliges Leben",
      "value": "1"
     },
     {
-     "text": "first true vertebrate",
+     "text": "Erste richtige Wirbeltiere",
      "value": "2"
     },
     {
-     "text": "first teeth in fish",
+     "text": "Erste Zähne bei Fischen",
      "value": "3"
     },
     {
-     "text": "first known insect",
+     "text": "Erste bekannte Insekten",
      "value": "4"
     },
     {
-     "text": "first amphibians",
+     "text": "Erste Amphibien",
      "value": "5"
     },
     {
-     "text": "early mammals appear",
+     "text": "Erste Säugetiere tauchen auf",
      "value": "6"
     },
     {
-     "text": "first flowering plants",
+     "text": "Erste Pflanzen blühen",
      "value": "7"
     },
     {
-     "text": "dinosaurs go extinct",
+     "text": "Dinosaurier sterben aus",
      "value": "8"
     },
     {
-     "text": "first Neanderthal appears",
+     "text": "Der erste Neanderthaler taucht auf",
      "value": "9"
     },
     {
-     "text": "Aristotle proposes that Earth is round",
+     "text": "Aristotles behauptet, dass die Erde rund sei",
      "value": "10"
     },
     {
-     "text": "International Flat Earth Research Society is founded",
+     "text": "International Flat Earth Research Society wurde gegründet",
      "value": "11"
     },
     {
-     "text": "first moon landing by humans",
+     "text": "Erste Mondlandung eines Menschen",
      "value": "12"
     }
    ],
    "category": "Science & Medicine",
    "id": "83980",
    "isValid": "",
-   "prompt": "Which milestone in the evolution of life happened first?",
+   "prompt": "Welcher Meilenstein in der Evolutionsgeschichte passierte zuerst?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "(in millions of years ago)",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -2835,64 +2835,64 @@
    "category": "Music",
    "id": "84258",
    "isValid": "",
-   "prompt": "Which Britney Spears single was released more recently?",
+   "prompt": "Welche Single von Britney Speas wurde zuletzt veröffentlicht?",
    "sort": "descending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "The Revolutionary War",
+     "text": "Amerikanischer Unabhängigkeitskrieg",
      "value": "1775"
     },
     {
-     "text": "War of 1812",
+     "text": "Britisch-Amerikanischer Krieg",
      "value": "1812"
     },
     {
-     "text": "Mexican-American War",
+     "text": "Mexikanisch-Amerikanischer Krieg",
      "value": "1846"
     },
     {
-     "text": "American Civil War",
+     "text": "Sezessionskrieg",
      "value": "1861"
     },
     {
-     "text": "Spanish-American War",
+     "text": "Spanisch-Amerikanischer Krieg",
      "value": "1898"
     },
     {
-     "text": "World War I",
+     "text": "Der erste Weltkrieg",
      "value": "1914"
     },
     {
-     "text": "World War II",
+     "text": "Der zweite Weltkrieg",
      "value": "1939"
     },
     {
-     "text": "Korean War",
+     "text": "Koreakrieg",
      "value": "1950"
     },
     {
-     "text": "Vietnam War",
+     "text": "Vietnamkrieg",
      "value": "1959"
     },
     {
-     "text": "War in Afghanistan",
+     "text": "Afghanistankrieg",
      "value": "2001"
     },
     {
-     "text": "Iraq War",
+     "text": "Irakkrieg",
      "value": "2003"
     }
    ],
    "category": "History",
    "id": "84259",
    "isValid": "",
-   "prompt": "Which major American armed conflict occurred earlier?",
+   "prompt": "Welcher Konflikt mit Amerikanischer Beteiligung passierte zuerst? ",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
@@ -2902,62 +2902,62 @@
   {
    "answers": [
     {
-     "text": "[i]War and Peace[/i] by Leo Tolstoy",
+     "text": "[i]Krieg und Frieden[/i] von Leo Tolstoy",
      "value": "587287"
     },
     {
-     "text": "[i]A Game of Thrones[/i] by George R. R. Martin",
+     "text": "[i]A Game of Thrones[/i] von George R. R. Martin",
      "value": "292727"
     },
     {
-     "text": "[i]Jane Eyre[/i] by Charlotte Brontë",
+     "text": "[i]Jane Eyre[/i] von Charlotte Brontë",
      "value": "183858"
     },
     {
-     "text": "[i]The Metamorphosis[/i] by Franz Kafka",
+     "text": "[i]Die Verwandlung [/i] von Franz Kafka",
      "value": "60361"
     },
     {
-     "text": "[i]The Giver[/i] by Lois Lowry",
+     "text": "[i]Hüter der Erinnerung[/i] von Lois Lowry",
      "value": "43617"
     },
     {
-     "text": "[i]Charlie and the Chocolate Factory[/i] by Roald Dahl",
+     "text": "[i]Charlie und die Schokoladenfabrik[/i] von Roald Dahl",
      "value": "30644"
     },
     {
-     "text": "“The Book of Exodus” from The NIV Student Bible",
+     "text": "“Exodus” aus der Bibel",
      "value": "28733"
     },
     {
-     "text": "“The Book of Revelation” from The NIV Student Bible",
+     "text": "“Offenbarung des Johannes” aus der Bibel",
      "value": "11471"
     },
     {
-     "text": "The Declaration of Independence",
+     "text": "Die Unabhängigkeitserklärung",
      "value": "1337"
     },
     {
-     "text": "[i]Hop On Pop[/i] by Dr. Seuss",
+     "text": "[i]Hop On Pop[/i] von Dr. Seuss",
      "value": "384"
     },
     {
-     "text": "The Gettysburg Address",
+     "text": "Die Gettysburg Address",
      "value": "272"
     },
     {
-     "text": "The last line in Shakespeare’s [i]Hamlet[/i]",
+     "text": "Die letzten Sätze von Shakesperes [i]Hamlet[/i]",
      "value": "59"
     }
    ],
    "category": "Literature",
    "id": "84263",
    "isValid": "",
-   "prompt": "Which piece of writing has the higher word count?",
+   "prompt": "Welches Schriftstück hat die höhere Anzahl an Wörtern?",
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(in words)",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3839,11 +3839,11 @@
    "category": "Music",
    "id": "84658",
    "isValid": "",
-   "prompt": "Which musical tempo marking is faster?",
+   "prompt": "Welches Tempo in der Musik ist schneller?",
    "sort": "descending",
    "subtype": "most/least",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3973,11 +3973,11 @@
    "category": "Celebrities",
    "id": "85035",
    "isValid": "",
-   "prompt": "Which singer was born first?",
+   "prompt": "Welche dieser Sänger wurden zuerst geboren?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4495,86 +4495,86 @@
   {
    "answers": [
     {
-     "text": "Julius Caesar assassinated",
+     "text": "Julius Caesar wurde ermordet.",
      "value": "1"
     },
     {
-     "text": "Rosetta stone inscribed",
+     "text": "Gravierung des Steines von Rosette",
      "value": "2"
     },
     {
-     "text": "death of Plato",
+     "text": "Plato starb",
      "value": "3"
     },
     {
-     "text": "battle of Thermopylae",
+     "text": "Die Perserkriege",
      "value": "4"
     },
     {
-     "text": "birth of the Prophet Muhammad",
+     "text": "Der Prophet Muhammad wird geboren",
      "value": "5"
     },
     {
-     "text": "The Chinese invent gunpowder",
+     "text": "Die Chinesen erfinden das Schießpulver",
      "value": "6"
     },
     {
-     "text": "end of King David's reign",
+     "text": "Ende der Amtszeit von König David",
      "value": "7"
     },
     {
-     "text": "Norman Conquest",
+     "text": "Eroberung Englands durch die Normandie",
      "value": "8"
     },
     {
-     "text": "completion of Stonehenge",
+     "text": "Ferigstellung von Stonehenge",
      "value": "9"
     },
     {
-     "text": "Salem witch trials",
+     "text": "Hexenprozesse von Salem",
      "value": "10"
     },
     {
-     "text": "start of the American Revolution",
+     "text": "Beginn der Amerikanischen Revolution",
      "value": "11"
     },
     {
-     "text": "end of Cold War",
+     "text": "Ende des kalten Krieges",
      "value": "12"
     },
     {
-     "text": "start of World War II",
+     "text": "Beginn des zweiten Weltkriegs",
      "value": "13"
     },
     {
-     "text": "[i]Seinfeld[/i] finale",
+     "text": "Letzte Folge von [i]Seinfeld[/i] ausgestrahlt",
      "value": "14"
     },
     {
-     "text": "Kelly Clarkson wins first [i]American Idol[/i]",
+     "text": "Kelly Clarkson gewinnt als Erste [i]American Idol[/i]", 
      "value": "15"
     },
     {
-     "text": "[i]Avengers: Endgame[/i] premieres",
+     "text": "Kinostart von [i]Avengers: Endgame[/i]",
      "value": "16"
     },
     {
-     "text": "Great Pyramid of Giza built",
+     "text": "Pyramiden von Gizeh wurden gebaut",
      "value": "17"
     },
     {
-     "text": "invention of the Wheel",
+     "text": "Das Rad wurder erfunden",
      "value": "18"
     }
    ],
    "category": "History",
    "id": "85504",
    "isValid": "",
-   "prompt": "Which of these events happened closer to the year 1 C.E.?",
+   "prompt": "Welches dieser Ereignisse fand näher am Jahre 1 n. Chr. statt?",
    "sort": "ascending",
    "subtype": "closest",
    "unit": "(closer to the year 1 C.E.)",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
