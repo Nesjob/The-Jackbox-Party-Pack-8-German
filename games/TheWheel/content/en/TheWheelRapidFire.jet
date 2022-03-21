@@ -3145,7 +3145,7 @@
      "value": "40"
     },
     {
-     "text": "Persepolis ",
+     "text": "Persepolis",
      "value": "5"
     },
     {
@@ -3359,11 +3359,11 @@
    "category": "History",
    "id": "84392",
    "isValid": "",
-   "prompt": "Welcher Englischer Adelstitel hat den höchsten Stand?",
+   "prompt": "Welcher englische Adelstitel hat den höchsten Stand?",
    "sort": "ascending",
    "subtype": "closest",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
