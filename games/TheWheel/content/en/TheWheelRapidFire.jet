@@ -2422,70 +2422,70 @@
   {
    "answers": [
     {
-     "text": "Princess Leia gives R2-D2 the Death Star plans",
+     "text": "Princess Leia übergibt R2-D2 die Pläne des Todessterns",
      "value": "1"
     },
     {
-     "text": "Princess Leia is captured by Darth Vader",
+     "text": "Prinzessin Leia wird von Darth Vader gefangen genommen",
      "value": "2"
     },
     {
-     "text": "Luke Skywalker meets R2-D2 and C-3PO",
+     "text": "Luke Skywalker trifft R2-D2 und C-3PO",
      "value": "3"
     },
     {
-     "text": "Luke Skywalker meets Obi-Wan Kenobi",
+     "text": "Luke Skywalker trifft Obi-Wan Kenobi",
      "value": "4"
     },
     {
-     "text": "Luke and Obi-Wan meet Han Solo and Chewbacca",
+     "text": "Luke und Obi-Wan treffen Han Solo und Chewbacca",
      "value": "5"
     },
     {
-     "text": "Alderaan is destroyed by the Death Star",
+     "text": "Alderaan wird vom Todesstern zerstört",
      "value": "6"
     },
     {
-     "text": "Luke, Han and Chewbacca rescue Leia",
+     "text": "Luke, Han und Chewbacca retten Leia",
      "value": "7"
     },
     {
-     "text": "The heroes are trapped in a trash compactor",
+     "text": "Die Helden sind in einer Müllentsorgung gefangen",
      "value": "8"
     },
     {
-     "text": "Darth Vader duels Obi-Wan Kenobi",
+     "text": "Darth Vader duelliert sich mit Obi-Wan Kenobi",
      "value": "9"
     },
     {
-     "text": "The heroes arrive on Yavin 4",
+     "text": "Die Helden landen auf Yavin 4",
      "value": "10"
     },
     {
-     "text": "Han Solo leaves Yavin 4 with his reward",
+     "text": "Han Solo verlässt Yavin 4 mit seiner Belohnung",
      "value": "11"
     },
     {
-     "text": "Han Solo returns to save Luke from Darth Vader",
+     "text": "Han Solo rettet Luke vor Darth Vader",
      "value": "12"
     },
     {
-     "text": "Luke Skywalker uses the Force to destroy the Death Star",
+     "text": "Luke Skywalker nutzt die Macht um den Todesstern zu zerstören",
      "value": "13"
     },
     {
-     "text": "Luke Skywalker and Han Solo receive medals",
+     "text": "Luke Skywalker und Han Solo erhalten Medallien",
      "value": "14"
     }
    ],
    "category": "Film & TV",
    "id": "83762",
    "isValid": "",
-   "prompt": "What occurs on-screen first in [i]Star Wars: Episode IV - A New Hope[/i]?",
+   "prompt": "Was ist im Film [i]Star Wars: Episode IV - Eine neue Hoffnung[/i] zuerst zu sehen?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -2613,58 +2613,58 @@
   {
    "answers": [
     {
-     "text": "Meghan Markle and Prince Harry",
+     "text": "Meghan Markle und Prinz Harry",
      "value": "2018"
     },
     {
-     "text": "Kate Middleton and Prince William",
+     "text": "Kate Middleton und Prinz William",
      "value": "2011"
     },
     {
-     "text": "Prince Charles and Camilla Parker Bowles",
+     "text": "Prinz Charles und Camilla Parker Bowles",
      "value": "2005"
     },
     {
-     "text": "Sarah Ferguson and Prince Andrew",
+     "text": "Sarah Ferguson und Prinz Andrew",
      "value": "1986"
     },
     {
-     "text": "Princess Diana and Prince Charles",
+     "text": "Prinzessin Diana und Prinz Charles",
      "value": "1981"
     },
     {
-     "text": "Queen Elizabeth II and Prince Philip",
+     "text": "Königin Elizabeth II und Prinz Philip",
      "value": "1947"
     },
     {
-     "text": "Prince Edward and Wallis Simpson",
+     "text": "Prinz Edward und Wallis Simpson",
      "value": "1937"
     },
     {
-     "text": "Queen Victoria and Prince Albert",
+     "text": "Königin Victoria und Prinz Albert",
      "value": "1840"
     },
     {
-     "text": "King George III and Queen Charlotte",
+     "text": "König George III und Königin Charlotte",
      "value": "1761"
     },
     {
-     "text": "Queen “Bloody” Mary I and Prince Philip",
+     "text": "Queen “Bloody” Mary I und Prinz Philip",
      "value": "1554"
     },
     {
-     "text": "Henry VIII and Anne Boleyn",
+     "text": "Henry VIII und Anne Boleyn",
      "value": "1533"
     }
    ],
    "category": "Celebrities",
    "id": "83947",
    "isValid": "",
-   "prompt": "Which of these British royal weddings occurred more recently?",
+   "prompt": "Welche dieser königlichen Ehen wurde zuletzt geschlossen?",
    "sort": "descending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -2979,7 +2979,7 @@
      "value": "4"
     },
     {
-     "text": "[i]Frozen[/i]",
+     "text": "[i]Die Eiskönigin - Völlig unverfroren[/i]",
      "value": "5"
     },
     {
@@ -2987,7 +2987,7 @@
      "value": "6"
     },
     {
-     "text": "[i]The Lord of the Rings: The Return of the King[/i]",
+     "text": "[i]Der Herr der Ringe: Die Rückkehr des Königs[/i]",
      "value": "7"
     },
     {
@@ -2995,7 +2995,7 @@
      "value": "8"
     },
     {
-     "text": "[i]The Dark Knight[/i]",
+     "text": "[i]Der dunkle Ritter[/i]",
      "value": "9"
     },
     {
@@ -3022,11 +3022,11 @@
    "category": "Film & TV",
    "id": "84264",
    "isValid": "",
-   "prompt": "Without adjusting for inflation, which movie has a higher lifetime gross at the global box office?",
+   "prompt": "Die Inflation mal vernachlässigt, welcher Film erzielte weltweit an den Kinokassen die höchsten Einnahmen?",
    "sort": "ascending",
    "subtype": "most/least",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3101,23 +3101,23 @@
   {
    "answers": [
     {
-     "text": "Sydney Opera House",
+     "text": "Das Sydney Opera House",
      "value": "1973"
     },
     {
-     "text": "Christ the Redeemer",
+     "text": "Cristo Redentor",
      "value": "1931"
     },
     {
-     "text": "The Hollywood Sign",
+     "text": "Das Hollywood Sign",
      "value": "1923"
     },
     {
-     "text": "The Eiffel Tower",
+     "text": "Der Eiffelturm",
      "value": "1889"
     },
     {
-     "text": "The Statue of Liberty",
+     "text": "Die Freiheitsstatue",
      "value": "1886"
     },
     {
@@ -3129,7 +3129,7 @@
      "value": "1653"
     },
     {
-     "text": "Leaning Tower of Pisa",
+     "text": "Der schiefe Turm von Pisa",
      "value": "1372"
     },
     {
@@ -3137,30 +3137,30 @@
      "value": "537"
     },
     {
-     "text": "The Colosseum",
+     "text": "Das Kolloseum",
      "value": "80"
     },
     {
-     "text": "The Parthenon",
+     "text": "Der Parthenon",
      "value": "40"
     },
     {
-     "text": "Persepolis",
+     "text": "Persepolis ",
      "value": "5"
     },
     {
-     "text": "The Great Pyramid of Giza",
+     "text": "Die Pyramiden von Gizeh",
      "value": "0"
     }
    ],
    "category": "Geography & Landmarks",
    "id": "84272",
    "isValid": "",
-   "prompt": "Which famous landmark or cultural site completed construction more recently?",
+   "prompt": "Welches berühmte Wahrzeichen oder Kulturstätte wurde zuletzt fertiggestellt?",
    "sort": "descending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3359,41 +3359,41 @@
    "category": "History",
    "id": "84392",
    "isValid": "",
-   "prompt": "Which English nobility title has a higher ranking?",
+   "prompt": "Welcher Englischer Adelstitel hat den höchsten Stand?",
    "sort": "ascending",
    "subtype": "closest",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "[i]Star Wars: A New Hope[/i]",
+     "text": "[i]Star Wars: Eine neue Hoffnung[/i]",
      "value": "1977"
     },
     {
-     "text": "[i]Star Wars: The Empire Strikes Back[/i]",
+     "text": "[i]Star Wars: Das Imperium schlägt zurück[/i]",
      "value": "1980"
     },
     {
-     "text": "[i]Star Wars: Return of the Jedi[/i]",
+     "text": "[i]Star Wars: Die Rückkehr der Jedi-Ritter[/i]",
      "value": "1983"
     },
     {
-     "text": "[i]Star Wars: The Phantom Menace[/i]",
+     "text": "[i]Star Wars: Die dunkle Bedrohung[/i]",
      "value": "1999"
     },
     {
-     "text": "[i]Star Wars: Attack of the Clones[/i]",
+     "text": "[i]Star Wars: Angriff der Klonkrieger[/i]",
      "value": "2002"
     },
     {
-     "text": "[i]Star Wars: Revenge of the Sith[/i]",
+     "text": "[i]Star Wars: Die Rache der Sith[/i]",
      "value": "2005"
     },
     {
-     "text": "[i]Star Wars: The Force Awakens[/i]",
+     "text": "[i]Star Wars: Das Erwachen der Macht[/i]",
      "value": "2015"
     },
     {
@@ -3401,7 +3401,7 @@
      "value": "2016"
     },
     {
-     "text": "[i]Star Wars: The Last Jedi[/i]",
+     "text": "[i]Star Wars: Die letzten Jedi[/i]",
      "value": "2017"
     },
     {
@@ -3409,18 +3409,18 @@
      "value": "2018"
     },
     {
-     "text": "[i]Star Wars: The Rise of Skywalker[/i]",
+     "text": "[i]Star Wars: Der Aufstieg Skywalkers[/i]",
      "value": "2019"
     }
    ],
    "category": "Film & TV",
    "id": "84427",
    "isValid": "",
-   "prompt": "Which [i]Star Wars[/i] movie was released more recently?",
+   "prompt": "Welcher Film der [i]Star Wars[/i]-Reihe wurde zuletzt veröffentlicht?",
    "sort": "descending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
