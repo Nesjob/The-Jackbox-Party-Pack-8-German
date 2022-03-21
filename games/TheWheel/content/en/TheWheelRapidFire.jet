@@ -4422,7 +4422,7 @@
   {
    "answers": [
     {
-     "text": "Contemporary Art",
+     "text": "Zeitgenössische Kunst",
      "value": "1970"
     },
     {
@@ -4430,11 +4430,11 @@
      "value": "1950"
     },
     {
-     "text": "Abstract Expressionism",
+     "text": "Abstrakter Expressionismus",
      "value": "1940"
     },
     {
-     "text": "Surrealism",
+     "text": "Surrealismus",
      "value": "1917"
     },
     {
@@ -4442,35 +4442,35 @@
      "value": "1909"
     },
     {
-     "text": "Cubism",
+     "text": "Kubismus",
      "value": "1907"
     },
     {
-     "text": "Expressionism",
+     "text": "Expressionismus",
      "value": "1905"
     },
     {
-     "text": "Post-Impressionism",
+     "text": "Post-Impressionismus",
      "value": "1885"
     },
     {
-     "text": "Impressionism",
+     "text": "Impressionismus",
      "value": "1865"
     },
     {
-     "text": "Romanticism",
+     "text": "Romantik",
      "value": "1780"
     },
     {
-     "text": "Neoclassicism",
+     "text": "Klassizismus",
      "value": "1750"
     },
     {
-     "text": "Rococo",
+     "text": "Rokoko",
      "value": "1699"
     },
     {
-     "text": "Baroque",
+     "text": "Barock",
      "value": "1600"
     },
     {
@@ -4478,18 +4478,18 @@
      "value": "1400"
     },
     {
-     "text": "Medieval art",
+     "text": "Mittelalterliche Kunst",
      "value": "500"
     }
    ],
    "category": "Art",
    "id": "85480",
    "isValid": "",
-   "prompt": "Which of these Western art movements was launched more recently?",
+   "prompt": "Welche dieser künstlerischen Bewegungen wurde zuletzt ins Leben gerufen?",
    "sort": "descending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4625,15 +4625,15 @@
   {
    "answers": [
     {
-     "text": "[i]The Odyssey[/i]",
+     "text": "[i]Odyssee[/i]",
      "value": "-725"
     },
     {
-     "text": "[i]Kama Sutra[/i]",
+     "text": "[i]Kamasutra[/i]",
      "value": "-400"
     },
     {
-     "text": "[i]Divine Comedy[/i]",
+     "text": "[i]Göttliche Komödie[/i]",
      "value": "1320"
     },
     {
@@ -4641,27 +4641,27 @@
      "value": "1603"
     },
     {
-     "text": "[i]Pride and Prejudice[/i]",
+     "text": "[i]Stolz und Vorurteil[/i]",
      "value": "1813"
     },
     {
-     "text": "[i]The Great Gatsby[/i]",
+     "text": "[i]Der große Gatsby[/i]",
      "value": "1925"
     },
     {
-     "text": "[i]Charlotte's Web[/i]",
+     "text": "[i]Wilbur und Charlotte[/i]",
      "value": "1952"
     },
     {
-     "text": "Toni Morrison’s [i]Song of Solomon[/i]",
+     "text": "Toni Morrison’s [i]Solomons Lied[/i]",
      "value": "1977"
     },
     {
-     "text": "[i]It[/i]",
+     "text": "[i]Es[/i]",
      "value": "1986"
     },
     {
-     "text": "[i]Harry Potter and the Sorcerer's Stone[/i]",
+     "text": "[i]Harry Potter und der Stein der Weisen[/i]",
      "value": "1997"
     },
     {
@@ -4669,18 +4669,18 @@
      "value": "2006"
     },
     {
-     "text": "[i]Gone Girl[/i]",
+     "text": "[i]Gone Girl - Das perfekte Opfer[/i]",
      "value": "2012"
     }
    ],
    "category": "Literature",
    "id": "85664",
    "isValid": "",
-   "prompt": "Which famous text was released first?",
+   "prompt": "Welcher bekannte Text wurde zuerst veröffentlicht?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4885,7 +4885,7 @@
      "value": "1"
     },
     {
-     "text": "Peter the Great",
+     "text": "Peter der Große",
      "value": "2"
     },
     {
@@ -4917,11 +4917,11 @@
      "value": "9"
     },
     {
-     "text": "Napolean Bonaparte",
+     "text": "Napoleon Bonaparte",
      "value": "10"
     },
     {
-     "text": "Joseph Stalin",
+     "text": "Josef Stalin",
      "value": "11"
     },
     {
@@ -4929,83 +4929,83 @@
      "value": "11"
     },
     {
-     "text": "Joan of Arc",
+     "text": "Johanna von Orléans",
      "value": "12"
     },
     {
-     "text": "Queen Victoria",
+     "text": "Königin Viktoria",
      "value": "13"
     }
    ],
    "category": "Historical Figures",
    "id": "85759",
    "isValid": "",
-   "prompt": "Which of these historical figures are closest in height to Andre the Giant (7 feet, 4 inches tall)?",
+   "prompt": "Welche dieser historischen Personen kommt annährend an die Größe des Wrestlers André the Giant heran? (2,24m)",
    "sort": "ascending",
    "subtype": "closest",
    "unit": "(closest to 7 feet, 4 inches tall)",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "[i]The Carol Burnett Show[/i]",
-     "value": "1967"
+     "text": "[i]extra 3[/i]",
+     "value": "1976"
     },
     {
-     "text": "[i]Saturday Night Live[/i]",
-     "value": "1975"
-    },
-    {
-     "text": "[i]Fridays[/i]",
+     "text": "[i]Verstehen Sie Spaß?[/i]",
      "value": "1980"
     },
     {
-     "text": "[i]The Kids In The Hall[/i]",
-     "value": "1988"
+     "text": "[i]Bullyparade[/i]",
+     "value": "1997"
     },
     {
-     "text": "[i]In Living Color[/i]",
-     "value": "1990"
-    },
-    {
-     "text": "[i]All That[/i]",
-     "value": "1994"
-    },
-    {
-     "text": "[i]Mad TV[/i]",
-     "value": "1995"
-    },
-    {
-     "text": "[i]The Amanda Show[/i]",
+     "text": "[i]TV total[/i]",
      "value": "1999"
     },
     {
-     "text": "[i]Chapelle's Show[/i]",
-     "value": "2003"
+     "text": "[i]Nightwash[/i]",
+     "value": "2001"
     },
     {
-     "text": "[i]Portlandia[/i]",
+     "text": "[i]Ladykracher[/i]",
+     "value": "2002"
+    },
+    {
+     "text": "[i]Switch reloaded[/i]",
+     "value": "2007"
+    },
+    {
+     "text": "[i]Kesslers Knigge[/i]",
+     "value": "2009"
+    },
+    {
+     "text": "[i]Knallerfrauen[/i]",
      "value": "2011"
     },
     {
-     "text": "[i]The Eric Andre Show[/i]",
-     "value": "2012"
+     "text": "[i]Neo Magazin Royale[/i]",
+     "value": "2013"
     },
     {
-     "text": "[i]Drunk History[/i]",
-     "value": "2013"
+     "text": "[i]Luke! Die Woche und ich[/i]",
+     "value": "2015"
+    },
+    {
+     "text": "[i]Joko & Klaas gegen ProSieben[/i]",
+     "value": "2019"
     }
    ],
    "category": "Film & TV",
    "id": "85760",
    "isValid": "",
-   "prompt": "Which sketch comedy show came out first?",
+   "prompt": "Welche dieser TV-Comedy Serien wurde zuerst ausgestrahlt?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
