@@ -1,0 +1,47 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "A",
+      "v": "intro",
+      "n": "IntroAudio",
+      "s": "For our next question, I need you to hum the [i]Jurassic Park[/i] theme music to yourself veeeeeery quietly. Even an omnipotent Wheel such as myself is subject to copyright violations!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "Welches sind echte Dinosaurier?"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFollowupAudio"
+    },
+    {
+      "t": "A",
+      "v": "followup",
+      "n": "FollowupAudio",
+      "s": "Not to bring down the mood or anything, but many of these creatures were once my friends..."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "A",
+      "v": "outro",
+      "n": "OutroAudio"
+    }
+  ]
+}

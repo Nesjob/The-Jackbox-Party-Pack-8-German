@@ -1,0 +1,47 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "A",
+      "v": "intro",
+      "n": "IntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "Wobei handelt es sich um traditionelle Werkzeuge für die Vampir-Bekämpfung?"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFollowupAudio"
+    },
+    {
+      "t": "A",
+      "v": "followup",
+      "n": "FollowupAudio",
+      "s": "You never know when they might come in handy."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "A",
+      "v": "outro",
+      "n": "OutroAudio",
+      "s": "In case you're curious, tying them to a wheel and spinning it at a high rate of speed does NOT kill them. But they get super dizzy and it's hilarious."
+    }
+  ]
+}

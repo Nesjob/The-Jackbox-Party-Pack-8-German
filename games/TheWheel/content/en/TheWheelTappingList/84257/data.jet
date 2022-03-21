@@ -1,0 +1,47 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "A",
+      "v": "intro",
+      "n": "IntroAudio",
+      "s": "Alright, now who's into [i]Game of Thrones[/i]?"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "Welches sind echte “[i]Müller Milchreis Original[/i]”-Sorten?"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFollowupAudio"
+    },
+    {
+      "t": "A",
+      "v": "followup",
+      "n": "FollowupAudio",
+      "s": "Ahh, Wylis, my favorite character! I think he had a fun little nickname, but I can't remember what it is..."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "A",
+      "v": "outro",
+      "n": "OutroAudio"
+    }
+  ]
+}

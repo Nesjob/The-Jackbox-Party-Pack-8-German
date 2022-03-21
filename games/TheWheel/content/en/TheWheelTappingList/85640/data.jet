@@ -1,0 +1,47 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "A",
+      "v": "intro",
+      "n": "IntroAudio",
+      "s": "Another question for my happy campers! Get it? Well, you will in about five seconds."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "Welche dieser Dinge sollte man laut dem [i]Bundesamt für Bevölkerungsschutz[/i] jederzeit als Notgepäck vorbereitet haben?"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFollowupAudio"
+    },
+    {
+      "t": "A",
+      "v": "followup",
+      "n": "FollowupAudio",
+      "s": "As in hiking in the wilderness, not gallivanting throughout Europe."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "A",
+      "v": "outro",
+      "n": "OutroAudio"
+    }
+  ]
+}

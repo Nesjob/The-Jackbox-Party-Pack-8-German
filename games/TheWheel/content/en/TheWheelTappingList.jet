@@ -411,49 +411,55 @@
   {
    "answers": [
     {
-     "text": "[i]Almost, Maine[/i]"
+     "text": "Kartoffel"
     },
     {
-     "text": "[i]Beauty and the Beast[/i]"
+     "text": "Tomate"
     },
     {
-     "text": "[i]Our Town[/i]"
+     "text": "Paprika"
     },
     {
-     "text": "[i]The Crucible[/i]"
+     "text": "Aubergine"
     },
     {
-     "text": "[i]10 Ways to Survive the Zombie Apocalypse[/i]"
+     "text": "Tollkirsche"
     },
     {
-     "text": "[i]Into the Woods[/i]"
+     "text": "Tabakpflanze"
     },
     {
-     "text": "[i]Shrek[/i]"
+     "text": "Garten-Petunie"
     },
     {
-     "text": "[i]A Midsummer Night's Dream[/i]"
+     "text": "Engelstrompete"
     }
    ],
-   "category": "Theatre/Performing Arts",
+   "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "[i]Rent[/i]"
+     "text": "Krokus"
     },
     {
-     "text": "[i]Oedipus Rex[/i]"
+     "text": "Zucchini"
     },
     {
-     "text": "[i]Death of a Salesman[/i]"
+     "text": "Karotte"
     },
     {
-     "text": "[i]Hardly, Montana[/i]"
+     "text": "Hanfpflanze"
+    },
+    {
+     "text": "Hopfen"
+    },
+    {
+     "text": "Damen-Tulpe"
     }
    ],
    "id": "76756",
    "isValid": "",
-   "prompt": "Which of these titles are 2019's most-performed plays by high schoolers?",
-   "us": true,
+   "prompt": "Bei welchen dieser Pflanzen handelt es sich um [i]Nachtschattengewächse[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -522,55 +528,55 @@
   {
    "answers": [
     {
-     "text": "hammer curl"
+     "text": "Trizepsdrücken am Kabelzug"
     },
     {
-     "text": "chin-up"
+     "text": "Arnold Dips"
     },
     {
-     "text": "suspension trainer tricep extension"
+     "text": "Konzentrationscurls"
     },
     {
-     "text": "spider curl"
+     "text": "Spider Curls"
     },
     {
-     "text": "skull crusher"
+     "text": "Stirndrücken"
     },
     {
-     "text": "pull-up"
+     "text": "Klimmzüge"
     },
     {
-     "text": "rope tricep pushdown"
+     "text": "Kabelcurls"
     },
     {
-     "text": "close-grip bench press"
+     "text": "SZ-Curls"
     },
     {
-     "text": "Tate press"
+     "text": "Hammer Curls"
     },
     {
-     "text": "bench dips"
+     "text": "Handgelenkstrecken"
     }
    ],
    "category": "Anatomy",
    "decoys": [
     {
-     "text": "skater squat"
+     "text": "Skater Squats"
     },
     {
-     "text": "dead bug"
+     "text": "Toter Käfer"
     },
     {
-     "text": "cat-cow"
+     "text": "Cat-Cow"
     },
     {
-     "text": "pelvic tilt"
+     "text": "Beckenneigung"
     }
    ],
    "id": "76763",
    "isValid": "",
-   "prompt": "Which of these are exercises for the arms?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um Übungen für die Arme?",
+   "us": false,
    "x": false
   },
   {
@@ -942,55 +948,73 @@
   {
    "answers": [
     {
-     "text": "the way you talk to me"
+     "text": "Pantherpilz"
     },
     {
-     "text": "the way you cut your hair"
+     "text": "Schönfuß-Röhrling"
     },
     {
-     "text": "the way you drive my car"
+     "text": "Winterrübling"
     },
     {
-     "text": "when you stare"
+     "text": "Zitzenschirmpilz"
     },
     {
-     "text": "your big, dumb combat boots"
+     "text": "Erdschieber"
     },
     {
-     "text": "the way you read my mind"
+     "text": "Schusterpilz"
     },
     {
-     "text": "the way you're always right"
+     "text": "Blauer Lackpilz"
     },
     {
-     "text": "when you make me laugh"
+     "text": "Heiderotkappe"
     },
     {
-     "text": "the way I don't hate you"
+     "text": "Grauer Scheidenstreifling"
+    },
+    {
+     "text": "Pfifferling"
     }
    ],
-   "category": "Film & TV",
+   "category": "Factoids",
    "decoys": [
     {
-     "text": "the way you mansplain"
+     "text": "Orangener Lackpilz"
     },
     {
-     "text": "your tribal arm tattoo"
+     "text": "Katzenschweif"
     },
     {
-     "text": "how you really care"
+     "text": "Roter Schönling"
     },
     {
-     "text": "the way you stifle a sneeze"
+     "text": "Jakobusohr"
     },
     {
-     "text": "when you brag about volunteering at an animal shelter"
+     "text": "Kaiserrübling"
+    },
+    {
+     "text": "Großer Vasenschwamm"
+    },
+    {
+     "text": "Zitronendornkappe"
+    },
+    {
+     "text": "Pferdefeige"
+    },
+    {
+     "text": "Pigmentierter Lackpilz"
+    },
+    {
+     "text": "Kameradenkappe"
     }
    ],
    "id": "76774",
    "isValid": "",
-   "prompt": "Which of these are the hated things from the movie [i]10 Things I Hate About You[/i]?",
-   "us": true,
+   "prompt": "Welches sind echte [i]Pilze[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -1632,58 +1656,58 @@
   {
    "answers": [
     {
-     "text": "burgundy"
+     "text": "Scharlachrot"
     },
     {
-     "text": "auburn"
+     "text": "Karminrot"
     },
     {
-     "text": "puce"
+     "text": "Zinnoberrot"
     },
     {
-     "text": "vermilion"
+     "text": "Permanentrot"
     },
     {
-     "text": "scarlet"
+     "text": "Feuerrot"
     },
     {
-     "text": "garnet"
+     "text": "Cadmiumrot"
     },
     {
-     "text": "crimson"
+     "text": "Saturnrot"
     },
     {
-     "text": "cherry"
+     "text": "Pariser Rot"
     },
     {
-     "text": "wine"
+     "text": "Mittelrot"
     },
     {
-     "text": "currant"
+     "text": "Blutrot"
     }
    ],
    "category": "Art",
    "decoys": [
     {
-     "text": "azure"
+     "text": "Azurrot"
     },
     {
-     "text": "cerulean"
+     "text": "Kobaltrot"
     },
     {
-     "text": "chartreuse"
+     "text": "Heliogenrot"
     },
     {
-     "text": "juniper"
+     "text": "Juniperrot"
     },
     {
-     "text": "cobalt"
+     "text": "Horizontrot"
     }
    ],
    "id": "76822",
    "isValid": "",
-   "prompt": "Which colors are shades of red?",
-   "us": true,
+   "prompt": "Welche Farben sind Rottöne?",
+   "us": false,
    "x": false
   },
   {
@@ -2199,52 +2223,49 @@
   {
    "answers": [
     {
-     "text": "“The Raven”"
+     "text": "Pippilotta"
     },
     {
-     "text": "“The Black Cat”"
+     "text": "Viktualia"
     },
     {
-     "text": "“The Tell-Tale Heart”"
+     "text": "Rollgardina"
     },
     {
-     "text": "“The Haunted Palace”"
+     "text": "Pfefferminz"
     },
     {
-     "text": "“The Premature Burial”"
-    },
-    {
-     "text": "“The Purloined Letter”"
-    },
-    {
-     "text": "“The Pit and the Pendulum”"
-    },
-    {
-     "text": "“The Masque of the Red Death”"
+     "text": "Efraimstochter"
     }
    ],
    "category": "Literature",
    "decoys": [
     {
-     "text": "“The Guilt”"
+     "text": "Estefania"
     },
     {
-     "text": "“The Stand”"
+     "text": "Emillota"
     },
     {
-     "text": "“The Dark Tower”"
+     "text": "Karolita"
     },
     {
-     "text": "“The Magician’s Nephew”"
+     "text": "Colorado"
     },
     {
-     "text": "“The Owl and the Pussy-Cat”"
+     "text": "Annika"
+    },
+    {
+     "text": "Philippina"
+    },
+    {
+     "text": "Tellicherry"
     }
    ],
    "id": "76863",
    "isValid": "",
-   "prompt": "Which poems or stories are by Edgar Allen Poe?",
-   "us": true,
+   "prompt": "Welches sind Vornamen von Pippi Langstrumpf?",
+   "us": false,
    "x": false
   },
   {
@@ -2298,64 +2319,52 @@
   {
    "answers": [
     {
-     "text": "maxillary central incisor"
+     "text": "Troposphäre"
     },
     {
-     "text": "maxillary lateral incisor"
+     "text": "Stratosphäre"
     },
     {
-     "text": "maxillary canine"
+     "text": "Mesosphäre"
     },
     {
-     "text": "maxillary first premolar"
+     "text": "Thermosphäre"
     },
     {
-     "text": "maxillary second premolar"
-    },
-    {
-     "text": "maxillary first molar"
-    },
-    {
-     "text": "mandibular central incisor"
-    },
-    {
-     "text": "mandibular cuspid"
-    },
-    {
-     "text": "mandibular third molar"
-    },
-    {
-     "text": "mandibular canine"
-    },
-    {
-     "text": "mandibular second premolar"
+     "text": "Exosphäre"
     }
    ],
-   "category": "Anatomy",
+   "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "mandibular maxillary"
+     "text": "Mikrosphäre"
     },
     {
-     "text": "mandibular third wisdom"
+     "text": "Halosphäre"
     },
     {
-     "text": "wolf tooth"
+     "text": "Lithosphäre"
     },
     {
-     "text": "maximus teethicius"
+     "text": "Luftosphäre"
     },
     {
-     "text": "candible chompercillium"
+     "text": "Filosphäre"
     },
     {
-     "text": "the gummy works"
+     "text": "Nubesphäre"
+    },
+    {
+     "text": "Felhósphäre"
+    },
+    {
+     "text": "Asthenosphäre"
     }
    ],
    "id": "76883",
    "isValid": "",
-   "prompt": "Which ones are actual teeth in the human mouth?",
-   "us": true,
+   "prompt": "Welches sind Schichten der Erdatmosphäre?",
+   "us": false,
    "x": false
   },
   {
@@ -3366,49 +3375,64 @@
   {
    "answers": [
     {
-     "text": "Solomon"
+     "text": "Löffelente"
     },
     {
-     "text": "Hercules"
+     "text": "Nachtigall"
     },
     {
-     "text": "Atlas"
+     "text": "Rotfußfalke"
     },
     {
-     "text": "Zeus"
+     "text": "Raubwürger"
     },
     {
-     "text": "Achilles"
+     "text": "Singdrossel"
     },
     {
-     "text": "Mercury"
+     "text": "Kuckuck"
+    },
+    {
+     "text": "Blaukehlchen"
+    },
+    {
+     "text": "Wachtel"
     }
    ],
-   "category": "Animation/Comic Books",
+   "category": "Animals",
    "decoys": [
     {
-     "text": "Hera"
+     "text": "Elster"
     },
     {
-     "text": "Aphrodite"
+     "text": "Habicht"
     },
     {
-     "text": "Moses"
+     "text": "Kleiber"
     },
     {
-     "text": "Samson"
+     "text": "Erlenzeisig"
     },
     {
-     "text": "Abraham"
+     "text": "Gimpel"
     },
     {
-     "text": "Zelda"
+     "text": "Haussperling"
+    },
+    {
+     "text": "Haubenmeise"
+    },
+    {
+     "text": "Türkentaube"
+    },
+    {
+     "text": "Buntspecht"
     }
    ],
    "id": "77357",
    "isValid": "",
-   "prompt": "What are the immortal elder names used in the acronym S.H.A.Z.A.M.?",
-   "us": true,
+   "prompt": "Welche dieser Vogelarten sind in unseren Breiten Zugvögel?",
+   "us": false,
    "x": false
   },
   {
@@ -3591,55 +3615,70 @@
   {
    "answers": [
     {
-     "text": "ghouls"
+     "text": "Doom Metal"
     },
     {
-     "text": "vampires"
+     "text": "Thrash Metal"
     },
     {
-     "text": "Dracula"
+     "text": "Kawaii Metal"
     },
     {
-     "text": "Dracula's Son"
+     "text": "Mathcore"
     },
     {
-     "text": "Wolfman"
+     "text": "Rap Metal"
     },
     {
-     "text": "zombies"
+     "text": "Viking Metal"
     },
     {
-     "text": "Igor"
+     "text": "Heavy Metal"
     },
     {
-     "text": "baying hounds"
+     "text": "Christlicher Metal"
     },
     {
-     "text": "coffin-bangers"
+     "text": "Goregrind"
+    },
+    {
+     "text": "Symphonic Metal"
     }
    ],
    "category": "Music",
    "decoys": [
     {
-     "text": "mummies"
+     "text": "Trash Metal"
     },
     {
-     "text": "aliens"
+     "text": "Demon Metal"
     },
     {
-     "text": "Swamp Thing"
+     "text": "Zombie Metal"
     },
     {
-     "text": "skeletons"
+     "text": "Blacked Djent"
     },
     {
-     "text": "spooky birds"
+     "text": "Bowelgrind"
+    },
+    {
+     "text": "Power Core"
+    },
+    {
+     "text": "Progressive Nu Metal"
+    },
+    {
+     "text": "Christian Worship Metal"
+    },
+    {
+     "text": "Bondage Metal"
     }
    ],
    "id": "77644",
    "isValid": "",
-   "prompt": "Which creatures are mentioned in the “Monster Mash”?",
-   "us": true,
+   "prompt": "Welches sind echte Stilrichtungen des Metal?",
+   "us": false,
    "x": false
   },
   {
@@ -3651,13 +3690,13 @@
      "text": "Megalon"
     },
     {
-     "text": "Gabara"
+     "text": "Gabarah"
     },
     {
      "text": "Titanosaurus"
     },
     {
-     "text": "King Caesar"
+     "text": "König Caesar"
     },
     {
      "text": "SpaceGodzilla"
@@ -3669,22 +3708,22 @@
      "text": "Mothra"
     },
     {
-     "text": "King Ghidorah"
+     "text": "König Ghidorah"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "Queen Penelope"
+     "text": "Königin Penelope"
     },
     {
      "text": "Lizardzoid"
     },
     {
-     "text": "Cerberus"
+     "text": "Kerberus"
     },
     {
-     "text": "Clawmaster"
+     "text": "Klauenteufel"
     },
     {
      "text": "Lharb"
@@ -3695,7 +3734,7 @@
    ],
    "id": "77645",
    "isValid": "",
-   "prompt": "Which of these are monsters that fought Godzilla?",
+   "prompt": "Welches davon sind Monster, die gegen Godzilla gekämpft haben?",
    "us": true,
    "x": false
   },
@@ -3900,7 +3939,7 @@
    "category": "Celebrities",
    "decoys": [
     {
-     "text": "Menderes Bağci"
+     "text": "Menderes Bagci"
     },
     {
      "text": "Jeannine Rossi"
@@ -4383,100 +4422,109 @@
   {
    "answers": [
     {
-     "text": "Florida"
+     "text": "[i]Das Fernsehgericht tagt[/i]"
     },
     {
-     "text": "Thelma"
+     "text": "[i]Königlich Bayerisches Amtsgericht[/i]"
     },
     {
-     "text": "Willona"
+     "text": "[i]Ehen vor Gericht[/i]"
     },
     {
-     "text": "J.J."
+     "text": "[i]Verkehrsgericht[/i]"
     },
     {
-     "text": "James"
+     "text": "[i]Streit um drei[/i]"
     },
     {
-     "text": "Michael"
+     "text": "[i]Richterin Barbara Salesch[/i]"
     },
     {
-     "text": "Nathan"
+     "text": "[i]Das Strafgericht[/i]"
+    },
+    {
+     "text": "[i]Das Familiengericht[/i]"
+    },
+    {
+     "text": "[i]Das Jugendgericht[/i]"
+    },
+    {
+     "text": "[i]Richter Alexander Hold[/i]"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "Winifred"
+     "text": "[i]Richterin Idina Menzel[/i]"
     },
     {
-     "text": "Jameson"
+     "text": "[i]Hof der Gerechtigkeit[/i]"
     },
     {
-     "text": "Ethel"
+     "text": "[i]Der Strafgerichtshof[/i]"
     },
     {
-     "text": "Virgina"
+     "text": "[i]Schuldig im Sinne der Anklage[/i]"
     },
     {
-     "text": "George"
+     "text": "[i]Mediatoren im Einsatz[/i]"
     },
     {
-     "text": "Beebee"
+     "text": "[i]Richter in Deutschland - Echte Fälle & echte Urteile[/i]"
     }
    ],
    "id": "77687",
    "isValid": "",
-   "prompt": "Which characters were series regulars on the ’70s sitcom [i]Good Times[/i]?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um echte Gerichtssendungen im deutschen Fernsehen?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "[i]The 400 Blows[/i]"
+     "text": "[i]Sie küßten und sie schlugen ihn[/i]"
     },
     {
-     "text": "[i]Cleo From 5 to 7[/i]"
+     "text": "[i]Cleo – Mittwoch zwischen 5 und 7[/i]"
     },
     {
-     "text": "[i]Breathless[/i]"
+     "text": "[i]Außer Atem[/i]"
     },
     {
-     "text": "[i]Hiroshima Mon Amour[/i]"
+     "text": "[i]Hiroshima, mon amour[/i]"
     },
     {
-     "text": "[i]Last Year at Marienbad[/i]"
+     "text": "[i]Letztes Jahr in Marienbad[/i]"
     },
     {
-     "text": "[i]Lola[/i]"
+     "text": "[i]Lola, das Mädchen aus dem Hafen[/i]"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "[i]Shrek 2[/i]"
+     "text": "[i]Shrek 2 – Der tollkühne Held kehrt zurück[/i]"
     },
     {
-     "text": "[i]The Graduate[/i]"
+     "text": "[i]Die Reifeprüfung[/i]"
     },
     {
-     "text": "[i]Valley of the Dolls[/i]"
+     "text": "[i]Das Tal der Puppen[/i]"
     },
     {
-     "text": "[i]Faces[/i]"
+     "text": "[i]Gesichter[/i]"
     },
     {
-     "text": "[i]The Room[/i]"
+     "text": "[i]Honig im Kopf[/i]"
     },
     {
-     "text": "[i]Soul Plane[/i]"
+     "text": "[i]Sonnenallee[/i]"
     }
    ],
    "id": "77689",
    "isValid": "",
-   "prompt": "Which films are from the French New Wave?",
-   "us": true,
+   "prompt": "Welche dieser Filme stammen aus der [i]Nouvelle Vague[/i], einer Stilrichtung des französischen Kinos?",
+   "us": false,
    "x": false
   },
   {
@@ -4551,55 +4599,61 @@
   {
    "answers": [
     {
-     "text": "Brookie-O"
+     "text": "Joghurt"
     },
     {
-     "text": "Java Chip"
+     "text": "Trauben-Nuss"
     },
     {
-     "text": "Birthday Cake"
+     "text": "Kuhflecken"
     },
     {
-     "text": "Chocolate"
+     "text": "Erdbeer"
     },
     {
-     "text": "Peanut Butter"
+     "text": "[i]Oreo[/i] White"
     },
     {
-     "text": "Carrot Cake"
+     "text": "[i]Oreo[/i] Sandwich"
     },
     {
-     "text": "Lemon"
+     "text": "Himbeer"
     },
     {
-     "text": "Caramel Coconut"
+     "text": "Caramel"
+    },
+    {
+     "text": "Luflée"
     }
    ],
    "category": "Food & Drink",
    "decoys": [
     {
-     "text": "Marzipan"
+     "text": "[i]TUC[/i] Lemon"
     },
     {
      "text": "Raspberry Cheesecake"
     },
     {
-     "text": "Banana Cream Pie"
+     "text": "Cherry Chère"
     },
     {
-     "text": "Spinach"
+     "text": "Schaumkuss"
     },
     {
-     "text": "Brown Sugar"
+     "text": "Mandel & Rosine"
     },
     {
-     "text": "Chamomile"
+     "text": "Currywurst"
+    },
+    {
+     "text": "Lakritz"
     }
    ],
    "id": "77762",
    "isValid": "",
-   "prompt": "Which of these are real Oreo flavors?",
-   "us": true,
+   "prompt": "Welches sind echte Geschmackssorten von [i]Milka[/i]-Schokoladentafeln?",
+   "us": false,
    "x": false
   },
   {
@@ -4665,82 +4719,88 @@
   {
    "answers": [
     {
-     "text": "[i]The Civil War[/i]"
+     "text": "[i]Galileo[/i]"
     },
     {
-     "text": "[i]Baseball[/i]"
+     "text": "[i]W wie Wissen[/i]"
     },
     {
-     "text": "[i]Lewis & Clark[/i]"
+     "text": "[i]Quarks[/i]"
     },
     {
-     "text": "[i]Jazz[/i]"
+     "text": "[i]Planet Wissen[/i]"
     },
     {
-     "text": "[i]The Vietnam War[/i]"
+     "text": "[i]Pur+[/i]"
     },
     {
-     "text": "[i]Thomas Jefferson[/i]"
+     "text": "[i]Alles Wissen[/i]"
     },
     {
-     "text": "[i]Mark Twain[/i]"
+     "text": "[i]Welt der Wunder[/i]"
     },
     {
-     "text": "[i]The Dust Bowl[/i]"
+     "text": "[i]Nano[/i]"
     },
     {
-     "text": "[i]Prohibition[/i]"
+     "text": "[i]Leschs Kosmos[/i]"
+    },
+    {
+     "text": "[i]Wissen macht Ah![/i]"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "[i]Potatoes![/i]"
+     "text": "[i]Wissen![/i]"
     },
     {
-     "text": "[i]Indian Ocean: The Small Ocean[/i]"
+     "text": "[i]Besser Wissen[/i]"
     },
     {
-     "text": "[i]Destiny's Child: An American Dynasty[/i]"
+     "text": "[i]Wissen ist Macht[/i]"
     },
     {
-     "text": "[i]The Dude Who Invented Windex[/i]"
+     "text": "[i]Mikro[/i]"
     },
     {
-     "text": "[i]L.L. Bean[/i]"
+     "text": "[i]Ratio[/i]"
     },
     {
-     "text": "[i]Beer Pong[/i]"
+     "text": "[i]Logisch![/i]"
+    },
+    {
+     "text": "[i]GlasKlar[/i]"
     }
    ],
    "id": "77796",
    "isValid": "",
-   "prompt": "Which of these are real Ken Burns documentaries?",
-   "us": true,
+   "prompt": "Welches sind echte Wissenssendungen im deutschen Fernsehen?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "[i]The Big Chill[/i]"
+     "text": "[i]Der große Frust[/i]"
     },
     {
-     "text": "[i]The Natural[/i]"
+     "text": "[i]Der Unbeugsame[/i]"
     },
     {
-     "text": "[i]Fatal Attraction[/i]"
+     "text": "[i]Eine verhängnisvolle Affäre[/i]"
     },
     {
-     "text": "[i]Dangerous Liaisons[/i]"
+     "text": "[i]Gefährliche Liebschaften[/i]"
     },
     {
-     "text": "[i]The Wife[/i]"
+     "text": "[i]Die Frau des Nobelpreisträgers[/i]"
     },
     {
-     "text": "[i]Hillbilly Elegy[/i]"
+     "text": "[i]Hillbilly-Elegie[/i]"
     },
     {
-     "text": "[i]The World According to Garp[/i]"
+     "text": "[i]Garp und wie er die Welt sah[/i]"
     },
     {
      "text": "[i]Albert Nobbs[/i]"
@@ -4749,21 +4809,21 @@
    "category": "Celebrities",
    "decoys": [
     {
-     "text": "[i]101 Dalmatians[/i]"
+     "text": "[i]101 Dalmatiner[/i]"
     },
     {
-     "text": "[i]102 Dalmatians[/i]"
+     "text": "[i]102 Dalmatianer[/i]"
     },
     {
-     "text": "[i]Sarah, Plain and Tall[/i]"
+     "text": "[i]Ein Meer für Sarah[/i]"
     },
     {
-     "text": "[i]Alfred Molina's Acting Challenge[/i]"
+     "text": "[i]Alfred Molina's Schauspielschule[/i]"
     }
    ],
    "id": "77821",
    "isValid": "",
-   "prompt": "For which films did Glenn Close receive an Oscar nomination?",
+   "prompt": "Für welche Filme erhielt Glenn Close eine Oscar-Nominierung?",
    "us": true,
    "x": false
   },
@@ -4818,55 +4878,52 @@
   {
    "answers": [
     {
-     "text": "Audrey Hepburn"
+     "text": "[i]Die Blechtrommel[/i]"
     },
     {
-     "text": "Mel Brooks"
+     "text": "[i]Nirgendwo in Afrika[/i]"
     },
     {
-     "text": "Whoopi Goldberg"
-    },
-    {
-     "text": "James Earl Jones"
-    },
-    {
-     "text": "John Legend"
-    },
-    {
-     "text": "Alan Menken"
-    },
-    {
-     "text": "Liza Minelli"
-    },
-    {
-     "text": "Rita Moreno"
+     "text": "[i]Das Leben der Anderen[/i]"
     }
    ],
-   "category": "Pop Culture",
+   "category": "Film & TV",
    "decoys": [
     {
-     "text": "Walt Disney"
+     "text": "[i]Das Versprechen[/i]"
     },
     {
-     "text": "John Travolta"
+     "text": "[i]Bittere Ernte[/i]"
     },
     {
-     "text": "Judy Garland"
+     "text": "[i]Die Brücke[/i]"
     },
     {
-     "text": "Meatloaf"
+     "text": "[i]Toni Erdmann[/i]"
     },
     {
-     "text": "Richard Pryor"
+     "text": "[i]Systemsprenger[/i]"
     },
     {
-     "text": "Cher"
+     "text": "[i]Die geliebten Schwestern[/i]"
+    },
+    {
+     "text": "[i]Mama, ich lebe[/i]"
+    },
+    {
+     "text": "[i]Die flambierte Frau[/i]"
+    },
+    {
+     "text": "[i]Werk ohne Autor[/i]"
+    },
+    {
+     "text": "[i]Das Boot[/i]"
     }
    ],
    "id": "77823",
    "isValid": "",
-   "prompt": "Which celebrities were EGOT recipients? (EGOT = Emmy, Grammy, Oscar, Tony)",
-   "us": true,
+   "prompt": "Welche dieser deutschen Filme gewannen den [i]Oscar[/i] als [i]bester internationaler Film[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -5100,49 +5157,58 @@
   {
    "answers": [
     {
-     "text": "Barb-a-loots"
+     "text": "[i]Wenn das Morgengrauen kommt[/i]"
     },
     {
-     "text": "Star-Bellied Sneetches"
+     "text": "[i]Wächter des Schreckens[/i]"
     },
     {
-     "text": "North-Going Zax"
+     "text": "[i]Meister der Mutanten[/i]"
     },
     {
-     "text": "Once-ler's Family"
+     "text": "[i]Die Geisterhöhle[/i]"
     },
     {
-     "text": "Whos"
+     "text": "[i]Das unheimliche Labor[/i]"
     },
     {
-     "text": "Swomee Swans"
+     "text": "[i]Der Schreckensfisch[/i]"
     },
     {
-     "text": "Hakken-Kraks"
+     "text": "[i]Der Schneemann geht um[/i]"
     },
     {
-     "text": "Green-bearded Schlottz"
+     "text": "[i]Fürchte dich sehr![/i]"
     }
    ],
    "category": "Literature",
    "decoys": [
     {
-     "text": "East-Going Zax"
+     "text": "[i]Alien-Panik[/i]"
     },
     {
-     "text": "Oompa Loompas"
+     "text": "[i]Kampf im Vollmondschein[/i]"
     },
     {
-     "text": "Gruffalo"
+     "text": "[i]Pass auf vor Bigfoot![/i]"
     },
     {
-     "text": "Great Whangdoodles"
+     "text": "[i]Der Schlaf der Medusa[/i]"
+    },
+    {
+     "text": "[i]Der Fluch liegt im Schatten[/i]"
+    },
+    {
+     "text": "[i]Der wilde Jäger[/i]"
+    },
+    {
+     "text": "[i]Küsse zum Morgengrauen[/i]"
     }
    ],
    "id": "77945",
    "isValid": "",
-   "prompt": "Which of these are creatures from the mind of Dr. Seuss?",
-   "us": true,
+   "prompt": "Welche dieser Titel gehören zu echten Büchern aus der [i]Gänsehaut[/i]-Reihe?",
+   "us": false,
    "x": false
   },
   {
@@ -5790,73 +5856,73 @@
   {
    "answers": [
     {
-     "text": "Wet Seal"
+     "text": "Cordelia"
     },
     {
-     "text": "Limited Too"
+     "text": "Ophelia"
     },
     {
-     "text": "Delia's"
+     "text": "Bianca"
     },
     {
-     "text": "Hot Topic"
+     "text": "Juliet"
     },
     {
-     "text": "Claire's"
+     "text": "Ariel"
     },
     {
-     "text": "Spencer's"
+     "text": "Margaret"
     },
     {
-     "text": "Aéropostale"
+     "text": "Titania"
     },
     {
-     "text": "Hollister"
+     "text": "Miranda"
     },
     {
-     "text": "Build-A-Bear Workshop"
+     "text": "Rosalind"
     },
     {
-     "text": "Journey’s"
-    },
-    {
-     "text": "Charlotte Russe"
-    },
-    {
-     "text": "Buckle"
+     "text": "Belinda"
     }
    ],
-   "category": "Companies & Brands",
+   "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "Abernathy & Funk"
+     "text": "Sophie"
     },
     {
-     "text": "Make-A-Mole Factory"
+     "text": "Freya"
     },
     {
-     "text": "High End Socks"
+     "text": "Ava"
     },
     {
-     "text": "Slacks! Slacks! Slacks!"
+     "text": "Olivia"
     },
     {
-     "text": "Quantum Phys-kicks"
+     "text": "Alise"
     },
     {
-     "text": "Just Top Hats"
+     "text": "Ardena"
     },
     {
      "text": "Sparkle"
     },
     {
-     "text": "Sassy!"
+     "text": "Doriana"
+    },
+    {
+     "text": "Sophine"
+    },
+    {
+     "text": "Mildred"
     }
    ],
    "id": "78057",
    "isValid": "",
-   "prompt": "Which of these were actual “mall stores” of the 2000s?",
-   "us": true,
+   "prompt": "Welches sind echte Monde des Uranus?",
+   "us": false,
    "x": false
   },
   {
@@ -5963,7 +6029,7 @@
    ],
    "id": "78064",
    "isValid": "",
-   "prompt": "Welche dieser Bands waren Teil der [i]neuen Deutschen Welle[/i]?",
+   "prompt": "Welche dieser Bands waren Teil der [i]Neuen Deutschen Welle[/i]?",
    "us": false,
    "x": false
   },
@@ -6129,55 +6195,73 @@
   {
    "answers": [
     {
-     "text": "moons Lyndon B. Johnson"
+     "text": "Kuhmaul"
     },
     {
-     "text": "wins Congressional Medal of Honor"
+     "text": "Flachknolliger Anis-Champignon"
     },
     {
-     "text": "inspires Smiley Face design"
+     "text": "Semmel-Stoppelpilz"
     },
     {
-     "text": "invests in Apple"
+     "text": "Fichten-Steinpilz"
     },
     {
-     "text": "plays competitive ping-pong"
+     "text": "Stockschwämmchen"
     },
     {
-     "text": "survives Hurricane Carmen"
+     "text": "Totentrompete"
     },
     {
-     "text": "launches Bubba Gump Shrimp Company"
+     "text": "Schweinsohr"
     },
     {
-     "text": "accidentally breaks Watergate scandal"
+     "text": "Speise-Morchel"
+    },
+    {
+     "text": "Flockenstieliger Hexenröhrling"
+    },
+    {
+     "text": "Krause Glucke"
+    },
+    {
+     "text": "Gold-Röhrling"
     }
    ],
-   "category": "Film & TV",
+   "category": "Factoids",
    "decoys": [
     {
-     "text": "runs across Europe"
+     "text": "Spitzgebuckelter Raukopf"
     },
     {
-     "text": "helps Malcolm X find his keys"
+     "text": "Kartoffelbovist"
     },
     {
-     "text": "accidentally writes the song “Layla”"
+     "text": "Tiger-Ritterling"
     },
     {
-     "text": "appears on American Bandstand"
+     "text": "Frühjahrslorchel"
     },
     {
-     "text": "de-escalates Cuban Missile Crisis"
+     "text": "Schmetterlings-Tramete"
     },
     {
-     "text": "invents hip hop"
+     "text": "Tintenfischpilz"
+    },
+    {
+     "text": "Karbol-Champignon"
+    },
+    {
+     "text": "Lila-Dickfuß"
+    },
+    {
+     "text": "Fliegenpilz"
     }
    ],
    "id": "78159",
    "isValid": "",
-   "prompt": "What does Forrest Gump do in the movie [i]Forrest Gump[/i]?",
-   "us": true,
+   "prompt": "Welche dieser Pilze sind bedenkenlos essbar?",
+   "us": false,
    "x": false
   },
   {
@@ -6645,118 +6729,121 @@
   {
    "answers": [
     {
-     "text": "Justify"
+     "text": "[i]Die Känguru-Chroniken[/i]"
     },
     {
-     "text": "American Pharoah"
+     "text": "[i]Das Känguru-Manifest[/i]"
     },
     {
-     "text": "Barbaro"
+     "text": "[i]Die Känguru-Offenbarung[/i]"
     },
     {
-     "text": "Genuine Risk"
+     "text": "[i]Die Känguru-Apokryphen[/i]"
     },
     {
-     "text": "Secretariat"
+     "text": "[i]Prinzessin Popelkopf[/i]"
     },
     {
-     "text": "Affirmed"
+     "text": "[i]QualityLand[/i]"
     },
     {
-     "text": "Seattle Slew"
+     "text": "[i]Der Ostermann[/i]"
     },
     {
-     "text": "Spectacular Bid"
+     "text": "[i]Der Tag, an dem die Oma das Internet kaputt gemacht hat[/i]"
     },
     {
-     "text": "Northern Dancer"
+     "text": "[i]Das NEINhorn[/i]"
     },
     {
-     "text": "War Admiral"
+     "text": "[i]Der Tag, an dem Papa ein heikles Gespräch führen wollte[/i]"
     },
     {
-     "text": "Whirlaway"
-    },
-    {
-     "text": "Spend a Buck"
+     "text": "[i]Der Tag, an dem der Opa den Wasserkocher auf den Herd gestellt hat[/i]"
     }
    ],
-   "category": "Sports",
+   "category": "Literature",
    "decoys": [
     {
-     "text": "Seabiscuit"
+     "text": "[i]Die Känguru-Fibeln[/i]"
     },
     {
-     "text": "Mr. Fastman"
+     "text": "[i]Der Tag, an dem der Opa wieder zur Schule ging[/i]"
     },
     {
-     "text": "The Pep Boys Logo"
+     "text": "[i]Der Tag, an dem die Mama rückwärts einparken lernte[/i]"
     },
     {
-     "text": "Keep the Silver"
+     "text": "[i]Die Schildflötenkröte[/i]"
+    },
+    {
+     "text": "[i]Das fünfte Buch Känguru[/i]"
+    },
+    {
+     "text": "[i]Das Känguru-Evangelium[/i]"
+    },
+    {
+     "text": "[i]Ach, halt doch den Kant![/i]"
     }
    ],
    "id": "78303",
    "isValid": "",
-   "prompt": "Which of these were Kentucky Derby winners?",
-   "us": true,
+   "prompt": "Welches sind echte Bücher von Marc-Uwe Kling?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "flapper"
+     "text": "Kurt Schumacher"
     },
     {
-     "text": "handle"
+     "text": "Hans-Jochen Vogel"
     },
     {
-     "text": "fill valve"
+     "text": "Frank-Walter Steinmeier"
     },
     {
-     "text": "fill tube"
+     "text": "Oskar Lafontaine"
     },
     {
-     "text": "float"
+     "text": "Martin Schulz"
     },
     {
-     "text": "flush valve"
+     "text": "Johannes Rau"
     },
     {
-     "text": "overflow tube"
+     "text": "Erich Ollenhauer"
     },
     {
-     "text": "floor flange"
-    },
-    {
-     "text": "wax ring"
+     "text": "Rudolf Scharping"
     }
    ],
-   "category": "Technology",
+   "category": "Celebrities",
    "decoys": [
     {
-     "text": "dongle"
+     "text": "Guido Westerwelle"
     },
     {
-     "text": "sink arm"
+     "text": "Wolfram Koch"
     },
     {
-     "text": "dipper"
+     "text": "Lothar Bisky"
     },
     {
-     "text": "flush capper"
+     "text": "Rainer Barzel"
     },
     {
-     "text": "smeller cap"
+     "text": "Edmund Stoiber"
     },
     {
-     "text": "hork tube"
+     "text": "Harald Krassnitzer"
     }
    ],
    "id": "78304",
    "isValid": "",
-   "prompt": "Which of these super cool items are parts of a toilet?",
-   "us": true,
+   "prompt": "Welche dieser Personen waren ERFOLGLOSE Kanzlerkandidaten der SPD?",
+   "us": false,
    "x": false
   },
   {
@@ -6783,7 +6870,7 @@
      "text": "C"
     }
    ],
-   "category": "",
+   "category": "Music",
    "decoys": [
     {
      "text": "P"
@@ -6936,7 +7023,7 @@
      "text": "Santana"
     },
     {
-     "text": "The Grateful Dead"
+     "text": "Grateful Dead"
     },
     {
      "text": "Creedence Clearwater Revival"
@@ -6951,13 +7038,13 @@
      "text": "Janis Joplin"
     },
     {
-     "text": "The Band"
+     "text": "Swami Satchidananda"
     },
     {
      "text": "Sly & The Family Stone"
     },
     {
-     "text": "Crosby, Stills & Nash (and Young)"
+     "text": "Crosby, Stills, Nash & Young"
     },
     {
      "text": "Jimi Hendrix"
@@ -6972,22 +7059,25 @@
      "text": "The Rolling Stones"
     },
     {
-     "text": "The Beatles"
+     "text": "Die Beatles"
     },
     {
      "text": "Joni Mitchell"
     },
     {
-     "text": "The Doors"
+     "text": "Elvis Presley"
     },
     {
-     "text": "The Monkees"
+     "text": "Stevie Wonder"
+    },
+    {
+     "text": "Modern Talking"
     }
    ],
    "id": "78402",
    "isValid": "",
-   "prompt": "Which groovy musical acts performed at Woodstock '69?",
-   "us": true,
+   "prompt": "Welche dieser groovigen Musiker und Bands traten 1969 beim [i]Woodstock[/i]-Festival auf?",
+   "us": false,
    "x": false
   },
   {
@@ -7047,49 +7137,64 @@
   {
    "answers": [
     {
-     "text": "“Bye Bye Bye”"
+     "text": "“In der Weihnachtsbäckerei”"
     },
     {
-     "text": "“It’s Gonna Be Me”"
+     "text": "“Jetzt kommt die Osterzeit”"
     },
     {
-     "text": "“Tearin’ Up My Heart”"
+     "text": "“Die Traumautomaten”"
     },
     {
-     "text": "“I Want You Back”"
+     "text": "“So wichtig bist du auch wieder nicht”"
     },
     {
-     "text": "“Pop”"
+     "text": "“Bis ans Ende der Welt”"
     },
     {
-     "text": "”Digital Get Down”"
+     "text": "”Stups der kleine Osterhase”"
     },
     {
-     "text": "“Just Got Paid”"
+     "text": "“Menschenskinder”"
     },
     {
-     "text": "“Space Cowboy”"
+     "text": "“Du bist nicht alles – Aber alles ist nichts ohne dich”"
+    },
+    {
+     "text": "“Deutschland, deine Kinder”"
     }
    ],
    "category": "Music",
    "decoys": [
     {
-     "text": "“I Want It That Way”"
+     "text": "“Karl der Käfer”"
     },
     {
-     "text": "“Everybody”"
+     "text": "“Kinder wollen leben, spielen, lachen”"
     },
     {
-     "text": "“As Long As You Love Me”"
+     "text": "“Häschen in der Grube”"
     },
     {
-     "text": "“Larger Than Life”"
+     "text": "“Zeit für Abenteuer”"
+    },
+    {
+     "text": "“Holt die Lichter aus dem Haus”"
+    },
+    {
+     "text": "“Ich hab dich superduper schwubbidubbi lieb”"
+    },
+    {
+     "text": "“Wir werden immer größer”"
+    },
+    {
+     "text": "“Hörst du die Regenwürmer husten?”"
     }
    ],
    "id": "78412",
    "isValid": "",
-   "prompt": "Which songs are by NSYNC? NOT Backstreet Boys!",
-   "us": true,
+   "prompt": "Welche dieser Lieder sind von euer aller Lieblingskünstler Rolf Zuckowski?",
+   "us": false,
    "x": false
   },
   {
@@ -7311,97 +7416,91 @@
   {
    "answers": [
     {
-     "text": "BeBe Zahara Benet"
+     "text": "Bernd Schneider"
     },
     {
-     "text": "Tyra Sanchez"
+     "text": "Laurent Aiello"
     },
     {
-     "text": "Raja"
+     "text": "Mattias Ekström"
     },
     {
-     "text": "Sharon Needles"
+     "text": "Gary Paffett"
     },
     {
-     "text": "Jinkx Monsoon"
+     "text": "Timo Scheider"
     },
     {
-     "text": "Bianca Del Rio"
+     "text": "Paul di Resta"
     },
     {
-     "text": "Violet Chachki"
+     "text": "Martin Tomczyk"
     },
     {
-     "text": "Bob The Drag Queen"
+     "text": "Bruno Spengler"
     },
     {
-     "text": "Sasha Velour"
+     "text": "Mike Rockenfeller"
     },
     {
-     "text": "Aquaria"
+     "text": "Marco Wittmann"
     },
     {
-     "text": "Yvie Oddly"
+     "text": "Pascal Wehrlein"
     },
     {
-     "text": "Jaida Essence Hall"
+     "text": "René Rast"
     },
     {
-     "text": "Symone"
+     "text": "Maximilian Götz"
     }
    ],
-   "category": "Film & TV",
+   "category": "Factoids",
    "decoys": [
     {
-     "text": "Princess Whispers"
+     "text": "Marcel Fässler"
     },
     {
-     "text": "Miz Pettycoats"
+     "text": "Stephan Ludowig"
     },
     {
-     "text": "Calliope"
+     "text": "Antonio Segni"
     },
     {
-     "text": "Lil' Poundcake"
+     "text": "Theo Heemskerk"
     },
     {
-     "text": "Georgina Sparkles"
+     "text": "Sebastian Vettel"
     },
     {
      "text": "Butch Cassidy"
+    },
+    {
+     "text": "Frank Dobras"
     }
    ],
    "id": "78422",
    "isValid": "",
-   "prompt": "Which queens are winners of [i]RuPaul's Drag Race[/i]?",
-   "us": true,
+   "prompt": "Welche dieser Personen waren Stand 2021 schon Champions der [i]DTM[/i]?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Tony Hawk"
+     "text": "Poppy Honey Rosie"
     },
     {
-     "text": "Tony Hawk"
+     "text": "Daisy Boo Pamela"
     },
     {
-     "text": "Tony Hawk"
+     "text": "Petal Blossom Rainbow"
     },
     {
-     "text": "Tony Hawk"
+     "text": "Buddy Bear Maurice"
     },
     {
-     "text": "Tony Hawk"
-    },
-    {
-     "text": "Tony Hawk"
-    },
-    {
-     "text": "Tony Hawk"
-    },
-    {
-     "text": "Tony Hawk"
+     "text": "River Rocket Blue Dallas"
     }
    ],
    "category": "Celebrities",
@@ -7410,19 +7509,28 @@
      "text": "Tom Hanks"
     },
     {
-     "text": "Tom Hardy"
+     "text": "Rose Star Butterfly"
     },
     {
-     "text": "Tonya Harding"
+     "text": "Queen Leaf Cloud"
     },
     {
-     "text": "Tony Hawks"
+     "text": "Peach Mississippi Star"
+    },
+    {
+     "text": "X AE A-XII"
+    },
+    {
+     "text": "Marie Bee Chamomile"
+    },
+    {
+     "text": "Puppy Lily Ana"
     }
    ],
    "id": "78424",
    "isValid": "",
-   "prompt": "Tony Hawk",
-   "us": true,
+   "prompt": "Wie heißen die 5 Kinder von Chefkoch [i]Jamie Oliver[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -7710,49 +7818,55 @@
   {
    "answers": [
     {
-     "text": "George Clooney"
+     "text": "Zitrone"
     },
     {
-     "text": "Brad Pitt"
+     "text": "Totes Insekt"
     },
     {
-     "text": "Matt Damon"
+     "text": "Tulpe"
     },
     {
-     "text": "Don Cheadle"
+     "text": "Uhr"
     },
     {
-     "text": "Casey Affleck"
+     "text": "Spiegel"
     },
     {
-     "text": "Scott Caan"
+     "text": "Würfel"
     },
     {
-     "text": "Elliott Gould"
+     "text": "Wein"
     },
     {
-     "text": "Bernie Mac"
+     "text": "Seifenblase"
     },
     {
-     "text": "Eddie Jemison"
-    },
-    {
-     "text": "Carl Reiner"
-    },
-    {
-     "text": "Qin Shaobo"
+     "text": "Fisch"
     }
    ],
-   "category": "Film & TV",
+   "category": "Art",
    "decoys": [
     {
-     "text": "Stanley Tucci"
+     "text": "Smartphone"
+    },
+    {
+     "text": "Fluggerät"
+    },
+    {
+     "text": "Erbrochenes"
+    },
+    {
+     "text": "Regen"
+    },
+    {
+     "text": "Hase"
     }
    ],
    "id": "78605",
    "isValid": "",
-   "prompt": "Which actors appeared in the 2001 [i]Ocean's Eleven[/i] remake?",
-   "us": true,
+   "prompt": "Bei welchen dieser Gegenstände handelt es sich um klassische [i]Vanitas[/i]-Bildsymbole?",
+   "us": false,
    "x": false
   },
   {
@@ -7860,28 +7974,40 @@
   {
    "answers": [
     {
-     "text": "Czech Pilsner"
+     "text": "Kölsch"
     },
     {
-     "text": "Extra Special Bitter"
+     "text": "Pale Ale"
     },
     {
-     "text": "Hefeweizen"
+     "text": "Blond Ale"
     },
     {
-     "text": "India Pale Ale"
+     "text": "Oshikundu"
     },
     {
-     "text": "Lager"
+     "text": "Braunschweiger Mumme"
     },
     {
-     "text": "Oatmeal Stout"
+     "text": "Umqombothi"
     },
     {
-     "text": "Red Ale"
+     "text": "Tripel"
     },
     {
-     "text": "Saison"
+     "text": "Sake"
+    },
+    {
+     "text": "Barley Wine"
+    },
+    {
+     "text": "Dampfbier"
+    },
+    {
+     "text": "Grisette"
+    },
+    {
+     "text": "Helles Lager"
     }
    ],
    "category": "Food & Drink",
@@ -7890,67 +8016,79 @@
      "text": "Funkenweizen"
     },
     {
-     "text": "India Dark Ale"
+     "text": "Komeraku"
     },
     {
      "text": "Swisher Sweet"
     },
     {
      "text": "Drunkenlager"
+    },
+    {
+     "text": "Svampara"
+    },
+    {
+     "text": "Viseler Weizen"
+    },
+    {
+     "text": "Dekanbier"
+    },
+    {
+     "text": "Schnittbier"
     }
    ],
    "id": "78621",
    "isValid": "",
-   "prompt": "Which of these are actual beer varietals?",
-   "us": true,
+   "prompt": "Welches sind echte [i]Biersorten[/i]?",
+   "us": false,
    "x": true
   },
   {
    "answers": [
     {
-     "text": "parasitic ice worms"
+     "text": "Parasitäre Eiswürmer"
     },
     {
-     "text": "wood mites"
+     "text": "Holzmilben"
     },
     {
-     "text": "poltergeists"
+     "text": "Poltergeister"
     },
     {
-     "text": "killer cockroaches"
+     "text": "Killer-Kakerlaken"
     },
     {
-     "text": "vampires"
+     "text": "Vampire"
     },
     {
-     "text": "invisible zoo animals"
+     "text": "Unsichtbare Zootiere"
     },
     {
-     "text": "killer clones"
+     "text": "Killer-Klone"
     },
     {
-     "text": "sea monster"
+     "text": "Meeresungeheuer"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "evil chipmunks"
+     "text": "Killer-Streifenhörnchen"
     },
     {
-     "text": "killer reindeer"
+     "text": "Kampf-Rentiere"
     },
     {
-     "text": "attack millipedes"
+     "text": "Riesen-Tausendfüßer"
     },
     {
-     "text": "pack of mummies"
+     "text": "Mumien-Rudel"
     }
    ],
    "id": "78664",
    "isValid": "",
-   "prompt": "Which of these are monsters Mulder & Scully encountered in [i]The X-Files[/i]?",
-   "us": true,
+   "prompt": "Welchen dieser abscheulichen Monster sind Mulder und Scully in “[i]Akte X[/i]” begegnet?",
+   "us": false,
    "x": false
   },
   {
@@ -8245,6 +8383,9 @@
     },
     {
      "text": "Warrant"
+    },
+    {
+     "text": "Steel Panther"
     }
    ],
    "category": "Music",
@@ -8257,12 +8398,18 @@
     },
     {
      "text": "Creedence Clearwater Revival"
+    },
+    {
+     "text": "Metallica"
+    },
+    {
+     "text": "DragonForce"
     }
    ],
    "id": "78709",
    "isValid": "",
-   "prompt": "Which groups are widely considered to be hair metal bands?",
-   "us": true,
+   "prompt": "Bei welchen dieser Bands handelt es sich um “[i]Hair Metal Bands[/i]”?",
+   "us": false,
    "x": false
   },
   {
@@ -8669,7 +8816,7 @@
    ],
    "id": "78865",
    "isValid": "",
-   "prompt": "Which of these unusual names are villains from the 1990 film [i]Dick Tracy[/i]?",
+   "prompt": "Welche dieser ungewöhnlichen Namen sind Bösewichte aus dem Film [i]Dick Tracy[/i] von 1990?",
    "us": true,
    "x": false
   },
@@ -8742,49 +8889,64 @@
   {
    "answers": [
     {
-     "text": "“Don’t Stop Believin’”"
+     "text": "Scandium"
     },
     {
-     "text": "“The Fox (What Does The Fox Say?)”"
+     "text": "Praseodym"
     },
     {
-     "text": "“Gangnam Style”"
+     "text": "Samarium"
     },
     {
-     "text": "“Don't Rain On My Parade”"
+     "text": "Europium"
     },
     {
-     "text": "“Teenage Dream”"
+     "text": "Yttrium"
     },
     {
-     "text": "“Let's Have A Kiki / Turkey Lurkey Time”"
+     "text": "Gadolinium"
     },
     {
-     "text": "“Thong Song”"
+     "text": "Holmium"
     },
     {
-     "text": "“Hair / Crazy In Love”"
+     "text": "Promethium"
+    },
+    {
+     "text": "Dysprosium"
+    },
+    {
+     "text": "Didym"
     }
    ],
-   "category": "Film & TV",
+   "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "“Twinkle Twinkle Little Star”"
+     "text": "Starinyl"
     },
     {
-     "text": "“Yellow Submarine / WAP”"
+     "text": "Peatolium"
     },
     {
-     "text": "“Cello Suite No. 1 in G Major”"
+     "text": "Lithium"
     },
     {
-     "text": "“The Boys Are Back In Town / In The Navy”"
+     "text": "Satelithium"
+    },
+    {
+     "text": "Lutharsium"
+    },
+    {
+     "text": "Nilsonium"
+    },
+    {
+     "text": "Radiumunglaublichgrosius"
     }
    ],
    "id": "78876",
    "isValid": "",
-   "prompt": "Which songs were covered on [i]Glee[/i]?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um echte [i]Seltene Erden[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -8952,22 +9114,22 @@
   {
    "answers": [
     {
-     "text": "Yogi Bear"
+     "text": "Yogi Bär"
     },
     {
-     "text": "Jerry Mouse"
+     "text": "Jerry Maus"
     },
     {
      "text": "Quickdraw McGraw"
     },
     {
-     "text": "Fred Flintstone"
+     "text": "Fred Feuerstein"
     },
     {
      "text": "Snagglepuss"
     },
     {
-     "text": "Top Cat"
+     "text": "Superkater"
     },
     {
      "text": "Touché Turtle"
@@ -8991,12 +9153,12 @@
      "text": "Peppermint Patty"
     },
     {
-     "text": "Scrooge McDuck"
+     "text": "Dagobert Duck"
     }
    ],
    "id": "79125",
    "isValid": "",
-   "prompt": "Which of these are Hanna-Barbera cartoon characters?",
+   "prompt": "Welche davon sind Hanna-Barbera-Zeichentrickfiguren?",
    "us": true,
    "x": false
   },
@@ -9180,10 +9342,10 @@
      "text": "Daft Punk"
     },
     {
-     "text": "Insane Clown Posse"
+     "text": "Cro"
     },
     {
-     "text": "MF DOOM"
+     "text": "Lordi"
     },
     {
      "text": "Buckethead"
@@ -9192,10 +9354,10 @@
    "category": "Music",
    "decoys": [
     {
-     "text": "Britney Spears"
+     "text": "Florian Silbereisen"
     },
     {
-     "text": "The Shins"
+     "text": "Rammstein"
     },
     {
      "text": "Vampire Weekend"
@@ -9209,212 +9371,260 @@
    ],
    "id": "79183",
    "isValid": "",
-   "prompt": "Which musicians are known for dressing up so you can't see their faces while performing?",
-   "us": true,
+   "prompt": "Welche dieser Musiker sind dafür bekannt, sich so zu verkleiden, dass man ihre Gesichter bei Auftritten nicht sehen kann?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "smog"
+     "text": "Alliteration"
     },
     {
-     "text": "brunch"
+     "text": "Asyndeton"
     },
     {
-     "text": "mockumentary"
+     "text": "Ellipse"
     },
     {
-     "text": "spork"
+     "text": "Litotes"
     },
     {
-     "text": "prequel"
+     "text": "Zeugma"
     },
     {
-     "text": "cosplay"
+     "text": "Personifikation"
     },
     {
-     "text": "sitcom"
+     "text": "Chiasmus"
     },
     {
-     "text": "Brexit"
+     "text": "Correctio"
     },
     {
-     "text": "webinar"
+     "text": "Klimax"
     },
     {
-     "text": "motel"
+     "text": "Adynaton"
     },
     {
-     "text": "Labradoodle"
+     "text": "Gleichnis"
+    },
+    {
+     "text": "Montage"
     }
    ],
    "category": "Language/Words/Grammar",
    "decoys": [
     {
-     "text": "dank"
+     "text": "Konvertase"
     },
     {
-     "text": "shampoo"
+     "text": "Ribosom"
     },
     {
-     "text": "hamster"
+     "text": "Esperadismus"
     },
     {
-     "text": "jaunt"
+     "text": "Propagation"
     },
     {
-     "text": "brouhaha"
+     "text": "Endosymbiose"
+    },
+    {
+     "text": "Xylophon"
+    },
+    {
+     "text": "Hjärnaton"
     }
    ],
    "id": "79184",
    "isValid": "",
-   "prompt": "Which words are common portmanteaus (i.e. words that blend two or more words)?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um echte [i]rhetorische Stilmittel[/i]?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Francis Ford Coppola"
+     "text": "Hans-Christoph Seebohm"
     },
     {
-     "text": "Talia Shire"
+     "text": "Lauritz Lauritzen"
     },
     {
-     "text": "Gia Coppola"
+     "text": "Georg Leber"
     },
     {
-     "text": "Nicolas Cage"
+     "text": "Werner Dollinger"
     },
     {
-     "text": "Jason Schwartzman"
+     "text": "Günther Krause"
     },
     {
-     "text": "Sofia Coppola"
+     "text": "Franz Müntefering"
     },
     {
-     "text": "Carmine Coppola"
+     "text": "Wolfgang Tiefensee"
+    },
+    {
+     "text": "Andreas Scheuer"
+    },
+    {
+     "text": "Alexander Dobrindt"
     }
    ],
    "category": "Celebrities",
    "decoys": [
     {
-     "text": "Maria Shriver"
+     "text": "Franz-Josef Wuermeling"
     },
     {
-     "text": "Sofia Loren"
+     "text": "Klaus Kinkel"
     },
     {
-     "text": "Monica Belluci"
+     "text": "Waldemar Kraft"
     },
     {
-     "text": "Al Pacino"
+     "text": "Ursula Lehr"
     },
     {
-     "text": "Abe Vigoda"
+     "text": "Walter Ulbricht"
+    },
+    {
+     "text": "Gerhard Stoltenberg"
+    },
+    {
+     "text": "Elisabeth Schwarzhaupt"
     }
    ],
    "id": "79197",
    "isValid": "",
-   "prompt": "Which celebrities are members of the Coppola family tree?",
-   "us": true,
+   "prompt": "Welche dieser Personen sind oder waren deutsche Verkehrsminister?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "“The Road Not Taken”"
+     "text": "Herzeleid"
     },
     {
-     "text": "“Fire and Ice”"
+     "text": "Sehnsucht"
     },
     {
-     "text": "“Tree at My Window”"
+     "text": "Mutter"
     },
     {
-     "text": "“Birches”"
+     "text": "Reise, Reise"
     },
     {
-     "text": "“Christmas Trees”"
+     "text": "Rosenrot"
     },
     {
-     "text": "“Mending Wall”"
+     "text": "Liebe ist für alle da"
     },
     {
-     "text": "“Stopping by Woods on a Snowy Evening”"
+     "text": "Unbetitelt"
     }
    ],
-   "category": "Literature",
+   "category": "Music",
    "decoys": [
     {
-     "text": "“Another Tree Poem”"
+     "text": "Gerechtigkeit"
     },
     {
-     "text": "“The Raven”"
+     "text": "On the Spur of the Moment"
     },
     {
-     "text": "“A Light in the Attic”"
+     "text": "Es war einmal..."
     },
     {
-     "text": "“Jabberwocky”"
+     "text": "Rastlos"
     },
     {
-     "text": "“Ye Olde Porch Swing”"
+     "text": "Zerfall"
+    },
+    {
+     "text": "Feuer und Flamme"
+    },
+    {
+     "text": "Wohlfühlgarantie"
+    },
+    {
+     "text": "(Zensiert)"
+    },
+    {
+     "text": "Märchenprinzen"
+    },
+    {
+     "text": "Eure Mami"
     }
    ],
    "id": "79201",
    "isValid": "",
-   "prompt": "Which of these are poems by your grandfather's favorite poet, Robert Frost?",
-   "us": true,
+   "prompt": "Welches sind echte Alben von [i]Rammstein[/i]?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "your tired"
+     "text": "Bolivien"
     },
     {
-     "text": "your poor"
+     "text": "Peru"
     },
     {
-     "text": "your huddled masses yearning to breathe free"
+     "text": "Ecuador"
     },
     {
-     "text": "the wretched refuse of your teeming shore"
+     "text": "Chile"
     },
     {
-     "text": "the homeless"
+     "text": "Kolumbien"
     },
     {
-     "text": "tempest-tost"
+     "text": "Argentinien"
+    },
+    {
+     "text": "Venezuela"
     }
    ],
-   "category": "Literature",
+   "category": "Geography & Landmarks",
    "decoys": [
     {
-     "text": "your wearied"
+     "text": "Brasilien"
     },
     {
-     "text": "your splendid"
+     "text": "Guyana"
     },
     {
-     "text": "your middle classes yearning to breathe easy"
+     "text": "Suriname"
     },
     {
-     "text": "the retching mob of your blistering sores"
+     "text": "Paraguay"
     },
     {
-     "text": "the forlorn and lost"
+     "text": "Uruguay"
     },
     {
-     "text": "your storied pomp"
+     "text": "Mexiko"
+    },
+    {
+     "text": "Kasachstan"
+    },
+    {
+     "text": "Panama"
+    },
+    {
+     "text": "Gorgonzola"
     }
    ],
    "id": "79278",
    "isValid": "",
-   "prompt": "What does the Statue of Liberty want according to the poem, “The New Colossus,” inscribed on its pedestal?",
-   "us": true,
+   "prompt": "Durch welche dieser Länder verlaufen die Anden?",
+   "us": false,
    "x": false
   },
   {
@@ -9594,37 +9804,37 @@
   {
    "answers": [
     {
-     "text": "[i]Closer[/i]"
+     "text": "[i]Hautnah[/i]"
     },
     {
-     "text": "[i]Doubt[/i]"
+     "text": "[i]Glaubensfrage[/i]"
     },
     {
-     "text": "[i]Six Degrees of Separation[/i]"
+     "text": "[i]Das Leben – Ein Sechserpack[/i]"
     },
     {
-     "text": "[i]A Streetcar Named Desire[/i]"
+     "text": "[i]Endstation Sehnsucht[/i]"
     },
     {
      "text": "[i]Amadeus[/i]"
     },
     {
-     "text": "[i]Who's Afraid of Virginia Woolf[/i]"
+     "text": "[i]Der Besuch der alten Dame[/i]"
     },
     {
-     "text": "[i]The Odd Couple[/i]"
+     "text": "[i]Der Killer und die Nervensäge[/i]"
     },
     {
-     "text": "[i]Glengarry Glen Ross[/i]"
+     "text": "[i]In der Stunde des Luchses[/i]"
     },
     {
      "text": "[i]Fences[/i]"
     },
     {
-     "text": "[i]The Crucible[/i]"
+     "text": "[i]Hexenjagd[/i]"
     },
     {
-     "text": "[i]Twelve Angry Men[/i]"
+     "text": "[i]Die zwölf Geschworenen[/i]"
     },
     {
      "text": "[i]Ma Rainey’s Black Bottom[/i]"
@@ -9636,22 +9846,22 @@
      "text": "[i]There Will Be Blood[/i]"
     },
     {
-     "text": "[i]The Royal Tenenbaums[/i]"
+     "text": "[i]Honig im Kopf[/i]"
     },
     {
-     "text": "[i]Armaggedon[/i]"
+     "text": "[i]Armageddon – Das jüngste Gericht[/i]"
     },
     {
-     "text": "[i]Some Like It Hot[/i]"
+     "text": "[i]Manche mögen’s heiß[/i]"
     },
     {
-     "text": "[i]Mrs. Doubtfire[/i]"
+     "text": "[i]Mrs. Doubtfire – Das stachelige Kindermädchen[/i]"
     }
    ],
    "id": "79409",
    "isValid": "",
-   "prompt": "Which feature films were originally stage plays?",
-   "us": true,
+   "prompt": "Welche dieser Spielfilme waren ursprünglich Theaterstücke?",
+   "us": false,
    "x": false
   },
   {
@@ -10188,12 +10398,12 @@
      "text": "Julia Child"
     },
     {
-     "text": "Sid Vicious (posthumously)"
+     "text": "Sid Vicious (posthum)"
     }
    ],
    "id": "79440",
    "isValid": "",
-   "prompt": "Which of these famous people are knights or dames?",
+   "prompt": "Welche dieser berühmten Persönlichkeiten sind Ritter oder Damen?",
    "us": true,
    "x": false
   },
@@ -10254,100 +10464,97 @@
   {
    "answers": [
     {
-     "text": "Cheetos"
+     "text": "Berliner"
     },
     {
-     "text": "Sun Chips"
+     "text": "Berliner Ballen"
     },
     {
-     "text": "Doritos"
+     "text": "Faschingskrapfen"
     },
     {
-     "text": "Funyuns"
+     "text": "Glaskrapfen"
     },
     {
-     "text": "Grandma's Cookies"
+     "text": "Kreppel"
     },
     {
-     "text": "Lay's Potato Chips"
+     "text": "Pfannkuchen"
     },
     {
-     "text": "Rold Gold Pretzels"
+     "text": "Krapfen"
     },
     {
-     "text": "Ruffles"
+     "text": "Puffel"
     }
    ],
    "category": "Food & Drink",
    "decoys": [
     {
-     "text": "Cheezits"
+     "text": "Pummel"
     },
     {
-     "text": "Pringles"
+     "text": "Pummeluff"
     },
     {
-     "text": "Kettle Chips"
+     "text": "Frikadelle"
     },
     {
-     "text": "Hostess Cupcakes"
-    },
-    {
-     "text": "Bugles"
+     "text": "Schlawiner"
     }
    ],
    "id": "79456",
    "isValid": "",
-   "prompt": "Which snacky-snacks are Frito Lay snacky-snacks?",
-   "us": true,
+   "prompt": "Unter welchen dieser Namen ist eine gewisse mit Marmelade gefüllte Spezialität aus Berlin bekannt?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "throwing an object overboard"
+     "text": "Rot"
     },
     {
-     "text": "skipping the muster drill"
+     "text": "Weiß"
     },
     {
-     "text": "refusing to be screened"
+     "text": "Grün"
     },
     {
-     "text": "stealing"
+     "text": "Blau"
     },
     {
-     "text": "fighting a guest"
+     "text": "Gelb"
     },
     {
-     "text": "getting gravely ill"
+     "text": "Schwarz"
     }
    ],
    "category": "Factoids",
    "decoys": [
     {
-     "text": "befriending the captain"
+     "text": "Braun"
     },
     {
-     "text": "singing sea shanties"
+     "text": "Rosa"
     },
     {
-     "text": "hogging the buffet"
+     "text": "Grau"
     },
     {
-     "text": "being taller than 5'6\""
+     "text": "Violett"
     },
     {
-     "text": "pretending to be a senior for discounts"
+     "text": "Pink"
     },
     {
-     "text": "speaking to ship entertainers off-duty"
+     "text": "Karo"
     }
    ],
    "id": "79457",
    "isValid": "",
-   "prompt": "Which of these actions will get you kicked off a cruise?",
-   "us": true,
+   "prompt": "Welche dieser Farben sind auf der Flagge von Südafrika vertreten?",
+   "us": false,
    "x": false
   },
   {
@@ -10641,49 +10848,64 @@
   {
    "answers": [
     {
-     "text": "pop"
+     "text": "Miss"
     },
     {
-     "text": "six"
+     "text": "Lane"
     },
     {
-     "text": "squish"
+     "text": "Gasse"
     },
     {
-     "text": "uh-uh"
+     "text": "Frame"
     },
     {
-     "text": "Cicero"
+     "text": "Turkey"
     },
     {
-     "text": "Lipschitz"
+     "text": "Fallraum"
+    },
+    {
+     "text": "Strike"
+    },
+    {
+     "text": "Babysplit"
+    },
+    {
+     "text": "Creaper"
     }
    ],
-   "category": "Theatre/Performing Arts",
+   "category": "Sports",
    "decoys": [
     {
-     "text": "bop"
+     "text": "Hole in One"
     },
     {
-     "text": "screech"
+     "text": "Schwalbe"
     },
     {
-     "text": "aha"
+     "text": "Pass"
     },
     {
-     "text": "Sicily"
+     "text": "Birdie"
     },
     {
-     "text": "Lipsticks"
+     "text": "Bodeneffekt"
     },
     {
-     "text": "fish sticks"
+     "text": "Early Bird"
+    },
+    {
+     "text": "Lame Duck"
+    },
+    {
+     "text": "Cold Buffet"
     }
    ],
    "id": "79654",
    "isValid": "",
-   "prompt": "Which words are repeated in “Cell Block Tango” from the musical [i]Chicago[/i]?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um Fachbegriffe aus dem Bowling?",
+   "us": false,
    "x": false
   },
   {
@@ -10974,52 +11196,64 @@
   {
    "answers": [
     {
-     "text": "Juror 1"
+     "text": "Geschworener Nr. 1"
     },
     {
-     "text": "Juror 2"
+     "text": "Geschworener Nr. 2"
     },
     {
-     "text": "Juror 4"
+     "text": "Geschworener Nr. 3"
     },
     {
-     "text": "Juror 6"
+     "text": "Geschworener Nr. 4"
     },
     {
-     "text": "Juror 7"
+     "text": "Geschworener Nr. 5"
     },
     {
-     "text": "Juror 8"
+     "text": "Geschworener Nr. 6"
     },
     {
-     "text": "Juror 9"
+     "text": "Geschworener Nr. 7"
     },
     {
-     "text": "Juror 11"
+     "text": "Geschworener Nr. 8"
     },
     {
-     "text": "Juror 12"
+     "text": "Geschworener Nr. 9"
+    },
+    {
+     "text": "Geschworener Nr. 10"
+    },
+    {
+     "text": "Geschworener Nr. 11"
+    },
+    {
+     "text": "Geschworener Nr. 12"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "Juror 13"
+     "text": "Geschworener Nr. 13"
     },
     {
-     "text": "Juror 15"
+     "text": "Geschworener Nr. 15"
     },
     {
-     "text": "Juror 17"
+     "text": "Geschworener Nr. 25173"
     },
     {
-     "text": "Judge Dredd"
+     "text": "Richter Dredd"
+    },
+    {
+     "text": "Gerichtsdiener Applebaum"
     }
    ],
    "id": "79684",
    "isValid": "",
-   "prompt": "Which characters are in [i]12 Angry Men[/i]?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um Figuren aus dem Spielfilmklassiker “[i]Die zwölf Geschworenen[/i]”?",
+   "us": false,
    "x": false
   },
   {
@@ -11208,55 +11442,67 @@
   {
    "answers": [
     {
-     "text": "Jon Lovitz"
+     "text": "[i]Hannibal[/i]"
     },
     {
-     "text": "Kelsey Grammer"
+     "text": "[i]Gott vergibt… Django nie![/i]"
     },
     {
-     "text": "Patrick Stewart"
+     "text": "[i]Vier für ein Ave Maria[/i]"
     },
     {
-     "text": "Meryl Streep"
+     "text": "[i]Die rechte und die linke Hand des Teufels[/i]"
     },
     {
-     "text": "Paul McCartney"
+     "text": "[i]Vier Fäuste für ein Halleluja[/i]"
     },
     {
-     "text": "Larry King"
+     "text": "[i]Zwei Missionare[/i]"
     },
     {
-     "text": "Winona Ryder"
+     "text": "[i]Zwei wie Pech und Schwefel[/i]"
     },
     {
-     "text": "Sting"
+     "text": "[i]Freibeuter der Meere[/i]"
+    },
+    {
+     "text": "[i]Zwei Asse trumpfen auf[/i]"
+    },
+    {
+     "text": "[i]Zwei außer Rand und Band[/i]"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "Tom Cruise"
+     "text": "[i]Zwei suchen die Gefahr[/i]"
     },
     {
-     "text": "Jack Nicholson"
+     "text": "[i]Die Augen des Todes[/i]"
     },
     {
-     "text": "Nicole Kidman"
+     "text": "[i]Die Irrfahrten des Herkules[/i]"
     },
     {
-     "text": "Bruce Springsteen"
+     "text": "[i]Vier Fäuste gegen Barcelona[/i]"
     },
     {
-     "text": "Clint Eastwood"
+     "text": "[i]Zwei lassen nicht locker![/i]"
     },
     {
-     "text": "Shirley Temple"
+     "text": "[i]Bis das die Faust uns scheidet[/i]"
+    },
+    {
+     "text": "[i]Zwei auf Hawaii[/i]"
+    },
+    {
+     "text": "[i]Zwei Höllenhunde auf dem Weg zum Himmel[/i]"
     }
    ],
    "id": "79853",
    "isValid": "",
-   "prompt": "As of 2020, which of these celebrities have lent their voices to [i]The Simpsons[/i]?",
-   "us": true,
+   "prompt": "In welchen dieser Filme sind [i]Bud Spencer[/i] und [i]Terence Hill[/i] gemeinsam zu sehen?",
+   "us": false,
    "x": false
   },
   {
@@ -11682,58 +11928,73 @@
   {
    "answers": [
     {
-     "text": "Same-Day Canvas Prints"
+     "text": "Seat"
     },
     {
-     "text": "Wall Tiles"
+     "text": "Audi"
     },
     {
-     "text": "5x5 Same-Day Photo Magnet"
+     "text": "Skoda"
     },
     {
-     "text": "4x6 Collage Print"
+     "text": "Cupra"
     },
     {
-     "text": "Height Charts"
+     "text": "Bentley"
     },
     {
-     "text": "Same-Day Collage Mounted Photos"
+     "text": "Lamborghini"
     },
     {
-     "text": "Contemporary Framed Prints"
+     "text": "MAN"
     },
     {
-     "text": "Matte Posters"
+     "text": "Navistar"
     },
     {
-     "text": "8x10 Collage Bamboo Panel"
+     "text": "Ducati"
     },
     {
-     "text": "Wallet Prints"
+     "text": "Scania"
     }
    ],
    "category": "Companies & Brands",
    "decoys": [
     {
-     "text": "Same-Day Engraving"
+     "text": "Aston Martin"
     },
     {
-     "text": "8x10 Metal Pressing"
+     "text": "Fiat"
     },
     {
-     "text": "Two-Day 3D Printing"
+     "text": "Mini"
     },
     {
-     "text": "Wallet Canvas"
+     "text": "Smart"
     },
     {
-     "text": "Three-Day Matte Keychain"
+     "text": "Lada"
+    },
+    {
+     "text": "Land Rover"
+    },
+    {
+     "text": "Rolls-Royce"
+    },
+    {
+     "text": "Toyota"
+    },
+    {
+     "text": "Mazda"
+    },
+    {
+     "text": "Kawasaki"
     }
    ],
    "id": "79927",
    "isValid": "",
-   "prompt": "As of 2021, which photo print options are available at CVS?",
-   "us": true,
+   "prompt": "Welche dieser Fahrzeugmarken sind Teil der [i]Volkswagen AG[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -11912,7 +12173,7 @@
    ],
    "id": "80248",
    "isValid": "",
-   "prompt": "Which of these musical talents signed with Motown Records?",
+   "prompt": "Welches dieser musikalischen Talente hat bei Motown Records unterschrieben?",
    "us": true,
    "x": false
   },
@@ -12102,55 +12363,73 @@
   {
    "answers": [
     {
-     "text": "wake up at 7am"
+     "text": "Methan"
     },
     {
-     "text": "go downstairs"
+     "text": "Ethan"
     },
     {
-     "text": "have a bowl of cereal"
+     "text": "Propan"
     },
     {
-     "text": "get down to the bus stop"
+     "text": "Octatriacontan"
     },
     {
-     "text": "catch the bus"
+     "text": "Nonan"
     },
     {
-     "text": "see her friends"
+     "text": "Decan"
     },
     {
-     "text": "contemplate seat choice"
+     "text": "Undecan"
     },
     {
-     "text": "look forward to the weekend"
+     "text": "Eicosan"
     },
     {
-     "text": "partyin’ partyin’ YEAH"
+     "text": "Pentadecan"
+    },
+    {
+     "text": "Heptacosan"
+    },
+    {
+     "text": "Heneicosan"
+    },
+    {
+     "text": "Tetratetracontan"
     }
    ],
-   "category": "Music",
+   "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "do her homework"
+     "text": "Doplan"
     },
     {
-     "text": "build a house"
+     "text": "Khavlan"
     },
     {
-     "text": "take a Xanax"
+     "text": "Triplodecan"
     },
     {
-     "text": "write a novel"
+     "text": "Psithan"
     },
     {
-     "text": "toast a bagel"
+     "text": "Triesiacontan"
+    },
+    {
+     "text": "Octabanan"
+    },
+    {
+     "text": "Pentabanan"
+    },
+    {
+     "text": "Zewacontan"
     }
    ],
    "id": "80449",
    "isValid": "",
-   "prompt": "What are some things Rebecca Black does in her infamous single “Friday”?",
-   "us": true,
+   "prompt": "Welche dieser Stoffe sind Teil der [i]Homologen Reihe der Alkane[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -12257,7 +12536,7 @@
    ],
    "id": "80455",
    "isValid": "",
-   "prompt": "Which of the following are actual questions asked in Train's “Drops of Jupiter”?",
+   "prompt": "Welche der folgenden Fragen werden tatsächlich in Trains \"Drops of Jupiter\" gestellt?",
    "us": true,
    "x": false
   },
@@ -12324,67 +12603,58 @@
   {
    "answers": [
     {
-     "text": "“Like A Virgin”"
+     "text": "Vitamin A (Retinol)"
     },
     {
-     "text": "“Crazy For You”"
+     "text": "Vitamin B1 (Thiamin)"
     },
     {
-     "text": "“Live To Tell”"
+     "text": "Vitamin B2 (Riboflavin)"
     },
     {
-     "text": "“Papa Don't Preach”"
+     "text": "Vitamin B3 (Niacin)"
     },
     {
-     "text": "“Open Your Heart”"
+     "text": "Vitamin B6 (Pyridoxin)"
     },
     {
-     "text": "”Who's That Girl”"
+     "text": "Vitamin B9 (Folsäure)"
     },
     {
-     "text": "“Like A Prayer”"
+     "text": "Vitamin C (Ascorbinsäure)"
     },
     {
-     "text": "“Vogue”"
+     "text": "Vitamin E (Alpha-Tocopherol)"
     },
     {
-     "text": "“Justify My Love”"
-    },
-    {
-     "text": "“This Used To Be My Playground”"
-    },
-    {
-     "text": "“Take A Bow”"
-    },
-    {
-     "text": "“Music”"
+     "text": "Vitamin K (Phyllochinon)"
     }
    ],
-   "category": "Music",
+   "category": "Factoids",
    "decoys": [
     {
-     "text": "“September”"
+     "text": "Vitamin B5 (Pantothensäure)"
     },
     {
-     "text": "“MMMBop”"
+     "text": "Vitamin B12 (Cobalamin)"
     },
     {
-     "text": "“Rolling in the Deep”"
+     "text": "Vitamin D3 (Cholecalciferol)"
     },
     {
-     "text": "“Rain on Me”"
+     "text": "Vitamin B13 (Orotsäure)"
     },
     {
-     "text": "“Bad Romance”"
+     "text": "Vitamin L (Arcanocerol)"
     },
     {
-     "text": "“All About That Bass”"
+     "text": "Vitamin G20 (Internatioxin)"
     }
    ],
    "id": "80467",
    "isValid": "",
-   "prompt": "Which of these #1 hit songs are Madonna's?",
-   "us": true,
+   "prompt": "Welche dieser Vitamine sind in Grünkohl enthalten?",
+   "us": false,
    "x": false
   },
   {
@@ -12516,50 +12786,56 @@
   {
    "answers": [
     {
-     "text": "on the counter"
+     "text": "“Call My Name”"
     },
     {
-     "text": "in the shower"
+     "text": "“Dream Team”"
     },
     {
-     "text": "on the sofa"
+     "text": "“We Have a Dream”"
     },
     {
-     "text": "on camera"
+     "text": "“Phänomenal”"
     },
     {
-     "text": "on the bathroom floor"
+     "text": "“Bella Donna”"
     },
     {
-     "text": "red-handed"
+     "text": "“Cinderella”"
+    },
+    {
+     "text": "“Lüg mich an”"
+    },
+    {
+     "text": "“Warum”"
     }
    ],
    "category": "Music",
    "decoys": [
     {
-     "text": "with a tuba"
+     "text": "“Copacabana”"
     },
     {
-     "text": "on the credenza"
+     "text": "“Portofino”"
     },
     {
-     "text": "with her best friend"
+     "text": "“Liebe ohne Grenzen”"
     },
     {
-     "text": "with embezzled stocks"
+     "text": "“Love Me More”"
     },
     {
-     "text": "on the kitchen floor"
+     "text": "“Pastel de Amor”"
     },
     {
-     "text": "in the sauna"
+     "text": "“Mädchen aus dem Block”"
     }
    ],
    "id": "81320",
    "isValid": "",
-   "prompt": "Which of these are ways one can get caught in the song “It Wasn't Me”?",
-   "us": true,
-   "x": true
+   "prompt": "Welches sind Lieder vom absoluten Ausnahmekünstler Pietro Lombardi?",
+   "us": false,
+   "x": false
   },
   {
    "answers": [
@@ -12944,7 +13220,7 @@
    ],
    "id": "82101",
    "isValid": "",
-   "prompt": "Which of these are brands of bourbon?",
+   "prompt": "Welche davon sind Bourbon-Marken?",
    "us": true,
    "x": false
   },
@@ -13077,7 +13353,7 @@
      "text": "“My Beloved Monster” - Eels"
     },
     {
-     "text": "“Hallelujah” (Leonard Cohen cover) - Rufus Wainwright"
+     "text": "“Hallelujah” (Cover) - Rufus Wainwright"
     },
     {
      "text": "“You Belong To Me“ - Jason Wade"
@@ -13086,13 +13362,13 @@
      "text": "“The Best Years of Our Lives“ - Baha Men"
     },
     {
-     "text": "“I'm A Believer“ (cover) - Smashmouth"
+     "text": "“I'm A Believer“ (Cover) - Smashmouth"
     }
    ],
    "category": "Music",
    "decoys": [
     {
-     "text": "“Hallelujah” (Leonard Cohen cover) - Jeff Buckley"
+     "text": "“Hallelujah” (Cover) - Jeff Buckley"
     },
     {
      "text": "“Accidentally in Love” - Counting Crows"
@@ -13106,8 +13382,8 @@
    ],
    "id": "82209",
    "isValid": "",
-   "prompt": "Which songs are on the soundtrack album of the 2001 animated masterpiece [i]Shrek[/i]?",
-   "us": true,
+   "prompt": "Welche dieser Lieder sind auf dem Soundtrack-Album von “[i]Shrek - Der tollkühne Held[/i]”?",
+   "us": false,
    "x": false
   },
   {
@@ -13643,7 +13919,7 @@
    ],
    "id": "82693",
    "isValid": "",
-   "prompt": "Who were the pop music superstars of the 1999 “Latin Explosion”?",
+   "prompt": "Wer waren die Popmusik-Superstars der \"Latin Explosion\" von 1999?",
    "us": true,
    "x": false
   },
@@ -13773,64 +14049,73 @@
   {
    "answers": [
     {
-     "text": "\"I love you.\""
+     "text": "Link"
     },
     {
-     "text": "\"Will you play with me?\""
+     "text": "Zelda"
     },
     {
-     "text": "\"Please change my dress.\""
+     "text": "Impa"
     },
     {
-     "text": "\"Please brush my hair.\""
+     "text": "Shiek"
     },
     {
-     "text": "\"Where are we going?\""
+     "text": "Ganondorf"
     },
     {
-     "text": "\"Please carry me.\""
+     "text": "Malon"
     },
     {
-     "text": "\"I'm hungry!\""
+     "text": "Tetra"
     },
     {
-     "text": "\"I'm sleepy.\""
+     "text": "Midna"
     },
     {
-     "text": "\"Tell me a story.\""
+     "text": "Tingle"
     },
     {
-     "text": "\"Let's play house.\""
-    },
-    {
-     "text": "\"I hurt myself!\""
+     "text": "Navi"
     }
    ],
    "category": "Games",
    "decoys": [
     {
-     "text": "\"Obey.\""
+     "text": "Tracer"
     },
     {
-     "text": "\"I'm thirsty.\""
+     "text": "Resetti"
     },
     {
-     "text": "\"Is this all there is?\""
+     "text": "Kamek"
     },
     {
-     "text": "\"I want to be alone.\""
+     "text": "Melinda"
     },
     {
-     "text": "\"Sweet dreams!\""
+     "text": "Ratchet"
     },
     {
-     "text": "“Mother, I feel a deep emptiness.”"
+     "text": "Aloy"
+    },
+    {
+     "text": "Cloud"
+    },
+    {
+     "text": "Peach"
+    },
+    {
+     "text": "Dioji"
+    },
+    {
+     "text": "Nanaki"
     }
    ],
    "id": "82700",
    "isValid": "",
-   "prompt": "Which phrases was the original Chatty Cathy doll programmed to say upon its release in 1960?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um Charaktere aus der “[i]The Legend of Zelda[/i]”-Videospielreihe?",
+   "us": false,
    "x": false
   },
   {
@@ -14171,7 +14456,7 @@
    ],
    "id": "82869",
    "isValid": "",
-   "prompt": "Which of these pop stars used to be on a Disney Channel show?",
+   "prompt": "Welcher dieser Popstars war früher in einer Disney Channel Show?",
    "us": true,
    "x": false
   },
@@ -14219,7 +14504,7 @@
    ],
    "id": "82890",
    "isValid": "",
-   "prompt": "Who were the original members of Destiny's Child?",
+   "prompt": "Wer waren die ursprünglichen Mitglieder von Destiny's Child?",
    "us": true,
    "x": false
   },
@@ -14355,55 +14640,67 @@
   {
    "answers": [
     {
-     "text": "[i]Beloved[/i]"
+     "text": "Theodor Mommsen"
     },
     {
-     "text": "[i]The Bluest Eye[/i]"
+     "text": "Rudolf Eucken"
     },
     {
-     "text": "[i]Sula[/i]"
+     "text": "Paul Heyse"
     },
     {
-     "text": "[i]Song of Solomon[/i]"
+     "text": "Gerhart Hauptmann"
     },
     {
-     "text": "[i]Jazz[/i]"
+     "text": "Thomas Mann"
     },
     {
-     "text": "[i]Paradise[/i]"
+     "text": "Heinrich Böll"
     },
     {
-     "text": "[i]A Mercy[/i]"
+     "text": "Günter Grass"
     },
     {
-     "text": "[i]Home[/i]"
+     "text": "Herta Müller"
     }
    ],
    "category": "Literature",
    "decoys": [
     {
-     "text": "[i]Harry Potter and the Sorcerer's Stone[/i]"
+     "text": "Roland Emmerich"
     },
     {
-     "text": "[i]Murder on the Orient Express[/i]"
+     "text": "Heinrich Mann"
     },
     {
-     "text": "[i]Madame Bovary[/i]"
+     "text": "Gabriele Reuter"
     },
     {
-     "text": "[i]Swing Time[/i]"
+     "text": "Erich Kästner"
     },
     {
-     "text": "[i]East of Eden[/i]"
+     "text": "Michael Ende"
     },
     {
-     "text": "[i]A Farewell to Arms[/i]"
+     "text": "Charlotte Link"
+    },
+    {
+     "text": "Friedrich Schiller"
+    },
+    {
+     "text": "Bernd Rubio"
+    },
+    {
+     "text": "Markus Tillmann"
+    },
+    {
+     "text": "Karl May"
     }
    ],
    "id": "82902",
    "isValid": "",
-   "prompt": "Which of these are Toni Morrison novels?",
-   "us": true,
+   "prompt": "Welche dieser Personen sind deutsche Gewinner des [i]Literaturnobelpreises[/i]? (Stand 2021)",
+   "us": false,
    "x": false
   },
   {
@@ -14529,97 +14826,136 @@
   {
    "answers": [
     {
-     "text": "King"
+     "text": "Mysterio"
     },
     {
-     "text": "California King"
+     "text": "Grüner Kobold"
     },
     {
-     "text": "Queen"
+     "text": "Vulture"
     },
     {
-     "text": "Full"
+     "text": "Doctor Octopus"
     },
     {
-     "text": "Twin"
+     "text": "Electro"
     },
     {
-     "text": "Twin XL"
+     "text": "Rhino"
     },
     {
-     "text": "Olympic Queen"
+     "text": "Venom"
+    },
+    {
+     "text": "Black Tarantula"
+    },
+    {
+     "text": "Tombstone"
+    },
+    {
+     "text": "Kingpin"
     }
    ],
-   "category": "Factoids",
+   "category": "Comics",
    "decoys": [
     {
-     "text": "California Queen"
+     "text": "Professor Zoom"
     },
     {
      "text": "Manhattan King"
     },
     {
-     "text": "Super Full"
+     "text": "Phantomias"
     },
     {
-     "text": "Junior"
+     "text": "Megalon"
     },
     {
-     "text": "Bunk"
+     "text": "Skunk"
+    },
+    {
+     "text": "Red Tornado"
+    },
+    {
+     "text": "Fantomah"
     }
    ],
    "id": "83035",
    "isValid": "",
-   "prompt": "Which of these are common mattress sizes in the U.S.?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um Gegner von [i]Spider-Man[/i]?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Big Questions"
+     "text": "[i]007 jagt Dr. No[/i]"
     },
     {
-     "text": "Extemporaneous Debate"
+     "text": "[i]Liebesgrüße aus Moskau[/i]"
     },
     {
-     "text": "Mixed Extemporaneous Speaking"
+     "text": "[i]Goldfinger[/i]"
     },
     {
-     "text": "Prose"
+     "text": "[i]Feuerball[/i]"
     },
     {
-     "text": "Dramatic Interpretation"
+     "text": "[i]Man lebt nur zweimal[/i]"
     },
     {
-     "text": "Humorous Interpretation"
+     "text": "[i]Der Spion, der mich liebte[/i]"
     },
     {
-     "text": "Congressional Debate"
+     "text": "[i]Octopussy[/i]"
     },
     {
-     "text": "Original Oratory"
+     "text": "[i]GoldenEye[/i]"
     },
     {
-     "text": "Impromptu"
+     "text": "[i]Lizenz zum Töten[/i]"
+    },
+    {
+     "text": "[i]Die Welt ist nicht genug[/i]"
+    },
+    {
+     "text": "[i]Skyfall[/i]"
+    },
+    {
+     "text": "[i]Keine Zeit zu sterben[/i]"
     }
    ],
-   "category": "Factoids",
+   "category": "Film & TV",
    "decoys": [
     {
-     "text": "Extemporaneous Expository"
+     "text": "[i]Der Tod ist nicht das Ende[/i]"
     },
     {
-     "text": "Humorous Debate"
+     "text": "[i]Operation Neapolitaner[/i]"
     },
     {
-     "text": "Mixed Yelling"
+     "text": "[i]Der Mann mit dem Platin-Colt[/i]"
+    },
+    {
+     "text": "[i]Ein Blick zum sterben[/i]"
+    },
+    {
+     "text": "[i]Alles hat ein Ende[/i]"
+    },
+    {
+     "text": "[i]Goldrausch[/i]"
+    },
+    {
+     "text": "[i]Ohne Netz und doppelten Boden[/i]"
+    },
+    {
+     "text": "[i]Morgen ist ein guter Tag zum sterben[/i]"
     }
    ],
    "id": "83060",
    "isValid": "",
-   "prompt": "Which of these are official student competition events developed by the National Speech & Debate Association?",
-   "us": true,
+   "prompt": "Welches sind echte Filme über [i]James Bond[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -14691,48 +15027,48 @@
   {
    "answers": [
     {
-     "text": "turnips"
+     "text": "Rüben"
     },
     {
-     "text": "collard greens"
+     "text": "Grünkohl"
     },
     {
-     "text": "oranges"
+     "text": "Orangen"
     },
     {
-     "text": "brussels sprouts"
+     "text": "Rosenkohl"
     },
     {
-     "text": "leeks"
+     "text": "Lauch"
     },
     {
-     "text": "sweet potatoes"
+     "text": "Süßkartoffeln"
     },
     {
-     "text": "kiwifruit"
+     "text": "Kiwi"
     },
     {
-     "text": "kale"
+     "text": "Grünkohl"
     }
    ],
    "category": "Food & Drink",
    "decoys": [
     {
-     "text": "mangoes"
+     "text": "Mangos"
     },
     {
-     "text": "summer fruit"
+     "text": "Sommerfrüchte"
     },
     {
-     "text": "booberry"
+     "text": "Brummbeeren"
     },
     {
-     "text": "chillmelon"
+     "text": "Chillmelone"
     }
    ],
    "id": "83082",
    "isValid": "",
-   "prompt": "Which of these produce items are typically in season in the winter in the Northern Hemisphere?",
+   "prompt": "Welcher dieser Produkte sind normalerweise in der Wintersaison in der nördlichen Hemisphäre üblich?",
    "us": true,
    "x": false
   },
@@ -15021,160 +15357,202 @@
   {
    "answers": [
     {
-     "text": "collection of things"
+     "text": "Aprikose"
     },
     {
-     "text": "radio or television receiver"
+     "text": "Erdbeere"
     },
     {
-     "text": "visual scenery"
+     "text": "Himbeere"
     },
     {
-     "text": "cutting, young plant, or bulb"
+     "text": "Pfirsich-Maracuja"
     },
     {
-     "text": "harden into a solid"
+     "text": "Zitrone"
     },
     {
-     "text": "adjust a clock"
+     "text": "Kirsche"
     },
     {
-     "text": "put, lay, or sit"
+     "text": "Mango"
     },
     {
-     "text": "start a fire"
+     "text": "Kiwi"
     },
     {
-     "text": "arranged in advance"
+     "text": "Kirsch-Banane"
+    },
+    {
+     "text": "Orange"
+    },
+    {
+     "text": "Waldfrucht"
     }
    ],
-   "category": "Language/Words/Grammar",
+   "category": "Food & Drinks",
    "decoys": [
     {
-     "text": "a fall to a lower level"
+     "text": "Spekulatius"
     },
     {
-     "text": "an emission of gas from the anus"
+     "text": "Knoblauch"
     },
     {
-     "text": "a strong unpleasant smell"
+     "text": "Feige"
     },
     {
-     "text": "an inflatable bag"
+     "text": "Johannisbeere"
     },
     {
-     "text": "to swell or puff out"
+     "text": "Vanille"
     },
     {
-     "text": "glide with a swaying motion"
+     "text": "Kaffee-Karamell"
+    },
+    {
+     "text": "Haselnuss"
+    },
+    {
+     "text": "Schokolade"
     }
    ],
    "id": "83927",
    "isValid": "",
-   "prompt": "Which of these are meanings for the word “set” in English?",
-   "us": true,
+   "prompt": "Welches sind echte [i]Froop[/i]-Sorten?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "environment"
+     "text": "1860"
     },
     {
-     "text": "nickelodeon"
+     "text": "1868"
     },
     {
-     "text": "copperhead"
+     "text": "1752"
     },
     {
-     "text": "marigold"
+     "text": "2144"
     },
     {
-     "text": "pleading"
+     "text": "2000"
     },
     {
-     "text": "ringleader"
+     "text": "2360"
     },
     {
-     "text": "stinks"
+     "text": "1936"
     },
     {
-     "text": "unironic"
+     "text": "4864"
+    },
+    {
+     "text": "1832"
     }
    ],
-   "category": "Language/Words/Grammar",
+   "category": "Calendar/Holidays",
    "decoys": [
     {
-     "text": "bugs"
+     "text": "1786"
     },
     {
-     "text": "shiner"
+     "text": "1902"
     },
     {
-     "text": "telemetry"
+     "text": "2007"
     },
     {
-     "text": "oxymoron"
+     "text": "1694"
     },
     {
-     "text": "toucan"
+     "text": "1574"
     },
     {
-     "text": "pizza"
+     "text": "2150"
+    },
+    {
+     "text": "2069"
     }
    ],
    "id": "83930",
    "isValid": "",
-   "prompt": "Which words contain an elemental metal inside them?",
-   "us": true,
+   "prompt": "Welche dieser Jahre waren oder werden Schaltjahre?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "hodor"
+     "text": "Karamell"
     },
     {
-     "text": "hodor"
+     "text": "Schoko-Nuss"
     },
     {
-     "text": "hodor"
+     "text": "Pistazie"
     },
     {
-     "text": "hodor"
+     "text": "Himbeere"
     },
     {
-     "text": "hodor"
+     "text": "Kirsche"
     },
     {
-     "text": "hodor"
+     "text": "Schoko"
     },
     {
-     "text": "hodor"
+     "text": "Zimt"
+    },
+    {
+     "text": "Vanille"
+    },
+    {
+     "text": "Apfel"
+    },
+    {
+     "text": "Erdbeere"
+    },
+    {
+     "text": "À la gebrannte Mandel"
     }
    ],
-   "category": "Film & TV",
+   "category": "Food & Drink",
    "decoys": [
     {
-     "text": "odor"
+     "text": "Stracciatella"
     },
     {
-     "text": "hors d'oeuvres"
+     "text": "À la Popcorn"
     },
     {
-     "text": "Mordor"
+     "text": "Kiwi"
     },
     {
-     "text": "hold door"
+     "text": "Cookies"
     },
     {
-     "text": "dodor"
+     "text": "À la Bratapfel"
+    },
+    {
+     "text": "Ananas"
+    },
+    {
+     "text": "Thunfisch"
+    },
+    {
+     "text": "Schwarze Johannisbeere"
+    },
+    {
+     "text": "Honig-Passionsfrucht"
     }
    ],
    "id": "84257",
    "isValid": "",
-   "prompt": "What words are spoken by Wylis in the first four seasons of [i]Game of Thrones[/i]?",
-   "us": true,
+   "prompt": "Welches sind echte “[i]Müller Milchreis Original[/i]”-Sorten?",
+   "us": false,
    "x": false
   },
   {
@@ -15501,103 +15879,124 @@
   {
    "answers": [
     {
-     "text": "Google Fiber"
+     "text": "[i]Transmorphers[/i]"
     },
     {
-     "text": "Cox"
+     "text": "[i]Snakes on a Train[/i]"
     },
     {
-     "text": "Spectrum"
+     "text": "[i]Krieg der Welten 2 - Die nächste Angriffswelle[/i]"
     },
     {
-     "text": "Verizon"
+     "text": "[i]Supernova 2012[/i]"
     },
     {
-     "text": "AT&T"
+     "text": "[i]The Terminators[/i]"
     },
     {
-     "text": "Xfinity"
+     "text": "[i]Thor - Der Allmächtige[/i]"
     },
     {
-     "text": "CenturyLink"
+     "text": "[i]Abraham Lincoln vs. Zombies[/i]"
     },
     {
-     "text": "HughesNet"
+     "text": "[i]Nazi Sky - Die Rückkehr des Bösen[/i]"
+    },
+    {
+     "text": "[i]Android Cop[/i]"
+    },
+    {
+     "text": "[i]Independents' Day[/i]"
+    },
+    {
+     "text": "[i]Triassic World[/i]"
+    },
+    {
+     "text": "[i]Interception[/i]"
     }
    ],
-   "category": "Companies & Brands",
+   "category": "Film & TV",
    "decoys": [
     {
-     "text": "Nestle"
+     "text": "[i]1917 - Kampf an der Front[/i]"
     },
     {
-     "text": "JP Morgan Chase"
+     "text": "[i]Angriff der Titanen[/i]"
     },
     {
-     "text": "DonkeyNet"
+     "text": "[i]Star Tracker: Beyond Imagination[/i]"
     },
     {
-     "text": "Cheugy"
+     "text": "[i]Ich - Einfach Unbelehrbar[/i]"
+    },
+    {
+     "text": "[i]Under Control[/i]"
+    },
+    {
+     "text": "[i]Kiss Kiss And Bang Bang[/i]"
+    },
+    {
+     "text": "[i]Infamous Bastards[/i]"
     }
    ],
    "id": "84786",
    "isValid": "",
-   "prompt": "Which of these are, or have been, TV and internet service providers in the U.S.?",
-   "us": true,
+   "prompt": "Welches sind echte [i]Mockbuster[/i], also billige Filme, die erfolgreiche Titel imitieren?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "flocci­nauci­nihili­pili­fication"
+     "text": "Streichholzschächtelchen"
     },
     {
-     "text": "antidisestablishmentarianism"
+     "text": "Fünfhundertfünfundfünfzig"
     },
     {
-     "text": "deinstitutionalization"
+     "text": "Quietscheentchen"
     },
     {
-     "text": "deoxyribonucleic"
+     "text": "Getriebesandschüttelmaschinenreiniger"
     },
     {
-     "text": "onomatopoeia"
+     "text": "Zylinderinnenwandtapetenkleistereimer"
     },
     {
-     "text": "uncharacteristically"
+     "text": "Onomatopoesie"
     },
     {
-     "text": "internationalization"
+     "text": "uncharakteristisch"
     },
     {
-     "text": "electroencephalographically"
+     "text": "elektroenzephalographisch"
     },
     {
-     "text": "pastime"
+     "text": "aggressiv"
     }
    ],
    "category": "Language/Words/Grammar",
    "decoys": [
     {
-     "text": "bellweather"
+     "text": "Schleswig-Hollstein"
     },
     {
-     "text": "aquiescences"
+     "text": "Meeresäuger"
     },
     {
-     "text": "counterevolutionaries"
+     "text": "Rythmus"
     },
     {
-     "text": "uncopywriteable"
+     "text": "Vorraussetzung"
     },
     {
-     "text": "incomprehensability"
+     "text": "Kreissaal"
     }
    ],
    "id": "84979",
    "isValid": "",
-   "prompt": "Which of these unusual words are spelled correctly?",
-   "us": true,
+   "prompt": "Welche dieser ungewöhnlichen Wörter sind richtig geschrieben?",
+   "us": false,
    "x": false
   },
   {
@@ -15801,53 +16200,59 @@
   {
    "answers": [
     {
-     "text": "tarantula"
+     "text": "Nachttischlampe"
     },
     {
-     "text": "crocodile"
+     "text": "Nachttischlampe"
     },
     {
-     "text": "bees"
+     "text": "Nachttischlampe"
     },
     {
-     "text": "elephant"
+     "text": "Nachttischlampe"
     },
     {
-     "text": "dog"
+     "text": "Nachttischlampe"
     },
     {
-     "text": "snake"
+     "text": "Nachttischlampe"
     },
     {
-     "text": "bull"
+     "text": "Nachttischlampe"
     },
     {
-     "text": "baby jaguar"
+     "text": "Nachttischlampe"
     }
    ],
-   "category": "Film & TV",
+   "category": "Language/Words/Grammar",
    "decoys": [
     {
-     "text": "black widow spider"
+     "text": "Nachtischlampe"
     },
     {
-     "text": "jellyfish"
+     "text": "Nachttischschlampe"
     },
     {
-     "text": "puffer fish"
+     "text": "Nachttischkrampe"
     },
     {
-     "text": "shark"
+     "text": "Deine Mutter"
     },
     {
-     "text": "hyena"
+     "text": "Nachtischpampe"
+    },
+    {
+     "text": "Nachttischrampe"
+    },
+    {
+     "text": "Nachtischwampe"
     }
    ],
    "id": "85056",
    "isValid": "",
-   "prompt": "Which of these real creatures have been used in photoshoots on [i]America’s Next Top Model[/i]?",
-   "us": true,
-   "x": false
+   "prompt": "Welche dieser Wörter sind [i]Nachttischlampe[/i]?",
+   "us": false,
+   "x": true
   },
   {
    "answers": [
@@ -15896,7 +16301,7 @@
    ],
    "id": "85113",
    "isValid": "",
-   "prompt": "Which of these individuals were capitalist titans of the American Gilded Age? (1870-1900)",
+   "prompt": "Welche dieser Personen waren kapitalistische Titanen des amerikanischen Gilded Age? (1870-1900)",
    "us": true,
    "x": false
   },
@@ -16155,25 +16560,34 @@
   {
    "answers": [
     {
-     "text": "[i]The Wedding Planner[/i]"
+     "text": "[i]Wedding Planner – Verliebt, verlobt, verplant[/i]"
     },
     {
      "text": "[i]27 Dresses[/i]"
     },
     {
-     "text": "[i]Deliver Us From Eva[/i]"
+     "text": "[i]Liebe mich, wenn du dich traust[/i]"
     },
     {
-     "text": "[i]John Tucker Must Die[/i]"
+     "text": "[i]Rache ist sexy[/i]"
     },
     {
-     "text": "[i]The Heartbreak Kid [/i]"
+     "text": "[i]Nach 7 Tagen – Ausgeflittert[/i]"
     },
     {
-     "text": "[i]Failure To Launch[/i]"
+     "text": "[i]Zum Ausziehen verführt[/i]"
     },
     {
-     "text": "[i]Bridget Jone’s Diary[/i]"
+     "text": "[i]Bridget Jones – Schokolade zum Frühstück[/i]"
+    },
+    {
+     "text": "[i]L’auberge espagnole – Barcelona für ein Jahr[/i]"
+    },
+    {
+     "text": "[i]Ein Date fürs Leben[/i]"
+    },
+    {
+     "text": "[i]Maria, ihm schmeckt’s nicht![/i]"
     }
    ],
    "category": "Film & TV",
@@ -16182,22 +16596,31 @@
      "text": "[i]Pretty Woman[/i]"
     },
     {
-     "text": "[i]Alien Vs. Predator[/i]"
+     "text": "[i]Alien vs. Predator[/i]"
     },
     {
-     "text": "[i]She's All That[/i]"
+     "text": "[i]Eine wie keine[/i]"
     },
     {
-     "text": "[i]Breakfast At Tiffany's[/i]"
+     "text": "[i]Frühstück bei Tiffany[/i]"
     },
     {
      "text": "[i]Midsommar[/i]"
+    },
+    {
+     "text": "[i]Die Hochzeit meines besten Freundes[/i]"
+    },
+    {
+     "text": "[i]Anderst schön[/i]"
+    },
+    {
+     "text": "[i]Quero-te tanto! - Ich will dich so sehr![/i]"
     }
    ],
    "id": "85444",
    "isValid": "",
-   "prompt": "Which of these movies are romantic comedies of the 2000s?",
-   "us": true,
+   "prompt": "Welche dieser Filme sind romantische Komödien aus den 2000er-Jahren?",
+   "us": false,
    "x": false
   },
   {
@@ -16455,49 +16878,52 @@
   {
    "answers": [
     {
-     "text": "Word"
+     "text": "Dreamcast"
     },
     {
-     "text": "Excel"
+     "text": "Nomad"
     },
     {
-     "text": "Powerpoint"
+     "text": "Mega Drive"
     },
     {
-     "text": "Access"
+     "text": "Game Gear"
     },
     {
-     "text": "Outlook"
+     "text": "Mega-CD"
     },
     {
-     "text": "Skype for Business"
+     "text": "Saturn"
     },
     {
-     "text": "Publisher"
+     "text": "32X"
     },
     {
-     "text": "InfoPath"
+     "text": "Master System"
     }
    ],
-   "category": "Companies & Brands",
+   "category": "Games",
    "decoys": [
     {
-     "text": "Discord"
+     "text": "Uranus"
     },
     {
-     "text": "Messenger"
+     "text": "Bronze"
     },
     {
-     "text": "Sheets"
+     "text": "Virtua Machine"
     },
     {
-     "text": "Steam"
+     "text": "Jupiter"
+    },
+    {
+     "text": "Entertainment System"
     }
    ],
    "id": "85606",
    "isValid": "",
-   "prompt": "Which of these applications have been bundled in Microsoft Office Suite?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um echte Videospielkonsolen von [i]Sega[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -16654,6 +17080,12 @@
     },
     {
      "text": "Triple H"
+    },
+    {
+     "text": "Rey Mysterio"
+    },
+    {
+     "text": "Shelton Benjamin"
     }
    ],
    "category": "Sports",
@@ -16669,12 +17101,18 @@
     },
     {
      "text": "“Not Polite” Mark McMeanerson"
+    },
+    {
+     "text": "Bombing Billy"
+    },
+    {
+     "text": "Sheldon Cooper"
     }
    ],
    "id": "85641",
    "isValid": "",
-   "prompt": "Which of these are (or were) real WWE wrestlers?",
-   "us": true,
+   "prompt": "Welches sind oder waren echte [i]WWE[/i]-Wrestler?",
+   "us": false,
    "x": false
   },
   {
@@ -17600,7 +18038,7 @@
    ],
    "id": "85979",
    "isValid": "",
-   "prompt": "Which actors portrayed captains of a version of the starship [i]Enterprise[/i]?",
+   "prompt": "Welche Schauspieler porträtierten Kapitäne einer Version des Raumschiffs [i]Enterprise[/i]?",
    "us": true,
    "x": false
   },
@@ -17799,61 +18237,73 @@
   {
    "answers": [
     {
-     "text": "Vice President"
+     "text": "Stellvertreter*in des Bundeskanzlers"
     },
     {
-     "text": "Chief of Staff"
+     "text": "Bundesminister*in der Finanzen"
     },
     {
-     "text": "Secretary of Defense"
+     "text": "Bundesminister*in des Innern"
     },
     {
-     "text": "Secretary of Education"
+     "text": "Bundesminister*in des Auswärtigen"
     },
     {
-     "text": "Secretary of Transportation"
+     "text": "Bundesminister*in für Arbeit und Soziales"
     },
     {
-     "text": "Secretary of Housing and Urban Development"
+     "text": "Bundesminister*in der Verteidigung"
     },
     {
-     "text": "Secretary of Interior"
+     "text": "Bundesminister*in für Familie, Senioren, Frauen und Jugend"
     },
     {
-     "text": "Attorney General"
+     "text": "Bundesminister*in für Digitales und Verkehr"
     },
     {
-     "text": "Secretary of the Treasury"
+     "text": "Bundesminister*in für Bildung und Forschung"
     },
     {
-     "text": "Secretary of State"
+     "text": "Bundesminister*in für wirtschaftliche Zusammenarbeit und Entwicklung"
     },
     {
-     "text": "Chair of the Council of Economic Advisers"
+     "text": "Chef*in des Bundeskanzleramts"
     },
     {
-     "text": "U.S. Ambassador to the United Nations"
+     "text": "Bundesminister*in für besondere Aufgaben"
     }
    ],
    "category": "Occupations",
    "decoys": [
     {
-     "text": "Chairman of the Joints Chiefs of Staff"
+     "text": "Bundesminister*in für Kultur und Kunst"
     },
     {
-     "text": "Chair of the Senate Budget Committee"
+     "text": "Bundesminister*in für Haushaltsfragen"
     },
     {
-     "text": "White House Press Secretary"
+     "text": "Chef*in der Öffentlichkeitsarbeit des Bundeskanzleramts"
     },
     {
-     "text": "Secretary of National Nutrition"
+     "text": "Vertretung des Gewerkschaftsverbandes"
+    },
+    {
+     "text": "Bundespräsident*in"
+    },
+    {
+     "text": "Bundesminister*in für Migration, Flüchtlinge und Integration"
+    },
+    {
+     "text": "Beauftragter der Bundesregierung für Ostdeutschland"
+    },
+    {
+     "text": "Bundesminister*in für die Aktenvernichtung"
     }
    ],
    "id": "86010",
    "isValid": "",
-   "prompt": "Which of these roles are part of the presidential cabinet of the United States?",
-   "us": true,
+   "prompt": "Welche dieser politischen Ämter sind Teil des deutschen [i]Bundeskabinetts[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -17921,7 +18371,7 @@
    ],
    "id": "86014",
    "isValid": "",
-   "prompt": "Welche dieser Tiere waren deutsche [i]Wildtiere des Jahres[/i] der 2000er Jahre?",
+   "prompt": "Welche dieser Tiere waren deutsche [i]Wildtiere des Jahres[/i] der 2000er-Jahre?",
    "us": false,
    "x": false
   },
@@ -18009,7 +18459,7 @@
      "text": "Muhammad Ali"
     },
     {
-     "text": "Evander Holyfield"
+     "text": "Wladimir Klitschko"
     },
     {
      "text": "George Foreman"
@@ -18019,6 +18469,9 @@
     },
     {
      "text": "Lennox Lewis"
+    },
+    {
+     "text": "Max Schmeling"
     }
    ],
    "category": "Sports",
@@ -18034,12 +18487,15 @@
     },
     {
      "text": "Tyson Beckford"
+    },
+    {
+     "text": "Florian “Doom Fist” Broder"
     }
    ],
    "id": "86023",
    "isValid": "",
-   "prompt": "Which of the following people once reigned as the undisputed world heavyweight boxing champion?",
-   "us": true,
+   "prompt": "Welche dieser Personen waren einst unangefochtene Weltmeister im Schwergewichtsboxen?",
+   "us": false,
    "x": false
   },
   {
@@ -18146,7 +18602,7 @@
    ],
    "id": "86031",
    "isValid": "",
-   "prompt": "Who are the original nine members of the Wu-Tang Clan?",
+   "prompt": "Wer sind die ursprünglichen neun Mitglieder des Wu-Tang-Clans?",
    "us": true,
    "x": true
   },
@@ -18255,55 +18711,70 @@
   {
    "answers": [
     {
-     "text": "[i]Can't Buy A Thrill[/i]"
+     "text": "Bellgrave"
     },
     {
-     "text": "[i]Countdown To Ecstasy[/i]"
+     "text": "Die Allergie"
     },
     {
-     "text": "[i]Pretzel Logic[/i]"
+     "text": "Dementi"
     },
     {
-     "text": "[i]Katy Lied[/i]"
+     "text": "Rinderwahnsinn"
     },
     {
-     "text": "[i]The Royal Scam[/i]"
+     "text": "Oomph!"
     },
     {
-     "text": "[i]Aja[/i]"
+     "text": "Metallspürhunde"
     },
     {
-     "text": "[i]Gaucho[/i]"
+     "text": "Janus"
     },
     {
-     "text": "[i]Two Against Nature[/i]"
+     "text": "De Randgruppe"
     },
     {
-     "text": "[i]Everything Must Go[/i]"
+     "text": "Treibhaus"
+    },
+    {
+     "text": "Nervenbeisser"
+    },
+    {
+     "text": "Eisbrecher"
+    },
+    {
+     "text": "Rammstein"
     }
    ],
    "category": "Music",
    "decoys": [
     {
-     "text": "[i]A Very Steely Dan Christmas[/i]"
+     "text": "Steinschlag"
     },
     {
-     "text": "[i]Help! We're Steely Dan[/i]"
+     "text": "Brandt"
     },
     {
-     "text": "[i]Steely Dan IV[/i]"
+     "text": "Hurrikan"
     },
     {
-     "text": "[i]Steely Dan's Rumours[/i]"
+     "text": "Flegel!"
     },
     {
-     "text": "[i]Dan Steely And The No-Good Twins[/i]"
+     "text": "Parasite"
+    },
+    {
+     "text": "Ausgebrannt"
+    },
+    {
+     "text": "Frittierfett"
     }
    ],
    "id": "86129",
    "isValid": "",
-   "prompt": "Which of the following are Steely Dan albums?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um echte Bands der [i]Neuen Deutschen Härte[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -18438,59 +18909,74 @@
   {
    "answers": [
     {
-     "text": "barbarian"
+     "text": "Delfin"
     },
     {
-     "text": "bard"
+     "text": "Nacktnasenwombat"
     },
     {
-     "text": "cleric"
+     "text": "Gabelschwanzseekuh"
     },
     {
-     "text": "druid"
+     "text": "Wanderratte"
     },
     {
-     "text": "fighter"
+     "text": "Panzernashorn"
     },
     {
-     "text": "monk"
+     "text": "Großer Langzungenflughund"
     },
     {
-     "text": "paladin"
+     "text": "Zwergfledermaus"
     },
     {
-     "text": "ranger"
+     "text": "Pazifisches Walross"
     },
     {
-     "text": "rogue"
+     "text": "Du"
     },
     {
-     "text": "sorcerer"
+     "text": "Chinesisches Schuppentier"
     },
     {
-     "text": "warlock"
+     "text": "Geflecktes Rüsselhündchen"
     },
     {
-     "text": "wizard"
+     "text": "Bennett-Baumkänguru"
+    },
+    {
+     "text": "Schnabeltier"
     }
    ],
-   "category": "Games",
+   "category": "Animals",
    "decoys": [
     {
-     "text": "thief"
+     "text": "Tigerhai"
     },
     {
-     "text": "sidekick"
+     "text": "Graugans"
     },
     {
-     "text": "scribe"
+     "text": "Weinbergschnecke"
+    },
+    {
+     "text": "Nesselqualle"
+    },
+    {
+     "text": "Seefledermaus"
+    },
+    {
+     "text": "Weberknecht"
+    },
+    {
+     "text": "Grüne Pfirsichblattlaus"
     }
    ],
    "id": "86193",
    "isValid": "",
-   "prompt": "Which of these are basic classes in [i]Dungeons & Dragons[/i] 5th Edition?",
-   "us": true,
-   "x": true
+   "prompt": "Welches sind [i]Säugetiere[/i]?",
+   "us": false,
+   "x": false
   },
   {
    "answers": [
@@ -18561,50 +19047,62 @@
   {
    "answers": [
     {
-     "text": "Veggie Pride Parade"
+     "text": "“Veggie Pride Parade”"
     },
     {
-     "text": "Cannabis Parade"
+     "text": "“Cannabis Parade”"
     },
     {
-     "text": "Puerto Rican Day Parade"
+     "text": "“Puerto Rican Day Parade”"
     },
     {
-     "text": "Celebrate Israel Parade"
+     "text": "“Celebrate Israel Parade”"
     },
     {
-     "text": "Philippine Independence Day Parade"
+     "text": "“Philippine Independence Day Parade”"
     },
     {
-     "text": "Albanian Parade"
+     "text": "“Albanian Parade”"
     },
     {
-     "text": "Mermaid Parade"
+     "text": "“Mermaid Parade”"
     },
     {
-     "text": "Witch Pride Parade"
+     "text": "“Witch Pride Parade”"
     },
     {
-     "text": "Halloween Dog Parade"
+     "text": "“Halloween Dog Parade”"
+    },
+    {
+     "text": "“Topless Parade”"
+    },
+    {
+     "text": "“Greek Independence Day Parade”"
     }
    ],
    "category": "Pop Culture",
    "decoys": [
     {
-     "text": "Cat Appreciation Parade"
+     "text": "“Cat Appreciation Parade”"
     },
     {
-     "text": "NY Cabbage Farmers Parade"
+     "text": "“NY Carrot Farmers Parade”"
     },
     {
-     "text": "Tourists Visiting from Iowa Parade"
+     "text": "“Tourists Visiting from Iowa Parade”"
+    },
+    {
+     "text": "“Sex Workers Praise Parade”"
+    },
+    {
+     "text": "“Angela Merkel Fan Parade”"
     }
    ],
    "id": "86376",
    "isValid": "",
-   "prompt": "Which of these are actual parades that have been held in New York City?",
-   "us": true,
-   "x": false
+   "prompt": "Welche dieser Paraden haben wirklich in New York stattgefunden?",
+   "us": false,
+   "x": true
   },
   {
    "answers": [
@@ -18849,58 +19347,70 @@
   {
    "answers": [
     {
-     "text": "“Will the Real Martian Please Stand Up?”"
+     "text": "“Kollision”"
     },
     {
-     "text": "“Time Enough at Last”"
+     "text": "“Die kleine Prinzessin”"
     },
     {
-     "text": "“The Monsters Are Due on Maple Street”"
+     "text": "“Bomben bei Kilometer 92”"
     },
     {
-     "text": "“The Howling Man”"
+     "text": "“Babyalarm”"
     },
     {
-     "text": "“Five Characters in Search of an Exit”"
+     "text": "“FKK-Alarm für Semir”"
     },
     {
-     "text": "“I Sing the Body Electric”"
+     "text": "“Wo ist Semir?”"
     },
     {
-     "text": "“Nightmare at 20,000 Feet”"
+     "text": "“Abflug”"
     },
     {
-     "text": "“An Occurrence at Owl Creek Bridge”"
+     "text": "“Hetzjagd auf Semir”"
     },
     {
-     "text": "“I Am the Night—Color Me Black”"
+     "text": "“Liebesgrüße aus Moskau”"
     },
     {
-     "text": "“Where Is Everybody?”"
+     "text": "“Der Mentalist”"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "“Scarecrow Walks at Midnight”"
+     "text": "“Wer ist Semir?”"
     },
     {
-     "text": "“If the Shoe Fits”"
+     "text": "“Holz vor der Hütte”"
     },
     {
-     "text": "“The Rod Serling Power Hour”"
+     "text": "“Auf den Spuren meiner Mutter”"
     },
     {
-     "text": "“The Ugly Barnacle”"
+     "text": "“Verlorene Fracht”"
     },
     {
-     "text": "“A Most Perplexing Predicament”"
+     "text": "“Hinter Schloss und Riegel”"
+    },
+    {
+     "text": "“Vereitelter Spieleabend”"
+    },
+    {
+     "text": "“Toter Geisterfahrer”"
+    },
+    {
+     "text": "“Regentag-Zulage”"
+    },
+    {
+     "text": "“Brot und Ziele”"
     }
    ],
    "id": "86449",
    "isValid": "",
-   "prompt": "Which of these are real episodes from the original [i]The Twilight Zone[/i] series?",
-   "us": true,
+   "prompt": "Welches sind echte Folgentitel von “[i]Alarm für Cobra 11 - Die Autobahnpolizei[/i]”?",
+   "us": false,
    "x": false
   },
   {
@@ -19506,61 +20016,73 @@
   {
    "answers": [
     {
-     "text": "Santa with Face Mask"
+     "text": "Karnimani"
     },
     {
-     "text": "Ranch Dressing"
+     "text": "Fletiamo"
     },
     {
-     "text": "T-Rex"
+     "text": "Dusselgurr"
     },
     {
-     "text": "Power Drill"
+     "text": "Katapuldra"
     },
     {
-     "text": "Cannoli"
+     "text": "Puponcho"
     },
     {
-     "text": "Yoga Mat"
+     "text": "Volbeat"
     },
     {
-     "text": "Howling Wolf"
+     "text": "Onix"
     },
     {
-     "text": "Crossword Puzzle"
+     "text": "Brigaron"
     },
     {
-     "text": "Toilet Plunger"
+     "text": "Pikachu"
     },
     {
-     "text": "Sasquatch"
+     "text": "Kapu-Riki"
     },
     {
-     "text": "Guacamole"
+     "text": "Efoserp"
     },
     {
-     "text": "Meatball Sandwich"
+     "text": "Schiggy"
+    },
+    {
+     "text": "Lauchzelot"
     }
    ],
-   "category": "Calendar/Holidays",
+   "category": "Games",
    "decoys": [
     {
-     "text": "Therapist"
+     "text": "Brikador"
     },
     {
-     "text": "All-Knowing Wheel"
+     "text": "Flosera"
     },
     {
-     "text": "The Band Chumbawumba"
+     "text": "Nagpfel"
     },
     {
-     "text": "Bullfighter"
+     "text": "Zabrelos"
+    },
+    {
+     "text": "Flori"
+    },
+    {
+     "text": "Kapu-Loca"
+    },
+    {
+     "text": "Volcora"
     }
    ],
    "id": "86479",
    "isValid": "",
-   "prompt": "As of 2021, which of the following are real Christmas tree ornaments that could be purchased from Old World Christmas dot com?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um echte Pokémon?",
+   "us": false,
    "x": false
   },
   {
@@ -19742,7 +20264,7 @@
    ],
    "id": "86502",
    "isValid": "",
-   "prompt": "Which songs contain dance instructions in the lyrics?",
+   "prompt": "Welche Songs enthalten Tanzanweisungen in den Texten?",
    "us": true,
    "x": false
   },
@@ -19911,49 +20433,49 @@
   {
    "answers": [
     {
-     "text": "[i]Grease[/i]"
+     "text": "Plaza Mayor"
     },
     {
-     "text": "[i]West Side Story[/i]"
+     "text": "Museo del Prado"
     },
     {
-     "text": "[i]Heathers[/i]"
+     "text": "Puerta del Sol"
     },
     {
-     "text": "[i]Spring Awakening[/i]"
-    },
-    {
-     "text": "[i]Mean Girls[/i]"
-    },
-    {
-     "text": "[i]Hairspray[/i]"
-    },
-    {
-     "text": "[i]Dear Evan Hansen[/i]"
-    },
-    {
-     "text": "[i]Footloose[/i]"
+     "text": "Calle Gran Vía"
     }
    ],
-   "category": "Theatre/Performing Arts",
+   "category": "Geography & Landmarks",
    "decoys": [
     {
-     "text": "[i]Cabaret[/i]"
+     "text": "Sagrada Familia"
     },
     {
-     "text": "[i]Kinky Boots[/i]"
+     "text": "Casa Milà"
     },
     {
-     "text": "[i]Waitress[/i]"
+     "text": "Plaza de Espana"
     },
     {
-     "text": "[i]Rent[/i]"
+     "text": "Parque Güell"
+    },
+    {
+     "text": "Alhambra"
+    },
+    {
+     "text": "Mosteiro dos Jerónimos"
+    },
+    {
+     "text": "Jardin des Tuileries"
+    },
+    {
+     "text": "Forum Romanum"
     }
    ],
    "id": "86517",
    "isValid": "",
-   "prompt": "Which of these Broadway musicals are set in high school?",
-   "us": true,
+   "prompt": "Welche der folgenden Sehenswürdigkeiten habe ich bei meinem Städtetrip nach Madrid letzten Sommer gesehen?",
+   "us": false,
    "x": false
   },
   {
@@ -20013,106 +20535,109 @@
   {
    "answers": [
     {
-     "text": "Taylor Swift"
+     "text": "Erdbeere"
     },
     {
-     "text": "David Fincher"
+     "text": "Himbeere"
     },
     {
-     "text": "Alex Swan"
+     "text": "Brombeere"
     },
     {
-     "text": "Jay Leno"
+     "text": "Holunderbeere"
     },
     {
-     "text": "Screamin' Jay Hawkins"
+     "text": "Vogelbeere"
     },
     {
-     "text": "Robin Willams"
+     "text": "Wacholderbeere"
     },
     {
-     "text": "Gil Scott-Heron"
-    },
-    {
-     "text": "Starling Marte"
-    },
-    {
-     "text": "Russell Crowe"
+     "text": "Kirsche"
     }
    ],
-   "category": "Animals",
+   "category": "Factoids",
    "decoys": [
     {
-     "text": "\"Weird Al\" Yankovic"
+     "text": "Heidelbeere"
     },
     {
-     "text": "David Duchovny"
+     "text": "Kiwi"
     },
     {
-     "text": "Bob Mortimer"
+     "text": "Preiselbeere"
     },
     {
-     "text": "Wayne Brady"
+     "text": "Stachelbeere"
     },
     {
-     "text": "Ben Jacobs"
+     "text": "Rote Johannisbeere"
     },
     {
-     "text": "Anthony Rizzo"
+     "text": "Banane"
+    },
+    {
+     "text": "Avocado"
+    },
+    {
+     "text": "Weinbeere"
+    },
+    {
+     "text": "Guave"
     }
    ],
    "id": "86547",
    "isValid": "",
-   "prompt": "Which of these people have a bird somewhere in their name?",
-   "us": true,
+   "prompt": "Bei welchen dieser Pflanzen handelt es sich im Sinne der Botanik NICHT um [i]Beeren[/i]?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Graham Chapman"
+     "text": "[i]Monty Python's Fliegender Zirkus[/i]"
     },
     {
-     "text": "John Cleese"
+     "text": "[i]Monty Pythons wunderbare Welt der Schwerkraft[/i]"
     },
     {
-     "text": "Terry Gilliam"
+     "text": "[i]Die Ritter der Kokosnuß[/i]"
     },
     {
-     "text": "Eric Idle"
+     "text": "[i]Das Leben des Brian[/i]"
     },
     {
-     "text": "Terry Jones"
-    },
-    {
-     "text": "Michael Palin"
+     "text": "[i]Der Sinn des Lebens[/i]"
     }
    ],
-   "category": "Celebrities",
+   "category": "Film & TV",
    "decoys": [
     {
-     "text": "Spike Milligan"
+     "text": "[i]Die Jagd nach der goldenen Ananas[/i]"
     },
     {
-     "text": "Stephen Fry"
+     "text": "[i]Die schrägsten Vögel der hinteren Bachgasse[/i]"
     },
     {
-     "text": "Benny Hill"
+     "text": "[i]SPAM, SPAM, SPAM, Eier und SPAM[/i]"
     },
     {
-     "text": "Rowan Atkinson"
+     "text": "[i]Keine Pause für Blitzbart[/i]"
     },
     {
-     "text": "Simon Pegg"
+     "text": "[i]Monty Pythons groteske Welt des Fussballs[/i]"
     },
     {
-     "text": "Tracey Ullman"
+     "text": "[i]Monty Pythons 70 Drunterflieger[/i]"
+    },
+    {
+     "text": "[i]Himmelfahrtskommando[/i]"
     }
    ],
    "id": "86695",
    "isValid": "",
-   "prompt": "Who were the Pythons of [i]Monty Python’s Flying Circus[/i]?",
-   "us": true,
+   "prompt": "Welches sind echte Filme und Serien der britischen Komikergruppe “[i]Monty Python[/i]”?",
+   "us": false,
    "x": false
   }
  ]
