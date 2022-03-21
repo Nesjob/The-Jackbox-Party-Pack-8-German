@@ -3735,7 +3735,7 @@
    "id": "77645",
    "isValid": "",
    "prompt": "Welches davon sind Monster, die gegen Godzilla gekämpft haben?",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8772,52 +8772,73 @@
   {
    "answers": [
     {
-     "text": "Little Face"
+     "text": "Harz"
     },
     {
-     "text": "Flattop"
+     "text": "Schwäbische Alb"
     },
     {
-     "text": "Mumbles"
+     "text": "Lippe"
     },
     {
-     "text": "Big Boy Caprice"
+     "text": "Sauerland"
     },
     {
-     "text": "Itchy"
+     "text": "Allgäu"
     },
     {
-     "text": "Ribs Mocca"
+     "text": "Ostfriesland"
     },
     {
-     "text": "Shoulders"
+     "text": "Deutsche Nordseeküste"
     },
     {
-     "text": "The Brow"
+     "text": "Ruhrgebiet"
     },
     {
-     "text": "Lips Manlis"
+     "text": "Emsland"
+    },
+    {
+     "text": "Ostsee"
+    },
+    {
+     "text": "Franken"
+    },
+    {
+     "text": "Bodensee"
     }
    ],
-   "category": "Film & TV",
+   "category": "Games",
    "decoys": [
     {
-     "text": "The Mozz"
+     "text": "Eichsfeld"
     },
     {
-     "text": "Too Much Face"
+     "text": "Ostfalen"
     },
     {
-     "text": "Shivers"
+     "text": "Uckermark"
     },
     {
-     "text": "Ears"
+     "text": "Taunus"
+    },
+    {
+     "text": "Spessart"
+    },
+    {
+     "text": "Sorbenland"
+    },
+    {
+     "text": "Rhön"
+    },
+    {
+     "text": "Ortenau"
     }
    ],
    "id": "78865",
    "isValid": "",
-   "prompt": "Welche dieser ungewöhnlichen Namen sind Bösewichte aus dem Film [i]Dick Tracy[/i] von 1990?",
-   "us": true,
+   "prompt": "Welche dieser Regionen haben ihre eigene Version von [i]Monopoly[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -9132,13 +9153,13 @@
      "text": "Superkater"
     },
     {
-     "text": "Touché Turtle"
+     "text": "Scooby-Doo"
     },
     {
-     "text": "Magilla Gorilla"
+     "text": "Shaggy Rogers"
     },
     {
-     "text": "Ricochet Rabbit"
+     "text": "Penelope Pitstop"
     }
    ],
    "category": "Animation/Comic Books",
@@ -9154,12 +9175,18 @@
     },
     {
      "text": "Dagobert Duck"
+    },
+    {
+     "text": "Littlefoot"
+    },
+    {
+     "text": "Kommissar Hunter"
     }
    ],
    "id": "79125",
    "isValid": "",
-   "prompt": "Welche davon sind Hanna-Barbera-Zeichentrickfiguren?",
-   "us": true,
+   "prompt": "Welche davon sind [i]Hanna-Barbera[/i]-Zeichentrickfiguren?",
+   "us": false,
    "x": false
   },
   {
@@ -13222,7 +13249,7 @@
    "isValid": "",
    "prompt": "Welche davon sind Bourbon-Marken?",
    "us": true,
-   "x": false
+   "x": true
   },
   {
    "answers": [
@@ -15069,7 +15096,7 @@
    "id": "83082",
    "isValid": "",
    "prompt": "Welcher dieser Produkte sind normalerweise in der Wintersaison in der nördlichen Hemisphäre üblich?",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -16257,52 +16284,64 @@
   {
    "answers": [
     {
-     "text": "Andrew Carnegie"
+     "text": "Greig-Tulpe"
     },
     {
-     "text": "Andrew W. Mellon"
+     "text": "Seerosen-Tulpe"
     },
     {
-     "text": "J.P. Morgan"
+     "text": "Woll-Tulpe"
     },
     {
-     "text": "John D. Rockefeller"
+     "text": "Vierblättrige Tulpe"
     },
     {
-     "text": "Charles M. Schwab"
+     "text": "Zweiblütige Tulpe"
     },
     {
-     "text": "Cornelius Vanderbilt"
+     "text": "Felsen-Tulpe"
     },
     {
-     "text": "Jay Gould"
+     "text": "Stern-Tulpe"
     },
     {
-     "text": "James Fisk"
+     "text": "Damen-Tulpe"
+    },
+    {
+     "text": "Mogoltau-Tulpe"
+    },
+    {
+     "text": "Orphanides-Tulpe"
     }
    ],
-   "category": "Historical Figures",
+   "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "Elon Musk"
+     "text": "Pitbull-Tulpe"
     },
     {
-     "text": "Horatio Alger"
+     "text": "Fansi-Tulpe"
     },
     {
-     "text": "Daniel Plainview"
+     "text": "Fischersfrauen-Tulpe"
     },
     {
-     "text": "Upton Sinclair"
+     "text": "Maize-Tulpe"
     },
     {
-     "text": "Richard Branson"
+     "text": "Matrizen-Tulpe"
+    },
+    {
+     "text": "Haine-Tulpe"
+    },
+    {
+     "text": "Narcotique-Tulpe"
     }
    ],
    "id": "85113",
    "isValid": "",
-   "prompt": "Welche dieser Personen waren kapitalistische Titanen des amerikanischen Gilded Age? (1870-1900)",
-   "us": true,
+   "prompt": "Wobei handelt es sich um echte Arten von [i]Tulpen[/i]?",
+   "us": false,
    "x": false
   },
   {
