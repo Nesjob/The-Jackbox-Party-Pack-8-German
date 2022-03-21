@@ -948,55 +948,73 @@
   {
    "answers": [
     {
-     "text": "the way you talk to me"
+     "text": "Pantherpilz"
     },
     {
-     "text": "the way you cut your hair"
+     "text": "Schönfuß-Röhrling"
     },
     {
-     "text": "the way you drive my car"
+     "text": "Winterrübling"
     },
     {
-     "text": "when you stare"
+     "text": "Zitzenschirmpilz"
     },
     {
-     "text": "your big, dumb combat boots"
+     "text": "Erdschieber"
     },
     {
-     "text": "the way you read my mind"
+     "text": "Schusterpilz"
     },
     {
-     "text": "the way you're always right"
+     "text": "Blauer Lackpilz"
     },
     {
-     "text": "when you make me laugh"
+     "text": "Heiderotkappe"
     },
     {
-     "text": "the way I don't hate you"
+     "text": "Grauer Scheidenstreifling"
+    },
+    {
+     "text": "Pfifferling"
     }
    ],
-   "category": "Film & TV",
+   "category": "Factoids",
    "decoys": [
     {
-     "text": "the way you mansplain"
+     "text": "Orangener Lackpilz"
     },
     {
-     "text": "your tribal arm tattoo"
+     "text": "Katzenschweif"
     },
     {
-     "text": "how you really care"
+     "text": "Roter Schönling"
     },
     {
-     "text": "the way you stifle a sneeze"
+     "text": "Jakobusohr"
     },
     {
-     "text": "when you brag about volunteering at an animal shelter"
+     "text": "Kaiserrübling"
+    },
+    {
+     "text": "Großer Vasenschwamm"
+    },
+    {
+     "text": "Zitronendornkappe"
+    },
+    {
+     "text": "Pferdefeige"
+    },
+    {
+     "text": "Pigmentierter Lackpilz"
+    },
+    {
+     "text": "Kameradenkappe"
     }
    ],
    "id": "76774",
    "isValid": "",
-   "prompt": "Which of these are the hated things from the movie [i]10 Things I Hate About You[/i]?",
-   "us": true,
+   "prompt": "Welches sind echte [i]Pilze[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -3357,49 +3375,64 @@
   {
    "answers": [
     {
-     "text": "Solomon"
+     "text": "Löffelente"
     },
     {
-     "text": "Hercules"
+     "text": "Nachtigall"
     },
     {
-     "text": "Atlas"
+     "text": "Rotfußfalke"
     },
     {
-     "text": "Zeus"
+     "text": "Raubwürger"
     },
     {
-     "text": "Achilles"
+     "text": "Singdrossel"
     },
     {
-     "text": "Mercury"
+     "text": "Kuckuck"
+    },
+    {
+     "text": "Blaukehlchen"
+    },
+    {
+     "text": "Wachtel"
     }
    ],
-   "category": "Animation/Comic Books",
+   "category": "Animals",
    "decoys": [
     {
-     "text": "Hera"
+     "text": "Elster"
     },
     {
-     "text": "Aphrodite"
+     "text": "Habicht"
     },
     {
-     "text": "Moses"
+     "text": "Kleiber"
     },
     {
-     "text": "Samson"
+     "text": "Erlenzeisig"
     },
     {
-     "text": "Abraham"
+     "text": "Gimpel"
     },
     {
-     "text": "Zelda"
+     "text": "Haussperling"
+    },
+    {
+     "text": "Haubenmeise"
+    },
+    {
+     "text": "Türkentaube"
+    },
+    {
+     "text": "Buntspecht"
     }
    ],
    "id": "77357",
    "isValid": "",
-   "prompt": "What are the immortal elder names used in the acronym S.H.A.Z.A.M.?",
-   "us": true,
+   "prompt": "Welche dieser Vogelarten sind in unseren Breiten Zugvögel?",
+   "us": false,
    "x": false
   },
   {
@@ -6162,55 +6195,73 @@
   {
    "answers": [
     {
-     "text": "moons Lyndon B. Johnson"
+     "text": "Kuhmaul"
     },
     {
-     "text": "wins Congressional Medal of Honor"
+     "text": "Flachknolliger Anis-Champignon"
     },
     {
-     "text": "inspires Smiley Face design"
+     "text": "Semmel-Stoppelpilz"
     },
     {
-     "text": "invests in Apple"
+     "text": "Fichten-Steinpilz"
     },
     {
-     "text": "plays competitive ping-pong"
+     "text": "Stockschwämmchen"
     },
     {
-     "text": "survives Hurricane Carmen"
+     "text": "Totentrompete"
     },
     {
-     "text": "launches Bubba Gump Shrimp Company"
+     "text": "Schweinsohr"
     },
     {
-     "text": "accidentally breaks Watergate scandal"
+     "text": "Speise-Morchel"
+    },
+    {
+     "text": "Flockenstieliger Hexenröhrling"
+    },
+    {
+     "text": "Krause Glucke"
+    },
+    {
+     "text": "Gold-Röhrling"
     }
    ],
-   "category": "Film & TV",
+   "category": "Factoids",
    "decoys": [
     {
-     "text": "runs across Europe"
+     "text": "Spitzgebuckelter Raukopf"
     },
     {
-     "text": "helps Malcolm X find his keys"
+     "text": "Kartoffelbovist"
     },
     {
-     "text": "accidentally writes the song “Layla”"
+     "text": "Tiger-Ritterling"
     },
     {
-     "text": "appears on American Bandstand"
+     "text": "Frühjahrslorchel"
     },
     {
-     "text": "de-escalates Cuban Missile Crisis"
+     "text": "Schmetterlings-Tramete"
     },
     {
-     "text": "invents hip hop"
+     "text": "Tintenfischpilz"
+    },
+    {
+     "text": "Karbol-Champignon"
+    },
+    {
+     "text": "Lila-Dickfuß"
+    },
+    {
+     "text": "Fliegenpilz"
     }
    ],
    "id": "78159",
    "isValid": "",
-   "prompt": "What does Forrest Gump do in the movie [i]Forrest Gump[/i]?",
-   "us": true,
+   "prompt": "Welche dieser Pilze sind bedenkenlos essbar?",
+   "us": false,
    "x": false
   },
   {
@@ -6678,61 +6729,67 @@
   {
    "answers": [
     {
-     "text": "Justify"
+     "text": "[i]Die Känguru-Chroniken[/i]"
     },
     {
-     "text": "American Pharoah"
+     "text": "[i]Das Känguru-Manifest[/i]"
     },
     {
-     "text": "Barbaro"
+     "text": "[i]Die Känguru-Offenbarung[/i]"
     },
     {
-     "text": "Genuine Risk"
+     "text": "[i]Die Känguru-Apokryphen[/i]"
     },
     {
-     "text": "Secretariat"
+     "text": "[i]Prinzessin Popelkopf[/i]"
     },
     {
-     "text": "Affirmed"
+     "text": "[i]QualityLand[/i]"
     },
     {
-     "text": "Seattle Slew"
+     "text": "[i]Der Ostermann[/i]"
     },
     {
-     "text": "Spectacular Bid"
+     "text": "[i]Der Tag, an dem die Oma das Internet kaputt gemacht hat[/i]"
     },
     {
-     "text": "Northern Dancer"
+     "text": "[i]Das NEINhorn[/i]"
     },
     {
-     "text": "War Admiral"
+     "text": "[i]Der Tag, an dem Papa ein heikles Gespräch führen wollte[/i]"
     },
     {
-     "text": "Whirlaway"
-    },
-    {
-     "text": "Spend a Buck"
+     "text": "[i]Der Tag, an dem der Opa den Wasserkocher auf den Herd gestellt hat[/i]"
     }
    ],
-   "category": "Sports",
+   "category": "Literature",
    "decoys": [
     {
-     "text": "Seabiscuit"
+     "text": "[i]Die Känguru-Fibeln[/i]"
     },
     {
-     "text": "Mr. Fastman"
+     "text": "[i]Der Tag, an dem der Opa wieder zur Schule ging[/i]"
     },
     {
-     "text": "The Pep Boys Logo"
+     "text": "[i]Der Tag, an dem die Mama rückwärts einparken lernte[/i]"
     },
     {
-     "text": "Keep the Silver"
+     "text": "[i]Die Schildflötenkröte[/i]"
+    },
+    {
+     "text": "[i]Das fünfte Buch Känguru[/i]"
+    },
+    {
+     "text": "[i]Das Känguru-Evangelium[/i]"
+    },
+    {
+     "text": "[i]Ach, halt doch den Kant![/i]"
     }
    ],
    "id": "78303",
    "isValid": "",
-   "prompt": "Which of these were Kentucky Derby winners?",
-   "us": true,
+   "prompt": "Welches sind echte Bücher von Marc-Uwe Kling?",
+   "us": false,
    "x": false
   },
   {
@@ -6813,7 +6870,7 @@
      "text": "C"
     }
    ],
-   "category": "",
+   "category": "Music",
    "decoys": [
     {
      "text": "P"
@@ -7359,70 +7416,73 @@
   {
    "answers": [
     {
-     "text": "BeBe Zahara Benet"
+     "text": "Bernd Schneider"
     },
     {
-     "text": "Tyra Sanchez"
+     "text": "Laurent Aiello"
     },
     {
-     "text": "Raja"
+     "text": "Mattias Ekström"
     },
     {
-     "text": "Sharon Needles"
+     "text": "Gary Paffett"
     },
     {
-     "text": "Jinkx Monsoon"
+     "text": "Timo Scheider"
     },
     {
-     "text": "Bianca Del Rio"
+     "text": "Paul di Resta"
     },
     {
-     "text": "Violet Chachki"
+     "text": "Martin Tomczyk"
     },
     {
-     "text": "Bob The Drag Queen"
+     "text": "Bruno Spengler"
     },
     {
-     "text": "Sasha Velour"
+     "text": "Mike Rockenfeller"
     },
     {
-     "text": "Aquaria"
+     "text": "Marco Wittmann"
     },
     {
-     "text": "Yvie Oddly"
+     "text": "Pascal Wehrlein"
     },
     {
-     "text": "Jaida Essence Hall"
+     "text": "René Rast"
     },
     {
-     "text": "Symone"
+     "text": "Maximilian Götz"
     }
    ],
-   "category": "Film & TV",
+   "category": "Factoids",
    "decoys": [
     {
-     "text": "Princess Whispers"
+     "text": "Marcel Fässler"
     },
     {
-     "text": "Miz Pettycoats"
+     "text": "Stephan Ludowig"
     },
     {
-     "text": "Calliope"
+     "text": "Antonio Segni"
     },
     {
-     "text": "Lil' Poundcake"
+     "text": "Theo Heemskerk"
     },
     {
-     "text": "Georgina Sparkles"
+     "text": "Sebastian Vettel"
     },
     {
      "text": "Butch Cassidy"
+    },
+    {
+     "text": "Frank Dobras"
     }
    ],
    "id": "78422",
    "isValid": "",
-   "prompt": "Which queens are winners of [i]RuPaul's Drag Race[/i]?",
-   "us": true,
+   "prompt": "Welche dieser Personen waren Stand 2021 schon Champions der [i]DTM[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -7986,49 +8046,49 @@
   {
    "answers": [
     {
-     "text": "parasitic ice worms"
+     "text": "Parasitäre Eiswürmer"
     },
     {
-     "text": "wood mites"
+     "text": "Holzmilben"
     },
     {
-     "text": "poltergeists"
+     "text": "Poltergeister"
     },
     {
-     "text": "killer cockroaches"
+     "text": "Killer-Kakerlaken"
     },
     {
-     "text": "vampires"
+     "text": "Vampire"
     },
     {
-     "text": "invisible zoo animals"
+     "text": "Unsichtbare Zootiere"
     },
     {
-     "text": "killer clones"
+     "text": "Killer-Klone"
     },
     {
-     "text": "sea monster"
+     "text": "Meeresungeheuer"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "evil chipmunks"
+     "text": "Killer-Streifenhörnchen"
     },
     {
-     "text": "killer reindeer"
+     "text": "Kampf-Rentiere"
     },
     {
-     "text": "attack millipedes"
+     "text": "Riesen-Tausendfüßer"
     },
     {
-     "text": "pack of mummies"
+     "text": "Mumien-Rudel"
     }
    ],
    "id": "78664",
    "isValid": "",
-   "prompt": "Which of these are monsters Mulder & Scully encountered in [i]The X-Files[/i]?",
-   "us": true,
+   "prompt": "Welchen dieser abscheulichen Monster sind Mulder und Scully in “[i]Akte X[/i]” begegnet?",
+   "us": false,
    "x": false
   },
   {
@@ -9447,49 +9507,64 @@
   {
    "answers": [
     {
-     "text": "“The Road Not Taken”"
+     "text": "Herzeleid"
     },
     {
-     "text": "“Fire and Ice”"
+     "text": "Sehnsucht"
     },
     {
-     "text": "“Tree at My Window”"
+     "text": "Mutter"
     },
     {
-     "text": "“Birches”"
+     "text": "Reise, Reise"
     },
     {
-     "text": "“Christmas Trees”"
+     "text": "Rosenrot"
     },
     {
-     "text": "“Mending Wall”"
+     "text": "Liebe ist für alle da"
     },
     {
-     "text": "“Stopping by Woods on a Snowy Evening”"
+     "text": "Unbetitelt"
     }
    ],
-   "category": "Literature",
+   "category": "Music",
    "decoys": [
     {
-     "text": "“Another Tree Poem”"
+     "text": "Gerechtigkeit"
     },
     {
-     "text": "“The Raven”"
+     "text": "On the Spur of the Moment"
     },
     {
-     "text": "“A Light in the Attic”"
+     "text": "Es war einmal..."
     },
     {
-     "text": "“Jabberwocky”"
+     "text": "Rastlos"
     },
     {
-     "text": "“Ye Olde Porch Swing”"
+     "text": "Zerfall"
+    },
+    {
+     "text": "Feuer und Flamme"
+    },
+    {
+     "text": "Wohlfühlgarantie"
+    },
+    {
+     "text": "(Zensiert)"
+    },
+    {
+     "text": "Märchenprinzen"
+    },
+    {
+     "text": "Eure Mami"
     }
    ],
    "id": "79201",
    "isValid": "",
-   "prompt": "Which of these are poems by your grandfather's favorite poet, Robert Frost?",
-   "us": true,
+   "prompt": "Welches sind echte Alben von [i]Rammstein[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -12288,55 +12363,73 @@
   {
    "answers": [
     {
-     "text": "wake up at 7am"
+     "text": "Methan"
     },
     {
-     "text": "go downstairs"
+     "text": "Ethan"
     },
     {
-     "text": "have a bowl of cereal"
+     "text": "Propan"
     },
     {
-     "text": "get down to the bus stop"
+     "text": "Octatriacontan"
     },
     {
-     "text": "catch the bus"
+     "text": "Nonan"
     },
     {
-     "text": "see her friends"
+     "text": "Decan"
     },
     {
-     "text": "contemplate seat choice"
+     "text": "Undecan"
     },
     {
-     "text": "look forward to the weekend"
+     "text": "Eicosan"
     },
     {
-     "text": "partyin’ partyin’ YEAH"
+     "text": "Pentadecan"
+    },
+    {
+     "text": "Heptacosan"
+    },
+    {
+     "text": "Heneicosan"
+    },
+    {
+     "text": "Tetratetracontan"
     }
    ],
-   "category": "Music",
+   "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "do her homework"
+     "text": "Doplan"
     },
     {
-     "text": "build a house"
+     "text": "Khavlan"
     },
     {
-     "text": "take a Xanax"
+     "text": "Triplodecan"
     },
     {
-     "text": "write a novel"
+     "text": "Psithan"
     },
     {
-     "text": "toast a bagel"
+     "text": "Triesiacontan"
+    },
+    {
+     "text": "Octabanan"
+    },
+    {
+     "text": "Pentabanan"
+    },
+    {
+     "text": "Zewacontan"
     }
    ],
    "id": "80449",
    "isValid": "",
-   "prompt": "What are some things Rebecca Black does in her infamous single “Friday”?",
-   "us": true,
+   "prompt": "Welche dieser Stoffe sind Teil der [i]Homologen Reihe der Alkane[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -14547,55 +14640,67 @@
   {
    "answers": [
     {
-     "text": "[i]Beloved[/i]"
+     "text": "Theodor Mommsen"
     },
     {
-     "text": "[i]The Bluest Eye[/i]"
+     "text": "Rudolf Eucken"
     },
     {
-     "text": "[i]Sula[/i]"
+     "text": "Paul Heyse"
     },
     {
-     "text": "[i]Song of Solomon[/i]"
+     "text": "Gerhart Hauptmann"
     },
     {
-     "text": "[i]Jazz[/i]"
+     "text": "Thomas Mann"
     },
     {
-     "text": "[i]Paradise[/i]"
+     "text": "Heinrich Böll"
     },
     {
-     "text": "[i]A Mercy[/i]"
+     "text": "Günter Grass"
     },
     {
-     "text": "[i]Home[/i]"
+     "text": "Herta Müller"
     }
    ],
    "category": "Literature",
    "decoys": [
     {
-     "text": "[i]Harry Potter and the Sorcerer's Stone[/i]"
+     "text": "Roland Emmerich"
     },
     {
-     "text": "[i]Murder on the Orient Express[/i]"
+     "text": "Heinrich Mann"
     },
     {
-     "text": "[i]Madame Bovary[/i]"
+     "text": "Gabriele Reuter"
     },
     {
-     "text": "[i]Swing Time[/i]"
+     "text": "Erich Kästner"
     },
     {
-     "text": "[i]East of Eden[/i]"
+     "text": "Michael Ende"
     },
     {
-     "text": "[i]A Farewell to Arms[/i]"
+     "text": "Charlotte Link"
+    },
+    {
+     "text": "Friedrich Schiller"
+    },
+    {
+     "text": "Bernd Rubio"
+    },
+    {
+     "text": "Markus Tillmann"
+    },
+    {
+     "text": "Karl May"
     }
    ],
    "id": "82902",
    "isValid": "",
-   "prompt": "Which of these are Toni Morrison novels?",
-   "us": true,
+   "prompt": "Welche dieser Personen sind deutsche Gewinner des [i]Literaturnobelpreises[/i]? (Stand 2021)",
+   "us": false,
    "x": false
   },
   {
@@ -16095,53 +16200,59 @@
   {
    "answers": [
     {
-     "text": "tarantula"
+     "text": "Nachttischlampe"
     },
     {
-     "text": "crocodile"
+     "text": "Nachttischlampe"
     },
     {
-     "text": "bees"
+     "text": "Nachttischlampe"
     },
     {
-     "text": "elephant"
+     "text": "Nachttischlampe"
     },
     {
-     "text": "dog"
+     "text": "Nachttischlampe"
     },
     {
-     "text": "snake"
+     "text": "Nachttischlampe"
     },
     {
-     "text": "bull"
+     "text": "Nachttischlampe"
     },
     {
-     "text": "baby jaguar"
+     "text": "Nachttischlampe"
     }
    ],
-   "category": "Film & TV",
+   "category": "Language/Words/Grammar",
    "decoys": [
     {
-     "text": "black widow spider"
+     "text": "Nachtischlampe"
     },
     {
-     "text": "jellyfish"
+     "text": "Nachttischschlampe"
     },
     {
-     "text": "puffer fish"
+     "text": "Nachttischkrampe"
     },
     {
-     "text": "shark"
+     "text": "Deine Mutter"
     },
     {
-     "text": "hyena"
+     "text": "Nachtischpampe"
+    },
+    {
+     "text": "Nachttischrampe"
+    },
+    {
+     "text": "Nachtischwampe"
     }
    ],
    "id": "85056",
    "isValid": "",
-   "prompt": "Which of these real creatures have been used in photoshoots on [i]America’s Next Top Model[/i]?",
-   "us": true,
-   "x": false
+   "prompt": "Welche dieser Wörter sind [i]Nachttischlampe[/i]?",
+   "us": false,
+   "x": true
   },
   {
    "answers": [
@@ -16449,25 +16560,34 @@
   {
    "answers": [
     {
-     "text": "[i]The Wedding Planner[/i]"
+     "text": "[i]Wedding Planner – Verliebt, verlobt, verplant[/i]"
     },
     {
      "text": "[i]27 Dresses[/i]"
     },
     {
-     "text": "[i]Deliver Us From Eva[/i]"
+     "text": "[i]Liebe mich, wenn du dich traust[/i]"
     },
     {
-     "text": "[i]John Tucker Must Die[/i]"
+     "text": "[i]Rache ist sexy[/i]"
     },
     {
-     "text": "[i]The Heartbreak Kid [/i]"
+     "text": "[i]Nach 7 Tagen – Ausgeflittert[/i]"
     },
     {
-     "text": "[i]Failure To Launch[/i]"
+     "text": "[i]Zum Ausziehen verführt[/i]"
     },
     {
-     "text": "[i]Bridget Jone’s Diary[/i]"
+     "text": "[i]Bridget Jones – Schokolade zum Frühstück[/i]"
+    },
+    {
+     "text": "[i]L’auberge espagnole – Barcelona für ein Jahr[/i]"
+    },
+    {
+     "text": "[i]Ein Date fürs Leben[/i]"
+    },
+    {
+     "text": "[i]Maria, ihm schmeckt’s nicht![/i]"
     }
    ],
    "category": "Film & TV",
@@ -16476,22 +16596,31 @@
      "text": "[i]Pretty Woman[/i]"
     },
     {
-     "text": "[i]Alien Vs. Predator[/i]"
+     "text": "[i]Alien vs. Predator[/i]"
     },
     {
-     "text": "[i]She's All That[/i]"
+     "text": "[i]Eine wie keine[/i]"
     },
     {
-     "text": "[i]Breakfast At Tiffany's[/i]"
+     "text": "[i]Frühstück bei Tiffany[/i]"
     },
     {
      "text": "[i]Midsommar[/i]"
+    },
+    {
+     "text": "[i]Die Hochzeit meines besten Freundes[/i]"
+    },
+    {
+     "text": "[i]Anderst schön[/i]"
+    },
+    {
+     "text": "[i]Quero-te tanto! - Ich will dich so sehr![/i]"
     }
    ],
    "id": "85444",
    "isValid": "",
-   "prompt": "Which of these movies are romantic comedies of the 2000s?",
-   "us": true,
+   "prompt": "Welche dieser Filme sind romantische Komödien aus den 2000er-Jahren?",
+   "us": false,
    "x": false
   },
   {
@@ -18242,7 +18371,7 @@
    ],
    "id": "86014",
    "isValid": "",
-   "prompt": "Welche dieser Tiere waren deutsche [i]Wildtiere des Jahres[/i] der 2000er Jahre?",
+   "prompt": "Welche dieser Tiere waren deutsche [i]Wildtiere des Jahres[/i] der 2000er-Jahre?",
    "us": false,
    "x": false
   },
@@ -18918,50 +19047,62 @@
   {
    "answers": [
     {
-     "text": "Veggie Pride Parade"
+     "text": "“Veggie Pride Parade”"
     },
     {
-     "text": "Cannabis Parade"
+     "text": "“Cannabis Parade”"
     },
     {
-     "text": "Puerto Rican Day Parade"
+     "text": "“Puerto Rican Day Parade”"
     },
     {
-     "text": "Celebrate Israel Parade"
+     "text": "“Celebrate Israel Parade”"
     },
     {
-     "text": "Philippine Independence Day Parade"
+     "text": "“Philippine Independence Day Parade”"
     },
     {
-     "text": "Albanian Parade"
+     "text": "“Albanian Parade”"
     },
     {
-     "text": "Mermaid Parade"
+     "text": "“Mermaid Parade”"
     },
     {
-     "text": "Witch Pride Parade"
+     "text": "“Witch Pride Parade”"
     },
     {
-     "text": "Halloween Dog Parade"
+     "text": "“Halloween Dog Parade”"
+    },
+    {
+     "text": "“Topless Parade”"
+    },
+    {
+     "text": "“Greek Independence Day Parade”"
     }
    ],
    "category": "Pop Culture",
    "decoys": [
     {
-     "text": "Cat Appreciation Parade"
+     "text": "“Cat Appreciation Parade”"
     },
     {
-     "text": "NY Cabbage Farmers Parade"
+     "text": "“NY Carrot Farmers Parade”"
     },
     {
-     "text": "Tourists Visiting from Iowa Parade"
+     "text": "“Tourists Visiting from Iowa Parade”"
+    },
+    {
+     "text": "“Sex Workers Praise Parade”"
+    },
+    {
+     "text": "“Angela Merkel Fan Parade”"
     }
    ],
    "id": "86376",
    "isValid": "",
-   "prompt": "Which of these are actual parades that have been held in New York City?",
-   "us": true,
-   "x": false
+   "prompt": "Welche dieser Paraden haben wirklich in New York stattgefunden?",
+   "us": false,
+   "x": true
   },
   {
    "answers": [
@@ -20454,49 +20595,49 @@
   {
    "answers": [
     {
-     "text": "Graham Chapman"
+     "text": "[i]Monty Python's Fliegender Zirkus[/i]"
     },
     {
-     "text": "John Cleese"
+     "text": "[i]Monty Pythons wunderbare Welt der Schwerkraft[/i]"
     },
     {
-     "text": "Terry Gilliam"
+     "text": "[i]Die Ritter der Kokosnuß[/i]"
     },
     {
-     "text": "Eric Idle"
+     "text": "[i]Das Leben des Brian[/i]"
     },
     {
-     "text": "Terry Jones"
-    },
-    {
-     "text": "Michael Palin"
+     "text": "[i]Der Sinn des Lebens[/i]"
     }
    ],
-   "category": "Celebrities",
+   "category": "Film & TV",
    "decoys": [
     {
-     "text": "Spike Milligan"
+     "text": "[i]Die Jagd nach der goldenen Ananas[/i]"
     },
     {
-     "text": "Stephen Fry"
+     "text": "[i]Die schrägsten Vögel der hinteren Bachgasse[/i]"
     },
     {
-     "text": "Benny Hill"
+     "text": "[i]SPAM, SPAM, SPAM, Eier und SPAM[/i]"
     },
     {
-     "text": "Rowan Atkinson"
+     "text": "[i]Keine Pause für Blitzbart[/i]"
     },
     {
-     "text": "Simon Pegg"
+     "text": "[i]Monty Pythons groteske Welt des Fussballs[/i]"
     },
     {
-     "text": "Tracey Ullman"
+     "text": "[i]Monty Pythons 70 Drunterflieger[/i]"
+    },
+    {
+     "text": "[i]Himmelfahrtskommando[/i]"
     }
    ],
    "id": "86695",
    "isValid": "",
-   "prompt": "Who were the Pythons of [i]Monty Python’s Flying Circus[/i]?",
-   "us": true,
+   "prompt": "Welches sind echte Filme und Serien der britischen Komikergruppe “[i]Monty Python[/i]”?",
+   "us": false,
    "x": false
   }
  ]
