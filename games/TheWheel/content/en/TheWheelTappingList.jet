@@ -528,55 +528,55 @@
   {
    "answers": [
     {
-     "text": "hammer curl"
+     "text": "Trizepsdrücken am Kabelzug"
     },
     {
-     "text": "chin-up"
+     "text": "Arnold Dips"
     },
     {
-     "text": "suspension trainer tricep extension"
+     "text": "Konzentrationscurls"
     },
     {
-     "text": "spider curl"
+     "text": "Spider Curls"
     },
     {
-     "text": "skull crusher"
+     "text": "Stirndrücken"
     },
     {
-     "text": "pull-up"
+     "text": "Klimmzüge"
     },
     {
-     "text": "rope tricep pushdown"
+     "text": "Kabelcurls"
     },
     {
-     "text": "close-grip bench press"
+     "text": "SZ-Curls"
     },
     {
-     "text": "Tate press"
+     "text": "Hammer Curls"
     },
     {
-     "text": "bench dips"
+     "text": "Handgelenkstrecken"
     }
    ],
    "category": "Anatomy",
    "decoys": [
     {
-     "text": "skater squat"
+     "text": "Skater Squats"
     },
     {
-     "text": "dead bug"
+     "text": "Toter Käfer"
     },
     {
-     "text": "cat-cow"
+     "text": "Cat-Cow"
     },
     {
-     "text": "pelvic tilt"
+     "text": "Beckenneigung"
     }
    ],
    "id": "76763",
    "isValid": "",
-   "prompt": "Which of these are exercises for the arms?",
-   "us": true,
+   "prompt": "Wobei handelt es sich um Übungen für die Arme?",
+   "us": false,
    "x": false
   },
   {
@@ -1656,58 +1656,58 @@
   {
    "answers": [
     {
-     "text": "burgundy"
+     "text": "Scharlachrot"
     },
     {
-     "text": "auburn"
+     "text": "Karminrot"
     },
     {
-     "text": "puce"
+     "text": "Zinnoberrot"
     },
     {
-     "text": "vermilion"
+     "text": "Permanentrot"
     },
     {
-     "text": "scarlet"
+     "text": "Feuerrot"
     },
     {
-     "text": "garnet"
+     "text": "Cadmiumrot"
     },
     {
-     "text": "crimson"
+     "text": "Saturnrot"
     },
     {
-     "text": "cherry"
+     "text": "Pariser Rot"
     },
     {
-     "text": "wine"
+     "text": "Mittelrot"
     },
     {
-     "text": "currant"
+     "text": "Blutrot"
     }
    ],
    "category": "Art",
    "decoys": [
     {
-     "text": "azure"
+     "text": "Azurrot"
     },
     {
-     "text": "cerulean"
+     "text": "Kobaltrot"
     },
     {
-     "text": "chartreuse"
+     "text": "Heliogenrot"
     },
     {
-     "text": "juniper"
+     "text": "Juniperrot"
     },
     {
-     "text": "cobalt"
+     "text": "Horizontrot"
     }
    ],
    "id": "76822",
    "isValid": "",
-   "prompt": "Which colors are shades of red?",
-   "us": true,
+   "prompt": "Welche Farben sind Rottöne?",
+   "us": false,
    "x": false
   },
   {
@@ -3690,13 +3690,13 @@
      "text": "Megalon"
     },
     {
-     "text": "Gabara"
+     "text": "Gabarah"
     },
     {
      "text": "Titanosaurus"
     },
     {
-     "text": "King Caesar"
+     "text": "König Caesar"
     },
     {
      "text": "SpaceGodzilla"
@@ -3708,22 +3708,22 @@
      "text": "Mothra"
     },
     {
-     "text": "King Ghidorah"
+     "text": "König Ghidorah"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "Queen Penelope"
+     "text": "Königin Penelope"
     },
     {
      "text": "Lizardzoid"
     },
     {
-     "text": "Cerberus"
+     "text": "Kerberus"
     },
     {
-     "text": "Clawmaster"
+     "text": "Klauenteufel"
     },
     {
      "text": "Lharb"
@@ -3734,7 +3734,7 @@
    ],
    "id": "77645",
    "isValid": "",
-   "prompt": "Which of these are monsters that fought Godzilla?",
+   "prompt": "Welches davon sind Monster, die gegen Godzilla gekämpft haben?",
    "us": true,
    "x": false
   },
@@ -4782,25 +4782,25 @@
   {
    "answers": [
     {
-     "text": "[i]The Big Chill[/i]"
+     "text": "[i]Der große Frust[/i]"
     },
     {
-     "text": "[i]The Natural[/i]"
+     "text": "[i]Der Unbeugsame[/i]"
     },
     {
-     "text": "[i]Fatal Attraction[/i]"
+     "text": "[i]Eine verhängnisvolle Affäre[/i]"
     },
     {
-     "text": "[i]Dangerous Liaisons[/i]"
+     "text": "[i]Gefährliche Liebschaften[/i]"
     },
     {
-     "text": "[i]The Wife[/i]"
+     "text": "[i]Die Frau des Nobelpreisträgers[/i]"
     },
     {
-     "text": "[i]Hillbilly Elegy[/i]"
+     "text": "[i]Hillbilly-Elegie[/i]"
     },
     {
-     "text": "[i]The World According to Garp[/i]"
+     "text": "[i]Garp und wie er die Welt sah[/i]"
     },
     {
      "text": "[i]Albert Nobbs[/i]"
@@ -4809,21 +4809,21 @@
    "category": "Celebrities",
    "decoys": [
     {
-     "text": "[i]101 Dalmatians[/i]"
+     "text": "[i]101 Dalmatiner[/i]"
     },
     {
-     "text": "[i]102 Dalmatians[/i]"
+     "text": "[i]102 Dalmatianer[/i]"
     },
     {
-     "text": "[i]Sarah, Plain and Tall[/i]"
+     "text": "[i]Ein Meer für Sarah[/i]"
     },
     {
-     "text": "[i]Alfred Molina's Acting Challenge[/i]"
+     "text": "[i]Alfred Molina's Schauspielschule[/i]"
     }
    ],
    "id": "77821",
    "isValid": "",
-   "prompt": "For which films did Glenn Close receive an Oscar nomination?",
+   "prompt": "Für welche Filme erhielt Glenn Close eine Oscar-Nominierung?",
    "us": true,
    "x": false
   },
@@ -8816,7 +8816,7 @@
    ],
    "id": "78865",
    "isValid": "",
-   "prompt": "Which of these unusual names are villains from the 1990 film [i]Dick Tracy[/i]?",
+   "prompt": "Welche dieser ungewöhnlichen Namen sind Bösewichte aus dem Film [i]Dick Tracy[/i] von 1990?",
    "us": true,
    "x": false
   },
@@ -9114,22 +9114,22 @@
   {
    "answers": [
     {
-     "text": "Yogi Bear"
+     "text": "Yogi Bär"
     },
     {
-     "text": "Jerry Mouse"
+     "text": "Jerry Maus"
     },
     {
      "text": "Quickdraw McGraw"
     },
     {
-     "text": "Fred Flintstone"
+     "text": "Fred Feuerstein"
     },
     {
      "text": "Snagglepuss"
     },
     {
-     "text": "Top Cat"
+     "text": "Superkater"
     },
     {
      "text": "Touché Turtle"
@@ -9153,12 +9153,12 @@
      "text": "Peppermint Patty"
     },
     {
-     "text": "Scrooge McDuck"
+     "text": "Dagobert Duck"
     }
    ],
    "id": "79125",
    "isValid": "",
-   "prompt": "Which of these are Hanna-Barbera cartoon characters?",
+   "prompt": "Welche davon sind Hanna-Barbera-Zeichentrickfiguren?",
    "us": true,
    "x": false
   },
@@ -10398,12 +10398,12 @@
      "text": "Julia Child"
     },
     {
-     "text": "Sid Vicious (posthumously)"
+     "text": "Sid Vicious (posthum)"
     }
    ],
    "id": "79440",
    "isValid": "",
-   "prompt": "Which of these famous people are knights or dames?",
+   "prompt": "Welche dieser berühmten Persönlichkeiten sind Ritter oder Damen?",
    "us": true,
    "x": false
   },
@@ -12173,7 +12173,7 @@
    ],
    "id": "80248",
    "isValid": "",
-   "prompt": "Which of these musical talents signed with Motown Records?",
+   "prompt": "Welches dieser musikalischen Talente hat bei Motown Records unterschrieben?",
    "us": true,
    "x": false
   },
@@ -12536,7 +12536,7 @@
    ],
    "id": "80455",
    "isValid": "",
-   "prompt": "Which of the following are actual questions asked in Train's “Drops of Jupiter”?",
+   "prompt": "Welche der folgenden Fragen werden tatsächlich in Trains \"Drops of Jupiter\" gestellt?",
    "us": true,
    "x": false
   },
@@ -13220,7 +13220,7 @@
    ],
    "id": "82101",
    "isValid": "",
-   "prompt": "Which of these are brands of bourbon?",
+   "prompt": "Welche davon sind Bourbon-Marken?",
    "us": true,
    "x": false
   },
@@ -13919,7 +13919,7 @@
    ],
    "id": "82693",
    "isValid": "",
-   "prompt": "Who were the pop music superstars of the 1999 “Latin Explosion”?",
+   "prompt": "Wer waren die Popmusik-Superstars der \"Latin Explosion\" von 1999?",
    "us": true,
    "x": false
   },
@@ -14456,7 +14456,7 @@
    ],
    "id": "82869",
    "isValid": "",
-   "prompt": "Which of these pop stars used to be on a Disney Channel show?",
+   "prompt": "Welcher dieser Popstars war früher in einer Disney Channel Show?",
    "us": true,
    "x": false
   },
@@ -14504,7 +14504,7 @@
    ],
    "id": "82890",
    "isValid": "",
-   "prompt": "Who were the original members of Destiny's Child?",
+   "prompt": "Wer waren die ursprünglichen Mitglieder von Destiny's Child?",
    "us": true,
    "x": false
   },
@@ -15027,48 +15027,48 @@
   {
    "answers": [
     {
-     "text": "turnips"
+     "text": "Rüben"
     },
     {
-     "text": "collard greens"
+     "text": "Grünkohl"
     },
     {
-     "text": "oranges"
+     "text": "Orangen"
     },
     {
-     "text": "brussels sprouts"
+     "text": "Rosenkohl"
     },
     {
-     "text": "leeks"
+     "text": "Lauch"
     },
     {
-     "text": "sweet potatoes"
+     "text": "Süßkartoffeln"
     },
     {
-     "text": "kiwifruit"
+     "text": "Kiwi"
     },
     {
-     "text": "kale"
+     "text": "Grünkohl"
     }
    ],
    "category": "Food & Drink",
    "decoys": [
     {
-     "text": "mangoes"
+     "text": "Mangos"
     },
     {
-     "text": "summer fruit"
+     "text": "Sommerfrüchte"
     },
     {
-     "text": "booberry"
+     "text": "Brummbeeren"
     },
     {
-     "text": "chillmelon"
+     "text": "Chillmelone"
     }
    ],
    "id": "83082",
    "isValid": "",
-   "prompt": "Which of these produce items are typically in season in the winter in the Northern Hemisphere?",
+   "prompt": "Welcher dieser Produkte sind normalerweise in der Wintersaison in der nördlichen Hemisphäre üblich?",
    "us": true,
    "x": false
   },
@@ -15948,55 +15948,55 @@
   {
    "answers": [
     {
-     "text": "flocci­nauci­nihili­pili­fication"
+     "text": "Streichholzschächtelchen"
     },
     {
-     "text": "antidisestablishmentarianism"
+     "text": "Fünfhundertfünfundfünfzig"
     },
     {
-     "text": "deinstitutionalization"
+     "text": "Quietscheentchen"
     },
     {
-     "text": "deoxyribonucleic"
+     "text": "Getriebesandschüttelmaschinenreiniger"
     },
     {
-     "text": "onomatopoeia"
+     "text": "Zylinderinnenwandtapetenkleistereimer"
     },
     {
-     "text": "uncharacteristically"
+     "text": "Onomatopoesie"
     },
     {
-     "text": "internationalization"
+     "text": "uncharakteristisch"
     },
     {
-     "text": "electroencephalographically"
+     "text": "elektroenzephalographisch"
     },
     {
-     "text": "pastime"
+     "text": "aggressiv"
     }
    ],
    "category": "Language/Words/Grammar",
    "decoys": [
     {
-     "text": "bellweather"
+     "text": "Schleswig-Hollstein"
     },
     {
-     "text": "aquiescences"
+     "text": "Meeresäuger"
     },
     {
-     "text": "counterevolutionaries"
+     "text": "Rythmus"
     },
     {
-     "text": "uncopywriteable"
+     "text": "Vorraussetzung"
     },
     {
-     "text": "incomprehensability"
+     "text": "Kreissaal"
     }
    ],
    "id": "84979",
    "isValid": "",
-   "prompt": "Which of these unusual words are spelled correctly?",
-   "us": true,
+   "prompt": "Welche dieser ungewöhnlichen Wörter sind richtig geschrieben?",
+   "us": false,
    "x": false
   },
   {
@@ -16301,7 +16301,7 @@
    ],
    "id": "85113",
    "isValid": "",
-   "prompt": "Which of these individuals were capitalist titans of the American Gilded Age? (1870-1900)",
+   "prompt": "Welche dieser Personen waren kapitalistische Titanen des amerikanischen Gilded Age? (1870-1900)",
    "us": true,
    "x": false
   },
@@ -18038,7 +18038,7 @@
    ],
    "id": "85979",
    "isValid": "",
-   "prompt": "Which actors portrayed captains of a version of the starship [i]Enterprise[/i]?",
+   "prompt": "Welche Schauspieler porträtierten Kapitäne einer Version des Raumschiffs [i]Enterprise[/i]?",
    "us": true,
    "x": false
   },
@@ -18602,7 +18602,7 @@
    ],
    "id": "86031",
    "isValid": "",
-   "prompt": "Who are the original nine members of the Wu-Tang Clan?",
+   "prompt": "Wer sind die ursprünglichen neun Mitglieder des Wu-Tang-Clans?",
    "us": true,
    "x": true
   },
@@ -20264,7 +20264,7 @@
    ],
    "id": "86502",
    "isValid": "",
-   "prompt": "Which songs contain dance instructions in the lyrics?",
+   "prompt": "Welche Songs enthalten Tanzanweisungen in den Texten?",
    "us": true,
    "x": false
   },
