@@ -4824,7 +4824,7 @@
    "id": "77821",
    "isValid": "",
    "prompt": "Für welche Filme erhielt Glenn Close eine Oscar-Nominierung?",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10426,12 +10426,18 @@
     },
     {
      "text": "Sid Vicious (posthum)"
+    },
+    {
+     "text": "Til Schweiger"
+    },
+    {
+     "text": "Donald Trump"
     }
    ],
    "id": "79440",
    "isValid": "",
    "prompt": "Welche dieser berühmten Persönlichkeiten sind Ritter oder Damen?",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -12564,8 +12570,8 @@
    "id": "80455",
    "isValid": "",
    "prompt": "Welche der folgenden Fragen werden tatsächlich in Trains \"Drops of Jupiter\" gestellt?",
-   "us": true,
-   "x": false
+   "us": false,
+   "x": true
   },
   {
    "answers": [
@@ -13243,12 +13249,24 @@
     },
     {
      "text": "Bombay Sapphire"
+    },
+    {
+     "text": "Lagavulin"
+    },
+    {
+     "text": "Havana Club"
+    },
+    {
+     "text": "Rotkäppchen"
+    },
+    {
+     "text": "Flade Muller"
     }
    ],
    "id": "82101",
    "isValid": "",
    "prompt": "Welche davon sind Bourbon-Marken?",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -14483,8 +14501,8 @@
    ],
    "id": "82869",
    "isValid": "",
-   "prompt": "Welcher dieser Popstars war früher in einer Disney Channel Show?",
-   "us": true,
+   "prompt": "Welcher dieser Popstars war früher in einer “[i]Disney Channel[/i]”-Show?",
+   "us": false,
    "x": false
   },
   {
@@ -14523,16 +14541,19 @@
      "text": "Lucy Liu"
     },
     {
-     "text": "Farrah Faucett"
+     "text": "Doro Pesch"
     },
     {
      "text": "Summer Walker"
+    },
+    {
+     "text": "Kirk Hammett"
     }
    ],
    "id": "82890",
    "isValid": "",
    "prompt": "Wer waren die ursprünglichen Mitglieder von Destiny's Child?",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -20304,7 +20325,7 @@
    "id": "86502",
    "isValid": "",
    "prompt": "Welche Songs enthalten Tanzanweisungen in den Texten?",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
