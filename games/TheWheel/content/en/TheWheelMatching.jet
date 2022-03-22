@@ -119,12 +119,12 @@
   {
    "answers": [
     {
-     "match": "Karl Ove Knausgaard",
-     "text": "[i]My Struggle[/i]"
+     "match": "Dave Eggers",
+     "text": "[i]Der Circle[/i]"
     },
     {
      "match": "Donna Tartt",
-     "text": "[i]The Goldfinch[/i]"
+     "text": "[i]Der Distelfink[/i]"
     },
     {
      "match": "Michelle Obama",
@@ -139,43 +139,51 @@
      "text": "[i]Gone Girl[/i]"
     },
     {
-     "match": "John Green",
-     "text": "[i]The Fault in Our Stars[/i]"
+     "match": "Timur Vermes",
+     "text": "[i]Er ist wieder da[/i]"
     },
     {
-     "match": "Ta-Nehisi Coates",
-     "text": "[i]Between the World and Me[/i]"
+     "match": "Klaus-Peter Wolf",
+     "text": "[i]Ostfriesenschwur[/i]"
     },
     {
      "match": "Malala Yousafzai",
-     "text": "[i]I Am Malala[/i]"
+     "text": "[i]Ich bin Malala[/i]"
     },
     {
-     "match": "Harper Lee",
-     "text": "[i]Go Set a Watchman[/i]"
+     "match": "Wolfgang Herrndorf",
+     "text": "[i]Tschick[/i]"
     },
     {
-     "match": "George Saunders",
-     "text": "[i]Lincoln in the Bardo[/i]"
+     "match": "Donna Leon",
+     "text": "[i]Tod zwischen den Zeilen[/i]"
     },
     {
-     "match": "J. D. Vance",
-     "text": "[i]Hillbilly Elegy[/i]"
+     "match": "Sebastian Fitzek",
+     "text": "[i]Das Geschenk[/i]"
+    },
+    {
+     "match": "Giulia Enders",
+     "text": "[i]Darm mit Charme[/i]"
+    },
+    {
+     "match": "Joanne K. Rowling",
+     "text": "[i]Phantastische Tierwesen und wo sie zu finden sind[/i]"
     }
    ],
    "category": "Literature",
    "decoys": [],
    "headers": [
     {
-     "match": "Authors",
-     "text": "Books"
+     "match": "Autoren",
+     "text": "Bücher"
     }
    ],
    "id": "76790",
    "isValid": "",
-   "prompt": "Match the book to its author",
-   "promptHeader": "Bestsellers of the 2010s",
-   "us": true,
+   "prompt": "Ordne dem Buch einen Autor zu",
+   "promptHeader": "Bestseller der 2010er-Jahre",
+   "us": false,
    "x": false
   },
   {
@@ -239,113 +247,117 @@
   {
    "answers": [
     {
-     "match": "stuck nails",
-     "text": "pliers"
+     "match": "Festsitzender Nagel",
+     "text": "Zange"
     },
     {
-     "match": "hexagonal screw socket",
-     "text": "Allen wrench"
+     "match": "Sechskantschraube",
+     "text": "Inbusschlüssel"
     },
     {
-     "match": "nut",
-     "text": "adjustable wrench"
+     "match": "Mutter",
+     "text": "Schraubenschlüssel"
     },
     {
-     "match": "darkness",
-     "text": "flashlight"
+     "match": "Dunkelheit",
+     "text": "Taschenlampe"
     },
     {
-     "match": "shoes",
-     "text": "ladder"
+     "match": "Schuhe",
+     "text": "Leiter"
     },
     {
-     "match": "automobile",
-     "text": "floor jack"
+     "match": "Auto",
+     "text": "Wagenheber"
     },
     {
-     "match": "paper",
-     "text": "scissors"
+     "match": "Papier",
+     "text": "Schere"
     },
     {
-     "match": "stone",
-     "text": "tooth chisel"
+     "match": "Mörtel",
+     "text": "Zahnmeißel"
     },
     {
-     "match": "tree trunk",
-     "text": "crosscut saw"
+     "match": "Holzstück",
+     "text": "Japansäge"
     },
     {
-     "match": "weeds",
-     "text": "weed puller"
+     "match": "Unkraut",
+     "text": "Unkrautstecher"
     }
    ],
    "category": "Tools",
    "decoys": [],
    "headers": [
     {
-     "match": "Surfaces",
-     "text": "Tools"
+     "match": "Oberflächen",
+     "text": "Werkzeuge"
     }
    ],
    "id": "76828",
    "isValid": "",
-   "prompt": "Match the tool to the surface it touches",
-   "promptHeader": "Tools",
-   "us": true,
+   "prompt": "Ordne dem Werkzeug die Oberfläche zu, die es berührt",
+   "promptHeader": "Werkzeug",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "[i]The Lion, the Witch and the Wardrobe[/i]",
-     "text": "The White Witch"
+     "match": "[i]Der König von Narnia[/i]",
+     "text": "Die Weiße Hexe"
     },
     {
-     "match": "[i]Harry Potter and the Chamber of Secrets[/i]",
+     "match": "[i]Harry Potter und die Kammer des Schreckens[/i]",
      "text": "Minerva McGonagall"
     },
     {
      "match": "[i]Macbeth[/i]",
-     "text": "The Weird Sisters"
+     "text": "Die unheimlichen Schwestern"
     },
     {
-     "match": "[i]The Little Mermaid[/i]",
+     "match": "[i]Arielle, die Meerjungfrau[/i]",
      "text": "Ursula"
     },
     {
-     "match": "[i]The Witches[/i]",
-     "text": "Grand High Witch"
+     "match": "[i]Der Wunschpunsch[/i]",
+     "text": "Tyrannja Vamperl"
     },
     {
-     "match": "[i]The Vampire Diaries[/i]",
-     "text": "Bonnie Bennett"
+     "match": "[i]Tagebuch eines Vampirs[/i]",
+     "text": "Bonnie McCullough"
     },
     {
-     "match": "[i]Charmed[/i]",
+     "match": "[i]Charmed - Zauberhafte Hexen[/i]",
      "text": "Piper Halliwell"
     },
     {
-     "match": "[i]Wicked[/i]",
-     "text": "Elphaba"
+     "match": "[i]Wicked - Die Hexen von Oz[/i]",
+     "text": "Elphaba Thropp"
     },
     {
      "match": "[i]Avengers: Infinity War[/i]",
      "text": "Wanda Maximoff"
+    },
+    {
+     "match": "[i]Die kleine Hexe[/i]",
+     "text": "Rumpumpel"
     }
    ],
    "category": "Literature",
    "decoys": [],
    "headers": [
     {
-     "match": "Stories",
-     "text": "Witches"
+     "match": "Geschichten",
+     "text": "Hexen"
     }
    ],
    "id": "76829",
    "isValid": "",
-   "prompt": "Match the witch to their story",
-   "promptHeader": "Where Did This Witch Come From?",
-   "us": true,
+   "prompt": "Ordne die Hexe ihrer Geschichte zu",
+   "promptHeader": "Woher stammt diese Hexe?",
+   "us": false,
    "x": false
   },
   {
@@ -376,30 +388,30 @@
     },
     {
      "match": "Rose Tyler",
-     "text": "The Tenth Doctor"
+     "text": "Zehnter Doktor"
     },
     {
-     "match": "Peter Quill",
+     "match": "Star-Lord",
      "text": "Gamora"
     },
     {
-     "match": "nobody",
-     "text": "Xenomorph from [i]Alien[/i]"
+     "match": "Mr. Nobody",
+     "text": "Xenomorph aus [i]Alien[/i]"
     }
    ],
    "category": "Film & TV",
    "decoys": [],
    "headers": [
     {
-     "match": "Friends",
+     "match": "Freunde",
      "text": "Aliens"
     }
    ],
    "id": "76830",
    "isValid": "",
-   "prompt": "Match the alien to their friend",
-   "promptHeader": "Aliens and Their Friends",
-   "us": true,
+   "prompt": "Ordne die Aliens ihren Freunden zu",
+   "promptHeader": "Aliens und ihre Freunde",
+   "us": false,
    "x": false
   },
   {
