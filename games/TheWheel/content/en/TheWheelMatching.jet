@@ -541,113 +541,113 @@
   {
    "answers": [
     {
-     "match": "Chance",
+     "match": "Gemeinschaftskarte",
      "text": "[i]Monopoly[/i]"
     },
     {
-     "match": "trump",
-     "text": "Spades"
+     "match": "Nachtigall mit Pflaumenbaum",
+     "text": "Hanafuda"
     },
     {
-     "match": "Reverse",
+     "match": "Retour",
      "text": "[i]Uno[/i]"
     },
     {
-     "match": "Salary",
-     "text": "[i]Life[/i]"
+     "match": "Teilen macht Freude",
+     "text": "[i]Das Spiel des Lebens[/i]"
     },
     {
      "match": "Ditto",
      "text": "[i]Pokémon[/i]"
     },
     {
-     "match": "Room",
-     "text": "[i]Clue[/i]"
+     "match": "Verdächtigte",
+     "text": "[i]Cluedo[/i]"
     },
     {
-     "match": "Development",
-     "text": "[i]Settlers of Catan[/i]"
+     "match": "Entwicklungskarte",
+     "text": "[i]Die Siedler von Catan[/i]"
     },
     {
-     "match": "Secret Mission",
-     "text": "[i]Risk[/i]"
+     "match": "Geheimer Auftrag",
+     "text": "[i]Risiko[/i]"
     },
     {
-     "match": "Creative Cat",
+     "match": "Kreato-Kater",
      "text": "[i]Cranium[/i]"
     },
     {
-     "match": "Mana Drain",
-     "text": "[i]Magic[/i]"
+     "match": "Bube",
+     "text": "Skat"
     }
    ],
    "category": "Games",
    "decoys": [],
    "headers": [
     {
-     "match": "Cards",
-     "text": "Games"
+     "match": "Karten",
+     "text": "Spiele"
     }
    ],
    "id": "76862",
    "isValid": "",
-   "prompt": "Match the game to the card",
-   "promptHeader": "Is This Your Card?",
-   "us": true,
+   "prompt": "Ordne die Karten ihrem Spiel zu",
+   "promptHeader": "Alles auf eine Karte",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "gin",
-     "text": "negroni"
+     "match": "Gin",
+     "text": "Negroni"
     },
     {
-     "match": "vodka",
+     "match": "Wodka",
      "text": "White Russian"
     },
     {
-     "match": "whiskey",
-     "text": "old fashioned"
+     "match": "Whisky",
+     "text": "Old Fashioned"
     },
     {
-     "match": "rum",
-     "text": "daiquiri"
+     "match": "Rum",
+     "text": "Daiquiri"
     },
     {
-     "match": "tequila",
+     "match": "Tequila",
      "text": "Paloma"
     },
     {
-     "match": "wine",
-     "text": "sangria"
+     "match": "Wein",
+     "text": "Sangría"
     },
     {
-     "match": "cognac",
-     "text": "sidecar"
+     "match": "Cognac",
+     "text": "Sidecar ([i]french school[/i])"
     },
     {
-     "match": "brandy",
-     "text": "metropolitan"
+     "match": "Weinbrand",
+     "text": "Metropolitan"
     },
     {
-     "match": "ginger ale",
-     "text": "Shirley Temple"
+     "match": "Cachaca",
+     "text": "Caipirinha"
     }
    ],
    "category": "Food & Drink",
    "decoys": [],
    "headers": [
     {
-     "match": "Ingredients",
+     "match": "Hauptzutaten",
      "text": "Drinks"
     }
    ],
    "id": "76864",
    "isValid": "",
-   "prompt": "Match the drink to its main ingredient",
+   "prompt": "Ordne dem Drink seine Hauptzutat zu",
    "promptHeader": "Cocktails",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -1395,40 +1395,40 @@
   {
    "answers": [
     {
-     "match": "traveling",
-     "text": "basketball"
+     "match": "Schrittfehler",
+     "text": "Basketball"
     },
     {
-     "match": "foot fault",
-     "text": "tennis"
+     "match": "Fußfehler",
+     "text": "Tennis"
     },
     {
-     "match": "double bogey",
-     "text": "golf"
+     "match": "Doppel-Bogey",
+     "text": "Golf"
     },
     {
-     "match": "balk",
-     "text": "baseball"
+     "match": "Balk",
+     "text": "Baseball"
     },
     {
-     "match": "hit wicket",
-     "text": "cricket"
+     "match": "Hit Wicket",
+     "text": "Cricket"
     },
     {
-     "match": "false start",
-     "text": "Olympic swimming"
+     "match": "Fehlstart",
+     "text": "Olympisches Schwimmen"
     },
     {
-     "match": "low blow",
-     "text": "boxing"
+     "match": "Tiefschlag",
+     "text": "Boxen"
     },
     {
-     "match": "bounce out",
-     "text": "darts"
+     "match": "Herausfallen",
+     "text": "Dart"
     },
     {
-     "match": "cross-checking",
-     "text": "hockey"
+     "match": "Check mit dem Stock",
+     "text": "Hockey"
     }
    ],
    "category": "Games",
@@ -1436,72 +1436,72 @@
    "headers": [
     {
      "match": "Fouls",
-     "text": "Sports"
+     "text": "Sportarten"
     }
    ],
    "id": "77653",
    "isValid": "",
-   "prompt": "Match the sport to the foul",
-   "promptHeader": "Something Bad Happened in This Sport!",
-   "us": true,
+   "prompt": "Ordne den Sportarten ihre Fouls zu",
+   "promptHeader": "Oh Junge, was für ein Foul!",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "Mark Antony",
-     "text": "Cleopatra"
+     "match": "Marcus Antonius",
+     "text": "Kleopatra"
     },
     {
-     "match": "Prince Albert",
-     "text": "Queen Victoria"
+     "match": "Prinz Albert",
+     "text": "Königin Victoria"
     },
     {
-     "match": "Hephaestion",
-     "text": "Alexander the Great"
+     "match": "Hephaistion",
+     "text": "Alexander der Große"
     },
     {
-     "match": "Alice B. Toklas",
-     "text": "Gertrude Stein"
+     "match": "Romeo",
+     "text": "Julia"
     },
     {
-     "match": "Josephine",
+     "match": "Joséphine de Beauharnais",
      "text": "Napoleon"
     },
     {
-     "match": "Henry VIII",
+     "match": "Heinrich VIII.",
      "text": "Anne Boleyn"
     },
     {
-     "match": "Lord Alfred Douglas",
-     "text": "Oscar Wilde"
+     "match": "Barbie",
+     "text": "Ken"
     },
     {
-     "match": "Helen of Troy",
+     "match": "Helena von Troja",
      "text": "Paris"
     },
     {
-     "match": "Paul Newman",
-     "text": "Joanne Woodward"
+     "match": "Adam",
+     "text": "Eva"
     },
     {
-     "match": "June Carter",
-     "text": "Johnny Cash"
+     "match": "Jack Dawson",
+     "text": "Rose DeWitt Bukater"
     }
    ],
    "category": "Historical Figures",
    "decoys": [],
    "headers": [
     {
-     "match": "Lovers (Column B)",
-     "text": "Lovers (Column A)"
+     "match": "Liebhaber (Spalte B)",
+     "text": "Liebhaber (Spalte A)"
     }
    ],
    "id": "77659",
    "isValid": "",
-   "prompt": "Match the famous person or character with their famous lover",
-   "promptHeader": "Historic Power Couples",
-   "us": true,
+   "prompt": "Ordne die berühmte Persönlichkeit oder Figur ihrem berühmten Liebhaber zu",
+   "promptHeader": "Berühmte Liebeleien",
+   "us": false,
    "x": false
   },
   {
@@ -1705,7 +1705,7 @@
   {
    "answers": [
     {
-     "match": "Huttese",
+     "match": "Huttisch",
      "text": "[i]Star Wars[/i]"
     },
     {
@@ -1714,34 +1714,34 @@
     },
     {
      "match": "Dothraki",
-     "text": "[i]A Song of Ice and Fire[/i]"
+     "text": "[i]Das Lied von Eis und Feuer[/i]"
     },
     {
-     "match": "Quenya (High Elvish)",
-     "text": "[i]The Lord of the Rings[/i]"
+     "match": "Quenya (Hochelbisch)",
+     "text": "[i]Der Herr der Ringe[/i]"
     },
     {
      "match": "Na'vi",
-     "text": "[i]Avatar[/i]"
+     "text": "[i]Avatar – Aufbruch nach Pandora[/i]"
     },
     {
-     "match": "Alienese",
+     "match": "Außerirdisch",
      "text": "[i]Futurama[/i]"
     },
     {
-     "match": "Newspeak",
-     "text": "[i]Nineteen Eighty-Four[/i]"
+     "match": "Neusprech",
+     "text": "[i]1984[/i]"
     },
     {
-     "match": "Simlish",
-     "text": "[i]The Sims[/i]"
+     "match": "Simlisch",
+     "text": "[i]Die Sims[/i]"
     },
     {
      "match": "Nadsat",
-     "text": "[i]A Clockwork Orange[/i]"
+     "text": "[i]Uhrwerk Orange[/i]"
     },
     {
-     "match": "Parseltongue",
+     "match": "Parsel",
      "text": "[i]Harry Potter[/i]"
     }
    ],
@@ -1749,15 +1749,15 @@
    "decoys": [],
    "headers": [
     {
-     "match": "Languages",
-     "text": "Universes"
+     "match": "Sprachen",
+     "text": "Universen"
     }
    ],
    "id": "78012",
    "isValid": "",
-   "prompt": "Match the universe to its fictional language",
-   "promptHeader": "Fictional Languages",
-   "us": true,
+   "prompt": "Ordne die fiktionale Sprache dem Universum zu",
+   "promptHeader": "Fiktive Sprachen",
+   "us": false,
    "x": false
   },
   {
@@ -2070,66 +2070,62 @@
    "answers": [
     {
      "match": "Mount Everest",
-     "text": "Asia"
+     "text": "Asien"
     },
     {
-     "match": "Aconcagoa",
-     "text": "South America"
+     "match": "Cerro Aconcagua",
+     "text": "Südamerika"
     },
     {
      "match": "Denali (Mount McKinley)",
-     "text": "North America"
+     "text": "Nordamerika"
     },
     {
-     "match": "Mount Kilimanjaro",
-     "text": "Africa"
+     "match": "Kilimandscharo",
+     "text": "Afrika"
     },
     {
-     "match": "Mount Elbrus",
-     "text": "Europe"
+     "match": "Elbrus",
+     "text": "Europa"
     },
     {
-     "match": "Vinson Massif",
-     "text": "Antarctica"
+     "match": "Vinson-Massiv",
+     "text": "Antarktika"
     },
     {
-     "match": "Puncak Jaya (Mount Carstensz)",
-     "text": "Oceania (New Guinea)"
+     "match": "Puncak Jaya (Carstensz-Pyramide)",
+     "text": "Ozeanien (Neuguinea)"
     },
     {
      "match": "Mount Kosciuszko",
-     "text": "Australia"
+     "text": "Australien"
     },
     {
-     "match": "Anai Mudi",
-     "text": "Indian Subcontinent"
+     "match": "Anamudi",
+     "text": "Indischer Subkontinent"
     },
     {
-     "match": "Mount Damavand",
-     "text": "The Middle Eastern Subcontinent"
+     "match": "Damawand",
+     "text": "Naher Osten"
     },
     {
-     "match": "Gunnbjørn Mountain",
-     "text": "Greenland"
+     "match": "Gunnbjørn Fjeld",
+     "text": "Grönland"
     }
    ],
    "category": "Geography & Landmarks",
-   "decoys": [
-    {
-     "text": ""
-    }
-   ],
+   "decoys": [],
    "headers": [
     {
-     "match": "Highest Points",
-     "text": "Regions"
+     "match": "Höchste Punkte",
+     "text": "Regionen"
     }
    ],
    "id": "78287",
    "isValid": "",
-   "prompt": "Match the region to its highest point",
-   "promptHeader": "The Regions of the World and Their Highest Points",
-   "us": true,
+   "prompt": "Ordne die Region ihrem höchsten Punkt zu",
+   "promptHeader": "Die Regionen der Welt und ihre höchsten Punkte",
+   "us": false,
    "x": false
   },
   {

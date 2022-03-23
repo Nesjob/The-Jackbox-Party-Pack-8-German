@@ -18619,52 +18619,72 @@
    "x": false
   },
   {
-   "answers": [
-    {
-     "text": "GZA"
-    },
-    {
-     "text": "RZA"
-    },
-    {
-     "text": "Ol’ Dirty Bastard"
-    },
-    {
-     "text": "Raekwon"
-    },
-    {
-     "text": "Method Man"
-    },
-    {
-     "text": "Ghostface Killah"
-    },
-    {
-     "text": "U-God"
-    },
-    {
-     "text": "Inspectah Deck"
-    },
-    {
-     "text": "Masta Killa"
-    }
-   ],
-   "category": "Music",
+   "answers": [],
+   "category": "Math",
    "decoys": [
     {
-     "text": "SZA"
+     "text": "-17"
     },
     {
-     "text": "Grandmaster Shaolin"
+     "text": "81"
     },
     {
-     "text": "Nas"
+     "text": "0,33"
+    },
+    {
+     "text": "-15,38"
+    },
+    {
+     "text": "156"
+    },
+    {
+     "text": "-0,76"
+    },
+    {
+     "text": "5,39"
+    },
+    {
+     "text": "-20,8"
+    },
+    {
+     "text": "-15555"
+    },
+    {
+     "text": "0,8"
+    },
+    {
+     "text": "1080080"  
+    },
+    {
+     "text": "1,754"
+    },
+    {
+     "text": "-69,69"
+    },
+    {
+     "text": "-0,1"
+    },
+    {
+     "text": "99,9"
+    },
+    {
+     "text": "17"
+    },
+    {
+     "text": "0,1"
+    },
+    {
+     "text": "-5"
+    },
+    {
+     "text": "0"
     }
    ],
    "id": "86031",
    "isValid": "",
-   "prompt": "Wer sind die ursprünglichen neun Mitglieder des Wu-Tang-Clans?",
-   "us": true,
-   "x": true
+   "prompt": "Wobei handelt es sich NICHT um [i]reelle Zahlen[/i]?",
+   "us": false,
+   "x": false
   },
   {
    "answers": [
