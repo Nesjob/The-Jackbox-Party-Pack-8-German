@@ -483,59 +483,63 @@
   {
    "answers": [
     {
-     "match": "The Last Frontier",
-     "text": "Alaska"
+     "match": "“THE LÄND”",
+     "text": "Baden-Württemberg"
     },
     {
-     "match": "The Show-Me State",
-     "text": "Missouri"
+     "match": "“Wir sind ein Berlin”",
+     "text": "Berlin"
     },
     {
-     "match": "The Constitution State",
-     "text": "Connecticut"
+     "match": "“Es kann so einfach sein”",
+     "text": "Brandenburg"
     },
     {
-     "match": "The Gem State",
-     "text": "Idaho"
+     "match": "“Wachsen mit Weitsicht”",
+     "text": "Hamburg"
     },
     {
-     "match": "The Tar Heel State",
-     "text": "North Carolina"
+     "match": "“#moderndenken”",
+     "text": "Sachsen-Anhalt"
     },
     {
-     "match": "The Cornhusker State",
-     "text": "Nebraska"
+     "match": "“Großes entsteht immer im Kleinen”",
+     "text": "Saarland"
     },
     {
-     "match": "Land of Enchantment",
-     "text": "New Mexico"
+     "match": "“Germany at its best”",
+     "text": "Nordrhein-Westfalen"
     },
     {
-     "match": "The Golden State",
-     "text": "California"
+     "match": "“MV tut gut.”",
+     "text": "Mecklenburg-Vorpommern"
     },
     {
-     "match": "Old Dominion",
-     "text": "Virginia"
+     "match": "Klar.",
+     "text": "Niedersachsen"
     },
     {
-     "match": "The Badger State",
-     "text": "Wisconsin"
+     "match": "",
+     "text": "Bayern"
+    },
+    {
+     "match": "“Der echte Norden”",
+     "text": "Schleswig-Holstein"
     }
    ],
    "category": "Geography & Landmarks",
    "decoys": [],
    "headers": [
     {
-     "match": "Nicknames",
-     "text": "States"
+     "match": "Slogans",
+     "text": "Bundesländer"
     }
    ],
    "id": "76846",
    "isValid": "",
-   "prompt": "Match the state to its nickname",
-   "promptHeader": "U.S. State Nicknames",
-   "us": true,
+   "prompt": "Ordne das Bundesland seinem Slogan zu",
+   "promptHeader": "Bundesländer und ihre Slogans",
+   "us": false,
    "x": false
   },
   {
@@ -2197,117 +2201,117 @@
   {
    "answers": [
     {
-     "match": "fish",
-     "text": "ceviche"
+     "match": "Meeresfrüchte",
+     "text": "Paella"
     },
     {
-     "match": "chicken",
-     "text": "coq au vin"
+     "match": "Huhn",
+     "text": "Coq au Vin"
     },
     {
-     "match": "beef",
-     "text": "ropa vieja"
+     "match": "Rindfleisch",
+     "text": "Ropa Vieja"
     },
     {
-     "match": "pork",
-     "text": "carnitas"
+     "match": "Schweinefleisch",
+     "text": "Carnitas"
     },
     {
-     "match": "chickpeas",
-     "text": "chana masala"
+     "match": "Kichererbsen",
+     "text": "Chana Masala"
     },
     {
-     "match": "duck",
-     "text": "bebek goreng"
+     "match": "Ente",
+     "text": "Bebek Goreng"
     },
     {
-     "match": "eggs",
-     "text": "quiche"
+     "match": "Eier",
+     "text": "Quiche"
     },
     {
-     "match": "pumpkin",
-     "text": "pampoenkoekie"
+     "match": "Kürbis",
+     "text": "Pampoenkoekie"
     }
    ],
    "category": "Food & Drink",
    "decoys": [],
    "headers": [
     {
-     "match": "Main Ingredients",
-     "text": "Dishes"
+     "match": "Hauptzutaten",
+     "text": "Gerichte"
     }
    ],
    "id": "78305",
    "isValid": "",
-   "prompt": "Match the dish to its main ingredient",
-   "promptHeader": "Main Ingredients",
-   "us": true,
+   "prompt": "Ordne dem Gericht seine Hauptzutat zu",
+   "promptHeader": "Hauptzutaten",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
      "match": "China",
-     "text": "lo mein"
+     "text": "Lamian"
     },
     {
-     "match": "The Philippines",
-     "text": "pancit canton"
+     "match": "Die Philippinen",
+     "text": "Pancit Canton"
     },
     {
      "match": "Japan",
-     "text": "ramen"
+     "text": "Ramen"
     },
     {
-     "match": "Italy",
-     "text": "tagliatelle"
+     "match": "Italien",
+     "text": "Tagliatelle"
     },
     {
      "match": "Korea",
-     "text": "japchae"
+     "text": "Japchae"
     },
     {
      "match": "Thailand",
-     "text": "pad thai"
+     "text": "Phat Thai"
     },
     {
-     "match": "Germany",
-     "text": "späetzle"
+     "match": "Deutschland",
+     "text": "Spätzle"
     },
     {
-     "match": "Greece",
-     "text": "orzo"
+     "match": "Griechenland",
+     "text": "Kritharaki"
     },
     {
-     "match": "Mongolia",
-     "text": "tsuivan"
+     "match": "Mongolei",
+     "text": "Tsuivan"
     },
     {
-     "match": "India",
-     "text": "hakka"
+     "match": "Indien",
+     "text": "Hakka"
     },
     {
      "match": "Vietnam",
-     "text": "bánh phở"
+     "text": "Bánh Phở"
     },
     {
-     "match": "United States",
-     "text": "Kraft mac & cheese"
+     "match": "USA",
+     "text": "[i]Kraft mac & cheese[/i]"
     }
    ],
    "category": "Food & Drink",
    "decoys": [],
    "headers": [
     {
-     "match": "Nations",
-     "text": "Noodles"
+     "match": "Länder",
+     "text": "Nudelgerichte"
     }
    ],
    "id": "78306",
    "isValid": "",
-   "prompt": "Match the noodle to its nation",
-   "promptHeader": "Noodles of the World and Where They Come From",
-   "us": true,
+   "prompt": "Ordne das Nudelgericht seinem Land zu",
+   "promptHeader": "“Schatz, aus welchen Ländern kommen diese Nudeln?”",
+   "us": false,
    "x": false
   },
   {
@@ -2363,63 +2367,63 @@
   {
    "answers": [
     {
-     "match": "the indifferent and uncommitted",
-     "text": "The Gates of Hell"
+     "match": "Die Gleichgültigen und die Unentschlossenen",
+     "text": "Vestibül (Vorplatz) der Hölle"
     },
     {
-     "match": "the unbaptized and virtuous pagans",
-     "text": "First Circle"
+     "match": "Die Ungetauften und die tugendhaften Heiden",
+     "text": "Erster Kreis"
     },
     {
-     "match": "the lustful",
-     "text": "Second Circle"
+     "match": "Die Wollüstigen",
+     "text": "Zweiter Kreis"
     },
     {
-     "match": "the gluttonous",
-     "text": "Third Circle"
+     "match": "Die Vielfraße",
+     "text": "Dritter Kreis"
     },
     {
-     "match": "the avaricious and the prodigal",
-     "text": "Fourth Circle"
+     "match": "Die Geizigen und die Verschwender",
+     "text": "Vierter Kreis"
     },
     {
-     "match": "the wrathful and the sullen",
-     "text": "Fifth Circle"
+     "match": "Die Zornigen und die Frustrierten",
+     "text": "Fünfter Kreis"
     },
     {
-     "match": "the heretics",
-     "text": "Sixth Circle"
+     "match": "Die Gotteslästerer und die Ketzer",
+     "text": "Sechster Kreis"
     },
     {
-     "match": "the violent",
-     "text": "Seventh Circle"
+     "match": "Die Gewalttätigen",
+     "text": "Siebter Kreis"
     },
     {
-     "match": "the fraudulent",
-     "text": "Eighth Circle"
+     "match": "Die Betrüger und die Böswilligen",
+     "text": "Achter Kreis"
     },
     {
-     "match": "the treacherous",
-     "text": "Ninth Circle"
+     "match": "Die Verräter",
+     "text": "Neunter Kreis"
     },
     {
      "match": "Satan",
-     "text": "The Center of Hell"
+     "text": "Zentrum der Hölle"
     }
    ],
    "category": "Literature",
    "decoys": [],
    "headers": [
     {
-     "match": "Sins",
-     "text": "Locations in Hell"
+     "match": "Sünder",
+     "text": "Abschnitte der Hölle"
     }
    ],
    "id": "78326",
    "isValid": "",
-   "prompt": "Match the location to the sin",
-   "promptHeader": "Circles of Hell in Dante's [i]Inferno[/i] and the Sinners Sent There",
-   "us": true,
+   "prompt": "Ordne den Abschnitt der Hölle der Sünde zu",
+   "promptHeader": "Die Kreise der Hölle in [i]Dantes Inferno[/i] und die dortigen Sünder",
+   "us": false,
    "x": true
   },
   {
@@ -2707,39 +2711,39 @@
   {
    "answers": [
     {
-     "match": "trumpet",
+     "match": "Trompete",
      "text": "Miles Davis"
     },
     {
-     "match": "guitar",
+     "match": "Gitarre",
      "text": "Django Reinhardt"
     },
     {
-     "match": "voice",
+     "match": "Stimme",
      "text": "Billie Holiday"
     },
     {
-     "match": "saxophone",
+     "match": "Saxophon",
      "text": "Charlie Parker"
     },
     {
-     "match": "piano",
+     "match": "Klavier",
      "text": "Thelonious Monk"
     },
     {
-     "match": "drums",
+     "match": "Schlagzeug",
      "text": "Buddy Rich"
     },
     {
-     "match": "bass",
+     "match": "Bass",
      "text": "Jaco Pastorius"
     },
     {
-     "match": "trombone",
-     "text": "J. J. Johnson"
+     "match": "Posaune",
+     "text": "Albert Mangelsdorff"
     },
     {
-     "match": "clarinet",
+     "match": "Klarinette",
      "text": "Benny Goodman"
     }
    ],
@@ -2747,73 +2751,73 @@
    "decoys": [],
    "headers": [
     {
-     "match": "Instruments",
-     "text": "Jazz Greats"
+     "match": "Instrumente",
+     "text": "Jazz-Stars"
     }
    ],
    "id": "78427",
    "isValid": "",
-   "prompt": "Match the artist to their instrument",
-   "promptHeader": "Jazz Greats and Their Instruments",
-   "us": true,
+   "prompt": "Ordne den Musiker seinem Instrument zu",
+   "promptHeader": "Jazz-Stars und ihre Instrumente",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "New York City",
-     "text": "[i]Friends[/i]"
+     "match": "Ivo Batic und Franz Leitmayr",
+     "text": "München"
     },
     {
-     "match": "South Korea",
-     "text": "[i]M*A*S*H[/i]"
+     "match": "Max Ballauf und Freddy Schenk",
+     "text": "Köln"
     },
     {
-     "match": "Miami",
-     "text": "[i]The Golden Girls[/i]"
+     "match": "Moritz Eisner und Bibi Fellner",
+     "text": "Wien"
     },
     {
-     "match": "Springfield",
-     "text": "[i]The Simpsons[/i]"
+     "match": "Charlotte Lindholm und Anais Schmitz",
+     "text": "Göttingen"
     },
     {
-     "match": "Seattle",
-     "text": "[i]Frasier[/i]"
+     "match": "Frank Thiel und Karl-Friedrich Boerne",
+     "text": "Münster"
     },
     {
-     "match": "Boston",
-     "text": "[i]Cheers[/i]"
+     "match": "Klaus Borowski und Mila Sahin",
+     "text": "Kiel"
     },
     {
-     "match": "Los Angeles",
-     "text": "[i]Curb Your Enthusiasm[/i]"
+     "match": "Felix Murot",
+     "text": "Wiesbaden"
     },
     {
-     "match": "South Park",
-     "text": "[i]South Park[/i]"
+     "match": "Peter Faber und Martina Bönisch",
+     "text": "Dortmund"
     },
     {
-     "match": "Minneapolis-Saint Paul",
-     "text": "[i]The Mary Tyler Moore Show[/i]"
+     "match": "Adam Schürk und Leo Hölzer",
+     "text": "Saarbrücken"
     },
     {
-     "match": "Philadelphia",
-     "text": "[i]It’s Always Sunny in Philadelphia[/i]"
+     "match": "Nina Rubin und Robert Karow",
+     "text": "Berlin"
     }
    ],
    "category": "Film & TV",
    "decoys": [],
    "headers": [
     {
-     "match": "Settings",
-     "text": "Sitcoms"
+     "match": "Ermittler",
+     "text": "Städte"
     }
    ],
    "id": "78443",
    "isValid": "",
-   "prompt": "Match the sitcom to its setting",
-   "promptHeader": "Sitcom Settings",
-   "us": true,
+   "prompt": "Ordne das [i]Tatort[i]-Ermittlerduo seiner Stadt zu",
+   "promptHeader": "[i]Tatort[/i]-Ermittler und ihr Revier",
+   "us": false,
    "x": false
   },
   {
@@ -2885,8 +2889,8 @@
      "text": "Burj Khalifa"
     },
     {
-     "match": "Chicago",
-     "text": "Willis Tower"
+     "match": "Frankfurt am Main",
+     "text": "Commerzbank Tower"
     },
     {
      "match": "Shanghai",
@@ -2897,11 +2901,11 @@
      "text": "The Shard"
     },
     {
-     "match": "San Francisco",
-     "text": "Transamerica Pyramid"
+     "match": "München",
+     "text": "Olympiaturm"
     },
     {
-     "match": "Singapore",
+     "match": "Singapur",
      "text": "Marina Bay Sands"
     },
     {
@@ -2921,15 +2925,15 @@
    "decoys": [],
    "headers": [
     {
-     "match": "Cities",
-     "text": "Buildings"
+     "match": "Städte",
+     "text": "Gebäude"
     }
    ],
    "id": "78446",
    "isValid": "",
-   "prompt": "Match the building to its city",
-   "promptHeader": "Skyscrapers",
-   "us": true,
+   "prompt": "Ordne das Gebäude der Stadt zu",
+   "promptHeader": "Wolkenkratzer",
+   "us": false,
    "x": false
   },
   {
@@ -2994,11 +2998,11 @@
    "answers": [
     {
      "match": "Empanada",
-     "text": "Argentina"
+     "text": "Argentinien"
     },
     {
-     "match": "Pierogi",
-     "text": "Poland"
+     "match": "Pirogge",
+     "text": "Polen"
     },
     {
      "match": "Jiaozi",
@@ -3006,27 +3010,27 @@
     },
     {
      "match": "Samosa",
-     "text": "India"
+     "text": "Indien"
     },
     {
      "match": "Ravioli",
-     "text": "Italy"
+     "text": "Italien"
     },
     {
      "match": "Siomay",
-     "text": "Indonesia"
+     "text": "Indonesien"
     },
     {
      "match": "Gyoza",
      "text": "Japan"
     },
     {
-     "match": "Khinkali",
-     "text": "Georgia (the country)"
+     "match": "Chinkali",
+     "text": "Georgien"
     },
     {
-     "match": "Pizza Rolls",
-     "text": "United States"
+     "match": "Maultasche",
+     "text": "Deutschland"
     },
     {
      "match": "Momo",
@@ -3037,15 +3041,15 @@
    "decoys": [],
    "headers": [
     {
-     "match": "Dumplings",
-     "text": "Countries"
+     "match": "Teigtaschen",
+     "text": "Länder"
     }
    ],
    "id": "78449",
    "isValid": "",
-   "prompt": "Match the country to the dumpling",
-   "promptHeader": "Hey! Where'd You Get That Dumpling?",
-   "us": true,
+   "prompt": "Ordne die Teigtasche dem Land zu",
+   "promptHeader": "“Hey, von wo hast du die Teigtasche?”",
+   "us": false,
    "x": false
   },
   {
