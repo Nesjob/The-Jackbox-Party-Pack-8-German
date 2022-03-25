@@ -203,8 +203,8 @@
 
         "REMAINING_CASES_TEXT": "VERBLEIBENDE FÄLLE",
 
-        "COLDCASE_BUMPER_LEFT_TEXT": "Kälte",
-        "COLDCASE_BUMPER_RIGHT_TEXT": "Falle",
+        "COLDCASE_BUMPER_LEFT_TEXT": "Kalte",
+        "COLDCASE_BUMPER_RIGHT_TEXT": "Fälle",
 
         "SCOREBOARD_DETECTIVE_TITLE": "Bester Detektiv",
         "SCOREBOARD_MURDERER_TITLE": "Bester Mörder",
@@ -213,7 +213,7 @@
 
         "SCORECARD_MURDERS_SOLVED": "Morde gelöst!",
         "SCORECARD_VICTIMS": "Opfer:",
-        "SCORECARD_DETECTIVES_FOOLED": "Spieler getauscht während kalter Falle",
+        "SCORECARD_DETECTIVES_FOOLED": "Spieler getauscht während kalter Fälle",
         "SCORECARD_GUESTS_BROUGHT": "Gäste mitgebracht:",
         "SCORECARD_MURDER_ATTEMPTS": "%d Mordversuche",
         "SCORECARD_FIRST_BONUS": "Erste %d Mal",
