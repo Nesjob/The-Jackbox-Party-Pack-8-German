@@ -3055,117 +3055,137 @@
   {
    "answers": [
     {
-     "match": "California",
-     "text": "Yosemite"
+     "match": "Bayern",
+     "text": "Berchtesgaden"
     },
     {
-     "match": "Maine",
-     "text": "Acadia"
+     "match": "Mecklenburg-Vorpommern",
+     "text": "Jasmund"
     },
     {
-     "match": "Texas",
-     "text": "Big Bend"
+     "match": "Sachsen",
+     "text": "Sächsische Schweiz"
     },
     {
-     "match": "Alaska",
-     "text": "Gates of the Arctic"
+     "match": "Brandenburg",
+     "text": "Unteres Odertal"
     },
     {
-     "match": "Utah",
-     "text": "Arches"
+     "match": "Thüringen",
+     "text": "Hainich"
     },
     {
-     "match": "South Dakota",
-     "text": "Badlands"
+     "match": "Nordrhein-Westfalen",
+     "text": "Eifel"
     },
     {
-     "match": "Oregon",
-     "text": "Crater Lake"
+     "match": "Hessen",
+     "text": "Kellerwald-Edersee"
     },
     {
-     "match": "Florida",
-     "text": "Everglades"
+     "match": "Baden-Württemberg",
+     "text": "Schwarzwald"
     },
     {
-     "match": "Montana",
-     "text": "Glacier"
+     "match": "Rheinland-Pfalz/Saarland",
+     "text": "Hunsrück-Hochwald"
     },
     {
-     "match": "Arizona",
-     "text": "Grand Canyon"
+     "match": "Niedersachsen/Sachsen-Anhalt",
+     "text": "Harz"
     }
    ],
    "category": "Geography & Landmarks",
    "decoys": [],
    "headers": [
     {
-     "match": "States",
-     "text": "National Parks"
+     "match": "Bundesländer",
+     "text": "Nationalparks"
     }
    ],
    "id": "78450",
    "isValid": "",
-   "prompt": "Match the park to its state",
-   "promptHeader": "U.S. National Park Locations",
-   "us": true,
+   "prompt": "Ordne den Nationalpark dem Bundesland zu",
+   "promptHeader": "Bundesländer und ihre Nationalparks",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "groceries",
-     "text": "Ralphs"
+     "match": "Tütensuppe",
+     "text": "[i]Knorr[/i]"
     },
     {
-     "match": "sports equipment",
-     "text": "Dick's"
+     "match": "Sportausrüstung",
+     "text": "[i]Decathlon[/i]"
     },
     {
-     "match": "coffee and donuts",
-     "text": "Tim Hortons"
+     "match": "Kaffee",
+     "text": "[i]Dallmayr[/i]"
     },
     {
-     "match": "ice cream",
-     "text": "Ben & Jerry's"
+     "match": "Eiscreme",
+     "text": "[i]Ben & Jerry's[/i]"
     },
     {
-     "match": "dad shirts",
-     "text": "Eddie Bauer"
+     "match": "Alte-Leute-Kleidung",
+     "text": "[i]Trigema[/i]"
     },
     {
-     "match": "sandwiches",
-     "text": "Jimmy John's"
+     "match": "Senf",
+     "text": "[i]Thomy[/i]"
     },
     {
-     "match": "liquor",
-     "text": "Johnnie Walker"
+     "match": "Likör",
+     "text": "[i]Johnnie Walker[/i]"
     },
     {
-     "match": "jeans",
-     "text": "Levi's"
+     "match": "Jeans",
+     "text": "[i]Levi's[/i]"
     },
     {
-     "match": "bulk toilet paper",
-     "text": "Sam's"
+     "match": "Taschentücher",
+     "text": "[i]Tempo[/i]"
     },
     {
-     "match": "fresh armpits",
-     "text": "Tom's"
+     "match": "Frische Achselhöhlen",
+     "text": "[i]Rexona[/i]"
+    },
+    {
+     "match": "Nudeln",
+     "text": "[i]Barilla[/i]"
+    },
+    {
+     "match": "Milchprodukte",
+     "text": "[i]Landliebe[/i]"
+    },
+    {
+     "match": "Brot",
+     "text": "[i]Harry[/i]"
+    },
+    {
+     "match": "Äpfel",
+     "text": "[i]Pink Lady[/i]"
+    },
+    {
+     "match": "Tiefkühlpizza",
+     "text": "[i]Original Wagner[/i]"
     }
    ],
-   "category": "Names",
+   "category": "Companies & Brands",
    "decoys": [],
    "headers": [
     {
-     "match": "Stuff",
-     "text": "Guys"
+     "match": "Produkte",
+     "text": "Marken"
     }
    ],
    "id": "78516",
    "isValid": "",
-   "prompt": "Match the company to their product",
-   "promptHeader": "Just Some Guys and Their Stuff",
-   "us": true,
+   "prompt": "Ordne die Marke ihrem Produkt zu",
+   "promptHeader": "Marken und ihre Produkte",
+   "us": false,
    "x": false
   },
   {
@@ -3229,15 +3249,15 @@
   {
    "answers": [
     {
-     "match": "[i]The Old Guitarist[/i]",
+     "match": "[i]Der alte Gitarrenspieler[/i]",
      "text": "Pablo Picasso"
     },
     {
-     "match": "[i]The Two Fridas[/i]",
+     "match": "[i]Die zwei Fridas[/i]",
      "text": "Frida Kahlo"
     },
     {
-     "match": "[i]The Persistence of Memory[/i]",
+     "match": "[i]Die Beständigkeit der Erinnerung[/i]",
      "text": "Salvador Dalí"
     },
     {
@@ -3245,31 +3265,31 @@
      "text": "Grant Wood"
     },
     {
-     "match": "[i]Black Iris[/i]",
-     "text": "Georgia O'Keeffe"
+     "match": "[i]Stürmische See[/i]",
+     "text": "Emil Nolde"
     },
     {
      "match": "32 [i]Campbell's Soup Cans[/i]",
      "text": "Andy Warhol"
     },
     {
-     "match": "[i]Blue Poles[/i] (Number 11)",
-     "text": "Jackson Pollock"
+     "match": "[i]Akt, eine Treppe herabsteigend Nr. 2[/i]",
+     "text": "Marcel Duchamp"
     },
     {
      "match": "[i]Nighthawks[/i]",
      "text": "Edward Hopper"
     },
     {
-     "match": "[i]No 1 Royal Red and Blue[/i]",
-     "text": "Mark Rothko"
+     "match": "[i]Hölle der Vögel[/i]",
+     "text": "Max Beckmann"
     },
     {
-     "match": "[i]Untitled[/i] (Skull)",
-     "text": "Jean-Michel Basquiat"
+     "match": "Verhüllter Reichstag",
+     "text": "Christo und Jeanne-Claude"
     },
     {
-     "match": "[i]The Kiss[/i]",
+     "match": "[i]Der Kuss[/i]",
      "text": "Gustav Klimt"
     }
    ],
@@ -3277,15 +3297,15 @@
    "decoys": [],
    "headers": [
     {
-     "match": "Masterpieces",
-     "text": "Artists"
+     "match": "Meisterwerke",
+     "text": "Künstler"
     }
    ],
    "id": "78631",
    "isValid": "",
-   "prompt": "Match the artist to their masterpiece",
-   "promptHeader": "20th Century Artists and Their Masterpieces",
-   "us": true,
+   "prompt": "Ordne das Meisterwerk dem Künstler zu",
+   "promptHeader": "Künstler des 20. Jahrhunderts und ihre Meisterwerke",
+   "us": false,
    "x": false
   },
   {
@@ -3547,67 +3567,83 @@
   {
    "answers": [
     {
-     "match": "Steely McBeam",
-     "text": "Pittsburgh Steelers"
+     "match": "Berni",
+     "text": "FC Bayern München"
     },
     {
-     "match": "Mr. Met",
-     "text": "New York Mets"
+     "match": "Emma",
+     "text": "Borussia Dortmund"
     },
     {
-     "match": "Mr. Redlegs",
-     "text": "Cincinnati Reds"
+     "match": "Bulli",
+     "text": "RB Leipzig"
     },
     {
-     "match": "Benny the Bull",
-     "text": "Chicago Bulls"
+     "match": "Jünter",
+     "text": "Borussia Mönchengladbach"
     },
     {
-     "match": "The Phanatic",
-     "text": "Philadelphia Phillies"
+     "match": "Attila",
+     "text": "Eintracht Frankfurt"
     },
     {
-     "match": "Jazz Bear",
-     "text": "Utah Jazz"
+     "match": "Brian the Lion",
+     "text": "Bayer 04 Leverkusen"
     },
     {
-     "match": "Gritty",
-     "text": "Philadelphia Flyers"
+     "match": "Wölfi",
+     "text": "VfL Wolfsburg"
     },
     {
-     "match": "Wally the Green Monster",
-     "text": "Boston Red Sox"
+     "match": "Herthinho",
+     "text": "Hertha BSC"
     },
     {
-     "match": "Burnie",
-     "text": "Miami Heat"
+     "match": "Erwin",
+     "text": "Schalke 04"
     },
     {
-     "match": "Captain Fear",
-     "text": "Tampa Bay Buccaneers"
+     "match": "Fritzle",
+     "text": "VfB Stuttgart"
     },
     {
-     "match": "Moondog",
-     "text": "Cleveland Cavaliers"
+     "match": "Ritter Keule",
+     "text": "Union Berlin"
     },
     {
-     "match": "Sourdough Sam",
-     "text": "San Francisco 49ers"
+     "match": "Hennes",
+     "text": "1. FC Köln"
+    },
+    {
+     "match": "Lohmann",
+     "text": "Arminia Bielefeld"
+    },
+    {
+     "match": "Stolle",
+     "text": "Holstein Kiel"
+    },
+    {
+     "match": "Eddi",
+     "text": "Hannover 96"
+    },
+    {
+     "match": "Bobbi Bolzer",
+     "text": "Vfl Bochum"
     }
    ],
    "category": "Companies & Brands",
    "decoys": [],
    "headers": [
     {
-     "match": "Mascots",
-     "text": "Teams"
+     "match": "Maskottchen",
+     "text": "Mannschaften"
     }
    ],
    "id": "78685",
    "isValid": "",
-   "prompt": "Match the sports team to their mascot",
-   "promptHeader": "Sports Mascots",
-   "us": true,
+   "prompt": "Ordne das Maskottchen der Fußballmannschaft zu",
+   "promptHeader": "Fußball-Maskottchen",
+   "us": false,
    "x": false
   },
   {
@@ -3742,105 +3778,105 @@
     },
     {
      "match": "Slimer",
-     "text": "[i]Ghostbusters[/i]"
+     "text": "[i]Ghostbusters - Die Geisterjäger[/i]"
     },
     {
-     "match": "The Ghost Of Christmas Past",
-     "text": "[i]A Christmas Carol[/i]"
+     "match": "Der Geist der vergangenen Weihnachten",
+     "text": "[i]Eine Weihnachtsgeschichte[/i]"
     },
     {
-     "match": "Shoeless Joe Jackson",
-     "text": "[i]Field Of Dreams[/i]"
+     "match": "Joe “Shoeless” Jackson",
+     "text": "[i]Feld der Träume[/i]"
     },
     {
      "match": "Betelgeuse",
-     "text": "[i]Beetlejuice[/i]"
+     "text": "[i]Lottergeist Beetlejuice[/i]"
     },
     {
-     "match": "Headless Horseman",
+     "match": "Kopfloser Reiter",
      "text": "[i]Sleepy Hollow[/i]"
     },
     {
      "match": "Sam Wheat",
-     "text": "[i]Ghost[/i]"
+     "text": "[i]Ghost – Nachricht von Sam[/i]"
     },
     {
-     "match": "Casper The Friendly Ghost",
-     "text": "[i]Casper[/i]"
+     "match": "Holländer",
+     "text": "[i]Der fliegende Holländer[/i]"
     },
     {
-     "match": "Dr. Malcolm Crowe",
-     "text": "[i]The Sixth Sense[/i]"
+     "match": "Hui Buh",
+     "text": "[i]Das Schlossgespenst[/i]"
     },
     {
-     "match": "Moaning Myrtle",
-     "text": "[i]Harry Potter & The Goblet Of Fire[/i]"
+     "match": "Maulende Myrte",
+     "text": "[i]Harry Potter und der Feuerkelch[/i]"
     }
    ],
    "category": "Pop Culture",
    "decoys": [],
    "headers": [
     {
-     "match": "Ghosts",
-     "text": "Films"
+     "match": "Geister",
+     "text": "Herkünfte"
     }
    ],
    "id": "78748",
    "isValid": "",
-   "prompt": "Match the film to the ghost",
-   "promptHeader": "Ahhhh!!!! A G-g-g-g-ghost???",
-   "us": true,
+   "prompt": "Ordne das Gespenst seiner Herkunft zu",
+   "promptHeader": "“Ahhh!! Sp-Sp-Spuckt es hier etwa??”",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "Heart",
-     "text": "Ann Wilson"
+     "match": "[i]Modern Talking[/i]",
+     "text": "Dieter Bohlen"
     },
     {
-     "match": "Paramore",
-     "text": "Hayley Williams"
+     "match": "[i]Rammstein[/i]",
+     "text": "Till Lindemann"
     },
     {
-     "match": "Blondie",
-     "text": "Debbie Harry"
+     "match": "[i]Die Fantastischen Vier[/i]",
+     "text": "Michael “Smudo” Schmidt"
     },
     {
-     "match": "Jefferson Airplane",
-     "text": "Grace Slick"
+     "match": "[i]Scorpions[/i]",
+     "text": "Rudolf Schenker"
     },
     {
-     "match": "Hole",
-     "text": "Courtney Love"
+     "match": "[i]Die Amigos[/i]",
+     "text": "Karl-Heinz Ulrich"
     },
     {
-     "match": "Fleetwood Mac",
-     "text": "Stevie Nicks"
+     "match": "[i]Tokio Hotel[/i]",
+     "text": "Bill Kaulitz"
     },
     {
-     "match": "Sleater-Kinney",
-     "text": "Carrie Brownstein"
+     "match": "[i]Die Prinzen[/i]",
+     "text": "Sebastian Krumbiegel"
     },
     {
-     "match": "Garbage",
-     "text": "Shirley Manson"
+     "match": "[i]Fettes Brot[/i]",
+     "text": "Martin Vandreier"
     },
     {
-     "match": "The Ike & Tina Turner Revue",
-     "text": "Tina Turner"
+     "match": "[i]Scooter[/i]",
+     "text": "H. P. Baxxter"
     },
     {
-     "match": "Alabama Shakes",
-     "text": "Brittany Howard"
+     "match": "[i]Kraftwerk[/i]",
+     "text": "Ralf Hütter"
     },
     {
-     "match": "The Pretenders",
-     "text": "Chrissie Hynde"
+     "match": "[i]The Kelly Family[/i]",
+     "text": "Kathy Kelly"
     },
     {
-     "match": "No Doubt",
-     "text": "Gwen Stefani"
+     "match": "[i]Spider Murphy Gang[/i]",
+     "text": "Günther Sigl"
     }
    ],
    "category": "Music",
@@ -3848,14 +3884,14 @@
    "headers": [
     {
      "match": "Bands",
-     "text": "Artists"
+     "text": "Künstler"
     }
    ],
    "id": "78750",
    "isValid": "",
-   "prompt": "Match the artist to their band",
-   "promptHeader": "I'm With the Band",
-   "us": true,
+   "prompt": "Ordne den Künstler seiner Band zu",
+   "promptHeader": "Künstler und ihre Bands",
+   "us": false,
    "x": false
   },
   {
@@ -3981,106 +4017,106 @@
   {
    "answers": [
     {
-     "match": "egg",
-     "text": "tamago"
+     "match": "Eier",
+     "text": "Tamago"
     },
     {
-     "match": "tuna",
-     "text": "maguro"
+     "match": "Thunfisch",
+     "text": "Maguro"
     },
     {
-     "match": "salmon",
-     "text": "sake"
+     "match": "Lachs",
+     "text": "Sake"
     },
     {
-     "match": "cooked prawn",
-     "text": "ebi"
+     "match": "Gekochte Garnelen",
+     "text": "Ebi"
     },
     {
-     "match": "freshwater eel",
-     "text": "unagi"
+     "match": "Süßwasseraal",
+     "text": "Unagi"
     },
     {
-     "match": "flying fish eggs",
-     "text": "tobiko"
+     "match": "Rogen von fliegenden Fischen",
+     "text": "Tobiko"
     },
     {
-     "match": "squid",
-     "text": "ika"
+     "match": "Tintenfisch",
+     "text": "Ika"
     },
     {
-     "match": "yellowtail",
-     "text": "hamachi"
+     "match": "Stachelmakrele",
+     "text": "Hamachi"
     },
     {
-     "match": "scallop",
-     "text": "hotate"
+     "match": "Jakobsmuschel",
+     "text": "Hotate"
     },
     {
-     "match": "halibut",
-     "text": "hirame"
+     "match": "Heilbutt",
+     "text": "Hirame"
     }
    ],
    "category": "Food & Drink",
    "decoys": [],
    "headers": [
     {
-     "match": "Ingredients",
-     "text": "Sushi"
+     "match": "Zutaten",
+     "text": "Sushi-Gerichte"
     }
    ],
    "id": "78755",
    "isValid": "",
-   "prompt": "Match the sushi dish to its ingredient",
-   "promptHeader": "Sushi Sync Up",
-   "us": true,
+   "prompt": "Ordne die Zutat dem Sushi-Gericht zu",
+   "promptHeader": "“Hat jemand Lust auf Sushi?”",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "The Jimi Hendrix Experience",
+     "match": "[i]The Jimi Hendrix Experience[/i]",
      "text": "Jimi Hendrix"
     },
     {
-     "match": "Cream",
-     "text": "Eric Clapton"
+     "match": "[i]Rammstein[/i]",
+     "text": "Richard Kruspe"
     },
     {
-     "match": "Pink Floyd",
+     "match": "[i]Pink Floyd[/i]",
      "text": "David Gilmour"
     },
     {
-     "match": "Queen",
+     "match": "[i]Queen[/i]",
      "text": "Brian May"
     },
     {
-     "match": "Led Zeppelin",
-     "text": "Jimmy Page"
+     "match": "[i]Scorpions[/i]",
+     "text": "Rudolf Schenker"
     },
     {
-     "match": "The Rolling Stones",
+     "match": "[i]The Rolling Stones[/i]",
      "text": "Keith Richards"
     },
     {
-     "match": "Black Sabbath",
+     "match": "[i]Black Sabbath[/i]",
      "text": "Tony Iommi"
     },
     {
-     "match": "Guns N’ Roses",
+     "match": "[i]Guns N’ Roses[/i]",
      "text": "Slash"
     },
     {
-     "match": "AC/DC",
+     "match": "[i]AC/DC[/i]",
      "text": "Angus Young"
     },
     {
-     "match": "Metallica",
+     "match": "[i]Metallica[/i]",
      "text": "James Hetfield"
     },
     {
-     "match": "The Who",
-     "text": "Pete Townshend"
+     "match": "[i]The BossHoss[/i]",
+     "text": "Sascha “Hoss Power” Vollmer"
     }
    ],
    "category": "Music",
@@ -4088,76 +4124,76 @@
    "headers": [
     {
      "match": "Bands",
-     "text": "Guitarists"
+     "text": "Gitarristen"
     }
    ],
    "id": "78756",
    "isValid": "",
-   "prompt": "Match the guitarist to the band",
-   "promptHeader": "Guitar Gods and Who They Rock With",
-   "us": true,
+   "prompt": "Ordne den Gitarristen seiner Band zu",
+   "promptHeader": "Götter der Gitarre und mit wem sie abrocken",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "frog",
+     "match": "Frosch",
      "text": "Kermit"
     },
     {
-     "match": "pig",
+     "match": "Schwein",
      "text": "Miss Piggy"
     },
     {
-     "match": "alien, but self-identifies as “whatever”",
+     "match": "Alien (sieht sich selbst als “Einzelstück”)",
      "text": "Gonzo"
     },
     {
-     "match": "bear",
+     "match": "Bär",
      "text": "Fozzie"
     },
     {
-     "match": "dog",
+     "match": "Hund",
      "text": "Rowlf"
     },
     {
-     "match": "drummer",
-     "text": "Animal"
+     "match": "Schlagzeuger",
+     "text": "Tier"
     },
     {
-     "match": "scientist’s assistant",
+     "match": "Wissenschaftlicher Assistent",
      "text": "Beaker"
     },
     {
-     "match": "scientist",
-     "text": "Dr. Bunsen Honeydew"
+     "match": "Wissenschaftler",
+     "text": "Prof. Dr. Honigtau Bunsenbrenner"
     },
     {
-     "match": "king prawn",
-     "text": "Pepé"
+     "match": "Huhn",
+     "text": "Camilla"
     },
     {
-     "match": "rat",
+     "match": "Ratte",
      "text": "Rizzo"
     },
     {
-     "match": "a chef from Sweden",
-     "text": "Swedish Chef"
+     "match": "Ein Koch aus Dänemark",
+     "text": "Dänischer Koch"
     }
    ],
    "category": "Film & TV",
    "decoys": [],
    "headers": [
     {
-     "match": "What They Are",
-     "text": "Muppets"
+     "match": "Das sind sie",
+     "text": "[i]Muppets[/i]"
     }
    ],
    "id": "78814",
    "isValid": "",
-   "prompt": "Match the Muppet to what they are supposed to be",
-   "promptHeader": "The Muppets and Whatever the Heck They're Supposed to Be",
-   "us": true,
+   "prompt": "Ordne den einzelnen [i]Muppets[/i] zu, was sie darstellen sollen",
+   "promptHeader": "Die [i]Muppets[/i] und was zum Geier sie darstellen sollen",
+   "us": false,
    "x": false
   },
   {
@@ -4288,50 +4324,50 @@
    "answers": [
     {
      "match": "Tiger",
-     "text": "Frosted Flakes"
+     "text": "[i]Frosties[/i]"
     },
     {
-     "match": "Toucan",
-     "text": "Froot Loops"
+     "match": "Tukan",
+     "text": "[i]Froot Loops[/i]"
     },
     {
-     "match": "Rabbit",
-     "text": "Trix"
+     "match": "Löwe",
+     "text": "[i]Lion Knusper-Müsli[/i]"
     },
     {
-     "match": "Bee",
-     "text": "Honey Nut Cheerios"
+     "match": "Biene",
+     "text": "[i]Cheerios Bio Honig[/i]"
     },
     {
-     "match": "Frog",
-     "text": "Honey Smacks"
+     "match": "Frosch",
+     "text": "[i]Smacks[/i]"
     },
     {
-     "match": "Cuckoo Bird",
-     "text": "Cocoa Puffs"
+     "match": "Affe",
+     "text": "[i]Choco Krispies[/i]"
     },
     {
-     "match": "Rooster",
-     "text": "Corn Flakes"
+     "match": "Hahn",
+     "text": "[i]Corn Flakes[/i]"
     },
     {
      "match": "Wolf",
-     "text": "Cookie Crisp"
+     "text": "[i]Cookie Crisp[/i]"
     }
    ],
    "category": "Food & Drink",
    "decoys": [],
    "headers": [
     {
-     "match": "Mascots",
-     "text": "Cereals"
+     "match": "Maskottchen",
+     "text": "Cerealien"
     }
    ],
    "id": "79460",
    "isValid": "",
-   "prompt": "Match the cereal to the mascot",
-   "promptHeader": "Cereal Brands and Their Furry Mascots",
-   "us": true,
+   "prompt": "Ordne das Müsli seinem Maskottchen zu",
+   "promptHeader": "Cerealien-Marken und ihre pelzigen Maskottchen",
+   "us": false,
    "x": false
   },
   {
@@ -4407,12 +4443,12 @@
      "text": "[i]Hamlet[/i]"
     },
     {
-     "match": "Juliet",
-     "text": "[i]Romeo and Juliet[/i]"
+     "match": "Julia",
+     "text": "[i]Romeo und Julia[/i]"
     },
     {
      "match": "Viola",
-     "text": "[i]Twelfth Night[/i]"
+     "text": "[i]Was ihr wollt[/i]"
     },
     {
      "match": "Lady Macbeth",
@@ -4420,19 +4456,19 @@
     },
     {
      "match": "Beatrice",
-     "text": "[i]Much Ado About Nothing[/i]"
+     "text": "[i]Viel Lärm um nichts[/i]"
     },
     {
      "match": "Cordelia",
-     "text": "[i]King Lear[/i]"
+     "text": "[i]König Lear[/i]"
     },
     {
      "match": "Paulina",
-     "text": "[i]The Winter's Tale[/i]"
+     "text": "[i]Das Wintermärchen[/i]"
     },
     {
      "match": "Miranda",
-     "text": "[i]The Tempest[/i]"
+     "text": "[i]Der Sturm[/i]"
     },
     {
      "match": "Desdemona",
@@ -4440,44 +4476,44 @@
     },
     {
      "match": "Cleopatra",
-     "text": "[i]Antony and Cleopatra[/i]"
+     "text": "[i]Antonius und Cleopatra[/i]"
     }
    ],
    "category": "Literature",
    "decoys": [],
    "headers": [
     {
-     "match": "Ladies",
-     "text": "Plays"
+     "match": "Damen",
+     "text": "Theaterstücke"
     }
    ],
    "id": "79470",
    "isValid": "",
-   "prompt": "Match the play with m’lady!",
-   "promptHeader": "The Complex Women of Shakespeare",
-   "us": true,
+   "prompt": "Ordne die Dame dem Theaterstück zu",
+   "promptHeader": "Die komplexe Frauenwelt des Shakespeare",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "BATMAN: The Ride",
-     "text": "Six Flags Great America"
+     "match": "Colossos",
+     "text": "Heide Park"
     },
     {
-     "match": "Mission: SPACE",
-     "text": "Epcot"
+     "match": "Taron",
+     "text": "Phantasialand"
     },
     {
-     "match": "Tennessee Tornado",
-     "text": "Dollywood"
+     "match": "Star Trek: Operation Enterprise",
+     "text": "Movie Park Germany"
     },
     {
-     "match": "Revenge of the Mummy",
-     "text": "Universal Studios Florida"
+     "match": "Das Große LEGO Rennen",
+     "text": "Legoland Deutschland"
     },
     {
-     "match": "Arthur",
+     "match": "Silver Star",
      "text": "Europa-Park"
     },
     {
@@ -4489,23 +4525,23 @@
      "text": "Universal Studios Japan"
     },
     {
-     "match": "Matterhorn Bobsleds",
-     "text": "Disneyland California"
+     "match": "Expedition GeForce",
+     "text": "Holiday Park"
     }
    ],
    "category": "Geography & Landmarks",
    "decoys": [],
    "headers": [
     {
-     "match": "Attractions",
-     "text": "Theme Parks"
+     "match": "Attraktionen",
+     "text": "Freizeitparks"
     }
    ],
    "id": "79474",
    "isValid": "",
-   "prompt": "Match the theme park to the attraction",
-   "promptHeader": "Rides of Enormous Amusement",
-   "us": true,
+   "prompt": "Ordne die Attraktion dem Freizeitpark zu",
+   "promptHeader": "Fahrgeschäfte von unglaublicher Erheiterung",
+   "us": false,
    "x": false
   },
   {
@@ -4569,59 +4605,63 @@
   {
    "answers": [
     {
-     "match": "1910s",
+     "match": "1910er",
      "text": "[i]Wonder Woman[/i]"
     },
     {
-     "match": "1920s",
-     "text": "[i]The Great Gatsby[/i]"
+     "match": "1920er",
+     "text": "[i]Der große Gatsby[/i]"
     },
     {
-     "match": "1930s",
-     "text": "[i]The Mummy Returns[/i]"
+     "match": "1930er",
+     "text": "[i]Mord im Orientexpress[/i]"
     },
     {
-     "match": "1940s",
+     "match": "1940er",
      "text": "[i]Captain America: The First Avenger[/i]"
     },
     {
-     "match": "1950s",
-     "text": "[i]The Iron Giant[/i]"
+     "match": "1950er",
+     "text": "[i]Das Wunder von Bern[/i]"
     },
     {
-     "match": "1960s",
-     "text": "[i]Hairspray[/i]"
+     "match": "1960er",
+     "text": "[i]Full Metal Jacket[/i]"
     },
     {
-     "match": "1970s",
-     "text": "[i]Anchorman[/i]"
+     "match": "1970er",
+     "text": "[i]Sonnenallee[/i]"
     },
     {
-     "match": "1980s",
-     "text": "[i]The Wedding Singer[/i]"
+     "match": "1980er",
+     "text": "[i]American Psycho[/i]"
     },
     {
-     "match": "1990s",
+     "match": "1990er",
      "text": "[i]Captain Marvel[/i]"
     },
     {
-     "match": "2000s",
+     "match": "2000er",
      "text": "[i]The Big Short[/i]"
+    },
+    {
+     "match": "2010er",
+     "text": "[i]Akira[/i]"
     }
    ],
    "category": "Film & TV",
    "decoys": [],
    "headers": [
     {
-     "match": "Decades",
-     "text": "Movies"
+     "match": "Jahrzehnte",
+     "text": "Filme"
     }
    ],
    "id": "79498",
    "isValid": "",
-   "prompt": "Match the movie to the decade in which it is set",
-   "promptHeader": "Period. Movies.",
-   "us": true,
+   "prompt": "Ordne den Film dem Jahrzehnt zu, in dem er spielt",
+   "promptHeader": "Filme, die in einer anderen Dekade spielen, als sie gedreht wurden",
+   "us": false,
    "x": false
   },
   {
@@ -4701,12 +4741,12 @@
      "text": "Phineas"
     },
     {
-     "match": "Mandy",
-     "text": "Billy"
+     "match": "Clyde McBride",
+     "text": "Lincoln Loud"
     },
     {
-     "match": "Woody",
-     "text": "Buzz"
+     "match": "Buzz",
+     "text": "Woody"
     },
     {
      "match": "Gerald",
@@ -4721,31 +4761,31 @@
      "text": "Tommy Pickles"
     },
     {
-     "match": "Scooby-Doo",
-     "text": "Shaggy"
+     "match": "Shaggy",
+     "text": "Scooby-Doo"
     },
     {
-     "match": "Jane",
-     "text": "Daria"
+     "match": "Jake",
+     "text": "Finn"
     },
     {
-     "match": "Dodie Bishop",
-     "text": "Ginger Foutley"
+     "match": "Timmy Turner",
+     "text": "Chester McBadbat"
     }
    ],
    "category": "Film & TV",
    "decoys": [],
    "headers": [
     {
-     "match": "Cartoon Friends (Column B)",
-     "text": "Cartoon Friends (Column A)"
+     "match": "Cartoon-Freunde (Spalte B)",
+     "text": "Cartoon-Freunde (Spalte A)"
     }
    ],
    "id": "79621",
    "isValid": "",
-   "prompt": "Match the cartoon character to their best friend",
-   "promptHeader": "Cartoon Besties",
-   "us": true,
+   "prompt": "Ordne die Cartoon-Figur ihrem besten Freund zu",
+   "promptHeader": "Cartoon-BFFs",
+   "us": false,
    "x": false
   },
   {
