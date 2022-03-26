@@ -119,12 +119,12 @@
   {
    "answers": [
     {
-     "match": "Karl Ove Knausgaard",
-     "text": "[i]My Struggle[/i]"
+     "match": "Dave Eggers",
+     "text": "[i]Der Circle[/i]"
     },
     {
      "match": "Donna Tartt",
-     "text": "[i]The Goldfinch[/i]"
+     "text": "[i]Der Distelfink[/i]"
     },
     {
      "match": "Michelle Obama",
@@ -139,43 +139,51 @@
      "text": "[i]Gone Girl[/i]"
     },
     {
-     "match": "John Green",
-     "text": "[i]The Fault in Our Stars[/i]"
+     "match": "Timur Vermes",
+     "text": "[i]Er ist wieder da[/i]"
     },
     {
-     "match": "Ta-Nehisi Coates",
-     "text": "[i]Between the World and Me[/i]"
+     "match": "Klaus-Peter Wolf",
+     "text": "[i]Ostfriesenschwur[/i]"
     },
     {
      "match": "Malala Yousafzai",
-     "text": "[i]I Am Malala[/i]"
+     "text": "[i]Ich bin Malala[/i]"
     },
     {
-     "match": "Harper Lee",
-     "text": "[i]Go Set a Watchman[/i]"
+     "match": "Wolfgang Herrndorf",
+     "text": "[i]Tschick[/i]"
     },
     {
-     "match": "George Saunders",
-     "text": "[i]Lincoln in the Bardo[/i]"
+     "match": "Donna Leon",
+     "text": "[i]Tod zwischen den Zeilen[/i]"
     },
     {
-     "match": "J. D. Vance",
-     "text": "[i]Hillbilly Elegy[/i]"
+     "match": "Sebastian Fitzek",
+     "text": "[i]Das Geschenk[/i]"
+    },
+    {
+     "match": "Giulia Enders",
+     "text": "[i]Darm mit Charme[/i]"
+    },
+    {
+     "match": "Joanne K. Rowling",
+     "text": "[i]Phantastische Tierwesen und wo sie zu finden sind[/i]"
     }
    ],
    "category": "Literature",
    "decoys": [],
    "headers": [
     {
-     "match": "Authors",
-     "text": "Books"
+     "match": "Autoren",
+     "text": "Bücher"
     }
    ],
    "id": "76790",
    "isValid": "",
-   "prompt": "Match the book to its author",
-   "promptHeader": "Bestsellers of the 2010s",
-   "us": true,
+   "prompt": "Ordne dem Buch einen Autor zu",
+   "promptHeader": "Bestseller der 2010er-Jahre",
+   "us": false,
    "x": false
   },
   {
@@ -239,113 +247,117 @@
   {
    "answers": [
     {
-     "match": "stuck nails",
-     "text": "pliers"
+     "match": "Festsitzender Nagel",
+     "text": "Zange"
     },
     {
-     "match": "hexagonal screw socket",
-     "text": "Allen wrench"
+     "match": "Sechskantschraube",
+     "text": "Inbusschlüssel"
     },
     {
-     "match": "nut",
-     "text": "adjustable wrench"
+     "match": "Mutter",
+     "text": "Schraubenschlüssel"
     },
     {
-     "match": "darkness",
-     "text": "flashlight"
+     "match": "Dunkelheit",
+     "text": "Taschenlampe"
     },
     {
-     "match": "shoes",
-     "text": "ladder"
+     "match": "Schuhe",
+     "text": "Leiter"
     },
     {
-     "match": "automobile",
-     "text": "floor jack"
+     "match": "Auto",
+     "text": "Wagenheber"
     },
     {
-     "match": "paper",
-     "text": "scissors"
+     "match": "Papier",
+     "text": "Schere"
     },
     {
-     "match": "stone",
-     "text": "tooth chisel"
+     "match": "Mörtel",
+     "text": "Zahnmeißel"
     },
     {
-     "match": "tree trunk",
-     "text": "crosscut saw"
+     "match": "Holzstück",
+     "text": "Japansäge"
     },
     {
-     "match": "weeds",
-     "text": "weed puller"
+     "match": "Unkraut",
+     "text": "Unkrautstecher"
     }
    ],
    "category": "Tools",
    "decoys": [],
    "headers": [
     {
-     "match": "Surfaces",
-     "text": "Tools"
+     "match": "Oberflächen",
+     "text": "Werkzeuge"
     }
    ],
    "id": "76828",
    "isValid": "",
-   "prompt": "Match the tool to the surface it touches",
-   "promptHeader": "Tools",
-   "us": true,
+   "prompt": "Ordne dem Werkzeug die Oberfläche zu, die es berührt",
+   "promptHeader": "Werkzeug",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "[i]The Lion, the Witch and the Wardrobe[/i]",
-     "text": "The White Witch"
+     "match": "[i]Der König von Narnia[/i]",
+     "text": "Die Weiße Hexe"
     },
     {
-     "match": "[i]Harry Potter and the Chamber of Secrets[/i]",
+     "match": "[i]Harry Potter und die Kammer des Schreckens[/i]",
      "text": "Minerva McGonagall"
     },
     {
      "match": "[i]Macbeth[/i]",
-     "text": "The Weird Sisters"
+     "text": "Die unheimlichen Schwestern"
     },
     {
-     "match": "[i]The Little Mermaid[/i]",
+     "match": "[i]Arielle, die Meerjungfrau[/i]",
      "text": "Ursula"
     },
     {
-     "match": "[i]The Witches[/i]",
-     "text": "Grand High Witch"
+     "match": "[i]Der Wunschpunsch[/i]",
+     "text": "Tyrannja Vamperl"
     },
     {
-     "match": "[i]The Vampire Diaries[/i]",
-     "text": "Bonnie Bennett"
+     "match": "[i]Tagebuch eines Vampirs[/i]",
+     "text": "Bonnie McCullough"
     },
     {
-     "match": "[i]Charmed[/i]",
+     "match": "[i]Charmed - Zauberhafte Hexen[/i]",
      "text": "Piper Halliwell"
     },
     {
-     "match": "[i]Wicked[/i]",
-     "text": "Elphaba"
+     "match": "[i]Wicked - Die Hexen von Oz[/i]",
+     "text": "Elphaba Thropp"
     },
     {
      "match": "[i]Avengers: Infinity War[/i]",
      "text": "Wanda Maximoff"
+    },
+    {
+     "match": "[i]Die kleine Hexe[/i]",
+     "text": "Rumpumpel"
     }
    ],
    "category": "Literature",
    "decoys": [],
    "headers": [
     {
-     "match": "Stories",
-     "text": "Witches"
+     "match": "Geschichten",
+     "text": "Hexen"
     }
    ],
    "id": "76829",
    "isValid": "",
-   "prompt": "Match the witch to their story",
-   "promptHeader": "Where Did This Witch Come From?",
-   "us": true,
+   "prompt": "Ordne die Hexe ihrer Geschichte zu",
+   "promptHeader": "Woher stammt diese Hexe?",
+   "us": false,
    "x": false
   },
   {
@@ -376,30 +388,30 @@
     },
     {
      "match": "Rose Tyler",
-     "text": "The Tenth Doctor"
+     "text": "Zehnter Doktor"
     },
     {
-     "match": "Peter Quill",
+     "match": "Star-Lord",
      "text": "Gamora"
     },
     {
-     "match": "nobody",
-     "text": "Xenomorph from [i]Alien[/i]"
+     "match": "Mr. Nobody",
+     "text": "Xenomorph aus [i]Alien[/i]"
     }
    ],
    "category": "Film & TV",
    "decoys": [],
    "headers": [
     {
-     "match": "Friends",
+     "match": "Freunde",
      "text": "Aliens"
     }
    ],
    "id": "76830",
    "isValid": "",
-   "prompt": "Match the alien to their friend",
-   "promptHeader": "Aliens and Their Friends",
-   "us": true,
+   "prompt": "Ordne die Aliens ihren Freunden zu",
+   "promptHeader": "Aliens und ihre Freunde",
+   "us": false,
    "x": false
   },
   {
@@ -471,171 +483,175 @@
   {
    "answers": [
     {
-     "match": "The Last Frontier",
-     "text": "Alaska"
+     "match": "“THE LÄND”",
+     "text": "Baden-Württemberg"
     },
     {
-     "match": "The Show-Me State",
-     "text": "Missouri"
+     "match": "“Wir sind ein Berlin”",
+     "text": "Berlin"
     },
     {
-     "match": "The Constitution State",
-     "text": "Connecticut"
+     "match": "“Es kann so einfach sein”",
+     "text": "Brandenburg"
     },
     {
-     "match": "The Gem State",
-     "text": "Idaho"
+     "match": "“Wachsen mit Weitsicht”",
+     "text": "Hamburg"
     },
     {
-     "match": "The Tar Heel State",
-     "text": "North Carolina"
+     "match": "“#moderndenken”",
+     "text": "Sachsen-Anhalt"
     },
     {
-     "match": "The Cornhusker State",
-     "text": "Nebraska"
+     "match": "“Großes entsteht immer im Kleinen”",
+     "text": "Saarland"
     },
     {
-     "match": "Land of Enchantment",
-     "text": "New Mexico"
+     "match": "“Germany at its best”",
+     "text": "Nordrhein-Westfalen"
     },
     {
-     "match": "The Golden State",
-     "text": "California"
+     "match": "“MV tut gut.”",
+     "text": "Mecklenburg-Vorpommern"
     },
     {
-     "match": "Old Dominion",
-     "text": "Virginia"
+     "match": "Klar.",
+     "text": "Niedersachsen"
     },
     {
-     "match": "The Badger State",
-     "text": "Wisconsin"
+     "match": "",
+     "text": "Bayern"
+    },
+    {
+     "match": "“Der echte Norden”",
+     "text": "Schleswig-Holstein"
     }
    ],
    "category": "Geography & Landmarks",
    "decoys": [],
    "headers": [
     {
-     "match": "Nicknames",
-     "text": "States"
+     "match": "Slogans",
+     "text": "Bundesländer"
     }
    ],
    "id": "76846",
    "isValid": "",
-   "prompt": "Match the state to its nickname",
-   "promptHeader": "U.S. State Nicknames",
-   "us": true,
+   "prompt": "Ordne das Bundesland seinem Slogan zu",
+   "promptHeader": "Bundesländer und ihre Slogans",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "Chance",
+     "match": "Gemeinschaftskarte",
      "text": "[i]Monopoly[/i]"
     },
     {
-     "match": "trump",
-     "text": "Spades"
+     "match": "Nachtigall mit Pflaumenbaum",
+     "text": "Hanafuda"
     },
     {
-     "match": "Reverse",
+     "match": "Retour",
      "text": "[i]Uno[/i]"
     },
     {
-     "match": "Salary",
-     "text": "[i]Life[/i]"
+     "match": "Teilen macht Freude",
+     "text": "[i]Das Spiel des Lebens[/i]"
     },
     {
      "match": "Ditto",
      "text": "[i]Pokémon[/i]"
     },
     {
-     "match": "Room",
-     "text": "[i]Clue[/i]"
+     "match": "Verdächtigte",
+     "text": "[i]Cluedo[/i]"
     },
     {
-     "match": "Development",
-     "text": "[i]Settlers of Catan[/i]"
+     "match": "Entwicklungskarte",
+     "text": "[i]Die Siedler von Catan[/i]"
     },
     {
-     "match": "Secret Mission",
-     "text": "[i]Risk[/i]"
+     "match": "Geheimer Auftrag",
+     "text": "[i]Risiko[/i]"
     },
     {
-     "match": "Creative Cat",
+     "match": "Kreato-Kater",
      "text": "[i]Cranium[/i]"
     },
     {
-     "match": "Mana Drain",
-     "text": "[i]Magic[/i]"
+     "match": "Bube",
+     "text": "Skat"
     }
    ],
    "category": "Games",
    "decoys": [],
    "headers": [
     {
-     "match": "Cards",
-     "text": "Games"
+     "match": "Karten",
+     "text": "Spiele"
     }
    ],
    "id": "76862",
    "isValid": "",
-   "prompt": "Match the game to the card",
-   "promptHeader": "Is This Your Card?",
-   "us": true,
+   "prompt": "Ordne die Karten ihrem Spiel zu",
+   "promptHeader": "Alles auf eine Karte",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "gin",
-     "text": "negroni"
+     "match": "Gin",
+     "text": "Negroni"
     },
     {
-     "match": "vodka",
+     "match": "Wodka",
      "text": "White Russian"
     },
     {
-     "match": "whiskey",
-     "text": "old fashioned"
+     "match": "Whisky",
+     "text": "Old Fashioned"
     },
     {
-     "match": "rum",
-     "text": "daiquiri"
+     "match": "Rum",
+     "text": "Daiquiri"
     },
     {
-     "match": "tequila",
+     "match": "Tequila",
      "text": "Paloma"
     },
     {
-     "match": "wine",
-     "text": "sangria"
+     "match": "Wein",
+     "text": "Sangría"
     },
     {
-     "match": "cognac",
-     "text": "sidecar"
+     "match": "Cognac",
+     "text": "Sidecar ([i]french school[/i])"
     },
     {
-     "match": "brandy",
-     "text": "metropolitan"
+     "match": "Weinbrand",
+     "text": "Metropolitan"
     },
     {
-     "match": "ginger ale",
-     "text": "Shirley Temple"
+     "match": "Cachaca",
+     "text": "Caipirinha"
     }
    ],
    "category": "Food & Drink",
    "decoys": [],
    "headers": [
     {
-     "match": "Ingredients",
+     "match": "Hauptzutaten",
      "text": "Drinks"
     }
    ],
    "id": "76864",
    "isValid": "",
-   "prompt": "Match the drink to its main ingredient",
+   "prompt": "Ordne dem Drink seine Hauptzutat zu",
    "promptHeader": "Cocktails",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -1383,40 +1399,40 @@
   {
    "answers": [
     {
-     "match": "traveling",
-     "text": "basketball"
+     "match": "Schrittfehler",
+     "text": "Basketball"
     },
     {
-     "match": "foot fault",
-     "text": "tennis"
+     "match": "Fußfehler",
+     "text": "Tennis"
     },
     {
-     "match": "double bogey",
-     "text": "golf"
+     "match": "Doppel-Bogey",
+     "text": "Golf"
     },
     {
-     "match": "balk",
-     "text": "baseball"
+     "match": "Balk",
+     "text": "Baseball"
     },
     {
-     "match": "hit wicket",
-     "text": "cricket"
+     "match": "Hit Wicket",
+     "text": "Cricket"
     },
     {
-     "match": "false start",
-     "text": "Olympic swimming"
+     "match": "Fehlstart",
+     "text": "Olympisches Schwimmen"
     },
     {
-     "match": "low blow",
-     "text": "boxing"
+     "match": "Tiefschlag",
+     "text": "Boxen"
     },
     {
-     "match": "bounce out",
-     "text": "darts"
+     "match": "Herausfallen",
+     "text": "Dart"
     },
     {
-     "match": "cross-checking",
-     "text": "hockey"
+     "match": "Check mit dem Stock",
+     "text": "Hockey"
     }
    ],
    "category": "Games",
@@ -1424,72 +1440,72 @@
    "headers": [
     {
      "match": "Fouls",
-     "text": "Sports"
+     "text": "Sportarten"
     }
    ],
    "id": "77653",
    "isValid": "",
-   "prompt": "Match the sport to the foul",
-   "promptHeader": "Something Bad Happened in This Sport!",
-   "us": true,
+   "prompt": "Ordne den Sportarten ihre Fouls zu",
+   "promptHeader": "Oh Junge, was für ein Foul!",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "Mark Antony",
-     "text": "Cleopatra"
+     "match": "Marcus Antonius",
+     "text": "Kleopatra"
     },
     {
-     "match": "Prince Albert",
-     "text": "Queen Victoria"
+     "match": "Prinz Albert",
+     "text": "Königin Victoria"
     },
     {
-     "match": "Hephaestion",
-     "text": "Alexander the Great"
+     "match": "Hephaistion",
+     "text": "Alexander der Große"
     },
     {
-     "match": "Alice B. Toklas",
-     "text": "Gertrude Stein"
+     "match": "Romeo",
+     "text": "Julia"
     },
     {
-     "match": "Josephine",
+     "match": "Joséphine de Beauharnais",
      "text": "Napoleon"
     },
     {
-     "match": "Henry VIII",
+     "match": "Heinrich VIII.",
      "text": "Anne Boleyn"
     },
     {
-     "match": "Lord Alfred Douglas",
-     "text": "Oscar Wilde"
+     "match": "Barbie",
+     "text": "Ken"
     },
     {
-     "match": "Helen of Troy",
+     "match": "Helena von Troja",
      "text": "Paris"
     },
     {
-     "match": "Paul Newman",
-     "text": "Joanne Woodward"
+     "match": "Adam",
+     "text": "Eva"
     },
     {
-     "match": "June Carter",
-     "text": "Johnny Cash"
+     "match": "Jack Dawson",
+     "text": "Rose DeWitt Bukater"
     }
    ],
    "category": "Historical Figures",
    "decoys": [],
    "headers": [
     {
-     "match": "Lovers (Column B)",
-     "text": "Lovers (Column A)"
+     "match": "Liebhaber (Spalte B)",
+     "text": "Liebhaber (Spalte A)"
     }
    ],
    "id": "77659",
    "isValid": "",
-   "prompt": "Match the famous person or character with their famous lover",
-   "promptHeader": "Historic Power Couples",
-   "us": true,
+   "prompt": "Ordne die berühmte Persönlichkeit oder Figur ihrem berühmten Liebhaber zu",
+   "promptHeader": "Berühmte Liebeleien",
+   "us": false,
    "x": false
   },
   {
@@ -1693,7 +1709,7 @@
   {
    "answers": [
     {
-     "match": "Huttese",
+     "match": "Huttisch",
      "text": "[i]Star Wars[/i]"
     },
     {
@@ -1702,34 +1718,34 @@
     },
     {
      "match": "Dothraki",
-     "text": "[i]A Song of Ice and Fire[/i]"
+     "text": "[i]Das Lied von Eis und Feuer[/i]"
     },
     {
-     "match": "Quenya (High Elvish)",
-     "text": "[i]The Lord of the Rings[/i]"
+     "match": "Quenya (Hochelbisch)",
+     "text": "[i]Der Herr der Ringe[/i]"
     },
     {
      "match": "Na'vi",
-     "text": "[i]Avatar[/i]"
+     "text": "[i]Avatar – Aufbruch nach Pandora[/i]"
     },
     {
-     "match": "Alienese",
+     "match": "Außerirdisch",
      "text": "[i]Futurama[/i]"
     },
     {
-     "match": "Newspeak",
-     "text": "[i]Nineteen Eighty-Four[/i]"
+     "match": "Neusprech",
+     "text": "[i]1984[/i]"
     },
     {
-     "match": "Simlish",
-     "text": "[i]The Sims[/i]"
+     "match": "Simlisch",
+     "text": "[i]Die Sims[/i]"
     },
     {
      "match": "Nadsat",
-     "text": "[i]A Clockwork Orange[/i]"
+     "text": "[i]Uhrwerk Orange[/i]"
     },
     {
-     "match": "Parseltongue",
+     "match": "Parsel",
      "text": "[i]Harry Potter[/i]"
     }
    ],
@@ -1737,15 +1753,15 @@
    "decoys": [],
    "headers": [
     {
-     "match": "Languages",
-     "text": "Universes"
+     "match": "Sprachen",
+     "text": "Universen"
     }
    ],
    "id": "78012",
    "isValid": "",
-   "prompt": "Match the universe to its fictional language",
-   "promptHeader": "Fictional Languages",
-   "us": true,
+   "prompt": "Ordne die fiktionale Sprache dem Universum zu",
+   "promptHeader": "Fiktive Sprachen",
+   "us": false,
    "x": false
   },
   {
@@ -2058,66 +2074,62 @@
    "answers": [
     {
      "match": "Mount Everest",
-     "text": "Asia"
+     "text": "Asien"
     },
     {
-     "match": "Aconcagoa",
-     "text": "South America"
+     "match": "Cerro Aconcagua",
+     "text": "Südamerika"
     },
     {
      "match": "Denali (Mount McKinley)",
-     "text": "North America"
+     "text": "Nordamerika"
     },
     {
-     "match": "Mount Kilimanjaro",
-     "text": "Africa"
+     "match": "Kilimandscharo",
+     "text": "Afrika"
     },
     {
-     "match": "Mount Elbrus",
-     "text": "Europe"
+     "match": "Elbrus",
+     "text": "Europa"
     },
     {
-     "match": "Vinson Massif",
-     "text": "Antarctica"
+     "match": "Vinson-Massiv",
+     "text": "Antarktika"
     },
     {
-     "match": "Puncak Jaya (Mount Carstensz)",
-     "text": "Oceania (New Guinea)"
+     "match": "Puncak Jaya (Carstensz-Pyramide)",
+     "text": "Ozeanien (Neuguinea)"
     },
     {
      "match": "Mount Kosciuszko",
-     "text": "Australia"
+     "text": "Australien"
     },
     {
-     "match": "Anai Mudi",
-     "text": "Indian Subcontinent"
+     "match": "Anamudi",
+     "text": "Indischer Subkontinent"
     },
     {
-     "match": "Mount Damavand",
-     "text": "The Middle Eastern Subcontinent"
+     "match": "Damawand",
+     "text": "Naher Osten"
     },
     {
-     "match": "Gunnbjørn Mountain",
-     "text": "Greenland"
+     "match": "Gunnbjørn Fjeld",
+     "text": "Grönland"
     }
    ],
    "category": "Geography & Landmarks",
-   "decoys": [
-    {
-     "text": ""
-    }
-   ],
+   "decoys": [],
    "headers": [
     {
-     "match": "Highest Points",
-     "text": "Regions"
+     "match": "Höchste Punkte",
+     "text": "Regionen"
     }
    ],
    "id": "78287",
    "isValid": "",
-   "prompt": "Match the region to its highest point",
-   "promptHeader": "The Regions of the World and Their Highest Points",
-   "us": true,
+   "prompt": "Ordne die Region ihrem höchsten Punkt zu",
+   "promptHeader": "Die Regionen der Welt und ihre höchsten Punkte",
+   "us": false,
    "x": false
   },
   {
@@ -2189,117 +2201,117 @@
   {
    "answers": [
     {
-     "match": "fish",
-     "text": "ceviche"
+     "match": "Meeresfrüchte",
+     "text": "Paella"
     },
     {
-     "match": "chicken",
-     "text": "coq au vin"
+     "match": "Huhn",
+     "text": "Coq au Vin"
     },
     {
-     "match": "beef",
-     "text": "ropa vieja"
+     "match": "Rindfleisch",
+     "text": "Ropa Vieja"
     },
     {
-     "match": "pork",
-     "text": "carnitas"
+     "match": "Schweinefleisch",
+     "text": "Carnitas"
     },
     {
-     "match": "chickpeas",
-     "text": "chana masala"
+     "match": "Kichererbsen",
+     "text": "Chana Masala"
     },
     {
-     "match": "duck",
-     "text": "bebek goreng"
+     "match": "Ente",
+     "text": "Bebek Goreng"
     },
     {
-     "match": "eggs",
-     "text": "quiche"
+     "match": "Eier",
+     "text": "Quiche"
     },
     {
-     "match": "pumpkin",
-     "text": "pampoenkoekie"
+     "match": "Kürbis",
+     "text": "Pampoenkoekie"
     }
    ],
    "category": "Food & Drink",
    "decoys": [],
    "headers": [
     {
-     "match": "Main Ingredients",
-     "text": "Dishes"
+     "match": "Hauptzutaten",
+     "text": "Gerichte"
     }
    ],
    "id": "78305",
    "isValid": "",
-   "prompt": "Match the dish to its main ingredient",
-   "promptHeader": "Main Ingredients",
-   "us": true,
+   "prompt": "Ordne dem Gericht seine Hauptzutat zu",
+   "promptHeader": "Hauptzutaten",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
      "match": "China",
-     "text": "lo mein"
+     "text": "Lamian"
     },
     {
-     "match": "The Philippines",
-     "text": "pancit canton"
+     "match": "Die Philippinen",
+     "text": "Pancit Canton"
     },
     {
      "match": "Japan",
-     "text": "ramen"
+     "text": "Ramen"
     },
     {
-     "match": "Italy",
-     "text": "tagliatelle"
+     "match": "Italien",
+     "text": "Tagliatelle"
     },
     {
      "match": "Korea",
-     "text": "japchae"
+     "text": "Japchae"
     },
     {
      "match": "Thailand",
-     "text": "pad thai"
+     "text": "Phat Thai"
     },
     {
-     "match": "Germany",
-     "text": "späetzle"
+     "match": "Deutschland",
+     "text": "Spätzle"
     },
     {
-     "match": "Greece",
-     "text": "orzo"
+     "match": "Griechenland",
+     "text": "Kritharaki"
     },
     {
-     "match": "Mongolia",
-     "text": "tsuivan"
+     "match": "Mongolei",
+     "text": "Tsuivan"
     },
     {
-     "match": "India",
-     "text": "hakka"
+     "match": "Indien",
+     "text": "Hakka"
     },
     {
      "match": "Vietnam",
-     "text": "bánh phở"
+     "text": "Bánh Phở"
     },
     {
-     "match": "United States",
-     "text": "Kraft mac & cheese"
+     "match": "USA",
+     "text": "[i]Kraft mac & cheese[/i]"
     }
    ],
    "category": "Food & Drink",
    "decoys": [],
    "headers": [
     {
-     "match": "Nations",
-     "text": "Noodles"
+     "match": "Länder",
+     "text": "Nudelgerichte"
     }
    ],
    "id": "78306",
    "isValid": "",
-   "prompt": "Match the noodle to its nation",
-   "promptHeader": "Noodles of the World and Where They Come From",
-   "us": true,
+   "prompt": "Ordne das Nudelgericht seinem Land zu",
+   "promptHeader": "“Schatz, aus welchen Ländern kommen diese Nudeln?”",
+   "us": false,
    "x": false
   },
   {
@@ -2355,63 +2367,63 @@
   {
    "answers": [
     {
-     "match": "the indifferent and uncommitted",
-     "text": "The Gates of Hell"
+     "match": "Die Gleichgültigen und die Unentschlossenen",
+     "text": "Vestibül (Vorplatz) der Hölle"
     },
     {
-     "match": "the unbaptized and virtuous pagans",
-     "text": "First Circle"
+     "match": "Die Ungetauften und die tugendhaften Heiden",
+     "text": "Erster Kreis"
     },
     {
-     "match": "the lustful",
-     "text": "Second Circle"
+     "match": "Die Wollüstigen",
+     "text": "Zweiter Kreis"
     },
     {
-     "match": "the gluttonous",
-     "text": "Third Circle"
+     "match": "Die Vielfraße",
+     "text": "Dritter Kreis"
     },
     {
-     "match": "the avaricious and the prodigal",
-     "text": "Fourth Circle"
+     "match": "Die Geizigen und die Verschwender",
+     "text": "Vierter Kreis"
     },
     {
-     "match": "the wrathful and the sullen",
-     "text": "Fifth Circle"
+     "match": "Die Zornigen und die Frustrierten",
+     "text": "Fünfter Kreis"
     },
     {
-     "match": "the heretics",
-     "text": "Sixth Circle"
+     "match": "Die Gotteslästerer und die Ketzer",
+     "text": "Sechster Kreis"
     },
     {
-     "match": "the violent",
-     "text": "Seventh Circle"
+     "match": "Die Gewalttätigen",
+     "text": "Siebter Kreis"
     },
     {
-     "match": "the fraudulent",
-     "text": "Eighth Circle"
+     "match": "Die Betrüger und die Böswilligen",
+     "text": "Achter Kreis"
     },
     {
-     "match": "the treacherous",
-     "text": "Ninth Circle"
+     "match": "Die Verräter",
+     "text": "Neunter Kreis"
     },
     {
      "match": "Satan",
-     "text": "The Center of Hell"
+     "text": "Zentrum der Hölle"
     }
    ],
    "category": "Literature",
    "decoys": [],
    "headers": [
     {
-     "match": "Sins",
-     "text": "Locations in Hell"
+     "match": "Sünder",
+     "text": "Abschnitte der Hölle"
     }
    ],
    "id": "78326",
    "isValid": "",
-   "prompt": "Match the location to the sin",
-   "promptHeader": "Circles of Hell in Dante's [i]Inferno[/i] and the Sinners Sent There",
-   "us": true,
+   "prompt": "Ordne den Abschnitt der Hölle der Sünde zu",
+   "promptHeader": "Die Kreise der Hölle in [i]Dantes Inferno[/i] und die dortigen Sünder",
+   "us": false,
    "x": true
   },
   {
@@ -2699,39 +2711,39 @@
   {
    "answers": [
     {
-     "match": "trumpet",
+     "match": "Trompete",
      "text": "Miles Davis"
     },
     {
-     "match": "guitar",
+     "match": "Gitarre",
      "text": "Django Reinhardt"
     },
     {
-     "match": "voice",
+     "match": "Stimme",
      "text": "Billie Holiday"
     },
     {
-     "match": "saxophone",
+     "match": "Saxophon",
      "text": "Charlie Parker"
     },
     {
-     "match": "piano",
+     "match": "Klavier",
      "text": "Thelonious Monk"
     },
     {
-     "match": "drums",
+     "match": "Schlagzeug",
      "text": "Buddy Rich"
     },
     {
-     "match": "bass",
+     "match": "Bass",
      "text": "Jaco Pastorius"
     },
     {
-     "match": "trombone",
-     "text": "J. J. Johnson"
+     "match": "Posaune",
+     "text": "Albert Mangelsdorff"
     },
     {
-     "match": "clarinet",
+     "match": "Klarinette",
      "text": "Benny Goodman"
     }
    ],
@@ -2739,73 +2751,73 @@
    "decoys": [],
    "headers": [
     {
-     "match": "Instruments",
-     "text": "Jazz Greats"
+     "match": "Instrumente",
+     "text": "Jazz-Stars"
     }
    ],
    "id": "78427",
    "isValid": "",
-   "prompt": "Match the artist to their instrument",
-   "promptHeader": "Jazz Greats and Their Instruments",
-   "us": true,
+   "prompt": "Ordne den Musiker seinem Instrument zu",
+   "promptHeader": "Jazz-Stars und ihre Instrumente",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "New York City",
-     "text": "[i]Friends[/i]"
+     "match": "Ivo Batic und Franz Leitmayr",
+     "text": "München"
     },
     {
-     "match": "South Korea",
-     "text": "[i]M*A*S*H[/i]"
+     "match": "Max Ballauf und Freddy Schenk",
+     "text": "Köln"
     },
     {
-     "match": "Miami",
-     "text": "[i]The Golden Girls[/i]"
+     "match": "Moritz Eisner und Bibi Fellner",
+     "text": "Wien"
     },
     {
-     "match": "Springfield",
-     "text": "[i]The Simpsons[/i]"
+     "match": "Charlotte Lindholm und Anais Schmitz",
+     "text": "Göttingen"
     },
     {
-     "match": "Seattle",
-     "text": "[i]Frasier[/i]"
+     "match": "Frank Thiel und Karl-Friedrich Boerne",
+     "text": "Münster"
     },
     {
-     "match": "Boston",
-     "text": "[i]Cheers[/i]"
+     "match": "Klaus Borowski und Mila Sahin",
+     "text": "Kiel"
     },
     {
-     "match": "Los Angeles",
-     "text": "[i]Curb Your Enthusiasm[/i]"
+     "match": "Felix Murot",
+     "text": "Wiesbaden"
     },
     {
-     "match": "South Park",
-     "text": "[i]South Park[/i]"
+     "match": "Peter Faber und Martina Bönisch",
+     "text": "Dortmund"
     },
     {
-     "match": "Minneapolis-Saint Paul",
-     "text": "[i]The Mary Tyler Moore Show[/i]"
+     "match": "Adam Schürk und Leo Hölzer",
+     "text": "Saarbrücken"
     },
     {
-     "match": "Philadelphia",
-     "text": "[i]It’s Always Sunny in Philadelphia[/i]"
+     "match": "Nina Rubin und Robert Karow",
+     "text": "Berlin"
     }
    ],
    "category": "Film & TV",
    "decoys": [],
    "headers": [
     {
-     "match": "Settings",
-     "text": "Sitcoms"
+     "match": "Ermittler",
+     "text": "Städte"
     }
    ],
    "id": "78443",
    "isValid": "",
-   "prompt": "Match the sitcom to its setting",
-   "promptHeader": "Sitcom Settings",
-   "us": true,
+   "prompt": "Ordne das [i]Tatort[i]-Ermittlerduo seiner Stadt zu",
+   "promptHeader": "[i]Tatort[/i]-Ermittler und ihr Revier",
+   "us": false,
    "x": false
   },
   {
@@ -2877,8 +2889,8 @@
      "text": "Burj Khalifa"
     },
     {
-     "match": "Chicago",
-     "text": "Willis Tower"
+     "match": "Frankfurt am Main",
+     "text": "Commerzbank Tower"
     },
     {
      "match": "Shanghai",
@@ -2889,11 +2901,11 @@
      "text": "The Shard"
     },
     {
-     "match": "San Francisco",
-     "text": "Transamerica Pyramid"
+     "match": "München",
+     "text": "Olympiaturm"
     },
     {
-     "match": "Singapore",
+     "match": "Singapur",
      "text": "Marina Bay Sands"
     },
     {
@@ -2913,15 +2925,15 @@
    "decoys": [],
    "headers": [
     {
-     "match": "Cities",
-     "text": "Buildings"
+     "match": "Städte",
+     "text": "Gebäude"
     }
    ],
    "id": "78446",
    "isValid": "",
-   "prompt": "Match the building to its city",
-   "promptHeader": "Skyscrapers",
-   "us": true,
+   "prompt": "Ordne das Gebäude der Stadt zu",
+   "promptHeader": "Wolkenkratzer",
+   "us": false,
    "x": false
   },
   {
@@ -2986,11 +2998,11 @@
    "answers": [
     {
      "match": "Empanada",
-     "text": "Argentina"
+     "text": "Argentinien"
     },
     {
-     "match": "Pierogi",
-     "text": "Poland"
+     "match": "Pirogge",
+     "text": "Polen"
     },
     {
      "match": "Jiaozi",
@@ -2998,27 +3010,27 @@
     },
     {
      "match": "Samosa",
-     "text": "India"
+     "text": "Indien"
     },
     {
      "match": "Ravioli",
-     "text": "Italy"
+     "text": "Italien"
     },
     {
      "match": "Siomay",
-     "text": "Indonesia"
+     "text": "Indonesien"
     },
     {
      "match": "Gyoza",
      "text": "Japan"
     },
     {
-     "match": "Khinkali",
-     "text": "Georgia (the country)"
+     "match": "Chinkali",
+     "text": "Georgien"
     },
     {
-     "match": "Pizza Rolls",
-     "text": "United States"
+     "match": "Maultasche",
+     "text": "Deutschland"
     },
     {
      "match": "Momo",
@@ -3029,15 +3041,15 @@
    "decoys": [],
    "headers": [
     {
-     "match": "Dumplings",
-     "text": "Countries"
+     "match": "Teigtaschen",
+     "text": "Länder"
     }
    ],
    "id": "78449",
    "isValid": "",
-   "prompt": "Match the country to the dumpling",
-   "promptHeader": "Hey! Where'd You Get That Dumpling?",
-   "us": true,
+   "prompt": "Ordne die Teigtasche dem Land zu",
+   "promptHeader": "“Hey, von wo hast du die Teigtasche?”",
+   "us": false,
    "x": false
   },
   {
