@@ -8772,52 +8772,58 @@
   {
    "answers": [
     {
-     "text": "Little Face"
+     "text": "3sat"
     },
     {
-     "text": "Flattop"
+     "text": "arte"
     },
     {
-     "text": "Mumbles"
+     "text": "DW-TV"
     },
     {
-     "text": "Big Boy Caprice"
+     "text": "KiKA"
     },
     {
-     "text": "Itchy"
+     "text": "phoenix"
     },
     {
-     "text": "Ribs Mocca"
+     "text": "Radio Bremen TV"
     },
     {
-     "text": "Shoulders"
+     "text": "tagesschau24"
     },
     {
-     "text": "The Brow"
+     "text": "ZDFneo"
     },
     {
-     "text": "Lips Manlis"
+     "text": "SR Fernsehen"
     }
    ],
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "The Mozz"
+     "text": "n-tv"
     },
     {
-     "text": "Too Much Face"
+     "text": "N24"
     },
     {
-     "text": "Shivers"
+     "text": "HSE24"
     },
     {
-     "text": "Ears"
+      "text": "Volksmusik TV"
+    },
+    {
+      "text": "Servus TV"
+    },
+    {
+     "text": "Euronews"
     }
    ],
    "id": "78865",
    "isValid": "",
-   "prompt": "Welche dieser ungewöhnlichen Namen sind Bösewichte aus dem Film [i]Dick Tracy[/i] von 1990?",
-   "us": true,
+   "prompt": "Welches davon sind Fernseh-Sender der Öffentlich-Rechtlichen?",
+   "us": false,
    "x": false
   },
   {
@@ -12495,49 +12501,49 @@
   {
    "answers": [
     {
-     "text": "Did you sail across the sun?"
+     "text": "[i]Runter in die Hocke[/i]"
     },
     {
-     "text": "Did you make it to the Milky Way?"
+     "text": "[i]Steht auf einem Bein[/i]"
     },
     {
-     "text": "Did you fall from a shooting star?"
+     "text": "[i]Wir patschen auf die Knie[/i]"
     },
     {
-     "text": "Did the wind sweep you off your feet?"
+     "text": "[i]Die Hände zum Himmel[/i]"
     },
     {
-     "text": "Did Venus blow your mind?"
+     "text": "[i]Jetzt mal kräftig winken[/i]"
     },
     {
-     "text": "Was it everything you wanted to find?"
+     "text": "[i]Jetzt der Helikopter[/i]"
     },
     {
-     "text": "Did you miss me while you were looking for yourself out there?"
+     "text": "[i]Wir drehen uns im Stand[/i]"
+    },
+    {
+      "text": "[i]Lass die Arme fliegen[/i]"
+    },
+    {
+      "text": "[i]Wir joggen auf der Stelle[/i]"
     }
    ],
    "category": "Music",
    "decoys": [
     {
-     "text": "What in the world is in that bag?"
+     "text": "[i]Klopft auf eure Schulter[/i]"
     },
     {
-     "text": "Have you ever been to Puerto Rico?"
+     "text": "[i]Jetzt ein flotter Luftsprung[/i]"
     },
     {
-     "text": "Who do you think you are?"
-    },
-    {
-     "text": "Is it too late for me and you?"
-    },
-    {
-     "text": "Do you ever wonder why?"
+     "text": "[i]Wackeln mit dem Popo[/i]"
     }
    ],
    "id": "80455",
    "isValid": "",
-   "prompt": "Welche der folgenden Fragen werden tatsächlich in Trains \"Drops of Jupiter\" gestellt?",
-   "us": true,
+   "prompt": "Welches davon sind Tanzschritte im [i]KiKA Tanzalarm[/i]?",
+   "us": false,
    "x": false
   },
   {
@@ -14463,49 +14469,67 @@
   {
    "answers": [
     {
-     "text": "Beyonce Knowles"
+     "text": "Andesit"
     },
     {
-     "text": "Michelle Williams"
+     "text": "Diorit"
     },
     {
-     "text": "Kelly Rowland"
+     "text": "Basalt"
     },
     {
-     "text": "Farrah Franklin"
+     "text": "Tiefenschiefer"
     },
     {
-     "text": "LaTavia Roberson"
+     "text": "Bruchtiefenschiefer"
     },
     {
-     "text": "LeToya Tuckett"
+     "text": "Kalzit"
+    },
+    {
+      "text": "Tuffstein"
+    },
+    {
+      "text": "Tropfsteinblock"
+    },
+    {
+      "text": "Grobe Erde"
+    },
+    {
+      "text": "Wurzelerde"
+    },
+    {
+      "text": "Karmsein-Nezel"
+    },
+    {
+      "text": "Wirrbretter"
+    },
+    {
+      "text": "Amethystblock"
+    },
+    {
+      "text": "Antiker Schrott"
+    },
+    {
+      "text": "Gewachster oxidierter geschnittener Kupferblock"
     }
    ],
    "category": "",
    "decoys": [
     {
-     "text": "Melanie Buckett"
+     "text": "Verrostetes Feuergestein"
     },
     {
-     "text": "Joni Mitchell"
+     "text": "Gewachster Rubinblock"
     },
     {
-     "text": "Patti LaBelle"
-    },
-    {
-     "text": "Lucy Liu"
-    },
-    {
-     "text": "Farrah Faucett"
-    },
-    {
-     "text": "Summer Walker"
+     "text": "Edelstahlstufe"
     }
    ],
    "id": "82890",
    "isValid": "",
-   "prompt": "Wer waren die ursprünglichen Mitglieder von Destiny's Child?",
-   "us": true,
+   "prompt": "Welches davon sind echte Minecraft-Blöcke?",
+   "us": false,
    "x": false
   },
   {
@@ -16257,52 +16281,52 @@
   {
    "answers": [
     {
-     "text": "Andrew Carnegie"
+     "text": "Dortmund"
     },
     {
-     "text": "Andrew W. Mellon"
+     "text": "Hagen"
     },
     {
-     "text": "J.P. Morgan"
+     "text": "Bochum"
     },
     {
-     "text": "John D. Rockefeller"
+     "text": "Essen"
     },
     {
-     "text": "Charles M. Schwab"
+     "text": "Mülheim an der Ruhr"
     },
     {
-     "text": "Cornelius Vanderbilt"
+     "text": "Oberhausen"
     },
     {
-     "text": "Jay Gould"
+     "text": "Duisburg"
     },
     {
-     "text": "James Fisk"
+     "text": "Wetter"
     }
    ],
    "category": "Historical Figures",
    "decoys": [
     {
-     "text": "Elon Musk"
+     "text": "Bielefeld"
     },
     {
-     "text": "Horatio Alger"
+     "text": "Düsseldorf"
     },
     {
-     "text": "Daniel Plainview"
+     "text": "Herne"
     },
     {
-     "text": "Upton Sinclair"
+     "text": "Lüdenscheid"
     },
     {
-     "text": "Richard Branson"
+     "text": "Saarbrücken"
     }
    ],
    "id": "85113",
    "isValid": "",
-   "prompt": "Welche dieser Personen waren kapitalistische Titanen des amerikanischen Gilded Age? (1870-1900)",
-   "us": true,
+   "prompt": "Durch welche dieser Städte fließt die Ruhr?",
+   "us": false,
    "x": false
   },
   {
