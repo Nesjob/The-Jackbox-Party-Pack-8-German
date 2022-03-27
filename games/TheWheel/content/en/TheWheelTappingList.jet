@@ -12528,50 +12528,50 @@
   {
    "answers": [
     {
-     "text": "Did you sail across the sun?"
+     "text": "[i]Runter in die Hocke[/i]"
     },
     {
-     "text": "Did you make it to the Milky Way?"
+     "text": "[i]Steht auf einem Bein[/i]"
     },
     {
-     "text": "Did you fall from a shooting star?"
+     "text": "[i]Wir patschen auf die Knie[/i]"
     },
     {
-     "text": "Did the wind sweep you off your feet?"
+     "text": "[i]Die Hände zum Himmel[/i]"
     },
     {
-     "text": "Did Venus blow your mind?"
+     "text": "[i]Jetzt mal kräftig winken[/i]"
     },
     {
-     "text": "Was it everything you wanted to find?"
+     "text": "[i]Jetzt der Helikopter[/i]"
     },
     {
-     "text": "Did you miss me while you were looking for yourself out there?"
+     "text": "[i]Wir drehen uns im Stand[/i]"
+    },
+    {
+      "text": "[i]Lass die Arme fliegen[/i]"
+    },
+    {
+      "text": "[i]Wir joggen auf der Stelle[/i]"
     }
    ],
    "category": "Music",
    "decoys": [
     {
-     "text": "What in the world is in that bag?"
+     "text": "[i]Klopft auf eure Schulter[/i]"
     },
     {
-     "text": "Have you ever been to Puerto Rico?"
+     "text": "[i]Jetzt ein flotter Luftsprung[/i]"
     },
     {
-     "text": "Who do you think you are?"
-    },
-    {
-     "text": "Is it too late for me and you?"
-    },
-    {
-     "text": "Do you ever wonder why?"
+     "text": "[i]Wackeln mit dem Popo[/i]"
     }
    ],
    "id": "80455",
    "isValid": "",
-   "prompt": "Welche der folgenden Fragen werden tatsächlich in Trains \"Drops of Jupiter\" gestellt?",
+   "prompt": "Welches davon sind Tanzschritte im [i]KiKA Tanzalarm[/i]?",
    "us": false,
-   "x": true
+   "x": false
   },
   {
    "answers": [
@@ -14508,51 +14508,66 @@
   {
    "answers": [
     {
-     "text": "Beyonce Knowles"
+     "text": "Andesit"
     },
     {
-     "text": "Michelle Williams"
+     "text": "Diorit"
     },
     {
-     "text": "Kelly Rowland"
+     "text": "Basalt"
     },
     {
-     "text": "Farrah Franklin"
+     "text": "Tiefenschiefer"
     },
     {
-     "text": "LaTavia Roberson"
+     "text": "Bruchtiefenschiefer"
     },
     {
-     "text": "LeToya Tuckett"
+     "text": "Kalzit"
+    },
+    {
+      "text": "Tuffstein"
+    },
+    {
+      "text": "Tropfsteinblock"
+    },
+    {
+      "text": "Grobe Erde"
+    },
+    {
+      "text": "Wurzelerde"
+    },
+    {
+      "text": "Karmsein-Nezel"
+    },
+    {
+      "text": "Wirrbretter"
+    },
+    {
+      "text": "Amethystblock"
+    },
+    {
+      "text": "Antiker Schrott"
+    },
+    {
+      "text": "Gewachster oxidierter geschnittener Kupferblock"
     }
    ],
    "category": "",
    "decoys": [
     {
-     "text": "Melanie Buckett"
+     "text": "Verrostetes Feuergestein"
     },
     {
-     "text": "Joni Mitchell"
+     "text": "Gewachster Rubinblock"
     },
     {
-     "text": "Patti LaBelle"
-    },
-    {
-     "text": "Lucy Liu"
-    },
-    {
-     "text": "Doro Pesch"
-    },
-    {
-     "text": "Summer Walker"
-    },
-    {
-     "text": "Kirk Hammett"
+     "text": "Edelstahlstufe"
     }
    ],
    "id": "82890",
    "isValid": "",
-   "prompt": "Wer waren die ursprünglichen Mitglieder von Destiny's Child?",
+   "prompt": "Welches davon sind echte Minecraft-Blöcke?",
    "us": false,
    "x": false
   },
