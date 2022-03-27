@@ -974,40 +974,48 @@
   },
   {
    "altSpellings": [
-    "A beret",
-    "the beret",
-    "beret hat"
+    "Beret",
+    "Baret",
+    "Berett",
+    "ein Beret",
+    "das Beret",
+    "ein Barett",
+    "das Barett",
+    "Baskenmütze",
+    "Pullmankappe",
+    "die Baskenmütze",
+    "eine Baskenmütze"
    ],
-   "answer": "Beret",
+   "answer": "Barett",
    "category": "Fashion",
    "clues": [
     {
-     "clue": "It's been around for thousands of years.",
-     "clueComment": "It's been around for thousands of years. So have I, and neither one of us has gone out of style."
+     "clue": "Ihn gibt es schon seit tausenden von Jahren.",
+     "clueComment": "Ihn gibt es schon seit tausenden von Jahren. Genau so wie mich! Und wir beide sind immer noch im Trend!"
     },
     {
-     "clue": "It's often used as part of a military uniform, or by revolutionaries.",
+     "clue": "Er wird oft als Teil einer Militäruniform oder von Revolutionären verwendet.",
      "clueComment": ""
     },
     {
-     "clue": "It's flat and typically made of felt.",
+     "clue": "Er ist flach und besteht typischerweise aus Filz.",
      "clueComment": ""
     },
     {
-     "clue": "It tends to be associated with France or Spain.",
+     "clue": "Er wird meistens mit Frankreich oder Spanien in Verbindung gebracht.",
      "clueComment": ""
     },
     {
-     "clue": "Picture a French woman... tres chic, holding a baguette, smoking a clove cigarette. What’s on her head? That’s the hat!",
+     "clue": "Stellt euch eine französische Frau vor... tres chic, mit einem Baguette in der Hand, einer Zigarre in der anderen. Was ist auf ihrem Kopf? Das ist der Hut!",
      "clueComment": ""
     }
    ],
    "followup": null,
    "id": "81921",
    "isValid": "",
-   "prompt": "What is the most stylish hat?",
+   "prompt": "Was ist der stilvollste Hut?",
    "reveal": null,
-   "us": true,
+   "us": false,
    "x": false
   },
   {

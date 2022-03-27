@@ -3735,7 +3735,7 @@
    "id": "77645",
    "isValid": "",
    "prompt": "Welches davon sind Monster, die gegen Godzilla gekämpft haben?",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4824,7 +4824,7 @@
    "id": "77821",
    "isValid": "",
    "prompt": "Für welche Filme erhielt Glenn Close eine Oscar-Nominierung?",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8772,57 +8772,72 @@
   {
    "answers": [
     {
-     "text": "3sat"
+     "text": "Harz"
     },
     {
-     "text": "arte"
+     "text": "Schwäbische Alb"
     },
     {
-     "text": "DW-TV"
+     "text": "Lippe"
     },
     {
-     "text": "KiKA"
+     "text": "Sauerland"
     },
     {
-     "text": "phoenix"
+     "text": "Allgäu"
     },
     {
-     "text": "Radio Bremen TV"
+     "text": "Ostfriesland"
     },
     {
-     "text": "tagesschau24"
+     "text": "Deutsche Nordseeküste"
     },
     {
-     "text": "ZDFneo"
+     "text": "Ruhrgebiet"
     },
     {
-     "text": "SR Fernsehen"
+     "text": "Emsland"
+    },
+    {
+     "text": "Ostsee"
+    },
+    {
+     "text": "Franken"
+    },
+    {
+     "text": "Bodensee"
     }
    ],
-   "category": "Film & TV",
+   "category": "Games",
    "decoys": [
     {
-     "text": "n-tv"
+     "text": "Eichsfeld"
     },
     {
-     "text": "N24"
+     "text": "Ostfalen"
     },
     {
-     "text": "HSE24"
+     "text": "Uckermark"
     },
     {
-      "text": "Volksmusik TV"
+     "text": "Taunus"
     },
     {
-      "text": "Servus TV"
+     "text": "Spessart"
     },
     {
-     "text": "Euronews"
+     "text": "Sorbenland"
+    },
+    {
+     "text": "Rhön"
+    },
+    {
+     "text": "Ortenau"
     }
    ],
    "id": "78865",
    "isValid": "",
-   "prompt": "Welches davon sind Fernseh-Sender der Öffentlich-Rechtlichen?",
+   "prompt": "Welche dieser Regionen haben ihre eigene Version von [i]Monopoly[/i]?",
    "us": false,
    "x": false
   },
@@ -9138,13 +9153,13 @@
      "text": "Superkater"
     },
     {
-     "text": "Touché Turtle"
+     "text": "Scooby-Doo"
     },
     {
-     "text": "Magilla Gorilla"
+     "text": "Shaggy Rogers"
     },
     {
-     "text": "Ricochet Rabbit"
+     "text": "Penelope Pitstop"
     }
    ],
    "category": "Animation/Comic Books",
@@ -9160,12 +9175,18 @@
     },
     {
      "text": "Dagobert Duck"
+    },
+    {
+     "text": "Littlefoot"
+    },
+    {
+     "text": "Kommissar Hunter"
     }
    ],
    "id": "79125",
    "isValid": "",
-   "prompt": "Welche davon sind Hanna-Barbera-Zeichentrickfiguren?",
-   "us": true,
+   "prompt": "Welche davon sind [i]Hanna-Barbera[/i]-Zeichentrickfiguren?",
+   "us": false,
    "x": false
   },
   {
@@ -10405,12 +10426,18 @@
     },
     {
      "text": "Sid Vicious (posthum)"
+    },
+    {
+     "text": "Til Schweiger"
+    },
+    {
+     "text": "Donald Trump"
     }
    ],
    "id": "79440",
    "isValid": "",
    "prompt": "Welche dieser berühmten Persönlichkeiten sind Ritter oder Damen?",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -13222,13 +13249,25 @@
     },
     {
      "text": "Bombay Sapphire"
+    },
+    {
+     "text": "Lagavulin"
+    },
+    {
+     "text": "Havana Club"
+    },
+    {
+     "text": "Rotkäppchen"
+    },
+    {
+     "text": "Flade Muller"
     }
    ],
    "id": "82101",
    "isValid": "",
    "prompt": "Welche davon sind Bourbon-Marken?",
-   "us": true,
-   "x": false
+   "us": false,
+   "x": true
   },
   {
    "answers": [
@@ -14462,8 +14501,8 @@
    ],
    "id": "82869",
    "isValid": "",
-   "prompt": "Welcher dieser Popstars war früher in einer Disney Channel Show?",
-   "us": true,
+   "prompt": "Welcher dieser Popstars war früher in einer “[i]Disney Channel[/i]”-Show?",
+   "us": false,
    "x": false
   },
   {
@@ -15093,7 +15132,7 @@
    "id": "83082",
    "isValid": "",
    "prompt": "Welcher dieser Produkte sind normalerweise in der Wintersaison in der nördlichen Hemisphäre üblich?",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -16281,51 +16320,63 @@
   {
    "answers": [
     {
-     "text": "Dortmund"
+     "text": "Greig-Tulpe"
     },
     {
-     "text": "Hagen"
+     "text": "Seerosen-Tulpe"
     },
     {
-     "text": "Bochum"
+     "text": "Woll-Tulpe"
     },
     {
-     "text": "Essen"
+     "text": "Vierblättrige Tulpe"
     },
     {
-     "text": "Mülheim an der Ruhr"
+     "text": "Zweiblütige Tulpe"
     },
     {
-     "text": "Oberhausen"
+     "text": "Felsen-Tulpe"
     },
     {
-     "text": "Duisburg"
+     "text": "Stern-Tulpe"
     },
     {
-     "text": "Wetter"
+     "text": "Damen-Tulpe"
+    },
+    {
+     "text": "Mogoltau-Tulpe"
+    },
+    {
+     "text": "Orphanides-Tulpe"
     }
    ],
-   "category": "Historical Figures",
+   "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "Bielefeld"
+     "text": "Pitbull-Tulpe"
     },
     {
-     "text": "Düsseldorf"
+     "text": "Fansi-Tulpe"
     },
     {
-     "text": "Herne"
+     "text": "Fischersfrauen-Tulpe"
     },
     {
-     "text": "Lüdenscheid"
+     "text": "Maize-Tulpe"
     },
     {
-     "text": "Saarbrücken"
+     "text": "Matrizen-Tulpe"
+    },
+    {
+     "text": "Haine-Tulpe"
+    },
+    {
+     "text": "Narcotique-Tulpe"
     }
    ],
    "id": "85113",
    "isValid": "",
-   "prompt": "Durch welche dieser Städte fließt die Ruhr?",
+   "prompt": "Wobei handelt es sich um echte Arten von [i]Tulpen[/i]?",
    "us": false,
    "x": false
   },
@@ -18583,52 +18634,72 @@
    "x": false
   },
   {
-   "answers": [
-    {
-     "text": "GZA"
-    },
-    {
-     "text": "RZA"
-    },
-    {
-     "text": "Ol’ Dirty Bastard"
-    },
-    {
-     "text": "Raekwon"
-    },
-    {
-     "text": "Method Man"
-    },
-    {
-     "text": "Ghostface Killah"
-    },
-    {
-     "text": "U-God"
-    },
-    {
-     "text": "Inspectah Deck"
-    },
-    {
-     "text": "Masta Killa"
-    }
-   ],
-   "category": "Music",
+   "answers": [],
+   "category": "Math",
    "decoys": [
     {
-     "text": "SZA"
+     "text": "-17"
     },
     {
-     "text": "Grandmaster Shaolin"
+     "text": "81"
     },
     {
-     "text": "Nas"
+     "text": "0,33"
+    },
+    {
+     "text": "-15,38"
+    },
+    {
+     "text": "156"
+    },
+    {
+     "text": "-0,76"
+    },
+    {
+     "text": "5,39"
+    },
+    {
+     "text": "-20,8"
+    },
+    {
+     "text": "-15555"
+    },
+    {
+     "text": "0,8"
+    },
+    {
+     "text": "1080080"  
+    },
+    {
+     "text": "1,754"
+    },
+    {
+     "text": "-69,69"
+    },
+    {
+     "text": "-0,1"
+    },
+    {
+     "text": "99,9"
+    },
+    {
+     "text": "17"
+    },
+    {
+     "text": "0,1"
+    },
+    {
+     "text": "-5"
+    },
+    {
+     "text": "0"
     }
    ],
    "id": "86031",
    "isValid": "",
-   "prompt": "Wer sind die ursprünglichen neun Mitglieder des Wu-Tang-Clans?",
-   "us": true,
-   "x": true
+   "prompt": "Wobei handelt es sich NICHT um [i]reelle Zahlen[/i]?",
+   "us": false,
+   "x": false
   },
   {
    "answers": [
@@ -20289,7 +20360,7 @@
    "id": "86502",
    "isValid": "",
    "prompt": "Welche Songs enthalten Tanzanweisungen in den Texten?",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
