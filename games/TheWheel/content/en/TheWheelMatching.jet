@@ -4857,11 +4857,11 @@
   {
    "answers": [
     {
-     "match": "Patroclus",
-     "text": "Achilles"
+     "match": "Patroklos",
+     "text": "Achilleus"
     },
     {
-     "match": "Hyacinth",
+     "match": "Hyakinthos",
      "text": "Apollo"
     },
     {
@@ -4869,12 +4869,12 @@
      "text": "Hero"
     },
     {
-     "match": "Juliet",
+     "match": "Julia",
      "text": "Romeo"
     },
     {
-     "match": "Heathcliff",
-     "text": "Catherine Earnshaw"
+     "match": "Odysseus",
+     "text": "Penelope"
     },
     {
      "match": "Guinevere",
@@ -4885,31 +4885,35 @@
      "text": "Jack Dawson"
     },
     {
-     "match": "Jack Twist",
-     "text": "Ennis Del Mar"
+     "match": "Sissi",
+     "text": "Franz"
     },
     {
-     "match": "Sam",
-     "text": "Katherine Barlow"
+     "match": "Luise Miller",
+     "text": "Ferdinand von Walter"
     },
     {
      "match": "Kairi",
      "text": "Sora"
+    },
+    {
+     "match": "Zelda",
+     "text": "Link"
     }
    ],
    "category": "Literature",
    "decoys": [],
    "headers": [
     {
-     "match": "Partner B",
-     "text": "Partner A"
+     "match": "Liebhaber (Spalte B)",
+     "text": "Liebhaber (Spalte A)"
     }
    ],
    "id": "80312",
    "isValid": "",
-   "prompt": "Match the character to their lover",
-   "promptHeader": "Star-Crossed Lovers",
-   "us": true,
+   "prompt": "Ordne den Charakter dem Liebhaber zu",
+   "promptHeader": "Berühmte Liebhaber",
+   "us": false,
    "x": false
   },
   {
@@ -4981,86 +4985,86 @@
   {
    "answers": [
     {
-     "match": "vision",
-     "text": "vitamin A"
+     "match": "Sehen",
+     "text": "Vitamin A"
     },
     {
-     "match": "antioxidant, skin",
-     "text": "vitamin E"
+     "match": "Antioxidans, Haut",
+     "text": "Vitamin E"
     },
     {
-     "match": "calcium absorption",
-     "text": "vitamin D"
+     "match": "Kalziumaufnahme",
+     "text": "Vitamin D"
     },
     {
-     "match": "immune support",
-     "text": "vitamin C"
+     "match": "Immunsystem",
+     "text": "Vitamin C"
     },
     {
-     "match": "blood clotting",
-     "text": "vitamin K"
+     "match": "Regulierung der Blutgerinnung",
+     "text": "Vitamin K"
     },
     {
-     "match": "red blood cell formation",
-     "text": "vitamin B12"
+     "match": "Zellteilung, Blutbildung",
+     "text": "Vitamin B12"
     },
     {
-     "match": "bones and teeth",
-     "text": "calcium"
+     "match": "Knochen und Zähne",
+     "text": "Kalzium"
     },
     {
-     "match": "thyroid regulation",
-     "text": "iodine"
+     "match": "Regulation von Thyroxin",
+     "text": "Iod"
     },
     {
-     "match": "regulation of blood pressure",
-     "text": "magnesium"
+     "match": "Regulation des Bludrucks",
+     "text": "Magnesium"
     },
     {
-     "match": "aids muscle contractions",
-     "text": "potassium"
+     "match": "Muskelkontraktionen",
+     "text": "Kalium"
     }
    ],
    "category": "Science & Medicine",
    "decoys": [],
    "headers": [
     {
-     "match": "Biological Functions Benefitted",
-     "text": "Micronutrients"
+     "match": "Begünstigte biologische Funktionen",
+     "text": "Mikronährstoffe"
     }
    ],
    "id": "80328",
    "isValid": "",
-   "prompt": "Match the micronutrient to the biological function it benefits",
-   "promptHeader": "Micronutrients and What They Benefit",
-   "us": true,
+   "prompt": "Ordne den Mikronährstoff der biologischen Funktion zu, die er unterstützt",
+   "promptHeader": "Mikronährstoffe und ihre biologischen Funktionen",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "The 14th Dalai Lama",
-     "text": "Tibetan Buddhism"
+     "match": "Der 14. Dalai Lama",
+     "text": "Tibetischer Buddhismus"
     },
     {
-     "match": "Pope Francis I",
-     "text": "Roman Catholicism"
+     "match": "[i]Papst[/i] Franziskus",
+     "text": "Römisch-katholische Kirche"
     },
     {
-     "match": "Grand Imam of Al-Azhar Ahmed El-Tayeb",
-     "text": "Sunni Islam"
+     "match": "[i]Großimam von Al-Azhar[/i] Ahmad al-Tayyib",
+     "text": "Sunnismus"
     },
     {
      "match": "Russell M. Nelson",
-     "text": "Church of Jesus Christ of Latter-day Saints"
+     "text": "Kirche Jesu Christi der Heiligen der Letzten Tage"
     },
     {
-     "match": "Ecumenical Patriarch of Constantinople Bartholomew I",
-     "text": "Eastern Orthodoxy"
+     "match": "[i]Ökumenischer Patriarch von Konstantinopel[/i] Bartholomäus I.",
+     "text": "Östliche Orthodoxie"
     },
     {
-     "match": "Archbishop of Canterbury Justin Welby",
-     "text": "Anglicanism (Church of England)"
+     "match": "[i]Erzbischof von Canterbury[/i] Justin Welby",
+     "text": "Anglikanismus (Church of England)"
     },
     {
      "match": "Louis Farrakhan",
@@ -5071,139 +5075,143 @@
      "text": "Church of Scientology"
     },
     {
-     "match": "Grand Ayatollah Ali al-Husayni al-Sistani (Iraq)",
-     "text": "Imamiyyah Shia Islam"
+     "match": "[i]Großajatollah[/i] Ali al-Husaini as-Sisitani (Irak)",
+     "text": "Zwölfer-Schia"
     },
     {
-     "match": "Reverend President Susan Frederick-Gray",
-     "text": "Universalist Unitarian Association"
+     "match": "Ralf Meister",
+     "text": "Vereinigte Evangelisch-Lutherische Kirche Deutschlands"
     }
    ],
    "category": "Religion",
    "decoys": [],
    "headers": [
     {
-     "match": "Leaders",
-     "text": "Religions"
+     "match": "Führer",
+     "text": "Religionen"
     }
    ],
    "id": "80376",
    "isValid": "",
-   "prompt": "Match the religion to the spiritual leader",
-   "promptHeader": "World Religions and Their Spiritual Leaders (as of 2020)",
-   "us": true,
+   "prompt": "Ordne die Religion ihrem geistlichen Führer zu",
+   "promptHeader": "Weltreligionen und ihre geistlichen Führer (Stand 2021)",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "Steve Allen",
-     "text": "[i]The Tonight Show[/i]"
+     "match": "Stefan Raab",
+     "text": "[i]TV total[/i]"
     },
     {
-     "match": "David Letterman",
-     "text": "[i]The Late Show[/i]"
+     "match": "Matthias Holtmann",
+     "text": "[i]SWR3 Ring frei![/i]"
     },
     {
-     "match": "Tom Snyder",
-     "text": "[i]The Late Late Show[/i]"
+     "match": "Jan Böhmermann",
+     "text": "[i]ZDF Magazin Royale[/i]"
     },
     {
-     "match": "Craig Kilborn",
-     "text": "[i]The Daily Show[/i]"
+     "match": "Carolin Kebekus",
+     "text": "[i]PussyTerror TV[/i]"
     },
     {
-     "match": "Carson Daly",
-     "text": "[i]Last Call[/i]"
+     "match": "Oliver Welke",
+     "text": "[i]heute-show[/i]"
     },
     {
-     "match": "Conan O'Brien",
-     "text": "[i]Conan[/i]"
+     "match": "Harald Schmidt",
+     "text": "[i]Die Harald Schmidt Show[/i]"
     },
     {
-     "match": "Jimmy Kimmel",
-     "text": "[i]Jimmy Kimmel Live![/i]"
+     "match": "Philip Simon",
+     "text": "[i]nate light[/i]"
     },
     {
-     "match": "Bill Maher",
-     "text": "[i]Real Time[/i]"
+     "match": "Thomas Koschwitz",
+     "text": "[i]RTL Nachtshow[/i]"
     },
     {
-     "match": "Andy Cohen",
-     "text": "[i]Watch What Happens: Live[/i]"
+     "match": "Klaas Heufer-Umlauf & Joko Winterscheidt",
+     "text": "[i]Circus HalliGalli[/i]"
+    },
+    {
+     "match": "Dirk Stermann & Christoph Grissemann",
+     "text": "[i]Willkommen Österreich[/i]"
     }
    ],
    "category": "Pop Culture",
    "decoys": [],
    "headers": [
     {
-     "match": "Original Hosts",
-     "text": "Talk Shows"
+     "match": "Erste Moderatoren",
+     "text": "Late-Night-Shows"
     }
    ],
    "id": "80379",
    "isValid": "",
-   "prompt": "Match the late night talk show to its original host",
-   "promptHeader": "Late Night Talk Shows and Their First Hosts",
-   "us": true,
+   "prompt": "Ordne den Moderator seiner Late-Night-Show zu",
+   "promptHeader": "Late-Night-Shows und ihre ersten Moderatoren",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "“The Road Not Taken”",
-     "text": "Robert Frost"
+     "match": "“Die drey Reiche der Natur”",
+     "text": "Gotthold Ephraim Lessing"
     },
     {
-     "match": "“Harlem”",
-     "text": "Langston Hughes"
+     "match": "“Mondnacht”",
+     "text": "Joseph von Eichendorff"
     },
     {
-     "match": "“Daddy“",
-     "text": "Sylvia Plath"
+     "match": "“Herr von Ribbeck auf Ribbeck im Havelland“",
+     "text": "Theodor Fontane"
     },
     {
-     "match": "“Howl”",
-     "text": "Allen Ginsberg"
+     "match": "“Die schlesischen Weber”",
+     "text": "Heinrich Heine"
     },
     {
-     "match": "“Still I Rise”",
-     "text": "Maya Angelou"
+     "match": "“Der humorvolle Vogel”",
+     "text": "Wilhelm Busch"
     },
     {
-     "match": "“Do not go gentle into that good night”",
-     "text": "Dylan Thomas"
+     "match": "“Wenn nicht mehr Zahlen und Figuren”",
+     "text": "Novalis"
     },
     {
-     "match": "“Ozymandias”",
-     "text": "Percy Bysshe Shelley"
+     "match": "“Komm in den totgesagten Park und schau”",
+     "text": "Stefan George"
     },
     {
-     "match": "“The Raven”",
-     "text": "Edgar Allan Poe"
+     "match": "“Die unmögliche Tatsache”",
+     "text": "Christian Morgenstern"
     },
     {
-     "match": "“If—”",
-     "text": "Rudyard Kipling"
+     "match": "“Der Zauberlehrling”",
+     "text": "Johann Wolfgang von Goethe"
     },
     {
-     "match": "“Sonnet 18” (“Shall I compare thee to a summer's day...”)",
-     "text": "William Shakespeare"
+     "match": "“Der Panther”",
+     "text": "Rainer Maria Rilke"
     }
    ],
    "category": "Literature",
    "decoys": [],
    "headers": [
     {
-     "match": "Poems",
-     "text": "Poets"
+     "match": "Gedichte",
+     "text": "Dichte Dichter"
     }
    ],
    "id": "80445",
    "isValid": "",
-   "prompt": "Match the poet to their famous poem",
-   "promptHeader": "English Language Poets and Their Most Famous Poems",
-   "us": true,
+   "prompt": "Ordne das berühmte Gedicht seinem Dichter zu",
+   "promptHeader": "Deutschsprachige Dichter und ihre berühmtesten Gedichte",
+   "us": false,
    "x": false
   },
   {
