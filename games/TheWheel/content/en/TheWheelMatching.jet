@@ -5217,43 +5217,43 @@
   {
    "answers": [
     {
-     "match": "red concussive eyebeams",
+     "match": "Aus Augen zerstörerische Strahlen verschießen",
      "text": "Cyclops"
     },
     {
-     "match": "telepathy and psionic powers",
+     "match": "Telepathie",
      "text": "Charles Xavier"
     },
     {
-     "match": "regenerative healing factor",
+     "match": "Erhöhte Regenerationsfähigkeit",
      "text": "Wolverine"
     },
     {
-     "match": "freezing abilities",
+     "match": "Gefrierfähigkeiten",
      "text": "Iceman"
     },
     {
-     "match": "wings",
+     "match": "Flügel",
      "text": "Angel"
     },
     {
-     "match": "conversion of skin to steel",
+     "match": "Umwandlung von Haut in Stahl",
      "text": "Colossus"
     },
     {
-     "match": "teleportation",
+     "match": "Teleportation",
      "text": "Nightcrawler"
     },
     {
-     "match": "weather manipulation",
+     "match": "Kontrolle des Wetters",
      "text": "Storm"
     },
     {
-     "match": "energy absorption",
+     "match": "Energieabsorption",
      "text": "Rogue"
     },
     {
-     "match": "control of magnetic fields",
+     "match": "Erzeugung von Magnetfeldern",
      "text": "Magneto"
     }
    ],
@@ -5261,197 +5261,213 @@
    "decoys": [],
    "headers": [
     {
-     "match": "Powers",
-     "text": "X-Men"
+     "match": "Kräfte",
+     "text": "[i]X-Men[/i]"
     }
    ],
    "id": "80446",
    "isValid": "",
-   "prompt": "Match the X-Men character to their mutant power",
-   "promptHeader": "X-Men and Their Mutant Powers",
-   "us": true,
+   "prompt": "Ordne die Mutantenkraft dem [i]X-Men[/i]-Charakter zu",
+   "promptHeader": "[i]X-Men[/i] und ihre Mutantenkräfte",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "BK",
-     "text": "The Bank of New York Mellon Corporation"
+     "match": "ZAL",
+     "text": "Zalando"
     },
     {
-     "match": "ED",
-     "text": "Consolidated Edison"
+     "match": "SRT3",
+     "text": "Sartorius"
     },
     {
-     "match": "PG",
-     "text": "Proctor & Gamble"
+     "match": "MBG",
+     "text": "Mercedes-Benz Group"
     },
     {
-     "match": "IBM",
-     "text": "International Business Machines"
+     "match": "ADS",
+     "text": "Adidas"
     },
     {
-     "match": "KO",
-     "text": "Coca-Cola"
+     "match": "BAYN",
+     "text": "Bayer"
     },
     {
-     "match": "JNJ",
-     "text": "Johnson & Johnson"
+     "match": "DPW",
+     "text": "Deutsche Post"
     },
     {
-     "match": "CL",
-     "text": "Colgate-Palmolive Company"
+     "match": "EOAN",
+     "text": "E.ON"
     },
     {
-     "match": "X",
-     "text": "US Steel Corp"
+     "match": "DBK",
+     "text": "Deutsche Bank"
     },
     {
-     "match": "MTN",
-     "text": "Vail Resorts Inc"
+     "match": "AIR",
+     "text": "Airbus"
     },
     {
-     "match": "T",
-     "text": "AT&T Inc"
+     "match": "BNR",
+     "text": "Brenntag"
+    },
+    {
+     "match": "1COV",
+     "text": "Covestro"
+    },
+    {
+     "match": "RWE",
+     "text": "RWE"
+    },
+    {
+     "match": "PAH3",
+     "text": "Porsche SE"
+    },
+    {
+     "match": "IFX",
+     "text": "Infineon"
     }
    ],
    "category": "Economics",
    "decoys": [],
    "headers": [
     {
-     "match": "Ticker Symbols",
-     "text": "Companies"
+     "match": "Börsensymbole",
+     "text": "Unternehmen"
     }
    ],
    "id": "80447",
    "isValid": "",
-   "prompt": "Match the company listed on the New York Stock Exchange to its ticker symbol",
-   "promptHeader": "Companies Listed on the NYSE and Their Ticker Symbols",
-   "us": true,
+   "prompt": "Ordne das Börsensymbol dem [i]DAX[/i]-Unternehmen zu",
+   "promptHeader": "[i]DAX[/i]-Unternehmen und ihre Abkürzungen (Stand 2021)",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "Parker",
-     "text": "Sarah Jessica"
+     "match": "Baden",
+     "text": "Baden-"
     },
     {
-     "match": "Levitt",
-     "text": "Joseph Gordon"
+     "match": "Schwenningen",
+     "text": "Villingen-"
     },
     {
-     "match": "Warner",
-     "text": "Malcolm-Jamal"
+     "match": "Rosenberg",
+     "text": "Sulzbach-"
     },
     {
-     "match": "Brown",
-     "text": "Millie Bobby"
+     "match": "Zellerfeld",
+     "text": "Clausthal-"
     },
     {
-     "match": "Harris",
-     "text": "Neil Patrick"
+     "match": "Rauxel",
+     "text": "Castrop-"
     },
     {
-     "match": "Carter",
-     "text": "Helena Bonham"
+     "match": "Oberstein",
+     "text": "Idar-"
     },
     {
-     "match": "Gellar",
-     "text": "Sarah Michelle"
+     "match": "Wolfen",
+     "text": "Bitterfeld-"
     },
     {
-     "match": "Hewitt",
-     "text": "Jennifer Love"
+     "match": "Worbis",
+     "text": "Leinefelde-"
     },
     {
-     "match": "Thomas",
-     "text": "Johnathan Taylor"
+     "match": "Roßlau",
+     "text": "Dessau-"
     },
     {
-     "match": "Jones",
-     "text": "James Earl"
+     "match": "Ahrweiler",
+     "text": "Bad Neuenahr-"
     },
     {
-     "match": "Coppola",
-     "text": "Francis Ford"
+     "match": "Wiedenbrück",
+     "text": "Rheda-"
     },
     {
-     "match": "Leigh",
-     "text": "Jennifer Jason"
+     "match": "Bad Schlema",
+     "text": "Aue-"
     }
    ],
-   "category": "Celebrities",
+   "category": "Geography & Landmarks",
    "decoys": [],
    "headers": [
     {
-     "match": "Last Names",
-     "text": "First and Second Names"
+     "match": "Zweite Teile",
+     "text": "Erste Teile"
     }
    ],
    "id": "80451",
    "isValid": "",
-   "prompt": "Match the celebrity’s first and second name to their last name",
-   "promptHeader": "Three-Named Celebs",
-   "us": true,
+   "prompt": "Ordne den ersten Teil des Stadtnamens seinem zweiten Teil zu",
+   "promptHeader": "Deutsche Städte mit Doppelnamen",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "grapes",
-     "text": "wine"
+     "match": "Trauben",
+     "text": "Wein"
     },
     {
-     "match": "molasses",
-     "text": "rum"
+     "match": "Melasse",
+     "text": "Rum"
     },
     {
-     "match": "rice",
-     "text": "sake"
+     "match": "Reis",
+     "text": "Sake"
     },
     {
-     "match": "blue agave",
-     "text": "tequila"
+     "match": "Blaue Agave",
+     "text": "Tequila"
     },
     {
-     "match": "corn",
-     "text": "bourbon"
+     "match": "Mais",
+     "text": "Bourbon Whiskey"
     },
     {
-     "match": "barley and hops",
-     "text": "beer"
+     "match": "Gerste und Hopfen",
+     "text": "Bier"
     },
     {
-     "match": "honey",
-     "text": "mead"
+     "match": "Honig",
+     "text": "Met"
     },
     {
-     "match": "apples",
-     "text": "cider"
+     "match": "Apfel",
+     "text": "Cider"
     },
     {
-     "match": "potatoes",
-     "text": "vodka"
+     "match": "Kartoffeln",
+     "text": "Wodka"
     },
     {
-     "match": "oranges",
-     "text": "orange juice"
+     "match": "Orangen",
+     "text": "Orangensaft"
     }
    ],
    "category": "Food & Drink",
    "decoys": [],
    "headers": [
     {
-     "match": "Ingredients",
-     "text": "Drinks"
+     "match": "Hauptzutaten",
+     "text": "Getränke"
     }
    ],
    "id": "80456",
    "isValid": "",
-   "prompt": "Match the type of drink to its primary ingredient",
-   "promptHeader": "Hey, Where Did That Drink Come From?",
-   "us": true,
+   "prompt": "Ordne die Getränkeart ihrer Hauptzutat zu",
+   "promptHeader": "“Was trinke ich hier eigentlich?”",
+   "us": false,
    "x": true
   },
   {
@@ -5937,67 +5953,71 @@
   {
    "answers": [
     {
-     "match": "calf",
-     "text": "cow"
+     "match": "Kalb",
+     "text": "Kuh"
     },
     {
-     "match": "hatchling",
-     "text": "alligator"
+     "match": "Welpe",
+     "text": "Hund"
     },
     {
-     "match": "cub",
-     "text": "bear"
+     "match": "Zicklein",
+     "text": "Ziege"
     },
     {
-     "match": "fawn",
-     "text": "deer"
+     "match": "Kitz",
+     "text": "Reh"
     },
     {
-     "match": "maggot",
-     "text": "fly"
+     "match": "Made",
+     "text": "Fliege"
     },
     {
-     "match": "tadpole",
-     "text": "frog"
+     "match": "Kaulquappe",
+     "text": "Frosch"
     },
     {
-     "match": "gosling",
-     "text": "goose"
+     "match": "Gössel",
+     "text": "Gans"
     },
     {
-     "match": "joey",
-     "text": "kangaroo"
+     "match": "Schwein",
+     "text": "Ferkel"
     },
     {
-     "match": "lamb",
-     "text": "sheep"
+     "match": "Lamm",
+     "text": "Schaf"
     },
     {
-     "match": "cygnet",
-     "text": "swan"
+     "match": "Küken",
+     "text": "Ente"
     },
     {
-     "match": "foal",
-     "text": "horse"
+     "match": "Fohlen",
+     "text": "Esel"
     },
     {
-     "match": "kid",
-     "text": "goat"
+     "match": "Affe",
+     "text": "Murmeltier"
+    },
+    {
+     "match": "Frischling",
+     "text": "Wildschwein"
     }
    ],
    "category": "Animals",
    "decoys": [],
    "headers": [
     {
-     "match": "Baby Animals",
-     "text": "Adult Animals"
+     "match": "Tierbabys",
+     "text": "Erwachsene Tiere"
     }
    ],
    "id": "81078",
    "isValid": "",
-   "prompt": "Match the animal to what we call their (mostly) adorable offspring",
-   "promptHeader": "Cute Baby Animals",
-   "us": true,
+   "prompt": "Ordne die Tierart dem Namen ihres (meistens) niedlichen Nachwuchses zu",
+   "promptHeader": "Süße Tierbabys",
+   "us": false,
    "x": false
   },
   {
