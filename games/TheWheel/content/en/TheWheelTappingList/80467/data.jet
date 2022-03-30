@@ -33,13 +33,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio"
+      "n": "OutroAudio",
+      "s": "Diese Frage wurde freundlicherweise gesponsert von Helmut Kohls neuem Rezeptbuch: \"Meine hundert liebsten Kohlrezepte\"."
     }
   ]
 }

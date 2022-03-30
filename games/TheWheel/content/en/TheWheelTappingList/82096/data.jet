@@ -33,14 +33,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "I don't mean to brag, but I'm an Impressionist myself. Okay, here's me doing Christopher Walken. \"Hey little meeple... come... gimme a spin... if you would... please. On... to the Power Slice.\""
+      "n": "OutroAudio"
     }
   ]
 }

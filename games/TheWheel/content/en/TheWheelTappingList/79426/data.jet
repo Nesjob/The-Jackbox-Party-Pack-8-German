@@ -2,14 +2,13 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio",
-      "s": "Hail to the Chief! Or at least one of the Chief's coworkers."
+      "n": "IntroAudio"
     },
     {
       "t": "B",
@@ -31,7 +30,7 @@
       "t": "A",
       "v": "followup",
       "n": "FollowupAudio",
-      "s": "The second-most important question you'll answer all day."
+      "s": "Die zweitwichtigste Frage, die ihr heute beantworten werdet."
     },
     {
       "t": "B",

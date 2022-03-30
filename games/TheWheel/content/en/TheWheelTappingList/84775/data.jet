@@ -23,13 +23,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "Gut, dass sie die elfte biblische Plage mit der Zeit vergessen haben. \"Zerstörung eines Landstriches durch eine Wette darum, wer das Rad weiter rollen kann\" wirkt dann doch etwas unseriös."
     },
     {
       "t": "B",

@@ -2,13 +2,14 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio"
+      "n": "IntroAudio",
+      "s": "Esst ihr gerne Schokolade? Ja? Nun, das hilft euch bei der nächsten Frage auch nicht weiter, aber danke für die ehrlichen Antworten."
     },
     {
       "t": "B",

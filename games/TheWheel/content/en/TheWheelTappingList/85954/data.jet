@@ -23,23 +23,25 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "Wisst ihr, ich war so kurz davor, auch auf dieser Liste zu stehen. SO KURZ DAVOR! Ach, es ist eine Schande."
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio"
+      "n": "OutroAudio",
+      "s": "Ich würde euch ja gerne die Geschichte erzählen, aber die Wunde ist noch zu jung. Fragt in weiteren viertausend Jahren noch mal."
     }
   ]
 }

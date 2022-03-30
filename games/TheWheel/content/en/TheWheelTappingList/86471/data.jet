@@ -33,13 +33,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio"
+      "n": "OutroAudio",
+      "s": "Ich hoffe doch sehr, dass in ein paar Jahrhunderten mein Name auch auf einer solchen Liste auftaucht!"
     }
   ]
 }

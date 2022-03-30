@@ -23,13 +23,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "Keine Sorge, es ist nicht notwendig, von diesem Spiel gehört zu haben. Beantwortet einfach die Frage richtig, dann seid ihr auf der sicheren Seite!"
     },
     {
       "t": "B",

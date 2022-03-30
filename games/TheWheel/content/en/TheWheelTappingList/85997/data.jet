@@ -23,14 +23,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio",
-      "s": "You know, the one that runs along the east coast of the United States? Yeah, that one."
+      "n": "FollowupAudio"
     },
     {
       "t": "B",
@@ -41,7 +40,7 @@
       "t": "A",
       "v": "outro",
       "n": "OutroAudio",
-      "s": "Wanna feel old? The Appalachian Mountains formed just 500 million years ago. Feels like yesterday, doesn't it?"
+      "s": "Wollt ihr euch alt fühlen? Okay, hier kommt es: Die Urdonau floss das erste Mal vor rund sieben Millionen Jahren durch Deutschland. Es kommt mir vor, als wäre es gestern gewesen. Wie ist es bei euch?"
     }
   ]
 }

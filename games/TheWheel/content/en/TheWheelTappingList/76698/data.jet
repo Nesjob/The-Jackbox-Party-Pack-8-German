@@ -23,24 +23,24 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio",
-      "s": "Whatever you do, do not think about a *Caesar* Salad! Don't think about Caesars."
+      "n": "FollowupAudio"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio"
+      "n": "OutroAudio",
+      "s": "Habt ihr auch plötzlich so großen Hunger auf Salat? Jetzt ein richtig guter Caesar-Salat könnte Wunder wirken!"
     }
   ]
 }

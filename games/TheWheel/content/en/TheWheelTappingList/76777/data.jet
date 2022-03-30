@@ -23,13 +23,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "Mein Friseur hat immer diese Zeitschriften herumliegen. Warte... Warum gehe ich überhaupt zum Friseur, ich habe nicht mal Haare?!"
     },
     {
       "t": "B",

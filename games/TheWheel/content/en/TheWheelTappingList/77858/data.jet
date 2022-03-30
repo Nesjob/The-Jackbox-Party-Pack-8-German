@@ -2,13 +2,14 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio"
+      "n": "IntroAudio",
+      "s": "Seid ihr hungrig?"
     },
     {
       "t": "B",
@@ -23,24 +24,24 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio",
-      "s": "Like a cookie bouquet, except pollen-y."
+      "n": "FollowupAudio"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio"
+      "n": "OutroAudio",
+      "s": "Ich weiß ja nicht, aber ich bleibe wohl lieber bei Salat..."
     }
   ]
 }

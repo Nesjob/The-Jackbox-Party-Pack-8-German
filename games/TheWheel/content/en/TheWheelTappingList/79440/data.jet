@@ -2,14 +2,13 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio",
-      "s": "You know how the Queen of England can just, POW, make someone a knight? I love that."
+      "n": "IntroAudio"
     },
     {
       "t": "B",
@@ -24,14 +23,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio",
-      "s": "Find the knights and dames... or be ROYALLY screwed!"
+      "n": "FollowupAudio"
     },
     {
       "t": "B",

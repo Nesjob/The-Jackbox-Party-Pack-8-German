@@ -9,7 +9,7 @@
       "t": "A",
       "v": "intro",
       "n": "IntroAudio",
-      "s": "Oh no... we have ANTS!!!"
+      "s": "Warte, was kribbelt da so? Oh nein, ich glaube, wir haben schon wieder einen Ameisenbefall!"
     },
     {
       "t": "B",
@@ -34,14 +34,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "That's how you get ants."
+      "n": "OutroAudio"
     }
   ]
 }

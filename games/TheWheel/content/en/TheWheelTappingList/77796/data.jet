@@ -23,24 +23,24 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio",
-      "s": "The first player to get this question right might just land themselves a sturdy yet handsome PBS tote."
+      "n": "FollowupAudio"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio"
+      "n": "OutroAudio",
+      "s": "Und da heißt es immer, Fernsehen macht dumm..."
     }
   ]
 }

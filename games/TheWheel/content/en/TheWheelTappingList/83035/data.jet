@@ -23,25 +23,23 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio",
-      "s": "I don't sleep, but you should totally try these."
+      "n": "FollowupAudio"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "Mattress companies are quadrilateral biased, and for that reason I must abstain."
+      "n": "OutroAudio"
     }
   ]
 }

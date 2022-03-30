@@ -30,18 +30,17 @@
       "t": "A",
       "v": "followup",
       "n": "FollowupAudio",
-      "s": "Ooh, there are some players in this house!"
+      "s": "Wie gut kennt ihr euch mit Dingen von unglaublicher Größe aus? Also mal abgesehen von mir natürlich...."
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "I know you're thinking it... YES, I do know all the dance steps."
+      "n": "OutroAudio"
     }
   ]
 }

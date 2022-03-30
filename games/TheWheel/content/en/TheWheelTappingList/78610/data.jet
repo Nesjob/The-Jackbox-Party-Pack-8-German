@@ -23,23 +23,25 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "Dieser Mann kann einfach alles tragen! Im Gegensatz zu mir..."
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio"
+      "n": "OutroAudio",
+      "s": "Wo wir gerade bei Kleidung sind: Hat schon mal jemand von euch einen Regenmantel in XXXXXXXXXXXXXL gesehen? Ärmel sind nicht notwendig."
     }
   ]
 }

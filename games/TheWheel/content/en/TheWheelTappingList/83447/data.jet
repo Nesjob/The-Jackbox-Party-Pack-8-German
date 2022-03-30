@@ -33,14 +33,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "The Wheel refuses all neck garments, as I do not have a neck. But I admire a good ascot."
+      "n": "OutroAudio"
     }
   ]
 }

@@ -19,7 +19,7 @@
       "t": "A",
       "v": "prompt",
       "n": "PromptAudio",
-      "s": "Welcher dieser Popstars war früher in einer Disney Channel Show?"
+      "s": "Welcher dieser Popstars war früher in einer “[i]Disney Channel[/i]”-Show?"
     },
     {
       "t": "B",

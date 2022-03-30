@@ -23,23 +23,25 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "Nur zur Information: Vanitas-Bildsymbole sind Symbole der Vergänglichkeit auf klassischen Bildern."
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio"
+      "n": "OutroAudio",
+      "s": "Scheint wohl keine besonders fröhliche Zeit gewesen zu sein, wenn alles mit dem Tod in Verbindung gebracht wurde."
     }
   ]
 }

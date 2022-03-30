@@ -2,13 +2,14 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio"
+      "n": "IntroAudio",
+      "s": "Wo wir gerade bei gescheiterten Existenzen waren..."
     },
     {
       "t": "B",
@@ -23,14 +24,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio",
-      "s": "Okay, they may not be cool to you! I just have a thing for spare parts."
+      "n": "FollowupAudio"
     },
     {
       "t": "B",

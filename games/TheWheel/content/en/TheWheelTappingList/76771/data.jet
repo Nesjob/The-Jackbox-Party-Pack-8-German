@@ -9,7 +9,7 @@
       "t": "A",
       "v": "intro",
       "n": "IntroAudio",
-      "s": "Listen up, musical theatre nerds."
+      "s": "Kennste? Kennste? Kennste?"
     },
     {
       "t": "B",
@@ -24,14 +24,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio",
-      "s": "I am sixteen, going on seventeen... thousand years old. More or less."
+      "n": "FollowupAudio"
     },
     {
       "t": "B",

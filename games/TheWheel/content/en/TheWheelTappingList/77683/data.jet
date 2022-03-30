@@ -23,13 +23,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "Ich habe einmal versucht, meinen Schreibtisch mitzunehmen. Das war ein Krampf mit dem Teil durch die Sicherheitskontrolle zu kommen! Vielleicht sollte ich beim nächsten Mal auf die Kleinwägen in der Schublade verzichten..."
     },
     {
       "t": "B",

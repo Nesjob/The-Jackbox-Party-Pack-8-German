@@ -33,14 +33,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "I got a hole in one once. I mean, I was Wheeling around the mountain and I fell into an enormous hole, but it still counted."
+      "n": "OutroAudio"
     }
   ]
 }

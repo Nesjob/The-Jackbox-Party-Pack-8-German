@@ -19,17 +19,18 @@
       "t": "A",
       "v": "prompt",
       "n": "PromptAudio",
-      "s": "Welche dieser Lebensmittel haben mehr Kalorien als Haferflocken?"
+      "s": "Welche dieser Lebensmittel haben weniger Kalorien als Haferflocken?"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "Stellt sich natürlich die Frage, wie viele Kalorien Haferflocken haben. Ich kann es euch sagen: Ungefähr 350 kcal pro 100 g. Jetzt sollte diese Frage ja keinerlei Hindernis mehr darstellen..."
     },
     {
       "t": "B",

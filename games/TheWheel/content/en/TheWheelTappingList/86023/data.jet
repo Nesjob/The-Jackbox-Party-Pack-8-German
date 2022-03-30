@@ -33,13 +33,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio"
+      "n": "OutroAudio",
+      "s": "Vielleicht hätte ich mich auch mal zum Schwergewichtsboxen anmelden sollen, das nötige Kampfgewicht kriege ich ja problemlos auf die Waage."
     }
   ]
 }

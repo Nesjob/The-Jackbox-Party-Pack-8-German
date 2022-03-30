@@ -2,14 +2,13 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio",
-      "s": "I am neither sir or ma’am. I am not a scam or sham. I am the Wheel. The Wheel I am."
+      "n": "IntroAudio"
     },
     {
       "t": "B",
@@ -24,25 +23,23 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio",
-      "s": "I'm not going to do another rhyme, you get the picture."
+      "n": "FollowupAudio"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "Oh the places you'll go... like to the next question or the next round of spinning... who can say?"
+      "n": "OutroAudio"
     }
   ]
 }

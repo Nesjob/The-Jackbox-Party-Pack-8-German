@@ -33,13 +33,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio"
+      "n": "OutroAudio",
+      "s": "Jahrelang wurden wir angelogen: In \"kinder Schokolade\" stecken gar keine echten Kinder, sondern nur Kinder-Aroma. Entsetzlich!"
     }
   ]
 }

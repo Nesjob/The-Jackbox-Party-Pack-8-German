@@ -2,13 +2,14 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio"
+      "n": "IntroAudio",
+      "s": "Für die nächste Frage braucht es echt Eier..."
     },
     {
       "t": "B",
@@ -33,14 +34,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "Ah, eggs. Once I baked the Power Slice into a particularly lovely frittata. Long story short, that's why the Beatles broke up!"
+      "n": "OutroAudio"
     }
   ]
 }

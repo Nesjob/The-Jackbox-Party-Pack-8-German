@@ -2,13 +2,14 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio"
+      "n": "IntroAudio",
+      "s": "Diejenigen unter euch mit einem fotografischen Gedächtnis bitte kurz die Hand heben."
     },
     {
       "t": "B",

@@ -23,13 +23,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "Lasst euch keine Beeren aufbinden. (Lachen) Der war gut!"
     },
     {
       "t": "B",

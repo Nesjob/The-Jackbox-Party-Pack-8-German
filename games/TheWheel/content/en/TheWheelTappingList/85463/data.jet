@@ -9,7 +9,7 @@
       "t": "A",
       "v": "intro",
       "n": "IntroAudio",
-      "s": "For our next question, I need you to hum the [i]Jurassic Park[/i] theme music to yourself veeeeeery quietly. Even an omnipotent Wheel such as myself is subject to copyright violations!"
+      "s": "Für die nächste Frage bitte ich euch, wenn überhaupt, die Titelmelodie von [i]Jurassic Park[/i] nur leise mitzusummen. Die Ninjas von der GEMA sind überall."
     },
     {
       "t": "B",
@@ -31,7 +31,7 @@
       "t": "A",
       "v": "followup",
       "n": "FollowupAudio",
-      "s": "Not to bring down the mood or anything, but many of these creatures were once my friends..."
+      "s": "Ich will jetzt ja nicht die gute Stimmung hier runterziehen, aber ich war mit einigen Dinosauriern echt gut befreundet."
     },
     {
       "t": "B",

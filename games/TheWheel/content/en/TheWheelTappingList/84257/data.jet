@@ -2,14 +2,13 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio",
-      "s": "Alright, now who's into [i]Game of Thrones[/i]?"
+      "n": "IntroAudio"
     },
     {
       "t": "B",
@@ -31,17 +30,18 @@
       "t": "A",
       "v": "followup",
       "n": "FollowupAudio",
-      "s": "Ahh, Wylis, my favorite character! I think he had a fun little nickname, but I can't remember what it is..."
+      "s": "Milchreis kann man tatsächlich auch relativ einfach selber machen. Will jemand ein Rezept?"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio"
+      "n": "OutroAudio",
+      "s": "Also man benötigt einen Liter Milch, 175 g Reis, 10 g Butter, etwas Salz und Zucker und abgeriebene Zitronenschale. Ihr lasst die Milch mit Butter, Salz, Zucker und Zitronenschale aufkochen und gebt dann den Reis dazu. Anschließend für 30-40 Minuten bei schwächster Hitze köcheln lassen. Das war's! Ihr habt doch mitgeschrieben, oder?"
     }
   ]
 }

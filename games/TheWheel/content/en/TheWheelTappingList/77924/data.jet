@@ -2,14 +2,13 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio",
-      "s": "To be or not to be!? That is the question! Whether tis... something. You know, I do know it, but when you're an immortal fount of wisdom and knowledge you don't really have to prove it."
+      "n": "IntroAudio"
     },
     {
       "t": "B",
@@ -34,14 +33,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "Good night sweet prince and princesses, may a flight of angels sing thee to thy next prompt."
+      "n": "OutroAudio"
     }
   ]
 }

@@ -33,14 +33,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "Every few years, I think I want to be a hat person, but then someone comes along seeking wisdom and I get spun and what do you know, my new hat lands in the Valley of Hats over there."
+      "n": "OutroAudio"
     }
   ]
 }

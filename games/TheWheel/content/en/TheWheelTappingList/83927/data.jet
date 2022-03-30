@@ -23,13 +23,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "[i]Froop[/i], das ist dieser Joghurt, der oben so eine Fruchtschicht hat. Habt ihr sicherlich schon mal gesehen."
     },
     {
       "t": "B",

@@ -23,13 +23,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "Für diese verachtenswürdige Tätigkeit auch noch Preise abstauben. Unterste Schublade."
     },
     {
       "t": "B",

@@ -2,14 +2,13 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio",
-      "s": "To start things off... (speaking Elvish)... that was Elvish for here’s your next question."
+      "n": "IntroAudio"
     },
     {
       "t": "B",
@@ -41,7 +40,7 @@
       "t": "A",
       "v": "outro",
       "n": "OutroAudio",
-      "s": "It is a known fact that The Lord of the Rings was originally The Lord of the Wheels, but I had my legal team shut that down."
+      "s": "Es ist wohl allgemein bekannt, dass \"Der Herr der Ringe\" eigentlich mal \"Der Herr der Räder\" heißen sollte. Aber keine Sorge, meine Anwälte haben das verhindert. Gern geschehen."
     }
   ]
 }

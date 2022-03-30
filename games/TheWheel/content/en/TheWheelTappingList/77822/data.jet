@@ -23,13 +23,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "Ihr wisst schon, Löcher in eurem Körper? Also natürliche Löcher, legt die Messer weg!"
     },
     {
       "t": "B",

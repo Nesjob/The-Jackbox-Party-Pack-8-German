@@ -9,7 +9,7 @@
       "t": "A",
       "v": "intro",
       "n": "IntroAudio",
-      "s": "You know what they say about an apple a day! All doctors will be disqualified from the following question."
+      "s": "Ihr wisst, was sie über Ärzte und Äpfel sagen! Also Ärzte, in Reih und Glied aufstellen und dann bitte kurz nach da hinten gehen. (Rufend) Danke!"
     },
     {
       "t": "B",
@@ -24,13 +24,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "(Rufend) Nein, nein! Ihr bleibt da hinten, bis wir mit dieser Frage fertig sind! Was soll das heißen? Ich habe die Regeln nicht gemacht. Hier steht es: \"An apple a day keeps the doctor away\". Also, bleibt wo ihr seid!"
     },
     {
       "t": "B",
@@ -41,7 +42,7 @@
       "t": "A",
       "v": "outro",
       "n": "OutroAudio",
-      "s": "Alright, doctors, you can come back now. I'm... sorry you had to go through that."
+      "s": "Okay, die Ärzte können wieder kommen. (Rufend) Könnt wieder herkommen! "
     }
   ]
 }

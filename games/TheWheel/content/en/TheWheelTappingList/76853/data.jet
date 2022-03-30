@@ -2,14 +2,13 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio",
-      "s": "If you know anything about me, you know I am an absolute basketball nut. Next to curling and prophesy, it's my favorite sport. So..."
+      "n": "IntroAudio"
     },
     {
       "t": "B",

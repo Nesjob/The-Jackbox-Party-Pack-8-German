@@ -19,17 +19,18 @@
       "t": "A",
       "v": "prompt",
       "n": "PromptAudio",
-      "s": "Welche der folgenden Sehenswürdigkeiten habe ich bei meinem Städtetrip nach Madrid letzten Sommer gesehen?"
+      "s": "Welche der folgenden Sehenswürdigkeiten habe ich NICHT bei meinem Städtetrip nach Madrid letzten Sommer gesehen?"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "Das war vielleicht eine Reise. Ach, Madrid war völlig geplättet von meiner unglaublichen Größe."
     },
     {
       "t": "B",

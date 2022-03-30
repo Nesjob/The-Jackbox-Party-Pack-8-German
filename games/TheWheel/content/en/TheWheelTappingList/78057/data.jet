@@ -23,23 +23,25 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "Und ja, es heißt nicht \"die Uranus\", sondern \"der Uranus\". Schreibt euch das auf, das wird morgen abgefragt!"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio"
+      "n": "OutroAudio",
+      "s": "Wer kam bitte auf die Idee, all diesen Monden solche altmodischen Frauennamen zu geben? "
     }
   ]
 }

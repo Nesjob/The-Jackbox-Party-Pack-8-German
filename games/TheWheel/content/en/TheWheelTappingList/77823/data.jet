@@ -19,7 +19,7 @@
       "t": "A",
       "v": "prompt",
       "n": "PromptAudio",
-      "s": "Welche dieser deutschen Filme gewannen den [i]Oscar[/i] als [i]bester internationaler Film[/i]?"
+      "s": "Welches davon sind Motorteile eines Autos?"
     },
     {
       "t": "B",
@@ -33,14 +33,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "Try reaching the pinnacle of all Earthly and Heavenly knowledge and becoming an all-powerful spinning Wheel. THAT'S an achievement."
+      "n": "OutroAudio"
     }
   ]
 }

@@ -2,13 +2,14 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio"
+      "n": "IntroAudio",
+      "s": "Und die nächste Frage ist... Ohh, nein."
     },
     {
       "t": "B",
@@ -30,7 +31,7 @@
       "t": "A",
       "v": "followup",
       "n": "FollowupAudio",
-      "s": "Of course I mean football positions! Sorry, rest of the world, Americans are so demanding."
+      "s": "Wie kommen nur diese ganzen Fragen zu Ballsport da rein? (Atmen) Ganz ruhig bleiben, gleich ist es vorbei."
     },
     {
       "t": "B",

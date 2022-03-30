@@ -23,13 +23,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "Ich glaube, ich muss es nicht erwähnen, ich bin ein begnadeter Tänzer. Ja, das war alles. Hier kommt kein Witz mehr. Mehr tippen, weniger Ansprüche stellen."
     },
     {
       "t": "B",

@@ -30,7 +30,7 @@
       "t": "A",
       "v": "followup",
       "n": "FollowupAudio",
-      "s": "I mean... SO I HEAR! Like, how would I know? How could I possibly... (clears throat awkwardly)."
+      "s": "Ups, wie ist die Frage denn hier rein gekommen? Nun... Das ist jetzt... Also ICH würde doch niemals...."
     },
     {
       "t": "B",
@@ -41,7 +41,7 @@
       "t": "A",
       "v": "outro",
       "n": "OutroAudio",
-      "s": "Is anyone hungry? Just me? I’m starving."
+      "s": "Habt ihr auch so einen Kohldampf? "
     }
   ]
 }

@@ -9,7 +9,7 @@
       "t": "A",
       "v": "intro",
       "n": "IntroAudio",
-      "s": "Let's just say I have strong opinions about this next one..."
+      "s": "Drücken wir es so aus, ich habe eine sehr klare Meinung zur folgenden Frage..."
     },
     {
       "t": "B",
@@ -31,7 +31,7 @@
       "t": "A",
       "v": "followup",
       "n": "FollowupAudio",
-      "s": "Based on a worldwide poll announced in 2007."
+      "s": "Basierend auf einer weltweiten Abstimmung im Jahr 2007."
     },
     {
       "t": "B",
@@ -42,7 +42,7 @@
       "t": "A",
       "v": "outro",
       "n": "OutroAudio",
-      "s": "I'm not gonna lie, I was not one of the finalists and I'm a little sensitive about it. I taught the Wall of China everything it knows about being great! Okay, enough said."
+      "s": "Ich bin ganz ehrlich, ich war nicht mal einer der Finalisten! Und ja, es tut weh. Schließlich habe ich der Chinesischen Mauer damals alle meine coolen Tricks gezeigt. Hach, vom eigenen Schüler in den Schatten gestellt..."
     }
   ]
 }

@@ -2,14 +2,13 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio",
-      "s": "Hey you Gregorians, check this out!"
+      "n": "IntroAudio"
     },
     {
       "t": "B",
@@ -41,7 +40,7 @@
       "t": "A",
       "v": "outro",
       "n": "OutroAudio",
-      "s": "Of course the Gregorian calendar was commissioned by Pope Gregory XIII, also the patron saint of refrigerator magnets."
+      "s": "Natürlich ist es allseits bekannt, dass der gregorianische Kalender vom Schutzpatron der Kühlschrankmagnete, Gregor XIII. eingeführt wurde. Ach, und Papst war er auch."
     }
   ]
 }

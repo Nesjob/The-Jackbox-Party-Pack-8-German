@@ -2,14 +2,13 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio",
-      "s": "Before we move on, I need to know: are you ready for this jelly? I don't think you're ready for this jelly... but I could be wrong."
+      "n": "IntroAudio"
     },
     {
       "t": "B",
@@ -34,13 +33,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio"
+      "n": "OutroAudio",
+      "s": "Wusstet ihr, dass die Art [i]Turritopsis dohrnii[/i] quasi unsterblich ist? Ihr könnt euch das sicherlich nur kaum vorstellen, aber ich finde es cool, auch mal andere nicht-göttliche Unsterbliche zu treffen."
     }
   ]
 }

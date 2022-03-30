@@ -2,14 +2,13 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio",
-      "s": "Hold on to your hats! That can only mean one thing: the next question is either about headgear or very strong winds."
+      "n": "IntroAudio"
     },
     {
       "t": "B",
@@ -24,23 +23,25 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "(Lachen) Ja, dieses Wortspiel war ganz dringend notwendig."
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio"
+      "n": "OutroAudio",
+      "s": "Hut ab, das war gar nicht schlecht. (Lachen) Ich hör ja schon auf."
     }
   ]
 }

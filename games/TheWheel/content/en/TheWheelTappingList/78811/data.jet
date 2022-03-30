@@ -33,13 +33,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio"
+      "n": "OutroAudio",
+      "s": "Ein Tipp an Spinnenphobiker: Nicht googeln! Auf gar keinen Fall."
     }
   ]
 }

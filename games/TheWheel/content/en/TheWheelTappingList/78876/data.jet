@@ -2,14 +2,13 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio",
-      "s": "You humans are capable of creating great works of beauty. But you can also inflict great evil upon each other."
+      "n": "IntroAudio"
     },
     {
       "t": "B",
@@ -31,7 +30,7 @@
       "t": "A",
       "v": "followup",
       "n": "FollowupAudio",
-      "s": "Do you hear the people sing? More accurately, do you hear the white men rapping?"
+      "s": "Tatsächlich ist der Begriff \"Seltene Erden\" sehr missverständlich, es geht nämlich um Metalle."
     },
     {
       "t": "B",

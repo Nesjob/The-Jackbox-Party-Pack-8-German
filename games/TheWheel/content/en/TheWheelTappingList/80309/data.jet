@@ -30,7 +30,7 @@
       "t": "A",
       "v": "followup",
       "n": "FollowupAudio",
-      "s": "Choose your character!"
+      "s": "Wähle deinen Kämpfer!"
     },
     {
       "t": "B",
@@ -41,7 +41,7 @@
       "t": "A",
       "v": "outro",
       "n": "OutroAudio",
-      "s": "I wouldn't mind having a drink with that Super Smash Brothers announcer."
+      "s": "Zu einem Drink mit dem Ansager aus [i]Smash Bros[/i] würde ich nicht Nein sagen."
     }
   ]
 }

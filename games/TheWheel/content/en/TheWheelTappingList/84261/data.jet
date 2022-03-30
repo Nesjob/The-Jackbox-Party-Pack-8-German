@@ -33,14 +33,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "Hey, I remember when this song first came out! It's the same as it ever was."
+      "n": "OutroAudio"
     }
   ]
 }

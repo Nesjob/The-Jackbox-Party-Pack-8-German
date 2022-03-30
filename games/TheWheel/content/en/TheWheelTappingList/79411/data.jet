@@ -2,13 +2,14 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio"
+      "n": "IntroAudio",
+      "s": "Ich hoffe, ihr erreicht bei der nächsten Frage eine Goldmedaille. Oder Silber. Oder auch nur Bronze. "
     },
     {
       "t": "B",
@@ -23,14 +24,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio",
-      "s": "Go for gold! Or silver. Bronze is...fine."
+      "n": "FollowupAudio"
     },
     {
       "t": "B",

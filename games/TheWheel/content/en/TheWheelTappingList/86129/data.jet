@@ -2,14 +2,13 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio",
-      "s": "Are you reeling in the years? Stowin' away the time? Mad at me for asking you a Steely Dan question?"
+      "n": "IntroAudio"
     },
     {
       "t": "B",
@@ -24,25 +23,23 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio",
-      "s": "If you can't perform sufficiently well here, I'll gladly replace you with a veteran session musician. Yes, that's a Steely Dan joke."
+      "n": "FollowupAudio"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "The members of Steely Dan and I have a lot in common. For instance, one time Michael McDonald sang backup on one of my mountaintop orations. The audio quality was pristine!"
+      "n": "OutroAudio"
     }
   ]
 }

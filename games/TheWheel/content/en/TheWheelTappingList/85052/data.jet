@@ -2,13 +2,14 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio"
+      "n": "IntroAudio",
+      "s": "In der nächsten Frage geht es um richtige Hengste! Nein, nein wartet, das klingt falsch. Ganz falsch! Äh... Vergesst das einfach, ja? (Räuspern)"
     },
     {
       "t": "B",

@@ -2,14 +2,13 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio",
-      "s": "Another question for my happy campers! Get it? Well, you will in about five seconds."
+      "n": "IntroAudio"
     },
     {
       "t": "B",
@@ -31,17 +30,18 @@
       "t": "A",
       "v": "followup",
       "n": "FollowupAudio",
-      "s": "As in hiking in the wilderness, not gallivanting throughout Europe."
+      "s": "Notgepäck meint stets zusammengepackte Gegenstände, damit im Falle eines Notfalls keine Taschen und Rucksäcke gepackt werden müssen."
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio"
+      "n": "OutroAudio",
+      "s": "Und, wie gut seid ihr auf den drohenden Weltuntergang vorbereitet? Ups, ich meine natürlich den EVENTUELL drohenden Weltuntergang. Ist jetzt nicht so, als hätte ich irgendwie geheimes Wissen oder so... (flüsternd) Kauft Gold!"
     }
   ]
 }

@@ -9,7 +9,7 @@
       "t": "A",
       "v": "intro",
       "n": "IntroAudio",
-      "s": "You know, I knew some of your ancestors back in the day. Oh, the stories I could tell!"
+      "s": "Wisst ihr, ich kenne einige eurer Vorfahren. Ihr glaubt nicht, was ich für Geschichten erzählen könnte."
     },
     {
       "t": "B",
@@ -31,7 +31,7 @@
       "t": "A",
       "v": "followup",
       "n": "FollowupAudio",
-      "s": "Let's see how you've evolved."
+      "s": "Dann schauen wir mal, ob ihr wisst, wie ihr so entstanden seid."
     },
     {
       "t": "B",
@@ -42,7 +42,7 @@
       "t": "A",
       "v": "outro",
       "n": "OutroAudio",
-      "s": "I must give you \"Sapiens\" credit. You're a little taller and you have a much better sense of irony."
+      "s": "Eins muss man euch \"Sapiens\" lassen, ihr seid immerhin etwas größer und habt einen sehr viel besseren Sinn für Humor als der Rest auf der Liste."
     }
   ]
 }
