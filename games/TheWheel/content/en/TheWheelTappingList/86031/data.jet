@@ -19,7 +19,7 @@
       "t": "A",
       "v": "prompt",
       "n": "PromptAudio",
-      "s": "Wer sind die ursprünglichen neun Mitglieder des Wu-Tang-Clans?"
+      "s": "Wobei handelt es sich um [i]reelle Zahlen[/i]?"
     },
     {
       "t": "B",
@@ -33,13 +33,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio"
+      "n": "OutroAudio",
+      "s": "Ha, damit hättet ihr nicht gerechnet, was? Alles war richtig."
     }
   ]
 }

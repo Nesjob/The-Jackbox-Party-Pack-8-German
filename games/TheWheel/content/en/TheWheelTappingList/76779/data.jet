@@ -33,14 +33,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "I actually have my own bucket list, but seeing as I'm immortal, I keep putting it off. I am a TERRIBLE procrastinator."
+      "n": "OutroAudio"
     }
   ]
 }

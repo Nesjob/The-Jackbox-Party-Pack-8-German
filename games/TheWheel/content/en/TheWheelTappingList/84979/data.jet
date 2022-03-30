@@ -23,14 +23,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio",
-      "s": "Good luck! Have fun, kids!"
+      "n": "FollowupAudio"
     },
     {
       "t": "B",
@@ -41,7 +40,7 @@
       "t": "A",
       "v": "outro",
       "n": "OutroAudio",
-      "s": "Now that all of you hate me, let's move on!"
+      "s": "Jetzt wo ihr mich alle hasst, können wir ja beruhigt weitermachen."
     }
   ]
 }

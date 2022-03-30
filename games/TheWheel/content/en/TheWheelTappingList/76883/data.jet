@@ -2,14 +2,13 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio",
-      "s": "This one has a bit of BITE to it..."
+      "n": "IntroAudio"
     },
     {
       "t": "B",
@@ -20,7 +19,7 @@
       "t": "A",
       "v": "prompt",
       "n": "PromptAudio",
-      "s": "Welches sind Schichten der Erdatmosphäre?"
+      "s": "Welches sind keine Schichten der Erdatmosphäre?"
     },
     {
       "t": "B",
@@ -31,18 +30,17 @@
       "t": "A",
       "v": "followup",
       "n": "FollowupAudio",
-      "s": "TEETH!"
+      "s": "Leider muss ich euch enttäuschen, Luft ist keine der Auswahlmöglichkeiten."
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "You know if you touch someone's teeth your touching their bones? Weird, right?"
+      "n": "OutroAudio"
     }
   ]
 }

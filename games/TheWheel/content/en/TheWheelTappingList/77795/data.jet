@@ -23,24 +23,24 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "Der Große Wagen steckt leider noch im Stau, ist daher diesmal keine der Auswahlmöglichkeiten. Tja, nächstes Mal wieder!"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "That was fun. Is anyone else seeing stars?"
+      "n": "OutroAudio"
     }
   ]
 }

@@ -2,14 +2,13 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio",
-      "s": "Oh my me! This one takes me back..."
+      "n": "IntroAudio"
     },
     {
       "t": "B",
@@ -24,13 +23,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "Oh, da muss ich direkt an alte Zeiten denken."
     },
     {
       "t": "B",
@@ -41,7 +41,7 @@
       "t": "A",
       "v": "outro",
       "n": "OutroAudio",
-      "s": "Now Tartarus... he could close down an all-you-can-eat buffet by himself. Used to call him \"The Abyss\".  Ha - what a guy."
+      "s": "Tartarus hab ich mal kennengelernt. Mann, ist der verfressen. Der frisst das ganze \"All You Can Eat\"-Restaurant leer. Und Tischmanieren hat er auch nicht."
     }
   ]
 }

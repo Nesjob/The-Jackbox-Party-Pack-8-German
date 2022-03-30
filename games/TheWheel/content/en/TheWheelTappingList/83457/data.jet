@@ -2,13 +2,14 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio"
+      "n": "IntroAudio",
+      "s": "Und die nächste Frage haaandelt vooon... (genervt) Fußball."
     },
     {
       "t": "B",
@@ -30,7 +31,7 @@
       "t": "A",
       "v": "followup",
       "n": "FollowupAudio",
-      "s": "Ahem. [unenthused] Goal. Did I do that right? With a long \"O\"? Ok. [even more unenthused] Goooooal."
+      "s": "Ist das nicht etwas plump? Anderen Leuten dabei zuzusehen, wie sie einen armen Ball jagen und auf ihn eintreten?"
     },
     {
       "t": "B",

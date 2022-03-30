@@ -2,14 +2,13 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio",
-      "s": "Two beautiful categories stand before me, but I only have one list of correct answers in my vast repository of knowledge."
+      "n": "IntroAudio"
     },
     {
       "t": "B",

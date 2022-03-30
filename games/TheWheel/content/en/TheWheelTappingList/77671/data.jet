@@ -33,13 +33,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio"
+      "n": "OutroAudio",
+      "s": "Okay, sind wir ganz ehrlich: Habt ihr auch nur von einer der Personen schon mal ein Lied gehört?"
     }
   ]
 }

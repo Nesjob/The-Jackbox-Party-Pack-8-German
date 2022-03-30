@@ -23,14 +23,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio",
-      "s": "Warm yourself up with a nice vegetable, why doncha!"
+      "n": "FollowupAudio"
     },
     {
       "t": "B",

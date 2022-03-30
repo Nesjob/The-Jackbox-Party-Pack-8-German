@@ -33,14 +33,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "I'm glad there's only eight so it's manageable. If there were ten or fifteen, most of you would never even try for enlightenment."
+      "n": "OutroAudio"
     }
   ]
 }

@@ -30,17 +30,18 @@
       "t": "A",
       "v": "followup",
       "n": "FollowupAudio",
-      "s": "I may be a wise, all-knowing Wheel, but... please don't ask me what a jellicle cat is."
+      "s": "Ihr müsst diese Figuren nicht kennen! Tippt einfach die Namen an, die am bescheuertsten klingen."
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio"
+      "n": "OutroAudio",
+      "s": "Wie ich sehe, habt ihr alle fleißig meinen Ratschlag befolgt. Ihr könnt jetzt übrigens aufhören, euren Nebenspieler anzustupsen, der gibt keine Punkte."
     }
   ]
 }

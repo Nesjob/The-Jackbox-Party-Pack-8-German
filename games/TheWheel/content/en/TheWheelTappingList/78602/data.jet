@@ -33,13 +33,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio"
+      "n": "OutroAudio",
+      "s": "Diese Länder wären echt nichts für mich. In meiner Größe ist es echt schwer, ein schattiges Plätzchen zu finden."
     }
   ]
 }

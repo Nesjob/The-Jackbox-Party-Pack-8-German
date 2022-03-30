@@ -30,7 +30,7 @@
       "t": "A",
       "v": "followup",
       "n": "FollowupAudio",
-      "s": "Round One! Fight!"
+      "s": "Runde Eins! Kämpft!"
     },
     {
       "t": "B",
@@ -41,7 +41,7 @@
       "t": "A",
       "v": "outro",
       "n": "OutroAudio",
-      "s": "Now that's what I call a Fatality!"
+      "s": "Das nenn ich ein Gemetzel! Wenn ich Hände hätte, um einen Controller zu halten, ich würde schon mal gerne mitspielen."
     }
   ]
 }

@@ -23,24 +23,24 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "(Lachen) Habt ihr auch als erstes Saugetier gelesen?"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "You've got practically six types of magic users but no omnipotent circle-shaped deities, huh? You know, representation matters!"
+      "n": "OutroAudio"
     }
   ]
 }

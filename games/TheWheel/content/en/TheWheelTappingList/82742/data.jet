@@ -23,13 +23,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "Eigentlich schon ganz praktisch so ein Beutel. Zum Beispiel hat man stets eine Tasche dabei, um Einkäufe zu verstauen."
     },
     {
       "t": "B",

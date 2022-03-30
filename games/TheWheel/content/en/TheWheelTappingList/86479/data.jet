@@ -2,14 +2,13 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio",
-      "s": "No matter when you play this, 'tis the season to stock up on deviled egg ornaments!"
+      "n": "IntroAudio"
     },
     {
       "t": "B",
@@ -24,13 +23,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "Schnapp sie dir alle! Also alle richtigen Antworten. "
     },
     {
       "t": "B",
@@ -41,7 +41,7 @@
       "t": "A",
       "v": "outro",
       "n": "OutroAudio",
-      "s": "So many Christmas ornaments. Whatever happened to jamming a bunch of birds in a pear tree and calling it a day?"
+      "s": "Ich sehe schon, einige unter euch haben ihren Pokédex anscheinend nie komplettiert. Ich bin enttäuscht."
     }
   ]
 }

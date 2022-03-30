@@ -23,23 +23,25 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "Irgendwie ist dieser Name ziemlich irreführend. Süßwasser schmeckt gar nicht süß, Salzwasser aber dafür salzig. "
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio"
+      "n": "OutroAudio",
+      "s": "Okay ich hab's. Wie wäre es mit \"Wasser\" und \"Wasser mit Salz-Aroma\"? Gleich viel eindeutiger!"
     }
   ]
 }

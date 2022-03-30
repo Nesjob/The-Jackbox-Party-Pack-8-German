@@ -2,13 +2,14 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio"
+      "n": "IntroAudio",
+      "s": "Vorsicht, jetzt kommt ein sehr kontroverses Thema."
     },
     {
       "t": "B",
@@ -23,24 +24,24 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio",
-      "s": "Remember if it's not Frito Lay, it's just Frito... NAY. Yeah, I just made that up."
+      "n": "FollowupAudio"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio"
+      "n": "OutroAudio",
+      "s": "Es ist ein schwieriges Thema, ich weiß. Aber ihr könnt die Mistgabeln wieder einpacken. Ehrlich jetzt."
     }
   ]
 }

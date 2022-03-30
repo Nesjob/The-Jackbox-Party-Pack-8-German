@@ -33,13 +33,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio"
+      "n": "OutroAudio",
+      "s": "Ach Hawaii, schön dort. Aber leider komplett überlaufen. Außerdem sollte ich mich dort eh nicht mehr blicken lassen, da ich es mir vielleicht ganz aus Versehen mit der Vulkangöttin Pele verscherzt habe..."
     }
   ]
 }

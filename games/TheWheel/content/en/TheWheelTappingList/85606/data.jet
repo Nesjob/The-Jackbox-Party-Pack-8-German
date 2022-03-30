@@ -2,14 +2,13 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio",
-      "s": "HI! I’m Wheelie! Looks like you’re trying to answer a new prompt!"
+      "n": "IntroAudio"
     },
     {
       "t": "B",

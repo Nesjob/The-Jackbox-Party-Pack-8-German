@@ -2,13 +2,14 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio"
+      "n": "IntroAudio",
+      "s": "Ihr habt keine WAL, hier kommt die Frage:"
     },
     {
       "t": "B",
@@ -30,17 +31,18 @@
       "t": "A",
       "v": "followup",
       "n": "FollowupAudio",
-      "s": "This is a real whale of a question, I'll tell you that."
+      "s": "Trefft eure AusWAL. (Lachen)"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio"
+      "n": "OutroAudio",
+      "s": "Ich hoffe, das war für euch keine zu harte WALnuss zum Knacken."
     }
   ]
 }

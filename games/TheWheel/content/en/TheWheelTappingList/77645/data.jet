@@ -23,13 +23,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "Um ein Haar wäre ich auch in dieser Liste vertreten gewesen! Aber dann haben die beim Casting gesagt, ich solle wiederkommen, wenn ich Arme hätte."
     },
     {
       "t": "B",

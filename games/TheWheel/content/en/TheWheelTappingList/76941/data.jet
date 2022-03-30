@@ -2,13 +2,14 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio"
+      "n": "IntroAudio",
+      "s": "Wie heißt es so schön: Wer nicht fragt, bleibt dumm. Und daher starten wir besser schnell mit der nächsten Frage."
     },
     {
       "t": "B",
@@ -23,14 +24,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio",
-      "s": "It's a beautiful day for trivia - won't you play mine?"
+      "n": "FollowupAudio"
     },
     {
       "t": "B",

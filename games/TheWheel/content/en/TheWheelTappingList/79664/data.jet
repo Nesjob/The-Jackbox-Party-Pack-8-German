@@ -2,14 +2,13 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio",
-      "s": "The next question will prove, once and for all, whether you're knotty or nice."
+      "n": "IntroAudio"
     },
     {
       "t": "B",
@@ -34,14 +33,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "You were really stringing me along watching you get all tied up there  I'm sorry, are Puns knot your thing?"
+      "n": "OutroAudio"
     }
   ]
 }

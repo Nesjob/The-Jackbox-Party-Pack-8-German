@@ -23,13 +23,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "Warum gibt es keine Gewerkschaft für Gottheiten?! Ich habe auch Urlaub verdient!"
     },
     {
       "t": "B",

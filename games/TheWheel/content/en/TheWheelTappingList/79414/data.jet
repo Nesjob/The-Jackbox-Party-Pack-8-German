@@ -2,14 +2,13 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio",
-      "s": "To paraphrase the immortal words of those gentle bards, Smash Mouth, you might as well be walking on... the MOON???"
+      "n": "IntroAudio"
     },
     {
       "t": "B",
@@ -24,13 +23,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "Ich muss zugeben, ich bin etwas neidisch auf diese Personen. Einmal über den Mond zu rollen, ein wahrer Traum."
     },
     {
       "t": "B",

@@ -33,13 +33,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio"
+      "n": "OutroAudio",
+      "s": "Nun, jetzt weiß ich immerhin, wem ich bei meinem nächsten Restaurantbesuch die labbrigen Pommes zu verdanken habe."
     }
   ]
 }

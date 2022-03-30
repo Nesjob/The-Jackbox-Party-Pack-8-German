@@ -23,13 +23,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "Wie ein Autounfall, jeder hat schon mal einen gesehen und am Ende sind alle unzufrieden."
     },
     {
       "t": "B",

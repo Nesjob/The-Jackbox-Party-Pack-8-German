@@ -23,25 +23,23 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio",
-      "s": "NATO stands for the North Atlantic Treaty Organization. I know you knew that. Sorry!"
+      "n": "FollowupAudio"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "If I had a friend named Nate, I'd call him NATO. That'd be fun."
+      "n": "OutroAudio"
     }
   ]
 }

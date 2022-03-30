@@ -2,13 +2,14 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio"
+      "n": "IntroAudio",
+      "s": "Wir befinden uns im Jahre 50 v. Chr.. Ganz Gallien ist von den Römern besetzt... Ganz Gallien? Nein!"
     },
     {
       "t": "B",
@@ -23,14 +24,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio",
-      "s": "AKA: The most prestigious literary honor in America."
+      "n": "FollowupAudio"
     },
     {
       "t": "B",

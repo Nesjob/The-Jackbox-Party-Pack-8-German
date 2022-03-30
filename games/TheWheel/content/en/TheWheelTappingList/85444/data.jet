@@ -23,13 +23,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "Wer produziert all diese Filme? Und fast noch wichtiger: Wer soll sich die alle anschauen?"
     },
     {
       "t": "B",

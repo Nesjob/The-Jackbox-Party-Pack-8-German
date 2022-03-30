@@ -23,13 +23,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "Diese Frage ist für alle, die im Kunstunterricht in der Schule immer geschlafen haben. Ja, ich meine dich, nicht die Person neben dir. Dich!"
     },
     {
       "t": "B",

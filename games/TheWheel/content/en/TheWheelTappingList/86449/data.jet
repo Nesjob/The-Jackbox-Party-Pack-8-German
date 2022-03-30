@@ -2,14 +2,13 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio",
-      "s": "It’s time to enter a dimension between light and shadow..."
+      "n": "IntroAudio"
     },
     {
       "t": "B",
@@ -24,13 +23,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "Zeit für nutzloses Wissen: Die Serie wurde in über 120 Länder verkauft!"
     },
     {
       "t": "B",

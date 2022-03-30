@@ -33,14 +33,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "I think Battlefield Earth might have been better if they had a little light dance scene."
+      "n": "OutroAudio"
     }
   ]
 }

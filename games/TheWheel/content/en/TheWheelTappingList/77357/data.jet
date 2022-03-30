@@ -23,13 +23,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "Diese blöden Mistviecher sollen aufhören, andauernd auf meinem Tisch ihre Hinterlassenschaften zu verteilen. Bis das passiert, können die gerne bleiben wo der Pfeffer wächst."
     },
     {
       "t": "B",

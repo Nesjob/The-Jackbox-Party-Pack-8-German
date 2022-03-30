@@ -33,13 +33,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio"
+      "n": "OutroAudio",
+      "s": "Royals?! Pah! Ich warte seit Jahrhunderten auf den Tag, an dem ein Film über mich gedreht wird. Hallo? Allwissendes Rad hier?! Nicht mal eine Dokumentation bei Arte habe ich bekommen!"
     }
   ]
 }

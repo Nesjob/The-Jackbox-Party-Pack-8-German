@@ -2,14 +2,13 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio",
-      "s": "This little number is for my pescatarian friends!"
+      "n": "IntroAudio"
     },
     {
       "t": "B",
@@ -24,24 +23,24 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "Ein Leben lang mit demselben Partner? Nach über 5000 Jahren wird das mit der Zeit doch etwas anstrengend..."
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "A bad day of fishing is still better than a good day at the office, am I right? No? Okay."
+      "n": "OutroAudio"
     }
   ]
 }

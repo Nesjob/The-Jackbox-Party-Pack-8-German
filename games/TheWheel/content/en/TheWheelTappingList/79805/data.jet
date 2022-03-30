@@ -9,7 +9,7 @@
       "t": "A",
       "v": "intro",
       "n": "IntroAudio",
-      "s": "For the next question, we will boldly go where no wheel has gone before... (laughs) sorry, couldn't help myself."
+      "s": "Mit der nächsten Frage dringen wir in Galaxien vor, die nie ein Rad zuvor gesehen hat... (Lachen) Entschuldigt, ich konnte nicht anders."
     },
     {
       "t": "B",
@@ -34,13 +34,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio"
+      "n": "OutroAudio",
+      "s": "Wir sind das Rad, ihr Punktestand wird assimiliert werden! Widerstand ist zwecklos. Verhandlung ist irrelevant!"
     }
   ]
 }

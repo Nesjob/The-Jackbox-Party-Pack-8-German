@@ -49,9 +49,6 @@
     },
     {
      "text": "Kashkkirkohl"
-    },
-    {
-     "text": "Kaunassalat"
     }
    ],
    "id": "76698",
@@ -84,37 +81,19 @@
    "category": "Geography & Landmarks",
    "decoys": [
     {
-     "text": "Rothaargebirge"
-    },
-    {
      "text": "Westerwald"
     },
     {
      "text": "Eifel"
     },
     {
-     "text": "Hunsrück"
-    },
-    {
      "text": "Taunus"
-    },
-    {
-     "text": "Vogelsberg"
     },
     {
      "text": "Thüringer Wald"
     },
     {
      "text": "Rhön"
-    },
-    {
-     "text": "Spessart"
-    },
-    {
-     "text": "Fränkische Alb"
-    },
-    {
-     "text": "Oberpfälzer Wald"
     },
     {
      "text": "Odenwald"
@@ -522,7 +501,7 @@
    "id": "76761",
    "isValid": "",
    "prompt": "Welche dieser Künstler und Bands sind Stand 2021 Mitglieder der “Rock and Roll Hall of Fame”?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -829,6 +808,9 @@
     },
     {
      "text": "[i]Männer haben keine Angst, denken die Frauen![/i]"
+    },
+    {
+     "text": "[i]Männer haben Recht, sagen die Männer![/i]"
     }
    ],
    "id": "76771",
@@ -882,7 +864,7 @@
    "id": "76772",
    "isValid": "",
    "prompt": "Welche Waffen hat Wile E. Coyote gegen den Road Runner eingesetzt?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -981,25 +963,13 @@
    "category": "Factoids",
    "decoys": [
     {
-     "text": "Orangener Lackpilz"
-    },
-    {
      "text": "Katzenschweif"
-    },
-    {
-     "text": "Roter Schönling"
     },
     {
      "text": "Jakobusohr"
     },
     {
-     "text": "Kaiserrübling"
-    },
-    {
      "text": "Großer Vasenschwamm"
-    },
-    {
-     "text": "Zitronendornkappe"
     },
     {
      "text": "Pferdefeige"
@@ -1047,9 +1017,6 @@
      "text": "Ein Kissen stopfen"
     },
     {
-     "text": "Kuscheln"
-    },
-    {
      "text": "Musik machen"
     },
     {
@@ -1057,9 +1024,6 @@
     },
     {
      "text": "Bei [i]Beate Uhse[/i] einkaufen"
-    },
-    {
-     "text": "Auf ein Date gehen"
     },
     {
      "text": "Verschenken"
@@ -1177,12 +1141,6 @@
     },
     {
      "text": "[i]Promi Express[/i]"
-    },
-    {
-     "text": "[i]Frau des Tages[/i]"
-    },
-    {
-     "text": "[i]50 CENT[/i]"
     }
    ],
    "id": "76777",
@@ -1281,16 +1239,10 @@
      "text": "Nieserich"
     },
     {
-     "text": "Schlaubi"
-    },
-    {
      "text": "Grummel"
     },
     {
      "text": "Xilebo"
-    },
-    {
-     "text": "Nestor"
     },
     {
      "text": "Berti"
@@ -1356,7 +1308,7 @@
    "id": "76780",
    "isValid": "",
    "prompt": "Was ist auf dem Gemälde “[i]Ein Sonntagnachmittag auf der Insel La Grande Jatte[/i]” von Georges Seurat zu sehen?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1440,9 +1392,6 @@
      "text": "[i]Muppets Most Wanted[/i]"
     },
     {
-     "text": "[i]Inglourious Basterds[/i]"
-    },
-    {
      "text": "[i]Keinohrhasen[/i]"
     },
     {
@@ -1500,9 +1449,6 @@
      "text": "Die Katze"
     },
     {
-     "text": "Der König"
-    },
-    {
      "text": "Das Leben"
     },
     {
@@ -1520,7 +1466,7 @@
    ],
    "id": "76796",
    "isValid": "",
-   "prompt": "Welche Tarotkarten findet man in einem “Tarot de Marseille”-Set?",
+   "prompt": "Welche Tarotkarten findet man in einem klassischen “Tarot de Marseille”-Set?",
    "us": false,
    "x": false
   },
@@ -1632,9 +1578,6 @@
      "text": "Fitnessstudio"
     },
     {
-     "text": "Car-Sharing"
-    },
-    {
      "text": "Dachboden der Eltern"
     },
     {
@@ -1642,9 +1585,6 @@
     },
     {
      "text": "Film-Convention"
-    },
-    {
-     "text": "Klassentreffen"
     }
    ],
    "id": "76799",
@@ -1706,7 +1646,7 @@
    ],
    "id": "76822",
    "isValid": "",
-   "prompt": "Welche Farben sind Rottöne?",
+   "prompt": "Welche dieser Farben sind Rottöne?",
    "us": false,
    "x": false
   },
@@ -1734,9 +1674,6 @@
    "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "Kohlenstoff"
-    },
-    {
      "text": "Nobelium"
     },
     {
@@ -1744,9 +1681,6 @@
     },
     {
      "text": "Hassium"
-    },
-    {
-     "text": "Radium"
     },
     {
      "text": "Kryptonit"
@@ -1791,9 +1725,6 @@
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "[i]Children of Men[/i]"
-    },
-    {
      "text": "[i]2012 Armageddon[/i]"
     },
     {
@@ -1815,7 +1746,7 @@
    "id": "76824",
    "isValid": "",
    "prompt": "Welche dieser Filme stammen von Roland Emmerich?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2092,12 +2023,6 @@
     },
     {
      "text": "Elefant"
-    },
-    {
-     "text": "Rotschnabelbülbül"
-    },
-    {
-     "text": "Schnabeltier"
     }
    ],
    "id": "76852",
@@ -2206,12 +2131,6 @@
     },
     {
      "text": "[i]Das Mädchen mit dem Perlenohrgehänge[/i]"
-    },
-    {
-     "text": "[i]Das Orakel vom Berge[/i]"
-    },
-    {
-     "text": "[i]Fünfzehn Sonnenblumen[/i]"
     }
    ],
    "id": "76854",
@@ -2236,6 +2155,9 @@
     },
     {
      "text": "Efraimstochter"
+    },
+    {
+     "text": "Langstrumpf"
     }
    ],
    "category": "Literature",
@@ -2256,15 +2178,12 @@
      "text": "Annika"
     },
     {
-     "text": "Philippina"
-    },
-    {
      "text": "Tellicherry"
     }
    ],
    "id": "76863",
    "isValid": "",
-   "prompt": "Welches sind Vornamen von Pippi Langstrumpf?",
+   "prompt": "Welches sind Vor- oder Nachnamen von Pippi Langstrumpf?",
    "us": false,
    "x": false
   },
@@ -2319,24 +2238,6 @@
   {
    "answers": [
     {
-     "text": "Troposphäre"
-    },
-    {
-     "text": "Stratosphäre"
-    },
-    {
-     "text": "Mesosphäre"
-    },
-    {
-     "text": "Thermosphäre"
-    },
-    {
-     "text": "Exosphäre"
-    }
-   ],
-   "category": "Science & Medicine",
-   "decoys": [
-    {
      "text": "Mikrosphäre"
     },
     {
@@ -2361,9 +2262,27 @@
      "text": "Asthenosphäre"
     }
    ],
+   "category": "Science & Medicine",
+   "decoys": [
+    {
+     "text": "Troposphäre"
+    },
+    {
+     "text": "Stratosphäre"
+    },
+    {
+     "text": "Mesosphäre"
+    },
+    {
+     "text": "Thermosphäre"
+    },
+    {
+     "text": "Exosphäre"
+    }
+   ],
    "id": "76883",
    "isValid": "",
-   "prompt": "Welches sind Schichten der Erdatmosphäre?",
+   "prompt": "Welches sind keine Schichten der Erdatmosphäre?",
    "us": false,
    "x": false
   },
@@ -2616,16 +2535,10 @@
      "text": "Pom-Bär"
     },
     {
-     "text": "Yakult Original"
-    },
-    {
      "text": "Frucht-Tiger"
     },
     {
      "text": "Kinder Pinguí"
-    },
-    {
-     "text": "Haribo Berries"
     },
     {
      "text": "Monster-Backe Knister"
@@ -2736,9 +2649,6 @@
      "text": "Bucheckern"
     },
     {
-     "text": "Echte Walnuss"
-    },
-    {
      "text": "Edelkastanie"
     },
     {
@@ -2751,18 +2661,12 @@
      "text": "Haselnuss"
     },
     {
-     "text": "Hanfnuss"
-    },
-    {
      "text": "Macadamianuss"
-    },
-    {
-     "text": "Steinnuss"
     }
    ],
    "id": "76955",
    "isValid": "",
-   "prompt": "Wobei handelt es sich im botanischen Sinn nicht um Nüsse?",
+   "prompt": "Wobei handelt es sich im botanischen Sinn NICHT um Nüsse?",
    "us": false,
    "x": false
   },
@@ -2853,9 +2757,6 @@
    "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "Perpendicular"
-    },
-    {
      "text": "Baristratus"
     },
     {
@@ -2872,9 +2773,6 @@
     },
     {
      "text": "Stratospherimbus"
-    },
-    {
-     "text": "Altonimbus"
     }
    ],
    "id": "76958",
@@ -3030,9 +2928,6 @@
      "text": "Kaffeesatz"
     },
     {
-     "text": "Wein"
-    },
-    {
      "text": "Diamanten"
     },
     {
@@ -3046,9 +2941,6 @@
     },
     {
      "text": "Zerbrochener Spiegel"
-    },
-    {
-     "text": "Duftkerze"
     }
    ],
    "id": "77279",
@@ -3135,13 +3027,7 @@
    "category": "Geography & Landmarks",
    "decoys": [
     {
-     "text": "Opernhaus in Sydney"
-    },
-    {
      "text": "Moai Steinfiguren auf den Osterinseln"
-    },
-    {
-     "text": "Eiffelturm in Paris"
     },
     {
      "text": "Stonehenge in Großbritannien"
@@ -3157,9 +3043,6 @@
     },
     {
      "text": "Alhambra in Spanien"
-    },
-    {
-     "text": "Akropolis in Griechenland"
     }
    ],
    "id": "77335",
@@ -3270,13 +3153,7 @@
    "category": "Music",
    "decoys": [
     {
-     "text": "[i]Heimweh[/i]"
-    },
-    {
      "text": "[i]Federleicht[/i]"
-    },
-    {
-     "text": "[i]Jetzt erst Recht[/i]"
     },
     {
      "text": "[i]Mein Herz[/i]"
@@ -3289,12 +3166,6 @@
     },
     {
      "text": "[i]100.000 Wunder[/i]"
-    },
-    {
-     "text": "[i]Der Urknall unserer Liebe[/i]"
-    },
-    {
-     "text": "[i]Ohne dich[/i]"
     },
     {
      "text": "[i]Du hast[/i]"
@@ -3408,25 +3279,16 @@
      "text": "Habicht"
     },
     {
-     "text": "Kleiber"
-    },
-    {
      "text": "Erlenzeisig"
     },
     {
      "text": "Gimpel"
     },
     {
-     "text": "Haussperling"
-    },
-    {
      "text": "Haubenmeise"
     },
     {
      "text": "Türkentaube"
-    },
-    {
-     "text": "Buntspecht"
     }
    ],
    "id": "77357",
@@ -3651,22 +3513,13 @@
      "text": "Trash Metal"
     },
     {
-     "text": "Demon Metal"
-    },
-    {
      "text": "Zombie Metal"
-    },
-    {
-     "text": "Blacked Djent"
     },
     {
      "text": "Bowelgrind"
     },
     {
      "text": "Power Core"
-    },
-    {
-     "text": "Progressive Nu Metal"
     },
     {
      "text": "Christian Worship Metal"
@@ -3837,9 +3690,6 @@
      "text": "Arctus Baran"
     },
     {
-     "text": "Luke Skywater"
-    },
-    {
      "text": "Count Boku"
     },
     {
@@ -3954,12 +3804,6 @@
      "text": "Alice Merton"
     },
     {
-     "text": "Ben Dolic"
-    },
-    {
-     "text": "Jamie-Lee Kriewitz"
-    },
-    {
      "text": "Conchita Wurst"
     }
    ],
@@ -4003,9 +3847,6 @@
     },
     {
      "text": "Charlie Parker"
-    },
-    {
-     "text": "Ronnie Ray"
     },
     {
      "text": "Gram Parsons"
@@ -4056,9 +3897,6 @@
      "text": "Schleswig-Holstein"
     },
     {
-     "text": "Hamburg"
-    },
-    {
      "text": "Mecklenburg-Vorpommern"
     },
     {
@@ -4066,12 +3904,6 @@
     },
     {
      "text": "Brandenburg"
-    },
-    {
-     "text": "Berlin"
-    },
-    {
-     "text": "Sachsen"
     }
    ],
    "id": "77674",
@@ -4082,27 +3914,6 @@
   },
   {
    "answers": [
-    {
-     "text": "[i]Fangen[/i]"
-    },
-    {
-     "text": "[i]Triathlon[/i]"
-    },
-    {
-     "text": "[i]Rhythmische Sportgymnastik[/i]"
-    },
-    {
-     "text": "[i]Hockeygolf[/i]"
-    },
-    {
-     "text": "[i]Dressurreiten[/i]"
-    },
-    {
-     "text": "[i]Inline-Skating[/i]"
-    }
-   ],
-   "category": "Film & TV",
-   "decoys": [
     {
      "text": "[i]Quizboxen[/i]"
     },
@@ -4128,9 +3939,30 @@
      "text": "[i]Boxen[/i]"
     }
    ],
+   "category": "Film & TV",
+   "decoys": [
+    {
+     "text": "[i]Fangen[/i]"
+    },
+    {
+     "text": "[i]Triathlon[/i]"
+    },
+    {
+     "text": "[i]Rhythmische Sportgymnastik[/i]"
+    },
+    {
+     "text": "[i]Hockeygolf[/i]"
+    },
+    {
+     "text": "[i]Dressurreiten[/i]"
+    },
+    {
+     "text": "[i]Inline-Skating[/i]"
+    }
+   ],
    "id": "77677",
    "isValid": "",
-   "prompt": "Welche dieser [i]TV-Total[/i]-Sportsendungen existieren NICHT?",
+   "prompt": "Welches sind echte [i]TV-Total[/i]-Sportsendungen?",
    "us": false,
    "x": false
   },
@@ -4320,9 +4152,6 @@
      "text": "Munition"
     },
     {
-     "text": "Armbrust"
-    },
-    {
      "text": "Brecheisen"
     },
     {
@@ -4330,9 +4159,6 @@
     },
     {
      "text": "[i]Nerf[/i]-Spielzeugblaster"
-    },
-    {
-     "text": "Rasierklingen"
     },
     {
      "text": "Schraubendreher"
@@ -4392,9 +4218,6 @@
      "text": "Kleines Kind, großes Aua"
     },
     {
-     "text": "Selbstloser Engel"
-    },
-    {
      "text": "Rettung in letzter Sekunde"
     },
     {
@@ -4402,9 +4225,6 @@
     },
     {
      "text": "Angst um Dr. Brinkmann"
-    },
-    {
-     "text": "Ein schrecklicher Verdacht"
     },
     {
      "text": "Rosenkrieg"
@@ -4569,9 +4389,6 @@
      "text": "Chemnitz"
     },
     {
-     "text": "Bonn"
-    },
-    {
      "text": "Kaiserslautern"
     },
     {
@@ -4582,9 +4399,6 @@
     },
     {
      "text": "Wolfsburg"
-    },
-    {
-     "text": "Wuppertal"
     },
     {
      "text": "Cottbus"
@@ -4630,9 +4444,6 @@
    "decoys": [
     {
      "text": "[i]TUC[/i] Lemon"
-    },
-    {
-     "text": "Raspberry Cheesecake"
     },
     {
      "text": "Cherry Chère"
@@ -4752,13 +4563,10 @@
    "category": "Film & TV",
    "decoys": [
     {
-     "text": "[i]Wissen![/i]"
+     "text": "[i]Muss man Wissen![/i]"
     },
     {
      "text": "[i]Besser Wissen[/i]"
-    },
-    {
-     "text": "[i]Wissen ist Macht[/i]"
     },
     {
      "text": "[i]Mikro[/i]"
@@ -4878,51 +4686,48 @@
   {
    "answers": [
     {
-     "text": "[i]Die Blechtrommel[/i]"
+     "text": "Kurbelwelle"
     },
     {
-     "text": "[i]Nirgendwo in Afrika[/i]"
+     "text": "Kolbenringe"
     },
     {
-     "text": "[i]Das Leben der Anderen[/i]"
+     "text": "Nocken"
+    },
+    {
+     "text": "Zahnriemen"
+    },
+    {
+     "text": "Dichtung"
+    },
+    {
+     "text": "Schwungrad"
+    },
+    {
+     "text": "Vergaser"
     }
    ],
-   "category": "Film & TV",
+   "category": "Vehicles",
    "decoys": [
     {
-     "text": "[i]Das Versprechen[/i]"
+     "text": "Koaxialantrieb"
     },
     {
-     "text": "[i]Bittere Ernte[/i]"
+     "text": "Animusring"
     },
     {
-     "text": "[i]Die Brücke[/i]"
+     "text": "Vogonen"
     },
     {
-     "text": "[i]Toni Erdmann[/i]"
+     "text": "Zyklonkammer"
     },
     {
-     "text": "[i]Systemsprenger[/i]"
-    },
-    {
-     "text": "[i]Die geliebten Schwestern[/i]"
-    },
-    {
-     "text": "[i]Mama, ich lebe[/i]"
-    },
-    {
-     "text": "[i]Die flambierte Frau[/i]"
-    },
-    {
-     "text": "[i]Werk ohne Autor[/i]"
-    },
-    {
-     "text": "[i]Das Boot[/i]"
+     "text": "Fluxkompensator"
     }
    ],
    "id": "77823",
    "isValid": "",
-   "prompt": "Welche dieser deutschen Filme gewannen den [i]Oscar[/i] als [i]bester internationaler Film[/i]?",
+   "prompt": "Welches davon sind Motorteile eines Autos?",
    "us": false,
    "x": false
   },
@@ -5071,15 +4876,12 @@
     },
     {
      "text": "John Hannah"
-    },
-    {
-     "text": "Ben Kingsley"
     }
    ],
    "id": "77924",
    "isValid": "",
    "prompt": "Welche dieser Schauspieler spielten schonmal Sherlock Holmes?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5112,13 +4914,7 @@
    "category": "Science & Medicine",
    "decoys": [
     {
-     "text": "Arnikablüten"
-    },
-    {
      "text": "Bärentraubenblätter"
-    },
-    {
-     "text": "Weißdornblüten"
     },
     {
      "text": "Zimtrinde"
@@ -5130,19 +4926,7 @@
      "text": "Ringelblumen"
     },
     {
-     "text": "Salbeiblätter"
-    },
-    {
-     "text": "Himbeerblätter"
-    },
-    {
      "text": "Johanniskraut"
-    },
-    {
-     "text": "Birkenblätter"
-    },
-    {
-     "text": "Lavendelblüten"
     },
     {
      "text": "Meerretichwurzel"
@@ -5188,9 +4972,6 @@
     },
     {
      "text": "[i]Kampf im Vollmondschein[/i]"
-    },
-    {
-     "text": "[i]Pass auf vor Bigfoot![/i]"
     },
     {
      "text": "[i]Der Schlaf der Medusa[/i]"
@@ -5286,34 +5067,19 @@
    "category": "Food & Drink",
    "decoys": [
     {
-     "text": "Avocado"
-    },
-    {
-     "text": "Banane"
-    },
-    {
-     "text": "Erdbeer"
+     "text": "Ananas"
     },
     {
      "text": "Kokosnuss"
     },
     {
-     "text": "Cappuccino"
-    },
-    {
      "text": "Vanille-Himbeer"
-    },
-    {
-     "text": "Ananas"
     },
     {
      "text": "Exotic"
     },
     {
      "text": "Rhabarber"
-    },
-    {
-     "text": "Birne"
     },
     {
      "text": "Stachelbeer-Sternanis"
@@ -5364,12 +5130,6 @@
      "text": "Washington"
     },
     {
-     "text": "Ammit"
-    },
-    {
-     "text": "Schenut"
-    },
-    {
      "text": "Merisma"
     },
     {
@@ -5404,6 +5164,9 @@
     },
     {
      "text": "Los Cabos, Mexiko"
+    },
+    {
+     "text": "Yucatan, Mexiko"
     }
    ],
    "category": "Film & TV",
@@ -5412,13 +5175,7 @@
      "text": "Groote Eylandt, Australien"
     },
     {
-     "text": "Sankt Petersburg, Russland"
-    },
-    {
      "text": "Vatikanstadt"
-    },
-    {
-     "text": "Dubai"
     },
     {
      "text": "Kuhului, Hawaii"
@@ -5431,10 +5188,7 @@
     },
     {
      "text": "Monaco"
-    },
-     {
-     "text": "Sylt, Deutschland"
-     }
+    }
    ],
    "id": "77955",
    "isValid": "",
@@ -5444,6 +5198,30 @@
   },
   {
    "answers": [
+    {
+     "text": "Kartoffeln"
+    },
+    {
+     "text": "Feta"
+    },
+    {
+     "text": "Eiernudeln (gekocht)"
+    },
+    {
+     "text": "Salami (Schwein)"
+    },
+    {
+     "text": "Ei (Gekocht)"
+    },
+    {
+     "text": "Sonnenblumenkernbrot"
+    },
+    {
+     "text": "Lachs"
+    }
+   ],
+   "category": "Food & Drink",
+   "decoys": [
     {
      "text": "Haselnüsse"
     },
@@ -5460,39 +5238,9 @@
      "text": "Croissant"
     }
    ],
-   "category": "Food & Drink",
-   "decoys": [
-    {
-     "text": "Kartoffeln"
-    },
-    {
-     "text": "Feta"
-    },
-    {
-     "text": "Camembert"
-    },
-    {
-     "text": "Eiernudeln (gekocht)"
-    },
-    {
-     "text": "Wassermelone"
-    },
-    {
-     "text": "Salami (Schwein)"
-    },
-    {
-     "text": "Ei (Gekocht)"
-    },
-    {
-     "text": "Brot"
-    },
-    {
-     "text": "Wasser"
-    }
-   ],
    "id": "78043",
    "isValid": "",
-   "prompt": "Welche dieser Lebensmittel haben mehr Kalorien als Haferflocken?",
+   "prompt": "Welche dieser Lebensmittel haben weniger Kalorien als Haferflocken?",
    "us": false,
    "x": false
   },
@@ -5658,12 +5406,6 @@
      "text": "Frankreich"
     },
     {
-     "text": "Irland"
-    },
-    {
-     "text": "Deutschland"
-    },
-    {
      "text": "Dänemark"
     },
     {
@@ -5674,9 +5416,6 @@
     },
     {
      "text": "Polen"
-    },
-    {
-     "text": "Belgien"
     },
     {
      "text": "Niederlande"
@@ -5787,9 +5526,6 @@
      "text": "Schwert"
     },
     {
-     "text": "Sturm"
-    },
-    {
      "text": "Angst-Antilope"
     }
    ],
@@ -5892,16 +5628,7 @@
      "text": "Sophie"
     },
     {
-     "text": "Freya"
-    },
-    {
-     "text": "Ava"
-    },
-    {
      "text": "Olivia"
-    },
-    {
-     "text": "Alise"
     },
     {
      "text": "Ardena"
@@ -5911,9 +5638,6 @@
     },
     {
      "text": "Doriana"
-    },
-    {
-     "text": "Sophine"
     },
     {
      "text": "Mildred"
@@ -6066,7 +5790,7 @@
      "text": "Braunschweig"
     },
     {
-     "text": "Stuttgart"
+     "text": "Potsdam"
     },
     {
      "text": "Hamburg"
@@ -6076,12 +5800,6 @@
     },
     {
      "text": "Leipzig"
-    },
-    {
-     "text": "Saarbrücken"
-    },
-    {
-     "text": "Potsdam"
     },
     {
      "text": "Trier"
@@ -6237,16 +5955,7 @@
      "text": "Kartoffelbovist"
     },
     {
-     "text": "Tiger-Ritterling"
-    },
-    {
      "text": "Frühjahrslorchel"
-    },
-    {
-     "text": "Schmetterlings-Tramete"
-    },
-    {
-     "text": "Tintenfischpilz"
     },
     {
      "text": "Karbol-Champignon"
@@ -6573,16 +6282,10 @@
      "text": "Frankreich"
     },
     {
-     "text": "Andorra"
-    },
-    {
      "text": "Dänemark"
     },
     {
      "text": "Polen"
-    },
-    {
-     "text": "Kroatien"
     },
     {
      "text": "Griechenland"
@@ -6592,15 +6295,6 @@
     },
     {
      "text": "Australien"
-    },
-    {
-     "text": "Kanada"
-    },
-    {
-     "text": "Georgien"
-    },
-    {
-     "text": "Litauen"
     }
    ],
    "id": "78267",
@@ -6780,9 +6474,6 @@
      "text": "[i]Das fünfte Buch Känguru[/i]"
     },
     {
-     "text": "[i]Das Känguru-Evangelium[/i]"
-    },
-    {
      "text": "[i]Ach, halt doch den Kant![/i]"
     }
    ],
@@ -6943,9 +6634,6 @@
     },
     {
      "text": "Pontius Pilatus"
-    },
-    {
-     "text": "Barabbas"
     },
     {
      "text": "Josef von Arimathäa"
@@ -7116,9 +6804,6 @@
      "text": "Haare wie eine Frau"
     },
     {
-     "text": "Handynutzung"
-    },
-    {
      "text": "Alkoholkonsum"
     },
     {
@@ -7167,16 +6852,10 @@
    "category": "Music",
    "decoys": [
     {
-     "text": "“Karl der Käfer”"
-    },
-    {
      "text": "“Kinder wollen leben, spielen, lachen”"
     },
     {
      "text": "“Häschen in der Grube”"
-    },
-    {
-     "text": "“Zeit für Abenteuer”"
     },
     {
      "text": "“Holt die Lichter aus dem Haus”"
@@ -7233,9 +6912,6 @@
      "text": "Bloody Holly"
     },
     {
-     "text": "Chad"
-    },
-    {
      "text": "Dracula"
     },
     {
@@ -7253,21 +6929,6 @@
   },
   {
    "answers": [
-    {
-     "text": "Mathematik"
-    },
-    {
-     "text": "Informatik"
-    },
-    {
-     "text": "Naturwissenschaft"
-    },
-    {
-     "text": "Technik"
-    }
-   ],
-   "category": "Factoids",
-   "decoys": [
     {
      "text": "Talgdrüse"
     },
@@ -7293,9 +6954,24 @@
      "text": "Tutzing"
     }
    ],
+   "category": "Factoids",
+   "decoys": [
+    {
+     "text": "Mathematik"
+    },
+    {
+     "text": "Informatik"
+    },
+    {
+     "text": "Naturwissenschaft"
+    },
+    {
+     "text": "Technik"
+    }
+   ],
    "id": "78414",
    "isValid": "",
-   "prompt": "Wofür zum Geier steht die Abkürzung “MINT”?",
+   "prompt": "Welche dieser Wörter sind sind KEIN Teil der Abkürzung “MINT”?",
    "us": false,
    "x": false
   },
@@ -7342,9 +7018,6 @@
     },
     {
      "text": "[i]Mein Bruder ist ein Alien[/i]"
-    },
-    {
-     "text": "[i]Mermaidens[/i]"
     },
     {
      "text": "[i]Dracula High[/i]"
@@ -7474,9 +7147,6 @@
     },
     {
      "text": "Butch Cassidy"
-    },
-    {
-     "text": "Frank Dobras"
     }
    ],
    "id": "78422",
@@ -7488,48 +7158,51 @@
   {
    "answers": [
     {
-     "text": "Poppy Honey Rosie"
+     "text": "Oboe"
     },
     {
-     "text": "Daisy Boo Pamela"
+     "text": "Querflöte"
     },
     {
-     "text": "Petal Blossom Rainbow"
+     "text": "Klarinette"
     },
     {
-     "text": "Buddy Bear Maurice"
+     "text": "Saxophon"
     },
     {
-     "text": "River Rocket Blue Dallas"
+     "text": "Fagott"
+    },
+    {
+     "text": "Blockflöte"
+    },
+    {
+     "text": "Dudelsack"
+    },
+    {
+     "text": "Krummhorn"
     }
    ],
-   "category": "Celebrities",
+   "category": "Music",
    "decoys": [
     {
-     "text": "Tom Hanks"
+     "text": "Waldhorn"
     },
     {
-     "text": "Rose Star Butterfly"
+     "text": "Posaune"
     },
     {
-     "text": "Queen Leaf Cloud"
+     "text": "Didgeridoo"
     },
     {
-     "text": "Peach Mississippi Star"
+     "text": "Triangel"
     },
     {
-     "text": "X AE A-XII"
-    },
-    {
-     "text": "Marie Bee Chamomile"
-    },
-    {
-     "text": "Puppy Lily Ana"
+     "text": "Posaune"
     }
    ],
    "id": "78424",
    "isValid": "",
-   "prompt": "Wie heißen die 5 Kinder von Chefkoch [i]Jamie Oliver[/i]?",
+   "prompt": "Wobei handelt es sich um Holzblasinstrumente?",
    "us": false,
    "x": false
   },
@@ -7674,19 +7347,7 @@
      "text": "Haiti"
     },
     {
-     "text": "Australien"
-    },
-    {
-     "text": "Tunesien"
-    },
-    {
      "text": "Chile"
-    },
-    {
-     "text": "Kamerun"
-    },
-    {
-     "text": "Venezuela"
     },
     {
      "text": "Vietnam"
@@ -7737,16 +7398,10 @@
      "text": "Marie Antoinette"
     },
     {
-     "text": "Helena von Troja"
-    },
-    {
      "text": "Sophie Friederike von Thurn und Taxis"
     },
     {
      "text": "Alida Reynst"
-    },
-    {
-     "text": "Kaelyn Hiddekel Shepherd"
     }
    ],
    "id": "78603",
@@ -7785,9 +7440,6 @@
    "category": "Literature",
    "decoys": [
     {
-     "text": "[i]Wilder Enzian[/i]"
-    },
-    {
      "text": "[i]Eine Nacht unter dem Sternenhimmel[/i]"
     },
     {
@@ -7798,9 +7450,6 @@
     },
     {
      "text": "[i]Wiesen im Wind[/i]"
-    },
-    {
-     "text": "[i]Ewiges Verlangen[/i]"
     },
     {
      "text": "[i]Falsche Versprechen[/i]"
@@ -8019,9 +7668,6 @@
      "text": "Komeraku"
     },
     {
-     "text": "Swisher Sweet"
-    },
-    {
      "text": "Drunkenlager"
     },
     {
@@ -8029,9 +7675,6 @@
     },
     {
      "text": "Viseler Weizen"
-    },
-    {
-     "text": "Dekanbier"
     },
     {
      "text": "Schnittbier"
@@ -8457,19 +8100,10 @@
      "text": "Hayes"
     },
     {
-     "text": "Hálfviti"
-    },
-    {
      "text": "Dvergauppreisn"
     },
     {
-     "text": "Fuji"
-    },
-    {
      "text": "Sakurajima"
-    },
-    {
-     "text": "Nyiragongo"
     }
    ],
    "id": "78749",
@@ -8587,9 +8221,6 @@
    "decoys": [
     {
      "text": "Angriff und Parieren"
-    },
-    {
-     "text": "Rope-a-Dope"
     },
     {
      "text": "Knöchelhahn"
@@ -8823,12 +8454,6 @@
      "text": "Taunus"
     },
     {
-     "text": "Spessart"
-    },
-    {
-     "text": "Sorbenland"
-    },
-    {
      "text": "Rhön"
     },
     {
@@ -8880,16 +8505,10 @@
      "text": "Hawkeye"
     },
     {
-     "text": "Rhino"
-    },
-    {
      "text": "Electro"
     },
     {
      "text": "Loki"
-    },
-    {
-     "text": "Outrider"
     },
     {
      "text": "Razor Fist"
@@ -8942,9 +8561,6 @@
    ],
    "category": "Science & Medicine",
    "decoys": [
-    {
-     "text": "Starinyl"
-    },
     {
      "text": "Peatolium"
     },
@@ -9108,9 +8724,6 @@
      "text": "Gewerkschaft der Zahnärzte"
     },
     {
-     "text": "Magdeburger Bund"
-    },
-    {
      "text": "Vereinigung der Gerichtsdiener"
     },
     {
@@ -9220,9 +8833,6 @@
    "decoys": [
     {
      "text": "Club"
-    },
-    {
-     "text": "Boykott"
     },
     {
      "text": "Couch"
@@ -9459,9 +9069,6 @@
      "text": "Endosymbiose"
     },
     {
-     "text": "Xylophon"
-    },
-    {
      "text": "Hjärnaton"
     }
    ],
@@ -9520,9 +9127,6 @@
     },
     {
      "text": "Gerhard Stoltenberg"
-    },
-    {
-     "text": "Elisabeth Schwarzhaupt"
     }
    ],
    "id": "79197",
@@ -9558,16 +9162,7 @@
    "category": "Music",
    "decoys": [
     {
-     "text": "Gerechtigkeit"
-    },
-    {
      "text": "On the Spur of the Moment"
-    },
-    {
-     "text": "Es war einmal..."
-    },
-    {
-     "text": "Rastlos"
     },
     {
      "text": "Zerfall"
@@ -9583,9 +9178,6 @@
     },
     {
      "text": "Märchenprinzen"
-    },
-    {
-     "text": "Eure Mami"
     }
    ],
    "id": "79201",
@@ -9624,19 +9216,10 @@
      "text": "Brasilien"
     },
     {
-     "text": "Guyana"
-    },
-    {
      "text": "Suriname"
     },
     {
-     "text": "Paraguay"
-    },
-    {
      "text": "Uruguay"
-    },
-    {
-     "text": "Mexiko"
     },
     {
      "text": "Kasachstan"
@@ -9795,9 +9378,6 @@
    "category": "Literature",
    "decoys": [
     {
-     "text": "[i]Die Bestimmung[/i]"
-    },
-    {
      "text": "[i]Die Tribute von Panem - Flammender Zorn[/i]"
     },
     {
@@ -9805,12 +9385,6 @@
     },
     {
      "text": "[i]Bis(s) zum Abendrot[/i]"
-    },
-    {
-     "text": "[i]Bis(s) zum Ende der Nacht[/i]"
-    },
-    {
-     "text": "[i]Die Auserwählten - Im Labyrinth[/i]"
     },
     {
      "text": "[i]Rubinrot[/i]"
@@ -9924,19 +9498,10 @@
    "category": "Language/Words/Grammar",
    "decoys": [
     {
-     "text": "Haarausfall"
-    },
-    {
-     "text": "Vogelfutter"
-    },
-    {
      "text": "Zahlenfolge"
     },
     {
      "text": "Alphabet"
-    },
-    {
-     "text": "Racheengel"
     },
     {
      "text": "Fabrikgelände"
@@ -9949,9 +9514,6 @@
     },
     {
      "text": "Abschluss"
-    },
-    {
-     "text": "Fachzeitschrift"
     }
    ],
    "id": "79410",
@@ -10107,9 +9669,6 @@
      "text": "Dreiste Wildameise"
     },
     {
-     "text": "Golgaeus-Ameise"
-    },
-    {
      "text": "Onkelameise"
     },
     {
@@ -10120,9 +9679,6 @@
     },
     {
      "text": "Strichameise"
-    },
-    {
-     "text": "Fadenameise"
     },
     {
      "text": "Ameisenbär"
@@ -10246,9 +9802,6 @@
     },
     {
      "text": "Clint Eastwood"
-    },
-    {
-     "text": "Hayden Christensen"
     },
     {
      "text": "Arnold Schwarzenegger"
@@ -10425,9 +9978,6 @@
      "text": "Julia Child"
     },
     {
-     "text": "Sid Vicious (posthum)"
-    },
-    {
      "text": "Til Schweiger"
     },
     {
@@ -10437,7 +9987,7 @@
    "id": "79440",
    "isValid": "",
    "prompt": "Welche dieser berühmten Persönlichkeiten sind Ritter oder Damen?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -10731,9 +10281,6 @@
      "text": "Königspython"
     },
     {
-     "text": "Abgottschlange"
-    },
-    {
      "text": "Große Anakonda"
     },
     {
@@ -10741,9 +10288,6 @@
     },
     {
      "text": "Ringelnatter"
-    },
-    {
-     "text": "Schlingnatter"
     },
     {
      "text": "Luftschlange"
@@ -10813,12 +10357,6 @@
     },
     {
      "text": "Dominikanische Republik"
-    },
-    {
-     "text": "Kamerun"
-    },
-    {
-     "text": "Sierra Leone"
     }
    ],
    "id": "79494",
@@ -10911,13 +10449,7 @@
    "category": "Sports",
    "decoys": [
     {
-     "text": "Hole in One"
-    },
-    {
      "text": "Schwalbe"
-    },
-    {
-     "text": "Pass"
     },
     {
      "text": "Birdie"
@@ -11082,9 +10614,6 @@
      "text": "RAV4"
     },
     {
-     "text": "Jetta"
-    },
-    {
      "text": "Soul"
     },
     {
@@ -11092,9 +10621,6 @@
     },
     {
      "text": "Aztec"
-    },
-    {
-     "text": "Camry"
     },
     {
      "text": "Camelot"
@@ -11158,9 +10684,6 @@
     },
     {
      "text": "Fuchsknoten"
-    },
-    {
-     "text": "Federstek"
     }
    ],
    "id": "79664",
@@ -11322,9 +10845,6 @@
      "text": "Kleptifux"
     },
     {
-     "text": "Rudelfuchs"
-    },
-    {
      "text": "Schakal"
     },
     {
@@ -11338,9 +10858,6 @@
     },
     {
      "text": "Parforcefuchs"
-    },
-    {
-     "text": "Wolf"
     }
    ],
    "id": "79802",
@@ -11400,9 +10917,6 @@
      "text": "[i]Tag der Abrechnung[/i]"
     },
     {
-     "text": "[i]Die Wiederkehr[/i]"
-    },
-    {
      "text": "[i]Die Rückkehr des Khan[/i]"
     }
    ],
@@ -11444,9 +10958,6 @@
    ],
    "category": "Literature",
    "decoys": [
-    {
-     "text": "Bäckerix"
-    },
     {
      "text": "Kochfix"
     },
@@ -11514,16 +11025,10 @@
      "text": "[i]Die Augen des Todes[/i]"
     },
     {
-     "text": "[i]Die Irrfahrten des Herkules[/i]"
-    },
-    {
      "text": "[i]Vier Fäuste gegen Barcelona[/i]"
     },
     {
      "text": "[i]Zwei lassen nicht locker![/i]"
-    },
-    {
-     "text": "[i]Bis das die Faust uns scheidet[/i]"
     },
     {
      "text": "[i]Zwei auf Hawaii[/i]"
@@ -11580,25 +11085,10 @@
      "text": "Luftraumsicherheit"
     },
     {
-     "text": "Migration"
-    },
-    {
-     "text": "Vertriebene, Flüchtlinge und Kriegsgeschädigte"
-    },
-    {
-     "text": "Schienenverkehr"
-    },
-    {
-     "text": "Propaganda"
-    },
-    {
      "text": "Raumordung, Bauwesen und Städtebau"
     },
     {
      "text": "Wirtschaftliche Zusammenarbeit und Entwicklung"
-    },
-    {
-     "text": "Auswärtiges Amt"
     }
    ],
    "id": "79855",
@@ -11775,9 +11265,6 @@
      "text": "Igel"
     },
     {
-     "text": "Schlange"
-    },
-    {
      "text": "Schildkröte"
     },
     {
@@ -11785,9 +11272,6 @@
     },
     {
      "text": "Eule"
-    },
-    {
-     "text": "Maus"
     }
    ],
    "id": "79917",
@@ -11876,9 +11360,6 @@
    ],
    "category": "Literature",
    "decoys": [
-    {
-     "text": "Kein Tier soll Waffen nutzen."
-    },
     {
      "text": "Kein Tier soll Schmuck oder Schminke tragen."
     },
@@ -11997,9 +11478,6 @@
      "text": "Aston Martin"
     },
     {
-     "text": "Fiat"
-    },
-    {
      "text": "Mini"
     },
     {
@@ -12009,16 +11487,7 @@
      "text": "Lada"
     },
     {
-     "text": "Land Rover"
-    },
-    {
      "text": "Rolls-Royce"
-    },
-    {
-     "text": "Toyota"
-    },
-    {
-     "text": "Mazda"
     },
     {
      "text": "Kawasaki"
@@ -12081,9 +11550,6 @@
      "text": "Dahlen"
     },
     {
-     "text": "Duluth"
-    },
-    {
      "text": "Gießen"
     },
     {
@@ -12133,9 +11599,6 @@
     },
     {
      "text": "Botticellis [i]Die Geburt der Venus[/i]"
-    },
-    {
-     "text": "Woods [i]American Gothic[/i]"
     },
     {
      "text": "Magrittes [i]Der Sohn des Mannes[/i]"
@@ -12306,12 +11769,6 @@
      "text": "Bowser"
     },
     {
-     "text": "Diddy Kong"
-    },
-    {
-     "text": "Evoli"
-    },
-    {
      "text": "Prinzessin Peach"
     },
     {
@@ -12370,9 +11827,6 @@
     },
     {
      "text": "Miesmuschel"
-    },
-    {
-     "text": "Große Achatschnecke"
     },
     {
      "text": "Seeigel"
@@ -12451,12 +11905,6 @@
     },
     {
      "text": "Octabanan"
-    },
-    {
-     "text": "Pentabanan"
-    },
-    {
-     "text": "Zewacontan"
     }
    ],
    "id": "80449",
@@ -12496,15 +11944,6 @@
     },
     {
      "text": "[i]Früchte des Zorns[/i]"
-    },
-    {
-     "text": "[i]My Big Fat Greek Wedding – Hochzeit auf griechisch[/i]"
-    },
-    {
-     "text": "[i]Das Phantom der Oper[/i]"
-    },
-    {
-     "text": "[i]Jane Eyre[/i]"
     },
     {
      "text": "[i]Der Ödipuskomplex[/i]"
@@ -12606,16 +12045,10 @@
      "text": "[i]Shining[/i]"
     },
     {
-     "text": "[i]Saw[/i]"
-    },
-    {
      "text": "[i]Conjuring - Die Heimsuchung[/i]"
     },
     {
      "text": "[i]Poltergeist[/i]"
-    },
-    {
-     "text": "[i]The Cabin in the Woods[/i]"
     },
     {
      "text": "[i]Rosemaries Baby[/i]"
@@ -12723,9 +12156,6 @@
      "text": "Odie"
     },
     {
-     "text": "Jon"
-    },
-    {
      "text": "Stephen"
     },
     {
@@ -12736,9 +12166,6 @@
     },
     {
      "text": "Doug"
-    },
-    {
-     "text": "Max"
     },
     {
      "text": "Jaqueline"
@@ -12793,12 +12220,6 @@
     },
     {
      "text": "Kartoffel"
-    },
-    {
-     "text": "Xaver"
-    },
-    {
-     "text": "Zebra"
     },
     {
      "text": "Oskar"
@@ -12964,9 +12385,6 @@
     },
     {
      "text": "[i]Sonic The Hedgehog[/i]"
-    },
-    {
-     "text": "[i]Clayfighter[/i]"
     },
     {
      "text": "[i]Crash Bandicoot[/i]"
@@ -13245,9 +12663,6 @@
      "text": "Johnnie Walker"
     },
     {
-     "text": "Old Overholt"
-    },
-    {
      "text": "Bombay Sapphire"
     },
     {
@@ -13258,9 +12673,6 @@
     },
     {
      "text": "Rotkäppchen"
-    },
-    {
-     "text": "Flade Muller"
     }
    ],
    "id": "82101",
@@ -13299,9 +12711,6 @@
    "category": "Calendar/Holidays",
    "decoys": [
     {
-     "text": "Buß- und Bettag"
-    },
-    {
      "text": "Allerheiligen"
     },
     {
@@ -13311,19 +12720,10 @@
      "text": "Weltkindertag"
     },
     {
-     "text": "Mariä Himmelfahrt"
-    },
-    {
      "text": "Pfingstsonntag"
     },
     {
      "text": "Heilige Drei Könige"
-    },
-    {
-     "text": "Fronleichnam"
-    },
-    {
-     "text" : "Frauentag"
     },
     {
      "text": "Ostersonntag"
@@ -13527,25 +12927,13 @@
      "text": "Seattle"
     },
     {
-     "text": "Rochester"
-    },
-    {
-     "text": "Dijon"
-    },
-    {
      "text": "Toulouse"
     },
     {
      "text": "Livingstone"
     },
     {
-     "text": "Maputo"
-    },
-    {
      "text": "Bogotá"
-    },
-    {
-     "text": "Melbourne"
     },
     {
      "text": "Winneba"
@@ -13701,13 +13089,7 @@
      "text": "Nord-Australien"
     },
     {
-     "text": "Myanmar"
-    },
-    {
      "text": "Kombucha"
-    },
-    {
-     "text": "Sudan"
     },
     {
      "text": "Chile"
@@ -13782,13 +13164,7 @@
      "text": "Pfauenblau"
     },
     {
-     "text": "Pflaume"
-    },
-    {
      "text": "Rosa"
-    },
-    {
-     "text": "Signalgrün"
     },
     {
      "text": "Hibiskus"
@@ -13846,9 +13222,6 @@
     },
     {
      "text": "Schneidermuskel"
-    },
-    {
-     "text": "Kammmuskel"
     }
    ],
    "id": "82688",
@@ -13900,9 +13273,6 @@
     },
     {
      "text": "Seite"
-    },
-    {
-     "text": "Kreisdistrikt"
     },
     {
      "text": "Kreisverwaltung"
@@ -14130,13 +13500,7 @@
      "text": "Tracer"
     },
     {
-     "text": "Resetti"
-    },
-    {
      "text": "Kamek"
-    },
-    {
-     "text": "Melinda"
     },
     {
      "text": "Ratchet"
@@ -14146,12 +13510,6 @@
     },
     {
      "text": "Cloud"
-    },
-    {
-     "text": "Peach"
-    },
-    {
-     "text": "Dioji"
     },
     {
      "text": "Nanaki"
@@ -14319,9 +13677,6 @@
      "text": "San Salvador"
     },
     {
-     "text": "Salvador de Bahia"
-    },
-    {
      "text": "Cali Fornia"
     },
     {
@@ -14376,9 +13731,6 @@
      "text": "Doppelte Verteidiger"
     },
     {
-     "text": "Kurze Stopper"
-    },
-    {
      "text": "Abschläger"
     },
     {
@@ -14386,9 +13738,6 @@
     },
     {
      "text": "Hibernier"
-    },
-    {
-     "text": "Balester"
     }
    ],
    "id": "82716",
@@ -14426,9 +13775,6 @@
    ],
    "category": "Animals",
    "decoys": [
-    {
-     "text": "Schnabeltier"
-    },
     {
      "text": "Beutelfuchs"
     },
@@ -14613,9 +13959,6 @@
      "text": "Knäckebrot"
     },
     {
-     "text": "Schellfischfarce"
-    },
-    {
      "text": "Apfelstrudel"
     },
     {
@@ -14682,13 +14025,7 @@
      "text": "Deine Mutter"
     },
     {
-     "text": "Die amerikanischen Arbeiter"
-    },
-    {
      "text": "Das Rad"
-    },
-    {
-     "text": "Das Smartphone"
     },
     {
      "text": "Joseph Ratzinger/Benedikt XVI."
@@ -14733,9 +14070,6 @@
      "text": "Roland Emmerich"
     },
     {
-     "text": "Heinrich Mann"
-    },
-    {
      "text": "Gabriele Reuter"
     },
     {
@@ -14746,15 +14080,6 @@
     },
     {
      "text": "Charlotte Link"
-    },
-    {
-     "text": "Friedrich Schiller"
-    },
-    {
-     "text": "Bernd Rubio"
-    },
-    {
-     "text": "Markus Tillmann"
     },
     {
      "text": "Karl May"
@@ -14791,6 +14116,12 @@
     },
     {
      "text": "Würfelqualle"
+    },
+    {
+     "text": "Seewespe"
+    },
+    {
+     "text": "Kronenqualle"
     }
    ],
    "category": "Animals",
@@ -14806,12 +14137,6 @@
     },
     {
      "text": "Rippenqualle"
-    },
-    {
-     "text": "Quallenqualle"
-    },
-    {
-     "text": "Olivenqualle"
     },
     {
      "text": "Korallenqualle"
@@ -14928,9 +14253,6 @@
      "text": "Manhattan King"
     },
     {
-     "text": "Phantomias"
-    },
-    {
      "text": "Megalon"
     },
     {
@@ -15006,18 +14328,12 @@
      "text": "[i]Alles hat ein Ende[/i]"
     },
     {
-     "text": "[i]Goldrausch[/i]"
-    },
-    {
      "text": "[i]Ohne Netz und doppelten Boden[/i]"
-    },
-    {
-     "text": "[i]Morgen ist ein guter Tag zum sterben[/i]"
     }
    ],
    "id": "83060",
    "isValid": "",
-   "prompt": "Welches sind echte Filme über [i]James Bond[/i]?",
+   "prompt": "Welches sind echte [i]James Bond[/i] Filme?",
    "us": false,
    "x": false
   },
@@ -15076,9 +14392,6 @@
     },
     {
      "text": "Ludger Beerbaum"
-    },
-    {
-     "text": "André Lange"
     }
    ],
    "id": "83080",
@@ -15138,52 +14451,55 @@
   {
    "answers": [
     {
-     "text": "Hartzen"
+     "text": "cringe"
+    },
+    {
+     "text": "lost"
+    },
+    {
+     "text": "Ehrenmann / Ehrenfrau"
+    },
+    {
+     "text": "I bims"
+    },
+    {
+     "text": "Smombie"
+    },
+    {
+     "text": "Läuft bei dir"
+    },
+    {
+     "text": "Babo"
+    },
+    {
+     "text": "YOLO"
     },
     {
      "text": "Swag"
     },
     {
-     "text": "Fly sein"
+     "text": "Niveaulimbo"
     },
     {
-     "text": "Lost"
-    },
-    {
-     "text": "Cringe"
+     "text": "hartzen"
     }
    ],
    "category": "Language/Words/Grammar",
    "decoys": [
     {
-     "text": "Bankster"
-    },
-    {
-     "text": "Guttenbergen"
+     "text": "sus"
     },
     {
      "text": "Hayvan"
     },
     {
-     "text": "Rumoxidieren"
+     "text": "rumoxidieren"
     },
     {
-     "text": "Glucose-haltig"
+     "text": "glucose-haltig"
     },
     {
-     "text": "Wyld"
-    },
-    {
-     "text": "GG"
-    },
-    {
-     "text": "Rofl"
-    },
-    {
-     "text": "Unterhopft sein"
-    },
-    {
-     "text": "Immatrikulationshintergrund"
+     "text": "wyld"
     },
     {
      "text": "Swaggernaut"
@@ -15191,7 +14507,7 @@
    ],
    "id": "83343",
    "isValid": "",
-   "prompt": "Finde die ersten Plätze des “Jugendwort des Jahres” bis 2021!",
+   "prompt": "Welches waren Gewinner vom “Jugendwort des Jahres” bis 2021?",
    "us": false,
    "x": false
   },
@@ -15297,9 +14613,6 @@
      "text": "Einfacher Drilling"
     },
     {
-     "text": "Dakota-Knoten"
-    },
-    {
      "text": "Arborknoten"
     }
    ],
@@ -15343,9 +14656,6 @@
     },
     {
      "text": "Vereinigtes Königreich"
-    },
-    {
-     "text": "Chile"
     },
     {
      "text": "Polen"
@@ -15459,12 +14769,6 @@
      "text": "Spekulatius"
     },
     {
-     "text": "Knoblauch"
-    },
-    {
-     "text": "Feige"
-    },
-    {
      "text": "Johannisbeere"
     },
     {
@@ -15531,9 +14835,6 @@
      "text": "1694"
     },
     {
-     "text": "1574"
-    },
-    {
      "text": "2150"
     },
     {
@@ -15588,9 +14889,6 @@
      "text": "Stracciatella"
     },
     {
-     "text": "À la Popcorn"
-    },
-    {
      "text": "Kiwi"
     },
     {
@@ -15598,12 +14896,6 @@
     },
     {
      "text": "À la Bratapfel"
-    },
-    {
-     "text": "Ananas"
-    },
-    {
-     "text": "Thunfisch"
     },
     {
      "text": "Schwarze Johannisbeere"
@@ -15660,13 +14952,7 @@
      "text": "Bündnis Zukunft JETZT"
     },
     {
-     "text": "Aktion für Naturschutz"
-    },
-    {
      "text": "Nationalistische Freiheitspartei - DAS ORIGINAL"
-    },
-    {
-     "text": "Die Verbündeten - Gerechtigkeit"
     },
     {
      "text": "Partei der europäischen Christen"
@@ -15783,9 +15069,6 @@
      "text": "Sandstürme"
     },
     {
-     "text": "Verwesungsgestank überzieht das Land"
-    },
-    {
      "text": "Grippewellen"
     },
     {
@@ -15858,9 +15141,6 @@
      "text": "Breitmaulnashorn"
     },
     {
-     "text": "Große Heidelibelle"
-    },
-    {
      "text": "Geierschildkröte"
     }
    ],
@@ -15908,12 +15188,6 @@
    ],
    "category": "Companies & Brands",
    "decoys": [
-    {
-     "text": "Rinti"
-    },
-    {
-     "text": "Frolic"
-    },
     {
      "text": "Kitten"
     },
@@ -15980,9 +15254,6 @@
    ],
    "category": "Film & TV",
    "decoys": [
-    {
-     "text": "[i]1917 - Kampf an der Front[/i]"
-    },
     {
      "text": "[i]Angriff der Titanen[/i]"
     },
@@ -16107,12 +15378,6 @@
      "text": "Mats Hummels"
     },
     {
-     "text": "Lukas Podolski"
-    },
-    {
-     "text": "Mesut Özil"
-    },
-    {
      "text": "Joshua Kimmich"
     },
     {
@@ -16120,9 +15385,6 @@
     },
     {
      "text": "Joachim Löw"
-    },
-    {
-     "text": "Timo Hildebrand"
     },
     {
      "text": "Rudi Assauer"
@@ -16293,9 +15555,6 @@
      "text": "Nachtischlampe"
     },
     {
-     "text": "Nachttischschlampe"
-    },
-    {
      "text": "Nachttischkrampe"
     },
     {
@@ -16314,7 +15573,7 @@
    "id": "85056",
    "isValid": "",
    "prompt": "Welche dieser Wörter sind [i]Nachttischlampe[/i]?",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -16354,9 +15613,6 @@
    "decoys": [
     {
      "text": "Pitbull-Tulpe"
-    },
-    {
-     "text": "Fansi-Tulpe"
     },
     {
      "text": "Fischersfrauen-Tulpe"
@@ -16422,9 +15678,6 @@
      "text": "Oeselsch"
     },
     {
-     "text": "Glyyven"
-    },
-    {
      "text": "Prewett"
     },
     {
@@ -16485,19 +15738,10 @@
      "text": "Island"
     },
     {
-     "text": "Norwegen"
-    },
-    {
-     "text": "Argentinien"
-    },
-    {
      "text": "Vietnam"
     },
     {
      "text": "Spanien"
-    },
-    {
-     "text": "Schweiz"
     },
     {
      "text": "Dänemark"
@@ -16548,28 +15792,16 @@
      "text": "Geldsack"
     },
     {
-     "text": "Pinguin"
-    },
-    {
      "text": "Monokel"
     },
     {
      "text": "Rad"
     },
     {
-     "text": "Diamantring"
-    },
-    {
      "text": "Hund"
     },
     {
-     "text": "Tyrannosaurus Rex"
-    },
-    {
      "text": "Katze"
-    },
-    {
-     "text": "Schildkröte"
     },
     {
      "text": "Gummi-Ente"
@@ -16680,13 +15912,7 @@
      "text": "[i]Frühstück bei Tiffany[/i]"
     },
     {
-     "text": "[i]Midsommar[/i]"
-    },
-    {
      "text": "[i]Die Hochzeit meines besten Freundes[/i]"
-    },
-    {
-     "text": "[i]Anderst schön[/i]"
     },
     {
      "text": "[i]Quero-te tanto! - Ich will dich so sehr![/i]"
@@ -16728,13 +15954,7 @@
      "text": "Patagonia"
     },
     {
-     "text": "Turkmenistan"
-    },
-    {
      "text": "Jordan"
-    },
-    {
-     "text": "Tansania"
     },
     {
      "text": "Afghanistan"
@@ -16790,9 +16010,6 @@
    ],
    "category": "Animals",
    "decoys": [
-    {
-     "text": "Diploraptor"
-    },
     {
      "text": "Torbudoculus"
     },
@@ -16870,9 +16087,6 @@
     },
     {
      "text": "Nationalismus"
-    },
-    {
-     "text": "Rumastilismus"
     },
     {
      "text": "Neomoderner Stil"
@@ -17053,9 +16267,6 @@
     },
     {
      "text": "Kastenblättler"
-    },
-    {
-     "text": "Commeliniden"
     }
    ],
    "id": "85636",
@@ -17106,16 +16317,10 @@
      "text": "Rundfunkgerät"
     },
     {
-     "text": "Bastelkleber"
-    },
-    {
      "text": "Geld"
     },
     {
      "text": "Insektenschutzmittel"
-    },
-    {
-     "text": "Campingtoilette"
     },
     {
      "text": "Telefonnummern von Angehörigen"
@@ -17292,22 +16497,13 @@
      "text": "Spiegel"
     },
     {
-     "text": "Sprinter"
-    },
-    {
      "text": "Vogel"
     },
     {
      "text": "Känguru"
     },
     {
-     "text": "Wasser"
-    },
-    {
      "text": "Elektro"
-    },
-    {
-     "text": "Politiker"
     },
     {
      "text": "Bogenschütze"
@@ -17415,31 +16611,16 @@
      "text": "China"
     },
     {
-     "text": "Russland"
-    },
-    {
-     "text": "Argentinien"
-    },
-    {
      "text": "Brasilien"
     },
     {
-     "text": "Indien"
-    },
-    {
      "text": "Südkorea"
-    },
-    {
-     "text": "Türkei"
     },
     {
      "text": "Mexiko"
     },
     {
      "text": "Australien"
-    },
-    {
-     "text": "Indonesien"
     },
     {
      "text": "Saudi-Arabien"
@@ -17481,9 +16662,6 @@
    "category": "Food & Drink",
    "decoys": [
     {
-     "text": "PIRULO Lemon"
-    },
-    {
      "text": "Triplets"
     },
     {
@@ -17496,19 +16674,10 @@
      "text": "Cornetto"
     },
     {
-     "text": "Bloopees"
-    },
-    {
-     "text": "Likkies Strawberry Cheesecake"
-    },
-    {
      "text": "Flutschfinger"
     },
     {
-     "text": "Solero Exotic"
-    },
-    {
-     "text": "Calippo"
+     "text": "CALIPPO"
     }
    ],
    "id": "85648",
@@ -17556,9 +16725,6 @@
      "text": "Beleidigung des Gegners"
     },
     {
-     "text": "Küssen des Gegners"
-    },
-    {
      "text": "Behinderung des Torwartes"
     },
     {
@@ -17566,9 +16732,6 @@
     },
     {
      "text": "Vortäuschen eines Vergehens"
-    },
-    {
-     "text": "Beleidigung des Schiedsrichterteams"
     }
    ],
    "id": "85654",
@@ -17608,9 +16771,6 @@
    "decoys": [
     {
      "text": "Louis Vitton"
-    },
-    {
-     "text": "Fendy"
     },
     {
      "text": "Yves Saint Loren"
@@ -17677,9 +16837,6 @@
     },
     {
      "text": "Benedict Cumberbatch"
-    },
-    {
-     "text": "Rowan Atkinson"
     }
    ],
    "id": "85719",
@@ -17733,19 +16890,7 @@
      "text": "Daniela Katzenberger"
     },
     {
-     "text": "Georgina Fleur"
-    },
-    {
      "text": "Sarah Knappik"
-    },
-    {
-     "text": "Barbara Salesch"
-    },
-    {
-     "text": "Désirée Nick"
-    },
-    {
-     "text": "Katharina Rau"
     },
     {
      "text": "Kolinda Grabar-Kitarovic"
@@ -17791,9 +16936,6 @@
    "decoys": [
     {
      "text": "Frederick Durst"
-    },
-    {
-     "text": "Michael Schenker"
     },
     {
      "text": "William Holden"
@@ -17913,13 +17055,7 @@
      "text": "Bill Gates"
     },
     {
-     "text": "Che Guevara"
-    },
-    {
      "text": "Fidel Castro"
-    },
-    {
-     "text": "Claus Schenk Graf von Stauffenberg"
     },
     {
      "text": "George Washington"
@@ -17967,9 +17103,6 @@
      "text": "Plasma-Kanone"
     },
     {
-     "text": "Stöckelschuhe"
-    },
-    {
      "text": "Goronenpanzer"
     },
     {
@@ -17983,12 +17116,6 @@
     },
     {
      "text": "Fluchtseil"
-    },
-    {
-     "text": "Zauberlampe"
-    },
-    {
-     "text": "Wünschelrute"
     }
    ],
    "id": "85950",
@@ -18039,19 +17166,10 @@
      "text": "Frigga"
     },
     {
-     "text": "Coyote"
-    },
-    {
      "text": "Belial"
     },
     {
      "text": "Io"
-    },
-    {
-     "text": "Demeter"
-    },
-    {
-     "text": "Hebe"
     },
     {
      "text": "Nofretete"
@@ -18210,16 +17328,10 @@
      "text": "Slowenien"
     },
     {
-     "text": "Tschechien"
-    },
-    {
      "text": "Albanien"
     },
     {
      "text": "Spanien"
-    },
-    {
-     "text": "Schweiz"
     },
     {
      "text": "Montenegro"
@@ -18228,13 +17340,7 @@
      "text": "Italien"
     },
     {
-     "text": "Polen"
-    },
-    {
      "text": "Russland"
-    },
-    {
-     "text": "Niederlande"
     }
    ],
    "id": "85997",
@@ -18312,37 +17418,37 @@
   {
    "answers": [
     {
-     "text": "Stellvertreter*in des Bundeskanzlers"
+     "text": "Stellvertreter des Bundeskanzlers"
     },
     {
-     "text": "Bundesminister*in der Finanzen"
+     "text": "Bundesminister der Finanzen"
     },
     {
-     "text": "Bundesminister*in des Innern"
+     "text": "Bundesminister des Innern"
     },
     {
-     "text": "Bundesminister*in des Auswärtigen"
+     "text": "Bundesminister des Auswärtigen"
     },
     {
-     "text": "Bundesminister*in für Arbeit und Soziales"
+     "text": "Bundesminister für Arbeit und Soziales"
     },
     {
-     "text": "Bundesminister*in der Verteidigung"
+     "text": "Bundesminister der Verteidigung"
     },
     {
-     "text": "Bundesminister*in für Familie, Senioren, Frauen und Jugend"
+     "text": "Bundesminister für Familie, Senioren, Frauen und Jugend"
     },
     {
-     "text": "Bundesminister*in für Digitales und Verkehr"
+     "text": "Bundesminister für Digitales und Verkehr"
     },
     {
-     "text": "Bundesminister*in für Bildung und Forschung"
+     "text": "Bundesminister für Bildung und Forschung"
     },
     {
-     "text": "Bundesminister*in für wirtschaftliche Zusammenarbeit und Entwicklung"
+     "text": "Bundesminister für wirtschaftliche Zusammenarbeit und Entwicklung"
     },
     {
-     "text": "Chef*in des Bundeskanzleramts"
+     "text": "Chef des Bundeskanzleramts"
     },
     {
      "text": "Bundesminister*in für besondere Aufgaben"
@@ -18351,28 +17457,22 @@
    "category": "Occupations",
    "decoys": [
     {
-     "text": "Bundesminister*in für Kultur und Kunst"
+     "text": "Bundesminister für Haushaltsfragen"
     },
     {
-     "text": "Bundesminister*in für Haushaltsfragen"
-    },
-    {
-     "text": "Chef*in der Öffentlichkeitsarbeit des Bundeskanzleramts"
+     "text": "Chef der Öffentlichkeitsarbeit des Bundeskanzleramts"
     },
     {
      "text": "Vertretung des Gewerkschaftsverbandes"
     },
     {
-     "text": "Bundespräsident*in"
+     "text": "Bundespräsident"
     },
     {
-     "text": "Bundesminister*in für Migration, Flüchtlinge und Integration"
+     "text": "Bundesminister für Migration, Flüchtlinge und Integration"
     },
     {
-     "text": "Beauftragter der Bundesregierung für Ostdeutschland"
-    },
-    {
-     "text": "Bundesminister*in für die Aktenvernichtung"
+     "text": "Bundesminister für die Aktenvernichtung"
     }
    ],
    "id": "86010",
@@ -18423,16 +17523,7 @@
      "text": "Bachflohkrebs"
     },
     {
-     "text": "Altdeutscher Schäferhund"
-    },
-    {
      "text": "Känguru"
-    },
-    {
-     "text": "Yeti"
-    },
-    {
-     "text": "Waschbär"
     },
     {
      "text": "Bluthänfling"
@@ -18505,9 +17596,6 @@
     },
     {
      "text": "Cloudless"
-    },
-    {
-     "text": "Toxic Green"
     }
    ],
    "id": "86022",
@@ -18634,70 +17722,70 @@
    "x": false
   },
   {
-   "answers": [],
-   "category": "Math",
-   "decoys": [
-    {
-     "text": "-17"
-    },
-    {
-     "text": "81"
-    },
-    {
-     "text": "0,33"
-    },
-    {
-     "text": "-15,38"
-    },
-    {
-     "text": "156"
-    },
-    {
-     "text": "-0,76"
-    },
-    {
-     "text": "5,39"
-    },
-    {
-     "text": "-20,8"
-    },
-    {
-     "text": "-15555"
-    },
-    {
-     "text": "0,8"
-    },
-    {
-     "text": "1080080"  
-    },
-    {
-     "text": "1,754"
-    },
-    {
-     "text": "-69,69"
-    },
-    {
-     "text": "-0,1"
-    },
-    {
-     "text": "99,9"
-    },
-    {
-     "text": "17"
-    },
-    {
-     "text": "0,1"
-    },
-    {
-     "text": "-5"
-    },
-    {
-     "text": "0"
-    }
+   "answers": [
+       {
+        "text": "-17"
+       },
+       {
+        "text": "81"
+       },
+       {
+        "text": "0,33"
+       },
+       {
+        "text": "-15,38"
+       },
+       {
+        "text": "156"
+       },
+       {
+        "text": "-0,76"
+       },
+       {
+        "text": "5,39"
+       },
+       {
+        "text": "-20,8"
+       },
+       {
+        "text": "-15555"
+       },
+       {
+        "text": "0,8"
+       },
+       {
+        "text": "1080080"  
+       },
+       {
+        "text": "1,754"
+       },
+       {
+        "text": "-69,69"
+       },
+       {
+        "text": "-0,1"
+       },
+       {
+        "text": "99,9"
+       },
+       {
+        "text": "17"
+       },
+       {
+        "text": "0,1"
+       },
+       {
+        "text": "-5"
+       },
+       {
+        "text": "0"
+       }
    ],
+   "category": "Math",
+   "decoys": [],
    "id": "86031",
    "isValid": "",
-   "prompt": "Wobei handelt es sich NICHT um [i]reelle Zahlen[/i]?",
+   "prompt": "Wobei handelt es sich um [i]reelle Zahlen[/i]?",
    "us": false,
    "x": false
   },
@@ -18854,9 +17942,6 @@
      "text": "Hurrikan"
     },
     {
-     "text": "Flegel!"
-    },
-    {
      "text": "Parasite"
     },
     {
@@ -18918,12 +18003,6 @@
     },
     {
      "text": "Nauru"
-    },
-    {
-     "text": "Alofi"
-    },
-    {
-     "text": "Praia"
     }
    ],
    "id": "86130",
@@ -18962,19 +18041,10 @@
    "category": "Companies & Brands",
    "decoys": [
     {
-     "text": "Action"
-    },
-    {
      "text": "Alnatura"
     },
     {
      "text": "Brutto"
-    },
-    {
-     "text": "Jysk"
-    },
-    {
-     "text": "Kaufland"
     },
     {
      "text": "Norma"
@@ -18984,12 +18054,6 @@
     },
     {
      "text": "Selgros"
-    },
-    {
-     "text": "HIT"
-    },
-    {
-     "text": "Aldi"
     },
     {
      "text": "Metro"
@@ -19047,9 +18111,6 @@
    "decoys": [
     {
      "text": "Tigerhai"
-    },
-    {
-     "text": "Graugans"
     },
     {
      "text": "Weinbergschnecke"
@@ -19125,12 +18186,6 @@
     },
     {
      "text": "Eukenos"
-    },
-    {
-     "text": "Miook"
-    },
-    {
-     "text": "Ormara"
     }
    ],
    "id": "86347",
@@ -19247,13 +18302,7 @@
      "text": "Griechenland"
     },
     {
-     "text": "Island"
-    },
-    {
      "text": "Spanien"
-    },
-    {
-     "text": "Russland"
     },
     {
      "text": "Mexiko"
@@ -19356,9 +18405,6 @@
    "decoys": [
     {
      "text": "[i]Kim Possible[/i]"
-    },
-    {
-     "text": "[i]Nomadland[/i]"
     },
     {
      "text": "[i]Der Kuß vor dem Tode[/i]"
@@ -19478,16 +18524,7 @@
      "text": "“Wer ist Semir?”"
     },
     {
-     "text": "“Holz vor der Hütte”"
-    },
-    {
-     "text": "“Auf den Spuren meiner Mutter”"
-    },
-    {
      "text": "“Verlorene Fracht”"
-    },
-    {
-     "text": "“Hinter Schloss und Riegel”"
     },
     {
      "text": "“Vereitelter Spieleabend”"
@@ -19535,16 +18572,7 @@
      "text": "Venjan"
     },
     {
-     "text": "Fränsta"
-    },
-    {
-     "text": "Storseleby"
-    },
-    {
      "text": "Ankarede"
-    },
-    {
-     "text": "Allavare"
     },
     {
      "text": "Markitta"
@@ -19553,19 +18581,10 @@
      "text": "Lainio"
     },
     {
-     "text": "Parkalompolo"
-    },
-    {
      "text": "Abisko"
     },
     {
-     "text": "Tarfala"
-    },
-    {
      "text": "Bredsel"
-    },
-    {
-     "text": "Skunk"
     }
    ],
    "id": "86460",
@@ -19604,19 +18623,10 @@
    "category": "Celebrities",
    "decoys": [
     {
-     "text": "Thomas"
-    },
-    {
      "text": "Jesus"
     },
     {
      "text": "Barbara"
-    },
-    {
-     "text": "Heinrich"
-    },
-    {
-     "text": "Leopold"
     },
     {
      "text": "Georg"
@@ -19629,12 +18639,6 @@
     },
     {
      "text": "Ludwig"
-    },
-    {
-     "text": "Martin"
-    },
-    {
-     "text": "Richard"
     }
    ],
    "id": "86461",
@@ -19683,9 +18687,6 @@
     },
     {
      "text": "Epilog"
-    },
-    {
-     "text": "Verortung des Geschehenen"
     },
     {
      "text": "Missverständnis"
@@ -19977,9 +18978,6 @@
     },
     {
      "text": "Banane"
-    },
-    {
-     "text": "Apfel"
     }
    ],
    "id": "86474",
@@ -20033,9 +19031,6 @@
      "text": "Farin Urlaub"
     },
     {
-     "text": "Peter Brugger"
-    },
-    {
      "text": "H.P. Baxxter"
     },
     {
@@ -20080,9 +19075,6 @@
    ],
    "category": "History",
    "decoys": [
-    {
-     "text": "Friedulas"
-    },
     {
      "text": "Caesar"
     },
@@ -20159,9 +19151,6 @@
      "text": "Flosera"
     },
     {
-     "text": "Nagpfel"
-    },
-    {
      "text": "Zabrelos"
     },
     {
@@ -20228,9 +19217,6 @@
      "text": "Brasilien"
     },
     {
-     "text": "Mexiko"
-    },
-    {
      "text": "Panama"
     },
     {
@@ -20279,9 +19265,6 @@
    "category": "News Media",
    "decoys": [
     {
-     "text": "Mariette Slomka"
-    },
-    {
      "text": "Bettina Schausten"
     },
     {
@@ -20291,19 +19274,10 @@
      "text": "Maybrit Illner"
     },
     {
-     "text": "Ingeborg Wurster"
-    },
-    {
      "text": "Peter Kloeppel"
     },
     {
-     "text": "Annett Möller"
-    },
-    {
      "text": "Kay-Sölve Richter"
-    },
-    {
-     "text": "Barbara Schöneberger"
     },
     {
      "text": "Carsten Stahl"
@@ -20396,13 +19370,7 @@
      "text": "Jockey"
     },
     {
-     "text": "Clown"
-    },
-    {
      "text": "Koch"
-    },
-    {
-     "text": "Fitnesstrainer"
     },
     {
      "text": "Kapitän"
@@ -20528,21 +19496,6 @@
   {
    "answers": [
     {
-     "text": "Plaza Mayor"
-    },
-    {
-     "text": "Museo del Prado"
-    },
-    {
-     "text": "Puerta del Sol"
-    },
-    {
-     "text": "Calle Gran Vía"
-    }
-   ],
-   "category": "Geography & Landmarks",
-   "decoys": [
-    {
      "text": "Sagrada Familia"
     },
     {
@@ -20567,9 +19520,24 @@
      "text": "Forum Romanum"
     }
    ],
+   "category": "Geography & Landmarks",
+   "decoys": [
+    {
+     "text": "Plaza Mayor"
+    },
+    {
+     "text": "Museo del Prado"
+    },
+    {
+     "text": "Puerta del Sol"
+    },
+    {
+     "text": "Calle Gran Vía"
+    }
+   ],
    "id": "86517",
    "isValid": "",
-   "prompt": "Welche der folgenden Sehenswürdigkeiten habe ich bei meinem Städtetrip nach Madrid letzten Sommer gesehen?",
+   "prompt": "Welche der folgenden Sehenswürdigkeiten habe ich NICHT bei meinem Städtetrip nach Madrid letzten Sommer gesehen?",
    "us": false,
    "x": false
   },
@@ -20663,9 +19631,6 @@
      "text": "Preiselbeere"
     },
     {
-     "text": "Stachelbeere"
-    },
-    {
      "text": "Rote Johannisbeere"
     },
     {
@@ -20673,12 +19638,6 @@
     },
     {
      "text": "Avocado"
-    },
-    {
-     "text": "Weinbeere"
-    },
-    {
-     "text": "Guave"
     }
    ],
    "id": "86547",
@@ -20703,7 +19662,11 @@
     },
     {
      "text": "[i]Der Sinn des Lebens[/i]"
+    },
+    {
+     "text": "[i]Monty Python Live at the Hollywood Bowl[/i]"
     }
+    
    ],
    "category": "Film & TV",
    "decoys": [
@@ -20715,9 +19678,6 @@
     },
     {
      "text": "[i]SPAM, SPAM, SPAM, Eier und SPAM[/i]"
-    },
-    {
-     "text": "[i]Keine Pause für Blitzbart[/i]"
     },
     {
      "text": "[i]Monty Pythons groteske Welt des Fussballs[/i]"

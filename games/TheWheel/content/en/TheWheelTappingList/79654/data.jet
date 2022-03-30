@@ -2,14 +2,13 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio",
-      "s": "Oh no, please don't make me sing it."
+      "n": "IntroAudio"
     },
     {
       "t": "B",
@@ -24,14 +23,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio",
-      "s": "Oh god, I can feel myself definitely singing it."
+      "n": "FollowupAudio"
     },
     {
       "t": "B",
@@ -42,7 +40,7 @@
       "t": "A",
       "v": "outro",
       "n": "OutroAudio",
-      "s": "Pop. Six. Squish. Uh-uh. Cicero. Lipschitz. Whew! Okay, much better now."
+      "s": "Hätten wir das auch geschafft."
     }
   ]
 }

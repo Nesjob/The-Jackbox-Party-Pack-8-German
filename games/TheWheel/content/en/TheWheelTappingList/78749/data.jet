@@ -9,7 +9,7 @@
       "t": "A",
       "v": "intro",
       "n": "IntroAudio",
-      "s": "No easy way to say this, so let me be blunt..."
+      "s": "Eine Frage der Kategorie: \"Dinge, die besser nicht in die Luft gehen sollten\". "
     },
     {
       "t": "B",
@@ -34,14 +34,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "The smart move here was to tap on everything! If you live in the U.S. when Yellowstone erupts, you’ll know about it."
+      "n": "OutroAudio"
     }
   ]
 }

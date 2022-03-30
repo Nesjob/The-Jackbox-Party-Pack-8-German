@@ -2,13 +2,14 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio"
+      "n": "IntroAudio",
+      "s": "Zeit für Nostalgiker und alte Leute. Ja, für diese Frage dürft ihr auch beides sein: "
     },
     {
       "t": "B",

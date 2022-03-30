@@ -19,17 +19,18 @@
       "t": "A",
       "v": "prompt",
       "n": "PromptAudio",
-      "s": "Finde die ersten Plätze des “Jugendwort des Jahres” bis 2021!"
+      "s": "Welches waren Gewinner vom “Jugendwort des Jahres” bis 2021?"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "Ich habe nicht die geringste Ahnung, was genau das für Wörter sein sollen. Deutsch ist das definitiv nicht."
     },
     {
       "t": "B",

@@ -23,13 +23,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "In die Vergangenheit zu reisen, um meine größten Momente noch mal zu erleben, das hätte schon was. Der Bau der Pyramiden, die freundlichen Maya, die mir immer Gold geschenkt haben und die Spieleabende auf dem Olymp."
     },
     {
       "t": "B",

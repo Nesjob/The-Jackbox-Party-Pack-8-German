@@ -23,24 +23,24 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "Ab und an spiele ich ja eine Partie [i]Risiko[/i] mit der Sphinx von Gizeh. Mal unter uns, sie kann echt gar nichts. Beim letzten Mal ist ihr vor Schreck über meinen Sieg der Zinken aus dem Gesicht gefallen."
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "I've been playing a game of Risk with the Sphinx of Giza for 31 years. It's their turn to attack and they're TAKING THEIR TIME!"
+      "n": "OutroAudio"
     }
   ]
 }

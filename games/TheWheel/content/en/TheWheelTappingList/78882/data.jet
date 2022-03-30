@@ -9,7 +9,7 @@
       "t": "A",
       "v": "intro",
       "n": "IntroAudio",
-      "s": "I need your undivided attention, okay? Normally I expect slightly divided attention, but not for this one."
+      "s": "Okay, ich brauche hierfür eure ungeteilte Aufmerksamkeit! Normalerweise bin ich eine leicht geteilte Aufmerksamkeit gewohnt, aber das wird jetzt wichtig."
     },
     {
       "t": "B",
@@ -34,13 +34,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio"
+      "n": "OutroAudio",
+      "s": "Regel 9: Der schlechteste Spieler bei Fragen über den [i]Fight Club[/i] wird bis ans Ende seines Lebens der Butler vom Rad von unglaublicher Größe. Tja, ich habe die Regeln nicht gemacht..."
     }
   ]
 }

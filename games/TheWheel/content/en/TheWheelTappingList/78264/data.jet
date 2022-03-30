@@ -23,13 +23,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "Kommt schon, ihr wisst doch sicher, was sich in euch befindet! Also, außer eurem letzten Pausensnack."
     },
     {
       "t": "B",

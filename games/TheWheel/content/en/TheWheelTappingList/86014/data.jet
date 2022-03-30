@@ -2,14 +2,13 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio",
-      "s": "Not a fan of bad puns? You might want to sit this next one out."
+      "n": "IntroAudio"
     },
     {
       "t": "B",

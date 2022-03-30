@@ -901,62 +901,62 @@
   {
    "answers": [
     {
-     "text": "The Golden Snitch (Quidditch)",
+     "text": "Der goldene Schnatz (Quidditch)",
      "value": "150"
     },
     {
-     "text": "bullseye (darts)",
+     "text": "Bull's Eye (Dart)",
      "value": "50"
     },
     {
-     "text": "queen of spades (Hearts)",
-     "value": "13"
+     "text": "Ass (Skat)",
+     "value": "11"
     },
     {
-     "text": "Z ([i]Scrabble[/i])",
+     "text": "Strike (Bowling)",
      "value": "10"
     },
     {
-     "text": "seven-ten split (bowling)",
+     "text": "Ö ([i]Scrabble[/i])",
      "value": "8"
     },
     {
-     "text": "touchdown (American football)",
+     "text": "Waza-ari (Judo)",
+     "value": "7"
+    },
+    {
+     "text": "Touchdown (American Football)",
      "value": "6"
     },
     {
-     "text": "try (rugby)",
-     "value": "5"
-    },
-    {
-     "text": "grand slam (baseball)",
+     "text": "Grand Slam (Baseball)",
      "value": "4"
     },
     {
-     "text": "field goal (American football)",
+     "text": "Gewonnenes Spiel (Bundesliga)",
      "value": "3"
     },
     {
-     "text": "“Longest Road” ([i]Settlers of Catan[/i])",
+     "text": "“Längste Handelsstraße” ([i]Siedler von Catan[/i])",
      "value": "2"
     },
     {
-     "text": "free throw (basketball)",
+     "text": "Freiwurf (Basketball)",
      "value": "1"
     },
     {
-     "text": "love (tennis)",
+     "text": "Love (Tennis)",
      "value": "0"
     }
    ],
    "category": "Games",
    "id": "78808",
    "isValid": "",
-   "prompt": "Which “sporting” moment is worth more points?",
+   "prompt": "Welche “sportliche“ Wertung ist mehr Punkte wert?",
    "sort": "descending",
    "subtype": "most/least",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -1137,7 +1137,7 @@
   {
    "answers": [
     {
-     "text": "The Sun",
+     "text": "Die Sonne",
      "value": "1392000"
     },
     {
@@ -1153,11 +1153,11 @@
      "value": "51118"
     },
     {
-     "text": "Neptune",
+     "text": "Neptun",
      "value": "49528"
     },
     {
-     "text": "Earth",
+     "text": "Erde",
      "value": "12756"
     },
     {
@@ -1169,15 +1169,15 @@
      "value": "6796"
     },
     {
-     "text": "Ganymede",
+     "text": "Ganymed",
      "value": "5262"
     },
     {
-     "text": "Mercury",
+     "text": "Merkur",
      "value": "4880"
     },
     {
-     "text": "The Moon",
+     "text": "Der Mond",
      "value": "3474"
     },
     {
@@ -1192,11 +1192,11 @@
    "category": "Anatomy",
    "id": "78868",
    "isValid": "",
-   "prompt": "Which heavenly body of the Solar System is more thicc?",
+   "prompt": "Welcher Himmelskörper in unserem Sonnensystem hat den größeren Durchmesser?",
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(in kilometers)",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -1328,66 +1328,66 @@
   {
    "answers": [
     {
-     "text": "fakes illness to get out of school",
+     "text": "Harry und Dudley werden von Dementoren angegriffen",
      "value": "1"
     },
     {
-     "text": "plays clarinet",
+     "text": "Harry muss vor dem Zaubereiministerium aussagen",
      "value": "2"
     },
     {
-     "text": "convinces Cameron to take dad's Ferrari",
+     "text": "Sibyll Trelawney wird gekündigt",
      "value": "3"
     },
     {
-     "text": "picks up Sloane from school",
+     "text": "Dumbledores Armee wird gegründet",
      "value": "4"
     },
     {
-     "text": "visits the Sears Tower",
+     "text": "Arthur Weasley wird angegriffen",
      "value": "5"
     },
     {
-     "text": "visits the Chicago Board of Trade",
+     "text": "Snape unterrichtet Harry in Okklumentik",
      "value": "6"
     },
     {
-     "text": "lunch at Chez Quis",
+     "text": "Massenausbruch aus Askaban",
      "value": "7"
     },
     {
-     "text": "Cubs game at Wrigley Field",
+     "text": "Umbridge erfährt von Dumbledores Armee",
      "value": "8"
     },
     {
-     "text": "visits the Art Institute of Chicago",
+     "text": "Harry und Hermine locken Umbridge in den Wald",
      "value": "9"
     },
     {
-     "text": "leads the Von Steuben Day Parade",
+     "text": "Harry träumt, dass Voldemort seinen Patenonkel Sirius foltert",
      "value": "10"
     },
     {
-     "text": "saves Cameron from fake drowning",
+     "text": "Sirius Black wird getötet",
      "value": "11"
     },
     {
-     "text": "watches Cameron destroy Ferrari",
+     "text": "Voldemort kämpft gegen Dumbledore",
      "value": "12"
     },
     {
-     "text": "runs through back yards to get home",
+     "text": "Voldemorts Rückkehr wird von Fudge bekannt gegeben",
      "value": "13"
     }
    ],
    "category": "Film & TV",
    "id": "78884",
    "isValid": "",
-   "prompt": "What did Ferris Bueller do first on his day off?",
+   "prompt": "Was passierte zuerst im Film “Harry Potter und der Orden des Phönix“?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -1784,74 +1784,74 @@
   {
    "answers": [
     {
-     "text": "battery acid",
+     "text": "Batteriesäure",
      "value": "0"
     },
     {
-     "text": "sulfuric acid",
+     "text": "Schwefelsäure",
      "value": "1"
     },
     {
-     "text": "lemon juice",
+     "text": "Zitronensaft",
      "value": "2"
     },
     {
-     "text": "orange juice",
+     "text": "Orangensaft",
      "value": "3"
     },
     {
-     "text": "acid rain",
+     "text": "Saurer Regen",
      "value": "4"
     },
     {
-     "text": "banana",
+     "text": "Banane",
      "value": "5"
     },
     {
-     "text": "milk",
+     "text": "Milch",
      "value": "6"
     },
     {
-     "text": "pure water",
+     "text": "Wasser",
      "value": "7"
     },
     {
-     "text": "sea water",
+     "text": "Salzwasser",
      "value": "8"
     },
     {
-     "text": "baking soda",
+     "text": "Natron",
      "value": "9"
     },
     {
-     "text": "milk of magnesia",
+     "text": "Magnesiumhydroxid",
      "value": "10"
     },
     {
-     "text": "ammonia",
+     "text": "Ammoniak",
      "value": "11"
     },
     {
-     "text": "soapy water",
+     "text": "Seifenlauge",
      "value": "12"
     },
     {
-     "text": "bleach",
+     "text": "Bleichmittel",
      "value": "13"
     },
     {
-     "text": "liquid drain cleaner",
+     "text": "Flüssiger Abflussreiniger",
      "value": "14"
     }
    ],
    "category": "Science & Medicine",
    "id": "79859",
    "isValid": "",
-   "prompt": "Which liquid is more acidic on the Ph scale?",
+   "prompt": "Welche Flüssigkeit hat den niedrigsten pH-Wert?",
    "sort": "ascending",
    "subtype": "most/least",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4300,62 +4300,62 @@
   {
    "answers": [
     {
-     "text": "Joliet, IL",
+     "text": "Salamanca",
      "value": "1"
     },
     {
-     "text": "Springfield, IL",
+     "text": "Bordeaux",
      "value": "2"
     },
     {
-     "text": "St. Louis, MO",
+     "text": "Orléans",
      "value": "3"
     },
     {
-     "text": "Little Rock, AR",
+     "text": "Paris",
      "value": "4"
     },
     {
-     "text": "Texarkana, AR",
+     "text": "Brüssel",
      "value": "5"
     },
     {
-     "text": "Dallas, TX",
+     "text": "Aachen",
      "value": "6"
     },
     {
-     "text": "Austin, TX",
+     "text": "Köln",
      "value": "7"
     },
     {
-     "text": "El Paso, TX",
+     "text": "Dortmund",
      "value": "8"
     },
     {
-     "text": "Deming, NM",
+     "text": "Hannover",
      "value": "9"
     },
     {
-     "text": "Tucson, AZ",
+     "text": "Magdeburg",
      "value": "10"
     },
     {
-     "text": "Palm Springs, CA",
+     "text": "Berlin",
      "value": "11"
     },
     {
-     "text": "Pomona, CA",
+     "text": "Łódź",
      "value": "12"
     }
    ],
    "category": "Vehicles",
    "id": "85450",
    "isValid": "",
-   "prompt": "When traveling on Amtrak's 65-hour-long Texas Eagle route from Chicago to LA, which city will you stop in first?",
+   "prompt": "An welcher Stadt fährst du zuerst vorbei, wenn du die kürzeste Route von Lissabon nach Warschau mit dem Auto fährst?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "(from Chicago to Los Angeles)",
-   "us": true,
+   "us": false,
    "x": false
   },
   {

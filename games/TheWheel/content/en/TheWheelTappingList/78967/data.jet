@@ -9,7 +9,7 @@
       "t": "A",
       "v": "intro",
       "n": "IntroAudio",
-      "s": "Very proud of you folks for this one..."
+      "s": "Okay, auf diese eine Sache könnt ihr Menschen fast schon stolz sein..."
     },
     {
       "t": "B",
@@ -34,14 +34,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "Let's hope we can keep this momentum going! You know! With disease eradication."
+      "n": "OutroAudio"
     }
   ]
 }

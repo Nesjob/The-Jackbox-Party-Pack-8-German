@@ -2,13 +2,14 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasIntroAudio"
     },
     {
       "t": "A",
       "v": "intro",
-      "n": "IntroAudio"
+      "n": "IntroAudio",
+      "s": "Zeit für eine schöne Frage, spart euch jede Form der Klage."
     },
     {
       "t": "B",
@@ -23,13 +24,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio"
+      "n": "FollowupAudio",
+      "s": "Ein Gedicht hat Klasse, das ist nichts für die Masse. Und ihr habt wohl immer im Unterricht geschlafen. Tja, für eure Einfachheit wird euch diese Frage jetzt wohl strafen."
     },
     {
       "t": "B",
