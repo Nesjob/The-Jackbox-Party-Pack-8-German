@@ -3686,7 +3686,7 @@
      "value": "4"
     },
     {
-     "text": "Sol",
+     "text": "So",
      "value": "5"
     },
     {
@@ -3698,18 +3698,18 @@
      "value": "7"
     },
     {
-     "text": "Do (repeat!)",
+     "text": "Do (erneut)",
      "value": "8"
     }
    ],
    "category": "Music",
    "id": "84655",
    "isValid": "",
-   "prompt": "Which comes first in this traditional musical solfège?",
+   "prompt": "Was wird in der relativen Solmisation zuerst genannt?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
