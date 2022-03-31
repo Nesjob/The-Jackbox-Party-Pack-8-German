@@ -60,19 +60,19 @@
   {
    "answers": [
     {
-     "text": "Mastiff",
+     "text": "Bulldogge",
      "value": "230"
     },
     {
-     "text": "St. Bernard",
+     "text": "Bernhardiner",
      "value": "180"
     },
     {
-     "text": "Great Dane",
+     "text": "Deutsche Dogge",
      "value": "175"
     },
     {
-     "text": "Newfoundland",
+     "text": "Neufundländer",
      "value": "150"
     },
     {
@@ -80,7 +80,7 @@
      "value": "110"
     },
     {
-     "text": "Doberman Pinscher",
+     "text": "Dobermann",
      "value": "100"
     },
     {
@@ -92,7 +92,7 @@
      "value": "60"
     },
     {
-     "text": "Pembroke Welsh Corgi",
+     "text": "Welsh Corgi Pembroke",
      "value": "30"
     },
     {
@@ -100,7 +100,7 @@
      "value": "20"
     },
     {
-     "text": "Brussels Griffon",
+     "text": "Belgische Zwerggriffons",
      "value": "10"
     },
     {
@@ -111,11 +111,11 @@
    "category": "Animals",
    "id": "76791",
    "isValid": "",
-   "prompt": "Which American Kennel Club dog breed is heavier?",
+   "prompt": "Welche Hunderasse ist schwerer?",
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(in pounds)",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -403,7 +403,7 @@
    "category": "Film & TV",
    "id": "77281",
    "isValid": "",
-   "prompt": "Which celebrity had their first appearance on [i]Saturday Night Live[/i] earlier?",
+   "prompt": "Welcher Promi hatte zuerst einen Auftritt bei [i]Saturday Night Live[/i]?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
@@ -714,58 +714,58 @@
   {
    "answers": [
     {
-     "text": "Hawaii",
-     "value": "1959"
+     "text": "Kroatien",
+     "value": "2013"
     },
     {
-     "text": "Alaska",
-     "value": "1959"
+     "text": "Bulgarien",
+     "value": "2007"
     },
     {
-     "text": "Arizona",
-     "value": "1912"
+     "text": "Rumänien",
+     "value": "2007"
     },
     {
-     "text": "Utah",
-     "value": "1896"
+     "text": "Polen",
+     "value": "2004"
     },
     {
-     "text": "North Dakota",
-     "value": "1889"
+     "text": "Slowenien",
+     "value": "2004"
     },
     {
-     "text": "California",
-     "value": "1850"
+     "text": "Österreich",
+     "value": "1995"
     },
     {
-     "text": "Florida",
-     "value": "1845"
+     "text": "Spanien",
+     "value": "1986"
     },
     {
-     "text": "Maine",
-     "value": "1820"
+     "text": "Griechenland",
+     "value": "1981"
     },
     {
-     "text": "Ohio",
-     "value": "1803"
+     "text": "Irland",
+     "value": "1973"
     },
     {
-     "text": "New York",
-     "value": "1788"
+     "text": "Deutschland",
+     "value": "1958"
     },
     {
-     "text": "Delaware",
-     "value": "1787"
+     "text": "Italien",
+     "value": "1958"
     }
    ],
    "category": "Geography & Landmarks",
    "id": "78723",
    "isValid": "",
-   "prompt": "Which U.S. state was more recently admitted to the union?",
+   "prompt": "Welches Land ist zuletzt der Europäischen Union beigetreten?",
    "sort": "descending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -952,7 +952,7 @@
    "category": "Games",
    "id": "78808",
    "isValid": "",
-   "prompt": "Welche “sportliche“ Wertung ist mehr Punkte wert?",
+   "prompt": "Welche “sportliche” Wertung ist mehr Punkte wert?",
    "sort": "descending",
    "subtype": "most/least",
    "unit": "",
@@ -1023,7 +1023,7 @@
   {
    "answers": [
     {
-     "text": "[i]The Iron Giant[/i]",
+     "text": "[i]Der Gigant aus dem All[/i]",
      "value": "96"
     },
     {
@@ -1031,7 +1031,7 @@
      "value": "94"
     },
     {
-     "text": "[i]Saving Private Ryan[/i]",
+     "text": "[i]Der Soldat James Ryan[/i]",
      "value": "93"
     },
     {
@@ -1039,11 +1039,11 @@
      "value": "92"
     },
     {
-     "text": "[i]Furious 7[/i]",
+     "text": "[i]Fast & Furious 7[/i]",
      "value": "82"
     },
     {
-     "text": "[i]Pitch Black[/i]",
+     "text": "[i]Pitch Black – Planet der Finsternis[/i]",
      "value": "60"
     },
     {
@@ -1055,11 +1055,11 @@
      "value": "48"
     },
     {
-     "text": "[i]Billy Lynn's Long Halftime Walk[/i]",
+     "text": "[i]Die irre Heldentour des Billy Lynn[/i]",
      "value": "44"
     },
     {
-     "text": "[i]The Pacifier[/i]",
+     "text": "[i]Der Babynator[/i]",
      "value": "21"
     },
     {
@@ -1074,7 +1074,7 @@
    "category": "Film & TV",
    "id": "78816",
    "isValid": "",
-   "prompt": "Which Vin Diesel movie has a higher Rotten Tomatoes “Tomatometer” score?",
+   "prompt": "Welcher Vin-Diesel-Film hat eine höhere Rotten Tomatoes \"Tomatometer\"-Punktzahl?",
    "sort": "descending",
    "subtype": "most/least",
    "unit": "",
@@ -1393,50 +1393,50 @@
   {
    "answers": [
     {
-     "text": "inner core",
+     "text": "Innerer Kern",
      "value": "1"
     },
     {
-     "text": "outer core",
+     "text": "Äußerer Kern",
      "value": "2"
     },
     {
-     "text": "mantle",
+     "text": "Mantel",
      "value": "3"
     },
     {
-     "text": "crust",
+     "text": "Erdkruste",
      "value": "4"
     },
     {
-     "text": "troposphere",
+     "text": "Troposphäre",
      "value": "5"
     },
     {
-     "text": "stratosphere",
+     "text": "Stratosphäre",
      "value": "6"
     },
     {
-     "text": "mesosphere",
+     "text": "Mesosphäre",
      "value": "7"
     },
     {
-     "text": "thermosphere",
+     "text": "Thermosphäre",
      "value": "8"
     },
     {
-     "text": "exosphere",
+     "text": "Exosphäre",
      "value": "9"
     }
    ],
    "category": "Science & Medicine",
    "id": "78886",
    "isValid": "",
-   "prompt": "Which layer of planet Earth is more [i]inner[/i]?",
+   "prompt": "Welche Schicht des Planeten Erde ist [i]innerer[/i]?",
    "sort": "ascending",
    "subtype": "closest",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -1530,7 +1530,7 @@
    "category": "Film & TV",
    "id": "79044",
    "isValid": "",
-   "prompt": "Which Quentin Tarantino movie has a longer run time?",
+   "prompt": "Welcher Film von Quentin Tarantino hat eine längere Laufzeit?",
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(in minutes)",
@@ -1660,7 +1660,7 @@
    "category": "Film & TV",
    "id": "79063",
    "isValid": "",
-   "prompt": "Which TV show had the longer run?",
+   "prompt": "Welche Fernsehsendung lief länger?",
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(in years)",
@@ -1908,7 +1908,7 @@
    "category": "Celebrities",
    "id": "80324",
    "isValid": "",
-   "prompt": "Which show did Betty White appear on first?",
+   "prompt": "In welcher Show trat Betty White zuerst auf?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
@@ -1969,7 +1969,7 @@
    "category": "Celebrities",
    "id": "82425",
    "isValid": "",
-   "prompt": "Which of these celebrities is taller?",
+   "prompt": "Welcher dieser Promis ist größer?",
    "sort": "descending",
    "subtype": "most/least",
    "unit": "",
@@ -1987,11 +1987,11 @@
      "value": "1989"
     },
     {
-     "text": "Mark Hamill (voice)",
+     "text": "Mark Hamill (Stimme)",
      "value": "1992"
     },
     {
-     "text": "Kevin Michael Richardson (voice)",
+     "text": "Kevin Michael Richardson (Stimme)",
      "value": "2004"
     },
     {
@@ -1999,7 +1999,7 @@
      "value": "2008"
     },
     {
-     "text": "Brent Spiner (voice)",
+     "text": "Brent Spiner (Stimme)",
      "value": "2011"
     },
     {
@@ -2011,7 +2011,7 @@
      "value": "2016"
     },
     {
-     "text": "Zach Galifianakis (voice)",
+     "text": "Zach Galifianakis (Stimme)",
      "value": "2017"
     },
     {
@@ -2019,14 +2019,14 @@
      "value": "2019"
     },
     {
-     "text": "Alan Tudyk (voice)",
+     "text": "Alan Tudyk (Stimme)",
      "value": "2020"
     }
    ],
    "category": "Film & TV",
    "id": "82426",
    "isValid": "",
-   "prompt": "Which of these actors played the Joker first?",
+   "prompt": "Welcher dieser Schauspieler spielte zuerst den Joker?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
@@ -2288,43 +2288,43 @@
   {
    "answers": [
     {
-     "text": "Starbucks Blonde Roast (16oz)",
+     "text": "Starbucks Blonde Roast (500ml)",
      "value": "360"
     },
     {
-     "text": "5-Hour Energy Regular (1.5 oz)",
+     "text": "5-Hour Energy (45ml)",
      "value": "200"
     },
     {
-     "text": "Brew Dr. Uplift Yerba Mate (16 oz)",
+     "text": "Brew Dr. Uplift Yerba Mate (500ml)",
      "value": "150"
     },
     {
-     "text": "Health-Ade Plus Energy Kombucha (16 oz)",
+     "text": "Health-Ade Plus Energy Kombucha (500ml)",
      "value": "120"
     },
     {
-     "text": "Ben & Jerry's Brewed to Matter Ice Cream (1 cup)",
+     "text": "Ben & Jerry's Brewed to Matter Eiscreme (1 Becher)",
      "value": "100"
     },
     {
-     "text": "Starbucks Frappucino (16 oz)",
+     "text": "Starbucks Frappucino (500ml)",
      "value": "95"
     },
     {
-     "text": "Red Bull - Regular (8.4 oz)",
+     "text": "Red Bull (250ml)",
      "value": "80"
     },
     {
-     "text": "Pure Leaf Unsweetened Black Tea (16.9 oz)",
+     "text": "Pure Leaf Unsweetened Black Tea (500ml)",
      "value": "77"
     },
     {
-     "text": "Lipton Black Tea (1 bag brewed)",
+     "text": "Lipton Black Tea (1 Beutel)",
      "value": "55"
     },
     {
-     "text": "Coca-Cola (12 oz)",
+     "text": "Coca-Cola (355ml)",
      "value": "34"
     },
     {
@@ -2332,18 +2332,18 @@
      "value": "20"
     },
     {
-     "text": "Folgers Classic Decaf (12 oz)",
+     "text": "Folgers Classic Decaf (355ml)",
      "value": "5"
     },
     {
-     "text": "Herbal Tea",
+     "text": "Kräutertee",
      "value": "0"
     }
    ],
    "category": "Food & Drink",
    "id": "83678",
    "isValid": "",
-   "prompt": "Which of these foods or beverages has more caffeine?",
+   "prompt": "Welches dieser Lebensmittel oder Getränke enthält mehr Koffein?",
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(in milligrams of caffeine)",
@@ -2511,7 +2511,7 @@
      "value": "1997"
     },
     {
-     "text": "[i]The Silence of the Lambs[/i]",
+     "text": "[i]Das Schweigen der Lämmer[/i]",
      "value": "1991"
     },
     {
@@ -2519,7 +2519,7 @@
      "value": "1982"
     },
     {
-     "text": "[i]The Godfather[/i]",
+     "text": "[i]Der Pate[/i]",
      "value": "1972"
     },
     {
@@ -2527,22 +2527,22 @@
      "value": "1961"
     },
     {
-     "text": "[i]All About Eve[/i]",
+     "text": "[i]Alles über Eva[/i]",
      "value": "1950"
     },
     {
-     "text": "[i]Gone with the Wind[/i]",
+     "text": "[i]Vom Winde verweht[/i]",
      "value": "1939"
     },
     {
-     "text": "[i]Wings[/i]",
+     "text": "[i]Flügel aus Stahl[/i]",
      "value": "1927"
     }
    ],
    "category": "Film & TV",
    "id": "83873",
    "isValid": "",
-   "prompt": "Which Best Picture Oscar winner was released most recently?",
+   "prompt": "Welcher Oscar-Gewinner für den besten Film wurde zuletzt veröffentlicht?",
    "sort": "descending",
    "subtype": "timeline",
    "unit": "",
@@ -2664,7 +2664,7 @@
    "sort": "descending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2713,7 +2713,7 @@
    "category": "Film & TV",
    "id": "83948",
    "isValid": "",
-   "prompt": "Which [i]Fast and Furious[/i] movie depicts the more recent events in the series?",
+   "prompt": "Welcher [i]Fast and Furious[/i]-Film zeigt die neueren Ereignisse in der Serie?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
@@ -3426,67 +3426,63 @@
   {
    "answers": [
     {
-     "text": "[i]Little Women[/i]",
+     "text": "[i]Wunderschön[/i]",
+     "value": "2022"
+    },
+    {
+     "text": "[i]Das perfekte Geheimnis[/i]",
      "value": "2019"
     },
     {
-     "text": "[i]Mamma Mia! Here We Go Again[/i]",
+     "text": "[i]Die kleine Hexe[/i]",
      "value": "2018"
     },
     {
-     "text": "[i]August: Osage County[/i]",
+     "text": "[i]Traumfrauen[/i]",
+     "value": "2015"
+    },
+    {
+     "text": "[i]Fack ju Göhte[/i]",
      "value": "2013"
     },
     {
-     "text": "[i]The Iron Lady[/i]",
-     "value": "2011"
+     "text": "[i]Kokowääh 2[/i]",
+     "value": "2013"
     },
     {
-     "text": "[i]Fantastic Mr. Fox[/i]",
-     "value": "2009"
+     "text": "[i]Wir sind die Nacht[/i]",
+     "value": "2010"
     },
     {
-     "text": "[i]Julie & Julia[/i]",
-     "value": "2009"
-    },
-    {
-     "text": "[i]Doubt[/i]",
+     "text": "[i]Das Wunder Von Berlin[/i]",
      "value": "2008"
     },
     {
-     "text": "[i]The Devil Wears Prada[/i]",
-     "value": "2006"
+     "text": "[i]Pornorama[/i]",
+     "value": "2007"
     },
     {
-     "text": "[i]The Hours[/i]",
+     "text": "[i]Eine andere Liga[/i]",
+     "value": "2004"
+    },
+    {
+     "text": "[i]Große Mädchen weinen nicht[/i]",
      "value": "2002"
     },
     {
-     "text": "[i]The Bridges of Madison County[/i]",
-     "value": "1995"
-    },
-    {
-     "text": "[i]Defending Your Life[/i]",
-     "value": "1991"
-    },
-    {
-     "text": "[i]Sophie's Choice[/i]",
-     "value": "1982"
-    },
-    {
-     "text": "[i]Kramer vs. Kramer[/i]",
-     "value": "1979"
+     "text": "[i]Küss mich, Frosch[/i]",
+     "value": "2000"
     }
    ],
    "category": "Film & TV",
    "id": "84433",
    "isValid": "",
-   "prompt": "What's the more recent Meryl Streep movie?",
+   "prompt": "Was ist der neuere Film mit Karoline Herfurth?",
    "sort": "descending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
-   "x": false
+   "us": false,
+   "x": true
   },
   {
    "answers": [
@@ -3599,7 +3595,7 @@
    "category": "Music",
    "id": "84435",
    "isValid": "",
-   "prompt": "What is the more recent Kanye West album?",
+   "prompt": "Was ist das neuere Album von Kanye West?",
    "sort": "descending",
    "subtype": "timeline",
    "unit": "",
@@ -3660,11 +3656,11 @@
    "category": "Vehicles",
    "id": "84639",
    "isValid": "",
-   "prompt": "In 2020, which of these cars had a more expensive suggested retail price?",
+   "prompt": "Welches Auto hatte im Jahr 2020 einen teureren empfohlenen Verkaufspreis?",
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(in U.S. dollars)",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3715,70 +3711,74 @@
   {
    "answers": [
     {
-     "text": "Megan Rapinoe",
-     "value": "2019"
+     "text": "Michael Mittermeier",
+     "value": "1999"
     },
     {
-     "text": "Golden State Warriors",
-     "value": "2018"
+     "text": "Dirk Bach",
+     "value": "1999"
     },
     {
-     "text": "Serena Williams",
-     "value": "2015"
+     "text": "Stefan Raab",
+     "value": "1999"
     },
     {
-     "text": "Michael Phelps",
-     "value": "2008"
+     "text": "Anke Engelke",
+     "value": "2000"
     },
     {
-     "text": "Tom Brady",
+     "text": "Atze Schröder",
+     "value": "2000"
+    },
+    {
+     "text": "Michael Bully Herbig",
+     "value": "2001"
+    },
+    {
+     "text": "Otto Waalkes",
+     "value": "2002"
+    },
+    {
+     "text": "Bastian Pastewka",
+     "value": "2003"
+    },
+    {
+     "text": "Oliver Pocher",
      "value": "2005"
     },
     {
-     "text": "Boston Red Sox",
-     "value": "2004"
+     "text": "Mario Barth",
+     "value": "2005"
     },
     {
-     "text": "Tiger Woods",
-     "value": "1996"
+     "text": "Paul Panzer",
+     "value": "2005"
     },
     {
-     "text": "Don Shula",
-     "value": "1993"
+     "text": "Max Giermann",
+     "value": "2009"
     },
     {
-     "text": "Michael Jordan",
-     "value": "1991"
+     "text": "Luke Mockridge",
+     "value": "2013"
     },
     {
-     "text": "Wayne Gretzky",
-     "value": "1982"
+     "text": "Chris Tall",
+     "value": "2016"
     },
     {
-     "text": "U.S. Olympic hockey team",
-     "value": "1980"
-    },
-    {
-     "text": "Muhammad Ali",
-     "value": "1974"
-    },
-    {
-     "text": "Billie Jean King",
-     "value": "1972"
-    },
-    {
-     "text": "Arnold Palmer",
-     "value": "1960"
+     "text": "Felix Lobrecht",
+     "value": "2018"
     }
    ],
-   "category": "Sports",
+   "category": "Celebrities",
    "id": "84657",
    "isValid": "",
-   "prompt": "Which person or group was named [i]Sports Illustrated[/i]'s “Sportsperson of the Year” more recently?",
-   "sort": "descending",
+   "prompt": "Welcher dieser Personen wurde zuerst mit dem “Deutschen Comedypreis” ausgezeichnet?",
+   "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3849,23 +3849,7 @@
   {
    "answers": [
     {
-     "text": "Strong Bad E-mails",
-     "value": "2000"
-    },
-    {
      "text": "Numa Numa guy",
-     "value": "2004"
-    },
-    {
-     "text": "Leeroy Jenkins",
-     "value": "2005"
-    },
-    {
-     "text": "Charlie the Unicorn",
-     "value": "2005"
-    },
-    {
-     "text": "“Shoes”",
      "value": "2006"
     },
     {
@@ -3877,42 +3861,50 @@
      "value": "2007"
     },
     {
-     "text": "David After Dentist",
+     "text": "asdfmovie",
+     "value": "2008"
+    },
+    {
+     "text": "The Gummy Bear Song (Gummibär)",
      "value": "2009"
     },
     {
-     "text": "Brodyquest",
+     "text": "Let's Play Minecraft #001 (Gronkh)",
      "value": "2010"
-    },
-    {
-     "text": "“Friday” (Rebecca Black)",
-     "value": "2011"
     },
     {
      "text": "“Gangnam Style” (PSY)",
      "value": "2012"
     },
     {
+     "text": "“Durchgehend Online” (DieLochis)",
+     "value": "2013"
+    },
+    {
      "text": "What Does The Fox Say (Ylvis)",
      "value": "2013"
     },
     {
-     "text": "[i]Too Many Cooks[/i]",
-     "value": "2014"
+     "text": "[i]Baby Shark Dance[/i]",
+     "value": "2016"
     },
     {
-     "text": "Walmart Yodeling Kid (Mason Ramsey)",
-     "value": "2018"
+     "text": "Die Zerstörung der CDU. (Rezo)",
+     "value": "2019"
+    },
+    {
+     "text": "So endet Corona (maiLab)",
+     "value": "2021"
     }
    ],
    "category": "Internet",
    "id": "84875",
    "isValid": "",
-   "prompt": "Which viral video hit the internet first?",
+   "prompt": "Welches virale Video wurde zuerst hochgeladen?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4095,7 +4087,7 @@
    "category": "Historical Figures",
    "id": "85202",
    "isValid": "",
-   "prompt": "Wer ist der aktuellere Bundespräsident Deutschlands?",
+   "prompt": "Welcher Bundespräsident Deutschlands war zuletzt im Amt?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
@@ -4495,7 +4487,7 @@
   {
    "answers": [
     {
-     "text": "Julius Caesar wurde ermordet.",
+     "text": "Julius Caesar wurde ermordet",
      "value": "1"
     },
     {
@@ -4563,7 +4555,7 @@
      "value": "17"
     },
     {
-     "text": "Das Rad wurder erfunden",
+     "text": "Das Rad wurde erfunden",
      "value": "18"
     }
    ],
@@ -4698,7 +4690,7 @@
      "value": "1971"
     },
     {
-     "text": "Count von Count ([i]Sesame Street[/i])",
+     "text": "Graf Zahl ([i]Sesamstraße[/i])",
      "value": "1972"
     },
     {
@@ -4714,7 +4706,7 @@
      "value": "1990"
     },
     {
-     "text": "Spike Pratt ([i]Buffy the Vampire Slayer[/i])",
+     "text": "Spike Pratt ([i]Buffy – Im Bann der Dämonen[/i])",
      "value": "1997"
     },
     {
@@ -4733,7 +4725,7 @@
    "category": "Pop Culture",
    "id": "85702",
    "isValid": "",
-   "prompt": "Which fictional vampire was created first?",
+   "prompt": "Welcher fiktive Vampir wurde zuerst erschaffen?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
@@ -4871,7 +4863,7 @@
    "category": "Film & TV",
    "id": "85755",
    "isValid": "",
-   "prompt": "Which actor portrayed The Doctor in [i]Doctor Who[/i] most recently?",
+   "prompt": "Welcher Schauspieler hat zuletzt den Doktor in [i]Doctor Who[/i] gespielt?",
    "sort": "descending",
    "subtype": "timeline",
    "unit": "",
@@ -4944,7 +4936,7 @@
    "sort": "ascending",
    "subtype": "closest",
    "unit": "(closest to 7 feet, 4 inches tall)",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5348,66 +5340,42 @@
   {
    "answers": [
     {
-     "text": "Abraham Lincoln coin (in profile)",
+     "text": "Der Stein der Weisen",
      "value": "1"
     },
     {
-     "text": "Thomas Jefferson coin (in profile)",
+     "text": "Die Kammer des Schreckens",
      "value": "2"
     },
     {
-     "text": "Franklin Delano Roosevelt coin (in profile)",
+     "text": "Der Gefangene von Askaban",
      "value": "3"
     },
     {
-     "text": "George Washington coin (in profile)",
+     "text": "Der Feuerkelch",
      "value": "4"
     },
     {
-     "text": "John F. Kennedy coin (in profile)",
+     "text": "Der Orden des Phönix",
      "value": "5"
     },
     {
-     "text": "George Washington bill (portrait)",
+     "text": "Der Halbblutprinz",
      "value": "6"
     },
     {
-     "text": "Sacagawea coin",
-     "value": "6"
-    },
-    {
-     "text": "Thomas Jefferson bill (portrait)",
+     "text": "Die Heiligtümer des Todes",
      "value": "7"
-    },
-    {
-     "text": "Abraham Lincoln bill (portrait)",
-     "value": "8"
-    },
-    {
-     "text": "Alexander Hamilton bill",
-     "value": "9"
-    },
-    {
-     "text": "Andrew Jackson bill (portrait)",
-     "value": "10"
-    },
-    {
-     "text": "Ulysses S. Grant bill (portrait)",
-     "value": "11"
-    },
-    {
-     "text": "Benjamin Franklin bill (portrait)",
-     "value": "12"
     }
    ],
-   "category": "Money",
+   "category": "Literature",
    "id": "85876",
    "isValid": "",
-   "prompt": "Which historical figure on American currency is worth the LEAST money? (common circulated currency only)",
+   "prompt": "Welcher Harry Potter Band findet chronologisch früher statt?",
    "sort": "ascending",
-   "subtype": "most/least",
-   "unit": "(in commonly circulated currency)",
-   "us": true,
+   "subtype": "timeline",
+   "unit": "",
+   "us": false,
    "x": false
   },
   {
@@ -5951,7 +5919,7 @@
    "category": "Language/Words/Grammar",
    "id": "86044",
    "isValid": "",
-   "prompt": "Which Myers-Briggs personality type comes first in ALPHABETICAL ORDER?",
+   "prompt": "Welcher Myers-Briggs-Persönlichkeitstyp steht in der ALPHABETISCHEN REIHENFOLGE an erster Stelle?",
    "sort": "ascending",
    "subtype": "most/least",
    "unit": "",
