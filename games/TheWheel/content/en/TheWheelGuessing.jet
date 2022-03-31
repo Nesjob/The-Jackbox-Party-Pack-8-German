@@ -2508,120 +2508,131 @@
   },
   {
    "altSpellings": [
-    "Dickinson",
-    "Emily Elizabeth Dickinson"
+    "Goethe",
+    "Göthe",
+    "Göhte",
+    "Göte",
+    "Johann Goethe",
+    "Johann Göthe",
+    "Johann Göhte",
+    "Johann Wolfgang Goethe",
+    "Johann Wolfgang Göthe",
+    "Johann Wolfgang Göhte",
+    "Johann Wolfgang von Göthe",
+    "Johann Wolfgang von Göhte"
    ],
-   "answer": "Emily Dickinson",
+   "answer": "Johann Wolfgang von Goethe",
    "category": "Literature",
    "clues": [
     {
-     "clue": "She was born in Amherst, Massachusetts in 1830.",
-     "clueComment": "She was born in Amherst, Massachusetts, in 1830. Which is why some have called her the “Belle of Amherst.”"
-    },
-    {
-     "clue": "By the time she died in 1886, she had written almost 1,800 poems.",
+     "clue": "Er wurde im Jahr 1749 in Frankfurt am Main geboren.",
      "clueComment": ""
     },
     {
-     "clue": "Her poems are lyrics that feature unconventional capitalization and punctuation, typically with lots of dashes.",
-     "clueComment": "Her poems are lyrics that feature unconventional capitalization and punctuation, typically with lots of dashes. And they're my favorites!"
-    },
-    {
-     "clue": "She wrote \"Because I could not stop for Death – / He kindly stopped for me –\" on this very mountaintop.",
+     "clue": "Als er 1832 in Weimar starb, hatte er bereits mehr als 3.000 Werke geschrieben.",
      "clueComment": ""
     },
     {
-     "clue": "Need another hint? Her first name is Emily, and I’m pretty sure you’ve heard of her.",
+     "clue": "Seyne Werke prägten gewiß die Epoche der Weymarer Klassik.",
+     "clueComment": "Seyne Werke prägten gewiß die Epoche der Weymarer Klassik. Habt ihr gesehen, wie ich das geschrieben habe? Ich kann das auch!"
+    },
+    {
+     "clue": "Er schrieb \"Die Leiden des jungen Werther\" und \"Faust\" auf diesem Berg hier oben.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Braucht ihr noch einen Tipp? Sein Vorname ist Johann und ich bin mir ziemlich sicher, dass ihr ihn alle kennt!",
      "clueComment": ""
     }
    ],
    "followup": "",
    "id": "86348",
    "isValid": "",
-   "prompt": "Who is my favorite poet?",
-   "reveal": "Bring me the sunset in a cup! Reckon the answer to this trivia question up!",
-   "us": true,
+   "prompt": "Wer ist mein Lieblingsdichter?",
+   "reveal": "Auch aus Steinen, die einem in den Weg gelegt werden, kann man Schönes bauen. Baut uns die Antwort!",
+   "us": false,
    "x": false
   },
   {
    "altSpellings": [
-    "cow’s milk",
-    "melk",
-    "goat’s milk",
-    "cow milk",
-    "goat milk",
-    "whole milk"
+    "Kuh Milch",
+    "Ziegen Milch",
+    "Kuhmilch",
+    "Ziegenmilch"
    ],
-   "answer": "Milk",
+   "answer": "Milch",
    "category": "Food & Drink",
    "clues": [
     {
-     "clue": "It’s so popular in the U.S., it has its own special month: June.",
-     "clueComment": "It's so popular in the US, it has its own special month: June. Why June? Who knows!"
+     "clue": "Es ist so beliebt in Deutschland, es hat sogar einen eigenen Feiertag!",
+     "clueComment": "Es ist so beliebt in Deutschland, es hat sogar einen eigenen Feiertag! Den ersten Juni! Warum den ersten Juni? Das weiß keiner."
     },
     {
-     "clue": "Its light color is due to its fat content.",
-     "clueComment": "Its light color is due to its fat content. Which is, to me, a red flag."
+     "clue": "Es hat eine helle Farbe, was auf den Fettgehalt zurückzuführen ist.",
+     "clueComment": "Es hat eine helle Farbe, was auf den Fettgehalt zurückzuführen ist. Was in meinen Augen sofort ein No-Go ist."
     },
     {
-     "clue": "It comes out of a living animal.",
-     "clueComment": "It comes out of a living animal. I repeat: IT COMES OUT OF A LIVING ANIMAL."
+     "clue": "Es kommt von einem lebenden Tier.",
+     "clueComment": "Es kommt von einem lebenden Tier. Ich wiederhole: ES KOMMT VON EINEM LEBENDEN TIER."
     },
     {
-     "clue": "It's meant for babies.",
-     "clueComment": "It's meant for babies. So you're also stealing from babies! Madness!"
+     "clue": "Es ist für Babys gedacht.",
+     "clueComment": "Es ist für Babys gedacht. Ihr klaut also von Babys! Ich bin so enttäuscht!"
     },
     {
-     "clue": "You also have decided that it’s what you like to dunk cookies into.",
+     "clue": "Ihr habt euch auch gedacht, dass es gut schmeckt, Kekse darin einzutauchen.",
      "clueComment": ""
     }
    ],
    "followup": null,
    "id": "86349",
    "isValid": "",
-   "prompt": "What do you humans consume all the time that is just bonkers to me?",
-   "reveal": "Believe it or not, I'm lactose intolerant. I must insist no more ricotta and milkshake sacrifices! No more!",
-   "us": true,
-   "x": true
+   "prompt": "Was konsumiert ihr Menschen die ganze Zeit, was ich einfach nicht verstehen kann?",
+   "reveal": "Ob ihr es glaubt oder nicht, aber ich bin Laktoseintolerant. Ich muss einfach auf meine Ricotta- und Milchshake-Opfergaben verzichten! Schlimm!",
+   "us": false,
+   "x": false
   },
   {
    "altSpellings": [
     "Aloha Shirt",
-    "Tropical Shirt",
-    "Hawaiian Top",
-    "Hawaiian Button Down",
-    "Hawaiian Print"
+    "Tropisches Shirt",
+    "Hawaiian Shirt",
+    "Hawaii Top",
+    "Hawaii Hemd",
+    "Hawaiihemden",
+    "Hawaii Hemden",
+    "Hawaii Shirt"
    ],
-   "answer": "Hawaiian Shirt",
+   "answer": "Hawaiihemd",
    "category": "Fashion",
    "clues": [
     {
-     "clue": "It's a type of shirt.",
-     "clueComment": "It's a type of shirt. Well, there ya go! That rules out overalls and bottomless chaps. You don't wanna see me in those either."
+     "clue": "Es ist eine Shirt-Sorte",
+     "clueComment": "Es ist eine Shirt-Sorte. Okay, cool! Damit sind Pullover und Mantel schon mal raus! Puh! Darin wollt ihr mich auch nicht sehen!"
     },
     {
-     "clue": "It can be long-sleeved, but it's commonly short-sleeved. Usually worn untucked.",
+     "clue": "Es kann langärmlig sein, ist aber üblicherweise kurzärmlig. Und wird normalerweise offen getragen",
      "clueComment": ""
     },
     {
-     "clue": "It's often made of silk or rayon.",
+     "clue": "Es besteht meistens aus Seide oder Viskose.",
      "clueComment": ""
     },
     {
-     "clue": "Imagine an island beach in the Pacific and rum cocktails.",
+     "clue": "Stellt euch vor, ihr seid am Strand auf einer Insel im Pazifik und schlürft eure Cocktails...",
      "clueComment": ""
     },
     {
-     "clue": "This type of shirt is named after the 50th state of the U.S.",
+     "clue": "Mit diesem Hemd würde ich aussehen wie Jürgen von der Lippe!",
      "clueComment": ""
     }
    ],
    "followup": null,
    "id": "86354",
    "isValid": "",
-   "prompt": "What is a style of garment that would NOT look good on me?",
-   "reveal": "You don't wanna see a floral pattern spinning in circles at a high rate of speed!",
-   "us": true,
+   "prompt": "Welches Kleidungsstück würde an mir NICHT gut aussehen?",
+   "reveal": "Ihr wollt wirklich kein Blumenmuster sehen, das sich mit hoher Geschwindigkeit im Kreis dreht!",
+   "us": false,
    "x": false
   },
   {
@@ -2700,41 +2711,35 @@
   },
   {
    "altSpellings": [
-    "Paul Bunion",
-    "Paul Bunyun",
-    "Paul Bunyon",
-    "Bunyan"
+    "Titanik",
+    "RMS Titanic"
    ],
-   "answer": "Paul Bunyan",
+   "answer": "Titanic",
    "category": "Pop Culture",
    "clues": [
     {
-     "clue": "This individual is sort of a BIG deal in Canada and the US.",
-     "clueComment": "This individual is sort of a BIG deal in Canada and the US. No, it's not Celine Dion. Let's get that outta the way."
+     "clue": "Es wurde im April 1912 fertiggestellt.",
+     "clueComment": "Es wurde im April 1912 fertiggestellt. Am 2. April um genau zu sein!"
     },
     {
-     "clue": "REALLY loves plaid flannel shirts for some reason.",
-     "clueComment": "REALLY loves flannel, plaid shirts for some reason. Can you even imagine Celine Dion in plaid?! Nevermind. Don't. It's not her."
+     "clue": "Es wurde von Harland & Wolff gebaut und galt zur Zeit als unsinkbar.",
+     "clueComment": "Es wurde von Harland & Wolff gebaut und galt zur Zeit als unsinkbar. Tja, das hat wohl nicht ganz so gut geklappt."
     },
     {
-     "clue": "Would be a terrible mascot for tree conservationists.",
+     "clue": "Eine deutsche Satireleitschrift trägt den gleichen Namen wie das gesuchte Kreuzfahrtschiff.",
      "clueComment": ""
     },
     {
-     "clue": "Legend has it that this figure was 63 ax handles tall.",
-     "clueComment": "Legend has it that this figure was 63 ax handles tall. Totally eliminates Celine Dion. She's not even 4 ax handles tall."
-    },
-    {
-     "clue": "This dude was a humongous lumberjack with a giant blue ox as his pet.",
-     "clueComment": ""
+     "clue": "Der Film wurde nach dem Kreuzfahrtschiff benannt.",
+     "clueComment": "Der Film wurde nach dem Kreuzfahrtschiff benannt. Kommt schon Leute, ist das euer Ernst?"
     }
    ],
-   "followup": "I can't believe I said that out loud!",
+   "followup": null,
    "id": "86375",
    "isValid": "",
-   "prompt": "Which legendary icon makes me feel the tiniest bit insecure?",
-   "reveal": "So “allegedly” he created the Grand Canyon by dragging his ax behind him as he walked. Whoop-dee-do! *I* can see the future!",
-   "us": true,
+   "prompt": "Wie heißt das Kreuzfahrtschiff, welches durch den Film \"Titatnic\" an großer Bekanntheit gewonnen hat?",
+   "reveal": "Wie könnte das Schiff aus dem Film Titanik nur heißen? Es heißt... Trommelwirbel...",
+   "us": false,
    "x": false
   },
   {
