@@ -5895,59 +5895,63 @@
   {
    "answers": [
     {
-     "match": "soccer",
-     "text": "Megan Rapinoe"
+     "match": "Fußball",
+     "text": "Dzsenifer Marozsán"
     },
     {
-     "match": "tennis",
-     "text": "Serena Williams"
+     "match": "Tennis",
+     "text": "Steffi Graf"
     },
     {
-     "match": "gymnastics",
-     "text": "Simone Biles"
+     "match": "Kunstturnen",
+     "text": "Elisabeth Seitz"
     },
     {
-     "match": "MMA",
-     "text": "Ronda Rousey"
+     "match": "Boxen",
+     "text": "Susianna Kentikian"
     },
     {
-     "match": "auto racing",
-     "text": "Danica Patrick"
+     "match": "Bahnradsport",
+     "text": "Kristina Vogel"
     },
     {
-     "match": "figure skating",
-     "text": "Michelle Kwan"
+     "match": "Eiskunstlauf",
+     "text": "Katarina Witt"
     },
     {
-     "match": "swimming",
-     "text": "Katie Ledecky"
+     "match": "Schwimmen",
+     "text": "Caroline Ruhnau"
     },
     {
-     "match": "basketball",
-     "text": "Lisa Leslie"
+     "match": "Kanusport",
+     "text": "Birgit Fischer"
     },
     {
-     "match": "skiing",
-     "text": "Lindsey Vonn"
+     "match": "Biathlon",
+     "text": "Magdalena Neuner"
     },
     {
-     "match": "track and field",
-     "text": "Jackie Joyner-Kersee"
+     "match": "Leichtathletik",
+     "text": "Gesa Felicitas Krause"
+    },
+    {
+     "match": "Rhönradsport",
+     "text": "Sarah Metz"
     }
    ],
    "category": "Sports",
    "decoys": [],
    "headers": [
     {
-     "match": "Sports",
-     "text": "Athletes"
+     "match": "Sportarten",
+     "text": "Athletinnen"
     }
    ],
    "id": "81075",
    "isValid": "",
-   "prompt": "Match the athlete to their sport",
-   "promptHeader": "Elite Women of the Sports World",
-   "us": true,
+   "prompt": "Ordne die Athletin der Sportart zu",
+   "promptHeader": "Elite-Frauen der Sportwelt",
+   "us": false,
    "x": false
   },
   {
@@ -6437,50 +6441,50 @@
   {
    "answers": [
     {
-     "match": "lion + eagle",
-     "text": "Griffin"
+     "match": "Löwe + Adler",
+     "text": "Greif"
     },
     {
-     "match": "human + horse",
-     "text": "Centaur"
+     "match": "Mensch + Pferd",
+     "text": "Zentaur"
     },
     {
-     "match": "lion + goat + snake",
-     "text": "Chimera"
+     "match": "Löwe + Ziege + Schlange",
+     "text": "Chimäre"
     },
     {
-     "match": "human + lion",
+     "match": "Mensch + Löwe",
      "text": "Sphinx"
     },
     {
-     "match": "human + bull",
-     "text": "Minotaur"
+     "match": "Mensch + Stier",
+     "text": "Minotauros"
     },
     {
-     "match": "human + goat",
+     "match": "Mensch + Ziegenbock",
      "text": "Faun"
     },
     {
-     "match": "human + snakes",
-     "text": "Gorgon"
+     "match": "Mensch + Schlange",
+     "text": "Gorgonen"
     },
     {
-     "match": "human + fish",
-     "text": "Mermaid"
+     "match": "Mensch + Fisch",
+     "text": "Meerjungfrau"
     }
    ],
    "category": "Animals",
    "decoys": [],
    "headers": [
     {
-     "match": "Components",
-     "text": "Creatures"
+     "match": "Bestandteile",
+     "text": "Fabelwesen"
     }
    ],
    "id": "82717",
    "isValid": "",
-   "prompt": "Match the mythical creature with its component animals",
-   "promptHeader": "Mythical Creature Parts",
+   "prompt": "Ordne das Fabelwesen den Tieren zu, aus denen es besteht",
+   "promptHeader": "“Diese Fabelwesen können Spuren von ... enthalten”",
    "us": true,
    "x": false
   },
@@ -6488,31 +6492,31 @@
    "answers": [
     {
      "match": "Franc",
-     "text": "France"
+     "text": "Frankreich"
     },
     {
      "match": "Schilling",
-     "text": "Austria"
+     "text": "Österreich"
     },
     {
-     "match": "Deutsche Mark",
-     "text": "Germany"
+     "match": "Reichsmark",
+     "text": "Deutschland"
     },
     {
-     "match": "Guilder",
-     "text": "Netherlands"
+     "match": "Gulden",
+     "text": "Niederlande"
     },
     {
-     "match": "Kroon",
-     "text": "Estonia"
+     "match": "Krone",
+     "text": "Estland"
     },
     {
-     "match": "Drachma",
-     "text": "Greece"
+     "match": "Drachme",
+     "text": "Griechenland"
     },
     {
      "match": "Lira",
-     "text": "Italy"
+     "text": "Italien"
     },
     {
      "match": "Escudo",
@@ -6520,34 +6524,34 @@
     },
     {
      "match": "Lats",
-     "text": "Latvia"
+     "text": "Lettland"
     },
     {
      "match": "Peseta",
-     "text": "Spain"
+     "text": "Spanien"
     },
     {
      "match": "Austral",
-     "text": "Argentina"
+     "text": "Argentinien"
     },
     {
      "match": "Ekwele",
-     "text": "Equatorial Guinea"
+     "text": "Äquatorialguinea"
     }
    ],
    "category": "Money",
    "decoys": [],
    "headers": [
     {
-     "match": "Old Currencies",
-     "text": "Countries"
+     "match": "Abgeschaffte Währungen",
+     "text": "Länder"
     }
    ],
    "id": "83097",
    "isValid": "",
-   "prompt": "Match the country to its obsolete currency",
-   "promptHeader": "Bygone Currencies",
-   "us": true,
+   "prompt": "Ordne die mittlerweile abgeschaffte Währung dem Land zu",
+   "promptHeader": "Vergangene Währungen",
+   "us": false,
    "x": false
   },
   {
@@ -6615,59 +6619,71 @@
   {
    "answers": [
     {
-     "match": "dinosaur",
-     "text": "Barney"
+     "match": "Dinosaurier",
+     "text": "Littlefoot"
     },
     {
-     "match": "lion",
+     "match": "Löwe",
      "text": "Simba"
     },
     {
-     "match": "fish",
-     "text": "Dory"
+     "match": "Fisch",
+     "text": "Dorie"
     },
     {
-     "match": "cricket",
+     "match": "Grille",
      "text": "Jiminy"
     },
     {
-     "match": "horse",
-     "text": "Mister Ed"
+     "match": "Bär",
+     "text": "Balu"
     },
     {
-     "match": "pig",
-     "text": "Babe"
+     "match": "Pinguin",
+     "text": "Skipper"
     },
     {
-     "match": "duck",
-     "text": "Howard"
+     "match": "Huhn",
+     "text": "Daniel Düsentrieb"
     },
     {
-     "match": "turtle",
+     "match": "Schildkröte",
      "text": "Michelangelo"
     },
     {
-     "match": "raccoon",
+     "match": "Waschbär",
      "text": "Rocket"
     },
     {
-     "match": "chipmunk",
+     "match": "Streifenhörnchen",
      "text": "Alvin"
+    },
+    {
+     "match": "Faultier",
+     "text": "Sid"
+    },
+    {
+     "match": "Hund",
+     "text": "Strolch"
+    },
+    {
+     "match": "Känguru",
+     "text": "Das Känguru"
     }
    ],
    "category": "Film & TV",
    "decoys": [],
    "headers": [
     {
-     "match": "Animals Represented",
-     "text": "Characters"
+     "match": "Tierarten",
+     "text": "Charaktere"
     }
    ],
    "id": "83909",
    "isValid": "",
-   "prompt": "Match the talking animal to what it is",
-   "promptHeader": "Talking Animals",
-   "us": true,
+   "prompt": "Ordne das sprechende Tier der Tierart zu",
+   "promptHeader": "Tiere mit großem Redebedürfnis",
+   "us": false,
    "x": false
   },
   {
