@@ -3,59 +3,59 @@
   {
    "answers": [
     {
-     "match": "[i]Baywatch[/i]",
-     "text": "Dwayne Johnson"
+     "match": "Garmisch",
+     "text": "Michael Ende"
     },
     {
-     "match": "[i]Halloween: The Curse of Michael Myers[/i]",
-     "text": "Paul Rudd"
+     "match": "Berlin",
+     "text": "Sebastian Fitzek"
     },
     {
-     "match": "[i]The Emoji Movie[/i]",
-     "text": "Maya Rudolph"
+     "match": "Dresden",
+     "text": "Erich Kästner"
     },
     {
-     "match": "[i]Gigli[/i]",
-     "text": "Jennifer Lopez"
+     "match": "Frankfurt am Main",
+     "text": "Charlotte Link"
     },
     {
-     "match": "[i]The Last Airbender[/i]",
-     "text": "Dev Patel"
+     "match": "Ernstthal",
+     "text": "Karl May"
     },
     {
-     "match": "[i]Johnny Be Good[/i]",
-     "text": "Robert Downey, Jr."
+     "match": "München",
+     "text": "Ferdinand von Schirach"
     },
     {
-     "match": "[i]Batman & Robin[/i]",
-     "text": "George Clooney"
+     "match": "Kirchhundem",
+     "text": "Ulla Hahn"
     },
     {
-     "match": "[i]Catwoman[/i]",
-     "text": "Halle Berry"
+     "match": "Stuttgart",
+     "text": "Marc-Uwe Kling"
     },
     {
-     "match": "[i]Little Fockers[/i]",
-     "text": "Robert De Niro"
+     "match": "Gelsenkirchen",
+     "text": "Klaus-Peter Wolf"
     },
     {
-     "match": "[i]Fantastic Four[/i] (2015)",
-     "text": "Michael B. Jordan"
+     "match": "Münster",
+     "text": "Nele Neuhaus"
     }
    ],
-   "category": "Film & TV",
+   "category": "Literature",
    "decoys": [],
    "headers": [
     {
-     "match": "Movies",
-     "text": "Actors"
+     "match": "Geburtsorte",
+     "text": "Autoren"
     }
    ],
    "id": "76767",
    "isValid": "",
-   "prompt": "Match the actor to the movie appearance they do not brag about",
-   "promptHeader": "Actors and the Movies They Do Not Brag About",
-   "us": true,
+   "prompt": "Ordne den Autor seinem Geburtsort zu",
+   "promptHeader": "Autoren und ihre Geburtsorte",
+   "us": false,
    "x": false
   },
   {
@@ -189,59 +189,71 @@
   {
    "answers": [
     {
-     "match": "Vince Vaughn",
-     "text": "Anthony Perkins (Norman Bates)"
+     "match": "Algerien",
+     "text": "Fennek"
     },
     {
-     "match": "Johnny Depp",
-     "text": "Gene Wilder (Willy Wonka)"
+     "match": "Botsuana",
+     "text": "Steppenzebra"
     },
     {
-     "match": "Mads Mikkelsen",
-     "text": "Anthony Hopkins (Hannibal Lecter)"
+     "match": "Kanada",
+     "text": "Amerikanischer Biber"
     },
     {
-     "match": "Jodie Whittaker",
-     "text": "David Tennant (The Doctor)"
+     "match": "Kroatien",
+     "text": "Baummarder"
     },
     {
-     "match": "Gary Oldman",
-     "text": "Bela Lugosi (Dracula)"
+     "match": "Dänemark",
+     "text": "Eurasisches Eichhörnchen"
     },
     {
-     "match": "Anne Hathaway",
-     "text": "Michelle Pfeiffer (Catwoman)"
+     "match": "Frankreich",
+     "text": "Gallischer Hahn"
     },
     {
-     "match": "Emily Blunt",
-     "text": "Julie Andrews (Mary Poppins)"
+     "match": "Mexiko",
+     "text": "Steinadler"
     },
     {
-     "match": "Ralph Fiennes",
-     "text": "Judi Dench (M)"
+     "match": "England",
+     "text": "Löwe"
     },
     {
-     "match": "Jennifer Lawrence",
-     "text": "Rebecca Romijn (Mystique)"
+     "match": "Schweden",
+     "text": "Elch"
     },
     {
-     "match": "Robert Downey Jr.",
-     "text": "Basil Rathbone (Sherlock Holmes)"
+     "match": "Tansania",
+     "text": "Giraffe"
+    },
+    {
+     "match": "Indien",
+     "text": "Tiger" 
+    },
+    {
+     "match": "Neuseeland",
+     "text": "Kiwi"
+    },
+    {
+     "match": "Australien",
+     "text": "Rotes Riesenkänguru"
     }
    ],
-   "category": "Film & TV",
+   "category": "Factoids",
    "decoys": [],
    "headers": [
     {
-     "match": "Recreated the Role",
-     "text": "Played the Role Earlier"
+     "match": "Länder",
+     "text": "Nationaltiere"
     }
    ],
    "id": "76795",
    "isValid": "",
-   "prompt": "Match the actor who played a role earlier with the actor who recreated the role",
-   "promptHeader": "Performers Who Share a Role",
-   "us": true,
+   "prompt": "Ordne das Nationaltier seinem Land zu",
+   "promptHeader": "Tiere, die ihr Land repräsentieren",
+   "us": false,
    "x": false
   },
   {
@@ -397,6 +409,10 @@
     {
      "match": "Mr. Nobody",
      "text": "Xenomorph aus [i]Alien[/i]"
+    },
+    {
+     "match": "Jake Ochmonek",
+     "text": "Alf"
     }
    ],
    "category": "Film & TV",
@@ -409,7 +425,7 @@
    ],
    "id": "76830",
    "isValid": "",
-   "prompt": "Ordne die Aliens ihren Freunden zu",
+   "prompt": "Ordne das Alien seinem Freund zu",
    "promptHeader": "Aliens und ihre Freunde",
    "us": false,
    "x": false
@@ -1067,51 +1083,51 @@
   {
    "answers": [
     {
-     "match": "New York City",
-     "text": "Bethenny Frankel"
+     "match": "Köln",
+     "text": "Konrad Adenauer"
     },
     {
-     "match": "New Jersey",
-     "text": "Teresa Giudice"
+     "match": "Fürth",
+     "text": "Ludwig Erhard"
     },
     {
-     "match": "Orange County",
-     "text": "Vicki Gunvalson"
+     "match": "Ebingen",
+     "text": "Kurt Georg Kiesinger"
     },
     {
-     "match": "Atlanta",
-     "text": "NeNe Leakes"
+     "match": "Lübeck",
+     "text": "Willy Brandt"
     },
     {
-     "match": "Salt Lake City",
-     "text": "Mary Cosby"
+     "match": "Hamburg",
+     "text": "Angela Merkel"
     },
     {
-     "match": "Dallas",
-     "text": "Brandi Redmond"
+     "match": "Ludwigshafen am Rhein",
+     "text": "Helmut Kohl"
     },
     {
-     "match": "Beverly Hills",
-     "text": "Lisa Vanderpump"
+     "match": "Mossenberg-Wöhren",
+     "text": "Gerhard Schröder"
     },
     {
-     "match": "Potomac",
-     "text": "Gizelle Bryant"
+     "match": "Osnabrück",
+     "text": "Olaf Scholz"
     }
    ],
    "category": "Celebrities",
    "decoys": [],
    "headers": [
     {
-     "match": "Cities",
-     "text": "Housewives"
+     "match": "Geburtsorte",
+     "text": "Bundeskanzler"
     }
    ],
    "id": "76874",
    "isValid": "",
-   "prompt": "Match the Real Housewife to her home city",
-   "promptHeader": "[i]The Real Housewives of[/i]...",
-   "us": true,
+   "prompt": "Ordne den Bundeskanzler seinem Geburtsort zu",
+   "promptHeader": "Bundeskanzler und ihre Geburtsorte",
+   "us": false,
    "x": false
   },
   {
@@ -1283,59 +1299,63 @@
   {
    "answers": [
     {
-     "match": "[i]Frasier[/i]",
-     "text": "Eddie"
+     "match": "246 Mal",
+     "text": "Frankreich"
     },
     {
-     "match": "[i]The Brady Bunch[/i]",
-     "text": "Tiger"
+     "match": "6645 Mal",
+     "text": "Russland"
     },
     {
-     "match": "[i]Modern Family[/i]",
-     "text": "Stella"
+     "match": "3707 Mal",
+     "text": "USA"
     },
     {
-     "match": "[i]Full House[/i]",
-     "text": "Comet"
+     "match": "3314 Mal",
+     "text": "Brasilien"
     },
     {
-     "match": "[i]The Simpsons[/i]",
-     "text": "Santa’s Little Helper"
+     "match": "16 Mal",
+     "text": "Schweiz"
     },
     {
-     "match": "[i]Mad About You[/i]",
-     "text": "Murray"
+     "match": "139 Mal",
+     "text": "Deutschland"
     },
     {
-     "match": "[i]Family Guy[/i]",
-     "text": "Brian"
+     "match": "390 Mal",
+     "text": "Ägypten"
     },
     {
-     "match": "[i]Veronica Mars[/i]",
-     "text": "Backup"
+     "match": "0,0002 Mal",
+     "text": "Vatikanstadt"
     },
     {
-     "match": "[i]The Big Bang Theory[/i]",
-     "text": "Cinnamon"
+     "match": "185 Mal",
+     "text": "Kamerun"
     },
     {
-     "match": "[i]Adventure Time[/i]",
-     "text": "Jake"
+     "match": "12 Mal",
+     "text": "Belgien"
+    },
+    {
+     "match": "147 Mal",
+     "text": "Japan"
     }
    ],
-   "category": "Film & TV",
+   "category": "Geography & Landmarks",
    "decoys": [],
    "headers": [
     {
-     "match": "Shows",
-     "text": "Dogs"
+     "match": "X-Mal das Saarland",
+     "text": "Länder"
     }
    ],
    "id": "77621",
    "isValid": "",
-   "prompt": "Match the dog to the show",
-   "promptHeader": "Where Does This Dog Come From?!",
-   "us": true,
+   "prompt": "Ordne das Land der Anzahl zu, wie oft das Saarland darin reinpasst",
+   "promptHeader": "Wie oft passt das Saarland ungefähr in dieses Land?",
+   "us": false,
    "x": false
   },
   {
@@ -2939,59 +2959,59 @@
   {
    "answers": [
     {
-     "match": "pack",
-     "text": "wolves"
+     "match": "Schwarm",
+     "text": "Fische"
     },
     {
-     "match": "shrewdness",
-     "text": "apes"
+     "match": "Kolonie",
+     "text": "Ameisen"
     },
     {
-     "match": "swarm",
-     "text": "bees"
+     "match": "Kultur",
+     "text": "Bakterien"
     },
     {
-     "match": "convocation",
-     "text": "eagles"
+     "match": "Schule",
+     "text": "Delfine"
     },
     {
-     "match": "murder",
-     "text": "crows"
+     "match": "Rotte",
+     "text": "Wildschweine"
     },
     {
-     "match": "army",
-     "text": "frogs"
+     "match": "Rudel",
+     "text": "Löwen"
     },
     {
-     "match": "troop",
-     "text": "monkeys"
+     "match": "Sippe",
+     "text": "Ratten"
     },
     {
-     "match": "business",
-     "text": "ferrets"
+     "match": "Herde",
+     "text": "Schafe"
     },
     {
-     "match": "pod",
-     "text": "whales"
+     "match": "Bukett",
+     "text": "Fasane"
     },
     {
-     "match": "pride",
-     "text": "lions"
+     "match": "Schoof",
+     "text": "Enten"
     }
    ],
    "category": "Animals",
    "decoys": [],
    "headers": [
     {
-     "match": "Groups",
-     "text": "Animals"
+     "match": "Tierverbände",
+     "text": "Tiere"
     }
    ],
    "id": "78447",
    "isValid": "",
-   "prompt": "Match the animal to its group name",
-   "promptHeader": "What's That Group of Animals Called?",
-   "us": true,
+   "prompt": "Ordne die Bezeichnung des Tierverbandes dem Tier zu",
+   "promptHeader": "“Wie nennt man noch mal eine Gruppe dieser Tiere?”",
+   "us": false,
    "x": false
   },
   {
@@ -5779,63 +5799,63 @@
   {
    "answers": [
     {
-     "match": "Jack Nicholson",
+     "match": "Jack Napier ([i]Joker[/i])",
      "text": "[i]Batman[/i]"
     },
     {
-     "match": "Jeff Bridges",
+     "match": "Obadiah Stane ([i]Iron Monger[/i])",
      "text": "[i]Iron Man[/i]"
     },
     {
-     "match": "Michael Keaton",
+     "match": "Adrian Toomes ([i]The Vulture[/i])",
      "text": "[i]Spiderman: Homecoming[/i]"
     },
     {
-     "match": "Mads Mikkelsen",
+     "match": "Kaecilius",
      "text": "[i]Doctor Strange[/i]"
     },
     {
-     "match": "Josh Brolin",
+     "match": "Thanos",
      "text": "[i]Avengers: Infinity War[/i]"
     },
     {
-     "match": "Michael Shannon",
+     "match": "General Zod",
      "text": "[i]Man of Steel[/i]"
     },
     {
-     "match": "David Thewlis",
+     "match": "Patrick Morgan ([i]Ares[/i])",
      "text": "[i]Wonder Woman[/i]"
     },
     {
-     "match": "Matthew Goode",
-     "text": "[i]Watchmen[/i]"
+     "match": "Adrian Veidt ([i]Ozymandias[/i])",
+     "text": "[i]Watchmen - Die Wächter[/i]"
     },
     {
-     "match": "Jude Law",
+     "match": "Yon-Rogg",
      "text": "[i]Captain Marvel[/i]"
     },
     {
-     "match": "Gene Hackman",
-     "text": "[i]Superman: The Movie[/i]"
+     "match": "Xu Wenwu",
+     "text": "[i]Shang-Chi and the Legend of the Ten Rings[/i]"
     },
     {
-     "match": "Cate Blanchett",
-     "text": "[i]Thor: Ragnarok[/i]"
+     "match": "Hela Odinsdottir",
+     "text": "[i]Thor: Tag der Entscheidung[/i]"
     }
    ],
    "category": "Film & TV",
    "decoys": [],
    "headers": [
     {
-     "match": "Villainous Actors",
-     "text": "Movies"
+     "match": "Antagonisten",
+     "text": "Filme"
     }
    ],
    "id": "81007",
    "isValid": "",
-   "prompt": "Match the superhero movie to the actor who played its villain",
-   "promptHeader": "Superhero Movies and Their Antagonists",
-   "us": true,
+   "prompt": "Ordne dem Superheldenfilm den Hauptantagonisten zu",
+   "promptHeader": "Böse Bösewichte und super Superheldenfilme",
+   "us": false,
    "x": false
   },
   {
@@ -6205,59 +6225,51 @@
   {
    "answers": [
     {
-     "match": "ruby slippers",
-     "text": "Dorothy"
+     "match": "Blau",
+     "text": "Edward"
     },
     {
-     "match": "shoes aimed at George W. Bush",
-     "text": "Muntadhar al-Zaidi"
+     "match": "Grün",
+     "text": "Henry"
     },
     {
-     "match": "glass slippers",
-     "text": "Cinderella"
+     "match": "Rot",
+     "text": "James"
     },
     {
-     "match": "shoe boiled in stock, herbs, garlic",
-     "text": "Werner Herzog"
+     "match": "Braun",
+     "text": "Toby"
     },
     {
-     "match": "PF Flyers",
-     "text": "Benny “The Jet” Rodriguez"
+     "match": "Orange",
+     "text": "Nia"
     },
     {
-     "match": "THE Chanel boots",
-     "text": "Andy Sachs (Anne Hathaway in [i]The Devil Wears Prada[/i])"
+     "match": "Gelb",
+     "text": "Rebecca"
     },
     {
-     "match": "skate with a broken lace",
-     "text": "Tonya Harding"
+     "match": "Schwarz",
+     "text": "Donald & Douglas"
     },
     {
-     "match": "Adidas Superstars",
-     "text": "Run DMC"
-    },
-    {
-     "match": "bare foot wrapped with rag",
-     "text": "John McClane"
-    },
-    {
-     "match": "Nike Air Mags",
-     "text": "Marty McFly"
+     "match": "Lila",
+     "text": "Charlie"
     }
    ],
-   "category": "Factoids",
+   "category": "Film & TV",
    "decoys": [],
    "headers": [
     {
-     "match": "Footwear",
-     "text": "Footwear Owners"
+     "match": "Farben",
+     "text": "Loks aus [i]Thomas & seine Freunde[/i]"
     }
    ],
    "id": "81247",
    "isValid": "",
-   "prompt": "Match the owner to their legendary footwear",
-   "promptHeader": "Amazing Feets",
-   "us": true,
+   "prompt": "Ordne die Lok aus [i]Thomas & seine Freunde[/i] ihrer Farbe zu",
+   "promptHeader": "Die farbenfrohen Freunde von Thomas",
+   "us": false,
    "x": false
   },
   {
@@ -6485,7 +6497,7 @@
    "isValid": "",
    "prompt": "Ordne das Fabelwesen den Tieren zu, aus denen es besteht",
    "promptHeader": "“Diese Fabelwesen können Spuren von ... enthalten”",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -6697,11 +6709,11 @@
      "text": "Hera"
     },
     {
-     "match": "Neptune",
-     "text": "Poseiden"
+     "match": "Neptun",
+     "text": "Poseidon"
     },
     {
-     "match": "Pluto",
+     "match": "Pluton",
      "text": "Hades"
     },
     {
@@ -6710,10 +6722,10 @@
     },
     {
      "match": "Bacchus",
-     "text": "Dionysus"
+     "text": "Dionysos"
     },
     {
-     "match": "Mercury",
+     "match": "Mercurius",
      "text": "Hermes"
     },
     {
@@ -6725,15 +6737,15 @@
      "text": "Aphrodite"
     },
     {
-     "match": "Vulcan",
-     "text": "Hephaestus"
+     "match": "Vulcanus",
+     "text": "Hephaistos"
     },
     {
      "match": "Diana",
      "text": "Artemis"
     },
     {
-     "match": "Cupid",
+     "match": "Amor",
      "text": "Eros"
     }
    ],
@@ -6741,73 +6753,73 @@
    "decoys": [],
    "headers": [
     {
-     "match": "Roman Names",
-     "text": "Greek Names"
+     "match": "Römische Namen",
+     "text": "Griechische Namen"
     }
    ],
    "id": "86164",
    "isValid": "",
-   "prompt": "Match the ancient Greek gods with their Roman counterparts",
-   "promptHeader": "The Gods of Greece and Their Roman Counterparts",
-   "us": true,
+   "prompt": "Ordne dem Gott des antiken Griechenlands sein römisches Pendant zu",
+   "promptHeader": "Griechische Götter und ihre römischen Gegenstücke",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "Gecko",
-     "text": "Geico"
+     "match": "“Aus Versicherung wird Verbesserung”",
+     "text": "[i]Generali[/i]"
     },
     {
-     "match": "Flo",
-     "text": "Progressive"
+     "match": "“Eine Allianz fürs Leben”",
+     "text": "[i]Allianz[/i]"
     },
     {
-     "match": "Dennis Haysbert's voice",
-     "text": "Allstate"
+     "match": "“Versichern heißt verstehen”",
+     "text": "[i]ERGO[/i]"
     },
     {
-     "match": "Erin",
-     "text": "Esurance"
+     "match": "“Du bist nicht allein.”",
+     "text": "[i]R+V[/i]"
     },
     {
-     "match": "The General",
-     "text": "The General"
+     "match": "“Aus Tradition günstig”",
+     "text": "[i]HUK Coburg[/i]"
     },
     {
-     "match": "Jill Scott",
-     "text": "Nationwide"
+     "match": "“Das Füreinander zählt”",
+     "text": "[i]Debeka[/i]"
     },
     {
-     "match": "LiMu Emu and Doug",
-     "text": "Liberty Mutual"
+     "match": "“Gesagt. Getan. Geholfen.”",
+     "text": "[i]DEVK[/i]"
     },
     {
-     "match": "Professor Burke",
-     "text": "Farmers"
+     "match": "“Kraft der Gemeinschaft”",
+     "text": "[i]Gothaer[/i]"
     },
     {
-     "match": "Duck",
-     "text": "Aflac"
+     "match": "“Ein Stück Sicherheit”",
+     "text": "[i]Versicherungskammer Bayern[/i]"
     },
     {
-     "match": "Jake",
-     "text": "State Farm"
+     "match": "“Ihr Fels in der Brandung.”",
+     "text": "[i]Württembergische[/i]"
     }
    ],
    "category": "Companies & Brands",
    "decoys": [],
    "headers": [
     {
-     "match": "“Spokespeople”",
-     "text": "Companies"
+     "match": "Slogans",
+     "text": "Versicherungen"
     }
    ],
    "id": "86463",
    "isValid": "",
-   "prompt": "Match the insurance company to its TV “spokesperson”",
-   "promptHeader": "Famous Icons of the Insurance World",
-   "us": true,
+   "prompt": "Ordne den Slogan dem Versicherungsunternehmen zu",
+   "promptHeader": "Versicherungen und ihre Slogans",
+   "us": false,
    "x": false
   }
  ]
