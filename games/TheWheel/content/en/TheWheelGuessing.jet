@@ -1089,7 +1089,7 @@
   },
   {
    "altSpellings": [
-       "Guccio Gucci S.p.A.",
+       "Guccio Gucci S.p.A."
           ],
    "answer": "Gucci",
    "category": "Fashion",
@@ -1115,10 +1115,10 @@
      "clueComment": ""
     }
    ],
-   "followup": "Es ist schon eine Herausforderung, aber ich denke ihr seid ihr gewachsen!",
+   "followup": "Es ist schon eine Herausforderung, aber ich denke sie können mir da gut helfen!",
    "id": "81928",
    "isValid": "",
-   "prompt": "Welche Fashion-Marke wird in meinem zukünftigen Design mit enthalten sein?",
+   "prompt": "Welche Fashion-Marke wird mir bei meinem zukünftigen Merch-Design mithelfen?",
    "reveal": null,
    "us": false,
    "x": false
@@ -1426,7 +1426,7 @@
    "category": "Geography & Landmarks",
    "clues": [
     {
-     "clue": "Sand. Überall nur Sand.",
+     "clue": "Sand. Es war überall nur Sand.",
      "clueComment": ""
     },
     {
@@ -1434,11 +1434,11 @@
      "clueComment": "Stimmt, ich sah eine heiße, sandige Wüste mit einer Fläche von ca. 3.6 Millionen Quadratkilometern. Irgendwo da sind meine Schlüssel!"
     },
     {
-     "clue": "Ok, ich bin mir sehr sicher dass ich meine Schlüssel in der größten Wüste der Welt verloren habe, die fast ein Drittel von Afrika bedeckt.",
+     "clue": "Ok, ich bin mir sehr sicher, dass ich meine Schlüssel in der größten Wüste der Welt verloren habe, die fast ein Drittel von Afrika bedeckt.",
      "clueComment": ""
     },
     {
-     "clue": "Oh! Der Name der Wüste kommt vom arabischen Wort “sahra'”, was übersetzt so viel heißt wie ”Wüste”.",
+     "clue": "Oh! Der Name der Wüste kommt vom arabischen Wort “sahra'”, was übersetzt so viel heißt wie “Wüste”.",
      "clueComment": ""
     }
    ],
@@ -1781,6 +1781,7 @@
   {
    "altSpellings": [
     "100€",
+    "100€ Schein",
     "hundert euro",
     "100 euro",
     "einhundert euro",
@@ -1788,6 +1789,10 @@
     "100 euroschein",
     "hundert euroschein",
     "hunni",
+    "hunderter",
+    "ein hunderter",
+    "hundert euro schein",
+    "100 euro schein"
    ],
    "answer": "100-Euro-Schein",
    "category": "Money",
@@ -1797,26 +1802,26 @@
      "clueComment": ""
     },
     {
-     "clue": "Wenn du diesen Schein ausgibst, könntest du 62 Cheeseburger bekommen!",
-     "clueComment": "Wenn du diesen Schein ausgibst, könntest du 62 Cheeseburger bekommen! Dann hast du sogar noch mehr als einen Euro über!"
+     "clue": "Wenn du dieses Ding jemand anderem gibst, könntest du 62 Cheeseburger bekommen!",
+     "clueComment": "Wenn du dieses Ding jemand anderem gibst, könntest du 62 Cheeseburger bekommen! Dann hast du sogar noch mehr als einen Euro über!"
     },
     {
-     "clue": "Ich sags dir einfach - es ist ein Geldschein. Der Baustil auf diesem Schein gleicht dem des Barocks.",
-     "clueComment": "Ich sags dir einfach - es ist ein Geldschein. Der Baustil auf diesem Schein gleicht dem des Barocks. Na, kommen bei dieser Epoche Erinnerungen an die Schulzeit hoch?"
+     "clue": "Ich sag's euch einfach - es ist ein Geldschein. Der Baustil auf diesem Schein gleicht dem des Barocks.",
+     "clueComment": "Ich sag's euch einfach - es ist ein Geldschein. Der Baustil auf diesem Schein gleicht dem des Barocks. Na, kommen bei dieser Epoche Erinnerungen an die Schulzeit hoch?"
     },
     {
-     "clue": "Dieses Ding ist grün.",
-     "clueComment": "Grün, Grün, Grün, sind alle meine... Entschuldigt mich. Dieses Ding ist grün. Erwähnte ich das bereits?"
+     "clue": "Dieser Schein ist grün.",
+     "clueComment": "Dieser Schein ist grün. Grün, Grün, Grün, sind alle meine... Entschuldigt mich. Dieser Schein ist grün. Erwähnte ich das bereits?"
     },
     {
-     "clue": "Wenn ich es dir geben würde, würdest du nicht nein sagen.",
-     "clueComment": "Sagen wir es so: Wenn ich es dir geben würde, würdest du nicht nein sagen."
+     "clue": "Wenn ich es euch geben würde, würdet ihr nicht nein sagen.",
+     "clueComment": ""
     }
    ],
-   "followup": "Ja, ich habe ein Portemonnaie. Was denkt ihr denn wo ich meinen Ausweis aufbewahre?",
+   "followup": "Ja, ich habe ein Portemonnaie. Was denkt ihr denn wo ich sonst meinen Ausweis aufbewahre?",
    "id": "84304",
    "isValid": "",
-   "prompt": "Ich werde den Wunsch nicht los dieses Ding meines Portemonnaies zu benutzen.",
+   "prompt": "Ich werde den Wunsch nicht los, dieses Ding in meinem Portemmonaie zu benutzen.",
    "reveal": null,
    "us": false,
    "x": false
