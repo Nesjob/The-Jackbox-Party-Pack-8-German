@@ -33,7 +33,7 @@
      "clueComment": ""
     },
     {
-     "clue": "Die Teilnehmer müssen meist ekelige Prüfungen bestehen, wie beispielsweise das essen von lebenden Tieren."
+     "clue": "Die Teilnehmer müssen meist ekelige Prüfungen bestehen, wie beispielsweise das Essen von lebenden Tieren."
     }
    ],
    "followup": "",
@@ -1088,37 +1088,39 @@
    "x": false
   },
   {
-   "altSpellings": [],
+   "altSpellings": [
+       "Guccio Gucci S.p.A.",
+          ],
    "answer": "Gucci",
    "category": "Fashion",
    "clues": [
     {
-     "clue": "The company was founded in 1921 in Florence, Italy.",
+     "clue": "Die Marke wurde 1921 in Florenz, Italien gegründet.",
      "clueComment": ""
     },
     {
-     "clue": "The line started by mainly producing leather goods, including horse saddles.",
+     "clue": "Anfangs haben sie vor allem Lederwaren hergestellt, sogar Pferdesättel.",
      "clueComment": ""
     },
     {
-     "clue": "The brand’s aesthetic can often be identified by its recognizable red and green stripes and gold finishings.",
+     "clue": "Es ist die Lieblingsmarke vieler Deutschrapper.",
+     "clueComment": "Es ist die Lieblingsmarke vieler Deutschrapper. Oder sollte ich lieber sagen: Lieblingsmarkelelele?"
+    },
+    {
+     "clue": "Das Logo besteht aus zwei ineinander verschränkten [i]G[/i]’s.",
      "clueComment": ""
     },
     {
-     "clue": "The logo is two stylized interlocked [i]G[/i]’s",
-     "clueComment": ""
-    },
-    {
-     "clue": "The founder’s first name, and this is true, was Guccio.",
+     "clue": "Der Vorname des Gründers, und das ist tatsächlich wahr, ist Guccio.",
      "clueComment": ""
     }
    ],
-   "followup": "It'll be a challenge, but I think they're up to it.",
+   "followup": "Es ist schon eine Herausforderung, aber ich denke ihr seid ihr gewachsen!",
    "id": "81928",
    "isValid": "",
-   "prompt": "Which high-fashion brand do I want involved in my future redesign?",
+   "prompt": "Welche Fashion-Marke wird in meinem zukünftigen Design mit enthalten sein?",
    "reveal": null,
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -1417,35 +1419,35 @@
   {
    "altSpellings": [
     "Sahara",
-    "The Sahara Desert",
-    "The Sahara"
+    "Die Sahara Wüste",
+    "Die Sahara"
    ],
-   "answer": "Sahara Desert",
+   "answer": "Sahara Wüste",
    "category": "Geography & Landmarks",
    "clues": [
     {
-     "clue": "There was sand everywhere.",
+     "clue": "Sand. Überall nur Sand.",
      "clueComment": ""
     },
     {
-     "clue": "That's right, I was overlooking a hot, sandy desert covering an area of roughly 3.6 million square miles.",
-     "clueComment": "That's right, I was overlooking a hot, sandy desert covering an area of roughly 3.6 million square miles. My keys are in there somewhere!"
+     "clue": "Stimmt, ich sah eine heiße, sandige Wüste mit einer Fläche von ca. 3.6 Millionen Quadratkilometern.",
+     "clueComment": "Stimmt, ich sah eine heiße, sandige Wüste mit einer Fläche von ca. 3.6 Millionen Quadratkilometern. Irgendwo da sind meine Schlüssel!"
     },
     {
-     "clue": "OK, I'm pretty sure I lost my keys in the largest hot desert in the world, which covers nearly one-third of Africa.",
+     "clue": "Ok, ich bin mir sehr sicher dass ich meine Schlüssel in der größten Wüste der Welt verloren habe, die fast ein Drittel von Afrika bedeckt.",
      "clueComment": ""
     },
     {
-     "clue": "Oh! The desert's name comes from the Arabic word “sahra'” which means “desert.”",
+     "clue": "Oh! Der Name der Wüste kommt vom arabischen Wort “sahra'”, was übersetzt so viel heißt wie ”Wüste”.",
      "clueComment": ""
     }
    ],
-   "followup": "Yes, a wheel can have keys. The lost city of Atlantis isn't going to lock up after itself, you know.",
+   "followup": "Ja, auch Räder haben Schlüssel. Atlantis wird sich ja schließlich nicht von selbst abschließen, oder?",
    "id": "82022",
    "isValid": "",
-   "prompt": "Where are my keys?",
-   "reveal": "Please, please, where be my keys?",
-   "us": true,
+   "prompt": "Wo sind meine Schlüssel?",
+   "reveal": "Bitte helft mir doch endlich, wo sind meine Schlüssel?",
+   "us": false,
    "x": false
   },
   {
@@ -1778,55 +1780,45 @@
   },
   {
    "altSpellings": [
-    "$100",
-    "Hundred",
-    "Hundo",
-    "One Hundred Dollars",
-    "Hundred Dollars",
-    "A hundred dollars",
-    "A hundred",
-    "One Hundred",
-    "benjamin",
-    "a benjamin",
-    "one hundred bill",
-    "100 dollar bill",
-    "100 bill",
-    "hundred dollar bill",
-    "100",
-    "1 hundred",
-    "one hundo",
-    "1 hundo"
+    "100€",
+    "hundert euro",
+    "100 euro",
+    "einhundert euro",
+    "einhundert euroschein",
+    "100 euroschein",
+    "hundert euroschein",
+    "hunni",
    ],
-   "answer": "One Hundred Dollar Bill",
+   "answer": "100-Euro-Schein",
    "category": "Money",
    "clues": [
     {
-     "clue": "This specific item may be exchanged for goods or services.",
+     "clue": "Dieses Ding kann gegen Waren und Dienstleistungen eingetauscht werden.",
      "clueComment": ""
     },
     {
-     "clue": "If you handed it to someone, you could get 101 Arizona Iced Teas!",
-     "clueComment": "If you handed someone this bill, you could get 101 Arizona Iced Teas! And still have a penny left over."
+     "clue": "Wenn du diesen Schein ausgibst, könntest du 62 Cheeseburger bekommen!",
+     "clueComment": "Wenn du diesen Schein ausgibst, könntest du 62 Cheeseburger bekommen! Dann hast du sogar noch mehr als einen Euro über!"
     },
     {
-     "clue": "I'll just tell you -- it's a type of bill. The person on the bill is credited with proving lightning was made of electricity.",
-     "clueComment": "I'll just tell you -- it's a type of bill. The person on the bill is credited with proving lightning was made of electricity. He flew a kite in a thunderstorm. And, no, don't try that at home!"
+     "clue": "Ich sags dir einfach - es ist ein Geldschein. Der Baustil auf diesem Schein gleicht dem des Barocks.",
+     "clueComment": "Ich sags dir einfach - es ist ein Geldschein. Der Baustil auf diesem Schein gleicht dem des Barocks. Na, kommen bei dieser Epoche Erinnerungen an die Schulzeit hoch?"
     },
     {
-     "clue": "As of 2020, it is the largest denomination of American currency in use.",
-     "clueComment": ""
+     "clue": "Dieses Ding ist grün.",
+     "clueComment": "Grün, Grün, Grün, sind alle meine... Entschuldigt mich. Dieses Ding ist grün. Erwähnte ich das bereits?"
     },
     {
-     "clue": "It’s sometimes called a C-note.",
-     "clueComment": ""
+     "clue": "Wenn ich es dir geben würde, würdest du nicht nein sagen.",
+     "clueComment": "Sagen wir es so: Wenn ich es dir geben würde, würdest du nicht nein sagen."
     }
    ],
-   "followup": "Yes, I have a wallet! Where do you think I keep my ID?",
+   "followup": "Ja, ich habe ein Portemonnaie. Was denkt ihr denn wo ich meinen Ausweis aufbewahre?",
    "id": "84304",
    "isValid": "",
-   "prompt": "What's burning a hole in my wallet right now?",
+   "prompt": "Ich werde den Wunsch nicht los dieses Ding meines Portemonnaies zu benutzen.",
    "reveal": null,
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -1876,32 +1868,32 @@
    "category": "Music",
    "clues": [
     {
-     "clue": "I guess I'm pretty late. This tune came out in 2017.",
+     "clue": "Der Song erschien im Jahre 2017.",
      "clueComment": ""
     },
     {
-     "clue": "It was the most viewed YouTube video of that year, until “Baby Shark” overtook it.",
+     "clue": "Bevor “Baby Shark” es überholte, war es das meistgesehene Video auf YouTube.",
      "clueComment": ""
     },
     {
-     "clue": "The main word means “slowly” in English.",
+     "clue": "Der Titel bedeutet “langsam“ auf Deutsch.",
      "clueComment": ""
     },
     {
-     "clue": "It's by Luis Fonsi and Daddy Yankee!",
+     "clue": "Er ist von Luis Fonsi und Daddy Yankee!",
      "clueComment": ""
     },
     {
-     "clue": "I'm a little bit of a hipster. I prefer the version without Justin Bieber.",
+     "clue": "Ich bin ein Hipster. Ich mag die Version ohne Justin Bieber lieber.",
      "clueComment": ""
     }
    ],
    "followup": null,
    "id": "84419",
    "isValid": "",
-   "prompt": "What's the Spanish language song I have stuck in my head right now?",
+   "prompt": "Wie heißt der spanische Song, von dem ich gerade einen Ohrwurm habe?",
    "reveal": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
