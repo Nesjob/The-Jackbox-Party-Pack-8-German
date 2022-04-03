@@ -1595,7 +1595,7 @@
    "category": "Factoids",
    "id": "79061",
    "isValid": "",
-   "prompt": "Welches Land hatte 2021 die meisten [i]LIDL[/i]-Filialen?",
+   "prompt": "Welches Land hatte 2021 mehr [i]LIDL[/i]-Filialen?",
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(in [i]LIDL[/i]-Filialen)",
