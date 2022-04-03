@@ -324,90 +324,78 @@
   {
    "answers": [
     {
-     "text": "Dan Aykroyd",
-     "value": "1975"
+     "text": "A 7",
+     "value": "962.2"
     },
     {
-     "text": "Gilda Radner",
-     "value": "1975"
+     "text": "A 3",
+     "value": "769"
     },
     {
-     "text": "Bill Murray",
-     "value": "1977"
+     "text": "A 1",
+     "value": "758"
     },
     {
-     "text": "Eddie Murphy",
-     "value": "1980"
+     "text": "A 4",
+     "value": "583"
     },
     {
-     "text": "Julia Louis-Dreyfus",
-     "value": "1982"
+     "text": "A 8",
+     "value": "505"
     },
     {
-     "text": "Maya Rudolph",
-     "value": "2000"
+     "text": "A 20",
+     "value": "345.2"
     },
     {
-     "text": "Kate McKinnon",
-     "value": "2012"
+     "text": "A 81",
+     "value": "276"
     },
     {
-     "text": "Dana Carvey",
-     "value": "1986"
+     "text": "A 45",
+     "value": "257"
     },
     {
-     "text": "Mike Myers",
-     "value": "1989"
+     "text": "A 38",
+     "value": "219"
     },
     {
-     "text": "Chris Rock",
-     "value": "1990"
+     "text": "A 10",
+     "value": "196"
     },
     {
-     "text": "Chris Farley",
-     "value": "1990"
+     "text": "A 73",
+     "value": "167.2"
     },
     {
-     "text": "Tim Meadows",
-     "value": "1991"
+     "text": "A 92",
+     "value": "134"
     },
     {
-     "text": "Will Ferrell",
-     "value": "1995"
+     "text": "A 60",
+     "value": "113"
     },
     {
-     "text": "Fred Armisen",
-     "value": "2002"
+     "text": "A 99",
+     "value": "57.7"
     },
     {
-     "text": "Kenan Thompson",
-     "value": "2003"
+     "text": "A 280",
+     "value": "5"
     },
     {
-     "text": "Andy Samberg",
-     "value": "2005"
-    },
-    {
-     "text": "Kristen Wiig",
-     "value": "2005"
-    },
-    {
-     "text": "Vanessa Bayer",
-     "value": "2010"
-    },
-    {
-     "text": "Leslie Jones",
-     "value": "2014"
+     "text": "A 255",
+     "value": "2.4"
     }
    ],
-   "category": "Film & TV",
+   "category": "Factoids",
    "id": "77281",
    "isValid": "",
-   "prompt": "Welcher Promi hatte zuerst einen Auftritt bei [i]Saturday Night Live[/i]?",
-   "sort": "ascending",
-   "subtype": "timeline",
-   "unit": "",
-   "us": true,
+   "prompt": "Welche dieser Autobahnen ist Stand 2021 länger?",
+   "sort": "descending",
+   "subtype": "most/least",
+   "unit": "(in Kilometern)",
+   "us": false,
    "x": false
   },
   {
@@ -1016,7 +1004,7 @@
    "prompt": "Welches Gericht von McDonalds hat die meisten Kalorien?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in calories)",
+   "unit": "(in Kalorien)",
    "us": false,
    "x": false
   },
@@ -1130,7 +1118,7 @@
    "prompt": "Welches Element kommt am häufigsten in der Erdkruste vor?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in % of mass)",
+   "unit": "(in % der Gesamtmasse)",
    "us": false,
    "x": false
   },
@@ -1195,7 +1183,7 @@
    "prompt": "Welcher Himmelskörper in unserem Sonnensystem hat den größeren Durchmesser?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in kilometers)",
+   "unit": "(in Kilometern)",
    "us": false,
    "x": false
   },
@@ -1480,7 +1468,7 @@
    "prompt": "Welcher dieser Planeten bewegt sich im All am langsamsten?",
    "sort": "ascending",
    "subtype": "most/least",
-   "unit": "(in miles per hour)",
+   "unit": "(in Meilen pro Stunde)",
    "us": false,
    "x": false
   },
@@ -1540,131 +1528,163 @@
   {
    "answers": [
     {
-     "text": "Texas",
-     "value": "593"
+     "text": "Deutschland",
+     "value": "3210"
     },
     {
-     "text": "Florida",
-     "value": "386"
+     "text": "Frankreich",
+     "value": "1500"
     },
     {
-     "text": "California",
-     "value": "310"
+     "text": "Vereinigtes Königreich",
+     "value": "760"
     },
     {
-     "text": "North Carolina",
-     "value": "214"
+     "text": "Polen",
+     "value": "705"
     },
     {
-     "text": "Illinois",
-     "value": "185"
+     "text": "Italien",
+     "value": "630"
     },
     {
-     "text": "Ohio",
-     "value": "172"
+     "text": "Spanien",
+     "value": "550"
     },
     {
-     "text": "Missouri",
-     "value": "156"
+     "text": "Niederlande",
+     "value": "420"     
     },
     {
-     "text": "Louisiana",
-     "value": "137"
+     "text": "Belgien",
+     "value": "305"
     },
     {
-     "text": "Arkansas",
-     "value": "130"
+     "text": "Österreich",
+     "value": "250"
     },
     {
-     "text": "South Carolina",
-     "value": "123"
+     "text": "Griechenland",
+     "value": "224"
     },
     {
-     "text": "Michigan",
-     "value": "117"
+     "text": "Finnland",
+     "value": "180"
+    },
+    {
+     "text": "Irland",
+     "value": "162"
+    },
+    {
+     "text": "Dänemark",
+     "value": "120"
+    },
+    {
+     "text": "USA",
+     "value": "98"
+    },
+    {
+     "text": "Lettland",
+     "value": "15"
+    },
+    {
+     "text": "Luxemburg",
+     "value": "10"
     }
    ],
    "category": "Factoids",
    "id": "79061",
    "isValid": "",
-   "prompt": "Welcher US-Staat hatte 2021 die meisten Walmart-Filialen?",
+   "prompt": "Welches Land hatte 2021 die meisten [i]LIDL[/i]-Filialen?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in Walmarts)",
-   "us": true,
+   "unit": "(in [i]LIDL[/i]-Filialen)",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "[i]Days of Our Lives[/i]",
-     "value": "55"
+     "text": "[i]Unser Sandmännchen[/i]",
+     "value": "62"
     },
     {
-     "text": "[i]Sesame Street[/i]",
+     "text": "[i]Tatort[/i]",
      "value": "51"
     },
     {
-     "text": "[i]The Price Is Right[/i]",
+     "text": "[i]Polizeiruf 110[/i]",
+     "value": "50"
+    },
+    {
+     "text": "[i]Sesamstraße[/i]",
      "value": "48"
     },
     {
-     "text": "[i]Saturday Night Live[/i]",
+     "text": "[i]extra 3[/i]",
      "value": "45"
     },
     {
-     "text": "[i]Jeopardy![/i]",
-     "value": "36"
+     "text": "[i]Das Traumschiff[/i]",
+     "value": "40"
     },
     {
-     "text": "[i]Mister Rogers’ Neighborhood[/i]",
+     "text": "[i]Lindenstraße[/i]",
+     "value": "35"
+    },
+    {
+     "text": "[i]Wetten, dass..?[/i]",
      "value": "33"
     },
     {
-     "text": "[i]The Simpsons[/i]",
-     "value": "31"
+     "text": "[i]Die Simpsons[/i]",
+     "value": "30"
     },
     {
-     "text": "[i]The Real World[/i]",
-     "value": "28"
+     "text": "[i]Gute Zeiten, schlechte Zeiten[/i]",
+     "value": "29"
     },
     {
-     "text": "[i]Reading Rainbow[/i]",
+     "text": "[i]Unter uns[/i]",
+     "value": "27"
+    },
+    {
+     "text": "[i]Alarm für Cobra 11 - Die Autobahnpolizei[/i]",
+     "value": "25"
+    },
+    {
+     "text": "[i]In aller Freundschaft[/i]",
      "value": "23"
     },
     {
-     "text": "[i]Supernatural[/i]",
-     "value": "15"
+     "text": "[i]Wer wird Millionär?[/i]",
+     "value": "22"
     },
     {
-     "text": "[i]The Big Bang Theory[/i]",
-     "value": "12"
+     "text": "[i]Spongebob Schwammkopf[/i]",
+     "value": "19"
     },
     {
-     "text": "[i]Cheers[/i]",
-     "value": "12"
+     "text": "[i]Inspector Barnaby[/i]",
+     "value": "16"
     },
     {
-     "text": "[i]Sex and the City[/i]",
-     "value": "7"
+     "text": "[i]Berlin - Tag & Nacht[/i]",
+     "value": "10"
     },
     {
-     "text": "[i]Seinfeld[/i]",
-     "value": "9"
-    },
-    {
-     "text": "[i]Mighty Morphin Power Rangers[/i]",
-     "value": "3"
+     "text": "[i]Anna und die Liebe[/i]",
+     "value": "4"
     }
    ],
    "category": "Film & TV",
    "id": "79063",
    "isValid": "",
-   "prompt": "Welche Fernsehsendung lief länger?",
+   "prompt": "Welche Fernsehsendung lief länger in Deutschland?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in years)",
-   "us": true,
+   "unit": "(in Jahren)",
+   "us": false,
    "x": false
   },
   {
@@ -1857,113 +1877,117 @@
   {
    "answers": [
     {
-     "text": "[i]The Mary Tyler Moore Show[/i]",
-     "value": "1973"
+     "text": "Österreich (ohne Bodensee)",
+     "value": "817"
     },
     {
-     "text": "[i]The Betty White Show[/i]",
-     "value": "1977"
+     "text": "Tschechische Republik",
+     "value": "817"
     },
     {
-     "text": "[i]The Love Boat[/i]",
-     "value": "1980"
+     "text": "Niederlande",
+     "value": "576"
     },
     {
-     "text": "[i]Mama’s Family[/i]",
-     "value": "1983"
+     "text": "Polen",
+     "value": "469"
     },
     {
-     "text": "[i]The Golden Girls[/i]",
-     "value": "1985"
+     "text": "Frankreich",
+     "value": "455"
     },
     {
-     "text": "[i]The Golden Palace[/i]",
-     "value": "1992"
+     "text": "Schweiz (ohne Bodensee)",
+     "value": "333"
     },
     {
-     "text": "[i]Ally McBeal[/i]",
-     "value": "1999"
+     "text": "Belgien",
+     "value": "204"
     },
     {
-     "text": "[i]That ’70s Show[/i]",
-     "value": "2002"
+     "text": "Luxemburg",
+     "value": "136"
     },
     {
-     "text": "[i]Boston Legal[/i]",
-     "value": "2005"
+     "text": "Dänemark",
+     "value": "68"
     },
     {
-     "text": "[i]The Bold and the Beautiful[/i]",
-     "value": "2006"
-    },
-    {
-     "text": "[i]Hot in Cleveland[/i]",
-     "value": "2010"
-    },
-    {
-     "text": "[i]Bones[/i]",
-     "value": "2015"
+     "text": "Slowenien",
+     "value": "0"
     }
    ],
-   "category": "Celebrities",
+   "category": "Geography & Landmarks",
    "id": "80324",
    "isValid": "",
-   "prompt": "In welcher Show trat Betty White zuerst auf?",
-   "sort": "ascending",
-   "subtype": "timeline",
-   "unit": "",
-   "us": true,
+   "prompt": "Welche Länder haben eine längere Festlandgrenze zu Deutschland?",
+   "sort": "descending",
+   "subtype": "most/least",
+   "unit": "(in Kilometern)",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "Gwendoline Christie",
-     "value": "75"
+     "text": "Dirk Nowitzki",
+     "value": "213"
     },
     {
-     "text": "Maria Sharapova",
-     "value": "73"
+     "text": "Dwayne “The Rock” Johnson",
+     "value": "196"
     },
     {
-     "text": "Allison Janney",
-     "value": "72"
+     "text": "Günther Jauch",
+     "value": "193"
     },
     {
-     "text": "Tyra Banks",
-     "value": "71"
+     "text": "Thomas Gottschalk",
+     "value": "192"
     },
     {
-     "text": "Gigi Hadid",
-     "value": "70"
+     "text": "Carsten Stahl",
+     "value": "189"
     },
     {
-     "text": "Jennifer Lawrence",
-     "value": "69"
+     "text": "Donald Trump",
+     "value": "188"
     },
     {
-     "text": "Beyoncé",
-     "value": "68"
+     "text": "Will Smith",
+     "value": "187"
     },
     {
-     "text": "Miley Cyrus",
-     "value": "65"
+     "text": "Barack Obama",
+     "value": "185"
     },
     {
-     "text": "Reese Witherspoon",
-     "value": "62"
+     "text": "Markus Lanz",
+     "value": "181"
     },
     {
-     "text": "Lady Gaga",
-     "value": "61"
+     "text": "Til Schweiger",
+     "value": "178"
     },
     {
-     "text": "Kourtney Kardashian",
-     "value": "60"
+     "text": "Heidi Klum",
+     "value": "176"
     },
     {
-     "text": "Snooki",
-     "value": "56"
+     "text": "Olaf Scholz",
+     "value": "170"
+    },
+    {
+     "text": "Angela Merkel",
+     "value": "164"
+    },
+    {
+     "text": "Daniela Katzenberger",
+     "value": "163"
+    },
+    {
+     "text": "Helene Fischer",
+     "value": "158"
     }
    ],
    "category": "Celebrities",
@@ -1973,7 +1997,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -2091,7 +2115,7 @@
    "sort": "descending",
    "subtype": "closest",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -2159,7 +2183,7 @@
    "prompt": "Welcher dieser Filme ist länger?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in minutes)",
+   "unit": "(in Minuten)",
    "us": false,
    "x": false
   },
@@ -2777,69 +2801,65 @@
    "prompt": "Welcher Meilenstein in der Evolutionsgeschichte geschah zuerst?",
    "sort": "ascending",
    "subtype": "timeline",
-   "unit": "(in millions of years ago)",
+   "unit": "(in Millionen von unendlich langen Jahren)",
    "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "text": "“...Baby One More Time”",
-     "value": "1998"
-    },
-    {
-     "text": "“(You Drive Me) Crazy”",
-     "value": "1999"
-    },
-    {
-     "text": "“Oops!...I Did It Again”",
-     "value": "2000"
-    },
-    {
-     "text": "“I'm a Slave 4 U”",
-     "value": "2001"
-    },
-    {
-     "text": "“I'm Not a Girl, Not Yet a Woman”",
-     "value": "2002"
-    },
-    {
-     "text": "“Toxic”",
-     "value": "2004"
-    },
-    {
-     "text": "“Gimme More”",
+     "text": "“Mitten im Paradies”",
      "value": "2007"
     },
     {
-     "text": "“Womanizer”",
+     "text": "“Lass mich in dein Leben”",
      "value": "2008"
-    },
+       },
     {
-     "text": "“3”",
+     "text": "“Ich will immer wieder ... dieses Fieber spür'n”",
      "value": "2009"
     },
     {
-     "text": "“Hold It Against Me”",
+     "text": "“Phänomen”",
      "value": "2011"
     },
     {
-     "text": "“Work Bitch”",
+     "text": "“Die Hölle morgen früh”",
+     "value": "2012"
+    },
+    {
+     "text": "“Atemlos durch die Nacht”",
      "value": "2013"
     },
     {
-     "text": "“Make Me...” feat. G-Eazy",
-     "value": "2016"
+     "text": "“Marathon”",
+     "value": "2014"
+    },
+    {
+     "text": "“Herzbeben”",
+     "value": "2017"
+    },
+    {
+     "text": "“Flieger”",
+     "value": "2018"
+    },
+    {
+     "text": "“Null auf 100”",
+     "value": "2021"
+    },
+    {
+     "text": "“Jetzt oder nie”",
+     "value": "2022"
     }
    ],
    "category": "Music",
    "id": "84258",
    "isValid": "",
-   "prompt": "Welche Single von Britney Speas wurde zuletzt veröffentlicht?",
+   "prompt": "Welche Single von Helene Fischer wurde zuletzt veröffentlicht?",
    "sort": "descending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3296,74 +3316,70 @@
   {
    "answers": [
     {
-     "text": "Queen",
+     "text": "Kaiser/in",
      "value": "1"
     },
     {
-     "text": "King",
-     "value": "1"
-    },
-    {
-     "text": "Prince",
+     "text": "König/in",
      "value": "2"
     },
     {
-     "text": "Princess",
-     "value": "2"
-    },
-    {
-     "text": "Duke",
+     "text": "Erzherzog/in",
      "value": "3"
     },
     {
-     "text": "Duchess",
-     "value": "3"
-    },
-    {
-     "text": "Marquess",
+     "text": "Großherzog/in",
      "value": "4"
     },
     {
-     "text": "Marchioness",
-     "value": "4"
-    },
-    {
-     "text": "Earl",
+     "text": "Kurfürst/in",
      "value": "5"
     },
     {
-     "text": "Countess",
-     "value": "5"
-    },
-    {
-     "text": "Viscount",
+     "text": "Herzog/in",
      "value": "6"
     },
     {
-     "text": "Viscountess",
-     "value": "6"
-    },
-    {
-     "text": "Baron",
+     "text": "Landgraf/Landgräfin",
      "value": "7"
     },
     {
-     "text": "Baronness",
-     "value": "7"
-    },
-    {
-     "text": "Baronet",
+     "text": "Pfalzgraf/Pfalzgräfin",
      "value": "8"
+    },
+    {
+     "text": "Markgraf/Markgräfin",
+     "value": "9"
+    },
+    {
+     "text": "Fürst/in",
+     "value": "10"
+    },
+    {
+     "text": "Graf/Gräfin",
+     "value": "11"
+    },
+    {
+     "text": "Baron/in",
+     "value": "12"
+    },
+    {
+     "text": "Ritter",
+     "value": "13"
+    },
+    {
+     "text": "Edle/r",
+     "value": "13"
     }
    ],
    "category": "History",
    "id": "84392",
    "isValid": "",
-   "prompt": "Welcher englische Adelstitel hat den höchsten Stand?",
+   "prompt": "Welcher deutsche Adelstitel hat den höchsten Stand?",
    "sort": "ascending",
    "subtype": "closest",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
