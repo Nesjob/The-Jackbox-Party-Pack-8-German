@@ -18251,7 +18251,7 @@
    "id": "86376",
    "isValid": "",
    "prompt": "Welche dieser Paraden haben wirklich in New York stattgefunden?",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
