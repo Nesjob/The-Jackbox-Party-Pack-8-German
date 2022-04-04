@@ -1475,7 +1475,7 @@
   {
    "answers": [
     {
-     "text": "[i]The Hateful Eight[/i]",
+     "text": "[i]The Hateful 8[/i]",
      "value": "168"
     },
     {
@@ -1499,20 +1499,20 @@
      "value": "154"
     },
     {
-     "text": "[i]Kill Bill: Vol. 2[/i]",
-     "value": "137"
+     "text": "[i]Kill Bill - Volume 2[/i]",
+     "value": "131"
     },
     {
-     "text": "[i]Death Proof[/i]",
-     "value": "127"
+     "text": "[i]Death Proof - Todsicher[/i]",
+     "value": "114"
     },
     {
-     "text": "[i]Kill Bill: Vol. 1[/i]",
-     "value": "111"
+     "text": "[i]Kill Bill - Volume 1[/i]",
+     "value": "106"
     },
     {
-     "text": "[i]Reservoir Dogs[/i]",
-     "value": "99"
+     "text": "[i]Reservoir Dogs - Wilde Hunde[/i]",
+     "value": "95"
     }
    ],
    "category": "Film & TV",
@@ -1522,7 +1522,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(in minutes)",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4235,64 +4235,64 @@
   {
    "answers": [
     {
-     "text": "Vivaldi",
+     "text": "Antonio Vivaldi",
      "value": "1678"
     },
     {
-     "text": "J. S. Bach",
+     "text": "Georg F. Händel",
      "value": "1685"
     },
     {
-     "text": "Mozart",
+     "text": "Johann S. Bach",
+     "value": "1685"
+    },
+     {
+     "text": "Joseph Haydn",
+     "value": "1732"
+    },
+    {
+     "text": "Wolfgang A. Mozart",
      "value": "1756"
     },
     {
-     "text": "Beethoven",
+     "text": "Ludwig van Beethoven",
      "value": "1770"
     },
     {
      "text": "Franz Schubert",
-     "value": "1819"
+     "value": "1797"
     },
     {
-     "text": "Tchaikovsky",
+     "text": "Frédéric Chopin",
+     "value": "1810"
+    },
+    {
+     "text": "Richard Wagner",
+     "value": "1813"
+    },
+    {
+     "text": "Johannes Brahms",
+     "value": "1833"
+    },
+    {
+     "text": "Pjotr I. Tschaikowski",
      "value": "1840"
-    },
-    {
-     "text": "George Gershwin",
-     "value": "1898"
     },
     {
      "text": "Leonard Bernstein",
      "value": "1918"
     },
     {
+     "text": "Martin Böttcher",
+     "value": "1927"
+    },
+    {
      "text": "Stephen Sondheim",
      "value": "1930"
     },
     {
-     "text": "Quincy Jones",
-     "value": "1933"
-    },
-    {
-     "text": "Philip Glass",
-     "value": "1937"
-    },
-    {
-     "text": "Herbie Hancock",
-     "value": "1940"
-    },
-    {
-     "text": "Pete Townshend",
-     "value": "1945"
-    },
-    {
-     "text": "Andrew Lloyd Webber",
-     "value": "1948"
-    },
-    {
-     "text": "Lin-Manuel Miranda",
-     "value": "1980"
+     "text": "Hans Zimmer",
+     "value": "1957"
     }
    ],
    "category": "Historical Figures",
@@ -4302,7 +4302,7 @@
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4694,59 +4694,95 @@
   {
    "answers": [
     {
-     "text": "Dracula",
-     "value": "1897"
+     "text": "[i]google.com[/i]",
+     "value": "1"
     },
     {
-     "text": "Nosferatu",
-     "value": "1922"
+     "text": "[i]youtube.com[/i]",
+     "value": "2"
     },
     {
-     "text": "Count Chocula",
-     "value": "1971"
+     "text": "[i]amazon.de[/i]",
+     "value": "3"
     },
     {
-     "text": "Graf Zahl ([i]Sesamstraße[/i])",
-     "value": "1972"
+     "text": "[i]facebook.com[/i]",
+     "value": "4"
     },
     {
-     "text": "Lestat de Lioncourt",
-     "value": "1976"
+     "text": "[i]wikipedia.org[/i]",
+     "value": "5"
     },
     {
-     "text": "David Powers ([i]The Lost Boys[/i])",
-     "value": "1987"
+     "text": "[i]google.de[/i]",
+     "value": "6"
     },
     {
-     "text": "Alucard ([i]Castlevania[/i])",
-     "value": "1990"
+     "text": "[i]bild.de[/i]",
+     "value": "7"
     },
     {
-     "text": "Spike Pratt ([i]Buffy – Im Bann der Dämonen[/i])",
-     "value": "1997"
+     "text": "[i]ebay.de[/i]",
+     "value": "8"
     },
     {
-     "text": "Edward Cullen ([i]Twilight[/i])",
-     "value": "2005"
+     "text": "[i]instagram.com[/i]",
+     "value": "9"
     },
     {
-     "text": "Eric Northman ([i]True Blood[/i])",
-     "value": "2008"
+     "text": "[i]t-online.de[/i]",
+     "value": "10"
     },
     {
-     "text": "Nandor the Relentless ([i]What We Do in the Shadows[/i])",
-     "value": "2019"
+     "text": "[i]ebay-kleinanzeigen.de[/i]",
+     "value": "11"
+    },
+    {
+     "text": "[i]dhl.de[/i]",
+     "value": "12"
+    },
+    {
+     "text": "[i]web.de[/i]",
+     "value": "13"
+    },
+    {
+     "text": "[i]spiegel.de[/i]",
+     "value": "14"
+    },
+    {
+     "text": "[i]tagesschau.de[/i]",
+     "value": "15"
+    },
+    {
+     "text": "[i]twitch.tv[/i]",
+     "value": "16"
+    },
+    {
+     "text": "[i]twitter.com[/i]",
+     "value": "17"
+    },
+    {
+     "text": "[i]pornhub.com[/i]",
+     "value": "18"
+    },
+    {
+     "text": "[i]reddit.com[/i]",
+     "value": "19"
+    },
+    {
+     "text": "[i]wetter.com[/i]",
+     "value": "20"
     }
    ],
-   "category": "Pop Culture",
+   "category": "Factoids",
    "id": "85702",
    "isValid": "",
-   "prompt": "Welcher fiktive Vampir wurde zuerst erschaffen?",
+   "prompt": "Welche der Webseiten wurde 2021 in Deutschland häufiger aufgerufen?",
    "sort": "ascending",
-   "subtype": "timeline",
+   "subtype": "closest",
    "unit": "",
-   "us": true,
-   "x": false
+   "us": false,
+   "x": true
   },
   {
    "answers": [
@@ -4889,70 +4925,70 @@
   {
    "answers": [
     {
-     "text": "Shaquille O'Neal",
+     "text": "Charles de Gaulle",
      "value": "1"
     },
     {
-     "text": "Peter der Große",
+     "text": "Helmut Kohl",
      "value": "2"
     },
     {
-     "text": "William Wallace",
+     "text": "Fidel Castro",
      "value": "3"
     },
     {
-     "text": "Charles de Gaulle",
+     "text": "Konrad Adenauer",
      "value": "4"
     },
     {
-     "text": "Abraham Lincoln",
+     "text": "George Washington",
+     "value": "4"
+    },
+    {
+     "text": "Karl der Große",
      "value": "5"
     },
     {
-     "text": "Fidel Castro",
+     "text": "Albert Einstein",
      "value": "6"
     },
     {
-     "text": "George Washington",
+     "text": "Napoleon Bonaparte",
      "value": "7"
     },
     {
-     "text": "Michelle Obama",
+     "text": "Josef Stalin",
      "value": "8"
     },
     {
-     "text": "Amelia Earhart",
+     "text": "Mahatma Ghandi",
+     "value": "8"
+    },
+    {
+     "text": "Margaret Thatcher",
      "value": "9"
     },
     {
-     "text": "Napoleon Bonaparte",
-     "value": "10"
-    },
-    {
-     "text": "Josef Stalin",
+     "text": "Angela Merkel",
      "value": "11"
     },
     {
-     "text": "Mahatma Gandhi",
-     "value": "11"
-    },
-    {
-     "text": "Johanna von Orléans",
+     "text": "Königin Elizabeth II.",
      "value": "12"
     },
     {
-     "text": "Königin Viktoria",
+     "text": "Königin Victoria",
      "value": "13"
     }
    ],
    "category": "Historical Figures",
    "id": "85759",
    "isValid": "",
-   "prompt": "Welche dieser historischen Personen kommt annährend an die Größe des Wrestlers André the Giant heran? (2,24m)",
+   "prompt": "Welche dieser historischen Personen kommt annähernd an die Größe des Basketballspielers Dirk Nowitzki heran? (2,13m)",
    "sort": "ascending",
    "subtype": "closest",
-   "unit": "(closest to 7 feet, 4 inches tall)",
-   "us": true,
+   "unit": "(Am nahsten an 2,13m)",
+   "us": false,
    "x": false
   },
   {
