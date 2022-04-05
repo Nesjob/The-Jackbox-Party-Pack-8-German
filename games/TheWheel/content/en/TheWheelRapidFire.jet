@@ -592,62 +592,74 @@
   {
    "answers": [
     {
-     "text": "Georg Solti",
-     "value": "31"
+     "text": "[i]Last Christmas[/i] von “Wham!”",
+     "value": "159"
     },
     {
-     "text": "Beyoncé Knowles",
-     "value": "28"
+     "text": "[i]Roller[/i] von “Apache 207”",
+     "value": "130"
     },
     {
-     "text": "John Williams",
-     "value": "25"
+     "text": "[i]Dance Monkey[/i] von “Tones and I”",
+     "value": "122"
     },
     {
-     "text": "Jay-Z",
-     "value": "23"
+     "text": "[i]Atemlos durch die Nacht[/i] von Helene Fischer",
+     "value": "117"
     },
     {
-     "text": "Bruce Springsteen",
-     "value": "20"
+     "text": "[i]Ein Stern (... der deinen Namen trägt)[/i] von DJ Ötzi",
+     "value": "108"
     },
     {
-     "text": "Yo-Yo Ma",
-     "value": "18"
+     "text": "[i]Geboren um zu leben[/i] von “Unheilig”",
+     "value": "106"
     },
     {
-     "text": "Taylor Swift",
-     "value": "11"
+     "text": "[i]Shape of You[/i] von Ed Sheeran",
+     "value": "91"
     },
     {
-     "text": "Dolly Parton",
-     "value": "10"
+     "text": "[i]I sing a Liad für di[/i] von Andreas Gabalier",
+     "value": "88"
     },
     {
-     "text": "Manhattan Transfer",
-     "value": "8"
+     "text": "[i]Tage wie diese[/i] von “Die Toten Hosen”",
+     "value": "85"
     },
     {
-     "text": "Howard Shore",
-     "value": "4"
+     "text": "[i]All I Want for Christmas is You[/i] von Mariah Carey",
+     "value": "85"
     },
     {
-     "text": "Lizzo",
-     "value": "3"
+     "text": "[i]Despacito[/i] von Luis Fonsi",
+     "value": "83"
     },
     {
-     "text": "Ariana Grande",
-     "value": "2"
+     "text": "[i]Auf uns[/i] von Andreas Bourani",
+     "value": "80"
+    },
+    {
+     "text": "[i]Haus am See[/i] von Peter Fox",
+     "value": "70"
+    },
+    {
+     "text": "[i]Das rote Pferd[/i] von Markus Becker",
+     "value": "58"
+    },
+    {
+     "text": "[i]Geiles Leben[/i] von “Glasperlenspiel”",
+     "value": "56"
     }
    ],
    "category": "Music",
    "id": "78720",
    "isValid": "",
-   "prompt": "Welcher Musiker hat bis 2020 mehr Grammys erhalten?",
+   "prompt": "Welches dieser Lieder war länger in den deutschen Singlecharts vertreten? (Stand 2021)",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "",
-   "us": true,
+   "unit": "(Wochen in deutschen Singlecharts)",
+   "us": false,
    "x": false
   },
   {
