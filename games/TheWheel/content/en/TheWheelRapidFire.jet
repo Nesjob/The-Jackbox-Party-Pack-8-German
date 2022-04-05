@@ -6015,7 +6015,7 @@
    "category": "Language/Words/Grammar",
    "id": "86044",
    "isValid": "",
-   "prompt": "Welcher Myers-Briggs-Persönlichkeitstyp steht in der ALPHABETISCHEN REIHENFOLGE an erster Stelle?",
+   "prompt": "Welcher Myers-Briggs-Persönlichkeitstyp steht in der ALPHABETISCHEN REIHENFOLGE an früherer Stelle?",
    "sort": "ascending",
    "subtype": "most/least",
    "unit": "",
