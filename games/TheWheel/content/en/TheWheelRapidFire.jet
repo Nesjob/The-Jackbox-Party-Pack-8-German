@@ -2003,58 +2003,62 @@
   {
    "answers": [
     {
-     "text": "Cesar Romero",
-     "value": "1966"
+     "text": "E",
+     "value": "1"
     },
     {
-     "text": "Jack Nicholson",
-     "value": "1989"
+     "text": "N",
+     "value": "2"
     },
     {
-     "text": "Mark Hamill (Stimme)",
-     "value": "1992"
+     "text": "R",
+     "value": "3"
     },
     {
-     "text": "Kevin Michael Richardson (Stimme)",
-     "value": "2004"
+     "text": "T",
+     "value": "4"
     },
     {
-     "text": "Heath Ledger",
-     "value": "2008"
+     "text": "H",
+     "value": "5"
     },
     {
-     "text": "Brent Spiner (Stimme)",
-     "value": "2011"
+     "text": "C",
+     "value": "6"
     },
     {
-     "text": "Cameron Monaghan",
-     "value": "2015"
+     "text": "M",
+     "value": "7"
     },
     {
-     "text": "Jared Leto",
-     "value": "2016"
+     "text": "W",
+     "value": "8"
     },
     {
-     "text": "Zach Galifianakis (Stimme)",
-     "value": "2017"
+     "text": "Z",
+     "value": "9"
     },
     {
-     "text": "Joaquin Phoenix",
-     "value": "2019"
+     "text": "V",
+     "value": "10"
     },
     {
-     "text": "Alan Tudyk (Stimme)",
-     "value": "2020"
+     "text": "ẞ",
+     "value": "11"
+    },
+    {
+     "text": "Q",
+     "value": "12"
     }
    ],
-   "category": "Film & TV",
+   "category": "Language/Words/Grammar",
    "id": "82426",
    "isValid": "",
-   "prompt": "Welcher dieser Schauspieler spielte zuerst den Joker?",
+   "prompt": "Welcher dieser Buchstaben wird in der deutschen Sprache häufiger verwendet?",
    "sort": "ascending",
-   "subtype": "timeline",
+   "subtype": "closest",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -2312,66 +2316,82 @@
   {
    "answers": [
     {
-     "text": "Starbucks Blonde Roast (500ml)",
-     "value": "360"
+     "text": "Neuseeland",
+     "value": "1893"
     },
     {
-     "text": "5-Hour Energy (45ml)",
-     "value": "200"
+     "text": "Australien",
+     "value": "1902"
     },
     {
-     "text": "Brew Dr. Uplift Yerba Mate (500ml)",
-     "value": "150"
+     "text": "Finnland",
+     "value": "1906"
     },
     {
-     "text": "Health-Ade Plus Energy Kombucha (500ml)",
-     "value": "120"
+     "text": "Russland",
+     "value": "1917"
     },
     {
-     "text": "Ben & Jerry's Brewed to Matter Eiscreme (1 Becher)",
-     "value": "100"
+     "text": "Deutschland",
+     "value": "1918"
     },
     {
-     "text": "Starbucks Frappucino (500ml)",
-     "value": "95"
+     "text": "Luxemburg",
+     "value": "1919"
     },
     {
-     "text": "Red Bull (250ml)",
-     "value": "80"
+     "text": "Vereinigte Staaten von Amerika",
+     "value": "1920"
     },
     {
-     "text": "Pure Leaf Unsweetened Black Tea (500ml)",
-     "value": "77"
+     "text": "Vereinigtes Königreich",
+     "value": "1928"
     },
     {
-     "text": "Lipton Black Tea (1 Beutel)",
-     "value": "55"
+     "text": "Spanien",
+     "value": "1931"
     },
     {
-     "text": "Coca-Cola (355ml)",
-     "value": "34"
+     "text": "Frankreich",
+     "value": "1944"
     },
     {
-     "text": "Hershey’s Special Dark Chocolate Bar",
-     "value": "20"
+     "text": "Italien",
+     "value": "1946"
     },
     {
-     "text": "Folgers Classic Decaf (355ml)",
-     "value": "5"
+     "text": "Japan",
+     "value": "1947"
     },
     {
-     "text": "Kräutertee",
-     "value": "0"
+     "text": "Griechenland", 
+     "value": "1952"
+    },
+    {
+     "text": "Schweiz",
+     "value": "1971"
+    },
+    {
+     "text": "Portugal",
+     "value": "1974"
+    },
+    {
+     "text": "Liechtenstein",
+     "value": "1984"
+    },
+    {
+     "text": "Katar",
+     "value": "2003"
     }
    ],
-   "category": "Food & Drink",
+   "category": "History",
    "id": "83678",
    "isValid": "",
-   "prompt": "Welches dieser Lebensmittel oder Getränke enthält mehr Koffein?",
-   "sort": "descending",
-   "subtype": "most/least",
-   "unit": "(in milligrams of caffeine)",
-   "us": true,
+   "prompt": "Welches dieser Länder hat früher ein aktives Wahlrecht für Frauen eingeführt?",
+   "sort": "ascending",
+   "subtype": "timeline",
+   "unit": "",
+   "us": false,
    "x": false
   },
   {
@@ -2694,19 +2714,19 @@
   {
    "answers": [
     {
-     "text": "[i]F9[/i]",
+     "text": "[i]Fast & Furious 9[/i]",
      "value": "1"
     },
     {
-     "text": "[i]Fast & Furious Presents: Hobbs & Shaw[/i]",
+     "text": "[i]Fast & Furious: Hobbs & Shaw[/i]",
      "value": "2"
     },
     {
-     "text": "[i]The Fate of the Furious[/i]",
+     "text": "[i]Fast & Furious 8[/i]",
      "value": "3"
     },
     {
-     "text": "[i]Furious 7[/i]",
+     "text": "[i]Fast & Furious 7[/i]",
      "value": "4"
     },
     {
@@ -2718,11 +2738,11 @@
      "value": "6"
     },
     {
-     "text": "[i]Fast Five[/i]",
+     "text": "[i]Fast & Furious Five[/i]",
      "value": "7"
     },
     {
-     "text": "[i]Fast and Furious[/i]",
+     "text": "[i]Fast & Furious – Neues Modell. Originalteile.[/i]",
      "value": "8"
     },
     {
@@ -3564,58 +3584,78 @@
   {
    "answers": [
     {
-     "text": "[i]Jesus Is King[/i]",
-     "value": "2019"
+     "text": "Schlossallee",
+     "value": "50"
     },
     {
-     "text": "[i]Kids See Ghosts[/i]",
-     "value": "2018"
+     "text": "Parkstraße",
+     "value": "35"
     },
     {
-     "text": "[i]ye[/i]",
-     "value": "2018"
+     "text": "Bahnhofsstraße",
+     "value": "28"
     },
     {
-     "text": "[i]The Life of Pablo[/i]",
-     "value": "2016"
+     "text": "Rathausplatz",
+     "value": "26"
     },
     {
-     "text": "[i]Yeezus[/i]",
-     "value": "2013"
+     "text": "Goethestraße",
+     "value": "24"
     },
     {
-     "text": "[i]Watch The Throne[/i]",
-     "value": "2011"
+     "text": "Schillerstraße",
+     "value": "22"
     },
     {
-     "text": "[i]My Beautiful Dark Twisted Fantasy[/i]",
-     "value": "2010"
+     "text": "Opernplatz",
+     "value": "20"
     },
     {
-     "text": "[i]808s & Heartbreak[/i]",
-     "value": "2008"
+     "text": "Theaterstraße",
+     "value": "18"
     },
     {
-     "text": "[i]Graduation[/i]",
-     "value": "2007"
+     "text": "Berliner Straße",
+     "value": "16"
     },
     {
-     "text": "[i]Late Registration[/i]",
-     "value": "2005"
+     "text": "Münchener Straße",
+     "value": "14"
     },
     {
-     "text": "[i]The College Dropout[/i]",
-     "value": "2004"
+     "text": "Neue Straße",
+     "value": "12"
+    },
+    {
+     "text": "Hafenstraße",
+     "value": "10"
+    },
+    {
+     "text": "Poststraße",
+     "value": "8"
+    },
+    {
+     "text": "Chausseestraße",
+     "value": "6"
+    },
+    {
+     "text": "Turmstraße",
+     "value": "4"
+    },
+    {
+     "text": "Badstraße",
+     "value": "2"
     }
    ],
-   "category": "Music",
+   "category": "Games",
    "id": "84435",
    "isValid": "",
-   "prompt": "Was ist das neuere Album von Kanye West?",
+   "prompt": "Welche dieser [i]Monopoly[/i]-Straßen hat eine höhere Miete?",
    "sort": "descending",
-   "subtype": "timeline",
-   "unit": "",
-   "us": true,
+   "subtype": "most/least",
+   "unit": "(Miete unbebaut)",
+   "us": false,
    "x": false
   },
   {
@@ -4860,66 +4900,62 @@
   {
    "answers": [
     {
-     "text": "Jodie Whittaker",
-     "value": "2018"
+     "text": "Rote und Blaue Edition",
+     "value": "1999"
     },
     {
-     "text": "Peter Capaldi",
-     "value": "2014"
+     "text": "Goldene und Silberne Edition",
+     "value": "2001"
     },
     {
-     "text": "Matt Smith",
-     "value": "2010"
+     "text": "Rubin- und Saphir-Edition",
+     "value": "2003"
     },
     {
-     "text": "David Tennant",
-     "value": "2006"
+     "text": "Diamant- und Perl-Edition",
+     "value": "2007"
     },
     {
-     "text": "Christopher Eccleston",
-     "value": "2005"
+     "text": "Schwarze und Weiße Edition",
+     "value": "2011"
     },
     {
-     "text": "Paul McGann",
-     "value": "1996"
+     "text": "Schwarze Edition 2 und Weiße Edition 2",
+     "value": "2012"
     },
     {
-     "text": "Sylvester McCoy",
-     "value": "1987"
+     "text": "X und Y",
+     "value": "2013"
     },
     {
-     "text": "Colin Baker",
-     "value": "1984"
+     "text": "Sonne und Mond",
+     "value": "2016"
     },
     {
-     "text": "Peter Davison",
-     "value": "1982"
+     "text": "Ultrasonne und Ultramond",
+     "value": "2017"
     },
     {
-     "text": "Tom Baker",
-     "value": "1974"
+     "text": "Schwert und Schild",
+     "value": "2019"
     },
     {
-     "text": "Jon Pertwee",
-     "value": "1970"
+     "text": "Legenden: Arceus",
+     "value": "2022"
     },
     {
-     "text": "Patrick Troughton",
-     "value": "1966"
-    },
-    {
-     "text": "William Hartnell",
-     "value": "1963"
+     "text": "Karmesin und Purpur",
+     "value": "2023"
     }
    ],
-   "category": "Film & TV",
+   "category": "Games",
    "id": "85755",
    "isValid": "",
-   "prompt": "Welcher Schauspieler hat zuletzt den Doktor in [i]Doctor Who[/i] gespielt?",
-   "sort": "descending",
+   "prompt": "Welches [i]Pokémon[/i]-Hauptreihenspiel erschien früher?",
+   "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5766,70 +5802,78 @@
   {
    "answers": [
     {
+     "text": "Dr. Pepper",
+     "value": "1885"
+    },
+    {
      "text": "Coca-Cola (Original)",
      "value": "1886"
     },
     {
-     "text": "Coca-Cola Light",
+     "text": "Pepsi (Original)",
+     "value": "1893"
+    },
+    {
+     "text": "Afri-Cola",
+     "value": "1931"
+    },
+    {
+     "text": "Pepsi Light",
+     "value": "1964"
+    },
+    {
+     "text": "Club-Cola",
+     "value": "1967"
+    },
+    {
+     "text": "Mezzo Mix",
+     "value": "1973"
+    },
+    {
+     "text": "Coca-Cola light",
      "value": "1982"
     },
     {
-     "text": "Cherry Coke",
+     "text": "Coca-Cola Cherry",
      "value": "1985"
     },
     {
-     "text": "New Coke",
-     "value": "1985"
+     "text": "Pepsi Max",
+     "value": "1993"
     },
     {
-     "text": "Cherry Coke Light",
-     "value": "1985"
-    },
-    {
-     "text": "Vanilla Coke",
+     "text": "Coca-Cola Vanilla",
      "value": "2002"
     },
     {
-     "text": "Coke Lime",
+     "text": "Fritz-Kola",
+     "value": "2003"
+    },
+    {
+     "text": "Coca-Cola Zero Sugar",
      "value": "2005"
     },
     {
-     "text": "Coke Zero",
-     "value": "2005"
-    },
-    {
-     "text": "Coke Orange",
-     "value": "2007"
-    },
-    {
-     "text": "Coke Ginger",
-     "value": "2016"
-    },
-    {
-     "text": "Zesty Blood Orange Coke Light",
-     "value": "2018"
+     "text": "Red Bull Cola",
+     "value": "2008"
     },
     {
      "text": "Coca-Cola Energy",
      "value": "2019"
     },
     {
-     "text": "Coca-Cola Coffee",
-     "value": "2019"
-    },
-    {
-     "text": "Cherry Vanilla Coca-Cola",
+     "text": "Coca-Cola Cherry Vanilla",
      "value": "2020"
     }
    ],
    "category": "Companies & Brands",
    "id": "86029",
    "isValid": "",
-   "prompt": "Welcher Geschmack oder welche Variante von Coca-Cola wurde zuerst auf den Markt gebracht?",
+   "prompt": "Welche Cola-Marke oder Geschmackssorte wurde zuerst auf den Markt gebracht?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
