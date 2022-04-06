@@ -967,7 +967,7 @@
   {
    "answers": [
     {
-     "match": "Van Helsing",
+     "match": "Abraham van Helsing",
      "text": "Dracula"
     },
     {
@@ -987,34 +987,34 @@
      "text": "Terminator"
     },
     {
-     "match": "Ashley “Ash” Williams",
-     "text": "Deadites"
+     "match": "Ghostbusters",
+     "text": "Gozer"
     },
     {
-     "match": "The Winchesters",
-     "text": "Azazel"
+     "match": "Martin Brody",
+     "text": "Der weiße Hai"
     },
     {
      "match": "Godzilla",
-     "text": "King Ghidorah"
+     "text": "König Ghidorah"
     },
     {
-     "match": "The Losers Club",
-     "text": "It"
+     "match": "Der Klub der Verlierer",
+     "text": "Es"
     }
    ],
    "category": "Pop Culture",
    "decoys": [],
    "headers": [
     {
-     "match": "Hunters",
-     "text": "Monsters"
+     "match": "Jäger",
+     "text": "Monster"
     }
    ],
    "id": "76872",
    "isValid": "",
-   "prompt": "Match the monster to its hunter",
-   "promptHeader": "Monster Hunters",
+   "prompt": "Ordne das Monster seinem Jäger zu",
+   "promptHeader": "Monster und ihre Jäger",
    "us": true,
    "x": false
   },
@@ -1179,59 +1179,63 @@
   {
    "answers": [
     {
-     "match": "“Meet The Plastics”",
-     "text": "[i]Mean Girls[/i]"
+     "match": "“Ich wünsch mir”",
+     "text": "Schneewittchen"
     },
     {
-     "match": "“The Election of 1800”",
-     "text": "[i]Hamilton[/i]"
+     "match": "“Ich hab ihn im Traum gesehen”",
+     "text": "Cinderella"
     },
     {
-     "match": "“Mungojerrie and Rumpleteazer”",
-     "text": "[i]Cats[/i]"
+     "match": "“Einmal in einem Traum”",
+     "text": "Aurora"
     },
     {
-     "match": "“They Live in You”",
-     "text": "[i]The Lion King[/i]"
+     "match": "“Ein Mensch zu sein”",
+     "text": "Arielle"
     },
     {
-     "match": "“Money, Money, Money”",
-     "text": "[i]Mamma Mia![/i]"
+     "match": "“Unsere Stadt”",
+     "text": "Belle"
     },
     {
-     "match": "“Seasons of Love”",
-     "text": "[i]Rent[/i]"
+     "match": "“Ein Traum wird wahr”",
+     "text": "Jasmin"
     },
     {
-     "match": "“If I Were A Rich Man”",
-     "text": "[i]Fiddler on the Roof[/i]"
+     "match": "“Das Farbenspiel des Windes”",
+     "text": "Pocahontas"
     },
     {
-     "match": "“My Girlfriend, Who Lives in Canada”",
-     "text": "[i]Avenue Q[/i]"
+     "match": "“Spiegelbild”",
+     "text": "Mulan"
     },
     {
-     "match": "“All Er Nuthin’”",
-     "text": "[i]Oklahoma![/i]"
+     "match": "“Ganz nah dran”",
+     "text": "Tiana"
     },
     {
-     "match": "“Slide Some Oil to Me”",
-     "text": "[i]The Wiz[/i]"
+     "match": "“Wann fängt mein Leben an?”",
+     "text": "Rapunzel"
+    },
+    {
+     "match": "“Ich bin bereit”",
+     "text": "Vaiana"
     }
    ],
-   "category": "Music",
+   "category": "Film & TV",
    "decoys": [],
    "headers": [
     {
-     "match": "Songs",
-     "text": "Musicals"
+     "match": "Lieder",
+     "text": "[i]Disney[/i]-Prinzessinnen"
     }
    ],
    "id": "76950",
    "isValid": "",
-   "prompt": "Match the musical to its song",
-   "promptHeader": "Broadway Musicals and Their Songs",
-   "us": true,
+   "prompt": "Ordne der [i]Disney[/i]-Prinzessin ihr Lied zu",
+   "promptHeader": "[i]Disney[/i]-Prinzessinnen und ihre Lieder",
+   "us": false,
    "x": false
   },
   {
@@ -1411,6 +1415,10 @@
     {
      "match": "[i]ORF[/i]", 
      "text": "[i]Zeit im Bild[/i]"
+    },
+    {
+     "match": "[i]WELT[/i]",
+     "text": "[i]Die Welt am Abend[/i]"
     }
    ],
    "category": "Film & TV",
@@ -3739,67 +3747,75 @@
   {
    "answers": [
     {
-     "match": "Garnet",
-     "text": "January"
+     "match": "Feldberg",
+     "text": "Baden-Württemberg"
     },
     {
-     "match": "Amethyst",
-     "text": "February"
+     "match": "Zugspitze",
+     "text": "Bayern"
     },
     {
-     "match": "Aquamarine",
-     "text": "March"
+     "match": "Kutschenberg",
+     "text": "Brandenburg"
     },
     {
-     "match": "Diamond",
-     "text": "April"
+     "match": "Hasselbrack",
+     "text": "Hamburg"
     },
     {
-     "match": "Emerald",
-     "text": "May"
+     "match": "Wasserkuppe",
+     "text": "Hessen"
     },
     {
-     "match": "Pearl",
-     "text": "June"
+     "match": "Helpter Berge",
+     "text": "Mecklenburg-Vorpommern"
     },
     {
-     "match": "Ruby",
-     "text": "July"
+     "match": "Wurmberg",
+     "text": "Niedersachsen"
     },
     {
-     "match": "Peridot",
-     "text": "August"
+     "match": "Langenberg",
+     "text": "Nordrhein-Westfalen"
     },
     {
-     "match": "Sapphire",
-     "text": "September"
+     "match": "Erbeskopf",
+     "text": "Rheinland-Pfalz"
     },
     {
-     "match": "Opal",
-     "text": "October"
+     "match": "Dollberg",
+     "text": "Saarland"
     },
     {
-     "match": "Topaz",
-     "text": "November"
+     "match": "Fichtelberg",
+     "text": "Sachsen"
     },
     {
-     "match": "Turquoise",
-     "text": "December"
+     "match": "Brocken",
+     "text": "Sachsen-Anhalt"
+    },
+    {
+     "match": "Bungsberg",
+     "text": "Schleswig-Holstein"
+    },
+    {
+     "match": "Großer Beerberg",
+     "text": "Thüringen"
     }
    ],
-   "category": "Calendar/Holidays",
+   "category": "Geography & Landmarks",
    "decoys": [],
    "headers": [
     {
-     "match": "Birthstones",
-     "text": "Months"
+     "match": "Berge",
+     "text": "Bundesländer"
     }
    ],
    "id": "78725",
    "isValid": "",
-   "prompt": "Match the month to the birthstone",
-   "promptHeader": "Beautiful Shiny Birthstones!",
-   "us": true,
+   "prompt": "Ordne dem Bundesland seine höchste Erhebung zu",
+   "promptHeader": "Bundesländer und ihre höchsten Berge",
+   "us": false,
    "x": false
   },
   {
@@ -4231,43 +4247,43 @@
   {
    "answers": [
     {
-     "match": "car",
+     "match": "Auto",
      "text": "Model T"
     },
     {
-     "match": "bus",
-     "text": "Greyhound Lines"
+     "match": "Kleintransporter",
+     "text": "VW Bulli"
     },
     {
-     "match": "train",
-     "text": "Amtrak Acela"
+     "match": "Zug",
+     "text": "Adler"
     },
     {
-     "match": "taxicab",
-     "text": "Yellow Cab"
+     "match": "Taxi",
+     "text": "“Black Cab”"
     },
     {
-     "match": "airplane",
+     "match": "Flugzeug",
      "text": "Air Force One"
     },
     {
-     "match": "yacht",
-     "text": "Seven Seas"
+     "match": "Magnetschwebebahn",
+     "text": "Transrapid"
     },
     {
-     "match": "dirigible",
+     "match": "Zeppelin",
      "text": "Hindenburg"
     },
     {
-     "match": "passenger liner",
+     "match": "Passagierschiff",
      "text": "Titanic"
     },
     {
-     "match": "bicycle",
-     "text": "Schwinn Paramount"
+     "match": "Fahrrad",
+     "text": "Bonanzarad"
     },
     {
-     "match": "motorcycle",
+     "match": "Motorrad",
      "text": "Harley-Davidson 11F"
     }
    ],
@@ -4275,15 +4291,15 @@
    "decoys": [],
    "headers": [
     {
-     "match": "Types",
-     "text": "Famous Vehicles"
+     "match": "Typen",
+     "text": "Berühmte Fahrzeuge"
     }
    ],
    "id": "78871",
    "isValid": "",
-   "prompt": "Match the famous vehicle to its type",
-   "promptHeader": "Famous Modes of Transportation",
-   "us": true,
+   "prompt": "Ordne das berühmte Fahrzeug seinem Typ zu",
+   "promptHeader": "Berühmte Verkehrsmittel",
+   "us": false,
    "x": false
   },
   {
@@ -4955,7 +4971,7 @@
      "text": "Hamburg"
     },
     {
-     "match": "Domkirche St Maria und St Stephan",
+     "match": "Domkirche St. Maria und St. Stephan",
      "text": "Speyer"
     },
     {
@@ -6212,7 +6228,7 @@
     },
     {
      "match": "Fußball",
-     "text": "Förster"
+     "text": "Kroos"
     },
     {
      "match": "Boxen",
@@ -6231,15 +6247,15 @@
    "decoys": [],
    "headers": [
     {
-     "match": "Careers",
-     "text": "Brothers"
+     "match": "Karrieren",
+     "text": "Brüder"
     }
    ],
    "id": "81222",
    "isValid": "",
-   "prompt": "Match the brothers to what they're famous for",
-   "promptHeader": "Bestest Bros",
-   "us": true,
+   "prompt": "Ordne die Brüder dem zu, für das sie berühmt sind",
+   "promptHeader": "Brüder und ihre Fähigkeiten",
+   "us": false,
    "x": false
   },
   {
