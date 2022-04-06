@@ -5172,7 +5172,7 @@
    "question": "Mit welchem Detektiv möchtest du am liebsten Fälle lösen?",
    "questionShort": "Detektive",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5196,7 +5196,7 @@
    "question": "Was ist bei einer Grillparty essentiell?",
    "questionShort": "Perfekte Grillparty",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5218,7 +5218,7 @@
    "question": "Wo fährst du definitiv NICHT mit?",
    "questionShort": "da kriegt mich keiner drauf...",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5233,7 +5233,7 @@
     "\"...gebe mein Bestes\"",
     "\"...werde beobachtet\"",
     "\"...bin hungrig\"",
-    "\"...bin Brad\""
+    "\"...bin Kevin\""
    ],
    "id": "79445",
    "intro": "",
@@ -5242,7 +5242,7 @@
    "question": "Dieses Shirt würde ich gerne tragen: \"Küss mich, ich...\"",
    "questionShort": "\"Küss mich, ich...\"",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5264,7 +5264,7 @@
    "question": "Zu welcher dieser öffentlichen Anträge würdest DU ja sagen?",
    "questionShort": "beste Anträge",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5286,7 +5286,7 @@
    "question": "Welcher dieser Freizeitparks klingt am schlimmsten?",
    "questionShort": "schlimmste Freizeitparks",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5310,7 +5310,7 @@
    "question": "Ohje, da hast du dir wohl eine Grippe eingefangen. Wie wird sie schnell besser?",
    "questionShort": "Wundermittel",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5332,7 +5332,7 @@
    "question": "Von welchem Film würdest du am liebsten ein darkes Reboot sehen?",
    "questionShort": "darke Reboots",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5354,7 +5354,7 @@
    "question": "Was ist das beste Halloweenkostüm für einen kleinen süßen Hundi mit kleinen süßen Pfötchen???",
    "questionShort": "Beste Hunde Halloween Kostüme",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5376,7 +5376,7 @@
    "question": "Was ist das schlimmste an einer Parade?",
    "questionShort": "Paraden sind kacke",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5398,7 +5398,7 @@
    "question": "Schnell! Zieh den Salat an! Welches Dressing ist am besten?",
    "questionShort": "Beste Salat Dressings",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5420,7 +5420,7 @@
    "question": "Welcher Jonglier-Gegenstand würde dich am meisten beeindrucken?",
    "questionShort": "beeindruckendes Jonglieren",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5442,7 +5442,7 @@
    "question": "Leckerste Fast Food Drinks! Welchen magst du am liebsten?",
    "questionShort": "Leckere Fast Food Drinks",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5452,15 +5452,12 @@
     "Bigfoot",
     "Loch Ness Monster",
     "Kobold",
-    "Pterodactyl",
     "Einhorn",
     "Chimäre",
     "riesiger Gorilla",
     "Minotaurus",
     "Oger",
-    "Greif",
     "Goblin",
-    "Gargoyle",
     "Gnom"
    ],
    "id": "79590",
@@ -5470,7 +5467,7 @@
    "question": "Zähme eines dieser Biester und dann REITE DARAUF!!!!",
    "questionShort": "Biester zähmen",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5493,33 +5490,29 @@
    "question": "Die wichtigste Mahlzeit des Tages! Was stopfst du dir ins Gesicht?",
    "questionShort": "Frühstückszeit!",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
    "category": "favorite",
    "choices": [
-    "Ring Around the Rosie",
-    "Paddy Cake",
-    "Wheels on the Bus",
-    "Humpty Dumpty",
-    "Itsy Bitsy Spider",
-    "Jack & Jill",
-    "When the Ants Go Marching",
-    "Old MacDonald",
-    "I'm a Little Teapot",
-    "The Muffin Man",
-    "Bingo!",
-    "Twinkle Twinkle Little Star"
+    "Double Chocolate",
+    "Chocolate Chip",
+    "Chocolate Chunk",
+    "Chocolate Chip mit Rainbow Candy",
+    "Chocolate Orange",
+    "White Chip Macadamia Nut",
+    "Raspberry Cheesecake",
+    "Double Chocolate"
    ],
    "id": "79592",
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Your favorite nursery rhyme when you were just a little nugget",
-   "questionShort": "Favorite Nursery Rhymes",
+   "question": "Auf welchen Keks fällt deine Wahl bei Subway?",
+   "questionShort": "Lieblings-Subway-Kekse",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
