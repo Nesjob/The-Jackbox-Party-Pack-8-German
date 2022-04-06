@@ -114,7 +114,7 @@
    "prompt": "Welche Hunderasse ist schwerer?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in pounds)",
+   "unit": "(In Kilogramm)",
    "us": false,
    "x": false
   },
@@ -394,7 +394,7 @@
    "prompt": "Welche dieser Autobahnen ist Stand 2021 länger?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in Kilometern)",
+   "unit": "(In Kilometern)",
    "us": false,
    "x": false
   },
@@ -528,7 +528,7 @@
    "prompt": "Welches Tier hat die stärkere Beißkraft?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in Kilo pro Quadratzentimeter)",
+   "unit": "(In Kilo pro Quadratzentimeter)",
    "us": false,
    "x": false
   },
@@ -894,7 +894,7 @@
    "prompt": "Welches Land hatte im Jahr 2020 eine höhere Bevölkerungszahl?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in Millionen Menschen)",
+   "unit": "(In Millionen Menschen)",
    "us": false,
    "x": false
   },
@@ -1016,7 +1016,7 @@
    "prompt": "Welches Gericht von McDonalds hat die meisten Kalorien?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in Kalorien)",
+   "unit": "(In Kalorien)",
    "us": false,
    "x": false
   },
@@ -1130,7 +1130,7 @@
    "prompt": "Welches Element kommt am häufigsten in der Erdkruste vor?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in % der Gesamtmasse)",
+   "unit": "(In % der Gesamtmasse)",
    "us": false,
    "x": false
   },
@@ -1195,7 +1195,7 @@
    "prompt": "Welcher Himmelskörper in unserem Sonnensystem hat den größeren Durchmesser?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in Kilometern)",
+   "unit": "(In Kilometern)",
    "us": false,
    "x": false
   },
@@ -1264,7 +1264,7 @@
    "prompt": "Welcher Videospiel-Bestseller hat im Jahr 2020 mehr Exemplare verkauft?",
    "sort": "ascending",
    "subtype": "most/least",
-   "unit": "(in verkauften Spielen)",
+   "unit": "(In verkauften Spielen)",
    "us": false,
    "x": false
   },
@@ -1480,7 +1480,7 @@
    "prompt": "Welcher dieser Planeten bewegt sich im All am langsamsten?",
    "sort": "ascending",
    "subtype": "most/least",
-   "unit": "(in Meilen pro Stunde)",
+   "unit": "(In Meilen pro Stunde)",
    "us": false,
    "x": false
   },
@@ -1533,7 +1533,7 @@
    "prompt": "Welcher Film von Quentin Tarantino hat eine längere Laufzeit?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in minutes)",
+   "unit": "(In Minuten)",
    "us": false,
    "x": false
   },
@@ -1610,7 +1610,7 @@
    "prompt": "Welches Land hatte 2021 mehr [i]LIDL[/i]-Filialen?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in [i]LIDL[/i]-Filialen)",
+   "unit": "(In [i]LIDL[/i]-Filialen)",
    "us": false,
    "x": false
   },
@@ -1695,7 +1695,7 @@
    "prompt": "Welche Fernsehsendung lief länger in Deutschland?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in Jahren)",
+   "unit": "(In Jahren)",
    "us": false,
    "x": false
   },
@@ -1760,7 +1760,7 @@
    "prompt": "Welche Seite im Internet wurde 2020 häufiger besucht?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in Milliarden Besucher pro Monat)",
+   "unit": "(In Milliarden Besucher pro Monat)",
    "us": false,
    "x": false
   },
@@ -1935,7 +1935,7 @@
    "prompt": "Welche Länder haben eine längere Festlandgrenze zu Deutschland?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in Kilometern)",
+   "unit": "(In Kilometern)",
    "us": false,
    "x": false
   },
@@ -2199,7 +2199,7 @@
    "prompt": "Welcher dieser Filme ist länger?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in Minuten)",
+   "unit": "(In Minuten)",
    "us": false,
    "x": false
   },
@@ -2833,7 +2833,7 @@
    "prompt": "Welcher Meilenstein in der Evolutionsgeschichte geschah zuerst?",
    "sort": "ascending",
    "subtype": "timeline",
-   "unit": "(in Millionen von unendlich langen Jahren)",
+   "unit": "(In Millionen von unendlich langen Jahren)",
    "us": false,
    "x": false
   },
@@ -3008,7 +3008,7 @@
    "prompt": "Welches Schriftstück hat die höhere Anzahl an Wörtern?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in words)",
+   "unit": "(In Wörtern)",
    "us": false,
    "x": false
   },
@@ -3727,7 +3727,7 @@
    "prompt": "Welches Auto hatte im Jahr 2020 einen teureren empfohlenen Verkaufspreis?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in U.S. dollars)",
+   "unit": "(In US-Dollar)",
    "us": false,
    "x": false
   },
@@ -4414,7 +4414,7 @@
    "prompt": "An welcher Stadt fährst du zuerst vorbei, wenn du die kürzeste Route von Lissabon nach Warschau mit dem Auto fährst?",
    "sort": "ascending",
    "subtype": "timeline",
-   "unit": "(from Chicago to Los Angeles)",
+   "unit": "",
    "us": false,
    "x": false
   },
@@ -4633,7 +4633,7 @@
    "prompt": "Welches dieser Ereignisse fand näher am Jahre 1 n. Chr. statt?",
    "sort": "ascending",
    "subtype": "closest",
-   "unit": "(closer to the year 1 C.E.)",
+   "unit": "(Näher an 1 n. Chr.)",
    "us": false,
    "x": false
   },
@@ -5242,7 +5242,7 @@
    "prompt": "Basierend auf Daten von 2019, welches Gemüse wird weltweit am meisten in Massenproduktion produziert?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in millions of metric tons)",
+   "unit": "(In Mio. Tonnen)",
    "us": false,
    "x": false
   },
@@ -5364,7 +5364,7 @@
    "prompt": "Stand 2021, welcher Wirtschaftsbereich hat in Deutschland mehr Erwerbstätige beschäftigt?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in Tausend Jobs)",
+   "unit": "(In Tausend Jobs)",
    "us": false,
    "x": false
   },
@@ -5734,7 +5734,7 @@
    "prompt": "Welches Tier hat eine höhere durchschnittliche Lebenserwartung?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in Jahren)",
+   "unit": "(In Jahren)",
    "us": false,
    "x": false
   },
@@ -5807,7 +5807,7 @@
    "prompt": "Stand 2021, welcher Twitter Account hatte mehr Follower?",
    "sort": "descending",
    "subtype": "most/least",
-   "unit": "(in Millionen Follower)",
+   "unit": "(In Millionen Follower)",
    "us": false,
    "x": false
   },

@@ -1361,59 +1361,71 @@
   {
    "answers": [
     {
-     "match": "[i]Love Actually[/i]",
-     "text": "Billy Bob Thornton"
+     "match": "[i]ARD[/i]",
+     "text": "[i]Tagesschau[/i]"
     },
     {
-     "match": "[i]Independence Day[/i]",
-     "text": "Bill Pullman"
+     "match": "[i]SR[/i]",
+     "text": "[i]Aktueller Bericht[/i]"
     },
     {
-     "match": "[i]Mars Attacks![/i]",
-     "text": "Jack Nicholson"
+     "match": "[i]Radio Bremen[/i]",
+     "text": "[i]buten un binnen[/i]"
     },
     {
-     "match": "[i]Dave[/i]",
-     "text": "Kevin Kline"
+     "match": "[i]HR[/i]",
+     "text": "[i]Hessenschau[/i]"
     },
     {
-     "match": "[i]White House Down[/i]",
-     "text": "Jamie Foxx"
+     "match": "[i]ZDF[/i]",
+     "text": "[i]Heute[/i]"
     },
     {
-     "match": "[i]Air Force One[/i]",
-     "text": "Harrison Ford"
+     "match": "[i]KiKa[/i]",
+     "text": "[i]Logo[/i]"
     },
     {
-     "match": "[i]Olympus Has Fallen[/i]",
-     "text": "Aaron Eckhart"
+     "match": "[i]WDR[/i]",
+     "text": "[i]Lokalzeit[/i]"
     },
     {
-     "match": "[i]The American President[/i]",
-     "text": "Michael Douglas"
+     "match": "[i]MDR[/i]",
+     "text": "[i]MDR aktuell[/i]"
     },
     {
-     "match": "[i]Sharknado 3: Oh Hell No![/i]",
-     "text": "Mark Cuban"
+     "match": "[i]NDR[/i]",
+     "text": "[i]Nordmagazin[/i]"
     },
     {
-     "match": "[i]2012[/i]",
-     "text": "Danny Glover"
+     "match": "[i]rbb[/i]",
+     "text": "[i]rbb24[/i]"
+    },
+    {
+     "match": "[i]SWR[/i]",
+     "text": "[i]SWR Aktuell[/i]"
+    },
+    {
+     "match": "[i]RTL[/i]",
+     "text": "[i]Punkt 12[/i]"
+    },
+    {
+     "match": "[i]ORF[/i]", 
+     "text": "[i]Zeit im Bild[/i]"
     }
    ],
    "category": "Film & TV",
    "decoys": [],
    "headers": [
     {
-     "match": "Films",
-     "text": "Actors"
+     "match": "Sender",
+     "text": "Nachrichtensendungen"
     }
    ],
    "id": "77637",
    "isValid": "",
-   "prompt": "Match the actor to the film",
-   "promptHeader": "Fictional U.S. Presidents",
-   "us": true,
+   "prompt": "Ordne die Nachrichtensendung dem Fernsehsender zu",
+   "promptHeader": "Fernsehsender und ihre Nachrichten",
+   "us": false,
    "x": false
   },
   {
@@ -4939,67 +4951,75 @@
   {
    "answers": [
     {
-     "match": "Michael Burnham",
-     "text": "Sonequa Martin-Green"
+     "match": "Speicherstadt",
+     "text": "Hamburg"
     },
     {
-     "match": "Jean-Luc Picard",
-     "text": "Patrick Stewart"
+     "match": "Domkirche St Maria und St Stephan",
+     "text": "Speyer"
     },
     {
-     "match": "Jonathan Archer",
-     "text": "Scott Bakula"
+     "match": "Wieskirche",
+     "text": "Steingaden"
     },
     {
-     "match": "Kathryn Janeway",
-     "text": "Kate Mulgrew"
+     "match": "Schlösser Augustusburg und Falkenlust",
+     "text": "Brühl"
     },
     {
-     "match": "Seven of Nine",
-     "text": "Jeri Ryan"
+     "match": "Porta Nigra",
+     "text": "Trier"
     },
     {
-     "match": "Odo",
-     "text": "Rene Auberjonois"
+     "match": "Bergwerk Rammelsberg",
+     "text": "Goslar"
     },
     {
-     "match": "Benjamin Sisko",
-     "text": "Avery Brooks"
+     "match": "Völklinger Hütte",
+     "text": "Völklingen"
     },
     {
-     "match": "Data",
-     "text": "Brent Spiner"
+     "match": "Bauhaus-Universität",
+     "text": "Weimar"
     },
     {
-     "match": "Wesley Crusher",
-     "text": "Wil Wheaton"
+     "match": "Luther-Geburtshaus",
+     "text": "Eisleben"
     },
     {
-     "match": "Hikaru Sulu",
-     "text": "George Takei"
+     "match": "Museumsinsel",
+     "text": "Berlin"
     },
     {
-     "match": "Uhura",
-     "text": "Nichelle Nichols"
+     "match": "Wartburg",
+     "text": "Eisenach"
     },
     {
-     "match": "Spock",
-     "text": "Leonard Nimoy"
+     "match": "Zeche Zollverein",
+     "text": "Essen"
+    },
+    {
+     "match": "Markgräfliches Opernhaus",
+     "text": "Bayreuth"
+    },
+    {
+     "match": "Fagus-Werk",
+     "text": "Alfeld"
     }
    ],
-   "category": "Film & TV",
+   "category": "Geography & Landmarks",
    "decoys": [],
    "headers": [
     {
-     "match": "[i]Star Trek[/i] Characters",
-     "text": "[i]Star Trek[/i] Actors"
+     "match": "[i]UNESCO[/i]-Weltkulturerbe",
+     "text": "Städte"
     }
    ],
    "id": "80326",
    "isValid": "",
-   "prompt": "Match the [i]Star Trek[/i] actor to the character they played",
-   "promptHeader": "[i]Star Trek[/i] Cast Members and the Characters They Played",
-   "us": true,
+   "prompt": "Ordne das [i]UNESCO[/i]-Weltkulturerbe der Stadt zu",
+   "promptHeader": "Deutsches Weltkulturerbe und wo es zu finden ist",
+   "us": false,
    "x": false
   },
   {
@@ -6171,40 +6191,40 @@
   {
    "answers": [
     {
-     "match": "flying",
+     "match": "Fliegen",
      "text": "Wright"
     },
     {
-     "match": "social media/investing",
-     "text": "Winklevoss"
+     "match": "Tennis",
+     "text": "Williams"
     },
     {
-     "match": "pop music",
-     "text": "Jonas"
+     "match": "Popmusik",
+     "text": "Kaulitz"
     },
     {
-     "match": "comedy",
-     "text": "Marx"
+     "match": "Zaubern",
+     "text": "Ehrlich"
     },
     {
-     "match": "folklore",
+     "match": "Märchen",
      "text": "Grimm"
     },
     {
-     "match": "politics",
-     "text": "Kennedy"
+     "match": "Fußball",
+     "text": "Förster"
     },
     {
-     "match": "football",
-     "text": "Manning"
+     "match": "Boxen",
+     "text": "Klitschko"
     },
     {
-     "match": "folk rock",
-     "text": "Avett"
+     "match": "[i]Formel 1[/i]",
+     "text": "Schumacher"
     },
     {
-     "match": "film directing",
-     "text": "Coen"
+     "match": "Schlagermusik",
+     "text":  "Ulrich"
     }
    ],
    "category": "Celebrities",
