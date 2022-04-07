@@ -4746,95 +4746,63 @@
   {
    "answers": [
     {
-     "text": "[i]google.com[/i]",
-     "value": "1"
+     "text": "Southwest Airlines",
+     "value": "163.6"
     },
     {
-     "text": "[i]youtube.com[/i]",
-     "value": "2"
+     "text": "American Airlines",
+     "value": "148.2"
     },
     {
-     "text": "[i]amazon.de[/i]",
-     "value": "3"
+     "text": "Ryanair",
+     "value": "136.7"
     },
     {
-     "text": "[i]facebook.com[/i]",
-     "value": "4"
+     "text": "EasyJet",
+     "value": "88.1"
     },
     {
-     "text": "[i]wikipedia.org[/i]",
-     "value": "5"
+     "text": "Turkish Airlines",
+     "value": "73.2"
     },
     {
-     "text": "[i]google.de[/i]",
-     "value": "6"
+     "text": "Lufthansa",
+     "value": "71.3"
     },
     {
-     "text": "[i]bild.de[/i]",
-     "value": "7"
+     "text": "Air China",
+     "value": "71.0"
     },
     {
-     "text": "[i]ebay.de[/i]",
-     "value": "8"
+     "text": "Emirates",
+     "value": "58"
     },
     {
-     "text": "[i]instagram.com[/i]",
-     "value": "9"
+     "text": "Air France",
+     "value": "52.5"
     },
     {
-     "text": "[i]t-online.de[/i]",
-     "value": "10"
+     "text": "Eurowings",
+     "value": "38.2"
     },
     {
-     "text": "[i]ebay-kleinanzeigen.de[/i]",
-     "value": "11"
+     "text": "KLM",
+     "value": "35.1"
     },
     {
-     "text": "[i]dhl.de[/i]",
-     "value": "12"
-    },
-    {
-     "text": "[i]web.de[/i]",
-     "value": "13"
-    },
-    {
-     "text": "[i]spiegel.de[/i]",
-     "value": "14"
-    },
-    {
-     "text": "[i]tagesschau.de[/i]",
-     "value": "15"
-    },
-    {
-     "text": "[i]twitch.tv[/i]",
-     "value": "16"
-    },
-    {
-     "text": "[i]twitter.com[/i]",
-     "value": "17"
-    },
-    {
-     "text": "[i]pornhub.com[/i]",
-     "value": "18"
-    },
-    {
-     "text": "[i]reddit.com[/i]",
-     "value": "19"
-    },
-    {
-     "text": "[i]wetter.com[/i]",
-     "value": "20"
+     "text": "Condor",
+     "value": "9.4"
     }
    ],
    "category": "Factoids",
    "id": "85702",
    "isValid": "",
-   "prompt": "Welche der Webseiten wurde 2021 in Deutschland häufiger aufgerufen?",
-   "sort": "ascending",
-   "subtype": "closest",
-   "unit": "",
+   "prompt": "Welche dieser Airlines beförderte im Jahr 2019 mehr Passagiere?",
+   "sort": "descending",
+   "subtype": "most/least",
+   "unit": "(In Mio. Passagieren)",
    "us": false,
-   "x": true
+   "x": false
   },
   {
    "answers": [

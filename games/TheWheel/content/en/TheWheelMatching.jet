@@ -1617,133 +1617,149 @@
   {
    "answers": [
     {
-     "match": "Banh Mi",
-     "text": "Baguette"
+     "match": "Fliege",
+     "text": "Farfalle"
     },
     {
-     "match": "Reuben",
-     "text": "Rye"
+     "match": "Korkenzieher",
+     "text": "Cellentani"
     },
     {
-     "match": "Torta",
-     "text": "Telera Roll"
+     "match": "Fäden",
+     "text": "Glasnudeln"
     },
     {
-     "match": "Cheesesteak",
-     "text": "Amoroso Roll"
+     "match": "Klößchen",
+     "text": "Gnocchi"
     },
     {
-     "match": "Po' Boy",
-     "text": "New Orleans-Style French Bread"
+     "match": "Platten",
+     "text": "Lasagne"
     },
     {
-     "match": "Lobster Roll",
-     "text": "New England Hot Dog Bun"
+     "match": "Röhren",
+     "text": "Makkaroni"
     },
     {
-     "match": "Gyro",
-     "text": "Flatbread"
+     "match": "Teigtasche",
+     "text": "Ravioli"
     },
     {
-     "match": "Chicago-Style Hot Dog",
-     "text": "Poppy Seed Bun"
+     "match": "Speichenrad",
+     "text": "Rotelle"
     },
     {
-     "match": "Cucumber Sandwich",
-     "text": "White Bread"
+     "match": "Ohr",
+     "text": "Orecchiette"
     },
     {
-     "match": "Ice Cream Sandwich",
-     "text": "Cookie"
+     "match": "Reis",
+     "text": "Kritharaki"
     }
    ],
    "category": "Food & Drink",
    "decoys": [],
    "headers": [
     {
-     "match": "Sandwiches",
-     "text": "Breads"
+     "match": "Formen",
+     "text": "Nudelarten"
     }
    ],
    "id": "77780",
    "isValid": "",
-   "prompt": "Match the bread to the sandwich",
-   "promptHeader": "Breads Traditionally Used in Sandwiches",
-   "us": true,
+   "prompt": "Ordne die Nudelart ihrer Form zu",
+   "promptHeader": "Nudeln und ihre Formen",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "Florence Foster Jenkins",
-     "text": "[i]Florence Foster Jenkins[/i]"
+     "match": "Deutschland",
+     "text": ".de"
     },
     {
-     "match": "The Witch",
-     "text": "[i]Into the Woods[/i]"
+     "match": "Tuvalu",
+     "text": ".tv"
     },
     {
-     "match": "Margaret Thatcher",
-     "text": "[i]The Iron Lady[/i]"
+     "match": "Kanada",
+     "text": ".ca"
     },
     {
-     "match": "Julia Child",
-     "text": "[i]Julie & Julia[/i]"
+     "match": "Volksrepublik China",
+     "text": ".cn"
     },
     {
-     "match": "Sister Aloysius Beauvier",
-     "text": "[i]Doubt[/i]"
+     "match": "Serbien",
+     "text": ".rs"
     },
     {
-     "match": "Miranda Priestly",
-     "text": "[i]The Devil Wears Prada[/i]"
+     "match": "Nordkorea",
+     "text": ".kp"
     },
     {
-     "match": "Susan Orlean",
-     "text": "[i]Adaptation[/i]"
+     "match": "Vatikanstadt",
+     "text": ".va"
     },
     {
-     "match": "Karen Silkwood",
-     "text": "[i]Silkwood[/i]"
+     "match": "Rumänien",
+     "text": ".ro"
     },
     {
-     "match": "Sophie",
-     "text": "[i]Sophie’s Choice[/i]"
+     "match": "Australien",
+     "text": ".au"
     },
     {
-     "match": "Joanna Kramer",
-     "text": "[i]Kramer vs. Kramer[/i]"
+     "match": "Argentinien",
+     "text": ".ar"
     },
     {
-     "match": "Linda",
-     "text": "[i]The Deer Hunter[/i]"
+     "match": "Guernsey",
+     "text": ".gg"
     },
     {
-     "match": "Kay Graham",
-     "text": "[i]The Post[/i]"
+     "match": "Georgien",
+     "text": ".ge"
     },
     {
-     "match": "Roberta",
-     "text": "[i]Music of the Heart[/i]"
+     "match": "Antarktis",
+     "text": ".aq"
     },
     {
-     "match": "Violet Weston",
-     "text": "[i]August: Osage County[/i]"
+     "match": "Panama",
+     "text": ".pa"
+    },
+    {
+     "match": "Mongolei",
+     "text": ".mn"
+    },
+    {
+     "match": "Schweden",
+     "text": ".se"
+    },
+    {
+     "match": "Niederlande",
+     "text": ".nl"
+    },
+    {
+     "match": "Montenegro",
+     "text": ".me"
     }
    ],
-   "category": "Film & TV",
+   "category": "Factoids",
    "decoys": [],
    "headers": [
     {
-     "match": "Roles",
-     "text": "Films"
+     "match": "Länder",
+     "text": "Top-Level-Domains"
     }
    ],
    "id": "77958",
    "isValid": "",
-   "prompt": "Match the film to the role",
-   "promptHeader": "Meryl Streep's Oscar-Nominated Roles",
-   "us": true,
+   "prompt": "Ordne die Internetendung ihrem dazugehörigen Land zu",
+   "promptHeader": "Länderspezifische Top-Level-Domains",
+   "us": false,
    "x": false
   },
   {
@@ -2175,67 +2191,71 @@
   {
    "answers": [
     {
-     "match": "Brangelina",
-     "text": "Brad Pitt & Angelina Jolie"
+     "match": "Spa, Belgien",
+     "text": "Circuit de Spa-Francorchamps"
     },
     {
-     "match": "Bennifer",
-     "text": "Ben Affleck & Jennifer Garner"
+     "match": "Nürburg, Deutschland",
+     "text": "Nürburgring"
     },
     {
-     "match": "Kimye",
-     "text": "Kanye West & Kim Kardashian"
+     "match": "Nevers, Frankreich",
+     "text": "Magny-Cours Circuit"
     },
     {
-     "match": "Billary",
-     "text": "Bill Clinton & Hillary Rodham Clinton"
+     "match": "Monaco",
+     "text": "Circuit de Monaco"
     },
     {
-     "match": "Desilu",
-     "text": "Desi Arnaz & Lucille Ball"
+     "match": "Spielberg, Österreich",
+     "text": "Red Bull Ring"
     },
     {
-     "match": "Brady-Bundch",
-     "text": "Giselle Bundchen & Tom Brady"
+     "match": "Abu Dhabi, Vereinigte Arabische Emirate",
+     "text": "Yas Marina Circuit"
     },
     {
-     "match": "TomKat",
-     "text": "Tom Cruise & Katie Holmes"
+     "match": "Singapur",
+     "text": "Marina Bay Street Circuit"
     },
     {
-     "match": "Speidi",
-     "text": "Spencer Pratt & Heidi Montag"
+     "match": "Budapest, Ungarn",
+     "text": "Hungaroring"
     },
     {
-     "match": "Grandson",
-     "text": "Ariana Grande & Pete Davidson"
+     "match": "Mexiko-Stadt, Mexiko",
+     "text": "Autódromo Hermanos Rodríguez"
     },
     {
-     "match": "BeyonZ",
-     "text": "Beyonce & Jay-Z"
+     "match": "Austin, Vereinigte Staaten",
+     "text": "Circuit of The Americas"
     },
     {
-     "match": "Posh & Becks",
-     "text": "Victoria Beckham & David Beckham"
+     "match": "Melbourne, Australien",
+     "text": "Albert Park Circuit"
     },
     {
-     "match": "Cash and Cary",
-     "text": "Cary Grant & Barbara Woolworth"
+     "match": "Le Castellet, Frankreich",
+     "text": "Circuit Paul Ricard"
+    },
+    {
+     "match": "Montreal, Kanada",
+     "text": "Circuit Gilles-Villeneuve"
     }
    ],
-   "category": "Celebrities",
+   "category": "Sports",
    "decoys": [],
    "headers": [
     {
-     "match": "Hybrid Names",
-     "text": "Couples"
+     "match": "Standorte",
+     "text": "[i]Formel 1[/i]-Rennstrecken"
     }
    ],
    "id": "78302",
    "isValid": "",
-   "prompt": "Match the couple to their hybrid name",
-   "promptHeader": "Hybrid Names of Celebrity Supercouples",
-   "us": true,
+   "prompt": "Ordne die [i]Formel 1[/i]-Rennstrecke ihrem Standort zu",
+   "promptHeader": "[i]Formel 1[/i]-Rennstrecken",
+   "us": false,
    "x": false
   },
   {
@@ -3351,59 +3371,87 @@
   {
    "answers": [
     {
-     "match": "“Work From Home”",
-     "text": "Fifth Harmony"
+     "match": "“Herzeleid”",
+     "text": "Rammstein"
     },
     {
-     "match": "“Free Your Mind”",
-     "text": "En Vogue"
+     "match": "“Schrei”",
+     "text": "Tokio Hotel"
     },
     {
-     "match": "“You Can't Hurry Love”",
-     "text": "The Supremes"
+     "match": "“Lonesome Crow”",
+     "text": "Scorpions"
     },
     {
-     "match": "“Stickwitu”",
-     "text": "The Pussycat Dolls"
+     "match": "“Verdammt guter Tag”",
+     "text": "Feuerherz"
     },
     {
-     "match": "“Say You’ll Be There”",
-     "text": "Spice Girls"
+     "match": "“Liebe und Sehnsucht”",
+     "text": "Die Amigos"
     },
     {
-     "match": "“Where My Girls At?”",
-     "text": "702"
+     "match": "“Hybrid Theory”",
+     "text": "Linkin Park"
     },
     {
-     "match": "“C'est La Vie”",
-     "text": "B*witched"
+     "match": "“The 1st Album”",
+     "text": "Modern Talking"
     },
     {
-     "match": "“Waterfalls”",
-     "text": "TLC"
+     "match": "“Auf einem Auge blöd”",
+     "text": "Fettes Brot"
     },
     {
-     "match": "“Hold On”",
-     "text": "Wilson Phillips"
+     "match": "“Kraftwerk”",
+     "text": "Kraftwerk"
     },
     {
-     "match": "“Move”",
-     "text": "Little Mix"
-    }
+     "match": "“Jetzt geht’s ab”",
+     "text": "Die Fantastischen Vier"
+    },
+    {
+     "match": "“Dance with Me”",
+     "text": "DJ BoBo"
+    },
+    {
+     "match": "“Opel-Gang”",
+     "text": "Die Toten Hosen"
+    },
+    {
+     "match": "“Dut-Dut-Duah!”",
+     "text": "Wise Guys"
+    },
+    {
+     "match": "“Up All Night”",
+     "text": "One Direction"
+    },
+    {
+     "match": "“Ring Ring”",
+     "text": "ABBA"
+    },
+    {
+     "match": "“Appetite for Destruction”",
+     "text": "Guns n' Roses"
+    },
+    {
+     "match": "“Das Leben ist grausam”",
+     "text": "Die Prinzen"
+       }
    ],
    "category": "Music",
    "decoys": [],
    "headers": [
     {
-     "match": "Singles",
-     "text": "Girl Groups"
+     "match": "Debütalben",
+     "text": "Bands"
     }
    ],
    "id": "78662",
    "isValid": "",
-   "prompt": "Match the group to their famous single",
-   "promptHeader": "Girl Groups",
-   "us": true,
+   "prompt": "Ordne das Debütalbum der Band zu",
+   "promptHeader": "Debütalben",
+   "us": false,
    "x": false
   },
   {
@@ -4595,59 +4643,99 @@
   {
    "answers": [
     {
-     "match": "T",
-     "text": "James Kirk"
+     "match": "Indien",
+     "text": "Delhi"
     },
     {
-     "match": "Thee",
-     "text": "Megan Stallion"
+     "match": "China",
+     "text": "Guangzhou"
     },
     {
-     "match": "P",
-     "text": "J Morgan"
+     "match": "Argentinien",
+     "text": "Buenos Aires"
     },
     {
-     "match": "S",
-     "text": "T Eliot"
+     "match": "Türkei",
+     "text": "Istanbul"
     },
     {
-     "match": "F",
-     "text": "Paul Tompkins"
+     "match": "Nigeria",
+     "text": "Lagos"
     },
     {
-     "match": "C",
-     "text": "John Reilly"
+     "match": "Peru",
+     "text": "Lima"
     },
     {
-     "match": "J",
-     "text": "Michael Fox"
+     "match": "Südkorea",
+     "text": "Seoul"
     },
     {
-     "match": "Day",
-     "text": "Daniel Lewis"
+     "match": "Kolumbien",
+     "text": "Bogotá"
     },
     {
-     "match": "Night",
-     "text": "M Shyamalan"
+     "match": "Japan",
+     "text": "Nagoya"
     },
     {
-     "match": "E",
-     "text": "Chuck Cheese"
+     "match": "Irak",
+     "text": "Bagdad"
+    },
+    {
+     "match": "Kanada",
+     "text": "Calgary"
+    },
+    {
+     "match": "Spanien",
+     "text": "Barcelona"
+    },
+    {
+     "match": "Russland",
+     "text": "Sankt Petersburg"
+    },
+    {
+     "match": "Australien",
+     "text": "Sydney"
+    },
+    {
+     "match": "Kenia",
+     "text": "Nairobi"
+    },
+    {
+     "match": "Mexiko",
+     "text": "Monterrey"
+    },
+    {
+     "match": "Madagaskar",
+     "text": "Antananarivo"
+    },
+    {
+     "match": "Vereinigtes Königreich",
+     "text": "Birmingham"
+    },
+    {
+     "match": "Vereinigte Staaten",
+     "text": "Chicago"
+    },
+    {
+     "match": "Venezuela",
+     "text": "Caracas"
     }
    ],
-   "category": "Celebrities",
+   "category": "Geography & Landmarks",
    "decoys": [],
    "headers": [
     {
-     "match": "Middles",
-     "text": "Names"
+     "match": "Länder",
+     "text": "Millionenstädte"
     }
    ],
    "id": "79476",
    "isValid": "",
-   "prompt": "Match the first and last name to its middle",
-   "promptHeader": "Middles of Names",
-   "us": true,
+   "prompt": "Ordne die Millionenstadt dem Land zu",
+   "promptHeader": "Städte von unglaublicher Größe",
+   "us": false,
    "x": false
   },
   {
