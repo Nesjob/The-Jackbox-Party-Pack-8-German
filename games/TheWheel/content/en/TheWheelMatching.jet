@@ -731,51 +731,51 @@
   {
    "answers": [
     {
-     "match": "Mr. Pink",
-     "text": "[i]Reservoir Dogs[/i]"
+     "match": "1.16",
+     "text": "Biome im Nether"
     },
     {
-     "match": "Carl Showalter",
-     "text": "[i]Fargo[/i]"
+     "match": "1.14",
+     "text": "Man kann schwimmen"
     },
     {
-     "match": "“The Marietta Mangler”",
-     "text": "[i]Con Air[/i]"
+     "match": "1.12",
+     "text": "Farbige Betten"
     },
     {
-     "match": "Seymour",
-     "text": "[i]Ghost World[/i]"
+     "match": "1.10",
+     "text": "Eisbären"
     },
     {
-     "match": "Randall",
-     "text": "[i]Monsters, Inc.[/i]"
+     "match": "1.9",
+     "text": "Neues Kampfsystem mit Cooldown"
     },
     {
-     "match": "Tony Blundetto",
-     "text": "[i]The Sopranos[/i]"
+     "match": "1.8",
+     "text": "Schleimblöcke"
     },
     {
-     "match": "Lenny Wosniak",
-     "text": "[i]30 Rock[/i]"
+     "match": "1.5",
+     "text": "Redstone"
     },
     {
-     "match": "“Nucky” Thompson",
-     "text": "[i]Boardwalk Empire[/i]"
+     "match": "Version 1.4",
+     "text": "Kommandoblock"
     }
    ],
    "category": "Film & TV",
    "decoys": [],
    "headers": [
     {
-     "match": "Characters",
-     "text": "Shows and Movies"
+     "match": "Update",
+     "text": "Feature"
     }
    ],
    "id": "76866",
    "isValid": "",
-   "prompt": "Match the show or movie to the Steve Buscemi character",
-   "promptHeader": "What Is Steve Buscemi Called in This?",
-   "us": true,
+   "prompt": "Ordne die Neuerung dem Minecraft-Java-Update zu",
+   "promptHeader": "Welches Update war das?",
+   "us": false,
    "x": false
   },
   {
