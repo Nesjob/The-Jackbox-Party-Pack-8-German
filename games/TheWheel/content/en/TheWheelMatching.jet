@@ -847,121 +847,121 @@
   {
    "answers": [
     {
-     "match": "[i]All’s Well That Ends Well[/i]",
-     "text": "[i]War and Peace[/i]"
+     "match": "Abgrenzung Organismen / Außenwelt",
+     "text": "Haut"
     },
     {
-     "match": "[i]They Don’t Build Statues to Businessmen[/i]",
-     "text": "[i]Valley of the Dolls[/i]"
+     "match": "Verringerte Reibung im Kniegelenk",
+     "text": "Meniskus"
     },
     {
-     "match": "[i]Among Ash-Heaps and Millionaires[/i]",
-     "text": "[i]The Great Gatsby[/i]"
+     "match": "Bewegung des Schultergelenks",
+     "text": "Schlüsselbein"
     },
     {
-     "match": "[i]The Last Man in Europe[/i]",
-     "text": "[i]1984[/i]"
+     "match": "Verbindung Kurz- & Langzeitgedächtnis",
+     "text": "Hippocampus"
     },
     {
-     "match": "[i]Atticus[/i]",
-     "text": "[i]To Kill a Mockingbird[/i]"
+     "match": "Steuerung vegetativer Funktionen",
+     "text": "Hypothalamus"
     },
     {
-     "match": "[i]First Impressions[/i]",
-     "text": "[i]Pride and Prejudice[/i]"
+     "match": "Auge schützen",
+     "text": "Augenlid"
     },
     {
-     "match": "[i]War[/i]",
-     "text": "[i]Paradise[/i]"
+     "match": "Kaudruck weiterleiten",
+     "text": "Jochbein"
     },
     {
-     "match": "[i]Strangers from Within[/i]",
-     "text": "[i]Lord of the Flies[/i]"
+     "match": "Bildung von Hormonen",
+     "text": "Bauchspeicheldrüse"
     },
     {
-     "match": "[i]The Strike[/i]",
-     "text": "[i]Atlas Shrugged[/i]"
+     "match": "Hormonspeicher",
+     "text": "Schilddrüse"
     }
    ],
    "category": "Literature",
    "decoys": [],
    "headers": [
     {
-     "match": "Rejected Titles",
-     "text": "Books"
+     "match": "Funktion",
+     "text": "Körperteil"
     }
    ],
    "id": "76868",
    "isValid": "",
-   "prompt": "Match the book to its rejected title",
-   "promptHeader": "Classic Books and Their Rejected Titles",
-   "us": true,
+   "prompt": "Ordne dem Körperteil seine Funktion zu",
+   "promptHeader": "Körperteile und ihre Funktion",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "Beanie Fieldstein",
-     "text": "Jonah Hill"
+     "match": "Ich denke also bin ich",
+     "text": "René Descartes"
     },
     {
-     "match": "Warren Beatty",
-     "text": "Shirley MacLaine"
+     "match": "Ich weiß, dass ich nichts weiß",
+     "text": "Sokrates"
     },
     {
-     "match": "Gloria Vanderbilt",
-     "text": "Anderson Cooper"
+     "match": "Wissen ist Macht",
+     "text": "Francis Bacon"
     },
     {
-     "match": "Dionne Warwick",
-     "text": "Whitney Houston"
+     "match": "Wir haben richtig gehandelt",
+     "text": "Michael Gorbatschow"
     },
     {
-     "match": "George Wendt",
-     "text": "Jason Sudeikis"
+     "match": "Yes we can",
+     "text": "Barack Obama"
     },
     {
-     "match": "Owen Wilson",
-     "text": "Luke Wilson"
+     "match": "Frankreich's Glück war mein einziger Gedanke",
+     "text": "Napoleon Bonaparte"
     },
     {
-     "match": "Sofia Coppola",
-     "text": "Nicolas Cage"
+     "match": "Bleibt hungrig, bleib albern",
+     "text": "Steve Jobs"
     },
     {
-     "match": "Solange",
-     "text": "Beyoncé"
+     "match": "I have a dream",
+     "text": "Martin Luther King"
     },
     {
-     "match": "Al Roker",
-     "text": "Lenny Kravitz"
+     "match": "Wollt ihr den totalen Krieg?",
+     "text": "Joseph Goebbels"
     },
     {
-     "match": "Kate Hudson",
-     "text": "Goldie Hawn"
+     "match": "Wir werden uns nie ergeben",
+     "text": "Winston Churchill"
     },
     {
-     "match": "Emilio Esteves",
-     "text": "Charlie Sheen"
+     "match": "Ich bin ein Berliner",
+     "text": "John F. Kennedy"
     },
     {
-     "match": "Brandy",
-     "text": "Snoop Dogg"
+     "match": "I look not back, I look in front",
+     "text": "Lothar Matthäus"
     }
    ],
    "category": "Celebrities",
    "decoys": [],
    "headers": [
     {
-     "match": "Relatives",
-     "text": "Celebrities"
+     "match": "Zitat",
+     "text": "Persönlichkeit"
     }
    ],
    "id": "76870",
    "isValid": "",
-   "prompt": "Match the celebrity to their relative",
-   "promptHeader": "Celebrities Related by Blood",
-   "us": true,
+   "prompt": "Ordne der Persönlichkeit sein Zitat zu",
+   "promptHeader": "Zitate von Persönlichkeiten",
+   "us": false,
    "x": false
   },
   {
