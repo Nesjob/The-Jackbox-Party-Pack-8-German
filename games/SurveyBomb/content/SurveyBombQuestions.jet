@@ -5535,7 +5535,7 @@
    "question": "Was ist der überraschendste Preis, den ein Kind anschleppen könnte?",
    "questionShort": "Überraschende Kinderpreise",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5564,7 +5564,7 @@
    "question": "Du hast eine Zeitkapsel gefunden! Was daraus nimmst du mit?",
    "questionShort": "Zeitkapsel",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5572,7 +5572,7 @@
    "choices": [
     "auf einer einsamen Landstraße",
     "im tiefen Wald",
-    "einsame Ubahnstation",
+    "einsame U-Bahnstation",
     "Großstadt-Seitengasse",
     "dreckiges Motel",
     "verlassene Nachbarschaft",
@@ -5586,7 +5586,7 @@
    "question": "Du bist allein und hast keinen Handyempfang. Welcher Ort ist am gruseligsten?",
    "questionShort": "gruseligster Ort",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5611,7 +5611,7 @@
    "question": "Welcher dieser Herren ist am heißesten?",
    "questionShort": "Sexiest Men Alive",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -5633,7 +5633,7 @@
    "question": "Du bist Detektiv! Wer ist dein Partner?",
    "questionShort": "Fallpartner",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5657,7 +5657,7 @@
    "question": "Stelle das perfekte 2000er Outfit zusammen.",
    "questionShort": "Fashion des Jahrtausends",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5679,7 +5679,7 @@
    "question": "Mmmm... was schreit regelrecht Herbst?",
    "questionShort": "Herbst, ganz ohne Scherz.",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5701,7 +5701,7 @@
    "question": "SCHLIMMSTE Flüssigkeit mit der du aus Versehen deinen Luftbefeuchter befüllen könntest.",
    "questionShort": "Luftbefeuchterfehler",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5723,7 +5723,7 @@
    "question": "Auf welchem Planeten würdest du am liebsten Kinder groß ziehen? Sauerstoff und Versorgung sind hierbei egal.",
    "questionShort": "Weltraumfamilie",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5747,7 +5747,7 @@
    "question": "Du bist in einen Brunnen gefallen! Welches Objekt hilft dir am ehesten dabei wieder rauszukommen?",
    "questionShort": "raus aus dem Brunnen",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5769,7 +5769,7 @@
    "question": "Der Schöpfer möchte die Menschenproduktion preiswerter machen und verzichtet deswegen auf ein paar Körperteile. Welche?",
    "questionShort": "Weg damit!",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5791,7 +5791,7 @@
    "question": "Was ist die nervigste Aufgabe im Haushalt?",
    "questionShort": "Aufräumen stinkt",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5810,10 +5810,10 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Du darfst ür den Rest deines Lebens nur noch einen Song hören, aber er MUSS aus 2009 sein. Für welchen entscheidest du dich?",
-   "questionShort": "2009 Hit... Fürimmer.",
+   "question": "Du darfst für den Rest deines Lebens nur noch einen Song hören, aber er MUSS aus 2009 sein. Für welchen entscheidest du dich?",
+   "questionShort": "2009 Hit... Für immer.",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5835,7 +5835,7 @@
    "question": "In was würdest du gerne deine Hand stecken?",
    "questionShort": "Hand rein",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5857,7 +5857,7 @@
    "question": "Was ist der ungemütlichste Platz im Bus?",
    "questionShort": "schlimmste Busplätze",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5881,7 +5881,7 @@
    "question": "Websites sind jetzt Menschen! Welche heiratest du?",
    "questionShort": "Liebe auf den ersten Klick",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5903,7 +5903,7 @@
    "question": "Was ist das nervigste Geräusch am Morgen?",
    "questionShort": "schlimmste Geräusche",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5927,7 +5927,7 @@
    "question": "Welche Kombination wäre der ultimative Schokoriegel?",
    "questionShort": "Schokoriegelcombos",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5949,7 +5949,7 @@
    "question": "Welche Qualitäten muss ein guter Kugelschreiber haben?",
    "questionShort": "sehr gute Kugelschreiber",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5995,7 +5995,7 @@
    "question": "Du hast dir gerade die Hände eingecremt, aber musst nun einen Türknauf betätigen. Wie stellst du das an?",
    "questionShort": "Tür öffnen mit...",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -6017,10 +6017,10 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Deine Freunde zwingen dich zu einem Gruppentattoo von Til Schweiger. Wo lässt du dich tättowieren?",
+   "question": "Deine Freunde zwingen dich zu einem Gruppentattoo von Dieter Bohlen. Wo lässt du dich tättowieren?",
    "questionShort": "Tattoo wo?",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -6040,9 +6040,9 @@
    "isValid": "",
    "outro": null,
    "question": "Was verschieben wir lieber mal auf morgen?",
-   "questionShort": "Procrastination Nation",
+   "questionShort": "Aufschiebungs-Nation",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -6064,7 +6064,7 @@
    "question": "Sobald dieses Tier Flügel hat und rumfliegt, ziehe ich in einen Bunker.",
    "questionShort": "geflügelte Monster",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -6086,7 +6086,7 @@
    "question": "Wenn du schläfst, wie liegst du dann?",
    "questionShort": "Schlafpositionen",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -6105,10 +6105,10 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Ja Mist..du hast jemanden ermordet und die Polizei hat es rausgefunden. Wie?",
+   "question": "Ja Mist.. du hast jemanden ermordet und die Polizei hat es rausgefunden. Wie?",
    "questionShort": "Geschnappt!",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -6128,7 +6128,7 @@
    "isValid": "",
    "outro": null,
    "question": "Willkommen auf der Apokalypse-Schule. Welcher generische Charaktertyp bist du?",
-   "questionShort": "Zeit die Welt zu retten, Teens",
+   "questionShort": "Zeit, die Welt zu retten, Teens",
    "round": "second",
    "us": true,
    "x": false
@@ -6152,7 +6152,7 @@
    "question": "Welches Tier ist das gefährlichste?",
    "questionShort": "gefährlichstes Tier",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -6178,7 +6178,7 @@
    "question": "Mit welcher griechischen Gottheit identifizierst du dich?",
    "questionShort": "griechische Götter",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -6187,10 +6187,10 @@
     "Umzugshilfe",
     "zum Flughafen fahren",
     "vom Flughafen abholen",
-    "Be the Designated Driver",
+    "Immer das Taxi spielen",
     "Haare zurückhalten",
     "Wingman",
-    "Skripte lesen",
+    "Ratschläge zu Nachrichten geben",
     "Liebe zu Musicals tolerieren",
     "entscheiden was man isst",
     "Passwörter teilen"
@@ -6202,7 +6202,7 @@
    "question": "Freundschaften sind Arbeit. Was ist auch bei den besten Freunden noch anstrengend?",
    "questionShort": "schwere Hilfe",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
