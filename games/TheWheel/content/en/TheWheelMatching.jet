@@ -1021,47 +1021,47 @@
   {
    "answers": [
     {
-     "match": "Fala",
-     "text": "FDR"
+     "match": "Baltique",
+     "text": "Francois Mitterrand"
     },
     {
-     "match": "Grits",
-     "text": "Jimmy Carter"
+     "match": "Tyras",
+     "text": "Otto von Bismarck"
     },
     {
-     "match": "Sweet Lips",
-     "text": "George Washington"
+     "match": "Tölpel",
+     "text": "Martin Luther"
     },
     {
-     "match": "Calamity Jane",
-     "text": "Calvin Collidge"
+     "match": "Susan",
+     "text": "Königin Elisabeth II."
     },
     {
-     "match": "Socks",
-     "text": "Bill Clinton"
+     "match": "Lump",
+     "text": "Pablo Picasso"
     },
     {
-     "match": "Veto",
-     "text": "James A. Garfield"
+     "match": "Erdmann",
+     "text": "Wilhelm II."
     },
     {
      "match": "Fido",
      "text": "Abraham Lincoln"
     },
     {
-     "match": "Pauline Wayne",
-     "text": "William Howard Taft"
+     "match": "Dash",
+     "text": "Königin Victoria"
     },
     {
      "match": "Bo",
      "text": "Barack Obama"
     },
     {
-     "match": "(no pet)",
-     "text": "Donald Trump"
+     "match": "Nemo",
+     "text": "Emmanuel Macron"
     },
     {
-     "match": "Major",
+     "match": "Commander",
      "text": "Joe Biden"
     }
    ],
@@ -1069,15 +1069,15 @@
    "decoys": [],
    "headers": [
     {
-     "match": "Pets",
-     "text": "Presidents"
+     "match": "Hunde",
+     "text": "Berühmte Persönlichkeiten"
     }
    ],
    "id": "76873",
    "isValid": "",
-   "prompt": "Match the president to the pet",
-   "promptHeader": "Presidential Pets",
-   "us": true,
+   "prompt": "Ordne den Hund der Persönlichkeit zu",
+   "promptHeader": "“Nicht ohne meinen Hund!”",
+   "us": false,
    "x": false
   },
   {
@@ -2489,59 +2489,59 @@
   {
    "answers": [
     {
-     "match": "home",
-     "text": "[i]The Wizard of Oz[/i]"
+     "match": "fort",
+     "text": "[i]Mary Poppins[/i]"
     },
     {
-     "match": "roads",
-     "text": "[i]Back to the Future[/i]"
+     "match": "rankommen",
+     "text": "[i]Titanic[/i]"
     },
     {
-     "match": "friendship",
-     "text": "[i]Casablanca[/i]"
+     "match": "sein",
+     "text": "[i]Star Wars: Das Imperium schlägt zurück[/i]"
     },
     {
-     "match": "dreaming",
-     "text": "[i]Pretty Woman[/i]"
+     "match": "weiß",
+     "text": "[i]Terminator[/i]"
     },
     {
-     "match": "back",
-     "text": "[i]The Lord of the Rings: The Return of the King[/i]"
+     "match": "Schatz",
+     "text": "[i]Der Friedhof der Kuscheltiere[/i]"
     },
     {
-     "match": "go",
-     "text": "[i]Ferris Bueller's Day Off[/i]"
+     "match": "Deutschland",
+     "text": "[i]Das Wunder von Bern[/i] (2003)"
     },
     {
-     "match": "perfect",
-     "text": "[i]Some Like It Hot[/i]"
+     "match": "Kopf",
+     "text": "[i]Highlander[/i]"
     },
     {
-     "match": "gone",
-     "text": "[i]The Usual Suspects[/i]"
+     "match": "Ja",
+     "text": "[i]Independence Day[/i]"
     },
     {
-     "match": "day",
-     "text": "[i]Gone With The Wind[/i]"
+     "match": "auf",
+     "text": "[i]Zwei Asse trumpfen auf[/i]"
     },
     {
-     "match": "start",
-     "text": "[i]Groundhog Day[/i]"
+     "match": "lebt",
+     "text": "[i]Kill Bill Vol. 1[/i]"
     }
    ],
    "category": "Film & TV",
    "decoys": [],
    "headers": [
     {
-     "match": "Final Words",
-     "text": "Films"
+     "match": "Letzte Worte",
+     "text": "Filme"
     }
    ],
    "id": "78372",
    "isValid": "",
-   "prompt": "Match the film to its final word",
-   "promptHeader": "The Last Word Spoken in Famous Films",
-   "us": true,
+   "prompt": "Ordne den Film seinem letzten gesprochenen Wort zu",
+   "promptHeader": "“Irgendwelche letzten Worte?”",
+   "us": false,
    "x": false
   },
   {
@@ -4051,63 +4051,83 @@
   {
    "answers": [
     {
-     "match": "Dy-no-mite!",
-     "text": "JJ, [i]Good Times[/i]"
+     "match": "[i]Gefragt - Gejagt[/i]",
+     "text": "Alexander Bommes"
     },
     {
-     "match": "That's what she said.",
-     "text": "Michael Scott, [i]The Office[/i]"
+     "match": "[i]Wer wird Millionär?[/i]",
+     "text": "Günther Jauch"
     },
     {
-     "match": "Bazinga!",
-     "text": "Sheldon Cooper, [i]Big Bang Theory[/i]"
+     "match": "[i]Hirschhausens Quiz des Menschen[/i]",
+     "text": "Eckart von Hirschhausen"
     },
     {
-     "match": "Book 'em, Danno",
-     "text": "Steve McGarrett, [i]Hawaii 5-0[/i]"
+     "match": "[i]Der Quiz-Champion[/i]",
+     "text": "Johannes Baptist Kerner"
     },
     {
-     "match": "I've made a huge mistake.",
-     "text": "G.O.B. Bluth, [i]Arrested Development[/i]"
+     "match": "[i]Wer weiß denn sowas?[/i]",
+     "text": "Kai Pflaume"
     },
     {
-     "match": "Mulder, it's me.",
-     "text": "Scully, [i]X Files[/i]"
+     "match": "[i]Genial daneben[/i]",
+     "text": "Hugo Egon Balder"
     },
     {
-     "match": "BURN!!!",
-     "text": "Kelso, [i]That 70s Show[/i]"
+     "match": "[i]Dalli Dalli[/i]",
+     "text": "Hans Rosenthal"
     },
     {
-     "match": "Excellent",
-     "text": "Mr. Burns, [i]The Simpsons[/i]"
+     "match": "[i]Geh aufs Ganze![/i]",
+     "text": "Jörg Draeger"
     },
     {
-     "match": "Alriiiiight!",
-     "text": "Linda Belcher, [i]Bob's Burgers[/i]"
+     "match": "[i]Die 100.000 Mark Show[/i]",
+     "text": "Ulla Kock am Brink"
     },
     {
-     "match": "Who loves orange soda?",
-     "text": "Kel, [i]Kenan & Kel[/i]"
+     "match": "[i]Glücksrad[/i]",
+     "text": "Peter Bond/Frederic Meisner"
     },
     {
-     "match": "But you don't have to take my word for it.",
-     "text": "LeVar Burton, [i]Reading Rainbow[/i]"
+     "match": "[i]Der Preis ist heiß[/i]",
+     "text": "Harry Wijnvoord"
+    },
+    {
+     "match": "[i]1, 2 oder 3[/i]",
+     "text": "Elton (Alexander Duszat)"
+    },
+    {
+     "match": "[i]Meister des Alltags[/i]",
+     "text": "Florian Weber"
+    },
+    {
+     "match": "[i]Luke! Die Schule und ich[/i]",
+     "text": "Luke Mockridge"
+    },
+    {
+     "match": "[i]Die beste Klasse Deutschlands[/i]", 
+     "text": "Malte Arkona"
+    },
+    {
+     "match": "[i]Quizduell[/i]",
+     "text": "Jörg Pilawa"
     }
    ],
    "category": "Film & TV",
    "decoys": [],
    "headers": [
     {
-     "match": "Catchphrases",
-     "text": "Characters"
+     "match": "Quizsendungen",
+     "text": "Moderatoren"
     }
    ],
    "id": "78753",
    "isValid": "",
-   "prompt": "Match the TV character to their catchphrase",
-   "promptHeader": "TV Characters and Their Catchphrases",
-   "us": true,
+   "prompt": "Ordne den Moderator der Quizsendung zu",
+   "promptHeader": "Quizsendungen und ihre Moderatoren",
+   "us": false,
    "x": false
   },
   {
@@ -4927,67 +4947,59 @@
   {
    "answers": [
     {
-     "match": "Matt Foley",
-     "text": "Chris Farley"
+     "match": "“Múnich”",
+     "text": "Spanisch"
     },
     {
-     "match": "Mary Katherine Gallagher",
-     "text": "Molly Shannon"
+     "match": "“Monachium”",
+     "text": "Polnisch"
     },
     {
-     "match": "The Church Lady",
-     "text": "Dana Carvey"
+     "match": "“Monaco di Baviera”",
+     "text": "Italienisch"
     },
     {
-     "match": "Gilly",
-     "text": "Kristin Wiig"
+     "match": "“Munich”",
+     "text": "Englisch"
     },
     {
-     "match": "Stefon",
-     "text": "Bill Hader"
+     "match": "“Minhen”",
+     "text": "Serbisch"
     },
     {
-     "match": "Debbie Downer",
-     "text": "Rachel Dratch"
+     "match": "“Münih”",
+     "text": "Türkisch"
     },
     {
-     "match": "Roseanne Rosannadanna",
-     "text": "Gilda Radner"
+     "match": "“Myunhen”",
+     "text": "Japanisch"
     },
     {
-     "match": "Operaman",
-     "text": "Adam Sandler"
+     "match": "“Munique”",
+     "text": "Portugiesisch"
     },
     {
-     "match": "Wayne Campbell",
-     "text": "Mike Myers"
+     "match": "“Mníchov”",
+     "text": "Slowakisch"
     },
     {
-     "match": "Alex Trebek",
-     "text": "Will Ferrell"
-    },
-    {
-     "match": "Sean Connery",
-     "text": "Darrell Hammond"
-    },
-    {
-     "match": "Mr. Robinson",
-     "text": "Eddie Murphy"
+     "match": "“Minhene”",
+     "text": "Lettisch"
     }
    ],
-   "category": "Film & TV",
+   "category": "Language/Words/Grammar",
    "decoys": [],
    "headers": [
     {
-     "match": "Characters",
-     "text": "Cast Members"
+     "match": "“München” in verschiedenen Sprachen",
+     "text": "Sprachen"
     }
    ],
    "id": "79813",
    "isValid": "",
-   "prompt": "Match the [i]SNL[/i] cast member to their character",
-   "promptHeader": "[i]Saturday Night Live[/i] Cast Members and Their Popular Characters",
-   "us": true,
+   "prompt": "Ordne den Namen der Stadt München den verschiedenen Sprachen zu",
+   "promptHeader": "“München” in unterschiedlichen Sprachen",
+   "us": false,
    "x": false
   },
   {
@@ -5985,55 +5997,71 @@
   {
    "answers": [
     {
-     "match": "Bane",
-     "text": "Tom Hardy"
+     "match": "Spider-Man",
+     "text": "Peter Parker"
     },
     {
-     "match": "Dredd",
-     "text": "Karl Urban"
+     "match": "Batman",
+     "text": "Bruce Wayne"
     },
     {
-     "match": "Din Djarin (The Mandalorian)",
-     "text": "Pedro Pascal"
+     "match": "Der Mandalorianer",
+     "text": "Din Djarin"
     },
     {
-     "match": "V",
-     "text": "Hugo Weaving"
+     "match": "Reaper",
+     "text": "Gabriel Reyes"
     },
     {
-     "match": "Boba Fett",
-     "text": "Jeremy Bulloch"
+     "match": "General Grievous",
+     "text": "Qymaen jai Sheelal"
     },
     {
-     "match": "The Phantom",
-     "text": "Gerard Butler"
+     "match": "Das Phantom",
+     "text": "Erik"
     },
     {
      "match": "Deadpool",
-     "text": "Ryan Reynolds"
+     "text": "Wade Wilson"
     },
     {
-     "match": "Jason Voorhees",
-     "text": "Kane Hodder"
+     "match": "Joker",
+     "text": "Arthur Fleck"
     },
     {
      "match": "Zorro",
-     "text": "Antonio Banderas"
+     "text": "Alejandro Murrieta"
+    },
+    {
+     "match": "Darth Vader",
+     "text": "Anakin Skywalker"
+    },
+    {
+     "match": "Green Lantern",
+     "text": "Kyle Rayner"
+    },
+    {
+     "match": "Phantomias",
+     "text": "Donald Duck"
+    },
+    {
+     "match": "Shiek",
+     "text": "Zelda"
     }
    ],
-   "category": "Celebrities",
+   "category": "Pop Culture",
    "decoys": [],
    "headers": [
     {
-     "match": "Masked Characters",
-     "text": "Actors"
+     "match": "Maskierte Figuren",
+     "text": "Alter Ego"
     }
    ],
    "id": "81008",
    "isValid": "",
-   "prompt": "Match the actor to the masked character they played",
-   "promptHeader": "Actors and Their Masked Characters",
-   "us": true,
+   "prompt": "Ordne die maskierte Figur ihrem Alter Ego zu",
+   "promptHeader": "Maskierte Figuren und ihre (manchmal geheimen) echten Namen",
+   "us": false,
    "x": false
   },
   {
