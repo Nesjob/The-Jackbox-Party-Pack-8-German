@@ -1889,59 +1889,71 @@
   {
    "answers": [
     {
-     "match": "[i]Law & Order: SVU[/i]",
-     "text": "Ice-T"
+     "match": "“Doggystyle”",
+     "text": "Snoop Dogg"
     },
     {
-     "match": "[i]Friday[/i]",
-     "text": "Ice Cube"
+     "match": "“Vom Bordstein bis zur Skyline”",
+     "text": "Bushido"
     },
     {
-     "match": "[i]Fresh Prince of Bel-Air[/i]",
-     "text": "Will Smith"
+     "match": "“Raop”",
+     "text": "Cro"
     },
     {
-     "match": "[i]8 Mile[/i]",
+     "match": "“Infinite”",
      "text": "Eminem"
     },
     {
-     "match": "[i]Exit Wounds[/i]",
-     "text": "DMX"
+     "match": "“Asphalt Massaka”",
+     "text": "Farid Bang"
     },
     {
-     "match": "[i]Hairspray[/i]",
-     "text": "Queen Latifah"
+     "match": "“Ebbe & Flut”",
+     "text": "Gzuz"
     },
     {
-     "match": "[i]NCIS: Los Angeles[/i]",
-     "text": "LL Cool J"
+     "match": "“Alphagene”",
+     "text": "Kollegah"
     },
     {
-     "match": "[i]The Hitchhiker's Guide to the Galaxy[/i]",
-     "text": "Mos Def/Yasiin Bey"
+     "match": "“Krampfhaft kriminell”",
+     "text": "Bonez MC"
     },
     {
-     "match": "[i]Atlanta[/i]",
-     "text": "Childish Gambino"
+     "match": "“Kuku Bra”",
+     "text": "Capital Bra"
     },
     {
-     "match": "[i]Hustlers[/i]",
-     "text": "Cardi B"
+     "match": "“Ich bin jung und brauche das Geld”",
+     "text": "Eko Fresh"
+    },
+    {
+     "match": "“Eros”",
+     "text": "RIN"
+    },
+    {
+     "match": "“Neue Deutsche Welle”",
+     "text": "Fler"
+    },
+    {
+     "match": "“Auf einem Auge blöd”", 
+     "text": "Fettes Brot"
     }
    ],
-   "category": "Pop Culture",
+   "category": "Music",
    "decoys": [],
    "headers": [
     {
-     "match": "Credits",
-     "text": "Rappers"
+     "match": "Debütalben",
+     "text": "Rapper"
     }
    ],
    "id": "78094",
    "isValid": "",
-   "prompt": "Match the rapper to their acting credit",
-   "promptHeader": "That's a Rap: Hip Hop Artists and Their Acting Work",
-   "us": true,
+   "prompt": "Ordne dem Rapper das Debütalbum zu",
+   "promptHeader": "Rapper und ihre Debütalben",
+   "us": false,
    "x": false
   },
   {
@@ -2705,67 +2717,67 @@
   {
    "answers": [
     {
-     "match": "[i]Clueless[/i]",
-     "text": "Alicia Silverstone"
+     "match": "[i]Käfer[/i] ([i]Typ 1[/i])",
+     "text": "[i]Volkswagen[/i]"
     },
     {
-     "match": "[i]You've Got Mail[/i]",
-     "text": "Meg Ryan"
+     "match": "[i]F 103[/i]",
+     "text": "[i]Audi[/i]"
     },
     {
-     "match": "[i]Legally Blonde[/i]",
-     "text": "Reese Witherspoon"
+     "match": "[i]356[/i]",
+     "text": "[i]Porsche[/i]"
     },
     {
-     "match": "[i]13 Going On 30[/i]",
-     "text": "Jennifer Garner"
+     "match": "[i]Toyoda AA[/i]",
+     "text": "[i]Toyota[/i]"
     },
     {
-     "match": "[i]Moonstruck[/i]",
-     "text": "Cher"
+     "match": "[i]Modell T[/i]",
+     "text": "[i]Ford[/i]"
     },
     {
-     "match": "[i]Bringing Up Baby[/i]",
-     "text": "Katharine Hepburn"
+     "match": "[i]3,5 HP[/i]",
+     "text": "[i]Fiat[/i]"
     },
     {
-     "match": "[i]Pretty Woman[/i]",
-     "text": "Julia Roberts"
+     "match": "[i]Type A[/i]",
+     "text": "[i]Renault[/i]"
     },
     {
-     "match": "[i]Something's Gotta Give[/i]",
-     "text": "Diane Keaton"
+     "match": "[i]Patentmotorwagen “System Lutzmann”[/i]",
+     "text": "[i]Opel[/i]"
     },
     {
-     "match": "[i]The Holiday[/i]",
-     "text": "Cameron Diaz"
+     "match": "[i]3/15 PS[/i]",
+     "text": "[i]BMW[/i]"
     },
     {
-     "match": "[i]Bridget Jones's Diary[/i]",
-     "text": "Renee Zellweger"
+     "match": "[i]Silver Dawn[/i]",
+     "text": "[i]Rolls-Royce[/i]"
     },
     {
-     "match": "[i]10 Things I Hate About You[/i]",
-     "text": "Julia Stiles"
+     "match": "[i]Roadster[/i]",
+     "text": "[i]Tesla[/i]"
     },
     {
-     "match": "[i]Miss Congeniality[/i]",
-     "text": "Sandra Bullock"
+     "match": "[i]Pony[/i]",
+     "text": "[i]Hyundai[/i]"
     }
    ],
-   "category": "Film & TV",
+   "category": "Companies & Brands",
    "decoys": [],
    "headers": [
     {
-     "match": "Rom-Coms",
-     "text": "Leading Ladies"
+     "match": "Erste Serienmodelle",
+     "text": "Automarken"
     }
    ],
    "id": "78420",
    "isValid": "",
-   "prompt": "Match the actress to the film",
-   "promptHeader": "Rom-Com Leading Ladies",
-   "us": true,
+   "prompt": "Ordne der Automarke ihr erstes in Serie produziertes Modell zu",
+   "promptHeader": "Automarken und ihre Erstlingswerke",
+   "us": false,
    "x": false
   },
   {
@@ -3523,51 +3535,51 @@
   {
    "answers": [
     {
-     "match": "[i]Now You See Me 2[/i]",
+     "match": "Harry Potter",
      "text": "Daniel Radcliffe"
     },
     {
-     "match": "[i]The Bling Ring[/i]",
+     "match": "Hermine Granger",
      "text": "Emma Watson"
     },
     {
-     "match": "[i]Love Actually[/i]",
+     "match": "Severus Snape",
      "text": "Alan Rickman"
     },
     {
-     "match": "[i]The Dark Knight[/i]",
+     "match": "Sirius Black",
      "text": "Gary Oldman"
     },
     {
-     "match": "[i]Fight Club[/i]",
-     "text": "Helena Bonham Carter"
+     "match": "Draco Malfoy",
+     "text": "Tom Felton"
     },
     {
-     "match": "[i]Nanny McPhee[/i]",
-     "text": "Emma Thompson"
+     "match": "Rubeus Hagrid",
+     "text": "Robbie Coltrane"
     },
     {
-     "match": "[i]Camelot[/i]",
+     "match": "Albus Dumbledore",
      "text": "Richard Harris"
     },
     {
-     "match": "[i]Fantastic Mr. Fox[/i]",
-     "text": "Michael Gambon"
+     "match": "Lucius Malfoy",
+     "text": "Jason Isaacs"
     },
     {
-     "match": "[i]Downton Abbey[/i]",
+     "match": "Minerva McGonagall",
      "text": "Maggie Smith"
     },
     {
-     "match": "[i]The Grand Budapest Hotel[/i]",
+     "match": "Lord Voldemort",
      "text": "Ralph Fiennes"
     },
     {
-     "match": "[i]Willow[/i]",
+     "match": "Filius Flitwick",
      "text": "Warwick Davis"
     },
     {
-     "match": "[i]Cherrybomb[/i]",
+     "match": "Ron Weasley",
      "text": "Rupert Grint"
     }
    ],
@@ -3575,14 +3587,14 @@
    "decoys": [],
    "headers": [
     {
-     "match": "Other Movies",
-     "text": "[i]Harry Potter[/i] Actors"
+     "match": "Figuren in [i]Harry Potter[/i]",
+     "text": "Schauspieler"
     }
    ],
    "id": "78670",
    "isValid": "",
-   "prompt": "Match the [i]Harry Potter[/i] cast member to their other movie",
-   "promptHeader": "[i]Harry Potter[/i] Actors and Their Other Film Roles",
+   "prompt": "Ordne dem Schauspieler seine Rolle in der [i]Harry Potter[/i]-Filmreihe zu",
+   "promptHeader": "[i]Harry Potter[/i]-Figuren und ihre Schauspieler",
    "us": true,
    "x": false
   },
@@ -5869,67 +5881,67 @@
   {
    "answers": [
     {
-     "match": "Billie Lourd",
-     "text": "Carrie Fisher"
+     "match": "Israel",
+     "text": "Klagemauer"
     },
     {
-     "match": "Angelina Jolie",
-     "text": "Jon Voigt"
+     "match": "Frankreich",
+     "text": "Notre-Dame"
     },
     {
-     "match": "Mariska Hargitay",
-     "text": "Jayne Mansfield"
+     "match": "Indien",
+     "text": "Taj Mahal"
     },
     {
-     "match": "Anderson Cooper",
-     "text": "Gloria Vanderbilt"
+     "match": "Russland",
+     "text": "Basilius-Kathedrale"
     },
     {
-     "match": "Kate Hudson",
-     "text": "Goldie Hawn"
+     "match": "Vatikan",
+     "text": "Petersdom"
     },
     {
-     "match": "Gwyneth Paltrow",
-     "text": "Blythe Danner"
+     "match": "Japan",
+     "text": "Todai-ji"
     },
     {
-     "match": "Dakota Johnson",
-     "text": "Melanie Griffith"
+     "match": "Brasilien",
+     "text": "Cristo Redentor"
     },
     {
-     "match": "Rumer Willis",
-     "text": "Demi Moore"
+     "match": "Saudi-Arabien",
+     "text": "al-Haram-Moschee"
     },
     {
-     "match": "Emilio Estevez",
-     "text": "Martin Sheen"
+     "match": "Türkei",
+     "text": "Hagia Sophia"
     },
     {
-     "match": "Zoe Kravitz",
-     "text": "Lisa Bonet"
+     "match": "Spanien",
+     "text": "Sagrada Família"
     },
     {
-     "match": "Elle King",
-     "text": "Rob Schneider"
+     "match": "Indonesien",
+     "text": "Borobudur"
     },
     {
-     "match": "Maya Rudolph",
-     "text": "Minnie Riperton"
+     "match": "Indien",
+     "text": "Ramanathaswami-Tempel"
     }
    ],
-   "category": "Celebrities",
+   "category": "Religion",
    "decoys": [],
    "headers": [
     {
-     "match": "Offspring",
-     "text": "Celebrities"
+     "match": "Länder",
+     "text": "Glaubensstätten"
     }
    ],
    "id": "80471",
    "isValid": "",
-   "prompt": "Match the celebrity to their offspring",
-   "promptHeader": "Celebrities Through the Generations",
-   "us": true,
+   "prompt": "Ordne die Glaubensstätte dem Land zu",
+   "promptHeader": "Bedeutende Glaubensstätten und ihre Standorte",
+   "us": false,
    "x": false
   },
   {
@@ -6199,125 +6211,133 @@
   {
    "answers": [
     {
-     "match": "Arkansas",
-     "text": "Bill Clinton"
+     "match": "Frankreich",
+     "text": "TGV"
     },
     {
-     "match": "Alabama",
-     "text": "George Wallace"
+     "match": "Großbritannien",
+     "text": "HST"
     },
     {
-     "match": "California",
-     "text": "Arnold Schwarzeneggar"
+     "match": "Japan",
+     "text": "Shinkansen"
     },
     {
-     "match": "Massachusetts",
-     "text": "Mitt Romney"
+     "match": "Vereinigte Staaten",
+     "text": "Acela Express"
     },
     {
-     "match": "Illinois",
-     "text": "Rod Blagojevich"
+     "match": "Südkorea",
+     "text": "KTX"
     },
     {
-     "match": "Alaska",
-     "text": "Sarah Palin"
+     "match": "China",
+     "text": "CRH"
     },
     {
-     "match": "Minnesota",
-     "text": "Jesse Ventura"
+     "match": "Deutschland",
+     "text": "ICE"
     },
     {
-     "match": "Florida",
-     "text": "Jeb Bush"
+     "match": "Russland",
+     "text": "Sapsan"
     },
     {
-     "match": "Texas",
-     "text": "George W. Bush"
+     "match": "Schweden",
+     "text": "SJ"
     },
     {
-     "match": "New York",
-     "text": "Franklin Roosevelt"
+     "match": "Spanien",
+     "text": "AVE"
     },
     {
-     "match": "Virginia",
-     "text": "Thomas Jefferson"
+     "match": "Italien",
+     "text": "Le Frecce"
     },
     {
-     "match": "Georgia",
-     "text": "Jimmy Carter"
+     "match": "Portugal",
+     "text": "Alfa Pendular"
     }
    ],
-   "category": "Historical Figures",
+   "category": "Factoids",
    "decoys": [],
    "headers": [
     {
-     "match": "U.S. States",
-     "text": "Governors"
+     "match": "Länder",
+     "text": "Hochgeschwindigkeitszüge"
     }
    ],
    "id": "81082",
    "isValid": "",
-   "prompt": "Match the famous U.S. governor to the state they governed",
-   "promptHeader": "'ello GUVNAH!",
-   "us": true,
+   "prompt": "Ordne den Hochgeschwindigkeitszug seinem Land zu",
+   "promptHeader": "Länder und ihre Schnellzüge",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "[i]Community[/i]",
-     "text": "Wheelology 101"
+     "match": "Lüneburg",
+     "text": "[i]Rote Rosen[/i]"
     },
     {
-     "match": "[i]It's Always Sunny in Philadelphia[/i]",
-     "text": "The Gang Ascends the Summit of Knowledge"
+     "match": "Bichlheim",
+     "text": "[i]Sturm der Liebe[/i]"
     },
     {
-     "match": "[i]Friends[/i]",
-     "text": "The One with the Very Handsome Wheel"
+     "match": "Wolfratshausen",
+     "text": "[i]Hubert und Staller[/i]"
     },
     {
-     "match": "[i]Crazy Ex-Girlfriend[/i]",
-     "text": "I'm Spinning the Wheel with Josh!"
+     "match": "Berlin",
+     "text": "[i]Gute Zeiten, schlechte Zeiten[/i]"
     },
     {
-     "match": "[i]Freaks and Geeks[/i]",
-     "text": "Spinning and Winning"
+     "match": "Lansing",
+     "text": "[i]Dahoam is Dahoam[/i]"
     },
     {
-     "match": "[i]Mr. Robot[/i]",
-     "text": "404 Wheel Not Found"
+     "match": "Essen",
+     "text": "[i]Alles was zählt[/i]"
     },
     {
-     "match": "[i]Everybody Hates Chris![/i]",
-     "text": "Everybody Hates Not Spinning The Wheel!"
+     "match": "Leipzig",
+     "text": "[i]In aller Freundschaft[/i]"
     },
     {
-     "match": "[i]The Big Bang Theory[/i]",
-     "text": "The Cosmic Wheel Corollary"
+     "match": "München",
+     "text": "[i]Lindenstraße[/i]"
     },
     {
-     "match": "[i]Are You Afraid of the Dark?[/i]",
-     "text": "The Tale of the Phantom Spin"
+     "match": "Erfurt",
+     "text": "[i]Schloss Einstein[/i]"
     },
     {
-     "match": "[i]M.A.S.H.[/i]",
-     "text": "Hawkeye, Spin Your Wheel"
+     "match": "Rosenheim",
+     "text": "[i]Die Rosenheim-Cops[/i]"
+    },
+    {
+     "match": "Frankfurt am Main",
+     "text": "[i]Ein Fall für zwei[/i]"
+    },
+    {
+     "match": "Hamburg",
+     "text": "[i]Großstadtrevier[/i]"
     }
    ],
    "category": "Film & TV",
    "decoys": [],
    "headers": [
     {
-     "match": "TV Shows",
-     "text": "Episode Titles"
+     "match": "Städte",
+     "text": "Sendungen"
     }
    ],
    "id": "81136",
    "isValid": "",
-   "prompt": "Match the made-up episode to its television show",
-   "promptHeader": "Imaginary TV Episodes Starring the Wheel",
-   "us": true,
+   "prompt": "Ordne die Sendung der Stadt zu, in der sie spielt",
+   "promptHeader": "Sendungen und wo sie spielen",
+   "us": false,
    "x": false
   },
   {
@@ -6721,63 +6741,63 @@
   {
    "answers": [
     {
-     "match": "Great Dane",
+     "match": "Deutsche Dogge",
      "text": "Scooby-Doo"
     },
     {
-     "match": "Rough Collie",
+     "match": "Langhaarcollie",
      "text": "Lassie"
     },
     {
-     "match": "Chihuahua",
-     "text": "The Taco Bell Dog"
+     "match": "Drahthaar-Foxterrier",
+     "text": "Idefix"
     },
     {
-     "match": "Cairn Terrier",
-     "text": "Toto"
+     "match": "Basset Hound",
+     "text": "Hund ([i]Columbo[/i])"
     },
     {
-     "match": "German Shephard",
-     "text": "Rin Tin Tin"
+     "match": "Deutscher Schäferhund",
+     "text": "Rex"
     },
     {
      "match": "Beagle",
      "text": "Snoopy"
     },
     {
-     "match": "American Cocker Spaniel",
-     "text": "Lady (of [i]Lady and the Tramp[/i])"
+     "match": "Chinesischer Schopfhund",
+     "text": "Sam (3x in Folge “[i]Hässlichster Hund der Welt[/i]”)"
     },
     {
-     "match": "Bull Terrier",
-     "text": "Bullseye, the Target Dog"
-    },
-    {
-     "match": "Siberian Husky mix",
-     "text": "Laika (Sputnik 2 Cosmonaut Dog)"
+     "match": "Siberian Husky-Mischling",
+     "text": "Laika"
     },
     {
      "match": "Golden Retriever",
      "text": "Air Bud"
     },
     {
-     "match": "Yellow Labrador Retriever",
-     "text": "Marley"
+     "match": "Bernhardiner-Mischling",
+     "text": "Barry"
+    },
+    {
+     "match": "Mops",
+     "text": "Frank ([i]Men In Black[/i])"
     }
    ],
    "category": "Animals",
    "decoys": [],
    "headers": [
     {
-     "match": "Breeds",
-     "text": "Famous Dogs"
+     "match": "Rassen",
+     "text": "Berühmte Hunde"
     }
    ],
    "id": "83906",
    "isValid": "",
-   "prompt": "Match the famous dog to its breed",
-   "promptHeader": "Dogs of Great Renown",
-   "us": true,
+   "prompt": "Ordne den berühmten Hund seiner Rasse zu",
+   "promptHeader": "Hunde von unglaublicher Bekanntheit",
+   "us": false,
    "x": false
   },
   {
