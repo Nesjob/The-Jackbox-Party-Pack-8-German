@@ -2541,7 +2541,7 @@
    "isValid": "",
    "prompt": "Ordne den Film seinem letzten gesprochenen Wort zu",
    "promptHeader": "“Irgendwelche letzten Worte?”",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
