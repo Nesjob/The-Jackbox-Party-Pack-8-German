@@ -2483,7 +2483,7 @@
    "isValid": "",
    "prompt": "Ordne den Abschnitt der Hölle der Sünde zu",
    "promptHeader": "Die Kreise der Hölle in [i]Dantes Inferno[/i] und die dortigen Sünder",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
