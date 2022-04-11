@@ -6659,51 +6659,95 @@
   {
    "answers": [
     {
-     "match": "Verarbeitung von Erinnerungen",
-     "text": "Hippocampus"
+     "match": "Rüsselsheim am Main",
+     "text": "[i]Opel[/i]"
     },
     {
-     "match": "Kontrolle von Bewegungen",
-     "text": "Frontallappen"
+     "match": "Frankfurt am Main",
+     "text": "[i]Commerzbank[/i]"
     },
     {
-     "match": "Koordination der Augenmuskeln",
-     "text": "Mittelhirn"
+     "match": "Darmstadt",
+     "text": "[i]Merck[/i]"
     },
     {
-     "match": "Geruchssinn",
-     "text": "Riechkolben"
+      "match": "Neckarsulm",
+      "text": "[i]Lidl[/i]"
     },
     {
-     "match": "Steuerung des vegetativen Nervensystems",
-     "text": "Hypothalamus"
+      "match": "Ludwigshafen am Rhein",
+      "text": "[i]BASF[/i]"
     },
     {
-     "match": "Filter einkommender Informationen",
-     "text": "Thalamus"
+     "match": "Köln",
+     "text": "[i]Lufthansa[/i]"
     },
     {
-     "match": "Feinmotorik",
-     "text": "Kleinhirn"
+     "match": "Essen",
+     "text": "[i]RWE[/i]"
     },
     {
-     "match": "Herstellung von Hormonen",
-     "text": "Hypophyse"
+      "match": "Metzingen",
+      "text": "[i]Hugo Boss[/i]"
+    },
+    {
+     "match": "Mannheim",
+     "text": "[i]Südzucker[/i]"
+    },
+    {
+     "match": "Hamburg",
+     "text": "[i]Hapag-Lloyd[/i]"
+    },
+    {
+     "match": "Burladingen",
+     "text": "[i]Trigema[/i]"
+    },
+    {
+     "match": "Bonn",
+     "text": "[i]Deutsche Telekom[/i]"
+    },
+    {
+     "match": "Düsseldorf",
+     "text": "[i]Henkel[/i]"
+    },
+    {
+     "match": "Berlin",
+     "text": "[i]Zalando[/i]"
+    },
+    {
+     "match": "Wolfsburg",
+     "text": "[i]Volkswagen[/i]"
+    },
+    {
+     "match": "Herzogenaurach (Nürnberg)",
+     "text": "[i]Adidas[/i]"
+    },
+    {
+     "match": "Leverkusen",
+     "text": "[i]Bayer[/i]"
+    },
+    {
+     "match": "München",
+     "text": "[i]BMW[/i]"
+    },
+    {
+     "match": "Stuttgart",
+     "text": "[i]Porsche[/i]"
     }
    ],
-   "category": "Science & Medicine",
+   "category": "Companies & Brands",
    "decoys": [],
    "headers": [
     {
-     "match": "Funktionen",
-     "text": "Gehirnareale"
+     "match": "Hauptsitze",
+     "text": "Unternehmen"
     }
    ],
    "id": "81433",
    "isValid": "",
-   "prompt": "Ordne dem Gehirnareal seine Funktion zu",
-   "promptHeader": "Teile des Gehirns und ihre Funktionen",
-   "us": true,
+   "prompt": "Ordne das Unternehmen seinem Hauptsitz zu",
+   "promptHeader": "Deutsche Unternehmen und ihre Hauptsitze",
+   "us": false,
    "x": false
   },
   {
