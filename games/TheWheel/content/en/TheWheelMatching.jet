@@ -1551,67 +1551,67 @@
   {
    "answers": [
     {
-     "match": "Dennis Rodman",
-     "text": "Michael Jordan"
+     "match": "Italien",
+     "text": "Ätna"
     },
     {
-     "match": "Ronaldo",
-     "text": "David Beckham"
+     "match": "Spanien",
+     "text": "Pico del Teide"
     },
     {
-     "match": "Emmitt Smith",
-     "text": "Troy Aikman"
+     "match": "Hawaii",
+     "text": "Kilauea"
     },
     {
-     "match": "Dwyane Wade",
-     "text": "LeBron James"
+     "match": "Island",
+     "text": "Eyjafjallajökull"
     },
     {
-     "match": "Mark Messier",
-     "text": "Wayne Gretzky"
+     "match": "Costa Rica",
+     "text": "Arenal"
     },
     {
-     "match": "Kobe Bryant",
-     "text": "Shaquille O'Neil"
+     "match": "Indonesien",
+     "text": "Anak Krakatau"
     },
     {
-     "match": "Neymar",
-     "text": "Lionel Messi"
+     "match": "Japan",
+     "text": "Fuji"
     },
     {
-     "match": "Abby Wambach",
-     "text": "Megan Rapinoe"
+     "match": "Norwegen",
+     "text": "Beerenberg"
     },
     {
-     "match": "Kareem Abdul-Jabbar",
-     "text": "Magic Johnson"
+     "match": "Chile",
+     "text": "Llaima"
     },
     {
-     "match": "Venus Williams",
-     "text": "Serena Williams"
+     "match": "Mexiko",
+     "text": "Popocatépetl"
     },
     {
-     "match": "Ryan Lochte",
-     "text": "Michael Phelps"
+     "match": "Demokratische Republik Kongo",
+     "text": "Nyiragongo"
     },
     {
-     "match": "Misty May-Treanor",
-     "text": "Kerri Walsh Jennings"
+     "match": "Vereinigte Staaten",
+     "text": "Yellowstone"
     }
    ],
-   "category": "Games",
+   "category": "Geography & Landmarks",
    "decoys": [],
    "headers": [
     {
-     "match": "Teammates (Column B)",
-     "text": "Teammates (Column A)"
+     "match": "Länder",
+     "text": "Vulkane"
     }
    ],
    "id": "77660",
    "isValid": "",
-   "prompt": "Match the teammates",
-   "promptHeader": "Teammates!",
-   "us": true,
+   "prompt": "Ordne den Vulkan seinem Land zu",
+   "promptHeader": "Vulkane und ihre Standorte",
+   "us": false,
    "x": false
   },
   {
@@ -2133,7 +2133,7 @@
    ],
    "id": "78285",
    "isValid": "",
-   "prompt": "Orde das Nationalgericht dem entsprechenden Land zu",
+   "prompt": "Ordne das Nationalgericht dem entsprechenden Land zu",
    "promptHeader": "Länder und ihre beliebtesten Nationalgerichte",
    "us": false,
    "x": false
@@ -2389,51 +2389,99 @@
   {
    "answers": [
     {
-     "match": "[i]The Murder of Gonzago[/i]",
-     "text": "[i]Hamlet[/i]"
+     "match": "[i]- Der tollkühne Held[/i]",
+     "text": "[i]Shrek[/i]"
     },
     {
-     "match": "[i]Pyramus & Thisbe[/i]",
-     "text": "[i]A Midsummer’s Night’s Dream[/i]"
+     "match": "[i]- Das unheimliche Wesen aus einer fremden Welt[/i]",
+     "text": "[i]Alien[/i]"
     },
     {
-     "match": "[i]Springtime for Hitler[/i]",
-     "text": "[i]The Producers[/i]"
+     "match": "[i]- Riesiges Robowabohu[/i]",
+     "text": "[i]Baymax[/i]"
     },
     {
-     "match": "[i]Nothing On[/i]",
-     "text": "[i]Noises Off[/i]"
+     "match": "[i]- Die Auserwählten im Labyrinth[/i]",
+     "text": "[i]Maze Runner[/i]"
     },
     {
-     "match": "[i]Taming of the Shrew[/i]",
-     "text": "[i]Kiss Me, Kate[/i]"
+     "match": "[i]- Der Letzte räumt die Erde auf[/i]",
+     "text": "[i]WALL-E[/i]"
     },
     {
-     "match": "[i]Joseph Smith American Moses[/i]",
-     "text": "[i]Book of Mormon[/i]"
+     "match": "[i]- Das stachelige Kindermädchen[/i]",
+     "text": "[i]Mrs. Doubtfire[/i]"
     },
     {
-     "match": "[i]Bohemian Rhapsody[/i]",
-     "text": "[i]Moulin Rouge![/i] (stage musical)"
+     "match": "[i]- Der Whirlpool … ist ’ne verdammte Zeitmaschine![/i]",
+     "text": "[i]Hot Tub[/i]"
     },
     {
-     "match": "Treplev’s play",
-     "text": "[i]The Seagull[/i]"
+     "match": "[i]- Die Mutter aller Filme[/i]",
+     "text": "[i]Hot Shots![/i]"
+    },
+    {
+     "match": "[i]- Eine himmlische Karriere[/i]",
+     "text": "[i]Sister Act[/i]"
+    },
+    {
+     "match": "[i]- Unter Feinden[/i]",
+     "text": "[i]Departed[/i]"
+    },
+    {
+     "match": "[i]- Wilde Hunde[/i]",
+     "text": "[i]Reservoir Dogs[/i]"
+    },
+    {
+     "match": "[i]- Die Rede des Königs[/i]",
+     "text": "[i]The King's Speech[/i]"
+    },
+    {
+     "match": "[i]- Völlig unverfroren[/i]",
+     "text": "[i]Die Eiskönigin[/i]"
+    },
+    {
+     "match": "[i]- Neu verföhnt[/i]", 
+     "text": "[i]Rapunzel[/i]"
+    },
+    {
+     "match": "[i]- Liebe sich wer kann[/i]", 
+     "text": "[i]Whatever Works[/i]"
+    },
+    {
+     "match": "[i]- Spiel des Lebens[/i]", 
+     "text": "[i]Jerry Maguire[/i]"
+    },
+    {
+     "match": "[i]- Lebendiger als das Leben![/i]", 
+     "text": "[i]Coco[/i]"
+    },
+    {
+     "match": "[i]- Einfach unverbesserlich[/i]",
+     "text": "[i]Ich[/i]"
+    },
+    {
+     "match": "[i]- Der Außerirdische[/i]", 
+     "text": "[i]E.T.[/i]"
+    },
+    {
+     "match": "[i]- Aufbruch nach Pandora[/i]", 
+     "text": "[i]Avatar[/i]"
     }
    ],
-   "category": "Literature",
+   "category": "Film & TV",
    "decoys": [],
    "headers": [
     {
-     "match": "Plays Within Plays",
-     "text": "Plays"
+     "match": "Deutsche Taglines",
+     "text": "Erste Teile des Titels"
     }
    ],
    "id": "78325",
    "isValid": "",
-   "prompt": "Match the play to its play-within-the-play",
-   "promptHeader": "The Play Within the Play",
-   "us": true,
+   "prompt": "Ordne dem Filmtitel seine Tagline zu",
+   "promptHeader": "Deutsche Filmtitel",
+   "us": false,
    "x": false
   },
   {
@@ -4385,67 +4433,67 @@
   {
    "answers": [
     {
-     "match": "Paul Ryan",
-     "text": "Mitt Romney"
+     "match": "Übelkeit und Erbrechen",
+     "text": "[i]Vomex[/i]"
     },
     {
-     "match": "Sarah Palin",
-     "text": "John McCain"
+     "match": "Kleinere Wunden",
+     "text": "[i]Bepanthen[/i]"
     },
     {
-     "match": "John Edwards",
-     "text": "John Kerry"
+     "match": "Trockene Augen",
+     "text": "[i]Hylo Care[/i]"
     },
     {
-     "match": "Joe Lieberman",
-     "text": "Al Gore"
+     "match": "Verstopfung",
+     "text": "[i]Laxoberal[/i]"
     },
     {
-     "match": "Jack Kemp",
-     "text": "Bob Dole"
+     "match": "Verstopfte Nase",
+     "text": "[i]Otriven[/i]"
     },
     {
-     "match": "Lloyd Bentsen",
-     "text": "Michael Dukakis"
+     "match": "Schlafstörungen",
+     "text": "[i]Neurexan[/i]"
     },
     {
-     "match": "Tim Kaine",
-     "text": "Hillary Clinton"
+     "match": "Erkältung",
+     "text": "[i]GeloMyrtol[/i]"
     },
     {
-     "match": "Geraldine Ferraro",
-     "text": "Walter Mondale"
+     "match": "Halsschmerzen",
+     "text": "[i]Lemocin[/i]"
     },
     {
-     "match": "Sargent Shriver",
-     "text": "George McGovern"
+     "match": "Sodbrennen",
+     "text": "[i]Maaloxan[/i]"
     },
     {
-     "match": "Estes Kefauver",
-     "text": "Adlai Stevenson (1956)"
+     "match": "Durchfall",
+     "text": "[i]Imodium Akut[/i]"
     },
     {
-     "match": "William E. Miller",
-     "text": "Barry Goldwater"
+     "match": "Allergien",
+     "text": "[i]Cetirizin Hexal[/i]"
     },
     {
-     "match": "Earl Warren",
-     "text": "Thomas E. Dewey"
+     "match": "Schmerzen",
+     "text": "[i]Aspirin[/i]"
     }
    ],
-   "category": "Historical Figures",
+   "category": "Factoids",
    "decoys": [],
    "headers": [
     {
-     "match": "Running Mates",
-     "text": "Presidential Candidates"
+     "match": "Wogegen helfen sie?",
+     "text": "Medikamente"
     }
    ],
    "id": "79127",
    "isValid": "",
-   "prompt": "Match the candidate with their running mate",
-   "promptHeader": "Unsuccessful Presidential Candidates and Their Running Mates",
-   "us": true,
+   "prompt": "Ordne das Medikament seiner Wirkung zu",
+   "promptHeader": "Das 1x1 der kleinen Hausapotheke",
+   "us": false,
    "x": false
   },
   {
@@ -4501,67 +4549,75 @@
   {
    "answers": [
     {
-     "match": "Roxanne",
-     "text": "The Police"
+     "match": "Jan Vermeer",
+     "text": "“Das Mädchen mit dem Perlenohrgehänge”"
     },
     {
-     "match": "Delilah",
-     "text": "Plain White T’s"
+     "match": "Leonardo da Vinci",
+     "text": "“Mona Lisa”"
     },
     {
-     "match": "Rhiannon",
-     "text": "Fleetwood Mac"
+     "match": "Vincent van Gogh",
+     "text": "“Sternennacht”"
     },
     {
-     "match": "Sweet Caroline",
-     "text": "Neil Diamond"
+     "match": "Raffael da Urbino",
+     "text": "“Die Schule von Athen”"
     },
     {
-     "match": "Iris",
-     "text": "Goo Goo Dolls"
+     "match": "Michelangelo Buonarroti",
+     "text": "“Die Erschaffung Adams”"
     },
     {
-     "match": "Polly",
-     "text": "Nirvana"
+     "match": "Edvard Munch",
+     "text": "“Der Schrei”"
     },
     {
-     "match": "Angie",
-     "text": "Rolling Stones"
+     "match": "Caspar David Friedrich",
+     "text": "“Der Wanderer über dem Nebelmeer”"
     },
     {
-     "match": "Helena",
-     "text": "My Chemical Romance"
+     "match": "Rembrandt van Rijn",
+     "text": "“Die Nachtwache”"
     },
     {
-     "match": "Cecilia",
-     "text": "Simon & Garfunkel"
+     "match": "Sandro Botticelli",
+     "text": "“Die Geburt der Venus”"
     },
     {
-     "match": "Stacy's Mom",
-     "text": "Fountains of Wayne"
+     "match": "Pablo Picasso",
+     "text": "“Guernica”"
     },
     {
-     "match": "Eileen",
-     "text": "Dexy’s Midnight Runners"
+     "match": "Albrecht Dürer",
+     "text": "“Die vier Apostel”"
     },
     {
-     "match": "Barbara Ann",
-     "text": "Beach Boys"
+     "match": "Salvador Dalí",
+     "text": "“Die Beständigkeit der Erinnerung”"
+    },
+    {
+     "match": "Pierre-Auguste Renoir",
+     "text": "“Tanz im Garten der Moulin de la Galette”"
+    },
+    {
+     "match": "John Everett Millais",
+     "text": "“Ophelia”"
     }
    ],
-   "category": "Music",
+   "category": "Art",
    "decoys": [],
    "headers": [
     {
-     "match": "Muses",
-     "text": "Artists"
+     "match": "Maler",
+     "text": "Werke"
     }
    ],
    "id": "79469",
    "isValid": "",
-   "prompt": "Match the artist to the muse",
-   "promptHeader": "Musical Artists and Their Muses",
-   "us": true,
+   "prompt": "Ordne das Gemälde seinem Maler zu",
+   "promptHeader": "Berühmte Gemälde",
+   "us": false,
    "x": false
   },
   {
@@ -5641,241 +5697,273 @@
   {
    "answers": [
     {
-     "match": "Dre",
-     "text": "Dr."
+     "match": "207",
+     "text": "Apache"
     },
     {
-     "match": "3000",
-     "text": "André"
+     "match": "MC",
+     "text": "Bonez"
     },
     {
-     "match": "Cat",
-     "text": "Doja"
+     "match": "Bra",
+     "text": "Capital"
     },
     {
-     "match": "Chainz",
-     "text": "2"
+     "match": "Delay",
+     "text": "Jan"
     },
     {
-     "match": "Rocky",
-     "text": "A$AP"
+     "match": "Fresh",
+     "text": "Eko"
     },
     {
-     "match": "B",
-     "text": "Cardi"
+     "match": "Bang",
+     "text": "Farid"
     },
     {
-     "match": "Cudi",
-     "text": "Kid"
+     "match": "One",
+     "text": "Kay"
     },
     {
-     "match": "Khalifa",
-     "text": "Wiz"
+     "match": "Kummer",
+     "text": "Felix"
     },
     {
-     "match": "Kim",
-     "text": "Lil’"
+     "match": "Deluxe",
+     "text": "Samy"
     },
     {
-     "match": "Minaj",
-     "text": "Nicki"
+     "match": "Cem",
+     "text": "Summer"
     },
     {
-     "match": "Z",
-     "text": "Jay"
+     "match": "Pi",
+     "text": "Prinz"
     },
     {
-     "match": "Savage",
-     "text": "21"
+     "match": "Karat",
+     "text": "18"
+    },
+    {
+     "match": "Rebell",
+     "text": "KC"
+    },
+    {
+     "match": "Savas",
+     "text": "Kool"
     }
    ],
    "category": "Music",
    "decoys": [],
    "headers": [
     {
-     "match": "Rap Name Back Ends",
-     "text": "Rap Name Front Ends"
+     "match": "Hintere Teile der Namen",
+     "text": "Vordere Teile der Namen"
     }
    ],
    "id": "80457",
    "isValid": "",
-   "prompt": "Match the rapper stage name’s front end to its back end",
-   "promptHeader": "Hip-Hop Beginnings and Endings",
-   "us": true,
+   "prompt": "Ordne den vorderen Teil des Rapper-Namens dem hinteren zu",
+   "promptHeader": "Deutsche Rapper",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "The Study Room",
-     "text": "[i]Community[/i]"
+     "match": "Enge Räume",
+     "text": "Klaustrophobie"
     },
     {
-     "match": "Monk’s Café",
-     "text": "[i]Seinfeld[/i]"
+     "match": "Unsauberkeit",
+     "text": "Mysophobie"
     },
     {
-     "match": "Central Perk",
-     "text": "[i]Friends[/i]"
+     "match": "Licht",
+     "text": "Photophobie"
     },
     {
-     "match": "The Groovy Smoothie",
-     "text": "[i]iCarly[/i]"
+     "match": "Tiere",
+     "text": "Zoophobie"
     },
     {
-     "match": "Moe’s Tavern",
-     "text": "[i]The Simpsons[/i]"
+     "match": "Zahnärzte",
+     "text": "Dentophobie"
     },
     {
-     "match": "The Krusty Krab",
-     "text": "[i]SpongeBob SquarePants[/i]"
+     "match": "Hunde",
+     "text": "Kynophobie"
     },
     {
-     "match": "The Peach Pit",
-     "text": "[i]Beverly Hills, 90210[/i]"
+     "match": "Wasser",
+     "text": "Aquaphobie"
     },
     {
-     "match": "Paddy’s Pub",
-     "text": "[i]It’s Always Sunny in Philadelphia[/i]"
+     "match": "Fliegen",
+     "text": "Aviophobie"
     },
     {
-     "match": "Bada Bing!",
-     "text": "[i]The Sopranos[/i]"
+     "match": "Spinnen",
+     "text": "Arachnophobie"
     },
     {
-     "match": "The Hub",
-     "text": "[i]That '70s Show[/i]"
+     "match": "Höhe",
+     "text": "Akrophobie"
     }
    ],
-   "category": "Film & TV",
+   "category": "Science & Medicine",
    "decoys": [],
    "headers": [
     {
-     "match": "Hangout Spots",
-     "text": "TV Shows"
+     "match": "Ängste",
+     "text": "Bezeichnungen"
     }
    ],
    "id": "80458",
    "isValid": "",
-   "prompt": "Match the TV show to its signature hangout spot",
-   "promptHeader": "TV Shows and Their Main Hangs",
-   "us": true,
+   "prompt": "Ordne die Phobie dem zu, vor dem man durch sie Angst hat",
+   "promptHeader": "“Fürchtest du dich?”",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "Billy Joel",
-     "text": "[i]Movin' Out[/i]"
+     "match": "Indien",
+     "text": "Taj Mahal"
     },
     {
-     "match": "Frankie Valli & The Four Seasons",
-     "text": "[i]Jersey Boys[/i]"
+     "match": "Australien",
+     "text": "Sydney Opera House"
     },
     {
-     "match": "The Temptations",
-     "text": "[i]Ain't Too Proud[/i]"
+     "match": "Frankreich",
+     "text": "Louvre"
     },
     {
-     "match": "Carole King",
-     "text": "[i]Beautiful[/i]"
+     "match": "China",
+     "text": "Verbotene Stadt"
     },
     {
-     "match": "Queen",
-     "text": "[i]We Will Rock You[/i]"
+     "match": "Japan",
+     "text": "Fushimi Inari-Taisha"
     },
     {
-     "match": "ABBA",
-     "text": "[i]Mamma Mia[/i]"
+     "match": "Jordanien",
+     "text": "Petra"
     },
     {
-     "match": "Elvis Presley",
-     "text": "[i]All Shook Up[/i]"
+     "match": "Peru",
+     "text": "Machu Picchu"
     },
     {
-     "match": "Peter Allen",
-     "text": "[i]The Boy From Oz[/i]"
+     "match": "Spanien",
+     "text": "Park Güell"
     },
     {
-     "match": "The Beach Boys",
-     "text": "[i]Good Vibrations[/i]"
+     "match": "Griechenland",
+     "text": "Akropolis"
     },
     {
-     "match": "The Kinks",
-     "text": "[i]Sunny Afternoon[/i]"
+     "match": "Portugal",
+     "text": "Hieronymuskloster"
+    },
+    {
+     "match": "Kanada",
+     "text": "CN Tower"
+    },
+    {
+     "match": "Vereinigtes Königreich",
+     "text": "Buckingham Palace"
+    },
+    {
+     "match": "Brasilien",
+     "text": "Cristo Redentor"
+    },
+    {
+     "match": "Ägypten",
+     "text": "Große Sphinx von Gizeh"
+    },
+    {
+     "match": "Deutschland",
+     "text": "Schloss Neuschwanstein"
+    },
+    {
+     "match": "Österreich",
+     "text": "Schloss Schönbrunn"
+    },
+    {
+     "match": "Polen",
+     "text": "Krakauer Tuchhallen mit Hauptmarkt"
+    },
+    {
+     "match": "Ungarn",
+     "text": "Fischerbastei"
     }
    ],
-   "category": "Theatre/Performing Arts",
+   "category": "Geography & Landmarks",
    "decoys": [],
    "headers": [
     {
-     "match": "Celebrated Artists",
-     "text": "Musicals"
+     "match": "Länder",
+     "text": "Berühmte Bauwerke"
     }
    ],
    "id": "80461",
    "isValid": "",
-   "prompt": "Match the musical to the artist it celebrates",
-   "promptHeader": "Jukebox Musicals",
-   "us": true,
+   "prompt": "Ordne das berühmte Bauwerk dem Land zu",
+   "promptHeader": "Berühmte Bauwerke",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "Apple",
-     "text": "Fiona"
+     "match": "Apfel",
+     "text": "Sammelbalgfrucht"
     },
     {
-     "match": "Berry",
-     "text": "Halle"
+     "match": "Raps",
+     "text": "Schote"
     },
     {
-     "match": "Cube",
-     "text": "Ice"
+     "match": "Linse",
+     "text": "Hülsenfrucht"
     },
     {
-     "match": "Bacon",
-     "text": "Kevin"
+     "match": "Brombeere",
+     "text": "Sammelsteinfrucht"
     },
     {
-     "match": "Larson",
-     "text": "Brie"
+     "match": "Erdbeere",
+     "text": "Sammelnussfrucht"
     },
     {
-     "match": "Curry",
-     "text": "Stephen"
+     "match": "Tomate",
+     "text": "Beere"
     },
     {
-     "match": "Hamm",
-     "text": "Jon"
+     "match": "Kirsche",
+     "text": "Steinfrucht"
     },
     {
-     "match": "Rogers",
-     "text": "Ginger"
-    },
-    {
-     "match": "Candy",
-     "text": "John"
-    },
-    {
-     "match": "Rice",
-     "text": "Jerry"
+     "match": "Haselnuss",
+     "text": "Nussfrucht"
     }
    ],
-   "category": "Celebrities",
+   "category": "Science & Medicine",
    "decoys": [],
    "headers": [
     {
-     "match": "Last Names",
-     "text": "First Names"
+     "match": "Früchte",
+     "text": "Botanische Fruchtformen"
     }
    ],
    "id": "80462",
    "isValid": "",
-   "prompt": "Match the edible celebrity first name to the last name",
-   "promptHeader": "Edible Celebs",
-   "us": true,
+   "prompt": "Ordne die Frucht ihrer botanischen Klasse zu",
+   "promptHeader": "Die botanischen Fruchtformen",
+   "us": false,
    "x": false
   },
   {
@@ -6513,112 +6601,108 @@
   {
    "answers": [
     {
-     "match": "Appaloosa",
-     "text": "horse"
+     "match": "Hannoveraner",
+     "text": "Pferd"
     },
     {
-     "match": "Manx",
-     "text": "cat"
+     "match": "Maine-Coon",
+     "text": "Katze"
     },
     {
-     "match": "Bichon Frise",
-     "text": "dog"
+     "match": "Labrador",
+     "text": "Hund"
     },
     {
-     "match": "English Lop",
-     "text": "rabbit"
+     "match": "Deutscher Widder",
+     "text": "Kaninchen"
     },
     {
      "match": "Holstein",
-     "text": "cattle"
+     "text": "Rind"
     },
     {
-     "match": "Rhode Island Red",
-     "text": "chicken"
+     "match": "Altsteirer",
+     "text": "Huhn"
     },
     {
-     "match": "Vietnamese Potbelly",
-     "text": "pig"
+     "match": "Pietrain",
+     "text": "Schwein"
     },
     {
-     "match": "Devon Closewool",
-     "text": "sheep"
+     "match": "Heidschnucke",
+     "text": "Schaf"
     },
     {
-     "match": "Abyssinian Satin",
-     "text": "guinea pig"
+     "match": "American Crested",
+     "text": "Meerschweinchen"
     },
     {
      "match": "Dumbo",
-     "text": "rat"
+     "text": "Ratte"
     }
    ],
    "category": "Animals",
    "decoys": [],
    "headers": [
     {
-     "match": "Breeds",
-     "text": "Animals"
+     "match": "Rassen",
+     "text": "Tierarten"
     }
    ],
    "id": "81316",
    "isValid": "",
-   "prompt": "Match the animal species to its famous breed",
-   "promptHeader": "You Animals!",
-   "us": true,
+   "prompt": "Ordne das Tier seiner bekannten Rasse zu",
+   "promptHeader": "“Ihr Tiere!”",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "McDonald's",
-     "text": "Big Mac"
+     "match": "Verarbeitung von Erinnerungen",
+     "text": "Hippocampus"
     },
     {
-     "match": "Burger King",
-     "text": "Whopper"
+     "match": "Kontrolle von Bewegungen",
+     "text": "Frontallappen"
     },
     {
-     "match": "Culver's",
-     "text": "ButterBurger"
+     "match": "Koordination der Augenmuskeln",
+     "text": "Mittelhirn"
     },
     {
-     "match": "Arby's",
-     "text": "Classic Roast Beef with Horsey Sauce"
+     "match": "Geruchssinn",
+     "text": "Riechkolben"
     },
     {
-     "match": "White Castle",
-     "text": "Original Slider"
+     "match": "Steuerung des vegetativen Nervensystems",
+     "text": "Hypothalamus"
     },
     {
-     "match": "Wendy's",
-     "text": "Dave's Single"
+     "match": "Filter einkommender Informationen",
+     "text": "Thalamus"
     },
     {
-     "match": "In-N-Out",
-     "text": "Double-Double Animal Style"
+     "match": "Feinmotorik",
+     "text": "Kleinhirn"
     },
     {
-     "match": "Shake Shack",
-     "text": "Shack Burger"
-    },
-    {
-     "match": "Steak 'N Shake",
-     "text": "Steakburger"
+     "match": "Herstellung von Hormonen",
+     "text": "Hypophyse"
     }
    ],
-   "category": "Food & Drink",
+   "category": "Science & Medicine",
    "decoys": [],
    "headers": [
     {
-     "match": "Fast Food Chains",
-     "text": "Sandwiches"
+     "match": "Funktionen",
+     "text": "Gehirnareale"
     }
    ],
    "id": "81433",
    "isValid": "",
-   "prompt": "Match the sandwich to its fast food chain",
-   "promptHeader": "Signature Sandwiches and the Fast Food Joints That Make Them",
+   "prompt": "Ordne dem Gehirnareal seine Funktion zu",
+   "promptHeader": "Teile des Gehirns und ihre Funktionen",
    "us": true,
    "x": false
   },
