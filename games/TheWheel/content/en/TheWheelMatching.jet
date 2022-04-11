@@ -3707,7 +3707,7 @@
    ],
    "id": "78678",
    "isValid": "",
-   "prompt": "Ordnen den deutschen Namen des Landes dem lokalen Namen zu",
+   "prompt": "Ordne den deutschen Namen des Landes dem lokalen Namen zu",
    "promptHeader": "Wie die Länder in ihren Muttersprachen heißen",
    "us": false,
    "x": false
@@ -3981,7 +3981,7 @@
    "isValid": "",
    "prompt": "Ordne das Gespenst seiner Herkunft zu",
    "promptHeader": "“Ahhh!! Sp-Sp-Spuckt es hier etwa??”",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
