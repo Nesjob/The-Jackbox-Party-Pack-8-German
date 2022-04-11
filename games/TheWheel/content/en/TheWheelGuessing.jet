@@ -1021,38 +1021,40 @@
   {
    "altSpellings": [
     "Spiderman",
-    "Spidey"
+    "Spidey",
+    "Spider Man",
+    "Spider-Mann"
    ],
    "answer": "Spider-Man",
    "category": "Animation/Comic Books",
    "clues": [
     {
-     "clue": "He was once weak and unassuming until a freak accident gave him superpowers.",
+     "clue": "Zu Beginn war er ganz schwach und unscheinbar. Bis er durch einen komplett abgefahrenen Unfall Superkräfte erhielt.",
      "clueComment": ""
     },
     {
-     "clue": "His powers include superhuman strength, speed, agility, reflexes, and healing.",
+     "clue": "Seine Fähigkeiten beinhalten übermenschliche Stärke, Geschwindigkeit, Agilität, Reflexe und Heilung.",
+     "clueComment": "Seine Fähigkeiten beinhalten übermenschliche Stärke, Geschwindigkeit, Agilität, Reflexe und Heilung. Ach, und er sieht auch noch übermenschlich gut aus."
+    },
+    {
+     "clue": "Man sieht diesen Helden in vielen Filmen, in denen er gegen Gegner wie den grünen Kobold oder Doc Ock kämpft.",
      "clueComment": ""
     },
     {
-     "clue": "The Green Goblin, Doc Ock, and the Lizard are just some of the many foes he's battled over the years.",
+     "clue": "Ihr habt es nicht von mir, aber sein echter Name ist Peter Parker.",
      "clueComment": ""
     },
     {
-     "clue": "Don't tell him I told you this, but his real name is Peter Parker.",
-     "clueComment": ""
-    },
-    {
-     "clue": "He does whatever a spider can! I repeat: he does whatever a spider can!",
-     "clueComment": ""
+     "clue": "Im deutschen Sprachraum hieß er zuerst “[i]Die Spinne[/i]”.",
+     "clueComment": "Im deutschen Sprachraum hieß er zuerst “[i]Die Spinne[/i]”. Das ist lustig, weil er eine Spinne ist."
     }
    ],
    "followup": "",
    "id": "81923",
    "isValid": "",
-   "prompt": "What character do I really admire?",
-   "reveal": "Are your Spidey senses tingling?",
-   "us": true,
+   "prompt": "Welchen Charakter bewundere ich wirklich?",
+   "reveal": "Und, was sagt euer Spinnensinn?",
+   "us": false,
    "x": false
   },
   {
@@ -1125,148 +1127,151 @@
   },
   {
    "altSpellings": [
-    "Bibimbop",
-    "bi bim bap",
-    "bi bim bop"
+    "Minestrohne",
+    "Minesdrone",
+    "Minesstrone",
+    "eine Minestrone",
+    "die Minestrone"
    ],
-   "answer": "Bibimbap",
+   "answer": "Minestrone",
    "category": "Food & Drink",
    "clues": [
     {
-     "clue": "I ordered from this excellent Korean restaurant at the base camp of my mountain.",
-     "clueComment": "I ordered from this excellent Korean restaurant at the base camp of my mountain. The delivery fee is killer, but so worth it."
+     "clue": "Ich habe es in dem wunderbaren italienischen Restaurant im Basislager meines Berges bestellt.",
+     "clueComment": "Ich habe es in dem wunderbaren italienischen Restaurant im Basislager meines Berges bestellt. Die Liefergebühren sind mörderisch, aber das ist es einfach wert."
     },
     {
-     "clue": "Its name literally translates to “mixed rice.”",
+     "clue": "Wortwörtlich übersetzt bedeutet es etwa “Große Suppe”.",
      "clueComment": ""
     },
     {
-     "clue": "It came with a bunch of sautéed vegetables and was topped with a fried egg.",
-     "clueComment": ""
+     "clue": "Es handelt sich um eine gehaltvolle Gemüsesuppe, die meist als eine Art Vorspeise gereicht wird.",
+     "clueComment": "Es handelt sich um eine gehaltvolle Gemüsesuppe, die meist als eine Art Vorspeise gereicht wird und in ähnlicher Form sogar schon von den Römern gegessen wurde."
     },
     {
-     "clue": "One time I had it in a sizzling hot stone bowl called a dolsot.",
-     "clueComment": "One time I had it in a sizzling hot stone bowl called a dolsot. Nothing like a scorching hot stone bowl to go."
-    },
-    {
-     "clue": "Its name sounds like, “Dee... dim... drop.”",
+     "clue": "Das italienische Wort für Suppe ist übrigens “Minestra”. Und diese Speise klingt sehr ähnlich.",
      "clueComment": ""
     }
    ],
    "followup": null,
    "id": "81929",
    "isValid": "",
-   "prompt": "What did I have for lunch yesterday?",
+   "prompt": "Was habe ich gestern zu Mittag gegessen?",
    "reveal": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "altSpellings": [
-    "the popemobile",
-    "pope mobile",
-    "the pope mobile"
+    "Das Papamobil",
+    "Papa Mobil",
+    "Das Papa Mobil",
+    "Papstmobil",
+    "Das Papstmobil",
+    "Papst Mobil",
+    "Das Papst Mobil"
    ],
-   "answer": "Popemobile",
+   "answer": "Papamobil",
    "category": "Vehicles",
    "clues": [
     {
-     "clue": "It's a generic name applied to a fleet of vehicles with large windows.",
+     "clue": "Dieses Fahrzeug wird nur von einer einzigen, sehr wichtigen Person benutzt.",
      "clueComment": ""
     },
     {
-     "clue": "It is used only by one person... one very special person.",
+     "clue": "Es wurde extra designt, um es der Öffentlichkeit zu ermöglichen, diese eine ganz besondere Person auf ihrer Reise durch die Stadt zu sehen.",
      "clueComment": ""
     },
     {
-     "clue": "It's designed to allow the public to see that one very special person as he travels through their city.",
-     "clueComment": ""
+     "clue": "Das Fahrzeug ist zugelassen auf die Vatikanstadt.",
+     "clueComment": "Das Fahrzeug ist zugelassen auf die Vatikanstadt. Wart ihr schon mal in der Kfz-Zulassungsstelle der Vatikanstadt? Ich sags euch, es ist einfacher Wasser in Wein zu verwandeln, als da noch mal rauszukommen."
     },
     {
-     "clue": "Each vehicle is registered to Vatican City.",
-     "clueComment": "Each vehicle is registered to Vatican City. Ever been to the Vatican City DMV? It's easier to turn water into wine than it is to get out of there."
-    },
-    {
-     "clue": "I'll be frank: it's the automobile used by the head of the Catholic Church.",
-     "clueComment": "I'll be frank: it's the automobile used by the head of the Catholic Church. He's the Pope, and he's mobile."
+     "clue": "Ich mache es kurz, es ist das Automobil des Oberhauptes der katholischen Kirche.",
+     "clueComment": "Ich mache es kurz, es ist das Automobil des Oberhauptes der katholischen Kirche. Er ist der Papst und er ist, zumindest noch, ziemlich mobil."
     }
    ],
    "followup": null,
    "id": "81991",
    "isValid": "",
-   "prompt": "What one-of-a-kind vehicle am I thinking of?",
+   "prompt": "An welches einzigartige Fahrzeug denke ich?",
    "reveal": null,
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "altSpellings": [
-    "Picasso"
+    "Picasso",
+    "Pablo Picaso",
+    "Picaso",
+    "Paplo Picasso"
    ],
    "answer": "Pablo Picasso",
    "category": "Art",
    "clues": [
     {
-     "clue": "He was born on October 25, 1881, and he once borrowed $20 from me to buy a striped shirt he liked.",
+     "clue": "Dieser Künstler wurde am 25. Oktober 1881 geboren und hat sich 20€ von mir geliehen, um sich ein gestreiftes Hemd zu kaufen, das ihm sehr gefallen hat.",
      "clueComment": ""
     },
     {
-     "clue": "He was born in Málaga, Spain.",
+     "clue": "Er wurde in Málaga, einer Stadt in Spanien, geboren.",
      "clueComment": ""
     },
     {
-     "clue": "He is celebrated for his mastery of Cubism and Surrealism.",
-     "clueComment": "He is celebrated for his mastery of Cubism and Surrealism... even if he wasn't exactly masterful at paying his friends back."
+     "clue": "Er wird für seine großen surrealistischen und kubistischen Werke noch heute gefeiert.",
+     "clueComment": "Er wird für seine großen surrealistischen und kubistischen Werke noch heute gefeiert. Auch wenn seine Zahlungsmoral Freunden gegenüber nicht wirklich feierlich war."
     },
     {
-     "clue": "Some of his famous works include “Guernica,” “The Old Guitarist,” and an IOU for $20 he once gave me.",
+     "clue": "Zu seinen berühmtesten Werken zählen “Guernica”, “Der alte Gitarrenspieler” und der Schuldschein über die 20€, den er mir mal gab.",
      "clueComment": ""
     },
     {
-     "clue": "Whenever I saw him I'd say, \"Pablo, do you have my $20?\"",
-     "clueComment": "Whenever I saw him I'd say, \"Pablo, do you have my $20?\" And he'd laugh and say no and I'd spin around in annoyance!"
+     "clue": "Immer wenn ich ihn gesehen habe, fragte ich: “Pablo, hast du meine 20€?”.",
+     "clueComment": "Immer wenn ich ihn gesehen habe, fragte ich: “Pablo, hast du meine 20€?”. Aber er lachte immer nur und ich bin vor Frustration fast durchgedreht."
     }
    ],
-   "followup": "I may be an omnipotent deity, but that doesn't mean I can't hold a grudge.",
+   "followup": "Ich mag eine allmächtige Gottheit sein, aber das bedeutet nicht, dass ich keinen Groll hegen kann.",
    "id": "81993",
    "isValid": "",
-   "prompt": "What artist still owes me $20?",
-   "reveal": "Yes, I know he died in 1973, but that $20 is one movie ticket I'll never get back.",
-   "us": true,
+   "prompt": "Welcher Künstler schuldet noch immer 20€?",
+   "reveal": "Ja, ich weiß, dass er 1973 starb, aber die 20€ sind ein Kinoticket, das ich nie wiedersehe.",
+   "us": false,
    "x": false
   },
   {
-   "altSpellings": [],
-   "answer": "October",
+   "altSpellings": [
+       "Im Oktober"
+   ],
+   "answer": "Oktober",
    "category": "Calendar/Holidays",
    "clues": [
     {
-     "clue": "In the US, this is National Pizza Month, and in Catholicism it is the Month of the Holy Rosary.",
+     "clue": "In Deutschland ist in diesem Monat immerhin sowohl der Tag der Bibliotheken, als auch der Tag des Grabsteins.",
      "clueComment": ""
     },
     {
-     "clue": "The birthstone for this month is opal. Circular and shiny, like me!",
+     "clue": "In diesem Monat liegen die Sternzeichen Waage und Skorpion.",
+     "clueComment": "In diesem Monat liegen die Sternzeichen Waage und Skorpion. Falls ihr es heute noch nicht gemacht habt, wäre jetzt ein guter Moment, um euren Skorpion zu wiegen."
+    },
+    {
+     "clue": "Dieser Monat wurde früher auch Weinmonat genannt, da zu dieser Zeit typischerweise die Weinlese beginnt.",
      "clueComment": ""
     },
     {
-     "clue": "People born during this month are either Libras or Scorpios.",
-     "clueComment": "People born during this month are either Libras or Scorpios. You would think I'm a Libra because I need balance to spin properly. But no, total Scorpio."
+     "clue": "Das geht damit einher, dass in diesem Monat auch das Erntedankfest gefeiert wird.",
+     "clueComment": "Das geht damit einher, dass in diesem Monat auch das Erntedankfest gefeiert wird. Solltet ihr nicht langsam damit fertig sein, jeden der Monate einmal auszuprobieren? Es sind nur zwölf."
     },
     {
-     "clue": "It commonly marks the start of fall in North America.",
-     "clueComment": ""
-    },
-    {
-     "clue": "It’s the month of Halloween!",
+     "clue": "Ach, und Halloween findet in diesem Monat auch statt.",
      "clueComment": ""
     }
    ],
-   "followup": "I'm one of those \"it's my birthday month!\" type of Wheels.",
+   "followup": null,
    "id": "81995",
    "isValid": "",
-   "prompt": "In what month of the year was I born?",
-   "reveal": "Let's get spooky...",
-   "us": true,
+   "prompt": "In welchem Monat wurde ich geboren?",
+   "reveal": "Kauft mir schon mal Geschenke, denn...",
+   "us": false,
    "x": false
   },
   {
@@ -1339,42 +1344,43 @@
   },
   {
    "altSpellings": [
-    "Aries"
+    "Aries",
+    "Aris"
    ],
    "answer": "Ares",
    "category": "Religion",
    "clues": [
     {
-     "clue": "He violently overcooks burgers at our our god reunions.",
-     "clueComment": "He violently overcooks burgers at our our god reunions. More of a complaint than a clue. Just had to get that off my chest."
+     "clue": "Bei unseren regelmäßigen Göttertreffen sind die Burger, die er macht, immer total verkohlt.",
+     "clueComment": "Bei unseren regelmäßigen Göttertreffen sind die Burger, die er macht, immer total verkohlt. Das war übrigens kein wirklicher Hinweis, ich musste das nur mal kurz loswerden."
     },
     {
-     "clue": "His kids are named Phobos and Deimos, aka Panic and Terror.",
-     "clueComment": "His kids are named Phobos and Deimos, aka Panic and Terror. And they live up to it believe you me."
+     "clue": "Seine Kinder heißen Phobos und Deimos, besser bekannt als Götter der Furcht und des Grauens.",
+     "clueComment": "Seine Kinder heißen Phobos und Deimos, besser bekannt als Götter der Furcht und des Grauens. Und sie machen ihrem Namen alle Ehre, vertraut mir."
     },
     {
-     "clue": "He's super aggressive and intense. That's kind of like his whole deal.",
+     "clue": "Er ist total aggressiv und roh. Das ist sozusagen sein Markenzeichen.",
+     "clueComment": "Er ist total aggressiv und roh. Das ist sozusagen sein Markenzeichen. Was man über seine Burger nicht sagen kann..."
+    },
+    {
+     "clue": "Keiner kann ihn wirklich leiden. Nicht mal sein Vater Zeus.",
      "clueComment": ""
     },
     {
-     "clue": "No one really likes him. Not even his dad Zeus. That's canon!",
+     "clue": "Er ist der Gott des Krieges.",
      "clueComment": ""
     },
     {
-     "clue": "He's the god of war.",
-     "clueComment": "He's the god of war. And he neeever shuts up about it."
-    },
-    {
-     "clue": "The Romans called him Mars, but you probably know him by his other astrological-sounding name.",
-     "clueComment": ""
+     "clue": "Die Römer nannten ihn Mars, aber die Griechen hatten einen anderen Namen für ihn.",
+     "clueComment": "Die Römer nannten ihn Mars, aber die Griechen hatten einen anderen Namen für ihn, der mit “A” beginnt und mit “es” endet."
     }
    ],
-   "followup": "He's just... a bit much.",
+   "followup": "Er ist einfach ein bisschen... zu sehr er selbst.",
    "id": "82003",
    "isValid": "",
-   "prompt": "Which Greek god is, frankly, a really tough hang?",
+   "prompt": "Welcher griechische Gott ist, zugegebenermaßen, eine ziemlich harte Nuss?",
    "reveal": null,
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -1382,38 +1388,42 @@
     "Tearamisu",
     "Tiramessu",
     "Tearameesu",
-    "Tearamishoe"
+    "Tearamishoe",
+    "Tihramisu",
+    "Tiramihsu",
+    "Tiramisuh",
+    "Ein Tiramisu"
    ],
    "answer": "Tiramisu",
    "category": "Food & Drink",
    "clues": [
     {
-     "clue": "I first had it when a group of Italian pastry chefs offered it to me in return for arcane knowledge.",
-     "clueComment": "I first had it when a group of Italian pastry chefs offered it to me in return for arcane knowledge. I usually don't accept bribes, but it'd just be rude to turn down a gift."
+     "clue": "Das erste Mal probiert habe ich es, als eine Gruppe von Konditoren es mir als Gegenleistung für geheimes Wissen anbot.",
+     "clueComment": "Das erste Mal probiert habe ich es, als eine Gruppe von Konditoren es mir als Gegenleistung für geheimes Wissen anbot. Normalerweise akzeptiere ich ja keine Bestechung, aber wer bin ich ein Geschenk abzulehnen?"
     },
     {
-     "clue": "The mascarpone is surprisingly delightful.",
+     "clue": "Der Mascarpone ist tatsächlich überraschend schmackhaft.",
      "clueComment": ""
     },
     {
-     "clue": "I could get lost in those layers of mascarpone, whipped cream, and coffee-soaked ladyfingers...",
+     "clue": "Ich liebe die Schichten aus Mascarpone, Schlagsahne und in Kaffee getränkter Löffelbiskuits.",
      "clueComment": ""
     },
     {
-     "clue": "You can't forget the light dusting of cocoa powder.",
+     "clue": "Nicht zu vergessen die hauchdünne Schicht aus Kakaopulver.",
      "clueComment": ""
     },
     {
-     "clue": "Oh come on, you haven't heard of it? It kind of rhymes with \"Mogadishu.\" Does that ring a bell?",
+     "clue": "Ach, ihr kennt doch alle diese typisch italienische Nachspeise.",
      "clueComment": ""
     }
    ],
-   "followup": "You know, as an after-dinner sacrifice.",
+   "followup": null,
    "id": "82021",
    "isValid": "",
-   "prompt": "What dessert am I craving right now?",
+   "prompt": "Für welches Dessert könnte ich gerade sterben?",
    "reveal": null,
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -1525,66 +1535,96 @@
    "x": true
   },
   {
-   "altSpellings": [],
-   "answer": "Horse",
+   "altSpellings": [
+       "Elefanten",
+       "Der Elefant",
+       "Ein Elefant"
+   ],
+   "answer": "Elefant",
    "category": "Animals",
    "clues": [
     {
-     "clue": "I remember it's the name of a particularly majestic species of animal I like.",
+     "clue": "Ich erinnere mich daran, dass es der Name einer majestätischen Tierart ist, die ich wirklich sehr mag.",
      "clueComment": ""
     },
     {
-     "clue": "This animal has glorious hair and even more glorious hooves.",
+     "clue": "Diese Tierart ist, wie ich, von unglaublicher Größe.",
+     "clueComment": "Diese Tierart ist, wie ich, von unglaublicher Größe. Also jetzt nicht so unglaublich groß wie ich, aber die Richtung stimmt schon."
+    },
+    {
+     "clue": "Ach, und in einem animierten Film ist dieses Tier die Hauptfigur.",
      "clueComment": ""
     },
     {
-     "clue": "There's a kind of basketball game named after this animal, too.",
+     "clue": "Es war ein [i]Disney[/i]-Film über ein fliegendes Tier, das aber eigentlich gar nicht fliegen dürfte.",
      "clueComment": ""
     },
     {
-     "clue": "It's the animal that Seabiscuit was. And that animal is the name of my Wi-Fi password.",
+     "clue": "Der Name des Tieres ist [i]Dumbo[/i] und er fliegt mit seinen riesigen Segelohren. Seine Tierart ist mein WLAN-Passwort.",
      "clueComment": ""
     }
    ],
-   "followup": "You'd think I wouldn't need Wi-Fi because I'm an omnipotent deity, but most internet service providers feel differently.",
+   "followup": "Man sollte meinen, als allmächtige Gottheit bräuchte man kein WLAN-Passwort. Aber hier sind wir nun.",
    "id": "84109",
    "isValid": "",
-   "prompt": "What on earth is my Wi-Fi password?",
-   "reveal": "Did you get it right? Yea or neighhhhh?",
-   "us": true,
+   "prompt": "Wie zum Geier lautet mein WLAN-Passwort?",
+   "reveal": "Und, habt ihr es richtig? Habt ihr die Ehre, mein WLAN benutzen zu dürfen?",
+   "us": false,
    "x": false
   },
   {
    "altSpellings": [
-    "watching birds",
-    "birding"
+    "birding",
+    "Beobachten von Vögeln",
+    "Vögel anschauen",
+    "Anschauen von Vögeln",
+    "Vögel betrachten",
+    "Betrachten von Vögeln",
+    "Vögel ansehen",
+    "Ansehen von Vögeln",
+    "Voegel beobachten",
+    "Voegel ansehen",
+    "Voegel betrachten",
+    "Vögelbeobachtung",
+    "Vögel Beobachtung",
+    "die Vögel anschauen",
+    "Vögel anzuschauen",
+    "die Vögel anzuschauen",
+    "Vögel zu beobachten",
+    "die Vögel zu beobachten",
+    "Vögel zu betrachten",
+    "die Vögel zu betrachten",
+    "Beobachten von Vögeln",
+    "Betrachten von Vögeln",
+    "Anschauen von Vögeln",
+    "Ansehen von Vögeln"
    ],
-   "answer": "Birdwatching",
+   "answer": "Vögel beobachten",
    "category": "Occupations",
    "clues": [
     {
-     "clue": "It involves a lot of sitting quietly and waiting.",
-     "clueComment": "It involves a lot of sitting quietly and waiting. And, no, it's not \"filing your taxes.\""
+     "clue": "Es beinhaltet viel ruhiges sitzen und warten.",
+     "clueComment": "Es beinhaltet viel ruhiges sitzen und warten. Und nein, es ist nicht “Steuererklärung ausfüllen”."
     },
     {
-     "clue": "People who do this activity spend a lot of time waiting for a specific type of animal to appear.",
-     "clueComment": ""
+     "clue": "Personen, die dieser Tätigkeit nachgehen, verbringen viel Zeit damit, auf das Erscheinen einer bestimmten Tierart zu warten.",
+     "clueComment": "Personen, die dieser Tätigkeit nachgehen, verbringen viel Zeit damit, auf das Erscheinen einer bestimmten Tierart zu warten. Nein, stalken gilt nicht als Hobby, danke der Nachfrage."
     },
     {
-     "clue": "When people see this animal appear in the sky, they just... sit quietly, or maybe write something down. It's very peaceful.",
-     "clueComment": ""
+     "clue": "Wenn dann eines der gesuchten Tiere am Himmel auftaucht, dann... sitzen sie weiter friedlich da.",
+     "clueComment": "Wenn dann eines der gesuchten Tiere am Himmel auftaucht, dann... sitzen sie weiter friedlich da, vielleicht schreiben sie ja etwas auf."
     },
     {
-     "clue": "This activity is what you should do if you want to see a hawk, for instance.",
-     "clueComment": "This activity is what you should do if you want to see a hawk, for instance. Who doesn't want to see a hawk?!"
+     "clue": "Dieser Aktivität geht man nach, wenn man zum Beispiel einen Adler in freier Wildbahn sehen möchte.",
+     "clueComment": "Dieser Aktivität geht man nach, wenn man zum Beispiel einen Adler in freier Wildbahn sehen möchte. Wer möchte keinen Adler sehen? Besser als ein Singvogel ist er allemal, da er nicht auf meinen Tisch macht."
     }
    ],
    "followup": "",
    "id": "84142",
    "isValid": "",
-   "prompt": "What hobby is the coolest hobby for a human to have?",
-   "reveal": "Shh! You almost scared the answer away!",
-   "us": true,
+   "prompt": "Welches ist das coolste Hobby, das Menschen haben können?",
+   "reveal": "(flüsternd) Psst, ihr verscheucht die richtige Antwort noch!",
+   "us": false,
    "x": false
   },
   {
@@ -1653,34 +1693,47 @@
   },
   {
    "altSpellings": [
-    "lavender flower",
-    "lavender plant",
-    "lavender leaves"
+    "Lavendelblüten",
+    "Lavendelblüte",
+    "Lavendel Blüten",
+    "Lavendel Blüte",
+    "Lavendelpflanzen",
+    "Lavendelpflanze",
+    "Lavendel Pflanzen",
+    "Lavendel Pflanze",
+    "Lavendelblätter",
+    "Lavendelblatt",
+    "Lavendel Blätter",
+    "Lavendel Blatt",
+    "Echter Lavendel",
+    "Schmallblättriger Lavendel"
    ],
-   "answer": "Lavender",
+   "answer": "Lavendel",
    "category": "Science & Medicine",
    "clues": [
     {
-     "clue": "In ancient Egypt, it was used to perfume mummified corpses."
-    },
-    {
-     "clue": "Known for its calming properties, this scent is used widely in its dried form in soaps, potpourri, and even as a baking ingredient."
-    },
-    {
-     "clue": "The color version of this scent is a soothing light purple.",
+     "clue": "Im antiken Ägypten wurde dieser Duft als Parfüm für mumifizierte Leichen verwendet.",
      "clueComment": ""
     },
     {
-     "clue": "The name of this scent originates from the Latin “lavare,” meaning “to wash.”",
+     "clue": "Bekannt für seine beruhigenden Eigenschaften, wird dieser Duft in Seifen, Potpourri, ja sogar in Toilettenpapier verwendet.",
+     "clueComment": "Bekannt für seine beruhigenden Eigenschaften, wird dieser Duft in Seifen, Potpourri, ja sogar in Toilettenpapier verwendet. Auch wenn die beruhigende Wirkung bei Letzterem wohl eher anzuzweifeln ist."
+    },
+    {
+     "clue": "Dieser Duft erinnert mich immer an ein beruhigendes, helles Lila.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Der Name dieses Duftes stammt von “lavare”, lateinisch für “waschen”.",
      "clueComment": ""
     }
    ],
    "followup": "",
    "id": "84215",
    "isValid": "",
-   "prompt": "My goodness... that scent... I haven't smelled that scent in years. What is that scent?",
+   "prompt": "Meine Güte... dieser Duft... den habe ich ja seit Jahren nicht mehr gerochen. Was ist das für ein Duft?",
    "reveal": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {

@@ -883,7 +883,7 @@
      "text": "Schilddrüse"
     }
    ],
-   "category": "Literature",
+   "category": "Science & Medicine",
    "decoys": [],
    "headers": [
     {
@@ -4945,7 +4945,7 @@
    ],
    "id": "79501",
    "isValid": "",
-   "prompt": "Ordne dem Unternehmen ihren ursprünglichen Namen zu",
+   "prompt": "Ordne dem Unternehmen seinen ursprünglichen Namen zu",
    "promptHeader": "Ernsthaft umbenannte Firmennamen",
    "us": false,
    "x": false
