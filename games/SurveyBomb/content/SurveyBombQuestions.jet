@@ -6226,7 +6226,7 @@
    "question": "Vor dir sind acht Behälter. Wähle den, der definitiv kein starkes Nervengift enthält.",
    "questionShort": "Mysteriöse Behältnisse",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -6251,7 +6251,7 @@
    "question": "Baue den perfekten Organismus indem du Körperteile von Tieren benutzt.",
    "questionShort": "Perfekte Chimäre",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -6277,7 +6277,7 @@
    "question": "Du verwandelst alles was du anfässt in diese Sache...",
    "questionShort": "Fass es an und es wird zu...",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -6297,21 +6297,20 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Du darfst dir einen Boss erstellen! Wähle was er können muss (in den Sachen die nicht ausgewählt sind, ist er gottig).",
-   "questionShort": "Build a Boss",
+   "question": "Du darfst dir einen Boss erstellen! Wähle was er können muss (in den Sachen die nicht ausgewählt sind, ist er grottig).",
+   "questionShort": "Baue deinen Boss",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "category": "favorite",
    "choices": [
     "eine Insel kaufen",
-    "anderen helfen",
     "Fernsehen",
     "reisen",
     "Andere pflegen",
-    "fit werden und fürimmer leben",
+    "fit werden und für immer leben",
     "mit Familie und Freunden zusammenwohnen",
     "weiterarbeiten",
     "Kunst machen",
@@ -6325,7 +6324,7 @@
    "question": "Was machst du, wenn du endlich in Rente bist?",
    "questionShort": "Pläne für die Rente",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -6334,13 +6333,10 @@
     "Pizza",
     "Dinosaurier Nuggets",
     "Fischstäbchen",
-    "Hot Pocket",
     "Burrito",
-    "Ferigreis",
+    "Fertigreis",
     "Erbsen und Möhren",
-    "Hash Browns",
     "Shrimps",
-    "Maultaschen",
     "Waffeln",
     "Windbeutel"
    ],
@@ -6351,7 +6347,7 @@
    "question": "Welches Tiefkühlessen würdest du auch gefroren essen?",
    "questionShort": "gefrorenes Essen",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -6373,7 +6369,7 @@
    "question": "Wir hatten einen tollen Tag im Museum! Was nimmst du dir als Souvenir mit?",
    "questionShort": "beste Museum Souvenirs",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -6395,7 +6391,7 @@
    "question": "Wo verbringst du deine perfekten Flitterwochen?",
    "questionShort": "Traumflitterwochen",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -6415,9 +6411,9 @@
    "isValid": "",
    "outro": null,
    "question": "Wenn du den Tod in einem Brettspiel schlagen müsstest, für welches würdest du dich entscheiden?",
-   "questionShort": "gegen den Tod",
+   "questionShort": "Gegen den Tod",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -6439,16 +6435,16 @@
    "question": "Was ist die größte Redflag bei einem potentiellen neuen Partner?",
    "questionShort": "größte Redflags",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "category": "hypothetical",
    "choices": [
-    "Tour durch die Twix Factory",
+    "Tour durch die Twix Fabrik",
     "Hot Dog Esswettbewerb",
     "im Sumpf rummatschen",
-    "Laser Tag gegen Kinder spielen",
+    "Lasertag gegen Kinder spielen",
     "Geistertour durch die Stadt",
     "bei einem Flash Mob mitmachen",
     "Schnitzeljagd",
@@ -6461,7 +6457,7 @@
    "question": "Endlich hast du mal einen Tag frei! Wie verbringst du ihn?",
    "questionShort": "perfekter freier Tag",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -6484,7 +6480,7 @@
    "question": "Ein Hoch auf die frisch Verheirateten! Wie sollte eine gute Ansprache sein?",
    "questionShort": "Hochzeitsansprache Notwendigkeiten",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -6494,7 +6490,7 @@
     "Basketball",
     "Volleyball",
     "Ice Hockey",
-    "American Football",
+    "Dart",
     "Fußball",
     "Tennis",
     "Golf"
@@ -6503,10 +6499,10 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Gute Neuigkeiten! Ein Filmstudio will eine Story rund um einen sportlichen Babyelefanten verwirklichen? Welchen Sportart spielt er?",
+   "question": "Gute Neuigkeiten! Ein Filmstudio will eine Story rund um einen sportlichen Babyelefanten verwirklichen! Welche Sportart spielt er?",
    "questionShort": "sportlicher Babyelefant",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
