@@ -7984,7 +7984,7 @@
    "question": "Nimm einen tiefen Atemzug...und benenne dein Bowling Team!",
    "questionShort": "Bowling Team Namen",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8006,7 +8006,7 @@
    "question": "Die coolen Kids machen es alle! Für was verkaufst du deine Seele?",
    "questionShort": "Seele verkaufen",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8028,7 +8028,7 @@
    "question": "Welches Problem wünschst du dir?",
    "questionShort": "Beste Probleme",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8050,7 +8050,7 @@
    "question": "Was wäre die beste Sache die man in einer Schatzkiste finden könnte?",
    "questionShort": "Schatztruhe",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8072,7 +8072,7 @@
    "question": "Es ist nie zu spät neue Wege zu gehen! Suche dir einen DJ Namen aus.",
    "questionShort": "DJ Namen",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -8096,7 +8096,7 @@
    "question": "Der schlimmste Samstag den du dir vorstellen kannst?",
    "questionShort": "ruinierter Samstag",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8118,7 +8118,7 @@
    "question": "Alles Liebe zur Hochzeit! Wer leitet die Zeremonie?",
    "questionShort": "Hochzeitszeremonie",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8141,7 +8141,7 @@
    "question": "Welchem Haushaltsgerät kann man immer vertrauen?",
    "questionShort": "vertrauenswürdige Geräte",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8161,9 +8161,9 @@
    "isValid": "",
    "outro": null,
    "question": "Es ist spätnachts...eine Werbesendung läuft. Zu welchem Kauf lässt du dich überreden?",
-   "questionShort": "As Seen On TV",
+   "questionShort": "Bekannt aus der Werbung",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8185,7 +8185,7 @@
    "question": "Du hast gerade ein großes Spiel gewonnen!! Such dir aus, welches Getränk über deinen Kopf gegossen wird.",
    "questionShort": "Sportdusche",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8207,7 +8207,7 @@
    "question": "Was davon würdest du in einer Seitengasse finden und tatsächlich auch...benutzen?",
    "questionShort": "Gefunden, behalten",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -8229,7 +8229,7 @@
    "question": "Wo würdest du nicht essen wollen?",
    "questionShort": "Eklige Restaurants",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8238,7 +8238,7 @@
     "Anzug mit kurzen Hosen",
     "dünnes Kleidchen",
     "Blazer und Sweatpants",
-    "ANzug mit Speedo untendrunter",
+    "Anzug mit Speedo untendrunter",
     "Seiden-Jogginganzug",
     "Spandex Fullbody und Fedora",
     "Bluse und Sandalen mit Socken",
@@ -8248,10 +8248,10 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Du hast um 12 einen Gerichtstermin und musst um 14 Uhr einen Thriatlon laufen. Was ziehst du an?",
+   "question": "Du hast um 12 einen Gerichtstermin und musst um 14 Uhr einen Triathlon laufen. Was ziehst du an?",
    "questionShort": "Triathlon und Gericht",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8273,7 +8273,7 @@
    "question": "Oh nein, du musst auf der Arbeit heulen! Wo versteckst du dich?",
    "questionShort": "Beste Heulorte",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8295,7 +8295,7 @@
    "question": "Kühlschrank ausräumen! Was isst du zu Mittag?",
    "questionShort": "Reste essen",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8319,7 +8319,7 @@
    "question": "Welchen Dokumententyp wählst du für einen coolen \"Zukunftsnamen\"?",
    "questionShort": "coole neue Namen",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8341,7 +8341,7 @@
    "question": "Wenn du ein Teil der Infrastruktur wärst, was wärst du?",
    "questionShort": "persönliche Infrastruktur",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8363,7 +8363,7 @@
    "question": "Du stellst einen Blumenstrauß zusammen. Was kommt hinein?",
    "questionShort": "das perfekte Bouquet",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8379,13 +8379,13 @@
     "irgendein Organ das eh egal ist"
    ],
    "id": "81469",
-   "intro": "Puh..das hier tut mir wirklich leid...",
+   "intro": "Puh..das hier tut mir wirklich Leid...",
    "isValid": "",
    "outro": null,
-   "question": "Ah Mist, wir haben eine Saw Situation. Auf welches Körperteil verzichtest du?",
-   "questionShort": "Saw Situation",
+   "question": "Ah Mist, wir müssen dir leider ein Körperteil nehmen. Auf welches Körperteil verzichtest du?",
+   "questionShort": "Verzicht auf den Körper",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -8407,7 +8407,7 @@
    "question": "Wie reagierst du auf einen zickigen Teenager?",
    "questionShort": "zickiger Teenager",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8429,7 +8429,7 @@
    "question": "Du bist schon wieder in eine Zoo-Prügelei verwickelt worden! Wer bekommt deine Fäuste zu spüren?",
    "questionShort": "Zookampf!",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8451,7 +8451,7 @@
    "question": "Was ist das beste Wetter für ein Nickerchen?",
    "questionShort": "Nickerchenwetter",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8478,7 +8478,7 @@
    "question": "Welcher dieser Kandidaten wäre tatsächlich ein überraschend guter Bundeskanzler?",
    "questionShort": "Bundeskanzlerkandidaten",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -8504,7 +8504,7 @@
    "question": "Es ist Halloween und du hast voll vergessen Süßigkkeiten zu kaufen! Was gibst du den Kiddos vor deiner Tür stattdessen?",
    "questionShort": "Nur Saures",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8526,7 +8526,7 @@
    "question": "Welche von diesen Personen würdest du als deinen Erzfeind bezeichnen?",
    "questionShort": "Alltäglicher Erzfeind",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8574,7 +8574,7 @@
    "question": "Baue dir das perfekte Buffet für ein Familientreffen zusammen",
    "questionShort": "Essen beim Familientreffen",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -8596,7 +8596,7 @@
    "question": "Worauf möchtest du nicht treten, wenn du barfuß bist?",
    "questionShort": "ekliger Tritt",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8619,10 +8619,10 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Wélche Sache aus der Vergangenheit sollte auch heute noch beliebt sein?",
+   "question": "Welche Sache aus der Vergangenheit sollte auch heute noch beliebt sein?",
    "questionShort": "Bring es zurück!",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8645,7 +8645,7 @@
    "question": "Was ist definitiv KEIN Sandwich?",
    "questionShort": "Kein Sandwich!!!",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8667,7 +8667,7 @@
    "question": "Aua..was ist der schlimmste kleine Schmerz?",
    "questionShort": "kleine Schmerzen",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8689,7 +8689,7 @@
    "question": "Du bist ein internationaler Superspion! Suche dir eine geheime Identität aus!",
    "questionShort": "geheime Identität",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8711,7 +8711,7 @@
    "question": "Welche dieser Schimpfworte würdest du in einer Kinderserie etablieren?",
    "questionShort": "Schlechter Einfluss",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
