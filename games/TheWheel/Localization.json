@@ -90,7 +90,7 @@
         "TRIVIA_TYPE_TYPINGLIST_NAME": "Vergiss nicht zu schreiben",
         "TRIVIA_TYPE_TYPINGLIST_SUBJECTIVE_NAME": "Mit runden Grüßen, das Rad",
         "TRIVIA_TYPE_TAPPINGLIST_NAME": "ZEIG DAS HIER NICHT!",
-        "TRIVIA_TYPE_NUMBERTARGET_NAME": "Aufzählen",
+        "TRIVIA_TYPE_NUMBERTARGET_NAME": "Schätzen",
         "TRIVIA_TYPE_MATCHING_NAME" : "Gegenstücke",
         "TRIVIA_TYPE_RAPIDFIRE_NAME" : "Dies oder Das",
         "TRIVIA_TYPE_GUESSING_NAME" : "An was denke ich?",
@@ -164,13 +164,13 @@
         "SLICE_EFFECT_RAINBOW_PROMPT": "Drehe so oft wie du kannst!",
         
         "SLICE_EFFECT_CONSENSUSCHALLENGE_NAME": "WÄHLE DEN\nSIEGER",
-        "SLICE_EFFECT_CONSENSUSCHALLENGE_DESCRIPTION": "Du gewinnst den Pot erneut, außer jeder stimmt zu, ihn an jemand anderen zu geben",
-        "SLICE_EFFECT_CONSENSUSCHALLENGE_PROMPT": "Wähle einen Spieler. %s wird den Pot erneut gewinnen, außer alle sind sich einig, dass ihn wer anders bekommt",
+        "SLICE_EFFECT_CONSENSUSCHALLENGE_DESCRIPTION": "Du gewinnst den Pott erneut, außer jeder stimmt zu, ihn an jemand anderen zu geben",
+        "SLICE_EFFECT_CONSENSUSCHALLENGE_PROMPT": "Wähle einen Spieler. %s wird den Pott erneut gewinnen, außer alle sind sich einig, dass ihn wer anders bekommt",
         
         "SLICE_EFFECT_CATCHMECHALLENGE_NAME": "VERSTECK\nSPIEL",
-        "SLICE_EFFECT_CATCHMECHALLENGE_DESCRIPTION": "Du gewinnst den Pot erneut, wenn niemand die gleiche Scheibe wie du wählt",
-        "SLICE_EFFECT_CATCHMECHALLENGE_PROMPT_SLICE_OWNER": "Wähle eine Scheibe. Du gewinnst den Pot erneut, wenn niemand die gleiche Scheibe wie du wählt",
-        "SLICE_EFFECT_CATCHMECHALLENGE_PROMPT_NON_SLICE_OWNER": "Wähle eine Scheibe. %s wird den Pot erneut gewinnen, wenn niemand die gleiche Scheibe wie er wählt",
+        "SLICE_EFFECT_CATCHMECHALLENGE_DESCRIPTION": "Du gewinnst den Pott erneut, wenn niemand die gleiche Scheibe wie du wählt",
+        "SLICE_EFFECT_CATCHMECHALLENGE_PROMPT_SLICE_OWNER": "Wähle eine Scheibe. Du gewinnst den Pott erneut, wenn niemand die gleiche Scheibe wie du wählt",
+        "SLICE_EFFECT_CATCHMECHALLENGE_PROMPT_NON_SLICE_OWNER": "Wähle eine Scheibe. %s wird den Pott erneut gewinnen, wenn niemand die gleiche Scheibe wie er wählt",
 
         "SLICE_EFFECT_CHAINSTEAL_NAME": "SCHEIBEN\nKLAU",
         "SLICE_EFFECT_CHAINSTEAL_DESCRIPTION": "Stehle zusammen-\nhängende Scheiben, die einem anderen Spieler gehören",
