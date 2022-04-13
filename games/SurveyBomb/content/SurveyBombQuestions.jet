@@ -6524,7 +6524,7 @@
    "question": "Zu welcher Frage willst du unbedingt die Antwort wissen?",
    "questionShort": "große Fragen",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -6546,7 +6546,7 @@
    "question": "Fische sind cool! Mit welchem Fisch würdest du am liebsten rumhängen?",
    "questionShort": "Coolster Fisch",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -6561,7 +6561,7 @@
     "[i]Die Pfanne der Oper[/i]",
     "[i]Pretty Shoeman[/i]",
     "[i]Starlight Empress[/i]",
-    "König der Möwen"
+    "[i]König der Möwen[/i]"
    ],
    "id": "80035",
    "intro": null,
@@ -6570,7 +6570,7 @@
    "question": "Wir können uns kein richtiges Musical leisten und müssen uns deshalb mit einem von diesen zufriedengeben.",
    "questionShort": "billige Musicals",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -6594,9 +6594,9 @@
    "isValid": "",
    "outro": null,
    "question": "Werde zu einem Zentaur! Was ist deine untere Hälfte?",
-   "questionShort": "Your Bottom Animal Half",
+   "questionShort": "Deine untere Tierhälfte",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -6627,8 +6627,8 @@
    "intro": "Lasst die Spiele beginnen!",
    "isValid": "numPlayers >= 6",
    "outro": null,
-   "question": "Wer würde bei den Hungerspielen am längsten überleben?",
-   "questionShort": "Hungerspiele",
+   "question": "Wer würde bei den Hungergames am längsten überleben?",
+   "questionShort": "Hungergames",
    "round": "third",
    "us": true,
    "x": false
@@ -6644,8 +6644,8 @@
    "intro": "Bleib mir bloß vom Leib, Schmitty.",
    "isValid": "numPlayers >= 6",
    "outro": null,
-   "question": "Wenn wir [i]Quiplash[/i] spielen würden, er wäre ganz vorne mit dabei?",
-   "questionShort": "Lustigste Quiplashers",
+   "question": "Wenn wir [i]Quiplash[/i] spielen würden, wer wäre ganz vorne mit dabei?",
+   "questionShort": "Lustigste Quiplasher",
    "round": "second",
    "us": true,
    "x": false
@@ -6664,7 +6664,7 @@
    "question": "Eine Tortenschlacht beginnt. Wer bekommt die meisten ab?",
    "questionShort": "Tooortenschlaaaacht!",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -6679,9 +6679,9 @@
    "isValid": "numPlayers >= 6",
    "outro": null,
    "question": "Wer hatte gestern die wildeste Nacht?",
-   "questionShort": "Party Animals",
+   "questionShort": "Partytiere",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -6698,7 +6698,7 @@
    "question": "Ihr seid dazu eingeladen die Nacht in einem Horror Haus zu verbringen! Wer bekommt zuerst eine Panikattacke?",
    "questionShort": "gruseliger Kram",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -6720,13 +6720,13 @@
    "question": "Du hast ab jetzt ein Tier-Körperteil! Für welches entscheidest du dich?",
    "questionShort": "Tier-Körperteile",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "category": "hypothetical",
    "choices": [
-    "Barmann",
+    "Barkeeper",
     "Gassigeher",
     "Chiropraktiker",
     "Friseur",
@@ -6739,7 +6739,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Ein Job den ein Praktikant lieber nicht übernehmen sollte.",
+   "question": "Ein Job, den ein Praktikant lieber nicht übernehmen sollte.",
    "questionShort": "noch am Üben",
    "round": "first",
    "us": true,
@@ -6752,7 +6752,7 @@
     "bellender Hund",
     "LKW",
     "knarzende Dielen",
-    "Glockenspiel",
+    "Mücke",
     "Anlage mit zu viel Bass",
     "rasselnde Schlüssel",
     "lautes Flugzeug",
@@ -6769,7 +6769,7 @@
    "question": "Was ist das nervigste Geräusch?",
    "questionShort": "nervigste Geräusche",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -6788,10 +6788,10 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Der Krug ist au Gold. Wenn du ihn austrinkst, darfst du ihn behalten. Welcher Inhalt ist dir am liebsten?",
+   "question": "Der Krug ist aus Gold. Wenn du ihn austrinkst, darfst du ihn behalten. Welcher Inhalt ist dir am liebsten?",
    "questionShort": "Trink für Gold",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -6810,10 +6810,10 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Such dir eine Lichtquelle für deine fensterlose Wohnung aus",
+   "question": "Suche dir eine Lichtquelle für deine fensterlose Wohnung aus",
    "questionShort": "Lichtquellen",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -6861,7 +6861,7 @@
    "question": "Mit welcher viktorianischen Tätigkeit hättest du am meisten Spaß?",
    "questionShort": "Viktorianischer Zeitvertreib",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -6884,7 +6884,7 @@
    "question": "Welcher Charakter bist du in einem schlechten Horrorfilm?",
    "questionShort": "Horrorcharaktere",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -6903,10 +6903,10 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Von was könntest du eine Tonne essen, selbst wenns keine Getränke dazugibt?",
+   "question": "Von was könntest du eine Tonne essen, selbst wenn's keine Getränke dazu gibt?",
    "questionShort": "Essen ohne Trinken",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -6920,7 +6920,7 @@
     "ein Dosentelefon basteln",
     "Daumendrücken spielen",
     "Steine auf dem See springen lassen",
-    "einfach Spielen"
+    "einfach spielen"
    ],
    "id": "80322",
    "intro": null,
@@ -6929,7 +6929,7 @@
    "question": "Diesen Kinder-Zeitvertreib, würdest du auch als Erwachsener noch gerne machen.",
    "questionShort": "Kinderaktivitäten",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -6949,7 +6949,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Wir sind in einer Hipsterba. Wähle deinen unnötig komplizierten und teuren Cocktail.",
+   "question": "Wir sind in einer Hipsterbar. Wähle deinen unnötig komplizierten und teuren Cocktail.",
    "questionShort": "Hipster Cocktails",
    "round": "first",
    "us": true,
@@ -6974,7 +6974,7 @@
    "question": "Dein Fisch braucht ein neues Zuhause! Welche Dekoration kommt in sein Aquarium?",
    "questionShort": "Fischmöbel",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -7018,21 +7018,21 @@
    "intro": null,
    "isValid": "numPlayers >= 6",
    "outro": null,
-   "question": "Das schlimmste ahrzeug für einen Sommer-Roadtrip.",
+   "question": "Das schlimmste Fahrzeug für einen Sommer-Roadtrip.",
    "questionShort": "schlimmste Roadtripfahrzeuge",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "category": "set",
    "choices": [
     "kennt gute Restaurants",
-    "Kein Small Talk",
-    "Lästert gerne",
+    "kein Small Talk",
+    "lästert gerne",
     "übernimmt deine Schichten ab und an",
-    "TRinkkumpel",
-    "hört sich deine Beschwerden an",
+    "Trinkkumpel",
+    "hört sich deine Probleme an",
     "Fahrgemeinschaft",
     "weiß wie du deinen Kaffee magst"
    ],
@@ -7043,7 +7043,7 @@
    "question": "Baue dir den perfekten Mitarbeiter!",
    "questionShort": "perfekte Mitarbeiter",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -7067,7 +7067,7 @@
    "question": "Du trampst duch die Gegend. Mit wem fährst du nicht mit?",
    "questionShort": "Trampen",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -7096,7 +7096,7 @@
    "question": "Du wurdest von einer Snack-Firma dazu aufgefordert den perfekten Mix zusammenzustellen. Was kommt rein?",
    "questionShort": "Snack Mix zusammenstellen",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -7118,7 +7118,7 @@
    "question": "Was sollte sich dein Leben von Filmen abschauen?",
    "questionShort": "Real-Life Film",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -7140,7 +7140,7 @@
    "question": "Packe deine Tasche für einen lustigen Tag am Strand!",
    "questionShort": "Strandtasche",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -7162,7 +7162,7 @@
    "question": "Wenn du 4 Klone hättest, was würdest du dann tun?",
    "questionShort": "Spaß mit Klonen",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -7184,7 +7184,7 @@
    "question": "Du musst auf eine dieser öffentlichen Toiletten gehen.",
    "questionShort": "\"Beste\" öffentliche Toiletten",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -7207,9 +7207,9 @@
    "isValid": "",
    "outro": null,
    "question": "Bau dir das perfekte Taschenmesser.",
-   "questionShort": "schweizer Taschenmesser",
+   "questionShort": "Schweizer Taschenmesser",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -7219,7 +7219,7 @@
     "Strohhut",
     "Feuerwehrhelm",
     "Melone",
-    "Beret",
+    "Baskenmütze",
     "Fedora",
     "Cowboy Hut",
     "Bauarbeiterhelm"
@@ -7231,7 +7231,7 @@
    "question": "Schlechte Nachrichten. Du musst ab heute einen Hut tragen. Für welchen entscheidest du dich?",
    "questionShort": "Signaturhut",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -7255,7 +7255,7 @@
    "question": "Wo würdest du am liebsten eine Nacht verbringen?",
    "questionShort": "komische Pyjama Party",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -7279,9 +7279,9 @@
    "isValid": "",
    "outro": null,
    "question": "Um den Respekt deiner Eltern zu verdienen musst du eine Goldmedaille gewinnen. Für welche Sportart entscheidest du dich?",
-   "questionShort": "Gold, gold, gold!",
+   "questionShort": "Gold, Gold, Gold!",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -7304,8 +7304,8 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Wähle einen Namen für dein kleines Footballteam. (die Guten sind schon weg)",
-   "questionShort": "Footballteam-Namen",
+   "question": "Wähle einen Namen für dein kleines Fußballteam. (die Guten sind schon weg)",
+   "questionShort": "Fußballteam-Namen",
    "round": "third",
    "us": true,
    "x": false
@@ -7330,7 +7330,7 @@
    "question": "Baue den perfekten Friseur!",
    "questionShort": "perfekter Friseur",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -7352,7 +7352,7 @@
    "question": "Du besuchst zum ersten Mal einen Kumpel. Und du erfährst, dass Sie diese Sache gestohlen haben...",
    "questionShort": "Schlimmste Beute",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -7376,7 +7376,7 @@
    "question": "Euer Heißluftballon ist zu schwer!! Ihr stüzt vielleicht ab! Was werft ihr raus um wieder aufzusteigen?",
    "questionShort": "Weg damit!",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -7422,7 +7422,7 @@
    "question": "Was würde dir als Cowboy im Wilden Westen am besten gefallen?",
    "questionShort": "Wilder Westen",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -7444,7 +7444,7 @@
    "question": "Wenn du ein Bauernhoftier wärst, was würdest du am liebsten machen?",
    "questionShort": "Bauernhofaktivitäten",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -7466,7 +7466,7 @@
    "question": "Man zwingt dich eine Erfindung aus der Geschichte der Menschheit zu löschen! Für welche entscheidest du dich?",
    "questionShort": "Weg mit dieser Erfindung!",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -7500,7 +7500,7 @@
    "question": "Welche WG würde die beste Sitom abgeben?",
    "questionShort": "Sitcom WG",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -7522,7 +7522,7 @@
    "question": "Du hast ein Jahr dazu diese Tätigkeit von einem Experten zu lernen. Für welche entscheidest du dich?",
    "questionShort": "Jahrespraktikum",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -7544,7 +7544,7 @@
    "question": "Wenn diese Tiere so groß wären wie ein Hund - welches würdest du am liebsten als Haustier halten?",
    "questionShort": "Beste Haustiere",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -7568,7 +7568,7 @@
    "question": "Baue dir ein Team von Superhelden, die die besiegen werden, die du nicht ausgewählt hast.",
    "questionShort": "Team um den Rest zu besiegen",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -7590,7 +7590,7 @@
    "question": "Wir haben gewonnen! Wie feiern wir unseren Sieg?",
    "questionShort": "Sieg feiern",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -7611,10 +7611,10 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Uff.. schon wieder Montag. Was ist definitiv NICHT dein Lieblingsfach, Lieblingsfach,Lieblingsfach?",
+   "question": "Uff.. schon wieder Montag. Was ist definitiv NICHT dein Lieblingsfach, Lieblingsfach, Lieblingsfach?",
    "questionShort": "Nicht dein Lieblingsfach?",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -7635,8 +7635,8 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Eine Nudelsorte muss fürimmer verschwinden. Zu welcher sagst du \"arrivederci\" ?",
-   "questionShort": "Reject a Pasta",
+   "question": "Eine Nudelsorte muss für immer verschwinden. Zu welcher sagst du \"arrivederci\"?",
+   "questionShort": "Bye Bye Pasta",
    "round": "first",
    "us": true,
    "x": false
@@ -7651,7 +7651,7 @@
     "Schinkenspicker",
     "Squatter",
     "Was machen wir hier?",
-    "Discounter`",
+    "Discounter",
     "Kat-diss Everscream",
     "Kämpferdämpfer"
    ],
@@ -7662,7 +7662,7 @@
    "question": "Lasertag-Teamnamen! Such dir den Besten aus!",
    "questionShort": "Lasertag Namen!",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -7686,7 +7686,7 @@
    "question": "Suche dir eine Eiscremesorte aus!",
    "questionShort": "EISCREME!!! SUCH WAS AUS!!",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -7708,7 +7708,7 @@
    "question": "Welcher Buchstabe lässt sich am besten aus dem Vokabular entfernen?",
    "questionShort": "weg mit dem Buchstaben",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -7727,10 +7727,10 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Diese kleine Kreatur verfolgt dich ühberall hin! Auf welche hast du ÜBERHAUPT keinen Bock?",
+   "question": "Diese kleine Kreatur verfolgt dich überall hin! Auf welche hast du ÜBERHAUPT keinen Bock?",
    "questionShort": "Verhasster Mini-Gast",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -7749,10 +7749,10 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Mit welcher fktionalen Waffe stattest du dich definitiv aus?",
-   "questionShort": "Fiktionale Auers",
+   "question": "Mit welcher fiktionalen Waffe stattest du dich definitiv aus?",
+   "questionShort": "Fiktionale Auas",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -7774,7 +7774,7 @@
    "question": "Das Restaurant das du mit deinem Date besuchst, hat nur Speisen von denen du noch nie was gehört hast. Was tust du?",
    "questionShort": "Fremde Spezialitäten",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -7796,7 +7796,7 @@
    "question": "Peinlichste Internetsuche die jemand entdecken könnte",
    "questionShort": "peinliche Suchen",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -7818,7 +7818,7 @@
    "question": "Was macht einen richtig schlechten Masseur aus?",
    "questionShort": "schlechte Masseuse",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -7842,19 +7842,19 @@
    "question": "Welche von diesen Sachen sollte auf Bäumen wachsen?",
    "questionShort": "Sollte auf Bäumen wachsen",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "category": "hypothetical",
    "choices": [
-    "Memory Foam",
+    "Schaumstoff",
     "Knete",
     "Radiergummi",
     "Lava",
-    "Tannanzapfen",
-    "Verpackungsmaterial",
-    "Billiardball",
+    "Tannenzapfen",
+    "Luftpolsterfolie",
+    "Billardkugel",
     "Papier",
     "Räucherstäbchen",
     "Seife",
@@ -7868,7 +7868,7 @@
    "question": "Insgeheim willst du diese Sache am meisten essen...",
    "questionShort": "nicht essbare Sachen essen",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -7890,7 +7890,7 @@
    "question": "Was möchtest du nicht von draußen hören?",
    "questionShort": "schlechte Nachrichten",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -7916,7 +7916,7 @@
    "question": "Welcher Schlager beschreibt dein Liebesleben am besten?",
    "questionShort": "Liebeslebenschlager",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -7938,7 +7938,7 @@
    "question": "Du hast dich heimlich in ein Orchester eingeschlichen. Welches Instrument spielst du, damit dich niemand bemerkt?",
    "questionShort": "Orchester-Schmuggler",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -7960,7 +7960,7 @@
    "question": "Oh nein, deine Schlüssel sind weg! Wo hast du sie wahrscheinlich verlegt?",
    "questionShort": "dort sind die Schlüssel!!",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
