@@ -1059,34 +1059,65 @@
   },
   {
    "altSpellings": [
-    "Studfinder"
-   ],
-   "answer": "Stud Finder",
+    "Ein Spachtel",
+    "Der Spachtel",
+    "Spatel",
+    "Ein Spatel",
+    "Der Spatel",
+    "Stielspachtel",
+    "Der Stielspachtel",
+    "Ein Stielspachtel",
+    "Entrostungsspachtel",
+    "Der Entrostungsspachtel",
+    "Ein Entrostungsspachtel",
+    "Flächenspachtel",
+    "Der Flächenspachtel",
+    "Ein Flächenspachtel",
+    "Gummispachtel",
+    "Der Gummispachtel",
+    "Ein Gummispachtel",
+    "Breitspachtel",
+    "Ein Breitspachtel",
+    "Der Breitspachtel",
+    "Zahnspachtel",
+    "Ein Zahnspachtel",
+    "Der Zahnspachtel",
+    "Japanspachtel",
+    "Ein Japanspachtel",
+    "Der Japanspachtel",
+    "Malmesser",
+    "Das Malmesser"
+],
+   "answer": "Spachtel",
    "category": "Tools",
    "clues": [
     {
-     "clue": "It's a handheld tool that can be magnetic or electronic.",
+     "clue": "Dieses Werkzeug kann sowohl aus Gummi als auch aus Metall sein. Es kann sogar aus Japan kommen!",
      "clueComment": ""
     },
     {
-     "clue": "You'll need one of these gizmos if you want to hang something on your walls safely and securely.",
+     "clue": "Dieser praktische Gegenstand kann sowohl zur Auftragung, als auch zur Entfernung von Dingen benutzt werden. Beispielsweise zur Entfernung von Tapeten.",
      "clueComment": ""
     },
     {
-     "clue": "How it works is, you press it up against the wall and it beeps when it senses the wooden beams behind the plasterboard.",
+     "clue": "Ich beschreibe euch das Aussehen: Wir haben einen meist hölzernen Stiel, daran befindet sich eine Metallplatte, die teilweise oben gerillt sein kann.",
      "clueComment": ""
     },
     {
-     "clue": "Sometimes funny guys like to say, “You’re looking for a stud, huh?” and they hold it up to their bodies and make a beeping noise.",
-     "clueComment": "Sometimes funny guys like to say, “You're looking for a stud, huh?” and they hold it up to their bodies and make a beeping noise. And then everyone kind of rolls their eyes and it's just excruciating."
+     "clue": "Ihr nehmt das Werkzeug, packt darauf etwas Beton und verteilt es auf der Wand, die es zu verputzen gilt.",
+     "clueComment": "Dann noch die Verwendung: Ihr nehmt das Werkzeug, packt darauf zum Beispiel etwas Beton und verteilt es auf der Wand, die es zu verputzen gilt."
+    },
+    {
+     "clue": "Man nennt diesen Akt auch “verspachteln”.",
+     "clueComment": ""
     }
    ],
-   "followup": null,
+   "followup": "Und nein, es ist KEIN Klappspaten.",
    "id": "81927",
    "isValid": "",
-   "prompt": "What home DIY tool am I thinking of?",
+   "prompt": "Welches Werkzeug sollte wirklich jeder Hobby-Handwerker haben?",
    "reveal": null,
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -1309,37 +1340,41 @@
    "x": false
   },
   {
-   "altSpellings": [],
-   "answer": "Jane Austen",
+   "altSpellings": [
+       "Karl Friedrich May",
+       "Carl May",
+       "Carl Friedrich May"
+   ],
+   "answer": "Karl May",
    "category": "Literature",
    "clues": [
     {
-     "clue": "She was born on December 16, 1775, in Hampshire, England.",
+     "clue": "Er wurde am 25. Februar 1842 in Ernstthal geboren.",
      "clueComment": ""
     },
     {
-     "clue": "She only wrote six full-length novels during her lifetime, but I'd bet my biggest wedge you've heard of at least one of them.",
+     "clue": "Seine Werke wurden weltweit über 200 Millionen Mal verkauft, er gilt als einer der am häufigsten übersetzten deutschen Schriftsteller.",
      "clueComment": ""
     },
     {
-     "clue": "Her books mostly focus on women who strive to achieve economic stability through marriage.",
+     "clue": "Große Bekanntheit erhielten seine Reiseerzählungen, die mit ihren Verfilmungen noch heute als echte Klassiker gelten.",
      "clueComment": ""
     },
     {
-     "clue": "She wrote [i]Pride and Prejudice[/i]. You know, the one with all the yearning?",
-     "clueComment": ""
+     "clue": "Die wohl bekanntesten dieser Reiseerzählungen spielen in den USA des 19. Jahrhunderts.",
+     "clueComment": "Die wohl bekanntesten dieser Reiseerzählungen spielen in den Vereinigten Staaten des 19. Jahrhunderts. Ihr wisst schon, Indianer und so!"
     },
     {
-     "clue": "She's no plain Jane... in fact, she was a bit Austen-tatious. Get it? Austen-tatious?",
-     "clueComment": ""
+     "clue": "Er ist der Autor der [i]Winnetou[/i]-Tetralogie. Ich habe diese Bücher das letzte Mal vermutlich im MAY gelesen...",
+     "clueComment": "Er ist der Autor der [i]Winnetou[/i]-Tetralogie. Klingelt da was, Old Shatterhand und Winnetou, alte Blutsbrüder? Ich glaube, ich habe diese Bücher das letzte Mal im MAY gelesen..."
     }
    ],
-   "followup": "Her books are the wheel deal.",
+   "followup": null,
    "id": "81999",
    "isValid": "",
-   "prompt": "What author wrote some of my very favorite books?",
-   "reveal": "",
-   "us": true,
+   "prompt": "Von welchem Autor stammen einige meiner Lieblingsbücher?",
+   "reveal": "Ihr kennt ihn alle...",
+   "us": false,
    "x": false
   },
   {
@@ -1629,34 +1664,37 @@
   },
   {
    "altSpellings": [
-    "Skateboarding"
+    "Skateboarding",
+    "Skate Board",
+    "Das Skateboard",
+    "Skateboard",
+    "Rollbrett",
+    "Ein Skate Board",
+    "Das Skate Board",
+    "Skateboarden"
    ],
-   "answer": "Skateboard",
+   "answer": "Ein Skateboard",
    "category": "Vehicles",
    "clues": [
     {
-     "clue": "It can transport one person at a time and is powered solely by the rider.",
-     "clueComment": "It can transport one person at a time and is powered solely by the rider. Electric versions of this vehicle exist, but I find them silly."
+     "clue": "Das Transportmittel kann bis zu eine Person transportieren und wird ausschließlich mit Muskelkraft bewegt.",
+     "clueComment": "Das Transportmittel kann bis zu eine Person transportieren und wird ausschließlich mit Muskelkraft bewegt. Okay, theoretisch gibt es auch elektrische Versionen, aber die sind irgendwie ziemlich schwachsinnig."
     },
     {
-     "clue": "It's basically a long board with wheels. You mostly control it with your feet.",
-     "clueComment": ""
+     "clue": "Man kann es benutzen, um entweder von A nach B zu kommen oder um coole Tricks zu machen.",
+     "clueComment": "Man kann es benutzen, um entweder von A nach B zu kommen oder um coole Tricks zu machen. Oder sogar beides! Los, beeindrucke alle auf dem Weg zum Park. Oder zum Zahnarzt. Oder zum Krankenhaus, weil du dich auf die Fresse gelegt hast."
     },
     {
-     "clue": "You can use it to get from place to place or to do cool tricks.",
-     "clueComment": "You can use it to get from place to place or to do cool tricks. Or both! Go wow everyone at the dentist's office!"
-    },
-    {
-     "clue": "This vehicle is part of an Olympic sport now! Tony Hawk must be so proud.",
+     "clue": "Im Grunde ist es ein langes Brett mit Rädern, das hauptsächlich mit den Füßen gesteuert wird.",
      "clueComment": ""
     }
    ],
-   "followup": "You humans really do love using wheels to move faster, which just makes me feel all warm and spinny inside.",
+   "followup": "Ihr Menschen versteht es echt, Räder zu benutzen, um schneller zu sein. Das erfüllt mein Herz doch gleich mit Freude.",
    "id": "84196",
    "isValid": "",
-   "prompt": "What mode of transportation is the most intriguing to me?",
-   "reveal": "I mean, how many other forms of transportation did Avril Lavigne write a song about? What a vehicle.",
-   "us": true,
+   "prompt": "Welches Fortbewegungsmittel empfinde ich als am reizvollsten?",
+   "reveal": "",
+   "us": false,
    "x": false
   },
   {
@@ -1770,32 +1808,44 @@
   },
   {
    "altSpellings": [
-    "bar stool"
+    "Ein Teppich",
+    "Der Teppich",
+    "Teppiche",
+    "Die Teppiche",
+    "Vorleger",
+    "Brücke",
+    "Läufer",
+    "Orientteppich",
+    "Orient Teppich",
+    "Flokati"
    ],
-   "answer": "Stool",
+   "answer": "Teppich",
    "category": "Tools",
    "clues": [
     {
-     "clue": "It commonly has four legs, but some only have three."
+     "clue": "Dieser Teil der Einrichtung ist meistens ein echter Staubfänger! Schließlich wird er eigentlich nie vom Fleck bewegt.",
+     "clueComment": ""
     },
     {
-     "clue": "This seat is the general term for any sitting device that doesn't have arms or a back support.",
-     "clueComment": "This seat is the general term for any sitting device that doesn't have arms or a back support. We're talkin’ back to basics Meeples, no frills sittin’ down!"
+     "clue": "Positiv muss man allerdings hervorheben, dass dieses Einrichtungsstück im Normalfall echt ziemlich bodenständig ist. Nur selten ist es an Wänden zu finden!",
+     "clueComment": "Positiv muss man allerdings hervorheben, dass dieses Einrichtungsstück im Normalfall echt ziemlich bodenständig ist. Nur selten ist es an Wänden zu finden! Auch wenn man es auch schon mal hat fliegen sehen..."
     },
     {
-     "clue": "I'll be honest... the name is a synonym for one of your more disgusting human excretions."
+     "clue": "Nicht nur das, es wird auch regelmäßig mit Füßen getreten!",
+     "clueComment": "Nicht nur das, es wird auch regelmäßig mit Füßen getreten! Also nicht von mir, aber ihr versteht, was ich meine..."
     },
     {
-     "clue": "It rhymes with “cool,” but it's not very cool that I don't get to perch on this thing like a hip so-and-so."
+     "clue": "Vielleicht sollte ich meine Einstellung gegenüber diesem Textil ändern, es scheint fast schon ganz okay zu sein. Den Boden verziert es immerhin auch ganz nett.",
+     "clueComment": "Vielleicht sollte ich meine Einstellung gegenüber diesem Textil ändern, es scheint fast schon ganz okay zu sein. Den Boden verziert es immerhin auch ganz nett. Also, es tut immerhin sein Bestes."
     }
    ],
-   "followup": "I don't “sit,” I just kinda tilt sometimes.",
+   "followup": "",
    "id": "84253",
    "isValid": "",
-   "prompt": "What piece of furniture makes me envy the human buttocks?",
-   "reveal": "Pull up to the bar, it's a...",
-   "us": true,
-   "x": true
+   "prompt": "Welches Möbelstück finde ich echt unnötig?",
+   "reveal": "Schaut mal unter euch, vielleicht findet ihr ihn dort auch. Wenn ja, dann gebt ihm einen wohlwollenden Klaps, dem...",
+   "us": false,
+   "x": false
   },
   {
    "altSpellings": [
@@ -2172,35 +2222,33 @@
    "x": false
   },
   {
-   "altSpellings": [
-    "The Whale"
-   ],
-   "answer": "[i]Moby Dick[/i]",
+   "altSpellings": [],
+   "answer": "[i]Wilhelm Tell[/i]",
    "category": "Literature",
    "clues": [
     {
-     "clue": "The name of a pretty famous coffee chain was inspired by this book.",
-     "clueComment": "The name of a pretty famous coffee chain was inspired by this book. I'll just tell you, it's Starbucks."
+     "clue": "Das Buch wurde im Jahre 1804 geschrieben und behandelt einen Schweizer Nationalmythos.",
+     "clueComment": "Das Buch wurde im Jahre 1804 geschrieben und behandelt einen Schweizer Nationalmythos. Aber es ist die Schweiz, dann kann es ja nicht soo wichtig sein..."
     },
     {
-     "clue": "It was written in 1851 by Herman Melville.",
+     "clue": "Es ist das letzte fertiggestellte Drama von Friedrich Schiller.",
      "clueComment": ""
     },
     {
-     "clue": "The famous line everybody knows from the book is “Call me Ishmael.”",
-     "clueComment": "The famous line everybody knows from the book is “Call me Ishmael.” It's the first line of the first chapter. Okay, I DID get that far."
+     "clue": "Jeder kennt die berühmte Szene, in der der Held mit Pfeil und Bogen einen Apfel vom Kopf seines Sohnes schießen muss.",
+     "clueComment": "Jeder kennt die berühmte Szene, in der der Held mit Pfeil und Bogen einen Apfel vom Kopf seines Sohnes schießen muss. Okay, bis zur Hälfte bin ich immerhin gekommen."
     },
     {
-     "clue": "It’s the story about Captain Ahab’s pursuit of a large, white sea creature.",
-     "clueComment": ""
+     "clue": "Der Protagonist und Vater nennt sich Wilhelm Tell.",
+     "clueComment": "Der Protagonist und Vater nennt sich Wilhelm Tell. Kleiner Tipp, das Buch ist echt nicht wirklich kreativ benannt. Also so gar nicht."
     }
    ],
-   "followup": "I’m just so busy reading cooler things.",
+   "followup": "Es gibt einfach so viel Cooleres zum Lesen.",
    "id": "85119",
    "isValid": "",
-   "prompt": "Which classic book do I need to admit to myself that I’m never going to finish?",
-   "reveal": "You could say finishing this book is really my white whale.",
-   "us": true,
+   "prompt": "Welches klassische Buch werde ich wohl nie zu Ende lesen?",
+   "reveal": "Man könnte sagen, die Beendigung dieses Buches ist echt mein Apfelschuss. Mit Pfeil und Bogen etwas zu treffen ist allerdings ziemlich schwer, so ganz ohne Arme.",
+   "us": false,
    "x": false
   },
   {
@@ -2291,34 +2339,35 @@
   },
   {
    "altSpellings": [
-    "Elle magazine"
+    "Spiegel",
+    "Den Spiegel"
    ],
-   "answer": "[i]Elle[/i]",
-   "category": "Fashion",
+   "answer": "[i]Der Spiegel[/i]",
+   "category": "Factoids",
    "clues": [
     {
-     "clue": "It's not [i]Vogue[/i].",
-     "clueComment": "It's not [i]Vogue[/i]. Oh, you thought of [i]Vogue[/i]? For fashion? Groundbreaking."
-    },
-    {
-     "clue": "It was founded in France in 1945.",
+     "clue": "Dieses Druck-Erzeugnis erschien zum ersten Mal im Jahr 1947.",
      "clueComment": ""
     },
     {
-     "clue": "Celebs who have graced its cover include Jessica Simpson, Lady Gaga, and David Beckham.",
-     "clueComment": "Celebs who have graced its cover include Jessica Simpson, Lady Gaga, and David Beckham. They haven't asked me yet, but at this point it's only a matter of time."
+     "clue": "Der Gründer und Herausgeber war Rudolf Augstein.",
+     "clueComment": "Der Gründer und Herausgeber war bis zu seinem Tod Rudolf Augstein, anscheinend mal eine große Nummer im Verleger-Geschäft."
     },
     {
-     "clue": "Its name is literally the French word for “she” or “her.”",
-     "clueComment": "Its name is literally the French word for “she” or “her.” But you can enjoy it even if you're a godlike nonbinary post-gender being like myself!"
+     "clue": "Dieses Nachrichtenmagazin ist für seine investigativen Recherchen bekannt.",
+     "clueComment": "Dieses Nachrichtenmagazin ist für seine investigativen Recherchen bekannt. Damit sollte die [i]BILD[/i] endgültig auszuschließen sein."
+    },
+    {
+     "clue": "Die Titelseite ist in einem satten Rotton gehalten, auch wenn meist ein Bild den Großteil des Platzes einnimmt.",
+     "clueComment": ""
     }
    ],
-   "followup": "How else am I going to keep my slices looking their best?",
+   "followup": "Ja, auch ich lese. Man muss sich schließlich darüber informieren, was so in der Welt passiert!",
    "id": "85201",
    "isValid": "",
-   "prompt": "What fashion magazine do I consider indispensable?",
-   "reveal": "By all means, type in your answer at a glacial pace. You know how that thrills me.",
-   "us": true,
+   "prompt": "Welche Zeitschrift halte ich für unverzichtbar?",
+   "reveal": null,
+   "us": false,
    "x": false
   },
   {
@@ -2361,71 +2410,81 @@
    "x": false
   },
   {
-   "altSpellings": [],
-   "answer": "Socrates",
+   "altSpellings": [
+       "Sogrates",
+       "Socrates"
+   ],
+   "answer": "Sokrates",
    "category": "Historical Figures",
    "clues": [
     {
-     "clue": "We hung out a little back in the day in ancient Greece.",
-     "clueComment": "We hung out a little back in the day in ancient Greece. But I was always a little intimidated by him, you know?"
+     "clue": "Wir haben damals im alten Griechenland ab und an etwas zusammen abgehangen.",
+     "clueComment": "Wir haben damals im alten Griechenland ab und an etwas zusammen abgehangen. Ein bisschen eingeschüchtert war ich ja schon immer von ihm."
     },
     {
-     "clue": "It's weird for me to be intimidated by anyone, but even his student Plato felt the same way.",
+     "clue": "Es ist ziemlich schwer, mich einzuschüchtern, aber selbst sein Schüler Platon empfand so über seinen Lehrer.",
      "clueComment": ""
     },
     {
-     "clue": "He was ultimately sentenced to death, which was not very cool.",
+     "clue": "Letztendlich wurde er zum Tode verurteilt, das war echt eine Farce.",
      "clueComment": ""
     },
     {
-     "clue": "Just how cool was he? There's a whole method of question-based teaching named after him.",
-     "clueComment": "How cool was he? There’s a whole method of question-based teaching named after him. Also, his toga game was always on point."
+     "clue": "Noch heute ist die Szene, in der er den Schierlingsbecher austrank, legendär. Ohne zu zögern nahm er das Gift.",
+     "clueComment": ""
     },
     {
-     "clue": "Hello? The Socratic Method?",
-     "clueComment": "Hello? The Socratic Method? I know you’ve heard of this cool cat. Also, I... basically just said his name. So."
+     "clue": "Ihr wisst schon, worauf ich anspiele... [i]Der Tod des Sokrates[/i], das legendäre Gemälde?!",
+     "clueComment": "Ihr wisst schon, worauf ich anspiele... [i]Der Tod des Sokrates[/i], das legendäre Gemälde?! Und ja, jetzt hab ich den Namen gesagt. Also, was hält euch noch?"
     }
    ],
    "followup": null,
    "id": "85652",
    "isValid": "",
-   "prompt": "Which philosopher do I think is just the coolest?",
-   "reveal": "This guy once said, “The unexamined life is not worth living.” And I once said, “Hey, stop standing on my wheel slices! I can’t spin like this!”",
-   "us": true,
-   "x": false
+   "prompt": "Welcher Philosoph ist mit Abstand der coolste?",
+   "reveal": "Er sagte einst “Das ungeprüfte Leben ist nicht lebenswert.”, ich sage heute “Hey, hört auf Selfies mit der Kraftscheibe zu machen, so kann ich mich nicht drehen!”. Die Parallelen sind erschreckend...",
+   "us": false,
+   "x": true
   },
   {
-   "altSpellings": [],
-   "answer": "Velvet",
+   "altSpellings": [
+       "Samd",
+       "Sammet",
+       "Sammt",
+       "der Samt",
+       "das Samt",
+       "in Samt"
+   ],
+   "answer": "Samt",
    "category": "Fashion",
    "clues": [
     {
-     "clue": "Behold! Such a fabric has no equal. It is luxury, it is drama, it is beyond compare.",
+     "clue": "Erschaudert, denn ein solcher Stoff ist unvergleichlich. So viel Luxus, so viel Drama, so viel Bling-Bling!",
      "clueComment": ""
     },
     {
-     "clue": "Drape me not in polyester. Bah!",
-     "clueComment": "Drape me not in polyester. Bah! I shudder, I chafe, I sweat! May polyester never again snag within my spokes!"
+     "clue": "So hülle man mich nicht in Polyester. Ihh!",
+     "clueComment": "So hülle man mich nicht in Polyester. Ihh! Ich fröstle, ich schwitze, es scheuert. Möge sich Polyester nie wieder in meinen Speichen verfangen!"
     },
     {
-     "clue": "Fleece, you say? Fleece? Fleece is a child's fabric.",
-     "clueComment": "Fleece, you say? Fleece? Fleece is a child's fabric. I spin contemptuously at the sight of fleece. Begone, false sheep's coat!"
+     "clue": "Vlies sagt ihr? Vlies?! Das ist doch etwas für Jünglinge.",
+     "clueComment": ""
     },
     {
-     "clue": "This fabric is soft and smooth, perfect for curtains or capes.",
-     "clueComment": "This fabric is soft and smooth, perfect for curtains or capes. Oh, how I long to tenderly brush its low pile against my cheek slices!"
+     "clue": "Dieser Stoff ist weich und glatt. Er eignet sich perfekt für Umhänge.",
+     "clueComment": "Dieser Stoff ist weich und glatt. Er eignet sich perfekt für Umhänge. Oh, wie ich mich danach sehne, den kurzen Flor zu fühlen. Einfach königlich."
     },
     {
-     "clue": "Its name begins with a V, if you must know. Oh, so soft... so dramatic... this is the fabric in which I so desire to garb myself.",
+     "clue": "So ihr es denn wissen wollt, der Name beginnt mit einem S. Sooo weich, soo dramatisch. Das ist der Stoff, in dem ich gekleidet sein möchte.",
      "clueComment": ""
     }
    ],
-   "followup": "",
+   "followup": null,
    "id": "85659",
    "isValid": "",
-   "prompt": "In which luxurious fabric do I desire to garb myself?",
-   "reveal": "What would you have me wear? Denim? The only fabric truly worthy of my stature in this realm is...",
-   "us": true,
+   "prompt": "In welchen luxuriösen Stoff wäre ich gerne gekleidet?",
+   "reveal": "Was sollte ich denn eurer Meinung nach tragen? Baumwolle?! Der einzige meiner unglaublichen Größe würdige Stoff ist offensichtlich...",
+   "us": false,
    "x": false
   },
   {
@@ -2461,27 +2520,35 @@
   },
   {
    "altSpellings": [
-    "penicilin",
-    "penecillin",
-    "penecilin",
-    "penisilin",
-    "penisillin"
+    "Das Penicillin",
+    "Die Penicilline",
+    "Das Penicilin",
+    "Die Peniciline",
+    "Penicilin",
+    "Penicilline",
+    "Peniciline",
+    "Penecilline",
+    "Penecillin",
+    "Peneciline",
+    "Penicillin G"
    ],
    "answer": "Penicillin",
    "category": "Science & Medicine",
    "clues": [
     {
-     "clue": "The original form of this medicine was discovered by Alexander Fleming in 1928."
+     "clue": "Die ursprüngliche Version dieses Medikaments wurde im Jahr 1928 von Alexander Fleming entdeckt.",
+     "clueComment": ""
     },
     {
-     "clue": "Don't freak out, but this medicine is essentially a mold secretion.",
-     "clueComment": "Don't freak out, but this medicine is essentially a mold secretion. I SAID DON'T FREAK OUT."
+     "clue": "Flippt jetzt nicht aus, aber im Wesentlichen besteht dieses Medikament aus dem Sekret von Schimmelpilzen.",
+     "clueComment": "Flippt jetzt nicht aus, aber im Wesentlichen besteht dieses Medikament aus dem Sekret von Schimmelpilzen. ICH SAGTE NICHT AUSFLIPPEN."
     },
     {
-     "clue": "This medicine is considered by most to be a fundamental breakthrough in the field of antibiotics."
+     "clue": "Dieses Medikament wird meist als fundamentaler Durchbruch auf dem Gebiet der Antibiotika gesehen.",
+     "clueComment": ""
     },
     {
-     "clue": "The name comes from the Latin root word [i]penicillus[/i], which means “paintbrush.”",
+     "clue": "Der Name des Medikaments stammt von dem lateinischen Wort [i]penicillus[/i] ab, das bedeutet so viel wie “Pinsel”.",
      "clueComment": ""
     }
    ],
@@ -2490,7 +2557,7 @@
    "isValid": "",
    "prompt": "Welches lebensrettende Medikament macht mich stolz auf die Menschheit?",
    "reveal": null,
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -2532,55 +2599,66 @@
   },
   {
    "altSpellings": [
-    "jetbridge",
-    "jetway",
-    "jetwalk",
-    "airgate",
-    "gangway",
-    "aerobridge",
-    "airbridge",
-    "skybridge",
-    "airtube",
-    "passenger boarding bridge",
-    "boarding bridge",
-    "connector",
-    "plane connector",
-    "loading bridge",
-    "jet way",
-    "air bridge",
-    "air tube",
-    "plane tunnel"
+    "Fluggastbrücke",
+    "Fluggast Brücke",
+    "Flug Gastbrücke",
+    "Flug Gast Brücke",
+    "Eine Fluggastbrücke",
+    "Gateway",
+    "Gate Way",
+    "Ein Gateway",
+    "Eine Gateway",
+    "Die Gateway",
+    "Das Gateway",
+    "Gangway",
+    "Gang Way",
+    "Eine Gangway",
+    "Die Gangway",
+    "Eine Gang Way",
+    "Die Gang Way",
+    "Passagiertunnel",
+    "Passagier Tunnel",
+    "Passagierbrücke",
+    "Passagier Brücke",
+    "Flugzeugtunnel",
+    "Flugzeug Tunnel",
+    "Passenger Boarding Bridge",
+    "Passagier Boarding Brücke",
+    "Flugsteig",
+    "Flugsteige",
+    "Der Flugsteig",
+    "Ein Flugsteig"
    ],
-   "answer": "Jet Bridge",
+   "answer": "Die Fluggastbrücke",
    "category": "Vehicles",
    "clues": [
     {
-     "clue": "It's a place where travelers on the move are forced to wait in line with lots of other humans.",
+     "clue": "An diesem Ort werden Reisende dazu gezwungen, sich mit vielen anderen Menschen in eine Schlange zu stellen.",
      "clueComment": ""
     },
     {
-     "clue": "While waiting impatiently, you can distract yourself by staring at ads for banks or credit cards, often featured on the narrow walls of this structure.",
+     "clue": "An den schmalen Wänden dieser Sache befindet sich oftmals Werbung.",
+     "clueComment": "Während dem ungeduldig warten, kann man sich natürlich auch ablenken, indem man Werbeplakate für Banken oder Kreditkarten anschaut, die sich oft an den schmalen Wänden der Sache befinden."
+    },
+    {
+     "clue": "Diese Sache ist im Grunde ein langer ausziehbarer Tunnel auf Rädern.",
+     "clueComment": "Diese Sache ist im Grunde ein langer ausziehbarer Tunnel auf Rädern. Denkt man darüber nach, ist es echt seltsam. Es hat Räder, fährt damit aber eigentlich nirgendwo richtig hin. (Realisierend) Hmm, das kann ich irgendwie nachempfinden."
+    },
+    {
+     "clue": "Der natürliche Lebensraum dieser Sache ist der Flughafen.",
      "clueComment": ""
     },
     {
-     "clue": "This thing is basically a long, segmented tunnel on wheels.",
-     "clueComment": "This thing is basically a long, segmented tunnel on wheels. It's weird! It has wheels but it doesn't really go anywhere. (realizing) Huh. I can relate to that."
-    },
-    {
-     "clue": "Its natural habitat is the airport.",
-     "clueComment": ""
-    },
-    {
-     "clue": "It bridges the airport gate to the jet airplane sitting outside that gate.",
-     "clueComment": ""
+     "clue": "Es überbrückt den Weg zwischen Gate und Flugzeug.",
+     "clueComment": "Es überbrückt den Weg zwischen Gate und Flugzeug, das offensichtlicherweise etwas Abstand zum Flughafengebäude halten muss."
     }
    ],
    "followup": null,
    "id": "86345",
    "isValid": "",
-   "prompt": "What transportation apparatus do I find to be especially amusing?",
-   "reveal": "(laughing) It's just a ridiculous tube of humanity!",
-   "us": true,
+   "prompt": "Welches Transportmittel finde ich einfach durch und durch faszinierend?",
+   "reveal": "(Lachen) Nur Menschen können auf so was kommen!",
+   "us": false,
    "x": false
   },
   {
