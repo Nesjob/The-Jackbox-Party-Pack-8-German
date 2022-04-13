@@ -374,7 +374,7 @@
    "isValid": "",
    "prompt": "Seht her! Bitte nennt mir die beste würzige Zutat der Welt!",
    "reveal": "Jeder Pfannkuchen ist ohne es einfach nackt!",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -1737,30 +1737,35 @@
    "x": false
   },
   {
-   "altSpellings": [],
+   "altSpellings": [
+       "Spride"
+   ],
    "answer": "Sprite",
    "category": "Food & Drink",
    "clues": [
     {
-     "clue": "It's a carbonated beverage introduced in 1961.",
-     "clueComment": "It's a carbonated beverage introduced in 1961. All that fizz is good for the gears, ya know?"
+     "clue": "Das kohlensäurehaltige Getränk wurde 1959 auf den Markt gebracht.",
+     "clueComment": "Das kohlensäurehaltige Getränk wurde 1959 auf den Markt gebracht. In Deutschland tatsächlich zwei Jahre früher als in den USA."
     },
     {
-     "clue": "One of the brand's more famous taglines encouraged consumers to “Obey Your Thirst.”"
+     "clue": "Der erste Slogan dieser Marke war “Frischer Wind aus grünen Flaschen”.",
+     "clueComment": ""
     },
     {
-     "clue": "Its main brand competitors are 7UP and Sierra Mist."
+     "clue": "Der Hauptkonkurrent dieser Marke ist ganz klar [i]7 Up[/i].",
+     "clueComment": ""
     },
     {
-     "clue": "This lemon-lime flavored soda is a hit among the non-Coke crowd."
+     "clue": "Diese Limonade mit Zitronen- und Limettengeschmack ist besonders bei Kindern beliebt.",
+     "clueComment": "" 
     }
    ],
-   "followup": "My doctor is a dodecahedron. Nice guy. You can call him dodecadoctorhedron if you like.",
+   "followup": "Mein Arzt ist übrigens ein Dodekaeder. Netter Kerl. Ihr könnt ihn auch Doktokaeder nennen, wenn ihr wollt.",
    "id": "84252",
    "isValid": "",
-   "prompt": "What beverage did my doctor say I need more of in my diet?",
-   "reveal": "Let's get bubbly!",
-   "us": true,
+   "prompt": "Welches Getränk sollte ich laut meinem Arzt mehr trinken, um meine Gesundheit zu verbessern?",
+   "reveal": "Jetzt wirds spritzig!",
+   "us": false,
    "x": false
   },
   {
@@ -1794,41 +1799,36 @@
   },
   {
    "altSpellings": [
-    "Vegas",
-    "City of Las Vegas",
-    "Las Vegas City",
-    "Vegas City"
+    "Monako",
+    "Fürstentum Monaco",
+    "Fürstentum Monako"
    ],
-   "answer": "Las Vegas!",
+   "answer": "Monaco",
    "category": "Geography & Landmarks",
    "clues": [
     {
-     "clue": "It's in the middle of the desert.",
+     "clue": "Dieses Land ist überraschend klein. Ja sogar der zweitkleinste Staat der Welt!",
      "clueComment": ""
     },
     {
-     "clue": "There are loads of other “big, bright wheels” who get spun in this town.",
-     "clueComment": "There are load of other “big, bright wheels” who get spun in this town. None quite as bright as yours truly! But bright in their own way."
+     "clue": "Dieser Staat ist eigentlich mehr eine Stadt, also ein Stadtstaat.",
+     "clueComment": "Dieser Staat ist eigentlich mehr eine Stadt, also ein Stadtstaat. Sagt das dreimal schnell hintereinander. Stadtstaat, Stadtstaat, Stadtstaat!"
     },
     {
-     "clue": "It has hundreds of venues that feature many of the world's greatest entertainers.",
-     "clueComment": "It has hundreds of venues that features many of the world's greatest entertainers. Tom Jones, Celine Dion, and of course, Carrot Top!"
-    },
-    {
-     "clue": "Its nickname is Sin City!",
+     "clue": "Er liegt am Mittelmeer, südlich von Frankreich und ganz nah an der italienischen Grenze!",
      "clueComment": ""
     },
     {
-     "clue": "Whatever happens here, stays here.",
-     "clueComment": "Supposedly, whatever happens here, stays here. BUT I'VE SEEN THE PICTURES!"
+     "clue": "Weltbekannt ist dieser Stadtstaat für sein Casino im Stadtbezirk [i]Monte-Carlo[/i].",
+     "clueComment": "Weltbekannt ist dieser Stadtstaat für sein Casino im Stadtbezirk [i]Monte-Carlo[/i]. Auch finden dort regelmäßig [i]Formel 1[/i]-Rennen statt."
     }
    ],
    "followup": null,
    "id": "84266",
    "isValid": "",
-   "prompt": "What U.S. city do I seriously want to roll into?",
-   "reveal": "Viva...",
-   "us": true,
+   "prompt": "Welches Land habe ich schon ewig nicht mehr besucht?",
+   "reveal": "Ich bin nun mal eine Spielernatur...",
+   "us": false,
    "x": false
   },
   {
@@ -1881,40 +1881,49 @@
   },
   {
    "altSpellings": [
-    "peanut",
-    "goober",
-    "monkey nut"
+    "Erdnuss",
+    "Erd Nuss",
+    "Eine Erdnuss",
+    "Die Erdnuss",
+    "Die Erdnüsse",
+    "Erd Nüsse",
+    "Spanische Nüssli",
+    "Aschantinuss",
+    "Aschanti",
+    "Aschanti Nuss",
+    "Peanuts",
+    "Peanut"
    ],
-   "answer": "Peanuts",
+   "answer": "Erdnüsse",
    "category": "Food & Drink",
    "clues": [
     {
-     "clue": "It is supposedly “healthy” and contains no cholesterol.",
-     "clueComment": "It is supposedly “healthy” and contains no cholesterol. Like I care."
+     "clue": "Angeblich ist es “gesund” und enthält kein Cholesterin.",
+     "clueComment": "Angeblich ist es “gesund” und enthält kein Cholesterin. Als ob mich das interessieren würde."
     },
     {
-     "clue": "This type of food is technically a legume.",
-     "clueComment": "This type of food is technically a legume. A legume out to destroy me!"
+     "clue": "Genau genommen ist diese Art von Lebensmittel eine Hülsenfrucht.",
+     "clueComment": "Genau genommen ist diese Art von Lebensmittel eine Hülsenfrucht. Ein Früchtchen mit finsteren Plänen in der Hülse!"
     },
     {
-     "clue": "Roughly 1% of the general population is allergic to this thing.",
+     "clue": "Auch reagiert etwa 1 % der Gesamtbevölkerung allergisch auf dieses dämonische Lebensmittel.",
      "clueComment": ""
     },
     {
-     "clue": "It got caught perfectly in one of my gears because of its shelled, round figure-eight shape.",
+     "clue": "Es hat sich aufgrund der runden Achterform seiner Schale perfekt in meinen Zahnrädern verfangen.",
      "clueComment": ""
     },
     {
-     "clue": "This vile bean also comes in a butter form.",
+     "clue": "Diese widerliche Bohne, die sich als Nuss ausgibt, gibt es sogar in Form von Butter.",
      "clueComment": ""
     }
    ],
    "followup": null,
    "id": "84393",
    "isValid": "",
-   "prompt": "What piece of food got caught in my gears once and now I hate it?",
-   "reveal": "I absolutely detest...",
-   "us": true,
+   "prompt": "Welches Lebensmittel hasse ich, da es sich einmal in einem meiner Zahnräder verfangen hat?",
+   "reveal": "Ich verabscheue es so sehr...",
+   "us": false,
    "x": false
   },
   {
@@ -1956,41 +1965,46 @@
   },
   {
    "altSpellings": [
-    "sense of balance",
-    "equilibrium",
-    "counterbalance",
-    "equipose"
+    "Balance",
+    "Balancesinn",
+    "Balance Sinn",
+    "Gleichgewicht",
+    "Gleichgewichts Sinn",
+    "Der Gleichgewichtssinn",
+    "Der Gleichgewichts Sinn",
+    "Das Gleichgewicht",
+    "Die Balance"
    ],
-   "answer": "Balance",
+   "answer": "Gleichgewichtssinn",
    "category": "Anatomy",
    "clues": [
     {
-     "clue": "Look, I enjoy a chocolate mousse cake sacrifice as much as the next god, but it’s not my sense of taste. And it’s not touch either.",
+     "clue": "Es ist weder mein Geschmacks- noch mein Tastsinn.",
+     "clueComment": "Seht her, ich genieße meine Schokoladensoufflé-Opfergabe wie jeder andere, trotzdem geht es nicht um meinen Geschmacksinn. Ach, und der Tastsinn ist auch nicht gefragt."
+    },
+    {
+     "clue": "Habt ihr schon mal irgendwo einen wunderschönen Duft vernommen? Ja? Das ist schön für euch, aber diesen Sinn suche ich trotzdem nicht.",
      "clueComment": ""
     },
     {
-     "clue": "I tried to stop and smell the roses once, but turns out I have no nostrils.",
+     "clue": "Ich bin ein großer Fan von Musik, trotz allem ist das Hören nicht mein stärkster Sinn.",
      "clueComment": ""
     },
     {
-     "clue": "I'm a big music fan, but hearing isn't my strongest sense.",
-     "clueComment": ""
+     "clue": "Es ist keiner der klassischen fünf Sinne.",
+     "clueComment": "Schaut, es ist keiner der klassischen fünf Sinne. Aber er ist trotzdem total alltäglich für mich wie für euch."
     },
     {
-     "clue": "It's not one of the traditional five senses.",
-     "clueComment": "I'll tell you right now. It's not one of the traditional five senses. Or seeing dead people, which of course I can, but frankly that's kind of boring to me."
-    },
-    {
-     "clue": "Look, I’m a wheel! To spin without wobbling, I need things to be in perfect...",
+     "clue": "Kommt schon, ich bin ein Rad! Um mich ohne zu schlingern oder zu wackeln drehen zu können, brauche ich einen guten...",
      "clueComment": ""
     }
    ],
    "followup": null,
    "id": "84421",
    "isValid": "",
-   "prompt": "Aside from being all-seeing and all-knowing, what physical sense do I most identify with?",
+   "prompt": "Welchen Sinn des Menschen finde ich am wichtigsten?",
    "reveal": null,
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -2029,113 +2043,132 @@
   {
    "altSpellings": [
     "vest sweater",
-    "vest"
+    "vest",
+    "Pulunder",
+    "Westover",
+    "Der Pullunder",
+    "Ein Pullunder",
+    "Der Pulunder",
+    "Ein Pulunder"
    ],
-   "answer": "Sweater Vest",
+   "answer": "Pullunder",
    "category": "Fashion",
    "clues": [
     {
-     "clue": "It's good for when your torso is cold but your arms need to breathe.",
-     "clueComment": "It's good for when your torso is cold but your arms need to breathe. I mean, so I hear."
+     "clue": "Das Kleidungsstück ist praktisch, wenn du am Oberkörper frierst, aber deine Arme etwas Luft brauchen.",
+     "clueComment": "Das Kleidungsstück ist praktisch, wenn du am Oberkörper frierst, aber deine Arme etwas Luft brauchen. Also, so heißt es auf jeden Fall..."
     },
     {
-     "clue": "It's often worn with a nice, crisp, collared shirt underneath.",
+     "clue": "Darunter trägt man meistens ein schönes weißes Hemd mit Kragen.",
      "clueComment": ""
     },
     {
-     "clue": "A fan once bought me a preppy, diamond-patterned one in XXX-Enormous.",
-     "clueComment": "A fan once bought me a preppy, diamond-patterned one in XXX Enormous. Apparently, that's a popular look."
+     "clue": "Ein Fan hat mir mal ein schickes Exemplar mit Rautenmuster in XXXL geschenkt.",
+     "clueComment": "Ein Fan hat mir mal ein schickes Exemplar mit Rautenmuster in XXXL geschenkt. Anscheinend tragen das die coolen Kids von heute so."
     },
     {
-     "clue": "Carlton wore a lot of these on [i]The Fresh Prince of Bel-Air[/i].",
-     "clueComment": ""
+     "clue": "Man sieht dieses einem Pullover ähnelnde Kleidungsstück zum Beispiel am Comedian Olaf Schubert.",
+     "clueComment": "Man sieht dieses einem Pullover ähnelnde Kleidungsstück zum Beispiel am Comedian Olaf Schubert. Der lässt sich ja eigentlich in nichts anderem blicken."
     }
    ],
    "followup": null,
    "id": "84423",
    "isValid": "",
-   "prompt": "What item of clothing would look really snazzy on me?",
-   "reveal": null,
-   "us": true,
+   "prompt": "Welches Kleidungsstück würde an mir wirklich todschick aussehen?",
+   "reveal": "Wird es auch bei euch Zeit für ein Umstyling?",
+   "us": false,
    "x": false
   },
   {
    "altSpellings": [
-    "sun glasses"
+    "sun glasses",
+    "Sonnenbrille",
+    "Sonnen Brille",
+    "Eine Sonnen Brille",
+    "die Sonnenbrille",
+    "Sonnenbrillen",
+    "Sonnen Brillen",
+    "Die Sonnenbrillen",
+    "Sonnengläser",
+    "Sonnen Gläser"
    ],
-   "answer": "Sunglasses",
+   "answer": "Eine Sonnenbrille",
    "category": "Fashion",
    "clues": [
     {
-     "clue": "Many cool iconic celebrities wore these.",
-     "clueComment": "Many cool iconic celebrities wore these. Like Randy “Macho Man” Savage, or Bono!"
-    },
-    {
-     "clue": "Corey Hart wrote a song about wearing these at night.",
+     "clue": "Viele ikonische Promis tragen diese Teile!",
      "clueComment": ""
     },
     {
-     "clue": "They are worn on the face.",
-     "clueComment": "They are worn on the face, often utilizing your ears and nose for support. I guess I'd need a strap of some kind."
+     "clue": "Man trägt es auf dem Gesicht.",
+     "clueComment": "Man trägt es auf dem Gesicht, meist werden die Nase und Ohren als Stütze gebraucht. Ich glaube, ich bräuchte dafür etwas Tesafilm..."
     },
     {
-     "clue": "They are great for preventing damage to the eyes.",
+     "clue": "Das Accessoire ist wie gemacht dafür, die Augen zu beschützen.",
      "clueComment": ""
     },
     {
-     "clue": "They are sometimes called “shades.”",
-     "clueComment": ""
+     "clue": "Es hilft dabei, auch bei starker Sonneneinstrahlung sehen zu können.",
+     "clueComment": "Es legt sich wie ein Schatten über die Augen und hilft dabei, auch bei starker Sonneneinstrahlung sehen zu können."
     }
    ],
    "followup": null,
    "id": "84640",
    "isValid": "",
-   "prompt": "What human accessory would I love to wear?",
-   "reveal": "I think I'd just look so cool if I had me a giant pair of...",
-   "us": true,
+   "prompt": "Welches menschliche Accessoire würde ich gerne mal tragen?",
+   "reveal": "Ich glaube, die würden echt gut an mir aussehen, so ein großes Paar von...",
+   "us": false,
    "x": false
   },
   {
    "altSpellings": [
-    "Pythagorean Theorem",
-    "Pythagoras Theorem",
-    "Pithagorean Theorem",
-    "Pythagorean Theory",
-    "Pythagoran Theorem",
-    "Pithagoran Theorem",
-    "Pythagorean",
-    "The Pythagorean Theory",
-    "The Pythagrium Theorem",
-    "Pythagrium",
-    "Pythagrium Theorem",
-    "The Pythagoras Theorem"
+    "Satz des Pythagoras",
+    "Satz des Pytagoras",
+    "Satz Pythagoras",
+    "Satz Pytagoras",
+    "Der Satz des Pytagoras",
+    "Der Satz Pythagoras",
+    "Der Satz Pytagoras",
+    "Pythagorassatz",
+    "Pythagoras Satz",
+    "Pytagorassatz",
+    "Pytagoras Satz",
+    "Der Pythagorassatz",
+    "Der Pythagoras Satz",
+    "Der Pytagorassatz",
+    "Der Pytagoras Satz",
+    "Hypotenusensatz",
+    "Hypotenusen Satz",
+    "Der Hypotenusensatz",
+    "Der Hypotenusen Satz"
+
    ],
-   "answer": "The Pythagorean Theorem",
+   "answer": "Der Satz des Pythagoras",
    "category": "Math",
    "clues": [
     {
-     "clue": "Though associated with one particular mathematician, it could have been discovered as far back as 1900 BC.",
+     "clue": "Obwohl sie mit einem bestimmten Mathematiker in Verbindung gebracht wird, könnte sie bereits im Jahr 1900 v. Chr. entdeckt worden sein.",
      "clueComment": ""
     },
     {
-     "clue": "In fancy speak, the formula says that the square of the hypotenuse is equal to the sum of the squares of the other two sides.",
+     "clue": "Die Formel besagt, dass der Flächeninhalt des Hypotenusenquadrates gleich der Summe der Flächeninhalte der Kathetenquadrate ist.",
      "clueComment": ""
     },
     {
-     "clue": "The actual equation is: A squared + B squared = C squared.",
-     "clueComment": ""
+     "clue": "Auf Deutsch: A-Quadrat + B-Quadrat = C-Quadrat.",
+     "clueComment": "Auf Deutsch: A-Quadrat + B-Quadrat = C-Quadrat. Kommt schon, das ist kein Teufelswerk, sondern Mathe!"
     },
     {
-     "clue": "It’s used to calculate lots of stuff that has to do with triangles.",
-     "clueComment": "It’s used to calculate lots of stuff that has to do with triangles.... if you’re into triangles. Whatever."
+     "clue": "Die Formel wird dazu benutzt, um Dinge zu berechnen, die mit Dreiecken zu tun haben.",
+     "clueComment": "Die Formel wird dazu benutzt, um Dinge zu berechnen, die mit Dreiecken zu tun haben. Also wenn man sich für Dreiecke begeistern kann. Soll es ja auch geben... Freaks."
     }
    ],
    "followup": null,
    "id": "85069",
    "isValid": "",
-   "prompt": "Which mathematical formula am I thinking of?",
-   "reveal": "Did you think it was gonna be about circumference? Ha! Shows what you know!",
-   "us": true,
+   "prompt": "An welche mathematische Formel denke ich gerade?",
+   "reveal": "Dachtet ihr, es ginge um Umfang? Ha, ich bin doch immer für eine Überraschung gut!",
+   "us": false,
    "x": false
   },
   {
@@ -2172,69 +2205,88 @@
   },
   {
    "altSpellings": [
-    "croc shoes",
-    "croc clogs"
+    "Flip-Flop",
+    "Flip Flops",
+    "Flip Flop",
+    "Flipflops",
+    "Flipflop",
+    "Zehenstegsandalen",
+    "Zehensteg Sandalen",
+    "Zehen Stegsandalen",
+    "Zehen Steg Sandalen",
+    "Badesandalen",
+    "Bade Sandalen",
+    "Badelatschen",
+    "Bade Latschen",
+    "Badeschlappen",
+    "Bade Schlappen",
+    "Zehentanga",
+    "Zehen Tanga"
    ],
-   "answer": "Crocs",
+   "answer": "Flip-Flops",
    "category": "Fashion",
    "clues": [
     {
-     "clue": "Initially derided for their shape, more than 700 million pairs of these shoes have been sold worldwide.",
+     "clue": "Diese Art von Schuhen existiert seit über 3000 Jahren.",
+     "clueComment": "Diese Art von Schuhen existiert seit über 3000 Jahren. Ich wollte schon immer mal wissen, was Menschen daran finden."
+    },
+    {
+     "clue": "Allerdings handelt es sich nicht wirklich um Arbeitsschuhe, obwohl sie oftmals zum Schutz der Fußsohle benutzt werden.",
      "clueComment": ""
     },
     {
-     "clue": "Many owners like to decorate these shoes with small, snap-in decorations called Jibbitz.",
-     "clueComment": ""
+     "clue": "Dieses aus Plastik hergestellte Schuhwerk wird meist als luftige Sommersandale eingesetzt.",
+     "clueComment": "Dieses aus Plastik hergestellte Schuhwerk wird meist als luftige Sommersandale eingesetzt. Durchzug ist wichtig, sonst wird es schnell für alle Beteiligten unangenehm!"
     },
     {
-     "clue": "These goofy, clog-shaped shoes are made out of a foam material called Croslite.",
-     "clueComment": ""
-    },
-    {
-     "clue": "The logo of this shoe features a portrait of a smiling crocodile.",
+     "clue": "Der Name dieser Sandalen stammt von dem Geräusch, das sie beim Gehen machen.",
      "clueComment": ""
     }
    ],
-   "followup": null,
+   "followup": "Klar, das Rollen hat auch seine Vorteile... Aber man wird ja wohl noch träumen dürfen!",
    "id": "85175",
    "isValid": "",
-   "prompt": "If I had feet, what kind of shoes would I like to try on first?",
-   "reveal": "Strap in, folks, it's...",
-   "us": true,
+   "prompt": "Wenn ich Füße hätte, was für Schuhe würde ich als Erstes anprobieren?",
+   "reveal": null,
+   "us": false,
    "x": false
   },
   {
    "altSpellings": [
+    "Marie Sklodowska",
+    "Marie Sklodowska Curie",
+    "Maria Salomea Sklodowska",
     "Maria Sklodowska",
-    "Madame Curie",
-    "Curie"
+    "Frau Curie",
+    "Curie",
+    "Marie Kurie"
    ],
    "answer": "Marie Curie",
    "category": "Historical Figures",
    "clues": [
     {
-     "clue": "She was born on November 7, 1867 in Warsaw, Poland.",
+     "clue": "Sie wurde am 7. November 1867 in Warschau geboren.",
      "clueComment": ""
     },
     {
-     "clue": "She and her husband discovered the elements polonium and radium.",
+     "clue": "Sie und ihr Ehemann entdeckten die chemischen Elemente Polonium und Radium.",
      "clueComment": ""
     },
     {
-     "clue": "For her work, she was awarded the Nobel Prizes in Physics and Chemistry.",
+     "clue": "Für ihre Arbeit erhielt sie den Nobelpreis für Physik und Chemie.",
      "clueComment": ""
     },
     {
-     "clue": "The element Curium is named after her. Specifically her last name.",
-     "clueComment": ""
+     "clue": "Um sie zu ehren, wurde das Element Curium nach ihr benannt.",
+     "clueComment": "Um sie zu ehren, wurde das Element Curium nach ihr benannt. Oder genauer gesagt nach ihrem Nachnamen."
     }
    ],
-   "followup": "Is it different than the famous scientist you're thinking of? I mean, we're all thinking of famous scientists, aren't we?",
+   "followup": "Ist es ein anderer als der, an den ihr gerade denkt? Ich meine, wir denken doch alle an berühmte Wissenschaftler, oder täusche ich mich?",
    "id": "85198",
    "isValid": "",
-   "prompt": "What famous scientist am I thinking of?",
+   "prompt": "An welchen berühmten Wissenschaftler denke ich gerade?",
    "reveal": null,
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -2271,34 +2323,41 @@
   },
   {
    "altSpellings": [
-    "Oak tree"
+    "Eiche",
+    "Eichenbaum",
+    "Eichen Baum",
+    "Ein Eichenbaum",
+    "Ein Eichen Baum",
+    "Eichen",
+    "Die Eiche",
+    "Die Eichen"
    ],
-   "answer": "Oak",
+   "answer": "Eine Eiche",
    "category": "Science & Medicine",
    "clues": [
     {
-     "clue": "This common type of tree encompasses hundreds of different species.",
+     "clue": "Diese ziemlich häufig anzutreffende Baumart umfasst Hunderte von unterschiedlichen Arten.",
      "clueComment": ""
     },
     {
-     "clue": "This type of tree produces acorns! What a treat from such a tree!",
+     "clue": "Diese Art von Bäumen produziert Eicheln! Also falls ihr mal Hunger habt, wisst ihr wo ihr suchen müsst.",
      "clueComment": ""
     },
     {
-     "clue": "It's commonly used to make strong, sturdy furniture. And wine barrels.",
-     "clueComment": ""
+     "clue": "Das Holz dieser Baumart wird meist zur Herstellung besonders robuster Möbel oder Weinfässer hergestellt.",
+     "clueComment": "Das Holz dieser Baumart wird meist zur Herstellung besonders robuster Möbel hergestellt. Auch Fässer für die Lagerung von Alkohol wie Wein oder Whisky werden aus diesem Holz gemacht."
     },
     {
-     "clue": "Look, the name of this tree rhymes with \"joke,\" but I am not joking when I say that this tree is beautiful and nice.",
-     "clueComment": ""
+     "clue": "Okay, der Name des Baumes reimt sich auf “Streiche”.",
+     "clueComment": "Okay, der Name des Baumes reimt sich auf “Streiche”, aber ich mache keine Streiche, wenn ich sage, dass dieser Baum echt schön ist."
     }
    ],
    "followup": null,
    "id": "85453",
    "isValid": "",
-   "prompt": "What type of tree makes me say, “Ahh... that's a good tree”?",
-   "reveal": "I am deciduously an evergreen fan of this tree, and if you don't like it, you can LEAVE! Ah, I crack myself up.",
-   "us": true,
+   "prompt": "Welche majestätische Baumart entspannt mich schon beim Anschauen?",
+   "reveal": "Ich bin aus tiefster Wurzel ein Freund dieser Bäume.",
+   "us": false,
    "x": false
   },
   {
