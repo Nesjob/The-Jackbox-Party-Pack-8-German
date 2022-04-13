@@ -723,7 +723,7 @@
    ],
    "id": "76865",
    "isValid": "",
-   "prompt": "Ordne der Nation ihrer Flagge zu",
+   "prompt": "Ordne der Nation ihre Flagge zu",
    "promptHeader": "Nationalflaggen",
    "us": false,
    "x": false
@@ -839,7 +839,7 @@
    ],
    "id": "76867",
    "isValid": "",
-   "prompt": "Ordne dem Wort seinem Gegenteil zu",
+   "prompt": "Ordne dem Wort sein Gegenteil zu",
    "promptHeader": "Gegenteile",
    "us": false,
    "x": false
@@ -2715,7 +2715,7 @@
    ],
    "id": "78409",
    "isValid": "",
-   "prompt": "Ordne der Fernsehsendung dem Moderator zu",
+   "prompt": "Ordne der Fernsehsendung den Moderator zu",
    "promptHeader": "Fernsehmoderatoren",
    "us": false,
    "x": false
