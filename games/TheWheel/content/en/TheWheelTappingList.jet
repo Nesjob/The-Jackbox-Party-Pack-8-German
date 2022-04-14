@@ -141,7 +141,7 @@
      "text": "G"
     },
     {
-     "text": "K"
+     "text": "B"
     },
     {
      "text": "Z"
@@ -360,13 +360,13 @@
      "text": "Katze"
     },
     {
-     "text": "Taubenstellung"
+     "text": "Taube"
     }
    ],
    "category": "Anatomy",
    "decoys": [
     {
-     "text": "Storch"
+     "text": "Gürteltier"
     },
     {
      "text": "Biene"
@@ -939,7 +939,7 @@
      "text": "Winterrübling"
     },
     {
-     "text": "Zitzenschirmpilz"
+     "text": "Zitzen-Riesenschirmling"
     },
     {
      "text": "Erdschieber"
@@ -1365,7 +1365,7 @@
   {
    "answers": [
     {
-     "text": "[i]Wenn Liebe so einfach wäre[/i]"
+     "text": "[i]Wenn Liebe doch so einfach wär'[/i]"
     },
     {
      "text": "[i]Die Vorstadtkrokodile[/i]"
@@ -1380,7 +1380,7 @@
      "text": "[i]Nosferatu – Eine Symphonie des Grauens[/i]"
     },
     {
-     "text": "[i]Thor – The Dark Kingdom[/i]"
+     "text": "[i]Thor – The Dark World[/i]"
     },
     {
      "text": "[i]Das Boot[/i]"
@@ -1605,7 +1605,7 @@
      "text": "Zinnoberrot"
     },
     {
-     "text": "Permanentrot"
+     "text": "Ochsenblutrot"
     },
     {
      "text": "Feuerrot"
@@ -3113,7 +3113,7 @@
    ],
    "id": "77354",
    "isValid": "",
-   "prompt": "Was sind offizielle Pokémon Typen?",
+   "prompt": "Was sind offizielle Pokémon-Typen?",
    "us": false,
    "x": false
   },
@@ -3268,6 +3268,9 @@
     },
     {
      "text": "Wachtel"
+    },
+    {
+     "text": "Habicht"
     }
    ],
    "category": "Animals",
@@ -3276,10 +3279,7 @@
      "text": "Elster"
     },
     {
-     "text": "Habicht"
-    },
-    {
-     "text": "Erlenzeisig"
+     "text": "Seidensänger"
     },
     {
      "text": "Gimpel"
@@ -3972,7 +3972,7 @@
      "text": "Brown Eyed Girls"
     },
     {
-     "text": "Girls Generation"
+     "text": "Girls' Generation"
     },
     {
      "text": "Wonder Girls"
@@ -4605,7 +4605,7 @@
      "text": "[i]Die Frau des Nobelpreisträgers[/i]"
     },
     {
-     "text": "[i]Hillbilly-Elegie[/i]"
+     "text": "[i]Hillbilly Elegy[/i]"
     },
     {
      "text": "[i]Garp und wie er die Welt sah[/i]"
@@ -4692,7 +4692,7 @@
      "text": "Kolbenringe"
     },
     {
-     "text": "Nocken"
+     "text": "Nockenwelle"
     },
     {
      "text": "Zahnriemen"
@@ -4752,7 +4752,7 @@
      "text": "Perseus"
     },
     {
-     "text": "Tartaros"
+     "text": "Hyginus"
     },
     {
      "text": "Ares"
@@ -5151,7 +5151,7 @@
   {
    "answers": [
     {
-     "text": "Cote d'Azur, Frankreich"
+     "text": "Hamburg, Deutschland"
     },
     {
      "text": "Kapstadt, Südafrika"
@@ -5166,7 +5166,7 @@
      "text": "Los Cabos, Mexiko"
     },
     {
-     "text": "Yucatan, Mexiko"
+     "text": "Yucatán, Mexiko"
     }
    ],
    "category": "Film & TV",
@@ -5271,13 +5271,13 @@
      "text": "“Nothing Else Matters”"
     },
     {
-     "text": "“Ein Schwein Namens Männer”"
+     "text": "“Männer sind Schweine”"
     },
     {
      "text": "“Maschen-Draht-Zaun”"
     },
     {
-     "text": "“Killing Me Softly”"
+     "text": "“Paranoid Android”"
     }
    ],
    "category": "Music",
@@ -5961,7 +5961,7 @@
      "text": "Karbol-Champignon"
     },
     {
-     "text": "Lila-Dickfuß"
+     "text": "Lila Dickfuß"
     },
     {
      "text": "Fliegenpilz"
@@ -6201,19 +6201,19 @@
      "text": "Hormonsystem"
     },
     {
-     "text": "Atemtrakt"
+     "text": "Atmungssystem"
     },
     {
      "text": "Herz-Kreislauf-System"
     },
     {
-     "text": "Bewegungsapparat"
+     "text": "Bewegungssystem"
     },
     {
      "text": "Lymphatisches System"
     },
     {
-     "text": "Verdauungstrakt"
+     "text": "Verdauungssystem"
     },
     {
      "text": "Harnsystem"
@@ -6609,7 +6609,7 @@
      "text": "Thomas"
     },
     {
-     "text": "Matthäus, der Steuerpächter"
+     "text": "Matthäus, der (ehemalige) Steuerpächter"
     },
     {
      "text": "Jakobus, der Sohn des Alphäus"
@@ -6747,7 +6747,7 @@
      "text": "The Rolling Stones"
     },
     {
-     "text": "Die Beatles"
+     "text": "The Beatles"
     },
     {
      "text": "Joni Mitchell"
@@ -6837,7 +6837,7 @@
      "text": "“Bis ans Ende der Welt”"
     },
     {
-     "text": "”Stups der kleine Osterhase”"
+     "text": "”Stups, der kleine Osterhase”"
     },
     {
      "text": "“Menschenskinder”"
@@ -7470,7 +7470,7 @@
      "text": "Zitrone"
     },
     {
-     "text": "Totes Insekt"
+     "text": "Fliege"
     },
     {
      "text": "Tulpe"
@@ -7509,12 +7509,12 @@
      "text": "Regen"
     },
     {
-     "text": "Hase"
+     "text": "Til Schweiger"
     }
    ],
    "id": "78605",
    "isValid": "",
-   "prompt": "Bei welchen dieser Gegenstände handelt es sich um klassische [i]Vanitas[/i]-Bildsymbole?",
+   "prompt": "Bei welchen dieser Antworten handelt es sich um klassische [i]Vanitas[/i]-Bildsymbole?",
    "us": false,
    "x": false
   },
@@ -7908,7 +7908,7 @@
      "text": "Fisch"
     },
     {
-     "text": "Schalentier"
+     "text": "Schwefeldioxid"
     }
    ],
    "category": "Science & Medicine",
@@ -8082,7 +8082,7 @@
      "text": "Eldfell"
     },
     {
-     "text": "Thera"
+     "text": "Campi Flegrei"
     }
    ],
    "category": "Geography & Landmarks",
@@ -8556,7 +8556,7 @@
      "text": "Dysprosium"
     },
     {
-     "text": "Didym"
+     "text": "Neodym"
     }
    ],
    "category": "Science & Medicine",
@@ -8751,7 +8751,7 @@
      "text": "Yogi Bär"
     },
     {
-     "text": "Jerry Maus"
+     "text": "Jerry"
     },
     {
      "text": "Quickdraw McGraw"
@@ -8916,7 +8916,7 @@
      "text": "Foxtrott"
     },
     {
-     "text": "Quickstepp"
+     "text": "Boogie-Woogie"
     },
     {
      "text": "Samba"
@@ -10434,7 +10434,7 @@
      "text": "Turkey"
     },
     {
-     "text": "Fallraum"
+     "text": "Return"
     },
     {
      "text": "Strike"
@@ -10830,7 +10830,7 @@
      "text": "Fennek"
     },
     {
-     "text": "Löffelhund"
+     "text": "Swiftfuchs"
     },
     {
      "text": "Graufuchs"
@@ -11817,7 +11817,7 @@
      "text": "Garnele"
     },
     {
-     "text": "Krill"
+     "text": "Antarktischer Krill"
     }
    ],
    "category": "Animals",
@@ -11843,7 +11843,7 @@
    ],
    "id": "80311",
    "isValid": "",
-"prompt": "Wobei handelt es sich um Krebstiere?",
+   "prompt": "Wobei handelt es sich um Krebstiere?",
    "us": false,
    "x": false
   },
@@ -12090,10 +12090,10 @@
      "text": "Vitamin C (Ascorbinsäure)"
     },
     {
-     "text": "Vitamin E (Alpha-Tocopherol)"
+     "text": "Vitamin E (Tocopherol)"
     },
     {
-     "text": "Vitamin K (Phyllochinon)"
+     "text": "Vitamin K1 (Phyllochinon)"
     }
    ],
    "category": "Factoids",
@@ -12798,16 +12798,16 @@
      "text": "“My Beloved Monster” - Eels"
     },
     {
-     "text": "“Hallelujah” (Cover) - Rufus Wainwright"
+     "text": "“Hallelujah” - Rufus Wainwright"
     },
     {
      "text": "“You Belong To Me“ - Jason Wade"
     },
     {
-     "text": "“The Best Years of Our Lives“ - Baha Men"
+     "text": "“Best Years of Our Lives“ - Baha Men"
     },
     {
-     "text": "“I'm A Believer“ (Cover) - Smashmouth"
+     "text": "“I'm A Believer“ - Smash Mouth"
     }
    ],
    "category": "Music",
@@ -13059,7 +13059,7 @@
      "text": "Kamtschatka"
     },
     {
-     "text": "Argentinen"
+     "text": "Argentinien"
     },
     {
      "text": "Kongo"
@@ -13296,7 +13296,7 @@
      "text": "Ricky Martin"
     },
     {
-     "text": "Santana"
+     "text": "Millie"
     },
     {
      "text": "Jennifer Lopez"
@@ -13308,7 +13308,7 @@
      "text": "Marc Anthony"
     },
     {
-     "text": "Gloria Estefan"
+     "text": "Chayanne"
     },
     {
      "text": "Shakira"
@@ -13452,7 +13452,7 @@
      "text": "Bekämpfen der Samosischen Hähne"
     },
     {
-     "text": "Stehlen des letzten Granatapfel der Hera"
+     "text": "Stehlen des letzten Granatapfels der Hera"
     }
    ],
    "id": "82698",
@@ -13473,7 +13473,7 @@
      "text": "Impa"
     },
     {
-     "text": "Shiek"
+     "text": "Vaati"
     },
     {
      "text": "Ganondorf"
@@ -13884,7 +13884,7 @@
       "text": "Wurzelerde"
     },
     {
-      "text": "Karmsein-Nezel"
+      "text": "Karmesin-Nezel"
     },
     {
       "text": "Wirrbretter"
@@ -14322,7 +14322,7 @@
      "text": "[i]Der Mann mit dem Platin-Colt[/i]"
     },
     {
-     "text": "[i]Ein Blick zum sterben[/i]"
+     "text": "[i]Ein Blick zum Sterben[/i]"
     },
     {
      "text": "[i]Alles hat ein Ende[/i]"
@@ -14751,13 +14751,13 @@
      "text": "Mango"
     },
     {
-     "text": "Kiwi"
+     "text": "Rote Johannisbeere"
     },
     {
-     "text": "Kirsch-Banane"
+     "text": "Pfirsich"
     },
     {
-     "text": "Orange"
+     "text": "Limette"
     },
     {
      "text": "Waldfrucht"
@@ -14769,7 +14769,7 @@
      "text": "Spekulatius"
     },
     {
-     "text": "Johannisbeere"
+     "text": "Orange"
     },
     {
      "text": "Vanille"
@@ -14880,7 +14880,7 @@
      "text": "Erdbeere"
     },
     {
-     "text": "À la gebrannte Mandel"
+     "text": "À la gebrannte Mandeln"
     }
    ],
    "category": "Food & Drink",
@@ -15642,7 +15642,7 @@
      "text": "Stark"
     },
     {
-     "text": "Lennister"
+     "text": "Lannister"
     },
     {
      "text": "Baratheon"
@@ -16128,7 +16128,7 @@
      "text": "Dogleg"
     },
     {
-     "text": "Albatross"
+     "text": "Albatros"
     },
     {
      "text": "Dackeltöter"
@@ -16305,7 +16305,7 @@
      "text": "Material zur Wundversorgung"
     },
     {
-     "text": "Kopfbedeckung"
+     "text": "Unterwäsche"
     }
    ],
    "category": "Factoids",
@@ -16980,7 +16980,7 @@
      "text": "Sternennacht"
     },
     {
-     "text": "Getreidefeld mit Raben"
+     "text": "Krähen über Weizenfeld"
     },
     {
      "text": "Vase mit Kornblumen und Klatschmohn"
@@ -17727,7 +17727,7 @@
         "text": "-17"
        },
        {
-        "text": "81"
+        "text": "42"
        },
        {
         "text": "0,33"
@@ -17807,10 +17807,10 @@
      "text": "Kiddy Kong"
     },
     {
-     "text": "Funky Kong"
+     "text": "Lanky Kong"
     },
     {
-     "text": "Swanky Kong"
+     "text": "Wrinkly Kong"
     }
    ],
    "category": "Games",
@@ -18152,7 +18152,7 @@
      "text": "Syrakus"
     },
     {
-     "text": "Ägina"
+     "text": "Massilia"
     },
     {
      "text": "Rhodos"
@@ -18251,7 +18251,7 @@
    "id": "86376",
    "isValid": "",
    "prompt": "Welche dieser Paraden haben wirklich in New York stattgefunden?",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -19598,30 +19598,6 @@
   {
    "answers": [
     {
-     "text": "Erdbeere"
-    },
-    {
-     "text": "Himbeere"
-    },
-    {
-     "text": "Brombeere"
-    },
-    {
-     "text": "Holunderbeere"
-    },
-    {
-     "text": "Vogelbeere"
-    },
-    {
-     "text": "Wacholderbeere"
-    },
-    {
-     "text": "Kirsche"
-    }
-   ],
-   "category": "Factoids",
-   "decoys": [
-    {
      "text": "Heidelbeere"
     },
     {
@@ -19640,9 +19616,30 @@
      "text": "Avocado"
     }
    ],
+   "category": "Factoids",
+   "decoys": [
+    {
+     "text": "Erdbeere"
+    },
+    {
+     "text": "Himbeere"
+    },
+    {
+     "text": "Brombeere"
+    },
+    {
+     "text": "Vogelbeere"
+    },
+    {
+     "text": "Kirsche"
+    },
+    {
+     "text": "Walnuss"
+    }
+   ],
    "id": "86547",
    "isValid": "",
-   "prompt": "Bei welchen dieser Pflanzen handelt es sich im Sinne der Botanik NICHT um [i]Beeren[/i]?",
+   "prompt": "Bei welchen dieser Pflanzen handelt es sich im Sinne der Botanik um [i]Beeren[/i]?",
    "us": false,
    "x": false
   },
