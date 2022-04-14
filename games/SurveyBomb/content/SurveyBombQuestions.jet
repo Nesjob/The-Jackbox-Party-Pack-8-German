@@ -8759,7 +8759,7 @@
    "question": "Du bist spät dran! Was machst du noch bevor du eilig die Wohnung verlässt??",
    "questionShort": "abgekürzte Morgenroutine",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8783,7 +8783,7 @@
    "question": "Was würdest du am liebsten ausfallen lassen?",
    "questionShort": "Events ausfallen lassen",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8805,7 +8805,7 @@
    "question": "Du bist im Kaufland. Was sorgt dafür, dass du viel zu viel Geld ausgibst?",
    "questionShort": "Kaufland Extras",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8827,7 +8827,7 @@
    "question": "Mit welcher Bestellung überzeugst du den Barmann davon, dass du ein guter Kunde bist?",
    "questionShort": "einfache Drinks",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -8849,7 +8849,7 @@
    "question": "Du stehst in der Merchecke nach einem Konzert deiner Lieblingsband. Was kaufst du dir?",
    "questionShort": "Bestes Band Merch",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8873,7 +8873,7 @@
    "question": "Wenn du durch einen Fluch in ein Fahrzeug verwandelt werden würdest- welches wäre dir am liebsten?",
    "questionShort": "Die Motormorphose",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8897,7 +8897,7 @@
    "question": "Mutti hat gesagt du kannst dir nur ein paar Sachen von der Buchmesse mitbringen. Für was entscheidest du dich?",
    "questionShort": "ermessene Buchmesse",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8919,7 +8919,7 @@
    "question": "Zeit für ein Bad! Was gehört dazu?",
    "questionShort": "Badezeit!!",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8941,7 +8941,7 @@
    "question": "Du siehst einen Kerl! Du kennst ihn! Wie sprichst du ihn an?",
    "questionShort": "Spitznamen für Bekannte",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8963,7 +8963,7 @@
    "question": "Dein Film MUSS einen Oscar gewinnen. Wie stellst du das sicher?",
    "questionShort": "Garantierter Oscar Gewinn",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -8985,7 +8985,7 @@
    "question": "Im Büro gibt's viele Tassen? Welche schnappst du dir?",
    "questionShort": "beste Bürotassen",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9007,7 +9007,7 @@
    "question": "Welcher Name für deine Oma ist am beknacktesten?",
    "questionShort": "Omanamen",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9029,7 +9029,7 @@
    "question": "Wo ist der beste Ort für ein Nickerchen?",
    "questionShort": "beste Nickerchen Orte",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9051,7 +9051,7 @@
    "question": "Welches Symbol hat die meiste *Persönlichkeit*?",
    "questionShort": "Symbol Kampf",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9073,7 +9073,7 @@
    "question": "Es ist 2 Uhr Nachts, warum bist du noch wach?",
    "questionShort": "Nachtaktivitäten",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -9095,7 +9095,7 @@
    "question": "Kreiere einen skurrilen Hintergrund für deine Videocalls.",
    "questionShort": "Videocallhintergrund",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9119,7 +9119,7 @@
    "question": "Du bist so besonders und elegant! Stelle ein Käsebrett zusammen, das es beweist.",
    "questionShort": "Käsebrettern",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9141,7 +9141,7 @@
    "question": "Du Schlafwandelst! Wo WILLST du aufwachen?",
    "questionShort": "bester Ort zum Aufwachen",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9163,7 +9163,7 @@
    "question": "Streichzeit! Streichzeit! Wie legst du deine Freunde rein?",
    "questionShort": "Beste Streiche",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9185,7 +9185,7 @@
    "question": "Du bist in einem Töpferladen und darfst etwas anmalen! Für was entscheidest du dich?",
    "questionShort": "Töpferware anmalen'",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9207,7 +9207,7 @@
    "question": "Wir vergeben heute Jahrbuch-Titel! Welchen willst du?",
    "questionShort": "Jahrbuch-Titel",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9224,7 +9224,7 @@
    "question": "Du gehst in die Politik! Wer ist noch in deiner Partei?",
    "questionShort": "Ab in die Politik!",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9246,7 +9246,7 @@
    "question": "Erstelle den perfekten Planeten!",
    "questionShort": "perfekter Planet",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9268,7 +9268,7 @@
    "question": "Die Sache in die du definitiv NICHT reinbeißen willst?",
    "questionShort": "schlimmster Biss",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9292,7 +9292,7 @@
    "question": "Wie sollte der Atem deines Partners riechen?",
    "questionShort": "Mmmh, frischer Atem",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9314,7 +9314,7 @@
    "question": "Du bekommst auf einem Roadtrip mit deinen Freunden das Auxkabel! Was spielst du?",
    "questionShort": "Auxkabel Entscheidungen",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9337,10 +9337,10 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Du wachst in einer Fantasywelt auf! Wer begleitet dich auf deiner Reise? ",
+   "question": "Du wachst in einer Fantasywelt auf! Wer begleitet dich auf deiner Reise?",
    "questionShort": "Fantasy Reisekumpanen",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9354,7 +9354,7 @@
     "gruseliges Monster",
     "nette Oma",
     "Graf Dracula",
-    "Italienischer Klemptner ",
+    "Italienischer Klempner",
     "Arnold Schwarzenegger",
     "Borat"
    ],
@@ -9365,7 +9365,7 @@
    "question": "Welchen Charakter kannst du am besten nachmachen...sogar sofort?",
    "questionShort": "deine beste Stimme",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9373,7 +9373,7 @@
    "choices": [
     "\"das ist die Prophezeiung\"",
     "\"High Five!\"",
-    "\"mein Arzt hat mich ein gebrochenes Herz verschrieben\"",
+    "\"mein Arzt hat mir ein gebrochenes Herz verschrieben\"",
     "\"neues Level!\"",
     "\"Die Küsschen waren sehr nett\"",
     "*trauriges Trompeten Geräusch*",
@@ -9387,7 +9387,7 @@
    "question": "Beste Sache, die man sagen kann nachdem man einen öffentlichen Heiratsantrag abgelehnt hat...",
    "questionShort": "Smoothe Ablehnung",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9410,7 +9410,7 @@
    "question": "Wie sollte ein Feueralarm klingen?",
    "questionShort": "Bester Feueralarm",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9432,14 +9432,14 @@
    "question": "Lasst uns das klarstellen...was ist das lustigste Pannenvideo?",
    "questionShort": "lustigste Pannen",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
    "category": "hypothetical",
    "choices": [
     "{{PLAYERS}}",
-    "Elyas M'barek",
+    "Elyas M'Barek",
     "Mario Barth"
    ],
    "id": "82661",
@@ -9449,7 +9449,7 @@
    "question": "Wenn euer Team eine Piratencrew wäre...wer würde am ehesten den Käpt'n stürzen?",
    "questionShort": "Piratenverrat",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9466,7 +9466,7 @@
    "question": "Wer kommt am ehesten zu spät wenn ein soziales Event ansteht?",
    "questionShort": "immer zu spät dran",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9485,10 +9485,10 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Mit welchem gericht würdest du dich auf einem Date am meisten einsauen?",
+   "question": "Mit welchem Gericht würdest du dich auf einem Date am meisten einsauen?",
    "questionShort": "Date Gerichte",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9505,7 +9505,7 @@
    "question": "Du sitzt in der Schule und die Stunde ist endlich um! Wer erinnert den Lehrer am ehesten an die Hausaufgaben?",
    "questionShort": "Streber",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9527,7 +9527,7 @@
    "question": "Werde Brot! Aber welche Sorte?",
    "questionShort": "Du bist Brot",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -9549,7 +9549,7 @@
    "question": "Ein Flaschengeist gönnt dir ein paar Wünsche. Schnell, entscheide dich für etwas, bevor er es sich anders überlegt!",
    "questionShort": "Wünsche",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9577,7 +9577,7 @@
    "question": "Es ist 2006 und du bist im Einkaufszentrum. Wohin gehst du zuerst?",
    "questionShort": "beste Einkaufszentrumläden",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
