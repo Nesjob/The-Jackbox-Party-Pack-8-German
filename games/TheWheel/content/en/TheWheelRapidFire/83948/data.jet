@@ -1,0 +1,47 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "A",
+      "v": "intro",
+      "n": "IntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "Welcher [i]Fast and Furious[/i]-Film zeigt die neueren Ereignisse in der Serie?"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFollowupAudio"
+    },
+    {
+      "t": "A",
+      "v": "followup",
+      "n": "FollowupAudio",
+      "s": "Denkt dran, es geht NICHT um das Erscheinungsdatum der Filme. Es geht um die chronologische Reihenfolge der Ereignisse."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "A",
+      "v": "outro",
+      "n": "OutroAudio",
+      "s": "Ich liebe diese Filme genauso sehr wie Vin Diesel es liebt, in lauen Sommernächten bleifreies Benzin zu trinken. Das heißt, ich mag sie richtig doll."
+    }
+  ]
+}

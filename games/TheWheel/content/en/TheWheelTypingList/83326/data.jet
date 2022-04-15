@@ -1,0 +1,188 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "A",
+      "v": "intro",
+      "n": "IntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "Die 15 gruseligsten Ballsportarten"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio0"
+    },
+    {
+      "t": "A",
+      "v": "answers_0_hint",
+      "n": "ClueAudio0",
+      "s": "Nicht mal im Wasser ist man heutzutage noch sicher..."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio4"
+    },
+    {
+      "t": "A",
+      "v": "answers_4_hint",
+      "n": "ClueAudio4",
+      "s": "Ist jemand von euch Arzt? Die spielen diese Sportart anscheinend sehr gerne..."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio5"
+    },
+    {
+      "t": "A",
+      "v": "answers_5_hint",
+      "n": "ClueAudio5",
+      "s": "Was meine größte Angst ist? Von einem riesigen Stab in ein Loch geschubst zu werden!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio6"
+    },
+    {
+      "t": "A",
+      "v": "answers_6_hint",
+      "n": "ClueAudio6",
+      "s": "Nachts wache ich manchmal schweißgebadet auf, weil ich von diesen SCHLÄGER-Typen geträumt habe."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio9"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio10"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio11"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio12"
+    },
+    {
+      "t": "A",
+      "v": "answers_12_hint",
+      "n": "ClueAudio12",
+      "s": "Würde ich mich nicht so davor fürchten, wäre ich aufgrund meiner Größe in dieser Sportart wohl gar nicht so schlecht."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio13"
+    },
+    {
+      "t": "A",
+      "v": "answers_13_hint",
+      "n": "ClueAudio13",
+      "s": "Bei dieser Sportart könnte ich nur Kopfbälle spielen. Ich habe jetzt schon Kopfschmerzen..."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio14"
+    },
+    {
+      "t": "A",
+      "v": "answers_14_hint",
+      "n": "ClueAudio14",
+      "s": "Diese Sportart ist nicht nur sehr gruselig, sondern auch noch sehr diskriminierend, schließlich habe ich gar keine Hände."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio15"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio16"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio17"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio18"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio19"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasFollowupAudio"
+    },
+    {
+      "t": "A",
+      "v": "followup",
+      "n": "FollowupAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "A",
+      "v": "outro",
+      "n": "OutroAudio",
+      "s": "Ja, ich glaube, das Geheimnis ist raus. Ich bin kein besonders großer Fan von Ballsport."
+    }
+  ]
+}

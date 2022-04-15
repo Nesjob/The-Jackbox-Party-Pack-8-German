@@ -19,7 +19,7 @@
       "t": "A",
       "v": "prompt",
       "n": "PromptAudio",
-      "s": "Bei welchen dieser Pflanzen handelt es sich im Sinne der Botanik NICHT um [i]Beeren[/i]?"
+      "s": "Bei welchen dieser Pflanzen handelt es sich im Sinne der Botanik um [i]Beeren[/i]?"
     },
     {
       "t": "B",

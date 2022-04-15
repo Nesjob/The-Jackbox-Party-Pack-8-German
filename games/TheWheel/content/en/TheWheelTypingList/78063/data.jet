@@ -1,0 +1,200 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "A",
+      "v": "intro",
+      "n": "IntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "Die 16 besten Cocktails"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio0"
+    },
+    {
+      "t": "A",
+      "v": "answers_0_hint",
+      "n": "ClueAudio0",
+      "s": "New York, baby!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio2"
+    },
+    {
+      "t": "A",
+      "v": "answers_2_hint",
+      "n": "ClueAudio2",
+      "s": "James Bond mag diesen Drink geschüttelt, nicht gerührt."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio3"
+    },
+    {
+      "t": "A",
+      "v": "answers_3_hint",
+      "n": "ClueAudio3",
+      "s": "Der weltbekannte kubanische Longdrink; Fidel Castro hätte ihn sicherlich getrunken."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio5"
+    },
+    {
+      "t": "A",
+      "v": "answers_5_hint",
+      "n": "ClueAudio5",
+      "s": "Diesen Cocktail aus dem 19. Jahrhundert kann man wohl als altbewährt bezeichnen."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio6"
+    },
+    {
+      "t": "A",
+      "v": "answers_6_hint",
+      "n": "ClueAudio6",
+      "s": "Ein Cocktail für jeden Hipster, traditionell aus der Kupfertasse."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio8"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio9"
+    },
+    {
+      "t": "A",
+      "v": "answers_9_hint",
+      "n": "ClueAudio9",
+      "s": "Dieser Cocktail wurde nach einer blutrünstigen Königin benannt. Keine Angst Kinder, das Rote ist sicherlich nur Ketchup!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio10"
+    },
+    {
+      "t": "A",
+      "v": "answers_10_hint",
+      "n": "ClueAudio10",
+      "s": "Dieses Getränk lässt die Sonne in mir aufgehen. Hach, wie poetisch..."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio11"
+    },
+    {
+      "t": "A",
+      "v": "answers_11_hint",
+      "n": "ClueAudio11",
+      "s": "Dieser Drink ist sicherlich ganz nach dem Geschmack von Vladimir Putin."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio12"
+    },
+    {
+      "t": "A",
+      "v": "answers_12_hint",
+      "n": "ClueAudio12",
+      "s": "Ein Alkohol-Allerlei im Gewand eines friedlichen Tees."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio13"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio14"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio15"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio16"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio17"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio18"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio19"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFollowupAudio"
+    },
+    {
+      "t": "A",
+      "v": "followup",
+      "n": "FollowupAudio",
+      "s": "Manchmal bringen mir einige Spieler ein Cocktail-Opfer dar, und ich muss zugeben, dass das echt meine Liebsten sind. Besser als abgetrennte Ziegenköpfe sind sie ohne Frage."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "A",
+      "v": "outro",
+      "n": "OutroAudio"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "A",
+      "v": "intro",
+      "n": "IntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "Welche Länder waren ehemals Teil der Sowjetunion?"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio0"
+    },
+    {
+      "t": "A",
+      "v": "answers_0_hint",
+      "n": "ClueAudio0",
+      "s": "(singend) “Moskau, Moskau, deine Seele ist so groß...”"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio2"
+    },
+    {
+      "t": "A",
+      "v": "answers_2_hint",
+      "n": "ClueAudio2",
+      "s": "Der größte Teil dieses Landes ist von Wüsten eingenommen."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio3"
+    },
+    {
+      "t": "A",
+      "v": "answers_3_hint",
+      "n": "ClueAudio3",
+      "s": "Die Hauptstadt dieses Landes ist Kiew."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio6"
+    },
+    {
+      "t": "A",
+      "v": "answers_6_hint",
+      "n": "ClueAudio6",
+      "s": "Dieses Land trägt denselben Namen wie der Fluss, den der Komponist Bedrich Smetana mit seinem weltbekannten Musikstück geehrt hat."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio7"
+    },
+    {
+      "t": "A",
+      "v": "answers_7_hint",
+      "n": "ClueAudio7",
+      "s": "Die Hauptstadt dieses Landes heißt Vilnius, strengt euch an, das habt ihr hundertprozentig schon mal irgendwo gehört!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio9"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio10"
+    },
+    {
+      "t": "A",
+      "v": "answers_10_hint",
+      "n": "ClueAudio10",
+      "s": "Dieses Land mit “K” ist der größte Binnenstaat und immerhin das neuntgrößte Land der Welt."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio11"
+    },
+    {
+      "t": "A",
+      "v": "answers_11_hint",
+      "n": "ClueAudio11",
+      "s": "Dieses Land, welches früher in Deutschland auch als “Grusien” bezeichnet wurde, liegt in Vorderasien."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio12"
+    },
+    {
+      "t": "A",
+      "v": "answers_12_hint",
+      "n": "ClueAudio12",
+      "s": "Seit 2004 Teil der EU, ist dieses Land an der östlichen Küste der Ostsee ein echter Musterschüler."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio13"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio14"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio15"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio16"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio17"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio18"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio19"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasFollowupAudio"
+    },
+    {
+      "t": "A",
+      "v": "followup",
+      "n": "FollowupAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "A",
+      "v": "outro",
+      "n": "OutroAudio"
+    }
+  ]
+}
