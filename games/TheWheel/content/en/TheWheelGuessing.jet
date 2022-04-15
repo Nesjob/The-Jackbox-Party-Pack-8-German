@@ -782,7 +782,8 @@
   },
   {
    "altSpellings": [
-    "Starlight"
+    "Starlight",
+    "Starlight Express"
    ],
    "answer": "[i]Starlight Express[/i]",
    "category": "Theatre/Performing Arts",
@@ -827,7 +828,7 @@
     "gut durchgebraten",
     "gar"
    ],
-   "answer": "durchgebraten/well done",
+   "answer": "durchgebraten / well done",
    "category": "Food & Drink",
    "clues": [
     {
@@ -1160,7 +1161,7 @@
    "followup": "Es ist schon eine Herausforderung, aber ich denke sie können mir da gut helfen!",
    "id": "81928",
    "isValid": "",
-   "prompt": "Welche Fashion-Marke wird mir bei meinem zukünftigen Merch-Design mithelfen?",
+   "prompt": "Welche Fashion-Marke wird mir bei meinem zukünftigen Merch-Design helfen?",
    "reveal": null,
    "us": false,
    "x": false
@@ -1236,7 +1237,7 @@
    "isValid": "",
    "prompt": "An welches einzigartige Fahrzeug denke ich?",
    "reveal": null,
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1310,7 +1311,7 @@
    "id": "81995",
    "isValid": "",
    "prompt": "In welchem Monat wurde ich geboren?",
-   "reveal": "Kauft mir schon mal Geschenke, denn...",
+   "reveal": "Kauft mir schon mal Geschenke, denn es ist im...",
    "us": false,
    "x": false
   },
@@ -1388,7 +1389,7 @@
    "isValid": "",
    "prompt": "Von welchem Autor stammen einige meiner Lieblingsbücher?",
    "reveal": "Ihr kennt ihn alle...",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1429,7 +1430,7 @@
    "isValid": "",
    "prompt": "Welcher griechische Gott ist, zugegebenermaßen, eine ziemlich harte Nuss?",
    "reveal": null,
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1552,7 +1553,7 @@
    "isValid": "",
    "prompt": "Ich war vor einigen Tagen auf der Feier eines Bekannten. Was für eine Art von Feier war es?",
    "reveal": "Das anschließende Auffegen des ganzen Chaos durch das Brautpaar gilt als symbolische Vorbereitung auf das Elend der Ehe. Oder so...",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1756,7 +1757,7 @@
    "isValid": "",
    "prompt": "Welche Sängerin ist so legendär wie ich?",
    "reveal": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2569,7 +2570,7 @@
    "id": "85678",
    "isValid": "",
    "prompt": "Welchen Einkaufsladen besuche ich wohl mit am häufigsten?",
-   "reveal": "Da stecken jetzt keine großen Gefühle hinter, er ist halt am nahsten. Außerdem habe ich eine so empfindliche Mischhaut.",
+   "reveal": "Da stecken jetzt keine großen Gefühle hinter, er ist halt direkt nebenan. Außerdem habe ich eine so empfindliche Mischhaut.",
    "us": false,
    "x": false
   },
