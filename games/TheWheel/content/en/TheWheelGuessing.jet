@@ -415,9 +415,11 @@
   },
   {
    "altSpellings": [
+    "Graf Dracula",
+    "Drakula",
     "Graf Drakula"
    ],
-   "answer": "Drakula",
+   "answer": "Dracula",
    "category": "Literature",
    "clues": [
     {
@@ -816,38 +818,45 @@
   },
   {
    "altSpellings": [
-    "wheel done"
+    "well done",
+    "welldone",
+    "durchgebraten",
+    "gut durch",
+    "durch",
+    "bien cuit",
+    "gut durchgebraten",
+    "gar"
    ],
-   "answer": "Well Done",
+   "answer": "durchgebraten/well done",
    "category": "Food & Drink",
    "clues": [
     {
-     "clue": "Internal temperature is 160 degrees Fahrenheit.",
-     "clueComment": "Internal temperature is 160 degrees Fahrenheit. That's 71 Celsius for... well, most of you humans."
+     "clue": "Die Innentemperatur des Steaks beträgt dabei rund 70 °C.",
+     "clueComment": "Die Innentemperatur des Steaks beträgt dabei rund 70 °C. Das ist immerhin das doppelte der normalen Körpertemperatur von euch Menschen."
     },
     {
-     "clue": "Cooking takes six and a half minutes per side.",
+     "clue": "Die Garzeit beträgt sechseinhalb Minuten pro Seite.",
+     "clueComment": "Die Garzeit beträgt Pi mal Daumen sechseinhalb Minuten pro Seite."
+    },
+    {
+     "clue": "Die Farbe des Fleisches ist meist Braun.",
      "clueComment": ""
     },
     {
-     "clue": "Center color is mostly brown.",
+     "clue": "Das Steak sollte relativ fest sein.",
+     "clueComment": "Das Steak sollte relativ fest sein. MEINER Meinung nach, okay? Wenn ihr auf matschige Steaks steht, bitte, tut euch keinen Zwang an!"
+    },
+    {
+     "clue": "Zusammengefasst, auf meinen Teller kommt nichts Halbgares!",
      "clueComment": ""
-    },
-    {
-     "clue": "The steak should be quite firm.",
-     "clueComment": "The steak should be quite firm. In my OPINION, okay? You want a squishy steak, be my guest."
-    },
-    {
-     "clue": "You say this when somebody does a good job.",
-     "clueComment": "You say this when somebody does a good job. Will I say it to you? Remains to be seen."
     }
    ],
-   "followup": "Hey, you want to honor me with a steak sacrifice? Yeah? Well, pay attention.",
+   "followup": "Hey, DU willst mir beim nächsten Mal ein Steak-Opfer darreichen? Dann schreib jetzt besser mit.",
    "id": "81905",
    "isValid": "",
-   "prompt": "How do I like my steak done?",
-   "reveal": "",
-   "us": true,
+   "prompt": "Wie mag ich mein Steak am liebsten?",
+   "reveal": null,
+   "us": false,
    "x": false
   },
   {
@@ -1306,35 +1315,40 @@
    "x": false
   },
   {
-   "altSpellings": [],
-   "answer": "Pearl Jam",
+   "altSpellings": [
+       "AC-DC",
+       "ACDC",
+       "AC DC",
+       "A C D C"
+   ],
+   "answer": "AC/DC",
    "category": "Pop Culture",
    "clues": [
     {
-     "clue": "It's a band that was founded in 1990.",
+     "clue": "Es handelt sich um eine Band, die im Jahre 1973 gegründet wurde.",
      "clueComment": ""
     },
     {
-     "clue": "The lead singer has confirmed that the first part of the band's name is the same as his grandmother's.",
+     "clue": "Die australische Hard-Rock-Band hat weltweit schon über 200 Millionen Platten verkauft.",
+     "clueComment": "Die gesuchte australische Hard-Rock-Band hat weltweit schon über 200 Millionen Platten verkauft. Warum sagt man eigentlich Platten, wir reden doch nicht von Schallplatten, oder? Sind wir in der Steinzeit?!"
+    },
+    {
+     "clue": "Wirklich bekannt wurde diese Band erst 1979 mit dem Album [i]Highway to Hell[/i].",
      "clueComment": ""
     },
     {
-     "clue": "Some of their famous songs include “Jeremy,” “Black,” and “Even Flow.”",
-     "clueComment": ""
+     "clue": "Der Name dieser Band entspricht der englischen Abkürzung für Wechsel- und Gleichstrom.",
+     "clueComment": "Der Name dieser Band entspricht der englischen Abkürzung für Wechsel- und Gleichstrom. Das erklärt auch den Blitz im Logo dieser Band."
     },
     {
-     "clue": "You might know their lead singer as Eddie Vedder.",
-     "clueComment": ""
-    },
-    {
-     "clue": "The name reminds me of spreading a valuable gemstone jelly on a piece of toast.",
-     "clueComment": ""
+     "clue": "Ihr kennt die Abkürzungen? [i]AC[/i] für Wechselstrom und [i]DC[/i] für Gleichstrom.",
+     "clueComment": "Ihr kennt die Abkürzungen für Gleichstrom und Wechselstrom? [i]AC[/i] für Wechselstrom und [i]DC[/i] für Gleichstrom. Schon mal gehört?"
     }
    ],
-   "followup": null,
+   "followup": "Was?! Auch ein Gott darf Fan von etwas sein.",
    "id": "81998",
    "isValid": "",
-   "prompt": "Who was I REALLY into in the 1990s?",
+   "prompt": "Auf wen war ich in den 1980er-Jahren WIRKLICH scharf?",
    "reveal": null,
    "us": true,
    "x": false
@@ -1497,76 +1511,90 @@
   },
   {
    "altSpellings": [
-    "Hook",
-    "Captain James Hook",
-    "James Hook"
+    "Der Polterabend",
+    "Ein Polterabend",
+    "Polter Abend",
+    "Ein Polter Abend",
+    "Der Polter Abend",
+    "Polternacht",
+    "Polter Nacht",
+    "Die Polternacht",
+    "Die Polter Nacht",
+    "Eine Polternacht",
+    "Eine Polter Nacht"
    ],
-   "answer": "Captain Hook",
-   "category": "Literature",
+   "answer": "Polterabend",
+   "category": "Factoids",
    "clues": [
     {
-     "clue": "This is a fictional villain who REALLY hates a kid.",
-     "clueComment": ""
+     "clue": "Das Ziel war es, böse Geister zu vertreiben.",
+     "clueComment": "Das Ziel war es, böse Geister zu vertreiben. Auch wenn ich als Gottheit darüber natürlich nur lachen kann!"
     },
     {
-     "clue": "They had an unforgettable encounter with a reptile at some point.",
-     "clueComment": ""
+     "clue": "Sie haben wenige Tage später geheiratet.",
+     "clueComment": "Sie, also meine Bekannten, haben wenige Tage später geheiratet."
     },
     {
-     "clue": "They even have a military title!",
-     "clueComment": ""
+     "clue": "Wir sollten alle altes Geschirr mitbringen.",
+     "clueComment": "Wir sollten alle altes Geschirr mitbringen. Ich habe einfach irgendeinen alten Kelch mitgenommen, den ich glaube irgendwann im 12. Jahrhundert mal gefunden habe."
     },
     {
-     "clue": "Maybe... avoid shaking hands with them.",
-     "clueComment": "Maybe... avoid shaking hands with them. Unless you’re attracted to danger."
+     "clue": "Schon nach wenigen Minuten flog der erste Teller! Und der alte Kelch gleich hinterher.",
+     "clueComment": "Schon nach wenigen Minuten flog der erste Teller! Und der alte Kelch gleich hinterher. Und kurz danach kamen die Nachbarn, die sich über den Lärm beschwert haben."
     },
     {
-     "clue": "The kid they hate is a flying boy who refuses to grow up.",
+     "clue": "Das war aber auch ein POLTERN an diesem ABEND! Oh Junge.",
      "clueComment": ""
     }
    ],
    "followup": null,
    "id": "82660",
    "isValid": "",
-   "prompt": "Last night I, the Wheel, had a nightmare about a scary villain. Who is it?",
-   "reveal": "If you're a crocodile, get ready for snack time...",
-   "us": true,
+   "prompt": "Ich war vor einigen Tagen auf der Feier eines Bekannten. Was für eine Art von Feier war es?",
+   "reveal": "Das anschließende Auffegen des ganzen Chaos durch das Brautpaar gilt als symbolische Vorbereitung auf das Elend der Ehe. Oder so...",
+   "us": false,
    "x": false
   },
   {
    "altSpellings": [
-    "funeral director"
+    "Der Bestatter",
+    "Ein Bestatter",
+    "Pompfüneberer",
+    "Leichenbestatter",
+    "Ein Leichenbestatter",
+    "Der Leichenbestatter",
+    "Leichen Bestatter"
    ],
-   "answer": "Mortician",
+   "answer": "Bestatter",
    "category": "Occupations",
    "clues": [
     {
-     "clue": "It's not the world's [i]oldest[/i] profession, but it's up there.",
-     "clueComment": "It's not the world's [i]oldest[/i] profession, but it's up there. And very different services are offered."
-    },
-    {
-     "clue": "The job is related to medicine, but practitioners aren't licensed doctors.",
+     "clue": "Es ist jetzt nicht der älteste Beruf, kommt aber ziemlich nah ran.",
      "clueComment": ""
     },
     {
-     "clue": "Their work involves a procedure in which blood and gas are removed from the body and replaced with a fluid.",
+     "clue": "Dieser Beruf ist mit der Medizin verwandt, auch wenn man dafür kein zugelassener Arzt sein muss.",
      "clueComment": ""
     },
     {
-     "clue": "Duties include manicuring, hair styling, and applying makeup.",
-     "clueComment": "Duties include manicuring, hair styling, and applying makeup. And would you believe the clients never complain?"
+     "clue": "Ihr Aufgabengebiet umfasst die Maniküre, das Hairstyling und das Auftragen von Make-up.",
+     "clueComment": "Ihr Aufgabengebiet umfasst die Maniküre, das Hairstyling und das Auftragen von Make-up. Und würdet ihr mir abkaufen, wenn ich sage, dass sich ihre Kunden nie beschweren?"
     },
     {
-     "clue": "Oh, they’re also known as embalmers or undertakers.",
+     "clue": "Auch beinhaltet ihre Arbeit die Entfernung und Ersetzung von Blut und Gasen aus dem Körper ihrer Klienten.",
      "clueComment": ""
+    },
+    {
+     "clue": "Sie kümmern sich um die Patienten, wenn es für einen Arzt schon zu spät ist.",
+     "clueComment": "Drücken wir es freundlich aus, sie kümmern sich um die Patienten, wenn es für einen Arzt schon zu spät ist."
     }
    ],
    "followup": null,
    "id": "82710",
    "isValid": "",
-   "prompt": "What essential occupation am I thinking of?",
-   "reveal": "It's the last stylist you're never gonna meet...",
-   "us": true,
+   "prompt": "An welchen unverzichtbaren Beruf denke ich gerade?",
+   "reveal": null,
+   "us": false,
    "x": true
   },
   {
@@ -1698,35 +1726,37 @@
    "x": false
   },
   {
-   "altSpellings": [],
-   "answer": "Julie Andrews",
+   "altSpellings": [
+       "Hagen",
+       "Catharina Nina Hagen",
+       "Catharina Hagen"
+   ],
+   "answer": "Nina Hagen",
    "category": "Celebrities",
    "clues": [
     {
-     "clue": "This triple-threat and Oscar winner was born in 1935.",
+     "clue": "Diese berühmte Sängerin wurde 1955 in Ost-Berlin geboren.",
      "clueComment": ""
     },
     {
-     "clue": "She starred in [i]My Fair Lady[/i] on Broadway before Audrey Hepburn took over the same role in the film version."
-    },
-    {
-     "clue": "Perhaps you recall her outing as Mia Thermopolis' royal grandmother in [i]The Princess Diaries[/i]?"
-    },
-    {
-     "clue": "We all probably first saw her as the titular [i]Mary Poppins[/i].",
+     "clue": "Sie fällt oft durch ihren eher ungewöhnlichen Kleidungsstil auf.",
      "clueComment": ""
     },
     {
-     "clue": "The hills are certainly alive with the sound of this woman who played everyone’s favorite governess.",
-     "clueComment": "The hills are certainly alive with the sound of this woman who played everyone's favorite governess. An icon for stepmoms everywhere!"
+     "clue": "Sie wird auch als die deutsche “Godmother of Punk” bezeichnet.",
+     "clueComment": ""
+    },
+    {
+     "clue": "Ein besonders berühmtes Lied von ihr ist “Du hast den Farbfilm vergessen”.",
+     "clueComment": "Ein besonders berühmtes Lied von ihr ist “Du hast den Farbfilm vergessen”. Ich muss doch hoffentlich nicht erklären, was ein Farbfilm ist? Nein? Gut."
     }
    ],
-   "followup": "I'm not going to say I have a crush, but... I have a crush.",
+   "followup": "Ich sage jetzt nicht, dass ich damals ein ganz klein wenig verliebt war... Aber ja, ich war definitiv verknallt.",
    "id": "84212",
    "isValid": "",
-   "prompt": "Which classic actress is as iconic as me?",
+   "prompt": "Welche Sängerin ist so legendär wie ich?",
    "reveal": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -2059,35 +2089,56 @@
   },
   {
    "altSpellings": [
-    "noir",
-    "noir film"
+    "Soaps",
+    "Soap",
+    "Eine Soap",
+    "Die Soap",
+    "Die Soaps",
+    "Seifenopern",
+    "Eine Seifenoper",
+    "Die Seifenoper",
+    "Die Seifenopern",
+    "Telenovela",
+    "Eine Telenovela",
+    "Die Telenovela",
+    "Soap-Opera",
+    "Soap Opera",
+    "Die Soap-Opera",
+    "Eine Soap-Opera",
+    "Daily-Soap",
+    "Die Daily-Soap",
+    "Eine Daily-Soap"
    ],
-   "answer": "Film Noir",
+   "answer": "Seifenoper",
    "category": "Film & TV",
    "clues": [
     {
-     "clue": "There's often lots of ominous narration.",
+     "clue": "Es handelt sich meist um Sendungen, die täglich oder wöchentlich laufen. Und jede Folge voller Drama und Intrigen.",
+     "clueComment": "Es handelt sich meist um Sendungen, die täglich oder wöchentlich laufen. Und jede Folge voller Drama und Intrigen. Wie mein echtes Leben!"
+    },
+    {
+     "clue": "Dabei sind meistens mehrere Handlungsstränge miteinander verflochten. So einfach und doch süchtig machend!",
      "clueComment": ""
     },
     {
-     "clue": "Usually, the protagonist is a detective.",
+     "clue": "Viele schauen diese Sendungen nebenbei an, so werden sie abwertend sogar als Bügelbegleitung bezeichnet.",
      "clueComment": ""
     },
     {
-     "clue": "One of the key stock characters is the femme fatale.",
-     "clueComment": ""
+     "clue": "Ein bekanntes Beispiel wäre die [i]Lindenstraße[/i].",
+     "clueComment": "Ein bekanntes Beispiel wäre die [i]Lindenstraße[/i]. Von der ersten Folge an dabei, (traurig) bis sie abgesetzt wurde..."
     },
     {
-     "clue": "The genre name means “dark film” in French.",
+     "clue": "Fun-Fact: Die erste dieser Sendungen war tatsächlich sogar Werbung für Seife. Daher auch der deutsche Name dieses Genres.",
      "clueComment": ""
     }
    ],
-   "followup": "I'd probably have to settle for the role of “roulette table,” but hey, I'll take what I can get.",
+   "followup": null,
    "id": "84422",
    "isValid": "",
-   "prompt": "What genre of film do I wish I could star in?",
-   "reveal": "Take your answer and beat it, kid.",
-   "us": true,
+   "prompt": "An welchem Genre kann ich mich im Fernsehen einfach nicht sattsehen?",
+   "reveal": "Und kommt mir jetzt nicht mit “Hey, du bist doch allwissend, du kennst doch das Ende schon!” Ja, da habt ihr Recht, aber manchmal braucht man einfach eine Konstante im Leben.",
+   "us": false,
    "x": false
   },
   {
@@ -2489,34 +2540,38 @@
   },
   {
    "altSpellings": [
-    "Spencer’s Gifts",
-    "Spencer Gifts",
-    "Spencer Gift"
+    "Der Rossmann",
+    "Im Rossmann",
+    "Roßmann",
+    "Dirk Rossmann Gmbh"
    ],
-   "answer": "Spencer's",
+   "answer": "[i]Rossmann[/i]",
    "category": "Companies & Brands",
    "clues": [
     {
-     "clue": "You wouldn't think it, but this store started as a mail-order company in 1947."
+     "clue": "Auch ich muss meine alltäglichen Einkäufe schließlich erledigen.",
+     "clueComment": "Auch ich muss meine alltäglichen Einkäufe schließlich erledigen. Bin bodenständig geblieben. Anders als andere Götter... Und nein, ich meine damit keinen spezifischen Gott. Aber ich meine definitiv Zeus."
     },
     {
-     "clue": "The official motto of this store is “Life’s A Party - We’re Makin’ It Fun!”",
-     "clueComment": "The official motto of this store is “Life’s A Party - We’re Makin’ It Fun!” As if shopping malls could be any more fun!"
+     "clue": "Diese Handelskette findet sich in über 2.000 Filialen überall in Deutschland.",
+     "clueComment": "Diese Handelskette findet sich in über 2.000 Filialen überall in Deutschland. Praktisch wenn man zu faul... Ähh, ich meine zu BESCHÄFTIGT ist, um weiter zu reisen."
     },
     {
-     "clue": "Product categories currently on the store website include “Tees,” “Lava Lamps,” “Naughty,” and “Backpacks.”"
+     "clue": "Das Firmenlogo dieser Kette ist der namensgebende Zentaur.",
+     "clueComment": "Das Firmenlogo dieser Kette ist der namensgebende Zentaur. Auch wenn das nur die wenigsten wissen."
     },
     {
-     "clue": "If you absolutely, positively need fake dog poop from a store in the mall, this is the place to go."
+     "clue": "Die meisten verwechseln das Logo dieser Drogeriemärkte nämlich mit einem Pferd.",
+     "clueComment": ""
     }
    ],
    "followup": "",
    "id": "85678",
    "isValid": "",
-   "prompt": "Which retail store makes me appreciate shopping malls?",
-   "reveal": null,
-   "us": true,
-   "x": true
+   "prompt": "Welchen Einkaufsladen besuche ich wohl mit am häufigsten?",
+   "reveal": "Da stecken jetzt keine großen Gefühle hinter, er ist halt am nahsten. Außerdem habe ich eine so empfindliche Mischhaut.",
+   "us": false,
+   "x": false
   },
   {
    "altSpellings": [
@@ -2663,34 +2718,36 @@
   },
   {
    "altSpellings": [
-    "Elvis"
+    "Sonne",
+    "Eine Sonne",
+    "Unsere Sonne"
    ],
-   "answer": "Elvis Presley",
+   "answer": "Die Sonne",
    "category": "Celebrities",
    "clues": [
     {
-     "clue": "To reiterate, I'm NOT afraid of ghosts. I'm an omniscient Wheel. Why would I be afraid of something as silly as a ghost?",
+     "clue": "Tatsächlich ist die gesuchte Sache ein täglicher Begleiter. Ja, auch von euch.",
+     "clueComment": "Tatsächlich ist die gesuchte Sache ein täglicher Begleiter. Ja, auch von euch. Das macht es ja nur umso schmerzhafter."
+    },
+    {
+     "clue": "Okay, immerhin kann ich sagen, dass ich die Fähigkeit zum Sprechen habe. Ich bin kein stummer Begleiter, im Gegenteil zur gesuchten Sache.",
      "clueComment": ""
     },
     {
-     "clue": "Oh yeah, the ghost. He was a famous musician who died in 1977.",
-     "clueComment": "Oh yeah, the ghost. He was a famous musician who died in 1977. And I'm NOT afraid of him. Don't listen to what anyone else says."
+     "clue": "Sie hat so ein natürliches Strahlen, das man aber nur die Hälfte des Tages sehen kann.",
+     "clueComment": "Dafür ist sie sooo viel wichtiger als ich. Nicht nur das, hat sie auch so ein natürliches Strahlen. Auch wenn man das nur die Hälfte des Tages sehen kann..."
     },
     {
-     "clue": "He's always coming around here, swiveling his hips and singing “Hound Dog.”",
-     "clueComment": "He's always coming around here, swiveling his hips and singing “Hound Dog.” It's not scary! I just get startled sometimes."
-    },
-    {
-     "clue": "Some people say he never left the building... but he DID, he is a GHOST. And he and his blue suede shoes are constantly scaring the bejeezus out of me!",
-     "clueComment": "Some people say he never left the building... but he DID, he is a GHOST. And he and his blue suede shoes are constantly scaring the bejeezus out of me! Please make him stop!"
+     "clue": "Habe ich schon erwähnt, dass sie riesig ist? Gigantisch! Sogar 110-mal größer als die Erde!",
+     "clueComment": ""
     }
    ],
-   "followup": "To be clear. I ain't afraid of no ghosts.",
+   "followup": "Es gibt immer einen größeren Fisch, aber es tut trotzdem weh...",
    "id": "86346",
    "isValid": "",
-   "prompt": "Whose g-g-g-ghost do I sometimes see on my mountaintop?",
-   "reveal": "Jailhouse Rock? More like Jailhouse STOP SCARING ME, DANCING GHOST!",
-   "us": true,
+   "prompt": "Im Vergleich womit fühle ich mich richtig winzig?",
+   "reveal": "Ja, ich bin neidisch. Schließlich dreht sich bei euch Menschen immer alles um...",
+   "us": false,
    "x": false
   },
   {
@@ -2852,7 +2909,7 @@
    "followup": "",
    "id": "86355",
    "isValid": "",
-   "prompt": "Welcher moderne Künstler bringt wieder Leben in meine Workout-Plylist?",
+   "prompt": "Welcher moderne Künstler bringt wieder Leben in meine Work-out-Playlist?",
    "reveal": "Holt euch eure Pferde und stellt sie hinten an. Es ist...",
    "us": true,
    "x": false
@@ -2924,8 +2981,8 @@
    "followup": null,
    "id": "86375",
    "isValid": "",
-   "prompt": "Wie heißt das Kreuzfahrtschiff, welches durch den Film \"Titatnic\" an großer Bekanntheit gewonnen hat?",
-   "reveal": "Wie könnte das Schiff aus dem Film Titanik nur heißen? Es heißt... Trommelwirbel...",
+   "prompt": "Wie heißt das Kreuzfahrtschiff, welches durch den Film \"Titanic\" an großer Bekanntheit gewonnen hat?",
+   "reveal": "Wie könnte das Schiff aus dem Film Titanic nur heißen? Es heißt... Trommelwirbel...",
    "us": false,
    "x": false
   },

@@ -1380,7 +1380,7 @@
      "text": "[i]Nosferatu – Eine Symphonie des Grauens[/i]"
     },
     {
-     "text": "[i]Thor – The Dark World[/i]"
+     "text": "[i]Thor – The Dark Kingdom[/i]"
     },
     {
      "text": "[i]Das Boot[/i]"
@@ -15642,7 +15642,7 @@
      "text": "Stark"
     },
     {
-     "text": "Lannister"
+     "text": "Lennister"
     },
     {
      "text": "Baratheon"
@@ -18251,7 +18251,7 @@
    "id": "86376",
    "isValid": "",
    "prompt": "Welche dieser Paraden haben wirklich in New York stattgefunden?",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
