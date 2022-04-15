@@ -1,0 +1,182 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "A",
+      "v": "intro",
+      "n": "IntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "Welche Fashion-Marke wird mir bei meinem zukünftigen Merch-Design helfen?"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFollowupAudio"
+    },
+    {
+      "t": "A",
+      "v": "followup",
+      "n": "FollowupAudio",
+      "s": "Es ist schon eine Herausforderung, aber ich denke sie können mir da gut helfen!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealAudio"
+    },
+    {
+      "t": "A",
+      "v": "reveal",
+      "n": "RevealAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio0"
+    },
+    {
+      "t": "A",
+      "v": "clues_0_clue",
+      "n": "ClueAudio0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueCommentAudio0"
+    },
+    {
+      "t": "A",
+      "v": "clues_0_clueComment",
+      "n": "ClueCommentAudio0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio1"
+    },
+    {
+      "t": "A",
+      "v": "clues_1_clue",
+      "n": "ClueAudio1",
+      "s": "Anfangs haben sie vor allem Lederwaren hergestellt, sogar Pferdesättel."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueCommentAudio1"
+    },
+    {
+      "t": "A",
+      "v": "clues_1_clueComment",
+      "n": "ClueCommentAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio2"
+    },
+    {
+      "t": "A",
+      "v": "clues_2_clue",
+      "n": "ClueAudio2",
+      "s": "Es ist die Lieblingsmarke vieler Deutschrapper."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueCommentAudio2"
+    },
+    {
+      "t": "A",
+      "v": "clues_2_clueComment",
+      "n": "ClueCommentAudio2",
+      "s": "Es ist die Lieblingsmarke vieler Deutschrapper. Oder sollte ich lieber sagen: Lieblingsmarkelelele?"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio3"
+    },
+    {
+      "t": "A",
+      "v": "clues_3_clue",
+      "n": "ClueAudio3",
+      "s": "Das Logo besteht aus zwei ineinander verschränkten [i]G[/i]’s."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueCommentAudio3"
+    },
+    {
+      "t": "A",
+      "v": "clues_3_clueComment",
+      "n": "ClueCommentAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio4"
+    },
+    {
+      "t": "A",
+      "v": "clues_4_clue",
+      "n": "ClueAudio4",
+      "s": "Der Vorname des Gründers, und das ist tatsächlich wahr, ist Guccio."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueCommentAudio4"
+    },
+    {
+      "t": "A",
+      "v": "clues_4_clueComment",
+      "n": "ClueCommentAudio4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio5"
+    },
+    {
+      "t": "A",
+      "v": "clues_5_clue",
+      "n": "ClueAudio5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueCommentAudio5"
+    },
+    {
+      "t": "A",
+      "v": "clues_5_clueComment",
+      "n": "ClueCommentAudio5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "A",
+      "v": "outro",
+      "n": "OutroAudio",
+      "s": "Ich habe aktuell nicht wirklich [i]Füße[/i], aber wenn die mir ein paar dieser Gucci-Scheiben schicken, kann ich versuchen drüberzurollen. Ich mein das ernst!"
+    }
+  ]
+}

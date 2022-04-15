@@ -1,0 +1,170 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "A",
+      "v": "intro",
+      "n": "IntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "Wie heißen die ersten 5 Bücher aus dem Alten Testament laut der katholischen Übersetzung?"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio0"
+    },
+    {
+      "t": "A",
+      "v": "answers_0_hint",
+      "n": "ClueAudio0",
+      "s": "Phil Collins war ein bedeutender Teil DIESER Band."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio1"
+    },
+    {
+      "t": "A",
+      "v": "answers_1_hint",
+      "n": "ClueAudio1",
+      "s": "Lass mein Volk ziehen, denn wenn nicht jetzt, wann dann."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio3"
+    },
+    {
+      "t": "A",
+      "v": "answers_3_hint",
+      "n": "ClueAudio3",
+      "s": "Besserwisser aufgepasst: Ihr sucht das lateinische Wort für “Zahlen”."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio4"
+    },
+    {
+      "t": "A",
+      "v": "answers_4_hint",
+      "n": "ClueAudio4",
+      "s": "Achtung, Spoiler: Am Ende von diesem Teil stirbt Mose! Ihr seid genauso entsetzt wie ich, als ich es erfahren musste."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio6"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio9"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio10"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio11"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio12"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio13"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio14"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio15"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio16"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio17"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio18"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio19"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFollowupAudio"
+    },
+    {
+      "t": "A",
+      "v": "followup",
+      "n": "FollowupAudio",
+      "s": "Denkt dran, die katholische Übersetzung! Mit der Übersetzung Luthers wäre das ganze doch etwas zu einfach geworden."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "A",
+      "v": "outro",
+      "n": "OutroAudio"
+    }
+  ]
+}

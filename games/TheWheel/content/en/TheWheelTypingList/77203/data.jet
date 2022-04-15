@@ -1,0 +1,182 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "A",
+      "v": "intro",
+      "n": "IntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "Die 10 objektiv besten Eiscreme-Sorten"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio0"
+    },
+    {
+      "t": "A",
+      "v": "answers_0_hint",
+      "n": "ClueAudio0",
+      "s": "(genervt) Okay, ich buchstabiere es einfach für euch: Schokolade! Es ist so offensichtlich, tippt einfach Schokolade ein!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio1"
+    },
+    {
+      "t": "A",
+      "v": "answers_1_hint",
+      "n": "ClueAudio1",
+      "s": "Einige würden sagen, dass es der langweiligste Geschmack ist."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio4"
+    },
+    {
+      "t": "A",
+      "v": "answers_4_hint",
+      "n": "ClueAudio4",
+      "s": "Darf ich ihnen unseren Eiskaffee anbieten? Oder doch lieber andersherum?"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio6"
+    },
+    {
+      "t": "A",
+      "v": "answers_6_hint",
+      "n": "ClueAudio6",
+      "s": "Diese Sorte ist nichts für Allergiker, auch wenn sie zum Sterben gut ist!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio7"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio8"
+    },
+    {
+      "t": "A",
+      "v": "answers_8_hint",
+      "n": "ClueAudio8",
+      "s": "Einfach, aber elegant. Ich mag die Schokostücke am liebsten."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio9"
+    },
+    {
+      "t": "A",
+      "v": "answers_9_hint",
+      "n": "ClueAudio9",
+      "s": "Eine meiner liebsten Sorten hat eine grüne Färbung und ein nussiges Aroma."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio10"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio11"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio12"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio13"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio14"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio15"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio16"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio17"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio18"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio19"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFollowupAudio"
+    },
+    {
+      "t": "A",
+      "v": "followup",
+      "n": "FollowupAudio",
+      "s": "Meiner Meinung nach. "
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "A",
+      "v": "outro",
+      "n": "OutroAudio"
+    }
+  ]
+}

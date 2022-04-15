@@ -1,0 +1,169 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "A",
+      "v": "intro",
+      "n": "IntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "Die ekeligsten menschlichen Körperflüssigkeiten"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio2"
+    },
+    {
+      "t": "A",
+      "v": "answers_2_hint",
+      "n": "ClueAudio2",
+      "s": "Bei einem der gesuchten Wörter bleibt euch die Spucke weg!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio3"
+    },
+    {
+      "t": "A",
+      "v": "answers_3_hint",
+      "n": "ClueAudio3",
+      "s": "Hat jemand von euch zufälligerweise Sodbrennen?"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio6"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio8"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio9"
+    },
+    {
+      "t": "A",
+      "v": "answers_9_hint",
+      "n": "ClueAudio9",
+      "s": "Ähm, ihr habt doch sicher nicht eure Kinder auf den Berg mitgenommen? Ansonsten wäre das jetzt blöd..."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio10"
+    },
+    {
+      "t": "A",
+      "v": "answers_10_hint",
+      "n": "ClueAudio10",
+      "s": "Putzt eure Nasen, dann findet ihr ganz viel vom gesuchten Begriff."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio11"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio12"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio13"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio14"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio15"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio16"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio17"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio18"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio19"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasFollowupAudio"
+    },
+    {
+      "t": "A",
+      "v": "followup",
+      "n": "FollowupAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "A",
+      "v": "outro",
+      "n": "OutroAudio"
+    }
+  ]
+}

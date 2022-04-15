@@ -1,0 +1,182 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "A",
+      "v": "intro",
+      "n": "IntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "Meine liebsten deutschen Dialekte"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio4"
+    },
+    {
+      "t": "A",
+      "v": "answers_4_hint",
+      "n": "ClueAudio4",
+      "s": "Leck mich inne Täsch! Datt wissta aba!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio5"
+    },
+    {
+      "t": "A",
+      "v": "answers_5_hint",
+      "n": "ClueAudio5",
+      "s": "Nich ärgorrn, nur wundorrn!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio6"
+    },
+    {
+      "t": "A",
+      "v": "answers_6_hint",
+      "n": "ClueAudio6",
+      "s": "A bissle domm isch jedr, abbr so domm wia manchr isch koinr."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio7"
+    },
+    {
+      "t": "A",
+      "v": "answers_7_hint",
+      "n": "ClueAudio7",
+      "s": "Keene Haare uff'm Kopp, aba ‘n Kamm inner Tasche, wa?"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio8"
+    },
+    {
+      "t": "A",
+      "v": "answers_8_hint",
+      "n": "ClueAudio8",
+      "s": "Moin! Ein ward so olt as ’ne Kauh un lihrt noch ümmer wat dortau."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio9"
+    },
+    {
+      "t": "A",
+      "v": "answers_9_hint",
+      "n": "ClueAudio9",
+      "s": "Joa mei, dis hod a mo jede im Sinn!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio10"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio11"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio12"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio13"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio14"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio15"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio16"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio17"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio18"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio19"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFollowupAudio"
+    },
+    {
+      "t": "A",
+      "v": "followup",
+      "n": "FollowupAudio",
+      "s": "Ich möchte mich für das jetzt Folgende im Voraus entschuldigen."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "A",
+      "v": "outro",
+      "n": "OutroAudio"
+    }
+  ]
+}

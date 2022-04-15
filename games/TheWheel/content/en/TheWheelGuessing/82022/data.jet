@@ -1,0 +1,183 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "A",
+      "v": "intro",
+      "n": "IntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "Wo sind meine Schlüssel?"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFollowupAudio"
+    },
+    {
+      "t": "A",
+      "v": "followup",
+      "n": "FollowupAudio",
+      "s": "Ja, auch Räder haben Schlüssel. Atlantis wird sich ja schließlich nicht von selbst abschließen, oder?"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealAudio"
+    },
+    {
+      "t": "A",
+      "v": "reveal",
+      "n": "RevealAudio",
+      "s": "Bitte helft mir doch endlich, wo sind meine Schlüssel?"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio0"
+    },
+    {
+      "t": "A",
+      "v": "clues_0_clue",
+      "n": "ClueAudio0",
+      "s": "Bitte helft mir doch endlich, wo sind meine Schlüssel?"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueCommentAudio0"
+    },
+    {
+      "t": "A",
+      "v": "clues_0_clueComment",
+      "n": "ClueCommentAudio0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio1"
+    },
+    {
+      "t": "A",
+      "v": "clues_1_clue",
+      "n": "ClueAudio1",
+      "s": "Stimmt, ich sah eine heiße, sandige Wüste mit einer Fläche von ca. 3.6 Millionen Quadratkilometern."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueCommentAudio1"
+    },
+    {
+      "t": "A",
+      "v": "clues_1_clueComment",
+      "n": "ClueCommentAudio1",
+      "s": "Stimmt, ich sah eine heiße, sandige Wüste mit einer Fläche von ca. 3.6 Millionen Quadratkilometern. Irgendwo da sind meine Schlüssel!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio2"
+    },
+    {
+      "t": "A",
+      "v": "clues_2_clue",
+      "n": "ClueAudio2",
+      "s": "Ok, ich bin mir sehr sicher, dass ich meine Schlüssel in der größten Wüste der Welt verloren habe, die fast ein Drittel von Afrika bedeckt."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueCommentAudio2"
+    },
+    {
+      "t": "A",
+      "v": "clues_2_clueComment",
+      "n": "ClueCommentAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio3"
+    },
+    {
+      "t": "A",
+      "v": "clues_3_clue",
+      "n": "ClueAudio3",
+      "s": "Oh! Der Name der Wüste kommt vom arabischen Wort “sahra'”, was übersetzt so viel heißt wie “Wüste”."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueCommentAudio3"
+    },
+    {
+      "t": "A",
+      "v": "clues_3_clueComment",
+      "n": "ClueCommentAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio4"
+    },
+    {
+      "t": "A",
+      "v": "clues_4_clue",
+      "n": "ClueAudio4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueCommentAudio4"
+    },
+    {
+      "t": "A",
+      "v": "clues_4_clueComment",
+      "n": "ClueCommentAudio4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio5"
+    },
+    {
+      "t": "A",
+      "v": "clues_5_clue",
+      "n": "ClueAudio5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueCommentAudio5"
+    },
+    {
+      "t": "A",
+      "v": "clues_5_clueComment",
+      "n": "ClueCommentAudio5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "A",
+      "v": "outro",
+      "n": "OutroAudio",
+      "s": "Hey, macht mal halblang. Wo sind eure Schlüssel? Auf dem Schrank im Badezimmer? Ich bitte euch."
+    }
+  ]
+}

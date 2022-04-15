@@ -1,0 +1,186 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "A",
+      "v": "intro",
+      "n": "IntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "Welcher griechische Gott ist, zugegebenermaßen, eine ziemlich harte Nuss?"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFollowupAudio"
+    },
+    {
+      "t": "A",
+      "v": "followup",
+      "n": "FollowupAudio",
+      "s": "Er ist einfach ein bisschen... zu sehr er selbst."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealAudio"
+    },
+    {
+      "t": "A",
+      "v": "reveal",
+      "n": "RevealAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio0"
+    },
+    {
+      "t": "A",
+      "v": "clues_0_clue",
+      "n": "ClueAudio0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueCommentAudio0"
+    },
+    {
+      "t": "A",
+      "v": "clues_0_clueComment",
+      "n": "ClueCommentAudio0",
+      "s": "Bei unseren regelmäßigen Göttertreffen sind die Burger, die er macht, immer total verkohlt. Das war übrigens kein wirklicher Hinweis, ich musste das nur mal kurz loswerden."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio1"
+    },
+    {
+      "t": "A",
+      "v": "clues_1_clue",
+      "n": "ClueAudio1",
+      "s": "Seine Kinder heißen Phobos und Deimos, besser bekannt als Götter der Furcht und des Grauens."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueCommentAudio1"
+    },
+    {
+      "t": "A",
+      "v": "clues_1_clueComment",
+      "n": "ClueCommentAudio1",
+      "s": "Seine Kinder heißen Phobos und Deimos, besser bekannt als Götter der Furcht und des Grauens. Und sie machen ihrem Namen alle Ehre, vertraut mir."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio2"
+    },
+    {
+      "t": "A",
+      "v": "clues_2_clue",
+      "n": "ClueAudio2",
+      "s": "Er ist total aggressiv und roh. Das ist sozusagen sein Markenzeichen."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueCommentAudio2"
+    },
+    {
+      "t": "A",
+      "v": "clues_2_clueComment",
+      "n": "ClueCommentAudio2",
+      "s": "Er ist total aggressiv und roh. Das ist sozusagen sein Markenzeichen. Was man über seine Burger nicht sagen kann..."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio3"
+    },
+    {
+      "t": "A",
+      "v": "clues_3_clue",
+      "n": "ClueAudio3",
+      "s": "Keiner kann ihn wirklich leiden. Nicht mal sein Vater Zeus."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueCommentAudio3"
+    },
+    {
+      "t": "A",
+      "v": "clues_3_clueComment",
+      "n": "ClueCommentAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio4"
+    },
+    {
+      "t": "A",
+      "v": "clues_4_clue",
+      "n": "ClueAudio4",
+      "s": "Er ist der Gott des Krieges."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueCommentAudio4"
+    },
+    {
+      "t": "A",
+      "v": "clues_4_clueComment",
+      "n": "ClueCommentAudio4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio5"
+    },
+    {
+      "t": "A",
+      "v": "clues_5_clue",
+      "n": "ClueAudio5",
+      "s": "Die Römer nannten ihn Mars, aber die Griechen hatten einen anderen Namen für ihn."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueCommentAudio5"
+    },
+    {
+      "t": "A",
+      "v": "clues_5_clueComment",
+      "n": "ClueCommentAudio5",
+      "s": "Die Römer nannten ihn Mars, aber die Griechen hatten einen anderen Namen für ihn, der mit “A” beginnt und mit “es” endet."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "A",
+      "v": "outro",
+      "n": "OutroAudio",
+      "s": "ARES! Das war meine Kratos Imitation. Ich liebe diese Spiele."
+    }
+  ]
+}

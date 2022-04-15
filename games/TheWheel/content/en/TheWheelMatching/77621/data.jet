@@ -1,0 +1,47 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "A",
+      "v": "intro",
+      "n": "IntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "Ordne das Land der Anzahl zu, wie oft das Saarland darin reinpasst"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFollowupAudio"
+    },
+    {
+      "t": "A",
+      "v": "followup",
+      "n": "FollowupAudio",
+      "s": "Habt ihr schon mal [i]Galileo[/i] gesehen? Dann sollte das für euch ja kein Problem sein."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "A",
+      "v": "outro",
+      "n": "OutroAudio",
+      "s": "Das Saarland entspricht übrigens der Fläche von ungefähr 359.900 Fußballfeldern. Würde man die alle mit der längeren Seite hintereinanderlegen, würde das fast einmal um den ganzen Äquator reichen und immerhin gut ein Zehntel der Distanz zwischen Erde und Mond überbrücken."
+    }
+  ]
+}

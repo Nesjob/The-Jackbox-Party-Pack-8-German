@@ -1,0 +1,163 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "A",
+      "v": "intro",
+      "n": "IntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "Was sind die 5 Säulen des Islam?"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio0"
+    },
+    {
+      "t": "A",
+      "v": "answers_0_hint",
+      "n": "ClueAudio0",
+      "s": "Das öffentliche Aussprechen einer besonderen Formel bildet die erste Säule."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio3"
+    },
+    {
+      "t": "A",
+      "v": "answers_3_hint",
+      "n": "ClueAudio3",
+      "s": "In diesem Monat hofft wohl so mancher, dass die Sonne etwas früher untergeht."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio4"
+    },
+    {
+      "t": "A",
+      "v": "answers_4_hint",
+      "n": "ClueAudio4",
+      "s": "Immerhin einmal im Leben ist ein Besuch HIER Pflicht!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio6"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio9"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio10"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio11"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio12"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio13"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio14"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio15"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio16"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio17"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio18"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio19"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasFollowupAudio"
+    },
+    {
+      "t": "A",
+      "v": "followup",
+      "n": "FollowupAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "A",
+      "v": "outro",
+      "n": "OutroAudio"
+    }
+  ]
+}

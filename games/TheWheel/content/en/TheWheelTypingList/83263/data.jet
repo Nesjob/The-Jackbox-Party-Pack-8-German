@@ -1,0 +1,175 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "A",
+      "v": "intro",
+      "n": "IntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "Die 19 Länder der europäischen Union, die Stand 2021 den Euro als offizielle Währung haben"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio3"
+    },
+    {
+      "t": "A",
+      "v": "answers_3_hint",
+      "n": "ClueAudio3",
+      "s": "Die Hauptstadt eines der gesuchten Länder ist Tallinn. Das kennt ihr doch sicher!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio4"
+    },
+    {
+      "t": "A",
+      "v": "answers_4_hint",
+      "n": "ClueAudio4",
+      "s": "Mann, bei den nordeuropäischen Ländern kommt man so leicht durcheinander..."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio5"
+    },
+    {
+      "t": "A",
+      "v": "answers_5_hint",
+      "n": "ClueAudio5",
+      "s": "Dieses Land ist immerhin das am häufigsten besuchte Land der Welt!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio6"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio8"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio9"
+    },
+    {
+      "t": "A",
+      "v": "answers_9_hint",
+      "n": "ClueAudio9",
+      "s": "Das Land der Pasta und Pizza."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio10"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio11"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio12"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio13"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio14"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio15"
+    },
+    {
+      "t": "A",
+      "v": "answers_15_hint",
+      "n": "ClueAudio15",
+      "s": "Welches Land ist denn am westlichsten in Europa?"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio16"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio17"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio18"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio19"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasFollowupAudio"
+    },
+    {
+      "t": "A",
+      "v": "followup",
+      "n": "FollowupAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "A",
+      "v": "outro",
+      "n": "OutroAudio"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "A",
+      "v": "intro",
+      "n": "IntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "Welches Getränk sollte ich laut meinem Arzt mehr trinken, um meine Gesundheit zu verbessern?"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFollowupAudio"
+    },
+    {
+      "t": "A",
+      "v": "followup",
+      "n": "FollowupAudio",
+      "s": "Mein Arzt ist übrigens ein Dodekaeder. Netter Kerl. Ihr könnt ihn auch Doktokaeder nennen, wenn ihr wollt."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealAudio"
+    },
+    {
+      "t": "A",
+      "v": "reveal",
+      "n": "RevealAudio",
+      "s": "Jetzt wirds spritzig!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio0"
+    },
+    {
+      "t": "A",
+      "v": "clues_0_clue",
+      "n": "ClueAudio0",
+      "s": "Jetzt wirds spritzig!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueCommentAudio0"
+    },
+    {
+      "t": "A",
+      "v": "clues_0_clueComment",
+      "n": "ClueCommentAudio0",
+      "s": "Das kohlensäurehaltige Getränk wurde 1959 auf den Markt gebracht. In Deutschland tatsächlich zwei Jahre früher als in den USA."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio1"
+    },
+    {
+      "t": "A",
+      "v": "clues_1_clue",
+      "n": "ClueAudio1",
+      "s": "Der erste Slogan dieser Marke war “Frischer Wind aus grünen Flaschen”."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueCommentAudio1"
+    },
+    {
+      "t": "A",
+      "v": "clues_1_clueComment",
+      "n": "ClueCommentAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio2"
+    },
+    {
+      "t": "A",
+      "v": "clues_2_clue",
+      "n": "ClueAudio2",
+      "s": "Der Hauptkonkurrent dieser Marke ist ganz klar [i]7 Up[/i]."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueCommentAudio2"
+    },
+    {
+      "t": "A",
+      "v": "clues_2_clueComment",
+      "n": "ClueCommentAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio3"
+    },
+    {
+      "t": "A",
+      "v": "clues_3_clue",
+      "n": "ClueAudio3",
+      "s": "Diese Limonade mit Zitronen- und Limettengeschmack ist besonders bei Kindern beliebt."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueCommentAudio3"
+    },
+    {
+      "t": "A",
+      "v": "clues_3_clueComment",
+      "n": "ClueCommentAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio4"
+    },
+    {
+      "t": "A",
+      "v": "clues_4_clue",
+      "n": "ClueAudio4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueCommentAudio4"
+    },
+    {
+      "t": "A",
+      "v": "clues_4_clueComment",
+      "n": "ClueCommentAudio4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio5"
+    },
+    {
+      "t": "A",
+      "v": "clues_5_clue",
+      "n": "ClueAudio5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueCommentAudio5"
+    },
+    {
+      "t": "A",
+      "v": "clues_5_clueComment",
+      "n": "ClueCommentAudio5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "A",
+      "v": "outro",
+      "n": "OutroAudio",
+      "s": "Ich weiß, komisch oder? Aber das ist eine ärztliche Anordnung!"
+    }
+  ]
+}

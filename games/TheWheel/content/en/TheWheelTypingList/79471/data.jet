@@ -1,0 +1,163 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "A",
+      "v": "intro",
+      "n": "IntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "Die 6 Kategorien, in denen Nobelpreise verliehen werden"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio0"
+    },
+    {
+      "t": "A",
+      "v": "answers_0_hint",
+      "n": "ClueAudio0",
+      "s": "In dieser Kategorie befinden sich einige bekannte deutsche Wissenschaftler, zum Beispiel Albert Einstein."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio1"
+    },
+    {
+      "t": "A",
+      "v": "answers_1_hint",
+      "n": "ClueAudio1",
+      "s": "Diesen Nobelpreis erhielt Marie Curie im Jahre 1911 für die Entdeckung der Elemente “Polonium” und “Radium”."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio5"
+    },
+    {
+      "t": "A",
+      "v": "answers_5_hint",
+      "n": "ClueAudio5",
+      "s": "Könnt ihr mit Geld umgehen? Ja? Nein? Naja, wenn ich mir die Kontostände von einigen von euch so anschaue, erübrigt sich diese Frage wohl..."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio6"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio9"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio10"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio11"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio12"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio13"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio14"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio15"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio16"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio17"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio18"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio19"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasFollowupAudio"
+    },
+    {
+      "t": "A",
+      "v": "followup",
+      "n": "FollowupAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "A",
+      "v": "outro",
+      "n": "OutroAudio"
+    }
+  ]
+}

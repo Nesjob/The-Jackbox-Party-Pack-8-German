@@ -1,0 +1,183 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "A",
+      "v": "intro",
+      "n": "IntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "Welcher Philosoph ist mit Abstand der coolste?"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasFollowupAudio"
+    },
+    {
+      "t": "A",
+      "v": "followup",
+      "n": "FollowupAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealAudio"
+    },
+    {
+      "t": "A",
+      "v": "reveal",
+      "n": "RevealAudio",
+      "s": "Er sagte einst “Das ungeprüfte Leben ist nicht lebenswert.”, ich sage heute “Hey, hört auf Selfies mit der Kraftscheibe zu machen, so kann ich mich nicht drehen!”. Die Parallelen sind erschreckend..."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio0"
+    },
+    {
+      "t": "A",
+      "v": "clues_0_clue",
+      "n": "ClueAudio0",
+      "s": "Er sagte einst “Das ungeprüfte Leben ist nicht lebenswert.”, ich sage heute “Hey, hört auf Selfies mit der Kraftscheibe zu machen, so kann ich mich nicht drehen!”. Die Parallelen sind erschreckend..."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueCommentAudio0"
+    },
+    {
+      "t": "A",
+      "v": "clues_0_clueComment",
+      "n": "ClueCommentAudio0",
+      "s": "Wir haben damals im alten Griechenland ab und an etwas zusammen abgehangen. Ein bisschen eingeschüchtert war ich ja schon immer von ihm."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio1"
+    },
+    {
+      "t": "A",
+      "v": "clues_1_clue",
+      "n": "ClueAudio1",
+      "s": "Es ist ziemlich schwer, mich einzuschüchtern, aber selbst sein Schüler Platon empfand so über seinen Lehrer."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueCommentAudio1"
+    },
+    {
+      "t": "A",
+      "v": "clues_1_clueComment",
+      "n": "ClueCommentAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio2"
+    },
+    {
+      "t": "A",
+      "v": "clues_2_clue",
+      "n": "ClueAudio2",
+      "s": "Letztendlich wurde er zum Tode verurteilt, das war echt eine Farce."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueCommentAudio2"
+    },
+    {
+      "t": "A",
+      "v": "clues_2_clueComment",
+      "n": "ClueCommentAudio2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio3"
+    },
+    {
+      "t": "A",
+      "v": "clues_3_clue",
+      "n": "ClueAudio3",
+      "s": "Noch heute ist die Szene, in der er den Schierlingsbecher austrank, legendär. Ohne zu zögern nahm er das Gift."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueCommentAudio3"
+    },
+    {
+      "t": "A",
+      "v": "clues_3_clueComment",
+      "n": "ClueCommentAudio3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio4"
+    },
+    {
+      "t": "A",
+      "v": "clues_4_clue",
+      "n": "ClueAudio4",
+      "s": "Ihr wisst schon, worauf ich anspiele... [i]Der Tod des Sokrates[/i], das legendäre Gemälde?!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueCommentAudio4"
+    },
+    {
+      "t": "A",
+      "v": "clues_4_clueComment",
+      "n": "ClueCommentAudio4",
+      "s": "Ihr wisst schon, worauf ich anspiele... [i]Der Tod des Sokrates[/i], das legendäre Gemälde?! Und ja, jetzt hab ich den Namen gesagt. Also, was hält euch noch?"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio5"
+    },
+    {
+      "t": "A",
+      "v": "clues_5_clue",
+      "n": "ClueAudio5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueCommentAudio5"
+    },
+    {
+      "t": "A",
+      "v": "clues_5_clueComment",
+      "n": "ClueCommentAudio5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "A",
+      "v": "outro",
+      "n": "OutroAudio"
+    }
+  ]
+}

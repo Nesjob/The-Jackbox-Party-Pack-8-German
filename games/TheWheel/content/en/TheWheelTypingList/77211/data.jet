@@ -1,0 +1,188 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "A",
+      "v": "intro",
+      "n": "IntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "12 Romane von Stephen King, die ich nie zu Ende lesen konnte, weil sie zu gruselig waren"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio2"
+    },
+    {
+      "t": "A",
+      "v": "answers_2_hint",
+      "n": "ClueAudio2",
+      "s": "Ein mutierters Grippevirus versetzt die Welt in eine Pandemie. Warte, schreibt er auch Sachbücher?"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio3"
+    },
+    {
+      "t": "A",
+      "v": "answers_3_hint",
+      "n": "ClueAudio3",
+      "s": "Wie heißt der Roman mit dem Hund? Startet mit einem “C”..."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio5"
+    },
+    {
+      "t": "A",
+      "v": "answers_5_hint",
+      "n": "ClueAudio5",
+      "s": "Warum müssen es immer Clowns sein?"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio6"
+    },
+    {
+      "t": "A",
+      "v": "answers_6_hint",
+      "n": "ClueAudio6",
+      "s": "Dieser Titel könnte sowohl eine Frau, als auch eine Gruppe beschreiben. Ich weiß es nicht, ich bin nicht über den Einband gekommen."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio7"
+    },
+    {
+      "t": "A",
+      "v": "answers_7_hint",
+      "n": "ClueAudio7",
+      "s": "Ich bin froh, dass ihr mit mir dieses Spiel spielt und nicht das aus diesem Buch."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio8"
+    },
+    {
+      "t": "A",
+      "v": "answers_8_hint",
+      "n": "ClueAudio8",
+      "s": "Der Titel dieses Buches besteht einzig und allein aus dem Vornamen einer Frau."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio9"
+    },
+    {
+      "t": "A",
+      "v": "answers_9_hint",
+      "n": "ClueAudio9",
+      "s": "Unter dem Pseudonym George Stark verkaufte er blutrünstige Romane, ohne zu wissen, dass er selbst in einem steckt."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio10"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio11"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio12"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio13"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio14"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio15"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio16"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio17"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio18"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio19"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFollowupAudio"
+    },
+    {
+      "t": "A",
+      "v": "followup",
+      "n": "FollowupAudio",
+      "s": "Wehe einer lacht! Man muss zu seinen Ängsten stehen."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "A",
+      "v": "outro",
+      "n": "OutroAudio"
+    }
+  ]
+}

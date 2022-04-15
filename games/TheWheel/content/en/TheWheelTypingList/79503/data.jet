@@ -1,0 +1,176 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "A",
+      "v": "intro",
+      "n": "IntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "Die 12 heißesten Helden im [i]Marvel[/i]-Universum"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio5"
+    },
+    {
+      "t": "A",
+      "v": "answers_5_hint",
+      "n": "ClueAudio5",
+      "s": "“Ameisenmann und die Wespe”. Okay, Filmtitel klingen eingedeutscht total doof..."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio6"
+    },
+    {
+      "t": "A",
+      "v": "answers_6_hint",
+      "n": "ClueAudio6",
+      "s": "An diesem Doktor ist nichts SELTSAM."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio7"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio8"
+    },
+    {
+      "t": "A",
+      "v": "answers_8_hint",
+      "n": "ClueAudio8",
+      "s": "Sohn Odins und nordischer Donnergott? Ganz ehrlich, ich würd' ihn nehmen."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio9"
+    },
+    {
+      "t": "A",
+      "v": "answers_9_hint",
+      "n": "ClueAudio9",
+      "s": "Kleine Alarmglocke wegen dem Namen “Schwarze Witwe”. Aber ich bin ja unsterblich, sogesehen..."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio10"
+    },
+    {
+      "t": "A",
+      "v": "answers_10_hint",
+      "n": "ClueAudio10",
+      "s": "Also ich kenne da jemanden, für den ich einen Pakt mit dem Teufel eingehen würde..."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio11"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio12"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio13"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio14"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio15"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio16"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio17"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio18"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio19"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFollowupAudio"
+    },
+    {
+      "t": "A",
+      "v": "followup",
+      "n": "FollowupAudio",
+      "s": "Welche Helden sind am knutschbarsten? Rein hypothetisch natürlich. Ich habe keine Lippen."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "A",
+      "v": "outro",
+      "n": "OutroAudio"
+    }
+  ]
+}

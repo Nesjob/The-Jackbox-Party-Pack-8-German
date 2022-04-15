@@ -1,0 +1,183 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "A",
+      "v": "intro",
+      "n": "IntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "Welches Möbelstück finde ich echt unnötig?"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasFollowupAudio"
+    },
+    {
+      "t": "A",
+      "v": "followup",
+      "n": "FollowupAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealAudio"
+    },
+    {
+      "t": "A",
+      "v": "reveal",
+      "n": "RevealAudio",
+      "s": "Schaut mal unter euch, vielleicht findet ihr ihn dort auch. Wenn ja, dann gebt ihm einen wohlwollenden Klaps, dem..."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio0"
+    },
+    {
+      "t": "A",
+      "v": "clues_0_clue",
+      "n": "ClueAudio0",
+      "s": "Schaut mal unter euch, vielleicht findet ihr ihn dort auch. Wenn ja, dann gebt ihm einen wohlwollenden Klaps, dem..."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueCommentAudio0"
+    },
+    {
+      "t": "A",
+      "v": "clues_0_clueComment",
+      "n": "ClueCommentAudio0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio1"
+    },
+    {
+      "t": "A",
+      "v": "clues_1_clue",
+      "n": "ClueAudio1",
+      "s": "Positiv muss man allerdings hervorheben, dass dieses Einrichtungsstück im Normalfall echt ziemlich bodenständig ist. Nur selten ist es an Wänden zu finden!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueCommentAudio1"
+    },
+    {
+      "t": "A",
+      "v": "clues_1_clueComment",
+      "n": "ClueCommentAudio1",
+      "s": "Positiv muss man allerdings hervorheben, dass dieses Einrichtungsstück im Normalfall echt ziemlich bodenständig ist. Nur selten ist es an Wänden zu finden! Auch wenn man es auch schon mal hat fliegen sehen..."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio2"
+    },
+    {
+      "t": "A",
+      "v": "clues_2_clue",
+      "n": "ClueAudio2",
+      "s": "Nicht nur das, es wird auch regelmäßig mit Füßen getreten!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueCommentAudio2"
+    },
+    {
+      "t": "A",
+      "v": "clues_2_clueComment",
+      "n": "ClueCommentAudio2",
+      "s": "Nicht nur das, es wird auch regelmäßig mit Füßen getreten! Also nicht von mir, aber ihr versteht, was ich meine..."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueAudio3"
+    },
+    {
+      "t": "A",
+      "v": "clues_3_clue",
+      "n": "ClueAudio3",
+      "s": "Vielleicht sollte ich meine Einstellung gegenüber diesem Textil ändern, es scheint fast schon ganz okay zu sein. Den Boden verziert es immerhin auch ganz nett."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasClueCommentAudio3"
+    },
+    {
+      "t": "A",
+      "v": "clues_3_clueComment",
+      "n": "ClueCommentAudio3",
+      "s": "Vielleicht sollte ich meine Einstellung gegenüber diesem Textil ändern, es scheint fast schon ganz okay zu sein. Den Boden verziert es immerhin auch ganz nett. Also, es tut immerhin sein Bestes."
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio4"
+    },
+    {
+      "t": "A",
+      "v": "clues_4_clue",
+      "n": "ClueAudio4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueCommentAudio4"
+    },
+    {
+      "t": "A",
+      "v": "clues_4_clueComment",
+      "n": "ClueCommentAudio4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueAudio5"
+    },
+    {
+      "t": "A",
+      "v": "clues_5_clue",
+      "n": "ClueAudio5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasClueCommentAudio5"
+    },
+    {
+      "t": "A",
+      "v": "clues_5_clueComment",
+      "n": "ClueCommentAudio5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutroAudio"
+    },
+    {
+      "t": "A",
+      "v": "outro",
+      "n": "OutroAudio"
+    }
+  ]
+}
