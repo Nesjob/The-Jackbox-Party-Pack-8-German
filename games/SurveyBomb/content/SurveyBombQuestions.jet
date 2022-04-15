@@ -9640,7 +9640,7 @@
    "question": "Sei ehrlich: Wer bist du im Nachtclub???",
    "questionShort": "Nachtclub Personas",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -9662,7 +9662,7 @@
    "question": "Was ist dir in einer Freundschaft wichtig??",
    "questionShort": "Freundschaft",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9684,7 +9684,7 @@
    "question": "Wenn wir rein nach Vibes gehen - Welche Werkzeug wäre ein guter Freund?",
    "questionShort": "Werkzeugkumpel",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9706,7 +9706,7 @@
    "question": "Oh nein, du hast euer Jubiläum vergessen!! Was schenkst du deinem Partner, damit er sieht, dass es dir nicht egal ist?",
    "questionShort": "Last-Minute Geschenk",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -9728,7 +9728,7 @@
    "question": "Du musst nach Hause laufen und es regnet. Welche Schuhe solltest du NICHT tragen?",
    "questionShort": "Regen mit schlechten Schuhen",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9750,7 +9750,7 @@
    "question": "Welches Küchenutensil ist der schlechteste Küsser?",
    "questionShort": "Schlechte Küsser in der Küche",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -9772,7 +9772,7 @@
    "question": "In welcher Uniform würdest du am Besten aussehen?",
    "questionShort": "heiße Uniform",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -9806,7 +9806,7 @@
    "question": "Du trainierst dein eigenes Bockspringteam. Wer muss mit rein, um den Sieg zu holen?",
    "questionShort": "Bockspringen",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9823,7 +9823,7 @@
    "question": "Du hast ein (1) Sandwich. Mit wem teilst du es?",
    "questionShort": "brav Teilen",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9840,7 +9840,7 @@
    "question": "Deine Gruppe zeitreist in den Wilden Westen. Wer bleibt wahrscheinlich da und lebt weiter als Cowboy oder Cowgirl?",
    "questionShort": "Cowboykultur",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9857,7 +9857,7 @@
    "question": "Wer es zuerst auf den Gipfel von Mount Everest schafft, gewinnt 1 Million Euro. Wer ist es?",
    "questionShort": "Reise zum Gipfel",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9874,7 +9874,7 @@
    "question": "Einer von euch ist doch insgeheim ein Vampir, oder..? Wer ist es?",
    "questionShort": "Geheimer Vampire",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9891,7 +9891,7 @@
    "question": "Sind wir mal ehrlich. Wer hätte die beste Realityshow?",
    "questionShort": "Reality Show",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9931,7 +9931,7 @@
    "question": "Was würdest du dir gerne von Insekten klauen?",
    "questionShort": "von Insekten klauen",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9948,7 +9948,7 @@
    "question": "Es ist erster April! Wer sollte dich besser NICHT reinlegen?",
    "questionShort": "Erster April",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9965,7 +9965,7 @@
    "question": "Nach einem ganzen Jahr Training, Schweiß, Blut und Tränen- wer hätte die beste Chance eine Goldmedaille im Turnen zu gewinnen?",
    "questionShort": "Goldmedaille gewinnen",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -9987,7 +9987,7 @@
    "question": "Das beste was man an einem Geburtstag machen kann, auch wenn man erwachsen ist.",
    "questionShort": "Bester Geburtstag",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10004,7 +10004,7 @@
    "question": "Wer könnte Batman am besten verkörpern?",
    "questionShort": "Toller Batman!",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10026,7 +10026,7 @@
    "question": "Der beste Teil eines Live Konzerts!",
    "questionShort": "Bestes Live Konzert",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10048,7 +10048,7 @@
    "question": "Für welche Eiscreme entscheidest du dich? Der Geschmack ist eine Überraschung!",
    "questionShort": "Lieblingseis",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10071,7 +10071,7 @@
    "question": "Zeit dein Buch wegzulegen. Wie merkst du dir auf welcher Seite du warst?",
    "questionShort": "Bucherinnerung",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10095,7 +10095,7 @@
    "question": "Wer ist die Love Interest in dem Jugendbuch, das du schreibst?",
    "questionShort": "Love Interests",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10117,7 +10117,7 @@
    "question": "Zu welcher Attraktion wirst du auf der Kirmes nicht gehen?",
    "questionShort": "nicht so attraktiv",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10139,7 +10139,7 @@
    "question": "Was IST dein Lieblingsfach?",
    "questionShort": "Lieblingsfach",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10161,7 +10161,7 @@
    "question": "Willkommen in deiner neuen Wohnung. Wie machst du sie zu einem richtigen Zuhause?",
    "questionShort": "Zuhause",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10183,7 +10183,7 @@
    "question": "In welcher deutschen Stadt würdest du am liebsten leben?",
    "questionShort": "Beste Stadtnamen",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10197,10 +10197,10 @@
    "intro": null,
    "isValid": "numPlayers >= 6",
    "outro": null,
-   "question": "Er ist am besten darin schlechte Neuigkeiten zu überbringen?",
+   "question": "Wer ist am besten darin schlechte Neuigkeiten zu überbringen?",
    "questionShort": "Schlechte Neuigkeiten",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10217,7 +10217,7 @@
    "question": "Wer wäre die beste Begleitung auf einer Hochzeit bei der du das Pärchen nur so ein wenig kennst?",
    "questionShort": "Beste Begleitung",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10234,7 +10234,7 @@
    "question": "Wenn ich was zwischen den Zähnen hätte, wer von euch würde zuerst was sagen?",
    "questionShort": "Ehrlichkeit!",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10256,7 +10256,7 @@
    "question": "Was ist der schlimmste Teil eines Open Air Festivals?",
    "questionShort": "Open Air Festival",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10271,9 +10271,9 @@
    "isValid": "numPlayers >= 6",
    "outro": null,
    "question": "Willkommen in der Selbsthilfegruppe. Wer weint als erstes?",
-   "questionShort": "Selbsthilfegruppe'",
+   "questionShort": "Selbsthilfegruppe",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10292,10 +10292,10 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Du musst dieses Rennen gewinnen! WElches Fahrzeug wählst du?",
+   "question": "Du musst dieses Rennen gewinnen! Welches Fahrzeug wählst du?",
    "questionShort": "Fahrzeugrennen",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10319,7 +10319,7 @@
    "question": "Wenn ich es mir aussuchen müsste, wäre das beste Date...",
    "questionShort": "Gotham City Date",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -10341,9 +10341,9 @@
    "isValid": "",
    "outro": null,
    "question": "Welches Auto würdest du am liebsten besitzen?",
-   "questionShort": "Coolest Cars",
+   "questionShort": "Coolste Autos",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10369,7 +10369,7 @@
    "question": "Wo würdest du die Liebe deines Lebens am liebsten kennenlernen?",
    "questionShort": "Liebe des Lebens",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10393,7 +10393,7 @@
    "question": "Welches Hobby würdest du echt gerne lernen?",
    "questionShort": "interessante Hobbies",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10464,7 +10464,7 @@
    "question": "Der schlimmste Albtraum, den man haben kann?",
    "questionShort": "schlimme Albträume",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10486,7 +10486,7 @@
    "question": "Das schlimmste Wort.",
    "questionShort": "schlimme Worte",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -10505,10 +10505,10 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "WElcher dieser Orte ist am langweiligsten?",
+   "question": "Welcher dieser Orte ist am langweiligsten?",
    "questionShort": "langweilige Orte",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10530,7 +10530,7 @@
    "question": "Welcher Ort wäre der beste, um dort Verstecken zu spielen?",
    "questionShort": "riesiges Versteckspiel",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10552,7 +10552,7 @@
    "question": "Wo sollte man seinen Ausweis definitv nicht vergessen?",
    "questionShort": "Vergessener Ausweis",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -10560,7 +10560,7 @@
    "choices": [
     "langer Kriegsfilm",
     "Tanzfilm",
-    " Musicalfilm",
+    "Musicalfilm",
     "Remake eines Films aus den 80ern",
     "Inspirierender Pferdefilm",
     "Autorennfilm",
@@ -10574,7 +10574,7 @@
    "question": "Das schlechteste Filmgenre?",
    "questionShort": "schlechte Filme",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -11021,116 +11021,113 @@
   {
    "category": "favorite",
    "choices": [
-    "Earth",
-    "Fire",
-    "Water",
-    "Air",
-    "Electricity",
-    "Light",
-    "Darkness",
-    "Plants"
+    "Erde",
+    "Feuer",
+    "Wasser",
+    "Luft",
+    "Elektrizität",
+    "Licht",
+    "Dunkelheit",
+    "Pflanzen"
    ],
    "id": "83665",
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Which element would you like to have complete control over?",
-   "questionShort": "Elemental Mastery",
+   "question": "Über welches Element hättest du gerne die volle Kontrolle?",
+   "questionShort": "Elementare Meisterung",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "category": "favorite",
    "choices": [
     "[i]Toy Story[/i]",
-    "[i]Monsters, Inc.[/i]",
-    "[i]Finding Nemo[/i]",
-    "[i]The Incredibles[/i]",
+    "[i]Monster AG[/i]",
+    "[i]Findet Nemo[/i]",
+    "[i]Die Unglaublichen[/i]",
     "[i]Cars[/i]",
     "[i]Ratatouille[/i]",
     "[i]WALL-E[/i]",
     "[i]Soul[/i]",
     "[i]Coco[/i]",
-    "[i]Toy Story 3[/i]",
-    "[i]Up[/i]",
-    "[i]Inside Out[/i]"
+    "[i]Rot[/i]",
+    "[i]Oben[/i]",
+    "[i]Alles steht Kopf[/i]"
    ],
    "id": "83680",
-   "intro": "Try not to cry for this one...",
+   "intro": "Versucht bei der hier nicht zu weinen...",
    "isValid": "",
    "outro": null,
-   "question": "What is your favorite Pixar movie?",
-   "questionShort": "Your Favorite Pixar",
+   "question": "Was ist dein Lieblings-Pixar-Film?",
+   "questionShort": "Dein Lieblings-Pixar",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "category": "favorite",
    "choices": [
-    "Dallas, TX",
-    "Boston, MA",
-    "Seattle, WA",
-    "Nashville, TN",
-    "Chicago, IL",
-    "San Diego, CA",
-    "Phoenix, AZ",
-    "Denver, CO",
-    "Atlanta, GA",
-    "Miami, FL",
-    "New York, NY",
-    "New Orleans, LA"
+    "Hamburg",
+    "München",
+    "Bonn",
+    "Berlin",
+    "Köln",
+    "Nürnberg",
+    "Dresden",
+    "Freiburg",
+    "Duisburg"
    ],
    "id": "83681",
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Your job will let you live anywhere in the U.S. Where do you want to live?",
-   "questionShort": "US Cities",
+   "question": "Dein Job ermöglicht es dir überall in Deutschland zu leben. Wo möchtest du leben?",
+   "questionShort": "Deutsche Städte",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "category": "worst",
    "choices": [
-    "Holding a Fish",
-    "DJing at a Club",
-    "Bathroom Selfie",
-    "Funeral Group Pic",
-    "Aggressive Display of Wealth",
-    "Drunk at Sports Game",
-    "Showcases Tragic Tattoo",
-    "No Humans, Just Horses"
+    "Einen Fisch halten",
+    "Im Club als DJ arbeiten",
+    "Badezimmer Selfie",
+    "Beerdigung Gruppenfoto",
+    "Aggressives Zeigen von Reichtum",
+    "Betrunken bei Sportspiel",
+    "Präsentiert tragisches Tattoo",
+    "Keine Menschen, nur Pferde"
    ],
    "id": "83685",
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Time for some online dating! What profile picture would you be most likely to swipe right on?! (Say yes to!)",
-   "questionShort": "Swipe Right To...",
+   "question": "Zeit für etwas Online-Dating! Bei welchem Profilbild würdest du am ehesten direkt nach rechts swipen?! (Ja sagen!)",
+   "questionShort": "Swipe Rechts um...",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
    "category": "hypothetical",
    "choices": [
-    "Mad Scientist",
+    "Verrückter Wissenschaftler",
     "Clown",
-    "Superhero",
+    "Superheld",
     "Rock Star",
     "Manager",
-    "Supernaturally Evil",
-    "Masked and Mysterious",
-    "Just, Like, Terrifyingly Enormous"
+    "Übernatürlich böse",
+    "Maskiert und mysteriös",
+    "Einfach, irgendwie furchteinflößend"
    ],
    "id": "83686",
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Pick a wrestling gimmick/character before you get in the ring!",
+   "question": "Wähle einen Wrestling-Gimmick/Charakter, bevor du in den Ring steigst!",
    "questionShort": "Ready to Rumble",
    "round": "third",
    "us": true,
@@ -11139,138 +11136,134 @@
   {
    "category": "favorite",
    "choices": [
-    "Mystery",
+    "Rätsel",
     "Fantasy/Sci-Fi",
-    "Literary Fiction",
-    "Young Adult",
-    "Biography",
-    "Essay Collection",
-    "Nonfiction",
-    "Cookbook"
+    "Literarische Fiktion",
+    "Junge Erwachsene",
+    "Biographie",
+    "Essay-Sammlung",
+    "Sachbuch",
+    "Kochbuch"
    ],
    "id": "83687",
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Your TV is broken and the library is open! Pick a book to read tonight.",
-   "questionShort": "Which Book to Read",
+   "question": "Dein Fernseher ist kaputt und die Bibliothek hat geöffnet! Welches Buch möchtest du heute Abend lesen?",
+   "questionShort": "Welches Buch lesen?",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "category": "set",
    "choices": [
-    "Family Photo",
-    "Stuffed Animal",
-    "Good Book",
-    "Camera Gear",
-    "Musical Instrument",
-    "Personal Clothing",
-    "Spiritual Token",
-    "Alien-Fightin' Hammer"
+    "Familienfoto",
+    "Plüschtier",
+    "Gutes Buch",
+    "Kamera-Ausrüstung",
+    "Musikinstrument",
+    "Persönliche Kleidung",
+    "Glücksbringer",
+    "Hammer gegen Aliens"
    ],
    "id": "83688",
-   "intro": "Space... the final FUN-tier! Hey, you live in a cave long enough, you learn to make yourself laugh.",
+   "intro": "Ihr bekommt von mir alle einen Freiflugsschein ins Weltall...",
    "isValid": "",
    "outro": null,
-   "question": "Every astronaut gets to bring a Personal Preference Kit into space with them. What would go in your kit?",
-   "questionShort": "Astronaut Baggage",
+   "question": "Jeder Astronaut darf ein persönliches Kit mit ins All nehmen. Was soll in dein Kit?",
+   "questionShort": "Astronauten Handgepäck",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "category": "hypothetical",
    "choices": [
-    "Kitchen",
-    "Living Room",
-    "Bedroom",
-    "Bathroom",
-    "Dining Room",
-    "Porch",
-    "Basement",
-    "Home Office",
-    "Nursery",
-    "Home Gym"
+    "Küche",
+    "Wohnzimmer",
+    "Schlafzimmer",
+    "Badezimmer",
+    "Küche",
+    "Keller",
+    "Arbeitszimmer",
+    "Balkon"
    ],
    "id": "83698",
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "New rule: you're only allowed to listen to music or podcasts in one room of your house. Which room are you choosing?",
-   "questionShort": "Music Rooms",
+   "question": "Neue Regel: Du darfst nur noch in einem Raum deines Hauses Musik oder Podcasts hören. Welches Zimmer nimmst du?",
+   "questionShort": "Musik-Räume",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "category": "hypothetical",
    "choices": [
-    "Plush Toy",
-    "Costume Jewelry",
-    "Candy!",
-    "Neat Stickers",
-    "Bouncy Ball",
-    "Fun Watch",
-    "Shiny Yo-Yo",
-    "Mysterious Egg"
+    "Plüsch-Spielzeug",
+    "Goldener Plastikring",
+    "Süßes!",
+    "Nette Sticker",
+    "Flummi",
+    "Bunte Armbanduhr",
+    "Fancy Jo-Jo",
+    "Überraschungs-Ei"
    ],
    "id": "83700",
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "You've got a stack of quarters and an hour to kill. What prize are you trying to grab out of the claw machine?",
-   "questionShort": "Claw and Order",
+   "question": "Du hast einen Stapel Kleinkeld und eine Stunde um ihn auszugeben. Was versuchst du, aus dem Greifautomaten zu ergattern?",
+   "questionShort": "Greifender Spaß",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "category": "favorite",
    "choices": [
     "{{PLAYERS}}",
-    "Ariana Grande",
-    "Matt Damon"
+    "Udo Lindenberg",
+    "Kai Pflaume"
    ],
    "id": "83701",
    "intro": null,
    "isValid": "numPlayers >= 6",
    "outro": null,
-   "question": "You're lost in a new country and have nowhere to stay. Who do you want as your co-pilot on this international adventure?",
-   "questionShort": "Travel Buddies",
+   "question": "Du hast dich in einem neuen Land verirrt und kannst nirgendwo bleiben. Wen wünschst du dir als Co-Pilot bei diesem Abenteuer?",
+   "questionShort": "Reisekumpel",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "category": "favorite",
    "choices": [
     "{{PLAYERS}}",
-    "Robert Downey Jr.",
-    "Emma Watson"
+    "Angela Merkel",
+    "Horst Lichter"
    ],
    "id": "83702",
    "intro": null,
    "isValid": "numPlayers >= 6",
    "outro": null,
-   "question": "Who do you absolutely trust to plan the perfect birthday for you?",
-   "questionShort": "Birthday Plans",
+   "question": "Wem vertraust du absolut, um den perfekten Geburtstag für dich zu planen?",
+   "questionShort": "Geburtstagsplanungen",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "category": "hypothetical",
    "choices": [
-    "Franc",
+    "Franken",
     "Euro",
-    "Rupee",
+    "Rupie",
     "Peso",
-    "Shilling",
+    "Schilling",
     "Rand",
-    "Dinar",
-    "Rial",
     "Lira",
     "Yen",
     "Dollar"
@@ -11279,32 +11272,32 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Which term for currency would make the nicest name for a newborn baby?",
-   "questionShort": "Million Euro Babies",
+   "question": "Welcher Begriff für Währung wäre der schönste Name für ein Neugeborenes?",
+   "questionShort": "Millionen Euro Babies",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "category": "favorite",
    "choices": [
-    "Black Mud",
+    "Schwarzer Schlamm",
     "Aloe Vera Gel",
-    "Cucumber Puree",
-    "Salt Water",
-    "Wet Sand",
-    "Coconut Milk Fat",
-    "Oatmeal",
-    "Chamomile Tea"
+    "Gurkenpüree",
+    "Salzwasser",
+    "Nasser Sand",
+    "Kokosmilchfett",
+    "Haferflocken",
+    "Kamillentee"
    ],
    "id": "83704",
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Welcome to our day spa! Choose which bathtub you'd like to soak in.",
-   "questionShort": "Unique Spa Soaks",
+   "question": "Willkommen in unserem Tages-Spa! In welcher Badewanne möchtest du baden?",
+   "questionShort": "Einzigartige Spa-Einweichungen",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -11312,12 +11305,12 @@
    "choices": [
     "New York City",
     "Paris",
-    "Chicago",
+    "Köln",
     "Hong Kong",
     "Istanbul",
     "Barcelona",
-    "Tokyo",
-    "Cairo",
+    "Tokio",
+    "Kairo",
     "London",
     "Seoul"
    ],
@@ -11325,10 +11318,10 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "The city you most want to visit... ten years in the future.",
-   "questionShort": "Future Cities",
+   "question": "Die Stadt, die du am liebsten besuchen würdest... in 10 Jahren.",
+   "questionShort": "Zukünftige Städte",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -11336,12 +11329,12 @@
    "choices": [
     "New York City",
     "Paris",
-    "Chicago",
+    "Köln",
     "Hong Kong",
     "Istanbul",
     "Barcelona",
-    "Tokyo",
-    "Cairo",
+    "Tokio",
+    "Kairo",
     "London",
     "Seoul"
    ],
@@ -11349,32 +11342,32 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "The city you most want to visit... 100 years ago!",
-   "questionShort": "Historic Cities",
+   "question": "Die Stadt, die du am liebsten besuchen würdest... vor 100 Jahren!",
+   "questionShort": "Historische Städte",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "category": "favorite",
    "choices": [
-    "Roast & Mashed Potatoes",
-    "Curry Chicken & Rice",
-    "Grilled Cheese & Tomato Soup",
-    "Ramen with Egg",
-    "Tacos & Rice",
-    "Spaghetti & Fried Fish",
-    "Mediterranean Salad",
-    "Burger & Fries"
+    "Bratkartoffeln & Kartoffelpüree",
+    "Currywurst mit Reis",
+    "Gegrillter Käse & Tomaten-Suppe",
+    "Ramen mit Ei",
+    "Tacos & Reis",
+    "Spaghetti & gebratener Fisch",
+    "Salat",
+    "Burger & Pommes"
    ],
    "id": "83725",
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Which meal could you happily eat for dinner every day for the rest of your life?",
-   "questionShort": "Everyday Dinners",
+   "question": "Welche Mahlzeit könntest du problemlos für den Rest deines Lebens jeden Tag glücklich zu Abend essen?",
+   "questionShort": "Alltägliches Abendessen",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -11434,7 +11427,7 @@
     "Mundharmonika"
    ],
    "id": "83773",
-   "intro": "This is a really obscure survey, you've probably never heard of it.",
+   "intro": "Das ist eine wirklich obskure Umfrage, von der habt ihr wahrscheinlich noch nie gehört.",
    "isValid": "",
    "outro": "Jetzt fehlt euch allen nur noch ein angesagter Bandname. Wie wär's mit \"Gefangen für immer\"?",
    "question": "Du gründest eine Indie-Rock-Band. Welche einzigartigen Dinge sollen dir beim perfekten Sound helfen?",
