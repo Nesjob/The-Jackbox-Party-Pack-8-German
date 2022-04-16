@@ -739,7 +739,7 @@
             "exactSpelling": false,
             "id": "77196",
             "isValid": "",
-            "prompt": "Die 10 umsatzstärksten Möbelhauser und Baumärkte in Deutschland 2020",
+            "prompt": "Die 10 umsatzstärksten Möbelhäuser und Baumärkte in Deutschland 2020",
             "subtype": "name",
             "us": false,
             "x": false
@@ -3510,7 +3510,8 @@
                         "Hähnchen",
                         "Hähnchenfleisch",
                         "Fleisch",
-                        "Hähnchenfilet"
+                        "Hähnchenfilet",
+                        "Huhn"
                     ],
                     "hint": "Denkt dran, das Sandwich ist nichts für Vegetarier.",
                     "text": "Hähnchenbrustfilet"
@@ -6813,7 +6814,7 @@
             "isValid": "",
             "prompt": "Hauptfiguren aus [i]Spongebob Schwammkopf[/i]",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -7696,7 +7697,7 @@
             "isValid": "",
             "prompt": "Welche 5 Spiele sind im [i]Jackbox Party Pack 7[/i] enthalten?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {

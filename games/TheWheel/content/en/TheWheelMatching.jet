@@ -183,7 +183,7 @@
    "isValid": "",
    "prompt": "Ordne dem Buch einen Autor zu",
    "promptHeader": "Bestseller der 2010er-Jahre",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -427,7 +427,7 @@
    "isValid": "",
    "prompt": "Ordne das Alien seinem Freund zu",
    "promptHeader": "Aliens und ihre Freunde",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -775,7 +775,7 @@
    "isValid": "",
    "prompt": "Ordne die Neuerung dem Minecraft-Java-Update zu",
    "promptHeader": "Welches Update war das?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1817,7 +1817,7 @@
    "isValid": "",
    "prompt": "Ordne die fiktionale Sprache dem Universum zu",
    "promptHeader": "Fiktive Sprachen",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1953,7 +1953,7 @@
    "isValid": "",
    "prompt": "Ordne dem Rapper das Debütalbum zu",
    "promptHeader": "Rapper und ihre Debütalben",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2073,7 +2073,7 @@
    "isValid": "",
    "prompt": "Ordne den Künstler seinem Debütalbum zu",
    "promptHeader": "Berühmte Debütalben",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4245,7 +4245,7 @@
    "isValid": "",
    "prompt": "Ordne die Zutat dem Sushi-Gericht zu",
    "promptHeader": "“Hat jemand Lust auf Sushi?”",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4307,7 +4307,7 @@
    "isValid": "",
    "prompt": "Ordne den Gitarristen seiner Band zu",
    "promptHeader": "Götter der Gitarre und mit wem sie abrocken",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4885,7 +4885,7 @@
    "isValid": "",
    "prompt": "Ordne den Film dem Jahrzehnt zu, in dem er spielt",
    "promptHeader": "Filme, die in einer anderen Dekade spielen, als sie gedreht wurden",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -5009,7 +5009,7 @@
    "isValid": "",
    "prompt": "Ordne die Cartoon-Figur ihrem besten Freund zu",
    "promptHeader": "Cartoon-BFFs",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6091,7 +6091,7 @@
    "isValid": "",
    "prompt": "Ordne dem Superheldenfilm den Hauptantagonisten zu",
    "promptHeader": "Böse Bösewichte und super Superheldenfilme",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6161,7 +6161,7 @@
    "isValid": "",
    "prompt": "Ordne die maskierte Figur ihrem Alter Ego zu",
    "promptHeader": "Maskierte Figuren und ihre (manchmal geheimen) echten Namen",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
