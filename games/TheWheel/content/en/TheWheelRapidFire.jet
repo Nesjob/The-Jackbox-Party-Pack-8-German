@@ -1131,7 +1131,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(In % der Gesamtmasse)",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1534,7 +1534,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(In Minuten)",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3009,7 +3009,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(In Wörtern)",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -3842,7 +3842,7 @@
    "category": "Celebrities",
    "id": "84657",
    "isValid": "",
-   "prompt": "Welcher dieser Personen wurde zuerst mit dem “Deutschen Comedypreis” ausgezeichnet?",
+   "prompt": "Welche dieser Personen wurde zuerst mit dem “Deutschen Comedypreis” ausgezeichnet?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
@@ -5853,7 +5853,7 @@
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
