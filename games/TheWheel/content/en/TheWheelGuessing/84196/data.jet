@@ -50,7 +50,8 @@
     {
       "t": "A",
       "v": "clues_0_clue",
-      "n": "ClueAudio0"
+      "n": "ClueAudio0",
+      "s": "Das Transportmittel kann bis zu eine Person transportieren und wird ausschließlich mit Muskelkraft bewegt."
     },
     {
       "t": "B",

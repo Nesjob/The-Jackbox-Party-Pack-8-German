@@ -3,59 +3,59 @@
   {
    "answers": [
     {
-     "match": "[i]Baywatch[/i]",
-     "text": "Dwayne Johnson"
+     "match": "Garmisch",
+     "text": "Michael Ende"
     },
     {
-     "match": "[i]Halloween: The Curse of Michael Myers[/i]",
-     "text": "Paul Rudd"
+     "match": "Berlin",
+     "text": "Sebastian Fitzek"
     },
     {
-     "match": "[i]The Emoji Movie[/i]",
-     "text": "Maya Rudolph"
+     "match": "Dresden",
+     "text": "Erich Kästner"
     },
     {
-     "match": "[i]Gigli[/i]",
-     "text": "Jennifer Lopez"
+     "match": "Frankfurt am Main",
+     "text": "Charlotte Link"
     },
     {
-     "match": "[i]The Last Airbender[/i]",
-     "text": "Dev Patel"
+     "match": "Ernstthal",
+     "text": "Karl May"
     },
     {
-     "match": "[i]Johnny Be Good[/i]",
-     "text": "Robert Downey, Jr."
+     "match": "München",
+     "text": "Ferdinand von Schirach"
     },
     {
-     "match": "[i]Batman & Robin[/i]",
-     "text": "George Clooney"
+     "match": "Kirchhundem",
+     "text": "Ulla Hahn"
     },
     {
-     "match": "[i]Catwoman[/i]",
-     "text": "Halle Berry"
+     "match": "Stuttgart",
+     "text": "Marc-Uwe Kling"
     },
     {
-     "match": "[i]Little Fockers[/i]",
-     "text": "Robert De Niro"
+     "match": "Gelsenkirchen",
+     "text": "Klaus-Peter Wolf"
     },
     {
-     "match": "[i]Fantastic Four[/i] (2015)",
-     "text": "Michael B. Jordan"
+     "match": "Münster",
+     "text": "Nele Neuhaus"
     }
    ],
-   "category": "Film & TV",
+   "category": "Literature",
    "decoys": [],
    "headers": [
     {
-     "match": "Movies",
-     "text": "Actors"
+     "match": "Geburtsorte",
+     "text": "Autoren"
     }
    ],
    "id": "76767",
    "isValid": "",
-   "prompt": "Match the actor to the movie appearance they do not brag about",
-   "promptHeader": "Actors and the Movies They Do Not Brag About",
-   "us": true,
+   "prompt": "Ordne den Autor seinem Geburtsort zu",
+   "promptHeader": "Autoren und ihre Geburtsorte",
+   "us": false,
    "x": false
   },
   {
@@ -183,65 +183,77 @@
    "isValid": "",
    "prompt": "Ordne dem Buch einen Autor zu",
    "promptHeader": "Bestseller der 2010er-Jahre",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "Vince Vaughn",
-     "text": "Anthony Perkins (Norman Bates)"
+     "match": "Algerien",
+     "text": "Fennek"
     },
     {
-     "match": "Johnny Depp",
-     "text": "Gene Wilder (Willy Wonka)"
+     "match": "Botsuana",
+     "text": "Steppenzebra"
     },
     {
-     "match": "Mads Mikkelsen",
-     "text": "Anthony Hopkins (Hannibal Lecter)"
+     "match": "Kanada",
+     "text": "Amerikanischer Biber"
     },
     {
-     "match": "Jodie Whittaker",
-     "text": "David Tennant (The Doctor)"
+     "match": "Kroatien",
+     "text": "Baummarder"
     },
     {
-     "match": "Gary Oldman",
-     "text": "Bela Lugosi (Dracula)"
+     "match": "Dänemark",
+     "text": "Eurasisches Eichhörnchen"
     },
     {
-     "match": "Anne Hathaway",
-     "text": "Michelle Pfeiffer (Catwoman)"
+     "match": "Frankreich",
+     "text": "Gallischer Hahn"
     },
     {
-     "match": "Emily Blunt",
-     "text": "Julie Andrews (Mary Poppins)"
+     "match": "Mexiko",
+     "text": "Steinadler"
     },
     {
-     "match": "Ralph Fiennes",
-     "text": "Judi Dench (M)"
+     "match": "England",
+     "text": "Löwe"
     },
     {
-     "match": "Jennifer Lawrence",
-     "text": "Rebecca Romijn (Mystique)"
+     "match": "Schweden",
+     "text": "Elch"
     },
     {
-     "match": "Robert Downey Jr.",
-     "text": "Basil Rathbone (Sherlock Holmes)"
+     "match": "Tansania",
+     "text": "Giraffe"
+    },
+    {
+     "match": "Indien",
+     "text": "Tiger" 
+    },
+    {
+     "match": "Neuseeland",
+     "text": "Kiwi"
+    },
+    {
+     "match": "Australien",
+     "text": "Rotes Riesenkänguru"
     }
    ],
-   "category": "Film & TV",
+   "category": "Factoids",
    "decoys": [],
    "headers": [
     {
-     "match": "Recreated the Role",
-     "text": "Played the Role Earlier"
+     "match": "Länder",
+     "text": "Nationaltiere"
     }
    ],
    "id": "76795",
    "isValid": "",
-   "prompt": "Match the actor who played a role earlier with the actor who recreated the role",
-   "promptHeader": "Performers Who Share a Role",
-   "us": true,
+   "prompt": "Ordne das Nationaltier seinem Land zu",
+   "promptHeader": "Tiere, die ihr Land repräsentieren",
+   "us": false,
    "x": false
   },
   {
@@ -397,6 +409,10 @@
     {
      "match": "Mr. Nobody",
      "text": "Xenomorph aus [i]Alien[/i]"
+    },
+    {
+     "match": "Jake Ochmonek",
+     "text": "Alf"
     }
    ],
    "category": "Film & TV",
@@ -409,9 +425,9 @@
    ],
    "id": "76830",
    "isValid": "",
-   "prompt": "Ordne die Aliens ihren Freunden zu",
+   "prompt": "Ordne das Alien seinem Freund zu",
    "promptHeader": "Aliens und ihre Freunde",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -707,7 +723,7 @@
    ],
    "id": "76865",
    "isValid": "",
-   "prompt": "Ordne der Nation ihrer Flagge zu",
+   "prompt": "Ordne der Nation ihre Flagge zu",
    "promptHeader": "Nationalflaggen",
    "us": false,
    "x": false
@@ -715,50 +731,50 @@
   {
    "answers": [
     {
-     "match": "Mr. Pink",
-     "text": "[i]Reservoir Dogs[/i]"
+     "match": "1.16",
+     "text": "Biome im Nether"
     },
     {
-     "match": "Carl Showalter",
-     "text": "[i]Fargo[/i]"
+     "match": "1.14",
+     "text": "Man kann schwimmen"
     },
     {
-     "match": "“The Marietta Mangler”",
-     "text": "[i]Con Air[/i]"
+     "match": "1.12",
+     "text": "Farbige Betten"
     },
     {
-     "match": "Seymour",
-     "text": "[i]Ghost World[/i]"
+     "match": "1.10",
+     "text": "Eisbären"
     },
     {
-     "match": "Randall",
-     "text": "[i]Monsters, Inc.[/i]"
+     "match": "1.9",
+     "text": "Neues Kampfsystem mit Cooldown"
     },
     {
-     "match": "Tony Blundetto",
-     "text": "[i]The Sopranos[/i]"
+     "match": "1.8",
+     "text": "Schleimblöcke"
     },
     {
-     "match": "Lenny Wosniak",
-     "text": "[i]30 Rock[/i]"
+     "match": "1.5",
+     "text": "Redstone"
     },
     {
-     "match": "“Nucky” Thompson",
-     "text": "[i]Boardwalk Empire[/i]"
+     "match": "1.4",
+     "text": "Kommandoblock"
     }
    ],
    "category": "Film & TV",
    "decoys": [],
    "headers": [
     {
-     "match": "Characters",
-     "text": "Shows and Movies"
+     "match": "Update",
+     "text": "Feature"
     }
    ],
    "id": "76866",
    "isValid": "",
-   "prompt": "Match the show or movie to the Steve Buscemi character",
-   "promptHeader": "What Is Steve Buscemi Called in This?",
+   "prompt": "Ordne die Neuerung dem Minecraft-Java-Update zu",
+   "promptHeader": "Welches Update war das?",
    "us": true,
    "x": false
   },
@@ -823,7 +839,7 @@
    ],
    "id": "76867",
    "isValid": "",
-   "prompt": "Ordne dem Wort seinem Gegenteil zu",
+   "prompt": "Ordne dem Wort sein Gegenteil zu",
    "promptHeader": "Gegenteile",
    "us": false,
    "x": false
@@ -831,127 +847,127 @@
   {
    "answers": [
     {
-     "match": "[i]All’s Well That Ends Well[/i]",
-     "text": "[i]War and Peace[/i]"
+     "match": "Abgrenzung Organismen / Außenwelt",
+     "text": "Haut"
     },
     {
-     "match": "[i]They Don’t Build Statues to Businessmen[/i]",
-     "text": "[i]Valley of the Dolls[/i]"
+     "match": "Verringerte Reibung im Kniegelenk",
+     "text": "Meniskus"
     },
     {
-     "match": "[i]Among Ash-Heaps and Millionaires[/i]",
-     "text": "[i]The Great Gatsby[/i]"
+     "match": "Bewegung des Schultergelenks",
+     "text": "Schlüsselbein"
     },
     {
-     "match": "[i]The Last Man in Europe[/i]",
-     "text": "[i]1984[/i]"
+     "match": "Verbindung Kurz- & Langzeitgedächtnis",
+     "text": "Hippocampus"
     },
     {
-     "match": "[i]Atticus[/i]",
-     "text": "[i]To Kill a Mockingbird[/i]"
+     "match": "Steuerung vegetativer Funktionen",
+     "text": "Hypothalamus"
     },
     {
-     "match": "[i]First Impressions[/i]",
-     "text": "[i]Pride and Prejudice[/i]"
+     "match": "Auge schützen",
+     "text": "Augenlid"
     },
     {
-     "match": "[i]War[/i]",
-     "text": "[i]Paradise[/i]"
+     "match": "Kaudruck weiterleiten",
+     "text": "Jochbein"
     },
     {
-     "match": "[i]Strangers from Within[/i]",
-     "text": "[i]Lord of the Flies[/i]"
+     "match": "Bildung von Hormonen",
+     "text": "Bauchspeicheldrüse"
     },
     {
-     "match": "[i]The Strike[/i]",
-     "text": "[i]Atlas Shrugged[/i]"
+     "match": "Hormonspeicher",
+     "text": "Schilddrüse"
     }
    ],
-   "category": "Literature",
+   "category": "Science & Medicine",
    "decoys": [],
    "headers": [
     {
-     "match": "Rejected Titles",
-     "text": "Books"
+     "match": "Funktion",
+     "text": "Körperteil"
     }
    ],
    "id": "76868",
    "isValid": "",
-   "prompt": "Match the book to its rejected title",
-   "promptHeader": "Classic Books and Their Rejected Titles",
-   "us": true,
+   "prompt": "Ordne dem Körperteil seine Funktion zu",
+   "promptHeader": "Körperteile und ihre Funktion",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "Beanie Fieldstein",
-     "text": "Jonah Hill"
+     "match": "Ich denke also bin ich",
+     "text": "René Descartes"
     },
     {
-     "match": "Warren Beatty",
-     "text": "Shirley MacLaine"
+     "match": "Ich weiß, dass ich nichts weiß",
+     "text": "Sokrates"
     },
     {
-     "match": "Gloria Vanderbilt",
-     "text": "Anderson Cooper"
+     "match": "Wissen ist Macht",
+     "text": "Francis Bacon"
     },
     {
-     "match": "Dionne Warwick",
-     "text": "Whitney Houston"
+     "match": "Wir haben richtig gehandelt",
+     "text": "Michael Gorbatschow"
     },
     {
-     "match": "George Wendt",
-     "text": "Jason Sudeikis"
+     "match": "Yes we can",
+     "text": "Barack Obama"
     },
     {
-     "match": "Owen Wilson",
-     "text": "Luke Wilson"
+     "match": "Frankreich's Glück war mein einziger Gedanke",
+     "text": "Napoleon Bonaparte"
     },
     {
-     "match": "Sofia Coppola",
-     "text": "Nicolas Cage"
+     "match": "Bleibt hungrig, bleib albern",
+     "text": "Steve Jobs"
     },
     {
-     "match": "Solange",
-     "text": "Beyoncé"
+     "match": "I have a dream",
+     "text": "Martin Luther King"
     },
     {
-     "match": "Al Roker",
-     "text": "Lenny Kravitz"
+     "match": "Wollt ihr den totalen Krieg?",
+     "text": "Joseph Goebbels"
     },
     {
-     "match": "Kate Hudson",
-     "text": "Goldie Hawn"
+     "match": "Wir werden uns nie ergeben",
+     "text": "Winston Churchill"
     },
     {
-     "match": "Emilio Esteves",
-     "text": "Charlie Sheen"
+     "match": "Ich bin ein Berliner",
+     "text": "John F. Kennedy"
     },
     {
-     "match": "Brandy",
-     "text": "Snoop Dogg"
+     "match": "I look not back, I look in front",
+     "text": "Lothar Matthäus"
     }
    ],
    "category": "Celebrities",
    "decoys": [],
    "headers": [
     {
-     "match": "Relatives",
-     "text": "Celebrities"
+     "match": "Zitat",
+     "text": "Persönlichkeit"
     }
    ],
    "id": "76870",
    "isValid": "",
-   "prompt": "Match the celebrity to their relative",
-   "promptHeader": "Celebrities Related by Blood",
-   "us": true,
+   "prompt": "Ordne der Persönlichkeit sein Zitat zu",
+   "promptHeader": "Zitate von Persönlichkeiten",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "Van Helsing",
+     "match": "Abraham van Helsing",
      "text": "Dracula"
     },
     {
@@ -971,81 +987,81 @@
      "text": "Terminator"
     },
     {
-     "match": "Ashley “Ash” Williams",
-     "text": "Deadites"
+     "match": "Ghostbusters",
+     "text": "Gozer"
     },
     {
-     "match": "The Winchesters",
-     "text": "Azazel"
+     "match": "Martin Brody",
+     "text": "Der weiße Hai"
     },
     {
      "match": "Godzilla",
-     "text": "King Ghidorah"
+     "text": "König Ghidorah"
     },
     {
-     "match": "The Losers Club",
-     "text": "It"
+     "match": "Der Klub der Verlierer",
+     "text": "Es"
     }
    ],
    "category": "Pop Culture",
    "decoys": [],
    "headers": [
     {
-     "match": "Hunters",
-     "text": "Monsters"
+     "match": "Jäger",
+     "text": "Monster"
     }
    ],
    "id": "76872",
    "isValid": "",
-   "prompt": "Match the monster to its hunter",
-   "promptHeader": "Monster Hunters",
+   "prompt": "Ordne das Monster seinem Jäger zu",
+   "promptHeader": "Monster und ihre Jäger",
    "us": true,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "Fala",
-     "text": "FDR"
+     "match": "Baltique",
+     "text": "Francois Mitterrand"
     },
     {
-     "match": "Grits",
-     "text": "Jimmy Carter"
+     "match": "Tyras",
+     "text": "Otto von Bismarck"
     },
     {
-     "match": "Sweet Lips",
-     "text": "George Washington"
+     "match": "Tölpel",
+     "text": "Martin Luther"
     },
     {
-     "match": "Calamity Jane",
-     "text": "Calvin Collidge"
+     "match": "Susan",
+     "text": "Königin Elisabeth II."
     },
     {
-     "match": "Socks",
-     "text": "Bill Clinton"
+     "match": "Lump",
+     "text": "Pablo Picasso"
     },
     {
-     "match": "Veto",
-     "text": "James A. Garfield"
+     "match": "Erdmann",
+     "text": "Wilhelm II."
     },
     {
      "match": "Fido",
      "text": "Abraham Lincoln"
     },
     {
-     "match": "Pauline Wayne",
-     "text": "William Howard Taft"
+     "match": "Dash",
+     "text": "Königin Victoria"
     },
     {
      "match": "Bo",
      "text": "Barack Obama"
     },
     {
-     "match": "(no pet)",
-     "text": "Donald Trump"
+     "match": "Nemo",
+     "text": "Emmanuel Macron"
     },
     {
-     "match": "Major",
+     "match": "Commander",
      "text": "Joe Biden"
     }
    ],
@@ -1053,65 +1069,65 @@
    "decoys": [],
    "headers": [
     {
-     "match": "Pets",
-     "text": "Presidents"
+     "match": "Hunde",
+     "text": "Berühmte Persönlichkeiten"
     }
    ],
    "id": "76873",
    "isValid": "",
-   "prompt": "Match the president to the pet",
-   "promptHeader": "Presidential Pets",
-   "us": true,
+   "prompt": "Ordne den Hund der Persönlichkeit zu",
+   "promptHeader": "“Nicht ohne meinen Hund!”",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "New York City",
-     "text": "Bethenny Frankel"
+     "match": "Köln",
+     "text": "Konrad Adenauer"
     },
     {
-     "match": "New Jersey",
-     "text": "Teresa Giudice"
+     "match": "Fürth",
+     "text": "Ludwig Erhard"
     },
     {
-     "match": "Orange County",
-     "text": "Vicki Gunvalson"
+     "match": "Ebingen",
+     "text": "Kurt Georg Kiesinger"
     },
     {
-     "match": "Atlanta",
-     "text": "NeNe Leakes"
+     "match": "Lübeck",
+     "text": "Willy Brandt"
     },
     {
-     "match": "Salt Lake City",
-     "text": "Mary Cosby"
+     "match": "Hamburg",
+     "text": "Angela Merkel"
     },
     {
-     "match": "Dallas",
-     "text": "Brandi Redmond"
+     "match": "Ludwigshafen am Rhein",
+     "text": "Helmut Kohl"
     },
     {
-     "match": "Beverly Hills",
-     "text": "Lisa Vanderpump"
+     "match": "Mossenberg-Wöhren",
+     "text": "Gerhard Schröder"
     },
     {
-     "match": "Potomac",
-     "text": "Gizelle Bryant"
+     "match": "Osnabrück",
+     "text": "Olaf Scholz"
     }
    ],
    "category": "Celebrities",
    "decoys": [],
    "headers": [
     {
-     "match": "Cities",
-     "text": "Housewives"
+     "match": "Geburtsorte",
+     "text": "Bundeskanzler"
     }
    ],
    "id": "76874",
    "isValid": "",
-   "prompt": "Match the Real Housewife to her home city",
-   "promptHeader": "[i]The Real Housewives of[/i]...",
-   "us": true,
+   "prompt": "Ordne den Bundeskanzler seinem Geburtsort zu",
+   "promptHeader": "Bundeskanzler und ihre Geburtsorte",
+   "us": false,
    "x": false
   },
   {
@@ -1163,59 +1179,63 @@
   {
    "answers": [
     {
-     "match": "“Meet The Plastics”",
-     "text": "[i]Mean Girls[/i]"
+     "match": "“Ich wünsch mir”",
+     "text": "Schneewittchen"
     },
     {
-     "match": "“The Election of 1800”",
-     "text": "[i]Hamilton[/i]"
+     "match": "“Ich hab ihn im Traum gesehen”",
+     "text": "Cinderella"
     },
     {
-     "match": "“Mungojerrie and Rumpleteazer”",
-     "text": "[i]Cats[/i]"
+     "match": "“Einmal in einem Traum”",
+     "text": "Aurora"
     },
     {
-     "match": "“They Live in You”",
-     "text": "[i]The Lion King[/i]"
+     "match": "“Ein Mensch zu sein”",
+     "text": "Arielle"
     },
     {
-     "match": "“Money, Money, Money”",
-     "text": "[i]Mamma Mia![/i]"
+     "match": "“Unsere Stadt”",
+     "text": "Belle"
     },
     {
-     "match": "“Seasons of Love”",
-     "text": "[i]Rent[/i]"
+     "match": "“Ein Traum wird wahr”",
+     "text": "Jasmin"
     },
     {
-     "match": "“If I Were A Rich Man”",
-     "text": "[i]Fiddler on the Roof[/i]"
+     "match": "“Das Farbenspiel des Windes”",
+     "text": "Pocahontas"
     },
     {
-     "match": "“My Girlfriend, Who Lives in Canada”",
-     "text": "[i]Avenue Q[/i]"
+     "match": "“Spiegelbild”",
+     "text": "Mulan"
     },
     {
-     "match": "“All Er Nuthin’”",
-     "text": "[i]Oklahoma![/i]"
+     "match": "“Ganz nah dran”",
+     "text": "Tiana"
     },
     {
-     "match": "“Slide Some Oil to Me”",
-     "text": "[i]The Wiz[/i]"
+     "match": "“Wann fängt mein Leben an?”",
+     "text": "Rapunzel"
+    },
+    {
+     "match": "“Ich bin bereit”",
+     "text": "Vaiana"
     }
    ],
-   "category": "Music",
+   "category": "Film & TV",
    "decoys": [],
    "headers": [
     {
-     "match": "Songs",
-     "text": "Musicals"
+     "match": "Lieder",
+     "text": "[i]Disney[/i]-Prinzessinnen"
     }
    ],
    "id": "76950",
    "isValid": "",
-   "prompt": "Match the musical to its song",
-   "promptHeader": "Broadway Musicals and Their Songs",
-   "us": true,
+   "prompt": "Ordne der [i]Disney[/i]-Prinzessin ihr Lied zu",
+   "promptHeader": "[i]Disney[/i]-Prinzessinnen und ihre Lieder",
+   "us": false,
    "x": false
   },
   {
@@ -1283,117 +1303,137 @@
   {
    "answers": [
     {
-     "match": "[i]Frasier[/i]",
-     "text": "Eddie"
+     "match": "246 Mal",
+     "text": "Frankreich"
     },
     {
-     "match": "[i]The Brady Bunch[/i]",
-     "text": "Tiger"
+     "match": "6645 Mal",
+     "text": "Russland"
     },
     {
-     "match": "[i]Modern Family[/i]",
-     "text": "Stella"
+     "match": "3707 Mal",
+     "text": "USA"
     },
     {
-     "match": "[i]Full House[/i]",
-     "text": "Comet"
+     "match": "3314 Mal",
+     "text": "Brasilien"
     },
     {
-     "match": "[i]The Simpsons[/i]",
-     "text": "Santa’s Little Helper"
+     "match": "16 Mal",
+     "text": "Schweiz"
     },
     {
-     "match": "[i]Mad About You[/i]",
-     "text": "Murray"
+     "match": "139 Mal",
+     "text": "Deutschland"
     },
     {
-     "match": "[i]Family Guy[/i]",
-     "text": "Brian"
+     "match": "390 Mal",
+     "text": "Ägypten"
     },
     {
-     "match": "[i]Veronica Mars[/i]",
-     "text": "Backup"
+     "match": "0,0002 Mal",
+     "text": "Vatikanstadt"
     },
     {
-     "match": "[i]The Big Bang Theory[/i]",
-     "text": "Cinnamon"
+     "match": "185 Mal",
+     "text": "Kamerun"
     },
     {
-     "match": "[i]Adventure Time[/i]",
-     "text": "Jake"
+     "match": "12 Mal",
+     "text": "Belgien"
+    },
+    {
+     "match": "147 Mal",
+     "text": "Japan"
     }
    ],
-   "category": "Film & TV",
+   "category": "Geography & Landmarks",
    "decoys": [],
    "headers": [
     {
-     "match": "Shows",
-     "text": "Dogs"
+     "match": "X-Mal das Saarland",
+     "text": "Länder"
     }
    ],
    "id": "77621",
    "isValid": "",
-   "prompt": "Match the dog to the show",
-   "promptHeader": "Where Does This Dog Come From?!",
-   "us": true,
+   "prompt": "Ordne das Land der Anzahl zu, wie oft das Saarland darin reinpasst",
+   "promptHeader": "Wie oft passt das Saarland ungefähr in dieses Land?",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "[i]Love Actually[/i]",
-     "text": "Billy Bob Thornton"
+     "match": "[i]ARD[/i]",
+     "text": "[i]Tagesschau[/i]"
     },
     {
-     "match": "[i]Independence Day[/i]",
-     "text": "Bill Pullman"
+     "match": "[i]SR[/i]",
+     "text": "[i]Aktueller Bericht[/i]"
     },
     {
-     "match": "[i]Mars Attacks![/i]",
-     "text": "Jack Nicholson"
+     "match": "[i]Radio Bremen[/i]",
+     "text": "[i]buten un binnen[/i]"
     },
     {
-     "match": "[i]Dave[/i]",
-     "text": "Kevin Kline"
+     "match": "[i]HR[/i]",
+     "text": "[i]Hessenschau[/i]"
     },
     {
-     "match": "[i]White House Down[/i]",
-     "text": "Jamie Foxx"
+     "match": "[i]ZDF[/i]",
+     "text": "[i]Heute[/i]"
     },
     {
-     "match": "[i]Air Force One[/i]",
-     "text": "Harrison Ford"
+     "match": "[i]KiKa[/i]",
+     "text": "[i]Logo[/i]"
     },
     {
-     "match": "[i]Olympus Has Fallen[/i]",
-     "text": "Aaron Eckhart"
+     "match": "[i]WDR[/i]",
+     "text": "[i]Lokalzeit[/i]"
     },
     {
-     "match": "[i]The American President[/i]",
-     "text": "Michael Douglas"
+     "match": "[i]MDR[/i]",
+     "text": "[i]MDR aktuell[/i]"
     },
     {
-     "match": "[i]Sharknado 3: Oh Hell No![/i]",
-     "text": "Mark Cuban"
+     "match": "[i]NDR[/i]",
+     "text": "[i]Nordmagazin[/i]"
     },
     {
-     "match": "[i]2012[/i]",
-     "text": "Danny Glover"
+     "match": "[i]rbb[/i]",
+     "text": "[i]rbb24[/i]"
+    },
+    {
+     "match": "[i]SWR[/i]",
+     "text": "[i]SWR Aktuell[/i]"
+    },
+    {
+     "match": "[i]RTL[/i]",
+     "text": "[i]Punkt 12[/i]"
+    },
+    {
+     "match": "[i]ORF[/i]", 
+     "text": "[i]Zeit im Bild[/i]"
+    },
+    {
+     "match": "[i]WELT[/i]",
+     "text": "[i]Die Welt am Abend[/i]"
     }
    ],
    "category": "Film & TV",
    "decoys": [],
    "headers": [
     {
-     "match": "Films",
-     "text": "Actors"
+     "match": "Sender",
+     "text": "Nachrichtensendungen"
     }
    ],
    "id": "77637",
    "isValid": "",
-   "prompt": "Match the actor to the film",
-   "promptHeader": "Fictional U.S. Presidents",
-   "us": true,
+   "prompt": "Ordne die Nachrichtensendung dem Fernsehsender zu",
+   "promptHeader": "Fernsehsender und ihre Nachrichten",
+   "us": false,
    "x": false
   },
   {
@@ -1511,199 +1551,215 @@
   {
    "answers": [
     {
-     "match": "Dennis Rodman",
-     "text": "Michael Jordan"
+     "match": "Italien",
+     "text": "Ätna"
     },
     {
-     "match": "Ronaldo",
-     "text": "David Beckham"
+     "match": "Spanien",
+     "text": "Pico del Teide"
     },
     {
-     "match": "Emmitt Smith",
-     "text": "Troy Aikman"
+     "match": "Hawaii",
+     "text": "Kilauea"
     },
     {
-     "match": "Dwyane Wade",
-     "text": "LeBron James"
+     "match": "Island",
+     "text": "Eyjafjallajökull"
     },
     {
-     "match": "Mark Messier",
-     "text": "Wayne Gretzky"
+     "match": "Costa Rica",
+     "text": "Arenal"
     },
     {
-     "match": "Kobe Bryant",
-     "text": "Shaquille O'Neil"
+     "match": "Indonesien",
+     "text": "Anak Krakatau"
     },
     {
-     "match": "Neymar",
-     "text": "Lionel Messi"
+     "match": "Japan",
+     "text": "Fuji"
     },
     {
-     "match": "Abby Wambach",
-     "text": "Megan Rapinoe"
+     "match": "Norwegen",
+     "text": "Beerenberg"
     },
     {
-     "match": "Kareem Abdul-Jabbar",
-     "text": "Magic Johnson"
+     "match": "Chile",
+     "text": "Llaima"
     },
     {
-     "match": "Venus Williams",
-     "text": "Serena Williams"
+     "match": "Mexiko",
+     "text": "Popocatépetl"
     },
     {
-     "match": "Ryan Lochte",
-     "text": "Michael Phelps"
+     "match": "Demokratische Republik Kongo",
+     "text": "Nyiragongo"
     },
     {
-     "match": "Misty May-Treanor",
-     "text": "Kerri Walsh Jennings"
+     "match": "Vereinigte Staaten",
+     "text": "Yellowstone"
     }
    ],
-   "category": "Games",
+   "category": "Geography & Landmarks",
    "decoys": [],
    "headers": [
     {
-     "match": "Teammates (Column B)",
-     "text": "Teammates (Column A)"
+     "match": "Länder",
+     "text": "Vulkane"
     }
    ],
    "id": "77660",
    "isValid": "",
-   "prompt": "Match the teammates",
-   "promptHeader": "Teammates!",
-   "us": true,
+   "prompt": "Ordne den Vulkan seinem Land zu",
+   "promptHeader": "Vulkane und ihre Standorte",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "Banh Mi",
-     "text": "Baguette"
+     "match": "Fliege",
+     "text": "Farfalle"
     },
     {
-     "match": "Reuben",
-     "text": "Rye"
+     "match": "Korkenzieher",
+     "text": "Cellentani"
     },
     {
-     "match": "Torta",
-     "text": "Telera Roll"
+     "match": "Fäden",
+     "text": "Glasnudeln"
     },
     {
-     "match": "Cheesesteak",
-     "text": "Amoroso Roll"
+     "match": "Klößchen",
+     "text": "Gnocchi"
     },
     {
-     "match": "Po' Boy",
-     "text": "New Orleans-Style French Bread"
+     "match": "Platten",
+     "text": "Lasagne"
     },
     {
-     "match": "Lobster Roll",
-     "text": "New England Hot Dog Bun"
+     "match": "Röhren",
+     "text": "Makkaroni"
     },
     {
-     "match": "Gyro",
-     "text": "Flatbread"
+     "match": "Teigtasche",
+     "text": "Ravioli"
     },
     {
-     "match": "Chicago-Style Hot Dog",
-     "text": "Poppy Seed Bun"
+     "match": "Speichenrad",
+     "text": "Rotelle"
     },
     {
-     "match": "Cucumber Sandwich",
-     "text": "White Bread"
+     "match": "Ohr",
+     "text": "Orecchiette"
     },
     {
-     "match": "Ice Cream Sandwich",
-     "text": "Cookie"
+     "match": "Reis",
+     "text": "Kritharaki"
     }
    ],
    "category": "Food & Drink",
    "decoys": [],
    "headers": [
     {
-     "match": "Sandwiches",
-     "text": "Breads"
+     "match": "Formen",
+     "text": "Nudelarten"
     }
    ],
    "id": "77780",
    "isValid": "",
-   "prompt": "Match the bread to the sandwich",
-   "promptHeader": "Breads Traditionally Used in Sandwiches",
-   "us": true,
+   "prompt": "Ordne die Nudelart ihrer Form zu",
+   "promptHeader": "Nudeln und ihre Formen",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "Florence Foster Jenkins",
-     "text": "[i]Florence Foster Jenkins[/i]"
+     "match": "Deutschland",
+     "text": ".de"
     },
     {
-     "match": "The Witch",
-     "text": "[i]Into the Woods[/i]"
+     "match": "Tuvalu",
+     "text": ".tv"
     },
     {
-     "match": "Margaret Thatcher",
-     "text": "[i]The Iron Lady[/i]"
+     "match": "Kanada",
+     "text": ".ca"
     },
     {
-     "match": "Julia Child",
-     "text": "[i]Julie & Julia[/i]"
+     "match": "Volksrepublik China",
+     "text": ".cn"
     },
     {
-     "match": "Sister Aloysius Beauvier",
-     "text": "[i]Doubt[/i]"
+     "match": "Serbien",
+     "text": ".rs"
     },
     {
-     "match": "Miranda Priestly",
-     "text": "[i]The Devil Wears Prada[/i]"
+     "match": "Nordkorea",
+     "text": ".kp"
     },
     {
-     "match": "Susan Orlean",
-     "text": "[i]Adaptation[/i]"
+     "match": "Vatikanstadt",
+     "text": ".va"
     },
     {
-     "match": "Karen Silkwood",
-     "text": "[i]Silkwood[/i]"
+     "match": "Rumänien",
+     "text": ".ro"
     },
     {
-     "match": "Sophie",
-     "text": "[i]Sophie’s Choice[/i]"
+     "match": "Australien",
+     "text": ".au"
     },
     {
-     "match": "Joanna Kramer",
-     "text": "[i]Kramer vs. Kramer[/i]"
+     "match": "Argentinien",
+     "text": ".ar"
     },
     {
-     "match": "Linda",
-     "text": "[i]The Deer Hunter[/i]"
+     "match": "Guernsey",
+     "text": ".gg"
     },
     {
-     "match": "Kay Graham",
-     "text": "[i]The Post[/i]"
+     "match": "Georgien",
+     "text": ".ge"
     },
     {
-     "match": "Roberta",
-     "text": "[i]Music of the Heart[/i]"
+     "match": "Antarktis",
+     "text": ".aq"
     },
     {
-     "match": "Violet Weston",
-     "text": "[i]August: Osage County[/i]"
+     "match": "Panama",
+     "text": ".pa"
+    },
+    {
+     "match": "Mongolei",
+     "text": ".mn"
+    },
+    {
+     "match": "Schweden",
+     "text": ".se"
+    },
+    {
+     "match": "Niederlande",
+     "text": ".nl"
+    },
+    {
+     "match": "Montenegro",
+     "text": ".me"
     }
    ],
-   "category": "Film & TV",
+   "category": "Factoids",
    "decoys": [],
    "headers": [
     {
-     "match": "Roles",
-     "text": "Films"
+     "match": "Länder",
+     "text": "Top-Level-Domains"
     }
    ],
    "id": "77958",
    "isValid": "",
-   "prompt": "Match the film to the role",
-   "promptHeader": "Meryl Streep's Oscar-Nominated Roles",
-   "us": true,
+   "prompt": "Ordne die Internetendung ihrem dazugehörigen Land zu",
+   "promptHeader": "Länderspezifische Top-Level-Domains",
+   "us": false,
    "x": false
   },
   {
@@ -1761,7 +1817,7 @@
    "isValid": "",
    "prompt": "Ordne die fiktionale Sprache dem Universum zu",
    "promptHeader": "Fiktive Sprachen",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1833,58 +1889,70 @@
   {
    "answers": [
     {
-     "match": "[i]Law & Order: SVU[/i]",
-     "text": "Ice-T"
+     "match": "“Doggystyle”",
+     "text": "Snoop Dogg"
     },
     {
-     "match": "[i]Friday[/i]",
-     "text": "Ice Cube"
+     "match": "“Vom Bordstein bis zur Skyline”",
+     "text": "Bushido"
     },
     {
-     "match": "[i]Fresh Prince of Bel-Air[/i]",
-     "text": "Will Smith"
+     "match": "“Raop”",
+     "text": "Cro"
     },
     {
-     "match": "[i]8 Mile[/i]",
+     "match": "“Infinite”",
      "text": "Eminem"
     },
     {
-     "match": "[i]Exit Wounds[/i]",
-     "text": "DMX"
+     "match": "“Asphalt Massaka”",
+     "text": "Farid Bang"
     },
     {
-     "match": "[i]Hairspray[/i]",
-     "text": "Queen Latifah"
+     "match": "“Ebbe & Flut”",
+     "text": "Gzuz"
     },
     {
-     "match": "[i]NCIS: Los Angeles[/i]",
-     "text": "LL Cool J"
+     "match": "“Alphagene”",
+     "text": "Kollegah"
     },
     {
-     "match": "[i]The Hitchhiker's Guide to the Galaxy[/i]",
-     "text": "Mos Def/Yasiin Bey"
+     "match": "“Krampfhaft kriminell”",
+     "text": "Bonez MC"
     },
     {
-     "match": "[i]Atlanta[/i]",
-     "text": "Childish Gambino"
+     "match": "“Kuku Bra”",
+     "text": "Capital Bra"
     },
     {
-     "match": "[i]Hustlers[/i]",
-     "text": "Cardi B"
+     "match": "“Ich bin jung und brauche das Geld”",
+     "text": "Eko Fresh"
+    },
+    {
+     "match": "“Eros”",
+     "text": "RIN"
+    },
+    {
+     "match": "“Neue Deutsche Welle”",
+     "text": "Fler"
+    },
+    {
+     "match": "“Auf einem Auge blöd”", 
+     "text": "Fettes Brot"
     }
    ],
-   "category": "Pop Culture",
+   "category": "Music",
    "decoys": [],
    "headers": [
     {
-     "match": "Credits",
-     "text": "Rappers"
+     "match": "Debütalben",
+     "text": "Rapper"
     }
    ],
    "id": "78094",
    "isValid": "",
-   "prompt": "Match the rapper to their acting credit",
-   "promptHeader": "That's a Rap: Hip Hop Artists and Their Acting Work",
+   "prompt": "Ordne dem Rapper das Debütalbum zu",
+   "promptHeader": "Rapper und ihre Debütalben",
    "us": true,
    "x": false
   },
@@ -2005,7 +2073,7 @@
    "isValid": "",
    "prompt": "Ordne den Künstler seinem Debütalbum zu",
    "promptHeader": "Berühmte Debütalben",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -2065,7 +2133,7 @@
    ],
    "id": "78285",
    "isValid": "",
-   "prompt": "Orde das Nationalgericht dem entsprechenden Land zu",
+   "prompt": "Ordne das Nationalgericht dem entsprechenden Land zu",
    "promptHeader": "Länder und ihre beliebtesten Nationalgerichte",
    "us": false,
    "x": false
@@ -2135,67 +2203,71 @@
   {
    "answers": [
     {
-     "match": "Brangelina",
-     "text": "Brad Pitt & Angelina Jolie"
+     "match": "Spa, Belgien",
+     "text": "Circuit de Spa-Francorchamps"
     },
     {
-     "match": "Bennifer",
-     "text": "Ben Affleck & Jennifer Garner"
+     "match": "Nürburg, Deutschland",
+     "text": "Nürburgring"
     },
     {
-     "match": "Kimye",
-     "text": "Kanye West & Kim Kardashian"
+     "match": "Nevers, Frankreich",
+     "text": "Magny-Cours Circuit"
     },
     {
-     "match": "Billary",
-     "text": "Bill Clinton & Hillary Rodham Clinton"
+     "match": "Monaco",
+     "text": "Circuit de Monaco"
     },
     {
-     "match": "Desilu",
-     "text": "Desi Arnaz & Lucille Ball"
+     "match": "Spielberg, Österreich",
+     "text": "Red Bull Ring"
     },
     {
-     "match": "Brady-Bundch",
-     "text": "Giselle Bundchen & Tom Brady"
+     "match": "Abu Dhabi, Vereinigte Arabische Emirate",
+     "text": "Yas Marina Circuit"
     },
     {
-     "match": "TomKat",
-     "text": "Tom Cruise & Katie Holmes"
+     "match": "Singapur",
+     "text": "Marina Bay Street Circuit"
     },
     {
-     "match": "Speidi",
-     "text": "Spencer Pratt & Heidi Montag"
+     "match": "Budapest, Ungarn",
+     "text": "Hungaroring"
     },
     {
-     "match": "Grandson",
-     "text": "Ariana Grande & Pete Davidson"
+     "match": "Mexiko-Stadt, Mexiko",
+     "text": "Autódromo Hermanos Rodríguez"
     },
     {
-     "match": "BeyonZ",
-     "text": "Beyonce & Jay-Z"
+     "match": "Austin, Vereinigte Staaten",
+     "text": "Circuit of The Americas"
     },
     {
-     "match": "Posh & Becks",
-     "text": "Victoria Beckham & David Beckham"
+     "match": "Melbourne, Australien",
+     "text": "Albert Park Circuit"
     },
     {
-     "match": "Cash and Cary",
-     "text": "Cary Grant & Barbara Woolworth"
+     "match": "Le Castellet, Frankreich",
+     "text": "Circuit Paul Ricard"
+    },
+    {
+     "match": "Montreal, Kanada",
+     "text": "Circuit Gilles-Villeneuve"
     }
    ],
-   "category": "Celebrities",
+   "category": "Sports",
    "decoys": [],
    "headers": [
     {
-     "match": "Hybrid Names",
-     "text": "Couples"
+     "match": "Standorte",
+     "text": "[i]Formel 1[/i]-Rennstrecken"
     }
    ],
    "id": "78302",
    "isValid": "",
-   "prompt": "Match the couple to their hybrid name",
-   "promptHeader": "Hybrid Names of Celebrity Supercouples",
-   "us": true,
+   "prompt": "Ordne die [i]Formel 1[/i]-Rennstrecke ihrem Standort zu",
+   "promptHeader": "[i]Formel 1[/i]-Rennstrecken",
+   "us": false,
    "x": false
   },
   {
@@ -2292,7 +2364,7 @@
     },
     {
      "match": "Vietnam",
-     "text": "Bánh Phở"
+     "text": "Bánh Pho"
     },
     {
      "match": "USA",
@@ -2317,51 +2389,99 @@
   {
    "answers": [
     {
-     "match": "[i]The Murder of Gonzago[/i]",
-     "text": "[i]Hamlet[/i]"
+     "match": "[i]- Der tollkühne Held[/i]",
+     "text": "[i]Shrek[/i]"
     },
     {
-     "match": "[i]Pyramus & Thisbe[/i]",
-     "text": "[i]A Midsummer’s Night’s Dream[/i]"
+     "match": "[i]- Das unheimliche Wesen aus einer fremden Welt[/i]",
+     "text": "[i]Alien[/i]"
     },
     {
-     "match": "[i]Springtime for Hitler[/i]",
-     "text": "[i]The Producers[/i]"
+     "match": "[i]- Riesiges Robowabohu[/i]",
+     "text": "[i]Baymax[/i]"
     },
     {
-     "match": "[i]Nothing On[/i]",
-     "text": "[i]Noises Off[/i]"
+     "match": "[i]- Die Auserwählten im Labyrinth[/i]",
+     "text": "[i]Maze Runner[/i]"
     },
     {
-     "match": "[i]Taming of the Shrew[/i]",
-     "text": "[i]Kiss Me, Kate[/i]"
+     "match": "[i]- Der Letzte räumt die Erde auf[/i]",
+     "text": "[i]WALL-E[/i]"
     },
     {
-     "match": "[i]Joseph Smith American Moses[/i]",
-     "text": "[i]Book of Mormon[/i]"
+     "match": "[i]- Das stachelige Kindermädchen[/i]",
+     "text": "[i]Mrs. Doubtfire[/i]"
     },
     {
-     "match": "[i]Bohemian Rhapsody[/i]",
-     "text": "[i]Moulin Rouge![/i] (stage musical)"
+     "match": "[i]- Der Whirlpool … ist ’ne verdammte Zeitmaschine![/i]",
+     "text": "[i]Hot Tub[/i]"
     },
     {
-     "match": "Treplev’s play",
-     "text": "[i]The Seagull[/i]"
+     "match": "[i]- Die Mutter aller Filme[/i]",
+     "text": "[i]Hot Shots![/i]"
+    },
+    {
+     "match": "[i]- Eine himmlische Karriere[/i]",
+     "text": "[i]Sister Act[/i]"
+    },
+    {
+     "match": "[i]- Unter Feinden[/i]",
+     "text": "[i]Departed[/i]"
+    },
+    {
+     "match": "[i]- Wilde Hunde[/i]",
+     "text": "[i]Reservoir Dogs[/i]"
+    },
+    {
+     "match": "[i]- Die Rede des Königs[/i]",
+     "text": "[i]The King's Speech[/i]"
+    },
+    {
+     "match": "[i]- Völlig unverfroren[/i]",
+     "text": "[i]Die Eiskönigin[/i]"
+    },
+    {
+     "match": "[i]- Neu verföhnt[/i]", 
+     "text": "[i]Rapunzel[/i]"
+    },
+    {
+     "match": "[i]- Liebe sich wer kann[/i]", 
+     "text": "[i]Whatever Works[/i]"
+    },
+    {
+     "match": "[i]- Spiel des Lebens[/i]", 
+     "text": "[i]Jerry Maguire[/i]"
+    },
+    {
+     "match": "[i]- Lebendiger als das Leben![/i]", 
+     "text": "[i]Coco[/i]"
+    },
+    {
+     "match": "[i]- Einfach unverbesserlich[/i]",
+     "text": "[i]Ich[/i]"
+    },
+    {
+     "match": "[i]- Der Außerirdische[/i]", 
+     "text": "[i]E.T.[/i]"
+    },
+    {
+     "match": "[i]- Aufbruch nach Pandora[/i]", 
+     "text": "[i]Avatar[/i]"
     }
    ],
-   "category": "Literature",
+   "category": "Film & TV",
    "decoys": [],
    "headers": [
     {
-     "match": "Plays Within Plays",
-     "text": "Plays"
+     "match": "Deutsche Taglines",
+     "text": "Erste Teile des Titels"
     }
    ],
    "id": "78325",
    "isValid": "",
-   "prompt": "Match the play to its play-within-the-play",
-   "promptHeader": "The Play Within the Play",
-   "us": true,
+   "prompt": "Ordne dem Filmtitel seine Tagline zu",
+   "promptHeader": "Deutsche Filmtitel",
+   "us": false,
    "x": false
   },
   {
@@ -2423,64 +2543,64 @@
    "isValid": "",
    "prompt": "Ordne den Abschnitt der Hölle der Sünde zu",
    "promptHeader": "Die Kreise der Hölle in [i]Dantes Inferno[/i] und die dortigen Sünder",
-   "us": false,
+   "us": true,
    "x": true
   },
   {
    "answers": [
     {
-     "match": "home",
-     "text": "[i]The Wizard of Oz[/i]"
+     "match": "fort",
+     "text": "[i]Mary Poppins[/i]"
     },
     {
-     "match": "roads",
-     "text": "[i]Back to the Future[/i]"
+     "match": "rankommen",
+     "text": "[i]Titanic[/i]"
     },
     {
-     "match": "friendship",
-     "text": "[i]Casablanca[/i]"
+     "match": "sein",
+     "text": "[i]Star Wars: Das Imperium schlägt zurück[/i]"
     },
     {
-     "match": "dreaming",
-     "text": "[i]Pretty Woman[/i]"
+     "match": "weiß",
+     "text": "[i]Terminator[/i]"
     },
     {
-     "match": "back",
-     "text": "[i]The Lord of the Rings: The Return of the King[/i]"
+     "match": "Schatz",
+     "text": "[i]Der Friedhof der Kuscheltiere[/i]"
     },
     {
-     "match": "go",
-     "text": "[i]Ferris Bueller's Day Off[/i]"
+     "match": "Deutschland",
+     "text": "[i]Das Wunder von Bern[/i] (2003)"
     },
     {
-     "match": "perfect",
-     "text": "[i]Some Like It Hot[/i]"
+     "match": "Kopf",
+     "text": "[i]Highlander[/i]"
     },
     {
-     "match": "gone",
-     "text": "[i]The Usual Suspects[/i]"
+     "match": "Ja",
+     "text": "[i]Independence Day[/i]"
     },
     {
-     "match": "day",
-     "text": "[i]Gone With The Wind[/i]"
+     "match": "auf",
+     "text": "[i]Zwei Asse trumpfen auf[/i]"
     },
     {
-     "match": "start",
-     "text": "[i]Groundhog Day[/i]"
+     "match": "lebt",
+     "text": "[i]Kill Bill Vol. 1[/i]"
     }
    ],
    "category": "Film & TV",
    "decoys": [],
    "headers": [
     {
-     "match": "Final Words",
-     "text": "Films"
+     "match": "Letzte Worte",
+     "text": "Filme"
     }
    ],
    "id": "78372",
    "isValid": "",
-   "prompt": "Match the film to its final word",
-   "promptHeader": "The Last Word Spoken in Famous Films",
+   "prompt": "Ordne den Film seinem letzten gesprochenen Wort zu",
+   "promptHeader": "“Irgendwelche letzten Worte?”",
    "us": true,
    "x": false
   },
@@ -2595,7 +2715,7 @@
    ],
    "id": "78409",
    "isValid": "",
-   "prompt": "Ordne der Fernsehsendung dem Moderator zu",
+   "prompt": "Ordne der Fernsehsendung den Moderator zu",
    "promptHeader": "Fernsehmoderatoren",
    "us": false,
    "x": false
@@ -2645,67 +2765,67 @@
   {
    "answers": [
     {
-     "match": "[i]Clueless[/i]",
-     "text": "Alicia Silverstone"
+     "match": "[i]Käfer[/i] ([i]Typ 1[/i])",
+     "text": "[i]Volkswagen[/i]"
     },
     {
-     "match": "[i]You've Got Mail[/i]",
-     "text": "Meg Ryan"
+     "match": "[i]F 103[/i]",
+     "text": "[i]Audi[/i]"
     },
     {
-     "match": "[i]Legally Blonde[/i]",
-     "text": "Reese Witherspoon"
+     "match": "[i]356[/i]",
+     "text": "[i]Porsche[/i]"
     },
     {
-     "match": "[i]13 Going On 30[/i]",
-     "text": "Jennifer Garner"
+     "match": "[i]Toyoda AA[/i]",
+     "text": "[i]Toyota[/i]"
     },
     {
-     "match": "[i]Moonstruck[/i]",
-     "text": "Cher"
+     "match": "[i]Modell T[/i]",
+     "text": "[i]Ford[/i]"
     },
     {
-     "match": "[i]Bringing Up Baby[/i]",
-     "text": "Katharine Hepburn"
+     "match": "[i]3,5 HP[/i]",
+     "text": "[i]Fiat[/i]"
     },
     {
-     "match": "[i]Pretty Woman[/i]",
-     "text": "Julia Roberts"
+     "match": "[i]Type A[/i]",
+     "text": "[i]Renault[/i]"
     },
     {
-     "match": "[i]Something's Gotta Give[/i]",
-     "text": "Diane Keaton"
+     "match": "[i]Patentmotorwagen “System Lutzmann”[/i]",
+     "text": "[i]Opel[/i]"
     },
     {
-     "match": "[i]The Holiday[/i]",
-     "text": "Cameron Diaz"
+     "match": "[i]3/15 PS[/i]",
+     "text": "[i]BMW[/i]"
     },
     {
-     "match": "[i]Bridget Jones's Diary[/i]",
-     "text": "Renee Zellweger"
+     "match": "[i]Silver Dawn[/i]",
+     "text": "[i]Rolls-Royce[/i]"
     },
     {
-     "match": "[i]10 Things I Hate About You[/i]",
-     "text": "Julia Stiles"
+     "match": "[i]Roadster[/i]",
+     "text": "[i]Tesla[/i]"
     },
     {
-     "match": "[i]Miss Congeniality[/i]",
-     "text": "Sandra Bullock"
+     "match": "[i]Pony[/i]",
+     "text": "[i]Hyundai[/i]"
     }
    ],
-   "category": "Film & TV",
+   "category": "Companies & Brands",
    "decoys": [],
    "headers": [
     {
-     "match": "Rom-Coms",
-     "text": "Leading Ladies"
+     "match": "Erste Serienmodelle",
+     "text": "Automarken"
     }
    ],
    "id": "78420",
    "isValid": "",
-   "prompt": "Match the actress to the film",
-   "promptHeader": "Rom-Com Leading Ladies",
-   "us": true,
+   "prompt": "Ordne der Automarke ihr erstes in Serie produziertes Modell zu",
+   "promptHeader": "Automarken und ihre Erstlingswerke",
+   "us": false,
    "x": false
   },
   {
@@ -2939,59 +3059,59 @@
   {
    "answers": [
     {
-     "match": "pack",
-     "text": "wolves"
+     "match": "Schwarm",
+     "text": "Fische"
     },
     {
-     "match": "shrewdness",
-     "text": "apes"
+     "match": "Kolonie",
+     "text": "Ameisen"
     },
     {
-     "match": "swarm",
-     "text": "bees"
+     "match": "Kultur",
+     "text": "Bakterien"
     },
     {
-     "match": "convocation",
-     "text": "eagles"
+     "match": "Schule",
+     "text": "Delfine"
     },
     {
-     "match": "murder",
-     "text": "crows"
+     "match": "Rotte",
+     "text": "Wildschweine"
     },
     {
-     "match": "army",
-     "text": "frogs"
+     "match": "Rudel",
+     "text": "Löwen"
     },
     {
-     "match": "troop",
-     "text": "monkeys"
+     "match": "Sippe",
+     "text": "Ratten"
     },
     {
-     "match": "business",
-     "text": "ferrets"
+     "match": "Herde",
+     "text": "Schafe"
     },
     {
-     "match": "pod",
-     "text": "whales"
+     "match": "Bukett",
+     "text": "Fasane"
     },
     {
-     "match": "pride",
-     "text": "lions"
+     "match": "Schoof",
+     "text": "Enten"
     }
    ],
    "category": "Animals",
    "decoys": [],
    "headers": [
     {
-     "match": "Groups",
-     "text": "Animals"
+     "match": "Tierverbände",
+     "text": "Tiere"
     }
    ],
    "id": "78447",
    "isValid": "",
-   "prompt": "Match the animal to its group name",
-   "promptHeader": "What's That Group of Animals Called?",
-   "us": true,
+   "prompt": "Ordne die Bezeichnung des Tierverbandes dem Tier zu",
+   "promptHeader": "“Wie nennt man noch mal eine Gruppe dieser Tiere?”",
+   "us": false,
    "x": false
   },
   {
@@ -3311,59 +3431,87 @@
   {
    "answers": [
     {
-     "match": "“Work From Home”",
-     "text": "Fifth Harmony"
+     "match": "“Herzeleid”",
+     "text": "Rammstein"
     },
     {
-     "match": "“Free Your Mind”",
-     "text": "En Vogue"
+     "match": "“Schrei”",
+     "text": "Tokio Hotel"
     },
     {
-     "match": "“You Can't Hurry Love”",
-     "text": "The Supremes"
+     "match": "“Lonesome Crow”",
+     "text": "Scorpions"
     },
     {
-     "match": "“Stickwitu”",
-     "text": "The Pussycat Dolls"
+     "match": "“Verdammt guter Tag”",
+     "text": "Feuerherz"
     },
     {
-     "match": "“Say You’ll Be There”",
-     "text": "Spice Girls"
+     "match": "“Liebe und Sehnsucht”",
+     "text": "Die Amigos"
     },
     {
-     "match": "“Where My Girls At?”",
-     "text": "702"
+     "match": "“Hybrid Theory”",
+     "text": "Linkin Park"
     },
     {
-     "match": "“C'est La Vie”",
-     "text": "B*witched"
+     "match": "“The 1st Album”",
+     "text": "Modern Talking"
     },
     {
-     "match": "“Waterfalls”",
-     "text": "TLC"
+     "match": "“Auf einem Auge blöd”",
+     "text": "Fettes Brot"
     },
     {
-     "match": "“Hold On”",
-     "text": "Wilson Phillips"
+     "match": "“Kraftwerk”",
+     "text": "Kraftwerk"
     },
     {
-     "match": "“Move”",
-     "text": "Little Mix"
-    }
+     "match": "“Jetzt geht’s ab”",
+     "text": "Die Fantastischen Vier"
+    },
+    {
+     "match": "“Dance with Me”",
+     "text": "DJ BoBo"
+    },
+    {
+     "match": "“Opel-Gang”",
+     "text": "Die Toten Hosen"
+    },
+    {
+     "match": "“Dut-Dut-Duah!”",
+     "text": "Wise Guys"
+    },
+    {
+     "match": "“Up All Night”",
+     "text": "One Direction"
+    },
+    {
+     "match": "“Ring Ring”",
+     "text": "ABBA"
+    },
+    {
+     "match": "“Appetite for Destruction”",
+     "text": "Guns n' Roses"
+    },
+    {
+     "match": "“Das Leben ist grausam”",
+     "text": "Die Prinzen"
+       }
    ],
    "category": "Music",
    "decoys": [],
    "headers": [
     {
-     "match": "Singles",
-     "text": "Girl Groups"
+     "match": "Debütalben",
+     "text": "Bands"
     }
    ],
    "id": "78662",
    "isValid": "",
-   "prompt": "Match the group to their famous single",
-   "promptHeader": "Girl Groups",
-   "us": true,
+   "prompt": "Ordne das Debütalbum der Band zu",
+   "promptHeader": "Debütalben",
+   "us": false,
    "x": false
   },
   {
@@ -3435,51 +3583,51 @@
   {
    "answers": [
     {
-     "match": "[i]Now You See Me 2[/i]",
+     "match": "Harry Potter",
      "text": "Daniel Radcliffe"
     },
     {
-     "match": "[i]The Bling Ring[/i]",
+     "match": "Hermine Granger",
      "text": "Emma Watson"
     },
     {
-     "match": "[i]Love Actually[/i]",
+     "match": "Severus Snape",
      "text": "Alan Rickman"
     },
     {
-     "match": "[i]The Dark Knight[/i]",
+     "match": "Sirius Black",
      "text": "Gary Oldman"
     },
     {
-     "match": "[i]Fight Club[/i]",
-     "text": "Helena Bonham Carter"
+     "match": "Draco Malfoy",
+     "text": "Tom Felton"
     },
     {
-     "match": "[i]Nanny McPhee[/i]",
-     "text": "Emma Thompson"
+     "match": "Rubeus Hagrid",
+     "text": "Robbie Coltrane"
     },
     {
-     "match": "[i]Camelot[/i]",
+     "match": "Albus Dumbledore",
      "text": "Richard Harris"
     },
     {
-     "match": "[i]Fantastic Mr. Fox[/i]",
-     "text": "Michael Gambon"
+     "match": "Lucius Malfoy",
+     "text": "Jason Isaacs"
     },
     {
-     "match": "[i]Downton Abbey[/i]",
+     "match": "Minerva McGonagall",
      "text": "Maggie Smith"
     },
     {
-     "match": "[i]The Grand Budapest Hotel[/i]",
+     "match": "Lord Voldemort",
      "text": "Ralph Fiennes"
     },
     {
-     "match": "[i]Willow[/i]",
+     "match": "Filius Flitwick",
      "text": "Warwick Davis"
     },
     {
-     "match": "[i]Cherrybomb[/i]",
+     "match": "Ron Weasley",
      "text": "Rupert Grint"
     }
    ],
@@ -3487,14 +3635,14 @@
    "decoys": [],
    "headers": [
     {
-     "match": "Other Movies",
-     "text": "[i]Harry Potter[/i] Actors"
+     "match": "Figuren in [i]Harry Potter[/i]",
+     "text": "Schauspieler"
     }
    ],
    "id": "78670",
    "isValid": "",
-   "prompt": "Match the [i]Harry Potter[/i] cast member to their other movie",
-   "promptHeader": "[i]Harry Potter[/i] Actors and Their Other Film Roles",
+   "prompt": "Ordne dem Schauspieler seine Rolle in der [i]Harry Potter[/i]-Filmreihe zu",
+   "promptHeader": "[i]Harry Potter[/i]-Figuren und ihre Schauspieler",
    "us": true,
    "x": false
   },
@@ -3559,7 +3707,7 @@
    ],
    "id": "78678",
    "isValid": "",
-   "prompt": "Ordnen den deutschen Namen des Landes dem lokalen Namen zu",
+   "prompt": "Ordne den deutschen Namen des Landes dem lokalen Namen zu",
    "promptHeader": "Wie die Länder in ihren Muttersprachen heißen",
    "us": false,
    "x": false
@@ -3707,67 +3855,75 @@
   {
    "answers": [
     {
-     "match": "Garnet",
-     "text": "January"
+     "match": "Feldberg",
+     "text": "Baden-Württemberg"
     },
     {
-     "match": "Amethyst",
-     "text": "February"
+     "match": "Zugspitze",
+     "text": "Bayern"
     },
     {
-     "match": "Aquamarine",
-     "text": "March"
+     "match": "Kutschenberg",
+     "text": "Brandenburg"
     },
     {
-     "match": "Diamond",
-     "text": "April"
+     "match": "Hasselbrack",
+     "text": "Hamburg"
     },
     {
-     "match": "Emerald",
-     "text": "May"
+     "match": "Wasserkuppe",
+     "text": "Hessen"
     },
     {
-     "match": "Pearl",
-     "text": "June"
+     "match": "Helpter Berge",
+     "text": "Mecklenburg-Vorpommern"
     },
     {
-     "match": "Ruby",
-     "text": "July"
+     "match": "Wurmberg",
+     "text": "Niedersachsen"
     },
     {
-     "match": "Peridot",
-     "text": "August"
+     "match": "Langenberg",
+     "text": "Nordrhein-Westfalen"
     },
     {
-     "match": "Sapphire",
-     "text": "September"
+     "match": "Erbeskopf",
+     "text": "Rheinland-Pfalz"
     },
     {
-     "match": "Opal",
-     "text": "October"
+     "match": "Dollberg",
+     "text": "Saarland"
     },
     {
-     "match": "Topaz",
-     "text": "November"
+     "match": "Fichtelberg",
+     "text": "Sachsen"
     },
     {
-     "match": "Turquoise",
-     "text": "December"
+     "match": "Brocken",
+     "text": "Sachsen-Anhalt"
+    },
+    {
+     "match": "Bungsberg",
+     "text": "Schleswig-Holstein"
+    },
+    {
+     "match": "Großer Beerberg",
+     "text": "Thüringen"
     }
    ],
-   "category": "Calendar/Holidays",
+   "category": "Geography & Landmarks",
    "decoys": [],
    "headers": [
     {
-     "match": "Birthstones",
-     "text": "Months"
+     "match": "Berge",
+     "text": "Bundesländer"
     }
    ],
    "id": "78725",
    "isValid": "",
-   "prompt": "Match the month to the birthstone",
-   "promptHeader": "Beautiful Shiny Birthstones!",
-   "us": true,
+   "prompt": "Ordne dem Bundesland seine höchste Erhebung zu",
+   "promptHeader": "Bundesländer und ihre höchsten Berge",
+   "us": false,
    "x": false
   },
   {
@@ -3824,8 +3980,8 @@
    "id": "78748",
    "isValid": "",
    "prompt": "Ordne das Gespenst seiner Herkunft zu",
-   "promptHeader": "“Ahhh!! Sp-Sp-Spuckt es hier etwa??”",
-   "us": false,
+   "promptHeader": "“Ahhh!! Sp-Sp-Spukt es hier etwa??”",
+   "us": true,
    "x": false
   },
   {
@@ -3955,63 +4111,83 @@
   {
    "answers": [
     {
-     "match": "Dy-no-mite!",
-     "text": "JJ, [i]Good Times[/i]"
+     "match": "[i]Gefragt - Gejagt[/i]",
+     "text": "Alexander Bommes"
     },
     {
-     "match": "That's what she said.",
-     "text": "Michael Scott, [i]The Office[/i]"
+     "match": "[i]Wer wird Millionär?[/i]",
+     "text": "Günther Jauch"
     },
     {
-     "match": "Bazinga!",
-     "text": "Sheldon Cooper, [i]Big Bang Theory[/i]"
+     "match": "[i]Hirschhausens Quiz des Menschen[/i]",
+     "text": "Eckart von Hirschhausen"
     },
     {
-     "match": "Book 'em, Danno",
-     "text": "Steve McGarrett, [i]Hawaii 5-0[/i]"
+     "match": "[i]Der Quiz-Champion[/i]",
+     "text": "Johannes Baptist Kerner"
     },
     {
-     "match": "I've made a huge mistake.",
-     "text": "G.O.B. Bluth, [i]Arrested Development[/i]"
+     "match": "[i]Wer weiß denn sowas?[/i]",
+     "text": "Kai Pflaume"
     },
     {
-     "match": "Mulder, it's me.",
-     "text": "Scully, [i]X Files[/i]"
+     "match": "[i]Genial daneben[/i]",
+     "text": "Hugo Egon Balder"
     },
     {
-     "match": "BURN!!!",
-     "text": "Kelso, [i]That 70s Show[/i]"
+     "match": "[i]Dalli Dalli[/i]",
+     "text": "Hans Rosenthal"
     },
     {
-     "match": "Excellent",
-     "text": "Mr. Burns, [i]The Simpsons[/i]"
+     "match": "[i]Geh aufs Ganze![/i]",
+     "text": "Jörg Draeger"
     },
     {
-     "match": "Alriiiiight!",
-     "text": "Linda Belcher, [i]Bob's Burgers[/i]"
+     "match": "[i]Die 100.000 Mark Show[/i]",
+     "text": "Ulla Kock am Brink"
     },
     {
-     "match": "Who loves orange soda?",
-     "text": "Kel, [i]Kenan & Kel[/i]"
+     "match": "[i]Glücksrad[/i]",
+     "text": "Peter Bond/Frederic Meisner"
     },
     {
-     "match": "But you don't have to take my word for it.",
-     "text": "LeVar Burton, [i]Reading Rainbow[/i]"
+     "match": "[i]Der Preis ist heiß[/i]",
+     "text": "Harry Wijnvoord"
+    },
+    {
+     "match": "[i]1, 2 oder 3[/i]",
+     "text": "Elton (Alexander Duszat)"
+    },
+    {
+     "match": "[i]Meister des Alltags[/i]",
+     "text": "Florian Weber"
+    },
+    {
+     "match": "[i]Luke! Die Schule und ich[/i]",
+     "text": "Luke Mockridge"
+    },
+    {
+     "match": "[i]Die beste Klasse Deutschlands[/i]", 
+     "text": "Malte Arkona"
+    },
+    {
+     "match": "[i]Quizduell[/i]",
+     "text": "Jörg Pilawa"
     }
    ],
    "category": "Film & TV",
    "decoys": [],
    "headers": [
     {
-     "match": "Catchphrases",
-     "text": "Characters"
+     "match": "Quizsendungen",
+     "text": "Moderatoren"
     }
    ],
    "id": "78753",
    "isValid": "",
-   "prompt": "Match the TV character to their catchphrase",
-   "promptHeader": "TV Characters and Their Catchphrases",
-   "us": true,
+   "prompt": "Ordne den Moderator der Quizsendung zu",
+   "promptHeader": "Quizsendungen und ihre Moderatoren",
+   "us": false,
    "x": false
   },
   {
@@ -4069,7 +4245,7 @@
    "isValid": "",
    "prompt": "Ordne die Zutat dem Sushi-Gericht zu",
    "promptHeader": "“Hat jemand Lust auf Sushi?”",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4131,7 +4307,7 @@
    "isValid": "",
    "prompt": "Ordne den Gitarristen seiner Band zu",
    "promptHeader": "Götter der Gitarre und mit wem sie abrocken",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4199,43 +4375,43 @@
   {
    "answers": [
     {
-     "match": "car",
+     "match": "Auto",
      "text": "Model T"
     },
     {
-     "match": "bus",
-     "text": "Greyhound Lines"
+     "match": "Kleintransporter",
+     "text": "VW Bulli"
     },
     {
-     "match": "train",
-     "text": "Amtrak Acela"
+     "match": "Zug",
+     "text": "Adler"
     },
     {
-     "match": "taxicab",
-     "text": "Yellow Cab"
+     "match": "Taxi",
+     "text": "“Black Cab”"
     },
     {
-     "match": "airplane",
+     "match": "Flugzeug",
      "text": "Air Force One"
     },
     {
-     "match": "yacht",
-     "text": "Seven Seas"
+     "match": "Magnetschwebebahn",
+     "text": "Transrapid"
     },
     {
-     "match": "dirigible",
+     "match": "Zeppelin",
      "text": "Hindenburg"
     },
     {
-     "match": "passenger liner",
+     "match": "Passagierschiff",
      "text": "Titanic"
     },
     {
-     "match": "bicycle",
-     "text": "Schwinn Paramount"
+     "match": "Fahrrad",
+     "text": "Bonanzarad"
     },
     {
-     "match": "motorcycle",
+     "match": "Motorrad",
      "text": "Harley-Davidson 11F"
     }
    ],
@@ -4243,81 +4419,81 @@
    "decoys": [],
    "headers": [
     {
-     "match": "Types",
-     "text": "Famous Vehicles"
+     "match": "Typen",
+     "text": "Berühmte Fahrzeuge"
     }
    ],
    "id": "78871",
    "isValid": "",
-   "prompt": "Match the famous vehicle to its type",
-   "promptHeader": "Famous Modes of Transportation",
-   "us": true,
+   "prompt": "Ordne das berühmte Fahrzeug seinem Typ zu",
+   "promptHeader": "Berühmte Verkehrsmittel",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "Paul Ryan",
-     "text": "Mitt Romney"
+     "match": "Übelkeit und Erbrechen",
+     "text": "[i]Vomex[/i]"
     },
     {
-     "match": "Sarah Palin",
-     "text": "John McCain"
+     "match": "Kleinere Wunden",
+     "text": "[i]Bepanthen[/i]"
     },
     {
-     "match": "John Edwards",
-     "text": "John Kerry"
+     "match": "Trockene Augen",
+     "text": "[i]Hylo Care[/i]"
     },
     {
-     "match": "Joe Lieberman",
-     "text": "Al Gore"
+     "match": "Verstopfung",
+     "text": "[i]Laxoberal[/i]"
     },
     {
-     "match": "Jack Kemp",
-     "text": "Bob Dole"
+     "match": "Verstopfte Nase",
+     "text": "[i]Otriven[/i]"
     },
     {
-     "match": "Lloyd Bentsen",
-     "text": "Michael Dukakis"
+     "match": "Schlafstörungen",
+     "text": "[i]Neurexan[/i]"
     },
     {
-     "match": "Tim Kaine",
-     "text": "Hillary Clinton"
+     "match": "Erkältung",
+     "text": "[i]GeloMyrtol[/i]"
     },
     {
-     "match": "Geraldine Ferraro",
-     "text": "Walter Mondale"
+     "match": "Halsschmerzen",
+     "text": "[i]Lemocin[/i]"
     },
     {
-     "match": "Sargent Shriver",
-     "text": "George McGovern"
+     "match": "Sodbrennen",
+     "text": "[i]Maaloxan[/i]"
     },
     {
-     "match": "Estes Kefauver",
-     "text": "Adlai Stevenson (1956)"
+     "match": "Durchfall",
+     "text": "[i]Imodium Akut[/i]"
     },
     {
-     "match": "William E. Miller",
-     "text": "Barry Goldwater"
+     "match": "Allergien",
+     "text": "[i]Cetirizin Hexal[/i]"
     },
     {
-     "match": "Earl Warren",
-     "text": "Thomas E. Dewey"
+     "match": "Schmerzen",
+     "text": "[i]Aspirin[/i]"
     }
    ],
-   "category": "Historical Figures",
+   "category": "Factoids",
    "decoys": [],
    "headers": [
     {
-     "match": "Running Mates",
-     "text": "Presidential Candidates"
+     "match": "Wogegen helfen sie?",
+     "text": "Medikamente"
     }
    ],
    "id": "79127",
    "isValid": "",
-   "prompt": "Match the candidate with their running mate",
-   "promptHeader": "Unsuccessful Presidential Candidates and Their Running Mates",
-   "us": true,
+   "prompt": "Ordne das Medikament seiner Wirkung zu",
+   "promptHeader": "Das 1x1 der kleinen Hausapotheke",
+   "us": false,
    "x": false
   },
   {
@@ -4373,67 +4549,75 @@
   {
    "answers": [
     {
-     "match": "Roxanne",
-     "text": "The Police"
+     "match": "Jan Vermeer",
+     "text": "“Das Mädchen mit dem Perlenohrgehänge”"
     },
     {
-     "match": "Delilah",
-     "text": "Plain White T’s"
+     "match": "Leonardo da Vinci",
+     "text": "“Mona Lisa”"
     },
     {
-     "match": "Rhiannon",
-     "text": "Fleetwood Mac"
+     "match": "Vincent van Gogh",
+     "text": "“Sternennacht”"
     },
     {
-     "match": "Sweet Caroline",
-     "text": "Neil Diamond"
+     "match": "Raffael da Urbino",
+     "text": "“Die Schule von Athen”"
     },
     {
-     "match": "Iris",
-     "text": "Goo Goo Dolls"
+     "match": "Michelangelo Buonarroti",
+     "text": "“Die Erschaffung Adams”"
     },
     {
-     "match": "Polly",
-     "text": "Nirvana"
+     "match": "Edvard Munch",
+     "text": "“Der Schrei”"
     },
     {
-     "match": "Angie",
-     "text": "Rolling Stones"
+     "match": "Caspar David Friedrich",
+     "text": "“Der Wanderer über dem Nebelmeer”"
     },
     {
-     "match": "Helena",
-     "text": "My Chemical Romance"
+     "match": "Rembrandt van Rijn",
+     "text": "“Die Nachtwache”"
     },
     {
-     "match": "Cecilia",
-     "text": "Simon & Garfunkel"
+     "match": "Sandro Botticelli",
+     "text": "“Die Geburt der Venus”"
     },
     {
-     "match": "Stacy's Mom",
-     "text": "Fountains of Wayne"
+     "match": "Pablo Picasso",
+     "text": "“Guernica”"
     },
     {
-     "match": "Eileen",
-     "text": "Dexy’s Midnight Runners"
+     "match": "Albrecht Dürer",
+     "text": "“Die vier Apostel”"
     },
     {
-     "match": "Barbara Ann",
-     "text": "Beach Boys"
+     "match": "Salvador Dalí",
+     "text": "“Die Beständigkeit der Erinnerung”"
+    },
+    {
+     "match": "Pierre-Auguste Renoir",
+     "text": "“Tanz im Garten der Moulin de la Galette”"
+    },
+    {
+     "match": "John Everett Millais",
+     "text": "“Ophelia”"
     }
    ],
-   "category": "Music",
+   "category": "Art",
    "decoys": [],
    "headers": [
     {
-     "match": "Muses",
-     "text": "Artists"
+     "match": "Maler",
+     "text": "Werke"
     }
    ],
    "id": "79469",
    "isValid": "",
-   "prompt": "Match the artist to the muse",
-   "promptHeader": "Musical Artists and Their Muses",
-   "us": true,
+   "prompt": "Ordne das Gemälde seinem Maler zu",
+   "promptHeader": "Berühmte Gemälde",
+   "us": false,
    "x": false
   },
   {
@@ -4547,59 +4731,99 @@
   {
    "answers": [
     {
-     "match": "T",
-     "text": "James Kirk"
+     "match": "Indien",
+     "text": "Delhi"
     },
     {
-     "match": "Thee",
-     "text": "Megan Stallion"
+     "match": "China",
+     "text": "Guangzhou"
     },
     {
-     "match": "P",
-     "text": "J Morgan"
+     "match": "Argentinien",
+     "text": "Buenos Aires"
     },
     {
-     "match": "S",
-     "text": "T Eliot"
+     "match": "Türkei",
+     "text": "Istanbul"
     },
     {
-     "match": "F",
-     "text": "Paul Tompkins"
+     "match": "Nigeria",
+     "text": "Lagos"
     },
     {
-     "match": "C",
-     "text": "John Reilly"
+     "match": "Peru",
+     "text": "Lima"
     },
     {
-     "match": "J",
-     "text": "Michael Fox"
+     "match": "Südkorea",
+     "text": "Seoul"
     },
     {
-     "match": "Day",
-     "text": "Daniel Lewis"
+     "match": "Kolumbien",
+     "text": "Bogotá"
     },
     {
-     "match": "Night",
-     "text": "M Shyamalan"
+     "match": "Japan",
+     "text": "Nagoya"
     },
     {
-     "match": "E",
-     "text": "Chuck Cheese"
+     "match": "Irak",
+     "text": "Bagdad"
+    },
+    {
+     "match": "Kanada",
+     "text": "Calgary"
+    },
+    {
+     "match": "Spanien",
+     "text": "Barcelona"
+    },
+    {
+     "match": "Russland",
+     "text": "Sankt Petersburg"
+    },
+    {
+     "match": "Australien",
+     "text": "Sydney"
+    },
+    {
+     "match": "Kenia",
+     "text": "Nairobi"
+    },
+    {
+     "match": "Mexiko",
+     "text": "Monterrey"
+    },
+    {
+     "match": "Madagaskar",
+     "text": "Antananarivo"
+    },
+    {
+     "match": "Vereinigtes Königreich",
+     "text": "Birmingham"
+    },
+    {
+     "match": "Vereinigte Staaten",
+     "text": "Chicago"
+    },
+    {
+     "match": "Venezuela",
+     "text": "Caracas"
     }
    ],
-   "category": "Celebrities",
+   "category": "Geography & Landmarks",
    "decoys": [],
    "headers": [
     {
-     "match": "Middles",
-     "text": "Names"
+     "match": "Länder",
+     "text": "Millionenstädte"
     }
    ],
    "id": "79476",
    "isValid": "",
-   "prompt": "Match the first and last name to its middle",
-   "promptHeader": "Middles of Names",
-   "us": true,
+   "prompt": "Ordne die Millionenstadt dem Land zu",
+   "promptHeader": "Städte von unglaublicher Größe",
+   "us": false,
    "x": false
   },
   {
@@ -4661,7 +4885,7 @@
    "isValid": "",
    "prompt": "Ordne den Film dem Jahrzehnt zu, in dem er spielt",
    "promptHeader": "Filme, die in einer anderen Dekade spielen, als sie gedreht wurden",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -4721,7 +4945,7 @@
    ],
    "id": "79501",
    "isValid": "",
-   "prompt": "Ordne dem Unternehmen ihren ursprünglichen Namen zu",
+   "prompt": "Ordne dem Unternehmen seinen ursprünglichen Namen zu",
    "promptHeader": "Ernsthaft umbenannte Firmennamen",
    "us": false,
    "x": false
@@ -4785,73 +5009,65 @@
    "isValid": "",
    "prompt": "Ordne die Cartoon-Figur ihrem besten Freund zu",
    "promptHeader": "Cartoon-BFFs",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "Matt Foley",
-     "text": "Chris Farley"
+     "match": "“Múnich”",
+     "text": "Spanisch"
     },
     {
-     "match": "Mary Katherine Gallagher",
-     "text": "Molly Shannon"
+     "match": "“Monachium”",
+     "text": "Polnisch"
     },
     {
-     "match": "The Church Lady",
-     "text": "Dana Carvey"
+     "match": "“Monaco di Baviera”",
+     "text": "Italienisch"
     },
     {
-     "match": "Gilly",
-     "text": "Kristin Wiig"
+     "match": "“Munich”",
+     "text": "Englisch"
     },
     {
-     "match": "Stefon",
-     "text": "Bill Hader"
+     "match": "“Minhen”",
+     "text": "Serbisch"
     },
     {
-     "match": "Debbie Downer",
-     "text": "Rachel Dratch"
+     "match": "“Münih”",
+     "text": "Türkisch"
     },
     {
-     "match": "Roseanne Rosannadanna",
-     "text": "Gilda Radner"
+     "match": "“Myunhen”",
+     "text": "Japanisch"
     },
     {
-     "match": "Operaman",
-     "text": "Adam Sandler"
+     "match": "“Munique”",
+     "text": "Portugiesisch"
     },
     {
-     "match": "Wayne Campbell",
-     "text": "Mike Myers"
+     "match": "“Mníchov”",
+     "text": "Slowakisch"
     },
     {
-     "match": "Alex Trebek",
-     "text": "Will Ferrell"
-    },
-    {
-     "match": "Sean Connery",
-     "text": "Darrell Hammond"
-    },
-    {
-     "match": "Mr. Robinson",
-     "text": "Eddie Murphy"
+     "match": "“Minhene”",
+     "text": "Lettisch"
     }
    ],
-   "category": "Film & TV",
+   "category": "Language/Words/Grammar",
    "decoys": [],
    "headers": [
     {
-     "match": "Characters",
-     "text": "Cast Members"
+     "match": "“München” in verschiedenen Sprachen",
+     "text": "Sprachen"
     }
    ],
    "id": "79813",
    "isValid": "",
-   "prompt": "Match the [i]SNL[/i] cast member to their character",
-   "promptHeader": "[i]Saturday Night Live[/i] Cast Members and Their Popular Characters",
-   "us": true,
+   "prompt": "Ordne den Namen der Stadt München den verschiedenen Sprachen zu",
+   "promptHeader": "“München” in unterschiedlichen Sprachen",
+   "us": false,
    "x": false
   },
   {
@@ -4919,67 +5135,75 @@
   {
    "answers": [
     {
-     "match": "Michael Burnham",
-     "text": "Sonequa Martin-Green"
+     "match": "Speicherstadt",
+     "text": "Hamburg"
     },
     {
-     "match": "Jean-Luc Picard",
-     "text": "Patrick Stewart"
+     "match": "Domkirche St. Maria und St. Stephan",
+     "text": "Speyer"
     },
     {
-     "match": "Jonathan Archer",
-     "text": "Scott Bakula"
+     "match": "Wieskirche",
+     "text": "Steingaden"
     },
     {
-     "match": "Kathryn Janeway",
-     "text": "Kate Mulgrew"
+     "match": "Schlösser Augustusburg und Falkenlust",
+     "text": "Brühl"
     },
     {
-     "match": "Seven of Nine",
-     "text": "Jeri Ryan"
+     "match": "Porta Nigra",
+     "text": "Trier"
     },
     {
-     "match": "Odo",
-     "text": "Rene Auberjonois"
+     "match": "Bergwerk Rammelsberg",
+     "text": "Goslar"
     },
     {
-     "match": "Benjamin Sisko",
-     "text": "Avery Brooks"
+     "match": "Völklinger Hütte",
+     "text": "Völklingen"
     },
     {
-     "match": "Data",
-     "text": "Brent Spiner"
+     "match": "Bauhaus-Universität",
+     "text": "Weimar"
     },
     {
-     "match": "Wesley Crusher",
-     "text": "Wil Wheaton"
+     "match": "Luther-Geburtshaus",
+     "text": "Eisleben"
     },
     {
-     "match": "Hikaru Sulu",
-     "text": "George Takei"
+     "match": "Museumsinsel",
+     "text": "Berlin"
     },
     {
-     "match": "Uhura",
-     "text": "Nichelle Nichols"
+     "match": "Wartburg",
+     "text": "Eisenach"
     },
     {
-     "match": "Spock",
-     "text": "Leonard Nimoy"
+     "match": "Zeche Zollverein",
+     "text": "Essen"
+    },
+    {
+     "match": "Markgräfliches Opernhaus",
+     "text": "Bayreuth"
+    },
+    {
+     "match": "Fagus-Werk",
+     "text": "Alfeld"
     }
    ],
-   "category": "Film & TV",
+   "category": "Geography & Landmarks",
    "decoys": [],
    "headers": [
     {
-     "match": "[i]Star Trek[/i] Characters",
-     "text": "[i]Star Trek[/i] Actors"
+     "match": "[i]UNESCO[/i]-Weltkulturerbe",
+     "text": "Städte"
     }
    ],
    "id": "80326",
    "isValid": "",
-   "prompt": "Match the [i]Star Trek[/i] actor to the character they played",
-   "promptHeader": "[i]Star Trek[/i] Cast Members and the Characters They Played",
-   "us": true,
+   "prompt": "Ordne das [i]UNESCO[/i]-Weltkulturerbe der Stadt zu",
+   "promptHeader": "Deutsches Weltkulturerbe und wo es zu finden ist",
+   "us": false,
    "x": false
   },
   {
@@ -5017,7 +5241,7 @@
      "text": "Iod"
     },
     {
-     "match": "Regulation des Bludrucks",
+     "match": "Regulation des Blutdrucks",
      "text": "Magnesium"
     },
     {
@@ -5473,481 +5697,533 @@
   {
    "answers": [
     {
-     "match": "Dre",
-     "text": "Dr."
+     "match": "207",
+     "text": "Apache"
     },
     {
-     "match": "3000",
-     "text": "André"
+     "match": "MC",
+     "text": "Bonez"
     },
     {
-     "match": "Cat",
-     "text": "Doja"
+     "match": "Bra",
+     "text": "Capital"
     },
     {
-     "match": "Chainz",
-     "text": "2"
+     "match": "Delay",
+     "text": "Jan"
     },
     {
-     "match": "Rocky",
-     "text": "A$AP"
+     "match": "Fresh",
+     "text": "Eko"
     },
     {
-     "match": "B",
-     "text": "Cardi"
+     "match": "Bang",
+     "text": "Farid"
     },
     {
-     "match": "Cudi",
-     "text": "Kid"
+     "match": "One",
+     "text": "Kay"
     },
     {
-     "match": "Khalifa",
-     "text": "Wiz"
+     "match": "Kummer",
+     "text": "Felix"
     },
     {
-     "match": "Kim",
-     "text": "Lil’"
+     "match": "Deluxe",
+     "text": "Samy"
     },
     {
-     "match": "Minaj",
-     "text": "Nicki"
+     "match": "Cem",
+     "text": "Summer"
     },
     {
-     "match": "Z",
-     "text": "Jay"
+     "match": "Pi",
+     "text": "Prinz"
     },
     {
-     "match": "Savage",
-     "text": "21"
+     "match": "Karat",
+     "text": "18"
+    },
+    {
+     "match": "Rebell",
+     "text": "KC"
+    },
+    {
+     "match": "Savas",
+     "text": "Kool"
     }
    ],
    "category": "Music",
    "decoys": [],
    "headers": [
     {
-     "match": "Rap Name Back Ends",
-     "text": "Rap Name Front Ends"
+     "match": "Hintere Teile der Namen",
+     "text": "Vordere Teile der Namen"
     }
    ],
    "id": "80457",
    "isValid": "",
-   "prompt": "Match the rapper stage name’s front end to its back end",
-   "promptHeader": "Hip-Hop Beginnings and Endings",
-   "us": true,
+   "prompt": "Ordne den vorderen Teil des Rapper-Namens dem hinteren zu",
+   "promptHeader": "Deutsche Rapper",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "The Study Room",
-     "text": "[i]Community[/i]"
+     "match": "Enge Räume",
+     "text": "Klaustrophobie"
     },
     {
-     "match": "Monk’s Café",
-     "text": "[i]Seinfeld[/i]"
+     "match": "Unsauberkeit",
+     "text": "Mysophobie"
     },
     {
-     "match": "Central Perk",
-     "text": "[i]Friends[/i]"
+     "match": "Licht",
+     "text": "Photophobie"
     },
     {
-     "match": "The Groovy Smoothie",
-     "text": "[i]iCarly[/i]"
+     "match": "Tiere",
+     "text": "Zoophobie"
     },
     {
-     "match": "Moe’s Tavern",
-     "text": "[i]The Simpsons[/i]"
+     "match": "Zahnärzte",
+     "text": "Dentophobie"
     },
     {
-     "match": "The Krusty Krab",
-     "text": "[i]SpongeBob SquarePants[/i]"
+     "match": "Hunde",
+     "text": "Kynophobie"
     },
     {
-     "match": "The Peach Pit",
-     "text": "[i]Beverly Hills, 90210[/i]"
+     "match": "Wasser",
+     "text": "Aquaphobie"
     },
     {
-     "match": "Paddy’s Pub",
-     "text": "[i]It’s Always Sunny in Philadelphia[/i]"
+     "match": "Fliegen",
+     "text": "Aviophobie"
     },
     {
-     "match": "Bada Bing!",
-     "text": "[i]The Sopranos[/i]"
+     "match": "Spinnen",
+     "text": "Arachnophobie"
     },
     {
-     "match": "The Hub",
-     "text": "[i]That '70s Show[/i]"
+     "match": "Höhe",
+     "text": "Akrophobie"
     }
    ],
-   "category": "Film & TV",
+   "category": "Science & Medicine",
    "decoys": [],
    "headers": [
     {
-     "match": "Hangout Spots",
-     "text": "TV Shows"
+     "match": "Ängste",
+     "text": "Bezeichnungen"
     }
    ],
    "id": "80458",
    "isValid": "",
-   "prompt": "Match the TV show to its signature hangout spot",
-   "promptHeader": "TV Shows and Their Main Hangs",
-   "us": true,
+   "prompt": "Ordne die Phobie dem zu, vor dem man durch sie Angst hat",
+   "promptHeader": "“Fürchtest du dich?”",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "Billy Joel",
-     "text": "[i]Movin' Out[/i]"
+     "match": "Indien",
+     "text": "Taj Mahal"
     },
     {
-     "match": "Frankie Valli & The Four Seasons",
-     "text": "[i]Jersey Boys[/i]"
+     "match": "Australien",
+     "text": "Sydney Opera House"
     },
     {
-     "match": "The Temptations",
-     "text": "[i]Ain't Too Proud[/i]"
+     "match": "Frankreich",
+     "text": "Louvre"
     },
     {
-     "match": "Carole King",
-     "text": "[i]Beautiful[/i]"
+     "match": "China",
+     "text": "Verbotene Stadt"
     },
     {
-     "match": "Queen",
-     "text": "[i]We Will Rock You[/i]"
+     "match": "Japan",
+     "text": "Fushimi Inari-Taisha"
     },
     {
-     "match": "ABBA",
-     "text": "[i]Mamma Mia[/i]"
+     "match": "Jordanien",
+     "text": "Petra"
     },
     {
-     "match": "Elvis Presley",
-     "text": "[i]All Shook Up[/i]"
+     "match": "Peru",
+     "text": "Machu Picchu"
     },
     {
-     "match": "Peter Allen",
-     "text": "[i]The Boy From Oz[/i]"
+     "match": "Spanien",
+     "text": "Park Güell"
     },
     {
-     "match": "The Beach Boys",
-     "text": "[i]Good Vibrations[/i]"
+     "match": "Griechenland",
+     "text": "Akropolis"
     },
     {
-     "match": "The Kinks",
-     "text": "[i]Sunny Afternoon[/i]"
+     "match": "Portugal",
+     "text": "Hieronymuskloster"
+    },
+    {
+     "match": "Kanada",
+     "text": "CN Tower"
+    },
+    {
+     "match": "Vereinigtes Königreich",
+     "text": "Buckingham Palace"
+    },
+    {
+     "match": "Brasilien",
+     "text": "Cristo Redentor"
+    },
+    {
+     "match": "Ägypten",
+     "text": "Große Sphinx von Gizeh"
+    },
+    {
+     "match": "Deutschland",
+     "text": "Schloss Neuschwanstein"
+    },
+    {
+     "match": "Österreich",
+     "text": "Schloss Schönbrunn"
+    },
+    {
+     "match": "Polen",
+     "text": "Krakauer Tuchhallen mit Hauptmarkt"
+    },
+    {
+     "match": "Ungarn",
+     "text": "Fischerbastei"
     }
    ],
-   "category": "Theatre/Performing Arts",
+   "category": "Geography & Landmarks",
    "decoys": [],
    "headers": [
     {
-     "match": "Celebrated Artists",
-     "text": "Musicals"
+     "match": "Länder",
+     "text": "Berühmte Bauwerke"
     }
    ],
    "id": "80461",
    "isValid": "",
-   "prompt": "Match the musical to the artist it celebrates",
-   "promptHeader": "Jukebox Musicals",
-   "us": true,
+   "prompt": "Ordne das berühmte Bauwerk dem Land zu",
+   "promptHeader": "Berühmte Bauwerke",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "Apple",
-     "text": "Fiona"
+     "match": "Apfel",
+     "text": "Sammelbalgfrucht"
     },
     {
-     "match": "Berry",
-     "text": "Halle"
+     "match": "Raps",
+     "text": "Schote"
     },
     {
-     "match": "Cube",
-     "text": "Ice"
+     "match": "Linse",
+     "text": "Hülsenfrucht"
     },
     {
-     "match": "Bacon",
-     "text": "Kevin"
+     "match": "Brombeere",
+     "text": "Sammelsteinfrucht"
     },
     {
-     "match": "Larson",
-     "text": "Brie"
+     "match": "Erdbeere",
+     "text": "Sammelnussfrucht"
     },
     {
-     "match": "Curry",
-     "text": "Stephen"
+     "match": "Tomate",
+     "text": "Beere"
     },
     {
-     "match": "Hamm",
-     "text": "Jon"
+     "match": "Kirsche",
+     "text": "Steinfrucht"
     },
     {
-     "match": "Rogers",
-     "text": "Ginger"
-    },
-    {
-     "match": "Candy",
-     "text": "John"
-    },
-    {
-     "match": "Rice",
-     "text": "Jerry"
+     "match": "Haselnuss",
+     "text": "Nussfrucht"
     }
    ],
-   "category": "Celebrities",
+   "category": "Science & Medicine",
    "decoys": [],
    "headers": [
     {
-     "match": "Last Names",
-     "text": "First Names"
+     "match": "Früchte",
+     "text": "Botanische Fruchtformen"
     }
    ],
    "id": "80462",
    "isValid": "",
-   "prompt": "Match the edible celebrity first name to the last name",
-   "promptHeader": "Edible Celebs",
-   "us": true,
+   "prompt": "Ordne die Frucht ihrer botanischen Klasse zu",
+   "promptHeader": "Die botanischen Fruchtformen",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "Billie Lourd",
-     "text": "Carrie Fisher"
+     "match": "Israel",
+     "text": "Klagemauer"
     },
     {
-     "match": "Angelina Jolie",
-     "text": "Jon Voigt"
+     "match": "Frankreich",
+     "text": "Notre-Dame"
     },
     {
-     "match": "Mariska Hargitay",
-     "text": "Jayne Mansfield"
+     "match": "Indien",
+     "text": "Taj Mahal"
     },
     {
-     "match": "Anderson Cooper",
-     "text": "Gloria Vanderbilt"
+     "match": "Russland",
+     "text": "Basilius-Kathedrale"
     },
     {
-     "match": "Kate Hudson",
-     "text": "Goldie Hawn"
+     "match": "Vatikan",
+     "text": "Petersdom"
     },
     {
-     "match": "Gwyneth Paltrow",
-     "text": "Blythe Danner"
+     "match": "Japan",
+     "text": "Todai-ji"
     },
     {
-     "match": "Dakota Johnson",
-     "text": "Melanie Griffith"
+     "match": "Brasilien",
+     "text": "Cristo Redentor"
     },
     {
-     "match": "Rumer Willis",
-     "text": "Demi Moore"
+     "match": "Saudi-Arabien",
+     "text": "al-Haram-Moschee"
     },
     {
-     "match": "Emilio Estevez",
-     "text": "Martin Sheen"
+     "match": "Türkei",
+     "text": "Hagia Sophia"
     },
     {
-     "match": "Zoe Kravitz",
-     "text": "Lisa Bonet"
+     "match": "Spanien",
+     "text": "Sagrada Família"
     },
     {
-     "match": "Elle King",
-     "text": "Rob Schneider"
+     "match": "Indonesien",
+     "text": "Borobudur"
     },
     {
-     "match": "Maya Rudolph",
-     "text": "Minnie Riperton"
+     "match": "Indien",
+     "text": "Ramanathaswami-Tempel"
     }
    ],
-   "category": "Celebrities",
+   "category": "Religion",
    "decoys": [],
    "headers": [
     {
-     "match": "Offspring",
-     "text": "Celebrities"
+     "match": "Länder",
+     "text": "Glaubensstätten"
     }
    ],
    "id": "80471",
    "isValid": "",
-   "prompt": "Match the celebrity to their offspring",
-   "promptHeader": "Celebrities Through the Generations",
-   "us": true,
+   "prompt": "Ordne die Glaubensstätte dem Land zu",
+   "promptHeader": "Bedeutende Glaubensstätten und ihre Standorte",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "Jack Nicholson",
+     "match": "Jack Napier ([i]Joker[/i])",
      "text": "[i]Batman[/i]"
     },
     {
-     "match": "Jeff Bridges",
+     "match": "Obadiah Stane ([i]Iron Monger[/i])",
      "text": "[i]Iron Man[/i]"
     },
     {
-     "match": "Michael Keaton",
+     "match": "Adrian Toomes ([i]The Vulture[/i])",
      "text": "[i]Spiderman: Homecoming[/i]"
     },
     {
-     "match": "Mads Mikkelsen",
+     "match": "Kaecilius",
      "text": "[i]Doctor Strange[/i]"
     },
     {
-     "match": "Josh Brolin",
+     "match": "Thanos",
      "text": "[i]Avengers: Infinity War[/i]"
     },
     {
-     "match": "Michael Shannon",
+     "match": "General Zod",
      "text": "[i]Man of Steel[/i]"
     },
     {
-     "match": "David Thewlis",
+     "match": "Patrick Morgan ([i]Ares[/i])",
      "text": "[i]Wonder Woman[/i]"
     },
     {
-     "match": "Matthew Goode",
-     "text": "[i]Watchmen[/i]"
+     "match": "Adrian Veidt ([i]Ozymandias[/i])",
+     "text": "[i]Watchmen - Die Wächter[/i]"
     },
     {
-     "match": "Jude Law",
+     "match": "Yon-Rogg",
      "text": "[i]Captain Marvel[/i]"
     },
     {
-     "match": "Gene Hackman",
-     "text": "[i]Superman: The Movie[/i]"
+     "match": "Xu Wenwu",
+     "text": "[i]Shang-Chi and the Legend of the Ten Rings[/i]"
     },
     {
-     "match": "Cate Blanchett",
-     "text": "[i]Thor: Ragnarok[/i]"
+     "match": "Hela Odinsdottir",
+     "text": "[i]Thor: Tag der Entscheidung[/i]"
     }
    ],
    "category": "Film & TV",
    "decoys": [],
    "headers": [
     {
-     "match": "Villainous Actors",
-     "text": "Movies"
+     "match": "Antagonisten",
+     "text": "Filme"
     }
    ],
    "id": "81007",
    "isValid": "",
-   "prompt": "Match the superhero movie to the actor who played its villain",
-   "promptHeader": "Superhero Movies and Their Antagonists",
+   "prompt": "Ordne dem Superheldenfilm den Hauptantagonisten zu",
+   "promptHeader": "Böse Bösewichte und super Superheldenfilme",
    "us": true,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "Bane",
-     "text": "Tom Hardy"
+     "match": "Spider-Man",
+     "text": "Peter Parker"
     },
     {
-     "match": "Dredd",
-     "text": "Karl Urban"
+     "match": "Batman",
+     "text": "Bruce Wayne"
     },
     {
-     "match": "Din Djarin (The Mandalorian)",
-     "text": "Pedro Pascal"
+     "match": "Der Mandalorianer",
+     "text": "Din Djarin"
     },
     {
-     "match": "V",
-     "text": "Hugo Weaving"
+     "match": "Reaper",
+     "text": "Gabriel Reyes"
     },
     {
-     "match": "Boba Fett",
-     "text": "Jeremy Bulloch"
+     "match": "General Grievous",
+     "text": "Qymaen jai Sheelal"
     },
     {
-     "match": "The Phantom",
-     "text": "Gerard Butler"
+     "match": "Das Phantom",
+     "text": "Erik"
     },
     {
      "match": "Deadpool",
-     "text": "Ryan Reynolds"
+     "text": "Wade Wilson"
     },
     {
-     "match": "Jason Voorhees",
-     "text": "Kane Hodder"
+     "match": "Joker",
+     "text": "Arthur Fleck"
     },
     {
      "match": "Zorro",
-     "text": "Antonio Banderas"
+     "text": "Alejandro Murrieta"
+    },
+    {
+     "match": "Darth Vader",
+     "text": "Anakin Skywalker"
+    },
+    {
+     "match": "Green Lantern",
+     "text": "Kyle Rayner"
+    },
+    {
+     "match": "Phantomias",
+     "text": "Donald Duck"
+    },
+    {
+     "match": "Shiek",
+     "text": "Zelda"
     }
    ],
-   "category": "Celebrities",
+   "category": "Pop Culture",
    "decoys": [],
    "headers": [
     {
-     "match": "Masked Characters",
-     "text": "Actors"
+     "match": "Maskierte Figuren",
+     "text": "Alter Ego"
     }
    ],
    "id": "81008",
    "isValid": "",
-   "prompt": "Match the actor to the masked character they played",
-   "promptHeader": "Actors and Their Masked Characters",
+   "prompt": "Ordne die maskierte Figur ihrem Alter Ego zu",
+   "promptHeader": "Maskierte Figuren und ihre (manchmal geheimen) echten Namen",
    "us": true,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "soccer",
-     "text": "Megan Rapinoe"
+     "match": "Fußball",
+     "text": "Dzsenifer Marozsán"
     },
     {
-     "match": "tennis",
-     "text": "Serena Williams"
+     "match": "Tennis",
+     "text": "Steffi Graf"
     },
     {
-     "match": "gymnastics",
-     "text": "Simone Biles"
+     "match": "Kunstturnen",
+     "text": "Elisabeth Seitz"
     },
     {
-     "match": "MMA",
-     "text": "Ronda Rousey"
+     "match": "Boxen",
+     "text": "Susianna Kentikian"
     },
     {
-     "match": "auto racing",
-     "text": "Danica Patrick"
+     "match": "Bahnradsport",
+     "text": "Kristina Vogel"
     },
     {
-     "match": "figure skating",
-     "text": "Michelle Kwan"
+     "match": "Eiskunstlauf",
+     "text": "Katarina Witt"
     },
     {
-     "match": "swimming",
-     "text": "Katie Ledecky"
+     "match": "Schwimmen",
+     "text": "Caroline Ruhnau"
     },
     {
-     "match": "basketball",
-     "text": "Lisa Leslie"
+     "match": "Kanusport",
+     "text": "Birgit Fischer"
     },
     {
-     "match": "skiing",
-     "text": "Lindsey Vonn"
+     "match": "Biathlon",
+     "text": "Magdalena Neuner"
     },
     {
-     "match": "track and field",
-     "text": "Jackie Joyner-Kersee"
+     "match": "Leichtathletik",
+     "text": "Gesa Felicitas Krause"
+    },
+    {
+     "match": "Rhönradsport",
+     "text": "Sarah Metz"
     }
    ],
    "category": "Sports",
    "decoys": [],
    "headers": [
     {
-     "match": "Sports",
-     "text": "Athletes"
+     "match": "Sportarten",
+     "text": "Athletinnen"
     }
    ],
    "id": "81075",
    "isValid": "",
-   "prompt": "Match the athlete to their sport",
-   "promptHeader": "Elite Women of the Sports World",
-   "us": true,
+   "prompt": "Ordne die Athletin der Sportart zu",
+   "promptHeader": "Elite-Frauen der Sportwelt",
+   "us": false,
    "x": false
   },
   {
@@ -6023,237 +6299,237 @@
   {
    "answers": [
     {
-     "match": "Arkansas",
-     "text": "Bill Clinton"
+     "match": "Frankreich",
+     "text": "TGV"
     },
     {
-     "match": "Alabama",
-     "text": "George Wallace"
+     "match": "Großbritannien",
+     "text": "HST"
     },
     {
-     "match": "California",
-     "text": "Arnold Schwarzeneggar"
+     "match": "Japan",
+     "text": "Shinkansen"
     },
     {
-     "match": "Massachusetts",
-     "text": "Mitt Romney"
+     "match": "Vereinigte Staaten",
+     "text": "Acela Express"
     },
     {
-     "match": "Illinois",
-     "text": "Rod Blagojevich"
+     "match": "Südkorea",
+     "text": "KTX"
     },
     {
-     "match": "Alaska",
-     "text": "Sarah Palin"
+     "match": "China",
+     "text": "CRH"
     },
     {
-     "match": "Minnesota",
-     "text": "Jesse Ventura"
+     "match": "Deutschland",
+     "text": "ICE"
     },
     {
-     "match": "Florida",
-     "text": "Jeb Bush"
+     "match": "Russland",
+     "text": "Sapsan"
     },
     {
-     "match": "Texas",
-     "text": "George W. Bush"
+     "match": "Schweden",
+     "text": "SJ"
     },
     {
-     "match": "New York",
-     "text": "Franklin Roosevelt"
+     "match": "Spanien",
+     "text": "AVE"
     },
     {
-     "match": "Virginia",
-     "text": "Thomas Jefferson"
+     "match": "Italien",
+     "text": "Le Frecce"
     },
     {
-     "match": "Georgia",
-     "text": "Jimmy Carter"
-    }
-   ],
-   "category": "Historical Figures",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "U.S. States",
-     "text": "Governors"
-    }
-   ],
-   "id": "81082",
-   "isValid": "",
-   "prompt": "Match the famous U.S. governor to the state they governed",
-   "promptHeader": "'ello GUVNAH!",
-   "us": true,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "[i]Community[/i]",
-     "text": "Wheelology 101"
-    },
-    {
-     "match": "[i]It's Always Sunny in Philadelphia[/i]",
-     "text": "The Gang Ascends the Summit of Knowledge"
-    },
-    {
-     "match": "[i]Friends[/i]",
-     "text": "The One with the Very Handsome Wheel"
-    },
-    {
-     "match": "[i]Crazy Ex-Girlfriend[/i]",
-     "text": "I'm Spinning the Wheel with Josh!"
-    },
-    {
-     "match": "[i]Freaks and Geeks[/i]",
-     "text": "Spinning and Winning"
-    },
-    {
-     "match": "[i]Mr. Robot[/i]",
-     "text": "404 Wheel Not Found"
-    },
-    {
-     "match": "[i]Everybody Hates Chris![/i]",
-     "text": "Everybody Hates Not Spinning The Wheel!"
-    },
-    {
-     "match": "[i]The Big Bang Theory[/i]",
-     "text": "The Cosmic Wheel Corollary"
-    },
-    {
-     "match": "[i]Are You Afraid of the Dark?[/i]",
-     "text": "The Tale of the Phantom Spin"
-    },
-    {
-     "match": "[i]M.A.S.H.[/i]",
-     "text": "Hawkeye, Spin Your Wheel"
-    }
-   ],
-   "category": "Film & TV",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "TV Shows",
-     "text": "Episode Titles"
-    }
-   ],
-   "id": "81136",
-   "isValid": "",
-   "prompt": "Match the made-up episode to its television show",
-   "promptHeader": "Imaginary TV Episodes Starring the Wheel",
-   "us": true,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "flying",
-     "text": "Wright"
-    },
-    {
-     "match": "social media/investing",
-     "text": "Winklevoss"
-    },
-    {
-     "match": "pop music",
-     "text": "Jonas"
-    },
-    {
-     "match": "comedy",
-     "text": "Marx"
-    },
-    {
-     "match": "folklore",
-     "text": "Grimm"
-    },
-    {
-     "match": "politics",
-     "text": "Kennedy"
-    },
-    {
-     "match": "football",
-     "text": "Manning"
-    },
-    {
-     "match": "folk rock",
-     "text": "Avett"
-    },
-    {
-     "match": "film directing",
-     "text": "Coen"
-    }
-   ],
-   "category": "Celebrities",
-   "decoys": [],
-   "headers": [
-    {
-     "match": "Careers",
-     "text": "Brothers"
-    }
-   ],
-   "id": "81222",
-   "isValid": "",
-   "prompt": "Match the brothers to what they're famous for",
-   "promptHeader": "Bestest Bros",
-   "us": true,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "match": "ruby slippers",
-     "text": "Dorothy"
-    },
-    {
-     "match": "shoes aimed at George W. Bush",
-     "text": "Muntadhar al-Zaidi"
-    },
-    {
-     "match": "glass slippers",
-     "text": "Cinderella"
-    },
-    {
-     "match": "shoe boiled in stock, herbs, garlic",
-     "text": "Werner Herzog"
-    },
-    {
-     "match": "PF Flyers",
-     "text": "Benny “The Jet” Rodriguez"
-    },
-    {
-     "match": "THE Chanel boots",
-     "text": "Andy Sachs (Anne Hathaway in [i]The Devil Wears Prada[/i])"
-    },
-    {
-     "match": "skate with a broken lace",
-     "text": "Tonya Harding"
-    },
-    {
-     "match": "Adidas Superstars",
-     "text": "Run DMC"
-    },
-    {
-     "match": "bare foot wrapped with rag",
-     "text": "John McClane"
-    },
-    {
-     "match": "Nike Air Mags",
-     "text": "Marty McFly"
+     "match": "Portugal",
+     "text": "Alfa Pendular"
     }
    ],
    "category": "Factoids",
    "decoys": [],
    "headers": [
     {
-     "match": "Footwear",
-     "text": "Footwear Owners"
+     "match": "Länder",
+     "text": "Hochgeschwindigkeitszüge"
+    }
+   ],
+   "id": "81082",
+   "isValid": "",
+   "prompt": "Ordne den Hochgeschwindigkeitszug seinem Land zu",
+   "promptHeader": "Länder und ihre Schnellzüge",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "match": "Lüneburg",
+     "text": "[i]Rote Rosen[/i]"
+    },
+    {
+     "match": "Bichlheim",
+     "text": "[i]Sturm der Liebe[/i]"
+    },
+    {
+     "match": "Wolfratshausen",
+     "text": "[i]Hubert und Staller[/i]"
+    },
+    {
+     "match": "Berlin",
+     "text": "[i]Gute Zeiten, schlechte Zeiten[/i]"
+    },
+    {
+     "match": "Lansing",
+     "text": "[i]Dahoam is Dahoam[/i]"
+    },
+    {
+     "match": "Essen",
+     "text": "[i]Alles was zählt[/i]"
+    },
+    {
+     "match": "Leipzig",
+     "text": "[i]In aller Freundschaft[/i]"
+    },
+    {
+     "match": "München",
+     "text": "[i]Lindenstraße[/i]"
+    },
+    {
+     "match": "Erfurt",
+     "text": "[i]Schloss Einstein[/i]"
+    },
+    {
+     "match": "Rosenheim",
+     "text": "[i]Die Rosenheim-Cops[/i]"
+    },
+    {
+     "match": "Frankfurt am Main",
+     "text": "[i]Ein Fall für zwei[/i]"
+    },
+    {
+     "match": "Hamburg",
+     "text": "[i]Großstadtrevier[/i]"
+    }
+   ],
+   "category": "Film & TV",
+   "decoys": [],
+   "headers": [
+    {
+     "match": "Städte",
+     "text": "Sendungen"
+    }
+   ],
+   "id": "81136",
+   "isValid": "",
+   "prompt": "Ordne die Sendung der Stadt zu, in der sie spielt",
+   "promptHeader": "Sendungen und wo sie spielen",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "match": "Fliegen",
+     "text": "Wright"
+    },
+    {
+     "match": "Tennis",
+     "text": "Williams"
+    },
+    {
+     "match": "Popmusik",
+     "text": "Kaulitz"
+    },
+    {
+     "match": "Zaubern",
+     "text": "Ehrlich"
+    },
+    {
+     "match": "Märchen",
+     "text": "Grimm"
+    },
+    {
+     "match": "Fußball",
+     "text": "Kroos"
+    },
+    {
+     "match": "Boxen",
+     "text": "Klitschko"
+    },
+    {
+     "match": "[i]Formel 1[/i]",
+     "text": "Schumacher"
+    },
+    {
+     "match": "Schlagermusik",
+     "text":  "Ulrich"
+    }
+   ],
+   "category": "Celebrities",
+   "decoys": [],
+   "headers": [
+    {
+     "match": "Karrieren",
+     "text": "Brüder"
+    }
+   ],
+   "id": "81222",
+   "isValid": "",
+   "prompt": "Ordne die Brüder dem zu, für das sie berühmt sind",
+   "promptHeader": "Brüder und ihre Fähigkeiten",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "match": "Blau",
+     "text": "Edward"
+    },
+    {
+     "match": "Grün",
+     "text": "Henry"
+    },
+    {
+     "match": "Rot",
+     "text": "James"
+    },
+    {
+     "match": "Braun",
+     "text": "Toby"
+    },
+    {
+     "match": "Orange",
+     "text": "Nia"
+    },
+    {
+     "match": "Gelb",
+     "text": "Rebecca"
+    },
+    {
+     "match": "Schwarz",
+     "text": "Donald & Douglas"
+    },
+    {
+     "match": "Lila",
+     "text": "Charlie"
+    }
+   ],
+   "category": "Film & TV",
+   "decoys": [],
+   "headers": [
+    {
+     "match": "Farben",
+     "text": "Loks aus [i]Thomas & seine Freunde[/i]"
     }
    ],
    "id": "81247",
    "isValid": "",
-   "prompt": "Match the owner to their legendary footwear",
-   "promptHeader": "Amazing Feets",
-   "us": true,
+   "prompt": "Ordne die Lok aus [i]Thomas & seine Freunde[/i] ihrer Farbe zu",
+   "promptHeader": "Die farbenfrohen Freunde von Thomas",
+   "us": false,
    "x": false
   },
   {
@@ -6325,194 +6601,234 @@
   {
    "answers": [
     {
-     "match": "Appaloosa",
-     "text": "horse"
+     "match": "Hannoveraner",
+     "text": "Pferd"
     },
     {
-     "match": "Manx",
-     "text": "cat"
+     "match": "Maine-Coon",
+     "text": "Katze"
     },
     {
-     "match": "Bichon Frise",
-     "text": "dog"
+     "match": "Labrador",
+     "text": "Hund"
     },
     {
-     "match": "English Lop",
-     "text": "rabbit"
+     "match": "Deutscher Widder",
+     "text": "Kaninchen"
     },
     {
      "match": "Holstein",
-     "text": "cattle"
+     "text": "Rind"
     },
     {
-     "match": "Rhode Island Red",
-     "text": "chicken"
+     "match": "Altsteirer",
+     "text": "Huhn"
     },
     {
-     "match": "Vietnamese Potbelly",
-     "text": "pig"
+     "match": "Pietrain",
+     "text": "Schwein"
     },
     {
-     "match": "Devon Closewool",
-     "text": "sheep"
+     "match": "Heidschnucke",
+     "text": "Schaf"
     },
     {
-     "match": "Abyssinian Satin",
-     "text": "guinea pig"
+     "match": "American Crested",
+     "text": "Meerschweinchen"
     },
     {
      "match": "Dumbo",
-     "text": "rat"
+     "text": "Ratte"
     }
    ],
    "category": "Animals",
    "decoys": [],
    "headers": [
     {
-     "match": "Breeds",
-     "text": "Animals"
+     "match": "Rassen",
+     "text": "Tierarten"
     }
    ],
    "id": "81316",
    "isValid": "",
-   "prompt": "Match the animal species to its famous breed",
-   "promptHeader": "You Animals!",
-   "us": true,
+   "prompt": "Ordne das Tier seiner bekannten Rasse zu",
+   "promptHeader": "“Ihr Tiere!”",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "McDonald's",
-     "text": "Big Mac"
+     "match": "Rüsselsheim am Main",
+     "text": "[i]Opel[/i]"
     },
     {
-     "match": "Burger King",
-     "text": "Whopper"
+     "match": "Frankfurt am Main",
+     "text": "[i]Commerzbank[/i]"
     },
     {
-     "match": "Culver's",
-     "text": "ButterBurger"
+     "match": "Darmstadt",
+     "text": "[i]Merck[/i]"
     },
     {
-     "match": "Arby's",
-     "text": "Classic Roast Beef with Horsey Sauce"
+      "match": "Neckarsulm",
+      "text": "[i]Lidl[/i]"
     },
     {
-     "match": "White Castle",
-     "text": "Original Slider"
+      "match": "Ludwigshafen am Rhein",
+      "text": "[i]BASF[/i]"
     },
     {
-     "match": "Wendy's",
-     "text": "Dave's Single"
+     "match": "Köln",
+     "text": "[i]Lufthansa[/i]"
     },
     {
-     "match": "In-N-Out",
-     "text": "Double-Double Animal Style"
+     "match": "Essen",
+     "text": "[i]RWE[/i]"
     },
     {
-     "match": "Shake Shack",
-     "text": "Shack Burger"
+      "match": "Metzingen",
+      "text": "[i]Hugo Boss[/i]"
     },
     {
-     "match": "Steak 'N Shake",
-     "text": "Steakburger"
+     "match": "Mannheim",
+     "text": "[i]Südzucker[/i]"
+    },
+    {
+     "match": "Hamburg",
+     "text": "[i]Hapag-Lloyd[/i]"
+    },
+    {
+     "match": "Burladingen",
+     "text": "[i]Trigema[/i]"
+    },
+    {
+     "match": "Bonn",
+     "text": "[i]Deutsche Telekom[/i]"
+    },
+    {
+     "match": "Düsseldorf",
+     "text": "[i]Henkel[/i]"
+    },
+    {
+     "match": "Berlin",
+     "text": "[i]Zalando[/i]"
+    },
+    {
+     "match": "Wolfsburg",
+     "text": "[i]Volkswagen[/i]"
+    },
+    {
+     "match": "Herzogenaurach (Nürnberg)",
+     "text": "[i]Adidas[/i]"
+    },
+    {
+     "match": "Leverkusen",
+     "text": "[i]Bayer[/i]"
+    },
+    {
+     "match": "München",
+     "text": "[i]BMW[/i]"
+    },
+    {
+     "match": "Stuttgart",
+     "text": "[i]Porsche[/i]"
     }
    ],
-   "category": "Food & Drink",
+   "category": "Companies & Brands",
    "decoys": [],
    "headers": [
     {
-     "match": "Fast Food Chains",
-     "text": "Sandwiches"
+     "match": "Hauptsitze",
+     "text": "Unternehmen"
     }
    ],
    "id": "81433",
    "isValid": "",
-   "prompt": "Match the sandwich to its fast food chain",
-   "promptHeader": "Signature Sandwiches and the Fast Food Joints That Make Them",
-   "us": true,
+   "prompt": "Ordne das Unternehmen seinem Hauptsitz zu",
+   "promptHeader": "Deutsche Unternehmen und ihre Hauptsitze",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "lion + eagle",
-     "text": "Griffin"
+     "match": "Löwe + Adler",
+     "text": "Greif"
     },
     {
-     "match": "human + horse",
-     "text": "Centaur"
+     "match": "Mensch + Pferd",
+     "text": "Zentaur"
     },
     {
-     "match": "lion + goat + snake",
-     "text": "Chimera"
+     "match": "Löwe + Ziege + Schlange",
+     "text": "Chimäre"
     },
     {
-     "match": "human + lion",
+     "match": "Mensch + Löwe",
      "text": "Sphinx"
     },
     {
-     "match": "human + bull",
-     "text": "Minotaur"
+     "match": "Mensch + Stier",
+     "text": "Minotauros"
     },
     {
-     "match": "human + goat",
+     "match": "Mensch + Ziegenbock",
      "text": "Faun"
     },
     {
-     "match": "human + snakes",
-     "text": "Gorgon"
+     "match": "Mensch + Schlange",
+     "text": "Gorgonen"
     },
     {
-     "match": "human + fish",
-     "text": "Mermaid"
+     "match": "Mensch + Fisch",
+     "text": "Meerjungfrau"
     }
    ],
    "category": "Animals",
    "decoys": [],
    "headers": [
     {
-     "match": "Components",
-     "text": "Creatures"
+     "match": "Bestandteile",
+     "text": "Fabelwesen"
     }
    ],
    "id": "82717",
    "isValid": "",
-   "prompt": "Match the mythical creature with its component animals",
-   "promptHeader": "Mythical Creature Parts",
-   "us": true,
+   "prompt": "Ordne das Fabelwesen den Tieren zu, aus denen es besteht",
+   "promptHeader": "“Diese Fabelwesen können Spuren von ... enthalten”",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
      "match": "Franc",
-     "text": "France"
+     "text": "Frankreich"
     },
     {
      "match": "Schilling",
-     "text": "Austria"
+     "text": "Österreich"
     },
     {
-     "match": "Deutsche Mark",
-     "text": "Germany"
+     "match": "Reichsmark",
+     "text": "Deutschland"
     },
     {
-     "match": "Guilder",
-     "text": "Netherlands"
+     "match": "Gulden",
+     "text": "Niederlande"
     },
     {
-     "match": "Kroon",
-     "text": "Estonia"
+     "match": "Krone",
+     "text": "Estland"
     },
     {
-     "match": "Drachma",
-     "text": "Greece"
+     "match": "Drachme",
+     "text": "Griechenland"
     },
     {
      "match": "Lira",
-     "text": "Italy"
+     "text": "Italien"
     },
     {
      "match": "Escudo",
@@ -6520,154 +6836,166 @@
     },
     {
      "match": "Lats",
-     "text": "Latvia"
+     "text": "Lettland"
     },
     {
      "match": "Peseta",
-     "text": "Spain"
+     "text": "Spanien"
     },
     {
      "match": "Austral",
-     "text": "Argentina"
+     "text": "Argentinien"
     },
     {
      "match": "Ekwele",
-     "text": "Equatorial Guinea"
+     "text": "Äquatorialguinea"
     }
    ],
    "category": "Money",
    "decoys": [],
    "headers": [
     {
-     "match": "Old Currencies",
-     "text": "Countries"
+     "match": "Abgeschaffte Währungen",
+     "text": "Länder"
     }
    ],
    "id": "83097",
    "isValid": "",
-   "prompt": "Match the country to its obsolete currency",
-   "promptHeader": "Bygone Currencies",
-   "us": true,
+   "prompt": "Ordne die mittlerweile abgeschaffte Währung dem Land zu",
+   "promptHeader": "Vergangene Währungen",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "Great Dane",
+     "match": "Deutsche Dogge",
      "text": "Scooby-Doo"
     },
     {
-     "match": "Rough Collie",
+     "match": "Langhaarcollie",
      "text": "Lassie"
     },
     {
-     "match": "Chihuahua",
-     "text": "The Taco Bell Dog"
+     "match": "Drahthaar-Foxterrier",
+     "text": "Idefix"
     },
     {
-     "match": "Cairn Terrier",
-     "text": "Toto"
+     "match": "Basset Hound",
+     "text": "Hund ([i]Columbo[/i])"
     },
     {
-     "match": "German Shephard",
-     "text": "Rin Tin Tin"
+     "match": "Deutscher Schäferhund",
+     "text": "Rex"
     },
     {
      "match": "Beagle",
      "text": "Snoopy"
     },
     {
-     "match": "American Cocker Spaniel",
-     "text": "Lady (of [i]Lady and the Tramp[/i])"
+     "match": "Chinesischer Schopfhund",
+     "text": "Sam (3x in Folge “[i]Hässlichster Hund der Welt[/i]”)"
     },
     {
-     "match": "Bull Terrier",
-     "text": "Bullseye, the Target Dog"
-    },
-    {
-     "match": "Siberian Husky mix",
-     "text": "Laika (Sputnik 2 Cosmonaut Dog)"
+     "match": "Siberian Husky-Mischling",
+     "text": "Laika"
     },
     {
      "match": "Golden Retriever",
      "text": "Air Bud"
     },
     {
-     "match": "Yellow Labrador Retriever",
-     "text": "Marley"
+     "match": "Bernhardiner-Mischling",
+     "text": "Barry"
+    },
+    {
+     "match": "Mops",
+     "text": "Frank ([i]Men In Black[/i])"
     }
    ],
    "category": "Animals",
    "decoys": [],
    "headers": [
     {
-     "match": "Breeds",
-     "text": "Famous Dogs"
+     "match": "Rassen",
+     "text": "Berühmte Hunde"
     }
    ],
    "id": "83906",
    "isValid": "",
-   "prompt": "Match the famous dog to its breed",
-   "promptHeader": "Dogs of Great Renown",
-   "us": true,
+   "prompt": "Ordne den berühmten Hund seiner Rasse zu",
+   "promptHeader": "Hunde von unglaublicher Bekanntheit",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "dinosaur",
-     "text": "Barney"
+     "match": "Dinosaurier",
+     "text": "Littlefoot"
     },
     {
-     "match": "lion",
+     "match": "Löwe",
      "text": "Simba"
     },
     {
-     "match": "fish",
-     "text": "Dory"
+     "match": "Fisch",
+     "text": "Dorie"
     },
     {
-     "match": "cricket",
+     "match": "Grille",
      "text": "Jiminy"
     },
     {
-     "match": "horse",
-     "text": "Mister Ed"
+     "match": "Bär",
+     "text": "Balu"
     },
     {
-     "match": "pig",
-     "text": "Babe"
+     "match": "Pinguin",
+     "text": "Skipper"
     },
     {
-     "match": "duck",
-     "text": "Howard"
+     "match": "Huhn",
+     "text": "Daniel Düsentrieb"
     },
     {
-     "match": "turtle",
+     "match": "Schildkröte",
      "text": "Michelangelo"
     },
     {
-     "match": "raccoon",
+     "match": "Waschbär",
      "text": "Rocket"
     },
     {
-     "match": "chipmunk",
+     "match": "Streifenhörnchen",
      "text": "Alvin"
+    },
+    {
+     "match": "Faultier",
+     "text": "Sid"
+    },
+    {
+     "match": "Hund",
+     "text": "Strolch"
+    },
+    {
+     "match": "Känguru",
+     "text": "Das Känguru"
     }
    ],
    "category": "Film & TV",
    "decoys": [],
    "headers": [
     {
-     "match": "Animals Represented",
-     "text": "Characters"
+     "match": "Tierarten",
+     "text": "Charaktere"
     }
    ],
    "id": "83909",
    "isValid": "",
-   "prompt": "Match the talking animal to what it is",
-   "promptHeader": "Talking Animals",
-   "us": true,
+   "prompt": "Ordne das sprechende Tier der Tierart zu",
+   "promptHeader": "Tiere mit großem Redebedürfnis",
+   "us": false,
    "x": false
   },
   {
@@ -6681,11 +7009,11 @@
      "text": "Hera"
     },
     {
-     "match": "Neptune",
-     "text": "Poseiden"
+     "match": "Neptun",
+     "text": "Poseidon"
     },
     {
-     "match": "Pluto",
+     "match": "Pluton",
      "text": "Hades"
     },
     {
@@ -6694,10 +7022,10 @@
     },
     {
      "match": "Bacchus",
-     "text": "Dionysus"
+     "text": "Dionysos"
     },
     {
-     "match": "Mercury",
+     "match": "Mercurius",
      "text": "Hermes"
     },
     {
@@ -6709,15 +7037,15 @@
      "text": "Aphrodite"
     },
     {
-     "match": "Vulcan",
-     "text": "Hephaestus"
+     "match": "Vulcanus",
+     "text": "Hephaistos"
     },
     {
      "match": "Diana",
      "text": "Artemis"
     },
     {
-     "match": "Cupid",
+     "match": "Amor",
      "text": "Eros"
     }
    ],
@@ -6725,73 +7053,73 @@
    "decoys": [],
    "headers": [
     {
-     "match": "Roman Names",
-     "text": "Greek Names"
+     "match": "Römische Namen",
+     "text": "Griechische Namen"
     }
    ],
    "id": "86164",
    "isValid": "",
-   "prompt": "Match the ancient Greek gods with their Roman counterparts",
-   "promptHeader": "The Gods of Greece and Their Roman Counterparts",
-   "us": true,
+   "prompt": "Ordne dem Gott des antiken Griechenlands sein römisches Pendant zu",
+   "promptHeader": "Griechische Götter und ihre römischen Gegenstücke",
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "Gecko",
-     "text": "Geico"
+     "match": "“Aus Versicherung wird Verbesserung”",
+     "text": "[i]Generali[/i]"
     },
     {
-     "match": "Flo",
-     "text": "Progressive"
+     "match": "“Eine Allianz fürs Leben”",
+     "text": "[i]Allianz[/i]"
     },
     {
-     "match": "Dennis Haysbert's voice",
-     "text": "Allstate"
+     "match": "“Versichern heißt verstehen”",
+     "text": "[i]ERGO[/i]"
     },
     {
-     "match": "Erin",
-     "text": "Esurance"
+     "match": "“Du bist nicht allein.”",
+     "text": "[i]R+V[/i]"
     },
     {
-     "match": "The General",
-     "text": "The General"
+     "match": "“Aus Tradition günstig”",
+     "text": "[i]HUK Coburg[/i]"
     },
     {
-     "match": "Jill Scott",
-     "text": "Nationwide"
+     "match": "“Das Füreinander zählt”",
+     "text": "[i]Debeka[/i]"
     },
     {
-     "match": "LiMu Emu and Doug",
-     "text": "Liberty Mutual"
+     "match": "“Gesagt. Getan. Geholfen.”",
+     "text": "[i]DEVK[/i]"
     },
     {
-     "match": "Professor Burke",
-     "text": "Farmers"
+     "match": "“Kraft der Gemeinschaft”",
+     "text": "[i]Gothaer[/i]"
     },
     {
-     "match": "Duck",
-     "text": "Aflac"
+     "match": "“Ein Stück Sicherheit”",
+     "text": "[i]Versicherungskammer Bayern[/i]"
     },
     {
-     "match": "Jake",
-     "text": "State Farm"
+     "match": "“Ihr Fels in der Brandung.”",
+     "text": "[i]Württembergische[/i]"
     }
    ],
    "category": "Companies & Brands",
    "decoys": [],
    "headers": [
     {
-     "match": "“Spokespeople”",
-     "text": "Companies"
+     "match": "Slogans",
+     "text": "Versicherungen"
     }
    ],
    "id": "86463",
    "isValid": "",
-   "prompt": "Match the insurance company to its TV “spokesperson”",
-   "promptHeader": "Famous Icons of the Insurance World",
-   "us": true,
+   "prompt": "Ordne den Slogan dem Versicherungsunternehmen zu",
+   "promptHeader": "Versicherungen und ihre Slogans",
+   "us": false,
    "x": false
   }
  ]

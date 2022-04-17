@@ -52,7 +52,7 @@
       "t": "A",
       "v": "clues_0_clue",
       "n": "ClueAudio0",
-      "s": "Und, habt ihr es richtig? Habt ihr die Ehre, mein WLAN benutzen zu dürfen?"
+      "s": "Ich erinnere mich daran, dass es der Name einer majestätischen Tierart ist, die ich wirklich sehr mag."
     },
     {
       "t": "B",
@@ -178,7 +178,7 @@
       "t": "A",
       "v": "outro",
       "n": "OutroAudio",
-      "s": "Ach ja stimmt, \"Pferd\" ist mein WLAN-Passwort. Kein Wunder, dass diese Sterblichen mich immer wieder hacken."
+      "s": "Ach ja stimmt, \"Elefant\" ist mein WLAN-Passwort. Kein Wunder, dass diese Sterblichen mich immer wieder hacken."
     }
   ]
 }

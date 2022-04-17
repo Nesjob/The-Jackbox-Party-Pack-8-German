@@ -739,7 +739,7 @@
             "exactSpelling": false,
             "id": "77196",
             "isValid": "",
-            "prompt": "Die 10 umsatzstärksten Möbelhauser und Baumärkte in Deutschland 2020",
+            "prompt": "Die 10 umsatzstärksten Möbelhäuser und Baumärkte in Deutschland 2020",
             "subtype": "name",
             "us": false,
             "x": false
@@ -3498,7 +3498,7 @@
             "id": "78745",
             "isValid": "",
             "prompt": "9 unterschiedliche Begriffe für “Auto”",
-            "subtype": "subjective",
+            "subtype": "name",
             "us": false,
             "x": false
         },
@@ -3510,7 +3510,8 @@
                         "Hähnchen",
                         "Hähnchenfleisch",
                         "Fleisch",
-                        "Hähnchenfilet"
+                        "Hähnchenfilet",
+                        "Huhn"
                     ],
                     "hint": "Denkt dran, das Sandwich ist nichts für Vegetarier.",
                     "text": "Hähnchenbrustfilet"
@@ -5625,7 +5626,7 @@
             "exactSpelling": false,
             "id": "80249",
             "isValid": "",
-            "prompt": "Nenne die 8 Sinne des Menschen",
+            "prompt": "Nennt mir die 8 Sinne des Menschen",
             "subtype": "name",
             "us": false,
             "x": false
@@ -6813,7 +6814,7 @@
             "isValid": "",
             "prompt": "Hauptfiguren aus [i]Spongebob Schwammkopf[/i]",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -7482,7 +7483,7 @@
                 }
             ],
             "category": "Math",
-            "exactSpelling": false,
+            "exactSpelling": true,
             "id": "83327",
             "isValid": "",
             "prompt": "Nennt mir alle Primzahlen zwischen 1 und 30",
@@ -7696,7 +7697,7 @@
             "isValid": "",
             "prompt": "Welche 5 Spiele sind im [i]Jackbox Party Pack 7[/i] enthalten?",
             "subtype": "name",
-            "us": false,
+            "us": true,
             "x": false
         },
         {
@@ -8082,7 +8083,7 @@
                         "Rheinischer Singsang",
                         "Rheinlaendisch"
                     ],
-                    "hint": "Bei diesem handelt es sich um einen sogenannten “Regiolekt”, also eine regionale Umgangssprache. Hier ist die Region wohl der Rhein.",
+                    "hint": "Leck mich inne Täsch! Datt wissta aba!",
                     "text": "Rheinländisch"
                 },
                 {
@@ -8091,7 +8092,7 @@
                         "Obersächsisch",
                         "Saechsisch"
                     ],
-                    "hint": "Aus dem einzigartigen Erzgebirge, kommt dieser durchdringende Dialekt.",
+                    "hint": "Nich ärgorrn, nur wundorrn!",
                     "text": "Sächsisch"
                 },
                 {
@@ -8101,7 +8102,7 @@
                         "Schwäbische Mundart",
                         "Schwaebisch"
                     ],
-                    "hint": "Der Dialekt der Spätzle und der Maultaschen.",
+                    "hint": "A bissle domm isch jedr, abbr so domm wia manchr isch koinr.",
                     "text": "Schwäbisch"
                 },
                 {
@@ -8112,7 +8113,7 @@
                         "Berlinisch",
                         "Berliner Schnauze"
                     ],
-                    "hint": "Sprachwissenschaftlich handelt es sich bei diesem um einen ”Metrolekt”, also eine Stadtsprache.",
+                    "hint": "Keene Haare uff'm Kopp, aba ‘n Kamm inner Tasche, wa?",
                     "text": "Berlinerisch"
                 },
                 {
@@ -8122,7 +8123,7 @@
                         "Platt Deutsch",
                         "Platt"
                     ],
-                    "hint": "Platt ist hier nicht nur das Land, sondern anscheinend auch die Sprache!",
+                    "hint": "Moin! Ein ward so olt as ’ne Kauh un lihrt noch ümmer wat dortau.",
                     "text": "Plattdeutsch"
                 },
                 {
@@ -8131,7 +8132,7 @@
                         "Nord-Bairisch",
                         "Bayrisch"
                     ],
-                    "hint": "Kommt schon, es ist eines jeden erster Gedanke. Jetzt schreibt es schon auf!",
+                    "hint": "Joa mei, dis hod a mo jede im Sinn!",
                     "text": "Bairisch"
                 }
             ],
