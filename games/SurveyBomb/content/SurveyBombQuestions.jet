@@ -10600,7 +10600,7 @@
    "question": "Mit dieser prominenten Person würdest du gerne eine Woche verbringen.",
    "questionShort": "Rumhängen mit Prominenz",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10621,10 +10621,10 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Welche Umschreibung für Sex ist absolut nicht sexy??",
+   "question": "Welche Umschreibung für Sex ist absolut nicht sexy?",
    "questionShort": "unsexy Umschreibungen",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -10646,7 +10646,7 @@
    "question": "Du bist bei GNTM und Heidi will dir einen neuen Haarschnitt verpassen. Womit könntest du dich abfinden?",
    "questionShort": "Modelfrisuren",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10670,7 +10670,7 @@
    "question": "Welcher animierte Moment, wird dich am wahrscheinlichsten zum Weinen bringen?",
    "questionShort": "Cartoonweinen",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10708,7 +10708,6 @@
     "Monster aus Gummi",
     "Gruselige Clownlady",
     "komische Spiegel",
-    "Rob Zombie Musik",
     "komplett schwarzer Raum"
    ],
    "id": "83536",
@@ -10718,7 +10717,7 @@
    "question": "Du baust ein Halloweenlabyrinth. Was gehört unbedingt dazu?",
    "questionShort": "Halloweenlabyrinth Zutaten",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10742,7 +10741,7 @@
    "question": "Was ist dir bei einem Barbesuch wichtig?",
    "questionShort": "beste Bar",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
@@ -10766,7 +10765,7 @@
    "question": "Welche Superspion-Extras hättest du gerne in deinem Auto?",
    "questionShort": "Spionauto-Extras",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10804,7 +10803,7 @@
    "isValid": "numPlayers >= 6",
    "outro": null,
    "question": "Wer würde wahrscheinlich am ehesten die Geduld verlieren und Pandoras Box öffnen?",
-   "questionShort": "Pandoras Box ",
+   "questionShort": "Pandoras Box",
    "round": "third",
    "us": true,
    "x": false
@@ -10828,7 +10827,7 @@
    "question": "Du reist zurück in die Eiszeit. Was nimmst du mit, um dich gegen Höhlenmenschen zu wehren oder sie zu bestechen?",
    "questionShort": "Sachen für Höhlenmenschen",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10845,7 +10844,7 @@
    "question": "Du bist im Gefägnis für eine Sache die du nicht getan hast! Wen würdest du als deinen Anwalt herbeirufen?",
    "questionShort": "dein Anwalt",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10867,7 +10866,7 @@
    "question": "Du lässt für dein Büro ein Portrait von dir zeichnen. Wie posierst du?",
    "questionShort": "Portrait Pose",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10889,7 +10888,7 @@
    "question": "Was sollte man nicht machen, nachdem man sich ein Footlong bei Subway einverleibt hat?",
    "questionShort": "Aktivitäten nach einem Sandwich",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10915,7 +10914,7 @@
    "question": "Was ist das niedlichste Kostüm für eine Katze?",
    "questionShort": "niedlichste Katzenkostüme",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10941,7 +10940,7 @@
    "question": "Ab gehts in den Zoo! Was willst du am meisten sehen?",
    "questionShort": "Beste Zoo Attraktionen",
    "round": "first",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10967,7 +10966,7 @@
    "question": "Welche Tiere hättest du am ungernsten im Vorgarten?",
    "questionShort": "schlimmste Nachbarn",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -10989,7 +10988,7 @@
    "question": "Hey, ich bin gerade erst auf der Party angekommen. Wo bist du?",
    "questionShort": "Hauspartyplatz",
    "round": "second",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -11015,7 +11014,7 @@
    "question": "Die spaßigste Hochzeit, die du als Gast erleben kannst hat diese Vorkommnisse...",
    "questionShort": "lustigste Hochzeit",
    "round": "third",
-   "us": true,
+   "us": false,
    "x": true
   },
   {
