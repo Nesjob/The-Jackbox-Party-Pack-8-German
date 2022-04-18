@@ -1534,7 +1534,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(In Minuten)",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -1618,27 +1618,27 @@
    "answers": [
     {
      "text": "[i]Unser Sandmännchen[/i]",
-     "value": "63"
-    },
-    {
-     "text": "[i]Sesamstraße[/i]",
-     "value": "53"
+     "value": "62"
     },
     {
      "text": "[i]Tatort[/i]",
-     "value": "52"
-    },
-    {
-     "text": "[i]Polizeiruf 110[/i]",
      "value": "51"
     },
     {
+     "text": "[i]Polizeiruf 110[/i]",
+     "value": "50"
+    },
+    {
+     "text": "[i]Sesamstraße[/i]",
+     "value": "50"
+    },
+    {
      "text": "[i]extra 3[/i]",
-     "value": "46"
+     "value": "45"
     },
     {
      "text": "[i]Das Traumschiff[/i]",
-     "value": "41"
+     "value": "40"
     },
     {
      "text": "[i]Lindenstraße[/i]",
@@ -1650,31 +1650,31 @@
     },
     {
      "text": "[i]Die Simpsons[/i]",
-     "value": "33"
-    },
-    {
-     "text": "[i]Gute Zeiten, schlechte Zeiten[/i]",
      "value": "30"
     },
     {
+     "text": "[i]Gute Zeiten, schlechte Zeiten[/i]",
+     "value": "29"
+    },
+    {
      "text": "[i]Unter uns[/i]",
-     "value": "28"
+     "value": "27"
     },
     {
      "text": "[i]Alarm für Cobra 11 - Die Autobahnpolizei[/i]",
-     "value": "26"
+     "value": "25"
     },
     {
      "text": "[i]In aller Freundschaft[/i]",
-     "value": "24"
-    },
-    {
-     "text": "[i]Wer wird Millionär?[/i]",
      "value": "23"
     },
     {
+     "text": "[i]Wer wird Millionär?[/i]",
+     "value": "22"
+    },
+    {
      "text": "[i]Spongebob Schwammkopf[/i]",
-     "value": "20"
+     "value": "19"
     },
     {
      "text": "[i]Inspector Barnaby[/i]",
@@ -1682,7 +1682,7 @@
     },
     {
      "text": "[i]Berlin - Tag & Nacht[/i]",
-     "value": "11"
+     "value": "10"
     },
     {
      "text": "[i]Anna und die Liebe[/i]",
@@ -1692,7 +1692,7 @@
    "category": "Film & TV",
    "id": "79063",
    "isValid": "",
-   "prompt": "Welche Fernsehsendung lief länger in Deutschland?",
+   "prompt": "Welche Fernsehsendung lief länger in Deutschland? (Stand 2021)",
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(In Jahren)",
@@ -5709,36 +5709,36 @@
   {
    "answers": [
     {
-     "text": "@Twitter",
-     "value": "60800"
-    },
-    {
-     "text": "@heidiklum",
-     "value": "4800"
+     "text": "@justinbieber",
+     "value": "114200"
     },
     {
      "text": "@kimkardashian",
      "value": "71100"
     },
     {
-     "text": "@Beyonce",
-     "value": "15400"
-    },
-    {
-     "text": "@justinbieber",
-     "value": "114200"
-    },
-    {
-     "text": "@NatGeo",
-     "value": "27400"
+     "text": "@Twitter",
+     "value": "60800"
     },
     {
      "text": "@nasa",
      "value": "55500"
     },
     {
+     "text": "@NatGeo",
+     "value": "27400"
+    },
+    {
      "text": "@MesutOzil1088",
      "value": "26100"
+    },
+    {
+     "text": "@Beyonce",
+     "value": "15400"
+    },
+    {
+     "text": "@heidiklum",
+     "value": "4800"
     },
     {
      "text": "@heuteshow",
@@ -5853,7 +5853,7 @@
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
