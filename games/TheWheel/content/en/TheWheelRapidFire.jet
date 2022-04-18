@@ -60,58 +60,58 @@
   {
    "answers": [
     {
-     "text": "Bulldogge",
-     "value": "230"
-    },
-    {
-     "text": "Bernhardiner",
-     "value": "180"
+     "text": "Fila Brasileiro",
+     "value": "69"
     },
     {
      "text": "Deutsche Dogge",
-     "value": "175"
+     "value": "66"
     },
     {
      "text": "Neufundländer",
-     "value": "150"
+     "value": "58"
+    },
+    {
+     "text": "Leonberger",
+     "value": "56"
     },
     {
      "text": "Bloodhound",
-     "value": "110"
+     "value": "44"
     },
     {
      "text": "Dobermann",
-     "value": "100"
+     "value": "38"
     },
     {
      "text": "Golden Retriever",
-     "value": "75"
+     "value": "29"
     },
     {
-     "text": "Shar-Pei",
-     "value": "60"
+     "text": "Serbischer Laufhund",
+     "value": "17"
     },
     {
      "text": "Welsh Corgi Pembroke",
-     "value": "30"
+     "value": "11"
     },
     {
-     "text": "West Highland White Terrier",
-     "value": "20"
-    },
-    {
-     "text": "Belgische Zwerggriffons",
+     "text": "Beagle",
      "value": "10"
     },
     {
+     "text": "West Highland White Terrier",
+     "value": "8"
+    },
+    {
      "text": "Chihuahua",
-     "value": "6"
+     "value": "2"
     }
    ],
    "category": "Animals",
    "id": "76791",
    "isValid": "",
-   "prompt": "Welche Hunderasse ist schwerer?",
+   "prompt": "Welche Hunderasse ist im Durchschnitt schwerer?",
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(In Kilogramm)",
@@ -198,7 +198,7 @@
      "value": "4"
     },
     {
-     "text": "tricycle",
+     "text": "Tricycle",
      "value": "3"
     },
     {
@@ -206,7 +206,7 @@
      "value": "3"
     },
     {
-     "text": "otto.de Mein erster Roller",
+     "text": "Mein erster Roller von otto.de",
      "value": "3"
     },
     {
@@ -226,7 +226,7 @@
      "value": "2"
     },
     {
-     "text": "Tandem Fahrrad",
+     "text": "Tandem-Fahrrad",
      "value": "2"
     },
     {
@@ -402,67 +402,67 @@
    "answers": [
     {
      "text": "Vereinigte Staaten",
-     "value": "2827"
+     "value": "2951"
     },
     {
      "text": "Vereinigtes Königreich",
-     "value": "883"
-    },
-    {
-     "text": "Deutschland",
-     "value": "855"
+     "value": "950"
     },
     {
      "text": "Frankreich",
-     "value": "840"
+     "value": "876"
     },
     {
      "text": "Italien",
-     "value": "701"
-    },
-    {
-     "text": "Schweden",
-     "value": "652"
+     "value": "742"
     },
     {
      "text": "China",
-     "value": "608"
+     "value": "696"
+    },
+    {
+     "text": "Schweden",
+     "value": "661"
+    },
+    {
+     "text": "Deutschland (ab 1992)",
+     "value": "640"
     },
     {
      "text": "Kanada",
-     "value": "501"
+     "value": "525"
     },
     {
      "text": "Niederlande",
-     "value": "415"
+     "value": "452"
     },
     {
      "text": "Südkorea",
-     "value": "337"
+     "value": "357"
     },
     {
      "text": "Kuba",
-     "value": "226"
+     "value": "235"
     },
     {
      "text": "Griechenland",
-     "value": "116"
+     "value": "121"
     },
     {
      "text": "Jamaika",
-     "value": "78"
+     "value": "87"
     },
     {
      "text": "Mexiko",
-     "value": "69"
+     "value": "73"
     },
     {
      "text": "Indien",
-     "value": "28"
+     "value": "35"
     },
     {
      "text": "Philippinen",
-     "value": "10"
+     "value": "14"
     }
    ],
    "category": "Sports",
@@ -593,7 +593,7 @@
    "answers": [
     {
      "text": "[i]Last Christmas[/i] von “Wham!”",
-     "value": "159"
+     "value": "154"
     },
     {
      "text": "[i]Roller[/i] von “Apache 207”",
@@ -609,7 +609,7 @@
     },
     {
      "text": "[i]Ein Stern (... der deinen Namen trägt)[/i] von DJ Ötzi",
-     "value": "108"
+     "value": "107"
     },
     {
      "text": "[i]Geboren um zu leben[/i] von “Unheilig”",
@@ -629,7 +629,7 @@
     },
     {
      "text": "[i]All I Want for Christmas is You[/i] von Mariah Carey",
-     "value": "85"
+     "value": "83"
     },
     {
      "text": "[i]Despacito[/i] von Luis Fonsi",
@@ -799,10 +799,6 @@
      "value": "2014"
     },
     {
-     "text": "[i]Muppets Most Wanted[/i]",
-     "value": "2014"
-    },
-    {
      "text": "[i]Honig im Kopf[/i]",
      "value": "2014"
     },
@@ -813,6 +809,10 @@
     {
      "text": "[i]Gott, du kannst ein Arsch sein![/i]",
      "value": "2020"
+    },
+    {
+     "text": "[i]Die Rettung der uns bekannten Welt[/i]",
+     "value": "2021"
     }
    ],
    "category": "Film & TV",
@@ -829,31 +829,31 @@
    "answers": [
     {
      "text": "China",
-     "value": "1439"
+     "value": "1434"
     },
     {
      "text": "Indien",
-     "value": "1380"
+     "value": "1366"
     },
     {
      "text": "Vereinigte Staaten von Amerika",
-     "value": "331"
+     "value": "329"
     },
     {
      "text": "Indonesien",
-     "value": "273"
+     "value": "271"
     },
     {
      "text": "Pakistan",
-     "value": "220"
+     "value": "217"
     },
     {
      "text": "Brasilien",
-     "value": "212"
+     "value": "211"
     },
     {
      "text": "Nigeria",
-     "value": "206"
+     "value": "201"
     },
     {
      "text": "Russland",
@@ -861,31 +861,31 @@
     },
     {
      "text": "Mexiko",
-     "value": "129"
+     "value": "128"
     },
     {
      "text": "Japan",
-     "value": "126"
+     "value": "127"
     },
     {
-     "text": "Ethiopien",
-     "value": "115"
+     "text": "Äthiopien",
+     "value": "112"
     },
     {
      "text": "Philippinen",
-     "value": "109"
+     "value": "108"
     },
     {
      "text": "Kanada",
-     "value": "38"
+     "value": "37"
     },
     {
      "text": "Jamaika",
      "value": "3"
     },
     {
-     "text": "Island",
-     "value": "1"
+     "text": "Nordmazedonien",
+     "value": "2"
     }
    ],
    "category": "Geography & Landmarks",
@@ -1035,28 +1035,28 @@
      "value": "93"
     },
     {
-     "text": "[i]Guardians of the Galaxy[/i]",
-     "value": "92"
-    },
-    {
      "text": "[i]Fast & Furious 7[/i]",
      "value": "82"
     },
     {
+     "text": "[i]Mystery Science Theater 3000: Der Film[/i]",
+     "value": "80"
+    },
+    {
      "text": "[i]Pitch Black – Planet der Finsternis[/i]",
-     "value": "60"
+     "value": "59"
     },
     {
      "text": "[i]The Fast and the Furious[/i]",
-     "value": "53"
+     "value": "54"
     },
     {
      "text": "[i]XXX[/i]",
-     "value": "48"
+     "value": "49"
     },
     {
      "text": "[i]Die irre Heldentour des Billy Lynn[/i]",
-     "value": "44"
+     "value": "43"
     },
     {
      "text": "[i]Der Babynator[/i]",
@@ -1068,7 +1068,7 @@
     },
     {
      "text": "[i]Babylon A.D.[/i]",
-     "value": "6"
+     "value": "7"
     }
    ],
    "category": "Film & TV",
@@ -1101,27 +1101,27 @@
     },
     {
      "text": "Kalcium",
-     "value": "4.1"
+     "value": "4.2"
     },
     {
      "text": "Natrium",
      "value": "2.4"
     },
     {
+     "text": "Magnesium",
+     "value": "2.3"
+    },
+    {
      "text": "Kalium",
-     "value": "2.09"
+     "value": "2.1"
     },
     {
      "text": "Titan",
-     "value": "0.57"
+     "value": "0.6"
     },
     {
-     "text": "Wasserstoff",
-     "value": "0.14"
-    },
-    {
-     "text": "Zirconium",
-     "value": "0.01"
+     "text": "Oganesson",
+     "value": "0"
     }
    ],
    "category": "Science & Medicine",
@@ -1131,7 +1131,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(In % der Gesamtmasse)",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -1279,12 +1279,12 @@
      "value": "-628"
     },
     {
-     "text": "Buddha (Buddhismus)",
-     "value": "-623"
-    },
-    {
      "text": "Konfuzius (Konfuzianismus)",
      "value": "-551"
+    },
+    {
+     "text": "Buddha (Buddhismus)",
+     "value": "-500"
     },
     {
      "text": "Jesus Christus (Christentum)",
@@ -1507,24 +1507,24 @@
      "value": "154"
     },
     {
-     "text": "[i]Inglorious Basterds[/i]",
-     "value": "154"
+     "text": "[i]Inglorious Bastards[/i]",
+     "value": "153"
     },
     {
-     "text": "[i]Kill Bill - Volume 2[/i]",
-     "value": "131"
+     "text": "[i]Kill Bill - Vol. 2[/i]",
+     "value": "137"
     },
     {
      "text": "[i]Death Proof - Todsicher[/i]",
-     "value": "114"
+     "value": "127"
     },
     {
-     "text": "[i]Kill Bill - Volume 1[/i]",
-     "value": "106"
+     "text": "[i]Kill Bill - Vol. 1[/i]",
+     "value": "111"
     },
     {
      "text": "[i]Reservoir Dogs - Wilde Hunde[/i]",
-     "value": "95"
+     "value": "99"
     }
    ],
    "category": "Film & TV",
@@ -1534,14 +1534,14 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(In Minuten)",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
      "text": "Deutschland",
-     "value": "3210"
+     "value": "3200"
     },
     {
      "text": "Frankreich",
@@ -1597,7 +1597,7 @@
     },
     {
      "text": "Lettland",
-     "value": "15"
+     "value": "21"
     },
     {
      "text": "Luxemburg",
@@ -1618,27 +1618,27 @@
    "answers": [
     {
      "text": "[i]Unser Sandmännchen[/i]",
-     "value": "62"
-    },
-    {
-     "text": "[i]Tatort[/i]",
-     "value": "51"
-    },
-    {
-     "text": "[i]Polizeiruf 110[/i]",
-     "value": "50"
+     "value": "63"
     },
     {
      "text": "[i]Sesamstraße[/i]",
-     "value": "48"
+     "value": "53"
+    },
+    {
+     "text": "[i]Tatort[/i]",
+     "value": "52"
+    },
+    {
+     "text": "[i]Polizeiruf 110[/i]",
+     "value": "51"
     },
     {
      "text": "[i]extra 3[/i]",
-     "value": "45"
+     "value": "46"
     },
     {
      "text": "[i]Das Traumschiff[/i]",
-     "value": "40"
+     "value": "41"
     },
     {
      "text": "[i]Lindenstraße[/i]",
@@ -1650,31 +1650,31 @@
     },
     {
      "text": "[i]Die Simpsons[/i]",
-     "value": "30"
+     "value": "33"
     },
     {
      "text": "[i]Gute Zeiten, schlechte Zeiten[/i]",
-     "value": "29"
+     "value": "30"
     },
     {
      "text": "[i]Unter uns[/i]",
-     "value": "27"
+     "value": "28"
     },
     {
      "text": "[i]Alarm für Cobra 11 - Die Autobahnpolizei[/i]",
-     "value": "25"
+     "value": "26"
     },
     {
      "text": "[i]In aller Freundschaft[/i]",
-     "value": "23"
+     "value": "24"
     },
     {
      "text": "[i]Wer wird Millionär?[/i]",
-     "value": "22"
+     "value": "23"
     },
     {
      "text": "[i]Spongebob Schwammkopf[/i]",
-     "value": "19"
+     "value": "20"
     },
     {
      "text": "[i]Inspector Barnaby[/i]",
@@ -1682,7 +1682,7 @@
     },
     {
      "text": "[i]Berlin - Tag & Nacht[/i]",
-     "value": "10"
+     "value": "11"
     },
     {
      "text": "[i]Anna und die Liebe[/i]",
@@ -1860,11 +1860,11 @@
      "value": "10"
     },
     {
-     "text": "Ammoniak",
+     "text": "Seifenlauge",
      "value": "11"
     },
     {
-     "text": "Seifenlauge",
+     "text": "Ammoniak",
      "value": "12"
     },
     {
@@ -1959,19 +1959,19 @@
     },
     {
      "text": "Carsten Stahl",
-     "value": "189"
+     "value": "190"
     },
     {
      "text": "Donald Trump",
-     "value": "188"
+     "value": "190"
     },
     {
      "text": "Will Smith",
-     "value": "187"
+     "value": "188"
     },
     {
      "text": "Barack Obama",
-     "value": "185"
+     "value": "187"
     },
     {
      "text": "Markus Lanz",
@@ -1991,7 +1991,7 @@
     },
     {
      "text": "Angela Merkel",
-     "value": "164"
+     "value": "165"
     },
     {
      "text": "Daniela Katzenberger",
@@ -2108,7 +2108,7 @@
      "value": "1947"
     },
     {
-     "text": "Die Bahamas",
+     "text": "Bahamas",
      "value": "1973"
     },
     {
@@ -2117,7 +2117,7 @@
     },
     {
      "text": "Irland",
-     "value": "1919"
+     "value": "1949"
     },
     {
      "text": "Vereinigte Staaten von Amerika",
@@ -2142,7 +2142,7 @@
     },
     {
      "text": "[i]Lawrence von Arabien[/i]",
-     "value": "228"
+     "value": "218"
     },
     {
      "text": "[i]Die sieben Samurai[/i]",
@@ -2177,20 +2177,20 @@
      "value": "120"
     },
     {
-     "text": "[i]Vergiss mein nicht![/i]",
-     "value": "108"
-    },
-    {
      "text": "[i]Die Braut des Prinzen[/i]",
      "value": "98"
+    },
+    {
+     "text": "[i]Vor Sonnenuntergang[/i]",
+     "value": "93"
     },
     {
      "text": "[i]Der König der Löwen[/i] (1994)",
      "value": "88"
     },
     {
-     "text": "[i]Vor Sonnenuntergang[/i]",
-     "value": "80"
+     "text": "[i]Vergiss mein nicht![/i]",
+     "value": "88"
     }
    ],
    "category": "Film & TV",
@@ -2211,7 +2211,7 @@
     },
     {
      "text": "Nintendo Entertainment System",
-     "value": "1983"
+     "value": "1985"
     },
     {
      "text": "Sega Genesis",
@@ -2429,7 +2429,7 @@
      "value": "5"
     },
     {
-     "text": "Winnipeg, Manitoba, Kanada",
+     "text": "Winnipeg, Kanada",
      "value": "6"
     },
     {
@@ -2461,7 +2461,7 @@
      "value": "13"
     },
     {
-     "text": "Aukland, Neuseeland",
+     "text": "Auckland, Neuseeland",
      "value": "14"
     }
    ],
@@ -2612,12 +2612,12 @@
      "value": "10000"
     },
     {
-     "text": "Hektagon",
+     "text": "Hektogon",
      "value": "100"
     },
     {
-     "text": "Pentadekagon",
-     "value": "15"
+     "text": "Heptadekagon",
+     "value": "17"
     },
     {
      "text": "Dodecagon",
@@ -2930,7 +2930,7 @@
     },
     {
      "text": "Vietnamkrieg",
-     "value": "1959"
+     "value": "1955"
     },
     {
      "text": "Afghanistankrieg",
@@ -2944,7 +2944,7 @@
    "category": "History",
    "id": "84259",
    "isValid": "",
-   "prompt": "Welcher Konflikt mit Amerikanischer Beteiligung passierte zuerst?",
+   "prompt": "Welcher Konflikt mit amerikanischer Beteiligung passierte zuerst?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
@@ -3009,7 +3009,7 @@
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(In Wörtern)",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -3511,7 +3511,7 @@
     },
     {
      "text": "[i]Eine andere Liga[/i]",
-     "value": "2004"
+     "value": "2005"
     },
     {
      "text": "[i]Große Mädchen weinen nicht[/i]",
@@ -3544,7 +3544,7 @@
     },
     {
      "text": "LinkedIn",
-     "value": "2003"
+     "value": "2002"
     },
     {
      "text": "studiVZ",
@@ -3842,7 +3842,7 @@
    "category": "Celebrities",
    "id": "84657",
    "isValid": "",
-   "prompt": "Welche dieser Personen wurde zuerst mit dem “Deutschen Comedypreis” ausgezeichnet?",
+   "prompt": "Welcher dieser Personen wurde zuerst mit dem “Deutschen Comedypreis” ausgezeichnet?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
@@ -3949,7 +3949,7 @@
      "value": "2013"
     },
     {
-     "text": "What Does The Fox Say (Ylvis)",
+     "text": "What Does The Fox Say? (Ylvis)",
      "value": "2013"
     },
     {
@@ -4059,12 +4059,12 @@
      "value": "1937"
     },
     {
-     "text": "Sony",
-     "value": "1946"
+     "text": "McDonald's",
+     "value": "1940"
     },
     {
-     "text": "McDonald's",
-     "value": "1955"
+     "text": "Sony",
+     "value": "1946"
     },
     {
      "text": "DHL",
@@ -4599,11 +4599,11 @@
      "value": "11"
     },
     {
-     "text": "Ende des kalten Krieges",
+     "text": "Beginn des zweiten Weltkriegs",
      "value": "12"
     },
     {
-     "text": "Beginn des zweiten Weltkriegs",
+     "text": "Ende des kalten Krieges",
      "value": "13"
     },
     {
@@ -4713,7 +4713,7 @@
      "value": "1952"
     },
     {
-     "text": "Toni Morrison’s [i]Solomons Lied[/i]",
+     "text": "Toni Morrisons [i]Solomons Lied[/i]",
      "value": "1977"
     },
     {
@@ -4870,7 +4870,7 @@
    "category": "Film & TV",
    "id": "85717",
    "isValid": "",
-   "prompt": "Welcher James-Bond-Film wurde zuletzt veröffentlicht?",
+   "prompt": "Welcher James Bond-Film wurde zuletzt veröffentlicht?",
    "sort": "descending",
    "subtype": "timeline",
    "unit": "",
@@ -4945,6 +4945,10 @@
      "value": "1"
     },
     {
+     "text": "Karl der Große",
+     "value": "1"
+    },
+    {
      "text": "Helmut Kohl",
      "value": "2"
     },
@@ -4961,15 +4965,23 @@
      "value": "4"
     },
     {
-     "text": "Karl der Große",
+     "text": "Albert Einstein",
      "value": "5"
     },
     {
-     "text": "Albert Einstein",
+     "text": "Napoleon Bonaparte",
      "value": "6"
     },
     {
-     "text": "Napoleon Bonaparte",
+     "text": "Mahatma Ghandi",
+     "value": "7"
+    },
+    {
+     "text": "Margaret Thatcher",
+     "value": "7"
+    },
+    {
+     "text": "Angela Merkel",
      "value": "7"
     },
     {
@@ -4977,24 +4989,12 @@
      "value": "8"
     },
     {
-     "text": "Mahatma Ghandi",
+     "text": "Königin Elizabeth II.",
      "value": "8"
     },
     {
-     "text": "Margaret Thatcher",
-     "value": "9"
-    },
-    {
-     "text": "Angela Merkel",
-     "value": "11"
-    },
-    {
-     "text": "Königin Elizabeth II.",
-     "value": "12"
-    },
-    {
      "text": "Königin Victoria",
-     "value": "13"
+     "value": "9"
     }
    ],
    "category": "Historical Figures",
@@ -5003,7 +5003,7 @@
    "prompt": "Welche dieser historischen Personen kommt annähernd an die Größe des Basketballspielers Dirk Nowitzki heran? (2,13m)",
    "sort": "ascending",
    "subtype": "closest",
-   "unit": "(Am nahsten an 2,13m)",
+   "unit": "(Am nächsten an 2,13m)",
    "us": false,
    "x": false
   },
@@ -5061,7 +5061,7 @@
    "category": "Film & TV",
    "id": "85760",
    "isValid": "",
-   "prompt": "Welche dieser TV-Comedy Serien wurde zuerst ausgestrahlt?",
+   "prompt": "Welche dieser TV-Comedyserien wurde zuerst ausgestrahlt?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
@@ -5237,7 +5237,7 @@
      "value": "1999"
     },
     {
-     "text": "der erste mp3-Player",
+     "text": "Der erste mp3-Player",
      "value": "1997"
     },
     {
@@ -5265,7 +5265,7 @@
      "value": "1877"
     },
     {
-     "text": "Live Musik",
+     "text": "Live-Musik",
      "value": "1"
     }
    ],
@@ -5439,7 +5439,7 @@
    "category": "Literature",
    "id": "85876",
    "isValid": "",
-   "prompt": "Welcher Harry Potter Band findet chronologisch früher statt?",
+   "prompt": "Welcher Harry Potter-Band findet chronologisch früher statt?",
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
@@ -5730,11 +5730,11 @@
     },
     {
      "text": "@NatGeo",
-     "value": "26900"
+     "value": "27400"
     },
     {
      "text": "@nasa",
-     "value": "52200"
+     "value": "55500"
     },
     {
      "text": "@MesutOzil1088",
@@ -5772,7 +5772,7 @@
    "category": "Internet",
    "id": "85952",
    "isValid": "",
-   "prompt": "Stand 2021, welcher Twitter Account hatte mehr Follower?",
+   "prompt": "Stand 2021, welcher Twitter-Account hatte mehr Follower?",
    "sort": "descending",
    "subtype": "most/least",
    "unit": "(In Millionen Follower)",
@@ -5853,7 +5853,7 @@
    "sort": "ascending",
    "subtype": "timeline",
    "unit": "",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -5875,7 +5875,7 @@
      "value": "4"
     },
     {
-     "text": "Kalzium",
+     "text": "Calcium",
      "value": "5"
     },
     {
