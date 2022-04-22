@@ -19,7 +19,7 @@
       "t": "A",
       "v": "prompt",
       "n": "PromptAudio",
-      "s": "Welcher Comedian schafft es immer, mich zum lachen zu bringen?"
+      "s": "Welcher Comedian schafft es immer, mich zum Lachen zu bringen?"
     },
     {
       "t": "B",
@@ -51,7 +51,7 @@
       "t": "A",
       "v": "clues_0_clue",
       "n": "ClueAudio0",
-      "s": "Er studierte in Kanada, und hat dort schon im Bühnenprogramm des High School Musicals aufgetreten."
+      "s": "Er studierte in Kanada, und ist dort schon im Bühnenprogramm des High School Musicals aufgetreten."
     },
     {
       "t": "B",

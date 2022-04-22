@@ -123,7 +123,7 @@
    "id": "79919",
    "isValid": "",
    "prompt": "Was ist meine zweitliebste Erfindung?",
-   "reveal": "Danke für die schönen Erinnerungen, Dampfmaschine, jetzt mach Platz für den...",
+   "reveal": "Danke für die schönen Erinnerungen, Dampfmaschine, jetzt mach' Platz für den...",
    "us": false,
    "x": false
   },
@@ -133,7 +133,8 @@
     "Menschliches Haar",
     "Menschliche Haare",
     "Haar",
-    "Kopf Haar"
+    "Kopf Haar",
+    "Kopfhaar"
    ],
    "answer": "Haare",
    "category": "Anatomy",
@@ -169,8 +170,10 @@
   },
   {
    "altSpellings": [
+    "Das perfekte Geheimnis",
     "perfekte Geheimnis",
-    "Das Geheimnis"
+    "Das Geheimnis",
+    "perfektes Geheimnis"
    ],
    "answer": "[i]Das perfekte Geheimnis[/i]",
    "category": "Film & TV",
@@ -197,7 +200,7 @@
      "clue": "Sieben Freunde stellen ihr Vertrauen auf die Probe, indem sie ihre eingehenden Handynachrichten mit allen teilen."
     }
    ],
-   "followup": "Wer das richtig hatte bekommt von mir M'Bares.",
+   "followup": "Wer das richtig hatte, bekommt von mir M'Bares.",
    "id": "80103",
    "isValid": "",
    "prompt": "Was ist mein Lieblingsfilm mit Elyas M'Barek?",
@@ -221,7 +224,7 @@
    "category": "Companies & Brands",
    "clues": [
     {
-     "clue": "Es wurde erst neulich, 2017 gegründet."
+     "clue": "Es wurde erst neulich, 2017, gegründet."
     },
     {
      "clue": "Wenn man etwas mehr bezahlt, kann man sogar werbefrei und in HD schauen.",
@@ -243,7 +246,7 @@
    "id": "80107",
    "isValid": "",
    "prompt": "Welchen Streaming-Anbieter nutze ich am meisten?",
-   "reveal": "Macht euch bereit zum binge-watchen!",
+   "reveal": "Macht euch bereit zum Binge-watchen!",
    "us": false,
    "x": false
   },
@@ -271,11 +274,11 @@
      "clueComment": ""
     },
     {
-     "clue": "Mein Lieblings-Dominik ist eher unter einem Künslternamen bekannt. Aber der Wortanfang ist der gleiche!",
+     "clue": "Mein Lieblings-Dominik ist eher unter einem Künstlernamen bekannt. Aber der Wortanfang ist der gleiche!",
      "clueComment": ""
     },
     {
-     "clue": "Es ist der wohl bekannteste Nintendo Let's Player auf YouTube!",
+     "clue": "Es ist der wohl bekannteste deutsche Nintendo-Let's Player auf YouTube!",
      "clueComment": ""
     }
    ],
@@ -389,7 +392,7 @@
      "clueComment": ""
     },
     {
-     "clue": "In der Vergangenheit wurde es in den kommunistischen Nationen Kubas und der UdSSR verboten.",
+     "clue": "In der Vergangenheit wurde es in den kommunistischen Nationen Kuba und der UdSSR verboten.",
      "clueComment": ""
     },
     {
@@ -509,7 +512,7 @@
      "clue": "Ich kann euch nicht sagen, was ihr machen sollt. Ich umarme euch nur, wenn ihr es auch wollt!"
     },
     {
-     "clue": "Im ernst, das einzige, was ich von euch möchte, ist dass ihr mir ein \"Ja\" gebt.",
+     "clue": "Im Ernst, das einzige, was ich von euch möchte, ist, dass ihr mir ein \"Ja\" gebt.",
      "clueComment": ""
     }
    ],
@@ -578,7 +581,7 @@
      "clueComment": "Dort befindet sich Machu Picchu. Da wohnt einer meiner Cousins!"
     },
     {
-     "clue": "Es ist vielen für seine Alpakapullover bekannt.",
+     "clue": "Es ist für seine Alpakapullover bekannt.",
      "clueComment": ""
     },
     {
@@ -637,7 +640,8 @@
    "altSpellings": [
     "Mittelmeer",
     "europäisches Mittelmeer",
-    "das europäische Mittelmeer"
+    "das europäische Mittelmeer",
+    "Mittel Meer"
    ],
    "answer": "Das Mittelmeer",
    "category": "Geography & Landmarks",
@@ -712,11 +716,11 @@
     "Islenka",
     "isländische Sprache"
    ],
-   "answer": "isländisch",
+   "answer": "Isländisch",
    "category": "Language/Words/Grammar",
    "clues": [
     {
-     "clue": "Für Deutsche-Muttlersprachler kann es ziemlich schwer sein, die Sprache zu lernen.",
+     "clue": "Für deutsche Muttlersprachler kann es ziemlich schwer sein, die Sprache zu lernen.",
      "clueComment": ""
     },
     {
@@ -746,7 +750,8 @@
   },
   {
    "altSpellings": [
-    "Übung macht den Meister"
+    "Übung macht den Meister",
+    "Uebung macht den Meister"
    ],
    "answer": "“Übung macht den Meister”",
    "category": "Language/Words/Grammar",
@@ -760,11 +765,11 @@
      "clueComment": "Edmund Wetter hat ein Buch mit dem gleichen Namen verfasst. Es ist ein Buch zur Übung von Rechtschreibung."
     },
     {
-     "clue": "Andere Varianten lauten “Von nichts kommt nichts” oder “Ohne Fleiß keine Preis”.",
-     "clueComment": "Andere Varianten lauten “Von nichts kommt nichts” oder “Ohne Fleiß keine Preis”. Und nur dadurch habe ich es zur Gottheit geschafft."
+     "clue": "Andere Varianten lauten “Von nichts kommt nichts” oder “Ohne Fleiß kein Preis”.",
+     "clueComment": "Andere Varianten lauten “Von nichts kommt nichts” oder “Ohne Fleiß kein Preis”. Und nur dadurch habe ich es zur Gottheit geschafft."
     },
     {
-     "clue": "Es stammt ursprünglich aus dem lateinischen: “Repetitio est mater studiorum” - “Wiederholung ist die Mutter der Studien”.",
+     "clue": "Es stammt ursprünglich aus dem Lateinischen: “Repetitio est mater studiorum” - “Wiederholung ist die Mutter der Studien”.",
      "clueComment": ""
     },
     {
@@ -948,7 +953,8 @@
     "Ich bin der König von der Welt",
     "Ich bin König der Welt",
     "König der Welt",
-    "I'm the King of the world"
+    "I'm the King of the world",
+    "King of the World"
    ],
    "answer": "“Ich bin der König der Welt!”",
    "category": "Science & Medicine",
@@ -967,7 +973,7 @@
     },
     {
      "clue": "Es wird gespielt von Leonardo DiCaprio.",
-     "clueComment": "Es wird gespielt von Leonardo DiCaprio. Funfact! Die Szene stand gar nicht im Skript! Aber er hat es großartig gespielt!"
+     "clueComment": "Es wird gespielt von Leonardo DiCaprio. Funfact: Die Szene stand gar nicht im Skript! Aber er hat es großartig gespielt!"
     },
     {
      "clue": "Der Film heißt [i]Titanic[/i]",
@@ -1033,7 +1039,8 @@
     "Spiderman",
     "Spidey",
     "Spider Man",
-    "Spider-Mann"
+    "Spider-Mann",
+    "Spider Mann"
    ],
    "answer": "Spider-Man",
    "category": "Animation/Comic Books",
@@ -1096,7 +1103,8 @@
     "Ein Japanspachtel",
     "Der Japanspachtel",
     "Malmesser",
-    "Das Malmesser"
+    "Das Malmesser",
+    "Ein Malmesser"
 ],
    "answer": "Spachtel",
    "category": "Tools",
@@ -1132,8 +1140,9 @@
   },
   {
    "altSpellings": [
-       "Guccio Gucci S.p.A."
-          ],
+       "Guccio Gucci S.p.A.",
+       "Guccio Gucci"
+    ],
    "answer": "Gucci",
    "category": "Fashion",
    "clues": [
@@ -1190,14 +1199,14 @@
      "clueComment": "Es handelt sich um eine gehaltvolle Gemüsesuppe, die meist als eine Art Vorspeise gereicht wird und in ähnlicher Form sogar schon von den Römern gegessen wurde."
     },
     {
-     "clue": "Das italienische Wort für Suppe ist übrigens “Minestra”. Und diese Speise klingt sehr ähnlich.",
+     "clue": "Das italienische Wort für Suppe ist übrigens “minestra”. Und diese Speise klingt sehr ähnlich.",
      "clueComment": ""
     }
    ],
    "followup": null,
    "id": "81929",
    "isValid": "",
-   "prompt": "Was habe ich gestern zu Mittag gegessen?",
+   "prompt": "Was habe ich gestern zum Mittag gegessen?",
    "reveal": "",
    "us": false,
    "x": false
@@ -1342,7 +1351,7 @@
      "clueComment": "Der Name dieser Band entspricht der englischen Abkürzung für Wechsel- und Gleichstrom. Das erklärt auch den Blitz im Logo dieser Band."
     },
     {
-     "clue": "Ihr kennt die Abkürzungen? [i]AC[/i] für Wechselstrom und [i]DC[/i] für Gleichstrom.",
+     "clue": "Ihr kennt die Abkürzungen, oder? [i]AC[/i] für Wechselstrom und [i]DC[/i] für Gleichstrom.",
      "clueComment": "Ihr kennt die Abkürzungen für Gleichstrom und Wechselstrom? [i]AC[/i] für Wechselstrom und [i]DC[/i] für Gleichstrom. Schon mal gehört?"
     }
    ],
@@ -1442,14 +1451,15 @@
     "Tihramisu",
     "Tiramihsu",
     "Tiramisuh",
-    "Ein Tiramisu"
+    "Ein Tiramisu",
+    "Das Tiramisu"
    ],
    "answer": "Tiramisu",
    "category": "Food & Drink",
    "clues": [
     {
      "clue": "Das erste Mal probiert habe ich es, als eine Gruppe von Konditoren es mir als Gegenleistung für geheimes Wissen anbot.",
-     "clueComment": "Das erste Mal probiert habe ich es, als eine Gruppe von Konditoren es mir als Gegenleistung für geheimes Wissen anbot. Normalerweise akzeptiere ich ja keine Bestechung, aber wer bin ich ein Geschenk abzulehnen?"
+     "clueComment": "Das erste Mal probiert habe ich es, als eine Gruppe von Konditoren es mir als Gegenleistung für geheimes Wissen anbot. Normalerweise akzeptiere ich ja keine Bestechung, aber wer bin ich, ein Geschenk abzulehnen?"
     },
     {
      "clue": "Der Mascarpone ist tatsächlich überraschend schmackhaft.",
@@ -1460,7 +1470,7 @@
      "clueComment": ""
     },
     {
-     "clue": "Nicht zu vergessen die hauchdünne Schicht aus Kakaopulver.",
+     "clue": "Nicht zu vergessen: die hauchdünne Schicht aus Kakaopulver.",
      "clueComment": ""
     },
     {
@@ -1667,12 +1677,12 @@
    "category": "Occupations",
    "clues": [
     {
-     "clue": "Es beinhaltet viel ruhiges sitzen und warten.",
-     "clueComment": "Es beinhaltet viel ruhiges sitzen und warten. Und nein, es ist nicht “Steuererklärung ausfüllen”."
+     "clue": "Es beinhaltet viel ruhiges Sitzen und Warten.",
+     "clueComment": "Es beinhaltet viel ruhiges Sitzen und Warten. Und nein, es ist nicht “Steuererklärung ausfüllen”."
     },
     {
      "clue": "Personen, die dieser Tätigkeit nachgehen, verbringen viel Zeit damit, auf das Erscheinen einer bestimmten Tierart zu warten.",
-     "clueComment": "Personen, die dieser Tätigkeit nachgehen, verbringen viel Zeit damit, auf das Erscheinen einer bestimmten Tierart zu warten. Nein, stalken gilt nicht als Hobby, danke der Nachfrage."
+     "clueComment": "Personen, die dieser Tätigkeit nachgehen, verbringen viel Zeit damit, auf das Erscheinen einer bestimmten Tierart zu warten. Nein, Stalken gilt nicht als Hobby, danke der Nachfrage."
     },
     {
      "clue": "Wenn dann eines der gesuchten Tiere am Himmel auftaucht, dann... sitzen sie weiter friedlich da.",
@@ -1696,13 +1706,13 @@
     "Skateboarding",
     "Skate Board",
     "Das Skateboard",
-    "Skateboard",
+    "Ein Skateboard",
     "Rollbrett",
     "Ein Skate Board",
     "Das Skate Board",
     "Skateboarden"
    ],
-   "answer": "Ein Skateboard",
+   "answer": "Skateboard",
    "category": "Vehicles",
    "clues": [
     {
@@ -1785,8 +1795,8 @@
      "clueComment": ""
     },
     {
-     "clue": "Bekannt für seine beruhigenden Eigenschaften, wird dieser Duft in Seifen, Potpourri, ja sogar in Toilettenpapier verwendet.",
-     "clueComment": "Bekannt für seine beruhigenden Eigenschaften, wird dieser Duft in Seifen, Potpourri, ja sogar in Toilettenpapier verwendet. Auch wenn die beruhigende Wirkung bei Letzterem wohl eher anzuzweifeln ist."
+     "clue": "Bekannt für seine beruhigenden Eigenschaften, wird dieser Duft in Seifen, Potpourri, und sogar in Toilettenpapier verwendet.",
+     "clueComment": "Bekannt für seine beruhigenden Eigenschaften, wird dieser Duft in Seifen, Potpourri, und sogar in Toilettenpapier verwendet. Auch wenn die beruhigende Wirkung bei Letzterem wohl eher anzuzweifeln ist."
     },
     {
      "clue": "Dieser Duft erinnert mich immer an ein beruhigendes, helles Lila.",
@@ -1833,7 +1843,7 @@
    "id": "84252",
    "isValid": "",
    "prompt": "Welches Getränk sollte ich laut meinem Arzt mehr trinken, um meine Gesundheit zu verbessern?",
-   "reveal": "Jetzt wirds spritzig!",
+   "reveal": "Jetzt wird's spritzig!",
    "us": false,
    "x": false
   },
@@ -1888,7 +1898,7 @@
    "category": "Geography & Landmarks",
    "clues": [
     {
-     "clue": "Dieses Land ist überraschend klein. Ja sogar der zweitkleinste Staat der Welt!",
+     "clue": "Dieses Land ist überraschend klein. Ja, sogar der zweitkleinste Staat der Welt!",
      "clueComment": ""
     },
     {
@@ -1926,7 +1936,8 @@
     "hunderter",
     "ein hunderter",
     "hundert euro schein",
-    "100 euro schein"
+    "100 euro schein",
+    "100euro"
    ],
    "answer": "100-Euro-Schein",
    "category": "Money",
@@ -2099,16 +2110,25 @@
     "Eine Seifenoper",
     "Die Seifenoper",
     "Die Seifenopern",
+    "Eine Seifen Oper",
+    "Die Seifen Oper",
     "Telenovela",
     "Eine Telenovela",
     "Die Telenovela",
+    "Tele Novela",
+    "Eine Tele Novela",
+    "Die Tele Novela",
     "Soap-Opera",
     "Soap Opera",
     "Die Soap-Opera",
     "Eine Soap-Opera",
+    "Die Soap Opera",
+    "Eine Soap Opera",
     "Daily-Soap",
     "Die Daily-Soap",
-    "Eine Daily-Soap"
+    "Eine Daily-Soap",
+    "Daily Soap",
+    "Eine Daily Soap"
    ],
    "answer": "Seifenoper",
    "category": "Film & TV",
@@ -2151,7 +2171,10 @@
     "Der Pullunder",
     "Ein Pullunder",
     "Der Pulunder",
-    "Ein Pulunder"
+    "Ein Pulunder",
+    "Pull Under",
+    "Der Pull Under",
+    "Ein Pull Under"
    ],
    "answer": "Pullunder",
    "category": "Fashion",
@@ -2321,7 +2344,9 @@
     "Badeschlappen",
     "Bade Schlappen",
     "Zehentanga",
-    "Zehen Tanga"
+    "Zehen Tanga",
+    "Die Flip-Flops",
+    "Die Flip Flops"
    ],
    "answer": "Flip-Flops",
    "category": "Fashion",
@@ -2398,7 +2423,7 @@
    "category": "Factoids",
    "clues": [
     {
-     "clue": "Dieses Druck-Erzeugnis erschien zum ersten Mal im Jahr 1947.",
+     "clue": "Dieses Druckerzeugnis erschien zum ersten Mal im Jahr 1947.",
      "clueComment": ""
     },
     {
@@ -2694,7 +2719,7 @@
     },
     {
      "clue": "An den schmalen Wänden dieser Sache befindet sich oftmals Werbung.",
-     "clueComment": "Während dem ungeduldig warten, kann man sich natürlich auch ablenken, indem man Werbeplakate für Banken oder Kreditkarten anschaut, die sich oft an den schmalen Wänden der Sache befinden."
+     "clueComment": "Während dem ungeduldigen Warten kann man sich natürlich auch ablenken, indem man Werbeplakate für Banken oder Kreditkarten anschaut, die sich oft an den schmalen Wänden der Sache befinden."
     },
     {
      "clue": "Diese Sache ist im Grunde ein langer ausziehbarer Tunnel auf Rädern.",
@@ -2810,7 +2835,7 @@
    "clues": [
     {
      "clue": "Es ist so beliebt in Deutschland, es hat sogar einen eigenen Feiertag!",
-     "clueComment": "Es ist so beliebt in Deutschland, es hat sogar einen eigenen Feiertag! Den ersten Juni! Warum den ersten Juni? Das weiß keiner."
+     "clueComment": "Es ist so beliebt in Deutschland, es hat sogar einen eigenen Feiertag! Den ersten Juni! Warum der erste Juni? Das weiß keiner."
     },
     {
      "clue": "Es hat eine helle Farbe, was auf den Fettgehalt zurückzuführen ist.",
@@ -2833,7 +2858,7 @@
    "id": "86349",
    "isValid": "",
    "prompt": "Was konsumiert ihr Menschen die ganze Zeit, was ich einfach nicht verstehen kann?",
-   "reveal": "Ob ihr es glaubt oder nicht, aber ich bin Laktoseintolerant. Ich muss einfach auf meine Ricotta- und Milchshake-Opfergaben verzichten! Schlimm!",
+   "reveal": "Ob ihr es glaubt oder nicht, aber ich bin laktoseintolerant. Ich muss einfach auf meine Ricotta- und Milchshake-Opfergaben verzichten! Schlimm!",
    "us": false,
    "x": false
   },
@@ -2846,13 +2871,17 @@
     "Hawaii Hemd",
     "Hawaiihemden",
     "Hawaii Hemden",
-    "Hawaii Shirt"
+    "Hawaii Shirt",
+    "Das Hawaiihemd",
+    "Ein Hawaiihemd",
+    "Das Hawaii Hemd",
+    "Ein Hawaii Hemd"
    ],
    "answer": "Hawaiihemd",
    "category": "Fashion",
    "clues": [
     {
-     "clue": "Es ist eine Shirt-Sorte",
+     "clue": "Es ist eine Shirt-Sorte.",
      "clueComment": "Es ist eine Shirt-Sorte. Okay, cool! Damit sind Pullover und Mantel schon mal raus! Puh! Darin wollt ihr mich auch nicht sehen!"
     },
     {
@@ -2895,7 +2924,7 @@
      "clueComment": "Dieser Hip-Hop-Künstler wurde 1999 geboren. Also, wenn es euch nichts ausmacht, werde ich einfach weitermachen und zu Staub zerfallen."
     },
     {
-     "clue": "Der gesetzliche Vorname des Künstlers lautet Montero ist auch Teil des Titels eines seiner Hits.",
+     "clue": "Der gesetzliche Vorname des Künstlers lautet Montero und ist auch Teil des Titels eines seiner Hits.",
      "clueComment": ""
     },
     {
@@ -2910,7 +2939,7 @@
    "followup": "",
    "id": "86355",
    "isValid": "",
-   "prompt": "Welcher moderne Künstler bringt wieder Leben in meine Work-out-Playlist?",
+   "prompt": "Welcher moderne Künstler bringt wieder Leben in meine Workout-Playlist?",
    "reveal": "Holt euch eure Pferde und stellt sie hinten an. Es ist...",
    "us": true,
    "x": false
@@ -2964,7 +2993,7 @@
    "clues": [
     {
      "clue": "Es wurde im April 1912 fertiggestellt.",
-     "clueComment": "Es wurde im April 1912 fertiggestellt. Am 2. April um genau zu sein!"
+     "clueComment": "Es wurde im April 1912 fertiggestellt. Am 2. April, um genau zu sein!"
     },
     {
      "clue": "Es wurde von Harland & Wolff gebaut und galt zur Zeit als unsinkbar.",
@@ -2999,7 +3028,7 @@
    "category": "Celebrities",
    "clues": [
     {
-     "clue": "Er studierte in Kanada, und hat dort schon im Bühnenprogramm des High School Musicals aufgetreten.",
+     "clue": "Er studierte in Kanada, und ist dort schon im Bühnenprogramm des High School Musicals aufgetreten.",
      "clueComment": ""
     },
     {
@@ -3011,8 +3040,8 @@
      "clueComment": ""
     },
     {
-        "clue": "Er wurde in Bonn geboren, hat aber auch die italienische und kanadische Staatsangehörigkeit.",
-        "clueComment": ""
+     "clue": "Er wurde in Bonn geboren, hat aber auch die italienische und kanadische Staatsangehörigkeit.",
+     "clueComment": ""
     },
     {
      "clue": "In seinem Programm redet er viel über seine Kindheit in den Neunzigern.",
@@ -3022,8 +3051,8 @@
    "followup": null,
    "id": "86444",
    "isValid": "",
-   "prompt": "Welcher Comedian schafft es immer, mich zum lachen zu bringen?",
-   "reveal": "Das Rad! Die Woche und ich präsentiert...",
+   "prompt": "Welcher Comedian schafft es immer, mich zum Lachen zu bringen?",
+   "reveal": "\"Das Rad! Die Woche und ich\" präsentiert...",
    "us": false,
    "x": false
   },

@@ -51,7 +51,7 @@
       "t": "A",
       "v": "clues_0_clue",
       "n": "ClueAudio0",
-      "s": "Es beinhaltet viel ruhiges sitzen und warten."
+      "s": "Es beinhaltet viel ruhiges Sitzen und Warten."
     },
     {
       "t": "B",
@@ -62,7 +62,7 @@
       "t": "A",
       "v": "clues_0_clueComment",
       "n": "ClueCommentAudio0",
-      "s": "Es beinhaltet viel ruhiges sitzen und warten. Und nein, es ist nicht “Steuererklärung ausfüllen”."
+      "s": "Es beinhaltet viel ruhiges Sitzen und Warten. Und nein, es ist nicht “Steuererklärung ausfüllen”."
     },
     {
       "t": "B",
@@ -84,7 +84,7 @@
       "t": "A",
       "v": "clues_1_clueComment",
       "n": "ClueCommentAudio1",
-      "s": "Personen, die dieser Tätigkeit nachgehen, verbringen viel Zeit damit, auf das Erscheinen einer bestimmten Tierart zu warten. Nein, stalken gilt nicht als Hobby, danke der Nachfrage."
+      "s": "Personen, die dieser Tätigkeit nachgehen, verbringen viel Zeit damit, auf das Erscheinen einer bestimmten Tierart zu warten. Nein, Stalken gilt nicht als Hobby, danke der Nachfrage."
     },
     {
       "t": "B",
