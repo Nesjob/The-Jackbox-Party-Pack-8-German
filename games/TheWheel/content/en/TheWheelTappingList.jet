@@ -4632,7 +4632,7 @@
    "id": "77821",
    "isValid": "",
    "prompt": "Für welche Filme erhielt Glenn Close eine Oscar-Nominierung?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
