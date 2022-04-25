@@ -333,7 +333,7 @@
      "text": "Ursula"
     },
     {
-     "match": "[i]Der Wunschpunsch[/i]",
+     "match": "[i]Der satanarchäolügenialkohöllische Wunschpunsch[/i]",
      "text": "Tyrannja Vamperl"
     },
     {
@@ -445,7 +445,7 @@
      "text": "Twitter"
     },
     {
-     "match": "Musik Note",
+     "match": "Musiknote",
      "text": "TikTok"
     },
     {
@@ -486,7 +486,7 @@
    "headers": [
     {
      "match": "Logos",
-     "text": "Internet Entitäten"
+     "text": "Internet-Entitäten"
     }
    ],
    "id": "76845",
@@ -531,7 +531,7 @@
      "text": "Mecklenburg-Vorpommern"
     },
     {
-     "match": "Klar.",
+     "match": "Niedersachsen. Klar.",
      "text": "Niedersachsen"
     },
     {
@@ -767,8 +767,8 @@
    "decoys": [],
    "headers": [
     {
-     "match": "Update",
-     "text": "Feature"
+     "match": "Updates",
+     "text": "Features"
     }
    ],
    "id": "76866",
@@ -887,8 +887,8 @@
    "decoys": [],
    "headers": [
     {
-     "match": "Funktion",
-     "text": "Körperteil"
+     "match": "Funktionen",
+     "text": "Körperteile"
     }
    ],
    "id": "76868",
@@ -901,7 +901,7 @@
   {
    "answers": [
     {
-     "match": "Ich denke also bin ich",
+     "match": "Ich denke, also bin ich",
      "text": "René Descartes"
     },
     {
@@ -917,15 +917,15 @@
      "text": "Michael Gorbatschow"
     },
     {
-     "match": "Yes we can",
+     "match": "Yes, we can",
      "text": "Barack Obama"
     },
     {
-     "match": "Frankreich's Glück war mein einziger Gedanke",
+     "match": "Frankreichs Glück war mein einziger Gedanke",
      "text": "Napoleon Bonaparte"
     },
     {
-     "match": "Bleibt hungrig, bleib albern",
+     "match": "Bleibt hungrig, bleibt albern",
      "text": "Steve Jobs"
     },
     {
@@ -937,7 +937,7 @@
      "text": "Joseph Goebbels"
     },
     {
-     "match": "Wir werden uns nie ergeben",
+     "match": "Wir werden uns niemals ergeben",
      "text": "Winston Churchill"
     },
     {
@@ -953,8 +953,8 @@
    "decoys": [],
    "headers": [
     {
-     "match": "Zitat",
-     "text": "Persönlichkeit"
+     "match": "Zitate",
+     "text": "Persönlichkeiten"
     }
    ],
    "id": "76870",
@@ -1171,8 +1171,8 @@
    ],
    "id": "76876",
    "isValid": "",
-   "prompt": "Ordne die Farben den [i]Bob der Baumeister[/i] Figuren zu",
-   "promptHeader": "[i]Bob der Baumeister[/i] Farben",
+   "prompt": "Ordne die Farben den [i]Bob der Baumeister[/i]-Figuren zu",
+   "promptHeader": "[i]Bob der Baumeister[/i]-Farben",
    "us": false,
    "x": false
   },
@@ -1187,7 +1187,7 @@
      "text": "Cinderella"
     },
     {
-     "match": "“Einmal in einem Traum”",
+     "match": "“Einmal im Traum”",
      "text": "Aurora"
     },
     {
@@ -1471,7 +1471,7 @@
      "text": "Dart"
     },
     {
-     "match": "Check mit dem Stock",
+     "match": "Check von hinten",
      "text": "Hockey"
     }
    ],
@@ -2079,7 +2079,7 @@
   {
    "answers": [
     {
-     "match": "Die Phillipinen",
+     "match": "Die Philippinen",
      "text": "Hühner-Adobo"
     },
     {
@@ -2635,7 +2635,7 @@
      "text": "Jonas Salk"
     },
     {
-     "match": "Theorie der Schwarzen Löcher",
+     "match": "Hawking-Strahlung",
      "text": "Stephen Hawking"
     },
     {
@@ -2643,7 +2643,7 @@
      "text": "George Washington Carver"
     },
     {
-     "match": "Hat das Telefon erfunden",
+     "match": "Patent des Telefons",
      "text": "Alexander Graham Bell"
     },
     {
@@ -2674,7 +2674,7 @@
    "answers": [
     {
      "match": "Heidi Klum",
-     "text": "[i]Germany's Next Top Model[/i]"
+     "text": "[i]Germany's Next Topmodel[/i]"
     },
     {
      "match": "Klaas Heufer-Umlauf",
@@ -2682,7 +2682,7 @@
     },
     {
      "match": "Barbara Schöneberger",
-     "text": "[i]Verstehen sie Spaß?[/i]"
+     "text": "[i]Verstehen Sie Spaß?[/i]"
     },
     {
      "match": "Sebastian Pufpaff",
@@ -3685,7 +3685,7 @@
      "text": "Ungarn"
     },
     {
-     "match": "Yisra’el",
+     "match": "Jisra’el",
      "text": "Israel"
     },
     {
@@ -3776,7 +3776,7 @@
     },
     {
      "match": "Bobbi Bolzer",
-     "text": "Vfl Bochum"
+     "text": "VfL Bochum"
     }
    ],
    "category": "Companies & Brands",
@@ -4081,7 +4081,7 @@
      "text": "Koreanisch"
     },
     {
-     "match": "Te Lubesc",
+     "match": "Te iubesc",
      "text": "Rumänisch"
     },
     {
@@ -4097,7 +4097,7 @@
    "decoys": [],
    "headers": [
     {
-     "match": "Ich liebe dich Sätze",
+     "match": "Ich liebe dich-Sätze",
      "text": "Sprachen"
     }
    ],
@@ -4221,7 +4221,7 @@
      "text": "Ika"
     },
     {
-     "match": "Stachelmakrele",
+     "match": "Gelbschwanzmakrele",
      "text": "Hamachi"
     },
     {
@@ -4307,7 +4307,7 @@
    "isValid": "",
    "prompt": "Ordne den Gitarristen seiner Band zu",
    "promptHeader": "Götter der Gitarre und mit wem sie abrocken",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -4838,7 +4838,7 @@
     },
     {
      "match": "1930er",
-     "text": "[i]Mord im Orientexpress[/i]"
+     "text": "[i]Mord im Orient Express[/i]"
     },
     {
      "match": "1940er",
@@ -4885,13 +4885,13 @@
    "isValid": "",
    "prompt": "Ordne den Film dem Jahrzehnt zu, in dem er spielt",
    "promptHeader": "Filme, die in einer anderen Dekade spielen, als sie gedreht wurden",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
    "answers": [
     {
-     "match": "Jerry's Guide to the World Wide Web",
+     "match": "Jerry and David's Guide to the World Wide Web",
      "text": "Yahoo!"
     },
     {
@@ -4911,19 +4911,19 @@
      "text": "Pepsi"
     },
     {
-     "match": "Marathon Bars",
+     "match": "Marathon",
      "text": "Snickers"
     },
     {
      "match": "Amazin' Software",
-     "text": "EA Games"
+     "text": "Electronic Arts"
     },
     {
      "match": "Sound of Music",
      "text": "Best Buy"
     },
     {
-     "match": "Feigenson Brothers",
+     "match": "Feigenson Brothers Bottle Works",
      "text": "Faygo"
     },
     {
@@ -5167,7 +5167,7 @@
      "text": "Weimar"
     },
     {
-     "match": "Luther-Geburtshaus",
+     "match": "Luthers Geburtshaus",
      "text": "Eisleben"
     },
     {
@@ -5217,7 +5217,7 @@
      "text": "Vitamin E"
     },
     {
-     "match": "Kalziumaufnahme",
+     "match": "Calciumaufnahme",
      "text": "Vitamin D"
     },
     {
@@ -5234,7 +5234,7 @@
     },
     {
      "match": "Knochen und Zähne",
-     "text": "Kalzium"
+     "text": "Calcium"
     },
     {
      "match": "Regulation von Thyroxin",
@@ -5407,7 +5407,7 @@
      "text": "Novalis"
     },
     {
-     "match": "“Komm in den totgesagten Park und schau”",
+     "match": "“Komm in den totgesagten park und schau”",
      "text": "Stefan George"
     },
     {
@@ -5866,7 +5866,7 @@
     },
     {
      "match": "Portugal",
-     "text": "Hieronymuskloster"
+     "text": "Hieronymitenkloster"
     },
     {
      "match": "Kanada",
@@ -6161,7 +6161,7 @@
    "isValid": "",
    "prompt": "Ordne die maskierte Figur ihrem Alter Ego zu",
    "promptHeader": "Maskierte Figuren und ihre (manchmal geheimen) echten Namen",
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -6472,13 +6472,13 @@
    "headers": [
     {
      "match": "Karrieren",
-     "text": "Brüder"
+     "text": "Geschwister"
     }
    ],
    "id": "81222",
    "isValid": "",
-   "prompt": "Ordne die Brüder dem zu, für das sie berühmt sind",
-   "promptHeader": "Brüder und ihre Fähigkeiten",
+   "prompt": "Ordne die Geschwister dem zu, für das sie berühmt sind",
+   "promptHeader": "Geschwister und ihre Fähigkeiten",
    "us": false,
    "x": false
   },
@@ -6687,8 +6687,8 @@
      "text": "[i]RWE[/i]"
     },
     {
-      "match": "Metzingen",
-      "text": "[i]Hugo Boss[/i]"
+     "match": "Metzingen",
+     "text": "[i]Hugo Boss[/i]"
     },
     {
      "match": "Mannheim",
@@ -7025,7 +7025,7 @@
      "text": "Dionysos"
     },
     {
-     "match": "Mercurius",
+     "match": "Merkur",
      "text": "Hermes"
     },
     {
@@ -7104,7 +7104,7 @@
     },
     {
      "match": "“Ihr Fels in der Brandung.”",
-     "text": "[i]Württembergische[/i]"
+     "text": "[i]Württembergische Versicherung[/i]"
     }
    ],
    "category": "Companies & Brands",
