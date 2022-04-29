@@ -19,7 +19,7 @@
       "t": "A",
       "v": "prompt",
       "n": "PromptAudio",
-      "s": "Was habe ich gestern zu Mittag gegessen?"
+      "s": "Was habe ich gestern zum Mittag gegessen?"
     },
     {
       "t": "B",
@@ -115,7 +115,7 @@
       "t": "A",
       "v": "clues_3_clue",
       "n": "ClueAudio3",
-      "s": "Das italienische Wort für Suppe ist übrigens “Minestra”. Und diese Speise klingt sehr ähnlich."
+      "s": "Das italienische Wort für Suppe ist übrigens “minestra”. Und diese Speise klingt sehr ähnlich."
     },
     {
       "t": "B",

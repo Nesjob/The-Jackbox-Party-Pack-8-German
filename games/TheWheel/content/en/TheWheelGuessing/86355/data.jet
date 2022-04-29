@@ -19,7 +19,7 @@
       "t": "A",
       "v": "prompt",
       "n": "PromptAudio",
-      "s": "Welcher moderne Künstler bringt wieder Leben in meine Work-out-Playlist?"
+      "s": "Welcher moderne Künstler bringt wieder Leben in meine Workout-Playlist?"
     },
     {
       "t": "B",
@@ -73,7 +73,7 @@
       "t": "A",
       "v": "clues_1_clue",
       "n": "ClueAudio1",
-      "s": "Der gesetzliche Vorname des Künstlers lautet Montero ist auch Teil des Titels eines seiner Hits."
+      "s": "Der gesetzliche Vorname des Künstlers lautet Montero und ist auch Teil des Titels eines seiner Hits."
     },
     {
       "t": "B",
