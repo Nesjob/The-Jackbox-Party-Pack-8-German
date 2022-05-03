@@ -1671,7 +1671,9 @@
     "Beobachten von Vögeln",
     "Betrachten von Vögeln",
     "Anschauen von Vögeln",
-    "Ansehen von Vögeln"
+    "Ansehen von Vögeln",
+    "Vögel füttern",
+    "Vogel füttern"
    ],
    "answer": "Vögel beobachten",
    "category": "Occupations",
@@ -1883,7 +1885,7 @@
    "followup": "",
    "id": "84253",
    "isValid": "",
-   "prompt": "Welches Möbelstück finde ich echt unnötig?",
+   "prompt": "Welchen Einrichtungsgegenstand finde ich echt unnötig?",
    "reveal": "Schaut mal unter euch, vielleicht findet ihr ihn dort auch. Wenn ja, dann gebt ihm einen wohlwollenden Klaps, dem...",
    "us": false,
    "x": false
