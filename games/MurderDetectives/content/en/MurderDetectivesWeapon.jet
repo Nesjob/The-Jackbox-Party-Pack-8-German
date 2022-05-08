@@ -3,7 +3,7 @@
   {
    "id": "80830",
    "isValid": "",
-   "weapon": "seltsames Schwert",
+   "weapon": "Seltsames Schwert",
    "x": false
   },
   {
@@ -39,7 +39,7 @@
   {
    "id": "80836",
    "isValid": "",
-   "weapon": "gigantischer Amboss",
+   "weapon": "Gigantischer Amboss",
    "x": false
   },
   {
@@ -51,19 +51,19 @@
   {
    "id": "80838",
    "isValid": "",
-   "weapon": "tranierter Delphin",
+   "weapon": "Trainierter Delfin",
    "x": false
   },
   {
    "id": "80839",
    "isValid": "",
-   "weapon": "tödlicher Blick",
+   "weapon": "Tödlicher Blick",
    "x": false
   },
   {
    "id": "80841",
    "isValid": "",
-   "weapon": "flauschiges Kissen",
+   "weapon": "Flauschiges Kissen",
    "x": false
   },
   {
@@ -81,7 +81,7 @@
   {
    "id": "80844",
    "isValid": "",
-   "weapon": "eklige Socken",
+   "weapon": "Eklige Socken",
    "x": false
   },
   {
@@ -117,7 +117,7 @@
   {
    "id": "80850",
    "isValid": "",
-   "weapon": "stampfendes Pony",
+   "weapon": "Stampfendes Pony",
    "x": false
   },
   {
@@ -129,7 +129,7 @@
   {
    "id": "80852",
    "isValid": "",
-   "weapon": "rachsüchtiger Geist",
+   "weapon": "Rachsüchtiger Geist",
    "x": false
   },
   {
@@ -141,13 +141,13 @@
   {
    "id": "80854",
    "isValid": "",
-   "weapon": "unglaublich unsicheres Auto",
+   "weapon": "Unglaublich unsicheres Auto",
    "x": false
   },
   {
    "id": "80855",
    "isValid": "",
-   "weapon": "ein Diener",
+   "weapon": "Ein Diener",
    "x": false
   },
   {
@@ -159,13 +159,13 @@
   {
    "id": "80857",
    "isValid": "",
-   "weapon": "rücksichtsloser Anwalt",
+   "weapon": "Rücksichtsloser Anwalt",
    "x": false
   },
   {
    "id": "80859",
    "isValid": "",
-   "weapon": "außer Kontrolle geratener Zug",
+   "weapon": "Außer Kontrolle geratener Zug",
    "x": false
   },
   {
@@ -183,7 +183,7 @@
   {
    "id": "80862",
    "isValid": "",
-   "weapon": "tödlicher Bart",
+   "weapon": "Tödlicher Bart",
    "x": false
   },
   {
@@ -195,19 +195,19 @@
   {
    "id": "80864",
    "isValid": "",
-   "weapon": "giftiger Dampf",
+   "weapon": "Giftiger Dampf",
    "x": false
   },
   {
    "id": "80865",
    "isValid": "",
-   "weapon": "elektrischer Schock",
+   "weapon": "Elektrischer Schock",
    "x": false
   },
   {
    "id": "80866",
    "isValid": "",
-   "weapon": "erregter Hund",
+   "weapon": "Erregter Hund",
    "x": false
   },
   {
@@ -261,7 +261,7 @@
   {
    "id": "80877",
    "isValid": "",
-   "weapon": "verfluchter Schatz",
+   "weapon": "Verfluchter Schatz",
    "x": false
   },
   {
@@ -273,7 +273,7 @@
   {
    "id": "80880",
    "isValid": "",
-   "weapon": "Nussalergie",
+   "weapon": "Nussallergie",
    "x": false
   },
   {
@@ -297,7 +297,7 @@
   {
    "id": "80884",
    "isValid": "",
-   "weapon": "kaputtes Herz",
+   "weapon": "Zerbrochenes Herz",
    "x": false
   },
   {
@@ -339,7 +339,7 @@
   {
    "id": "80892",
    "isValid": "",
-   "weapon": "gezieltes Erdbeben",
+   "weapon": "Gezieltes Erdbeben",
    "x": false
   },
   {
@@ -369,7 +369,7 @@
   {
    "id": "80897",
    "isValid": "",
-   "weapon": "sehr großes Buch",
+   "weapon": "Sehr großes Buch",
    "x": false
   },
   {
@@ -387,7 +387,7 @@
   {
    "id": "80900",
    "isValid": "",
-   "weapon": "Schule von Goldfischen",
+   "weapon": "Goldfischschwarm",
    "x": false
   },
   {
@@ -417,7 +417,7 @@
   {
    "id": "80905",
    "isValid": "",
-   "weapon": "Basset",
+   "weapon": "Schäferhund",
    "x": false
   },
   {
@@ -429,7 +429,7 @@
   {
    "id": "80907",
    "isValid": "",
-   "weapon": "gnadenloser Blickkontakt",
+   "weapon": "Gnadenloser Blickkontakt",
    "x": false
   },
   {
@@ -441,7 +441,7 @@
   {
    "id": "80909",
    "isValid": "",
-   "weapon": "Elektrolüfter",
+   "weapon": "Ventilator",
    "x": false
   },
   {
@@ -465,7 +465,7 @@
   {
    "id": "80914",
    "isValid": "",
-   "weapon": "in der Schlange warten",
+   "weapon": "In der Schlange warten",
    "x": false
   },
   {
@@ -477,7 +477,7 @@
   {
    "id": "80916",
    "isValid": "",
-   "weapon": "belegtes Brot",
+   "weapon": "Belegtes Brot",
    "x": false
   },
   {
@@ -489,7 +489,7 @@
   {
    "id": "80918",
    "isValid": "",
-   "weapon": "abgelaufener Joghurt",
+   "weapon": "Abgelaufener Joghurt",
    "x": false
   },
   {
@@ -507,19 +507,19 @@
   {
    "id": "80921",
    "isValid": "",
-   "weapon": "Käsereifen",
+   "weapon": "Überreifer Käse",
    "x": false
   },
   {
    "id": "80922",
    "isValid": "",
-   "weapon": "großer Stein",
+   "weapon": "Großer Stein",
    "x": false
   },
   {
    "id": "80923",
    "isValid": "",
-   "weapon": "gigantischer Löffel",
+   "weapon": "Gigantischer Löffel",
    "x": false
   },
   {
@@ -531,13 +531,13 @@
   {
    "id": "80925",
    "isValid": "",
-   "weapon": "blutrünstiger Specht",
+   "weapon": "Blutrünstiger Specht",
    "x": false
   },
   {
    "id": "80926",
    "isValid": "",
-   "weapon": "Fritteusen",
+   "weapon": "Fritteuse",
    "x": false
   },
   {
@@ -549,7 +549,7 @@
   {
    "id": "80928",
    "isValid": "",
-   "weapon": "Aufwärtshaken",
+   "weapon": "Kinnhaken",
    "x": false
   },
   {
@@ -567,19 +567,19 @@
   {
    "id": "80931",
    "isValid": "",
-   "weapon": "kochendes Wasser",
+   "weapon": "Kochendes Wasser",
    "x": false
   },
   {
    "id": "81532",
    "isValid": "",
-   "weapon": "verfluchter Apfel",
+   "weapon": "Verfluchter Apfel",
    "x": false
   },
   {
    "id": "81574",
    "isValid": "",
-   "weapon": "angezündetes Streichholz",
+   "weapon": "Angezündetes Streichholz",
    "x": false
   },
   {
@@ -597,7 +597,7 @@
   {
    "id": "81578",
    "isValid": "",
-   "weapon": "lange Fingernägel",
+   "weapon": "Lange Fingernägel",
    "x": false
   },
   {
@@ -621,7 +621,7 @@
   {
    "id": "81584",
    "isValid": "",
-   "weapon": "verdorbene Milch",
+   "weapon": "Verdorbene Milch",
    "x": false
   },
   {
@@ -645,7 +645,7 @@
   {
    "id": "81591",
    "isValid": "",
-   "weapon": "Achsel Gestank",
+   "weapon": "Achselgestank",
    "x": false
   },
   {
@@ -699,7 +699,7 @@
   {
    "id": "81641",
    "isValid": "",
-   "weapon": "hohe Spritpreise",
+   "weapon": "Hohe Spritpreise",
    "x": false
   },
   {
@@ -753,7 +753,7 @@
   {
    "id": "81665",
    "isValid": "",
-   "weapon": "laute Musik",
+   "weapon": "Laute Musik",
    "x": false
   },
   {
@@ -795,25 +795,25 @@
   {
    "id": "81675",
    "isValid": "",
-   "weapon": "der Zauber von Oz",
+   "weapon": "Der Zauberer von Oz",
    "x": false
   },
   {
    "id": "81677",
    "isValid": "",
-   "weapon": "versteckte Fallentür",
+   "weapon": "Versteckte Falltür",
    "x": false
   },
   {
    "id": "81678",
    "isValid": "",
-   "weapon": "geheimnisvolle Kugel",
+   "weapon": "Geheimnisvolle Kugel",
    "x": false
   },
   {
    "id": "81679",
    "isValid": "",
-   "weapon": "böser Chef",
+   "weapon": "Böser Chef",
    "x": false
   },
   {
@@ -831,7 +831,7 @@
   {
    "id": "81685",
    "isValid": "",
-   "weapon": "Bergsteiger-Katastrophe",
+   "weapon": "Bergsteiger-“Unglück”",
    "x": false
   },
   {
@@ -843,7 +843,7 @@
   {
    "id": "81687",
    "isValid": "",
-   "weapon": "verfluchte Puppe",
+   "weapon": "Verfluchte Puppe",
    "x": false
   },
   {
@@ -855,19 +855,19 @@
   {
    "id": "81737",
    "isValid": "",
-   "weapon": "giantische Magnete",
+   "weapon": "Gigantischer Magnet",
    "x": false
   },
   {
    "id": "81739",
    "isValid": "",
-   "weapon": "quietschender Hammer",
+   "weapon": "Quietschender Hammer",
    "x": false
   },
   {
    "id": "81742",
    "isValid": "",
-   "weapon": "gut getimte Lawine",
+   "weapon": "Gut getimte Lawine",
    "x": false
   },
   {
@@ -879,7 +879,7 @@
   {
    "id": "81746",
    "isValid": "",
-   "weapon": "abgestandes Baguette",
+   "weapon": "Steinhartes Baguette",
    "x": false
   },
   {
@@ -903,19 +903,19 @@
   {
    "id": "81752",
    "isValid": "",
-   "weapon": "Britische Teekessel",
+   "weapon": "Britischer Teekessel",
    "x": false
   },
   {
    "id": "81753",
    "isValid": "",
-   "weapon": "überwältigendes Parfum",
+   "weapon": "Überwältigendes Parfum",
    "x": false
   },
   {
    "id": "81755",
    "isValid": "",
-   "weapon": "Omas Strickstock",
+   "weapon": "Omas Stricknadel",
    "x": false
   },
   {
@@ -927,25 +927,25 @@
   {
    "id": "81757",
    "isValid": "",
-   "weapon": "Explosiver Teddy-Bär",
+   "weapon": "Explosiver Teddybär",
    "x": false
   },
   {
    "id": "81758",
    "isValid": "",
-   "weapon": "kirschrotes Cabrio",
+   "weapon": "Kirschrotes Cabrio",
    "x": false
   },
   {
    "id": "81760",
    "isValid": "",
-   "weapon": "viele Frisbees",
+   "weapon": "Zu viele Frisbees",
    "x": false
   },
   {
    "id": "81762",
    "isValid": "",
-   "weapon": "Cyborg Arm",
+   "weapon": "Cyborg-Arm",
    "x": false
   },
   {
@@ -957,13 +957,13 @@
   {
    "id": "81765",
    "isValid": "",
-   "weapon": "instabiler Ast",
+   "weapon": "Instabiler Ast",
    "x": false
   },
   {
    "id": "81766",
    "isValid": "",
-   "weapon": "Heissluftballon",
+   "weapon": "Heißluftballon",
    "x": false
   },
   {
@@ -981,7 +981,7 @@
   {
    "id": "81769",
    "isValid": "",
-   "weapon": "Klauenfußwanne",
+   "weapon": "Klauenfußbadewanne",
    "x": false
   },
   {
@@ -993,7 +993,7 @@
   {
    "id": "81771",
    "isValid": "",
-   "weapon": "alte Pfeife",
+   "weapon": "Alte Pfeife",
    "x": false
   },
   {
@@ -1011,7 +1011,7 @@
   {
    "id": "81775",
    "isValid": "",
-   "weapon": "Arcade-Krallenmaschine",
+   "weapon": "Arcade-Greifarmautomat",
    "x": false
   },
   {
@@ -1029,7 +1029,7 @@
   {
    "id": "81780",
    "isValid": "",
-   "weapon": "gigantisches Truthan-Bein",
+   "weapon": "Gigantisches Truthahn-Bein",
    "x": false
   },
   {
@@ -1047,7 +1047,7 @@
   {
    "id": "81786",
    "isValid": "",
-   "weapon": "kalte Hände",
+   "weapon": "Kalte Hände",
    "x": false
   },
   {
@@ -1071,13 +1071,13 @@
   {
    "id": "81934",
    "isValid": "",
-   "weapon": "Opauhr",
+   "weapon": "Alte-Leute-Uhr",
    "x": false
   },
   {
    "id": "81935",
    "isValid": "",
-   "weapon": "stark formulierter Brief",
+   "weapon": "Gewichtig formulierter Brief",
    "x": false
   },
   {
@@ -1095,19 +1095,19 @@
   {
    "id": "81940",
    "isValid": "",
-   "weapon": "zu viele Katzen",
+   "weapon": "Zu viele Katzen",
    "x": false
   },
   {
    "id": "82244",
    "isValid": "",
-   "weapon": "schweres Bücherregal",
+   "weapon": "Schweres Bücherregal",
    "x": false
   },
   {
    "id": "82245",
    "isValid": "",
-   "weapon": "Quallen Stich",
+   "weapon": "Quallenstich",
    "x": false
   },
   {
@@ -1119,13 +1119,13 @@
   {
    "id": "82250",
    "isValid": "",
-   "weapon": "seltsames Amulett",
+   "weapon": "Seltsames Amulett",
    "x": false
   },
   {
    "id": "82252",
    "isValid": "",
-   "weapon": "Kuckucks-Uhr",
+   "weapon": "Kuckucksuhr",
    "x": false
   },
   {
@@ -1137,7 +1137,7 @@
   {
    "id": "82255",
    "isValid": "",
-   "weapon": "sprudelnder Zaubertrank",
+   "weapon": "Kochender Zaubertrank",
    "x": false
   },
   {
@@ -1161,25 +1161,25 @@
   {
    "id": "82265",
    "isValid": "",
-   "weapon": "glamouröser Seelöwe",
+   "weapon": "Glamouröser Seelöwe",
    "x": false
   },
   {
    "id": "82267",
    "isValid": "",
-   "weapon": "hoher Cholesterinspiegel",
+   "weapon": "Hoher Cholesterinspiegel",
    "x": false
   },
   {
    "id": "82268",
    "isValid": "",
-   "weapon": "schlechte Überreste",
+   "weapon": "Verschimmelte Essensreste",
    "x": false
   },
   {
    "id": "82271",
    "isValid": "",
-   "weapon": "futuristischer Mixer",
+   "weapon": "Futuristischer Mixer",
    "x": false
   },
   {
@@ -1215,7 +1215,7 @@
   {
    "id": "82309",
    "isValid": "",
-   "weapon": "emotionale Vernachlässigung",
+   "weapon": "Emotionale Vernachlässigung",
    "x": false
   },
   {
@@ -1239,7 +1239,7 @@
   {
    "id": "82433",
    "isValid": "",
-   "weapon": "vierfacher Cheeseburger",
+   "weapon": "Vierfacher Cheeseburger",
    "x": false
   },
   {
@@ -1257,7 +1257,7 @@
   {
    "id": "82445",
    "isValid": "",
-   "weapon": "tanzen",
+   "weapon": "Tanzen",
    "x": false
   },
   {
@@ -1287,7 +1287,7 @@
   {
    "id": "82466",
    "isValid": "",
-   "weapon": "Möhren",
+   "weapon": "Karotten",
    "x": false
   },
   {
@@ -1305,7 +1305,7 @@
   {
    "id": "82496",
    "isValid": "",
-   "weapon": "fauler Zauber",
+   "weapon": "Fauler Zauber",
    "x": false
   },
   {
@@ -1317,7 +1317,7 @@
   {
    "id": "82598",
    "isValid": "",
-   "weapon": "radioaktive Kekse",
+   "weapon": "Radioaktive Kekse",
    "x": false
   },
   {
@@ -1329,7 +1329,7 @@
   {
    "id": "82602",
    "isValid": "",
-   "weapon": "Wimperntusche Zauberstab",
+   "weapon": "Mascara-Zauberstab",
    "x": false
   },
   {
@@ -1341,7 +1341,7 @@
   {
    "id": "82612",
    "isValid": "",
-   "weapon": "Hose mit weitem Bein",
+   "weapon": "Hochwasserhose",
    "x": false
   },
   {
@@ -1353,7 +1353,7 @@
   {
    "id": "82775",
    "isValid": "",
-   "weapon": "stinkender Müll",
+   "weapon": "Stinkender Müll",
    "x": false
   },
   {
@@ -1371,25 +1371,25 @@
   {
    "id": "82778",
    "isValid": "",
-   "weapon": "viele Gabeln",
+   "weapon": "Viele Gabeln",
    "x": false
   },
   {
    "id": "82779",
    "isValid": "",
-   "weapon": "Elefanten Fuß",
+   "weapon": "Elefanten-Fuß",
    "x": false
   },
   {
    "id": "82780",
    "isValid": "",
-   "weapon": "teure Lampe",
+   "weapon": "Teure Lampe",
    "x": false
   },
   {
    "id": "82781",
    "isValid": "",
-   "weapon": "Feuerwerke",
+   "weapon": "Feuerwerk",
    "x": false
   },
   {
@@ -1401,7 +1401,7 @@
   {
    "id": "82783",
    "isValid": "",
-   "weapon": "Praline",
+   "weapon": "Überteuerte Pralinen",
    "x": false
   },
   {
@@ -1413,31 +1413,31 @@
   {
    "id": "82923",
    "isValid": "",
-   "weapon": "schlechtes Wetter",
+   "weapon": "Schlechtes Wetter",
    "x": false
   },
   {
    "id": "82924",
    "isValid": "",
-   "weapon": "Souvenir Schnapsglas",
+   "weapon": "Souvenir-Schnapsglas",
    "x": false
   },
   {
    "id": "82925",
    "isValid": "",
-   "weapon": "große Schere",
+   "weapon": "Große Schere",
    "x": false
   },
   {
    "id": "82927",
    "isValid": "",
-   "weapon": "fabelhafte Robe",
+   "weapon": "Fabelhafter Umhang",
    "x": false
   },
   {
    "id": "82929",
    "isValid": "",
-   "weapon": "riesige Eiche",
+   "weapon": "Riesige Eiche",
    "x": false
   },
   {
@@ -1461,13 +1461,13 @@
   {
    "id": "82989",
    "isValid": "",
-   "weapon": "stacheliges Trampolin",
+   "weapon": "Stacheliges Trampolin",
    "x": false
   },
   {
    "id": "83128",
    "isValid": "",
-   "weapon": "Linientanzen",
+   "weapon": "Stepptanz",
    "x": false
   },
   {
@@ -1479,19 +1479,19 @@
   {
    "id": "83130",
    "isValid": "",
-   "weapon": "seltsame Krabbe",
+   "weapon": "Seltsame Krabbe",
    "x": false
   },
   {
    "id": "83131",
    "isValid": "",
-   "weapon": "Zoo-Tier",
+   "weapon": "Zootier",
    "x": false
   },
   {
    "id": "83132",
    "isValid": "",
-   "weapon": "Gas-Explosion",
+   "weapon": "Gasexplosion",
    "x": false
   },
   {
@@ -1509,7 +1509,7 @@
   {
    "id": "83135",
    "isValid": "",
-   "weapon": "heißes Bad",
+   "weapon": "Heißes Bad",
    "x": false
   },
   {
@@ -1533,7 +1533,7 @@
   {
    "id": "83139",
    "isValid": "",
-   "weapon": "Hockey-Kampf",
+   "weapon": "Hockey-Zweikampf",
    "x": false
   },
   {
@@ -1545,19 +1545,19 @@
   {
    "id": "83141",
    "isValid": "",
-   "weapon": "gruseliger Zahnarzt",
+   "weapon": "Gruseliger Zahnarzt",
    "x": false
   },
   {
    "id": "83142",
    "isValid": "",
-   "weapon": "starker Mann",
+   "weapon": "Starker Mann",
    "x": false
   },
   {
    "id": "83145",
    "isValid": "",
-   "weapon": "alter Freund",
+   "weapon": "Alter Freund",
    "x": false
   },
   {
@@ -1569,7 +1569,7 @@
   {
    "id": "83147",
    "isValid": "",
-   "weapon": "grosse Umarmung",
+   "weapon": "Große Umarmung",
    "x": false
   },
   {
@@ -1593,13 +1593,13 @@
   {
    "id": "83155",
    "isValid": "",
-   "weapon": "schlechter Haar-Tag",
+   "weapon": "Bad Hair Day",
    "x": false
   },
   {
    "id": "83156",
    "isValid": "",
-   "weapon": "Nagelknisper",
+   "weapon": "Nagelknipser",
    "x": false
   },
   {
@@ -1617,7 +1617,7 @@
   {
    "id": "83291",
    "isValid": "",
-   "weapon": "Nonstop-Flöte",
+   "weapon": "Nonstop-Flöterei",
    "x": false
   },
   {
@@ -1635,7 +1635,7 @@
   {
    "id": "83296",
    "isValid": "",
-   "weapon": "ein wirklich schlimmer Furz",
+   "weapon": "Ein WIRKLICH schlimmer Furz",
    "x": false
   },
   {
@@ -1647,13 +1647,13 @@
   {
    "id": "83303",
    "isValid": "",
-   "weapon": "winziger Meteor",
+   "weapon": "Winziger Meteor",
    "x": false
   },
   {
    "id": "83306",
    "isValid": "",
-   "weapon": "Golfclub",
+   "weapon": "Golfschläger",
    "x": false
   },
   {
@@ -1665,13 +1665,13 @@
   {
    "id": "83309",
    "isValid": "",
-   "weapon": "zerbrochene Bierflasche",
+   "weapon": "Zerbrochene Bierflasche",
    "x": false
   },
   {
    "id": "83311",
    "isValid": "",
-   "weapon": "Gnus-Ansturm",
+   "weapon": "Enten-Ansturm",
    "x": false
   },
   {
@@ -1683,13 +1683,13 @@
   {
    "id": "83316",
    "isValid": "",
-   "weapon": "Akkordeon Musik",
+   "weapon": "Akkordeon-Musik",
    "x": false
   },
   {
    "id": "83317",
    "isValid": "",
-   "weapon": "heisse Kohlen",
+   "weapon": "Heiße Kohlen",
    "x": false
   },
   {
@@ -1713,7 +1713,7 @@
   {
    "id": "83402",
    "isValid": "",
-   "weapon": "ein ruhiges Lied",
+   "weapon": "Ein ruhiges Lied",
    "x": false
   },
   {
@@ -1731,7 +1731,7 @@
   {
    "id": "83407",
    "isValid": "",
-   "weapon": "eine Kiste voller Steine",
+   "weapon": "Eine Kiste voller Steine",
    "x": false
   },
   {
@@ -1743,7 +1743,7 @@
   {
    "id": "83409",
    "isValid": "",
-   "weapon": "grosse Kanone",
+   "weapon": "Große Kanone",
    "x": false
   },
   {
@@ -1755,7 +1755,7 @@
   {
    "id": "83411",
    "isValid": "",
-   "weapon": "Huhn-Kebabs",
+   "weapon": "Hühner-Kebab mit extra Zaziki",
    "x": false
   },
   {
@@ -1773,13 +1773,13 @@
   {
    "id": "83414",
    "isValid": "",
-   "weapon": "Ohrpiercing Pistole",
+   "weapon": "Ohrpiercing-Pistole",
    "x": false
   },
   {
    "id": "83415",
    "isValid": "",
-   "weapon": "abgelaufene Süssigkeiten",
+   "weapon": Abgelaufene Süßigkeiten",
    "x": false
   },
   {
@@ -1791,13 +1791,13 @@
   {
    "id": "83417",
    "isValid": "",
-   "weapon": "flauschiger Pullover",
+   "weapon": "Flauschiger Pullover",
    "x": false
   },
   {
    "id": "83418",
    "isValid": "",
-   "weapon": "Donnerwetter",
+   "weapon": "Ein riesiges Donnerwetter",
    "x": false
   },
   {
@@ -1815,19 +1815,19 @@
   {
    "id": "83422",
    "isValid": "",
-   "weapon": "in die Sonne geschossen",
+   "weapon": "In die Sonne geschossen",
    "x": false
   },
   {
    "id": "83423",
    "isValid": "",
-   "weapon": "unendliches Leid",
+   "weapon": "Unendliches Leid",
    "x": false
   },
   {
    "id": "83424",
    "isValid": "",
-   "weapon": "überfalliges Bibliotheksbuch",
+   "weapon": "Überfälliges Buch aus der Bücherei",
    "x": false
   },
   {
@@ -1839,13 +1839,13 @@
   {
    "id": "83426",
    "isValid": "",
-   "weapon": "Gastgeschenke",
+   "weapon": "Gastgeschenk",
    "x": false
   },
   {
    "id": "83428",
    "isValid": "",
-   "weapon": "Billardqueue",
+   "weapon": "Billiardkugel",
    "x": false
   },
   {
@@ -1857,13 +1857,13 @@
   {
    "id": "83430",
    "isValid": "",
-   "weapon": "tollwütiges Stachelschwein",
+   "weapon": "Tollwütiges Stachelschwein",
    "x": false
   },
   {
    "id": "83431",
    "isValid": "",
-   "weapon": "richtig scharfer Cheddar",
+   "weapon": "Richtig scharfer Cheddar",
    "x": false
   },
   {
@@ -1875,31 +1875,31 @@
   {
    "id": "83433",
    "isValid": "",
-   "weapon": "brühend heißer Tee",
+   "weapon": "Brühend heißer Tee",
    "x": false
   },
   {
    "id": "83434",
    "isValid": "",
-   "weapon": "der See",
+   "weapon": "Das Meer",
    "x": false
   },
   {
    "id": "83435",
    "isValid": "",
-   "weapon": "tödliches Dreirad",
+   "weapon": "Tödliches Dreirad",
    "x": false
   },
   {
    "id": "83437",
    "isValid": "",
-   "weapon": "über die Planke gehen",
+   "weapon": "Über die Planke gehen",
    "x": false
   },
   {
    "id": "83438",
    "isValid": "",
-   "weapon": "Wasserballon Attacke",
+   "weapon": "Wasserballon-Attacke",
    "x": false
   },
   {
@@ -1917,7 +1917,7 @@
   {
    "id": "83540",
    "isValid": "",
-   "weapon": "Zeitreise",
+   "weapon": "Eine Zeitreise",
    "x": false
   },
   {
@@ -1929,7 +1929,7 @@
   {
    "id": "83542",
    "isValid": "",
-   "weapon": "rutschige Treppe",
+   "weapon": "Rutschige Treppe",
    "x": false
   },
   {
@@ -1941,13 +1941,13 @@
   {
    "id": "83581",
    "isValid": "",
-   "weapon": "mit Salami & Käse belegtes Brot",
+   "weapon": "Mit Salami & Käse belegtes Brot",
    "x": false
   },
   {
    "id": "83586",
    "isValid": "",
-   "weapon": "Napoleon Imitator",
+   "weapon": "Napoleon-Imitator",
    "x": false
   },
   {
@@ -1959,37 +1959,37 @@
   {
    "id": "83593",
    "isValid": "",
-   "weapon": "gigantischer Fuß",
+   "weapon": "Gigantischer Fuß",
    "x": false
   },
   {
    "id": "83595",
    "isValid": "",
-   "weapon": "wackeliges Skateboard",
+   "weapon": "Wackeliges Skateboard",
    "x": false
   },
   {
    "id": "83596",
    "isValid": "",
-   "weapon": "selbstfahrendes Auto",
+   "weapon": "Selbstfahrendes Auto",
    "x": false
   },
   {
    "id": "83598",
    "isValid": "",
-   "weapon": "schüchterner Attentäter",
+   "weapon": "Schüchterner Attentäter",
    "x": false
   },
   {
    "id": "83599",
    "isValid": "",
-   "weapon": "teuflisches Baby",
+   "weapon": "Teuflisches Baby",
    "x": false
   },
   {
    "id": "83602",
    "isValid": "",
-   "weapon": "Tod wegen Schokolade",
+   "weapon": "Tod durch Schokolade",
    "x": false
   },
   {
@@ -2007,7 +2007,7 @@
   {
    "id": "83607",
    "isValid": "",
-   "weapon": "stachelige Rose",
+   "weapon": "Stachelige Rose",
    "x": false
   },
   {
@@ -2019,19 +2019,19 @@
   {
    "id": "83775",
    "isValid": "",
-   "weapon": "Einradunfall",
+   "weapon": "Einrad-Unfall",
    "x": false
   },
   {
    "id": "83776",
    "isValid": "",
-   "weapon": "Kredit-Karte Schulden",
+   "weapon": "Offene Rechnungen",
    "x": false
   },
   {
    "id": "83777",
    "isValid": "",
-   "weapon": "wütende Hasenmeute",
+   "weapon": "Wütende Hasenmeute",
    "x": false
   },
   {
@@ -2055,13 +2055,13 @@
   {
    "id": "83794",
    "isValid": "",
-   "weapon": "Nuklear-Explosion",
+   "weapon": "Nukleare Explosion",
    "x": false
   },
   {
    "id": "83800",
    "isValid": "",
-   "weapon": "wehmutige Nostalgie",
+   "weapon": "Wehmütige Nostalgie",
    "x": false
   },
   {
@@ -2073,13 +2073,13 @@
   {
    "id": "83825",
    "isValid": "",
-   "weapon": "glanzloses Zeugnis",
+   "weapon": "Glanzloses Zeugnis",
    "x": false
   },
   {
    "id": "83826",
    "isValid": "",
-   "weapon": "nasser Boden Schild",
+   "weapon": "“Nasser Boden”-Schild",
    "x": false
   },
   {
@@ -2097,13 +2097,13 @@
   {
    "id": "84059",
    "isValid": "",
-   "weapon": "ausgebildeter Falke",
+   "weapon": "Ausgebildeter Kampf-Falke",
    "x": false
   },
   {
    "id": "84064",
    "isValid": "",
-   "weapon": "elektrische Gitarre",
+   "weapon": "Elektrische Gitarre",
    "x": false
   },
   {
@@ -2115,7 +2115,7 @@
   {
    "id": "84076",
    "isValid": "",
-   "weapon": "Fluch der Hexe",
+   "weapon": "Fluch einer Hexe",
    "x": false
   },
   {
@@ -2127,7 +2127,7 @@
   {
    "id": "84085",
    "isValid": "",
-   "weapon": "eine Waschbärfamilie",
+   "weapon": "Eine Waschbärenfamilie",
    "x": false
   },
   {
@@ -2139,7 +2139,7 @@
   {
    "id": "84094",
    "isValid": "",
-   "weapon": "scharfer Senf",
+   "weapon": "Scharfer Senf",
    "x": false
   },
   {
@@ -2151,7 +2151,7 @@
   {
    "id": "84099",
    "isValid": "",
-   "weapon": "abtanzen",
+   "weapon": "Abtanzen",
    "x": false
   },
   {
@@ -2163,7 +2163,7 @@
   {
    "id": "84107",
    "isValid": "",
-   "weapon": "Gelee-Donut",
+   "weapon": "Gefüllter Donut",
    "x": false
   },
   {
@@ -2175,79 +2175,79 @@
   {
    "id": "84111",
    "isValid": "",
-   "weapon": "elektrischer Zaun",
+   "weapon": "Elektrozaun",
    "x": false
   },
   {
    "id": "84505",
    "isValid": "",
-   "weapon": "harmloser Zaun",
+   "weapon": "Eigentlich harmloser Zaun",
    "x": false
   },
   {
    "id": "84507",
    "isValid": "",
-   "weapon": "Dreizack der Meerjungsfrau",
+   "weapon": "Dreizack einer Meerjungfrau",
    "x": false
   },
   {
    "id": "84508",
    "isValid": "",
-   "weapon": "hinterhältiger Papagei",
+   "weapon": "Hinterhältiger Papagei",
    "x": false
   },
   {
    "id": "84511",
    "isValid": "",
-   "weapon": "anpacken im Fussball",
+   "weapon": "Fußball-Foul",
    "x": false
   },
   {
    "id": "84512",
    "isValid": "",
-   "weapon": "Flugzeug Essen",
+   "weapon": "Flugzeugessen",
    "x": false
   },
   {
    "id": "84515",
    "isValid": "",
-   "weapon": "komliziertes Labyrinth",
+   "weapon": "Kompliziertes Labyrinth",
    "x": false
   },
   {
    "id": "84517",
    "isValid": "",
-   "weapon": "seeuntüchtiges Boot",
+   "weapon": "Seeuntüchtiges Boot",
    "x": false
   },
   {
    "id": "84519",
    "isValid": "",
-   "weapon": "böser Magier",
+   "weapon": "Böser Magier",
    "x": false
   },
   {
    "id": "84528",
    "isValid": "",
-   "weapon": "alter Kartoffelsalat",
+   "weapon": "Alter Kartoffelsalat",
    "x": false
   },
   {
    "id": "84529",
    "isValid": "",
-   "weapon": "lange Kassenschlange",
+   "weapon": "Lange Kassenschlange",
    "x": false
   },
   {
    "id": "84535",
    "isValid": "",
-   "weapon": "mörderische Vogelscheuche",
+   "weapon": "Mörderische Vogelscheuche",
    "x": false
   },
   {
    "id": "84542",
    "isValid": "",
-   "weapon": "rachsüchtiger Cowboy",
+   "weapon": "Rachsüchtiger Cowboy",
    "x": false
   },
   {
@@ -2259,19 +2259,19 @@
   {
    "id": "84591",
    "isValid": "",
-   "weapon": "zu viel Bratwurst",
+   "weapon": "Zu viel Bratwurst",
    "x": false
   },
   {
    "id": "84592",
    "isValid": "",
-   "weapon": "giftige Schlange",
+   "weapon": "Giftige Schlange",
    "x": false
   },
   {
    "id": "84611",
    "isValid": "",
-   "weapon": "Holzhackmaschine",
+   "weapon": "Holzhack-Maschine",
    "x": false
   },
   {
@@ -2301,25 +2301,25 @@
   {
    "id": "84681",
    "isValid": "",
-   "weapon": "grosses Loch",
+   "weapon": "Großes Loch",
    "x": false
   },
   {
    "id": "85010",
    "isValid": "",
-   "weapon": "Lufthorn",
+   "weapon": "Hupe",
    "x": false
   },
   {
    "id": "85011",
    "isValid": "",
-   "weapon": "das Gewicht der Welt",
+   "weapon": "Alle Last der Welt",
    "x": false
   },
   {
    "id": "85014",
    "isValid": "",
-   "weapon": "mit Liebe gekauft",
+   "weapon": "Todesklippen",
    "x": false
   },
   {
@@ -2349,7 +2349,7 @@
   {
    "id": "85024",
    "isValid": "",
-   "weapon": "harter Winter",
+   "weapon": "Harter Winter",
    "x": false
   },
   {
@@ -2379,25 +2379,25 @@
   {
    "id": "85158",
    "isValid": "",
-   "weapon": "tanzender Frosch",
+   "weapon": "Tanzender Frosch",
    "x": false
   },
   {
    "id": "85161",
    "isValid": "",
-   "weapon": "atemberaubender Sonnenuntergang",
+   "weapon": "Atemberaubender Sonnenuntergang",
    "x": false
   },
   {
    "id": "85162",
    "isValid": "",
-   "weapon": "Weinachtsbaum",
+   "weapon": "Weihnachtsbaum",
    "x": false
   },
   {
    "id": "85164",
    "isValid": "",
-   "weapon": "Strassenwut",
+   "weapon": "Einparken",
    "x": false
   },
   {
@@ -2409,7 +2409,7 @@
   {
    "id": "85171",
    "isValid": "",
-   "weapon": "T.Rex Schädel",
+   "weapon": "Schädel eines T-Rex",
    "x": false
   },
   {
@@ -2427,19 +2427,19 @@
   {
    "id": "85174",
    "isValid": "",
-   "weapon": "fester Händedruck",
+   "weapon": "Fester Händedruck",
    "x": false
   },
   {
    "id": "85177",
    "isValid": "",
-   "weapon": "alte Schnecke",
+   "weapon": "Alte Schnecke",
    "x": false
   },
   {
    "id": "85181",
    "isValid": "",
-   "weapon": "Genie Lampe",
+   "weapon": "Lampe eines Flaschengeistes",
    "x": false
   },
   {
@@ -2463,13 +2463,13 @@
   {
    "id": "85185",
    "isValid": "",
-   "weapon": "Baseballschläger mit Nageln",
+   "weapon": "Baseballschläger mit Nägeln",
    "x": false
   },
   {
    "id": "85188",
    "isValid": "",
-   "weapon": "sicher fallen",
+   "weapon": "“Der will doch nur spielen!”",
    "x": false
   },
   {
@@ -2481,19 +2481,19 @@
   {
    "id": "85561",
    "isValid": "",
-   "weapon": "Motorradexplosion",
+   "weapon": "Motorrad-Explosion",
    "x": false
   },
   {
    "id": "85572",
    "isValid": "",
-   "weapon": "heißer Kaffee",
+   "weapon": "Heißer Kaffee",
    "x": false
   },
   {
    "id": "85574",
    "isValid": "",
-   "weapon": "kosmische Strahlung",
+   "weapon": "Kosmische Strahlung",
    "x": false
   },
   {
@@ -2511,13 +2511,13 @@
   {
    "id": "85581",
    "isValid": "",
-   "weapon": "giftiger Apfel",
+   "weapon": "Benutzte Windel",
    "x": false
   },
   {
    "id": "85587",
    "isValid": "",
-   "weapon": "scharfe Salsa",
+   "weapon": "Scharfe Salsa",
    "x": false
   },
   {
@@ -2529,13 +2529,13 @@
   {
    "id": "85590",
    "isValid": "",
-   "weapon": "mechanische Zähne",
+   "weapon": "Mechanische Zähne",
    "x": false
   },
   {
    "id": "85596",
    "isValid": "",
-   "weapon": "trainierte mutierte Käfer",
+   "weapon": "Mutierter Käfer",
    "x": false
   }
  ]

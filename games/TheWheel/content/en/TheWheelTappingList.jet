@@ -4632,7 +4632,7 @@
    "id": "77821",
    "isValid": "",
    "prompt": "Für welche Filme erhielt Glenn Close eine Oscar-Nominierung?",
-   "us": false,
+   "us": true,
    "x": false
   },
   {
@@ -6971,7 +6971,7 @@
    ],
    "id": "78414",
    "isValid": "",
-   "prompt": "Welche dieser Wörter sind sind KEIN Teil der Abkürzung “MINT”?",
+   "prompt": "Welche dieser Wörter sind KEIN Teil der Abkürzung “MINT”?",
    "us": false,
    "x": false
   },
