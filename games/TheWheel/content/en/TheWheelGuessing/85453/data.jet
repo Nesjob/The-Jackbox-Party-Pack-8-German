@@ -93,7 +93,7 @@
       "t": "A",
       "v": "clues_2_clue",
       "n": "ClueAudio2",
-      "s": "Das Holz dieser Baumart wird meist zur Herstellung besonders robuster Möbel oder Weinfässer hergestellt."
+      "s": "Das Holz dieser Baumart wird meist zur Herstellung besonders robuster Möbel oder Weinfässer verwendet."
     },
     {
       "t": "B",
@@ -104,7 +104,7 @@
       "t": "A",
       "v": "clues_2_clueComment",
       "n": "ClueCommentAudio2",
-      "s": "Das Holz dieser Baumart wird meist zur Herstellung besonders robuster Möbel hergestellt. Auch Fässer für die Lagerung von Alkohol wie Wein oder Whisky werden aus diesem Holz gemacht."
+      "s": "Das Holz dieser Baumart wird meist zur Herstellung besonders robuster Möbel verwendet. Auch Fässer für die Lagerung von Alkohol wie Wein oder Whisky werden aus diesem Holz gemacht."
     },
     {
       "t": "B",
