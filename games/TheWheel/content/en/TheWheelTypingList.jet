@@ -4652,7 +4652,7 @@
             "exactSpelling": false,
             "id": "79424",
             "isValid": "",
-            "prompt": "Welche 6 Farben gehören zum Spektrum des sichtbaren Licht?",
+            "prompt": "Welche 6 Farben gehören zum Spektrum des sichtbaren Lichts?",
             "subtype": "name",
             "us": false,
             "x": false
