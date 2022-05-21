@@ -123,15 +123,15 @@
         "DETECTIVES_FOOLED_LABEL": "DETEKTIVE GETÄUSCHT",
         "CHIEF_INVESTIGATOR": "CHEFDETEKTIV",
 
-        "CHOOSING_MURDER_WEAPON_PROMPT_TEXT": "Wähle eine Waffe zum Töten.",
-        "CHOOSING_GUEST_PROMPT_TEXT": "Wähle einen Gast zum Töten.",
+        "CHOOSING_MURDER_WEAPON_PROMPT_TEXT": "Wähle eine Waffe zum Töten",
+        "CHOOSING_GUEST_PROMPT_TEXT": "Wähle einen Gast zum Töten",
         "CHOOSING_CREATOR_PROMPT_TEXT": "Welcher Detektiv hat %s mitgebracht?",
         "SMALL_PLAYER_MURDER_HINT": "[header]FALSCH[/header]",
         "INCLUSIVE_MURDER_HINT": "[header]FALSCH[/header][line]Es war nicht %s.[/line][header]CLUE[/header][line]%s ist ein Gast von einem Spieler mit %s im Namen.[/line]",
         "EXCLUSIVE_MURDER_HINT": "[header]FALSCH[/header][line]Es war nicht %s.[/line][header]CLUE[/header][line]%s ist ein Gast von einem Spieler, der keine %s's im Namen hat.[/line]",
         "COOLING_DOWN_PROMPT_TEXT": "[section]Versuch es nochmal in %d Sekunden...[/section]",
 
-        "MURDERING_SUCCESSFUL_TEXT": "[line]RICHTIG![/line][line]Du hast %s getötet (und einen Mordpunkt gewonnen.)[/line][line]Aber verrate es niemandem![/line]",
+        "MURDERING_SUCCESSFUL_TEXT": "[line]RICHTIG![/line][line]Du hast %s getötet (und einen Mörderpunkt erhalten).[/line][line]Aber verrate es niemandem![/line]",
         "MURDERING_ERROR_TEXT": "Fehler",
 
         "MURDER_ATTEMPT_NOTIFICATION": "%d Mordversuch an %s",
