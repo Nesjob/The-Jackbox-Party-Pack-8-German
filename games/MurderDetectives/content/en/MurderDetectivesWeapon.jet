@@ -603,7 +603,7 @@
   {
    "id": "81579",
    "isValid": "",
-   "weapon": "Club",
+   "weapon": "Intensive Akupunktur",
    "x": false
   },
   {
@@ -867,7 +867,7 @@
   {
    "id": "81742",
    "isValid": "",
-   "weapon": "Gut getimte Lawine",
+   "weapon": "Gezielte Lawine",
    "x": false
   },
   {
@@ -1269,7 +1269,7 @@
   {
    "id": "82451",
    "isValid": "",
-   "weapon": "Pferde",
+   "weapon": "Pferd",
    "x": false
   },
   {
@@ -1755,7 +1755,7 @@
   {
    "id": "83411",
    "isValid": "",
-   "weapon": "Hühner-Kebab mit extra Zaziki",
+   "weapon": "Hähnchen-Döner mit extra Zaziki",
    "x": false
   },
   {
@@ -1839,7 +1839,7 @@
   {
    "id": "83426",
    "isValid": "",
-   "weapon": "Gastgeschenk",
+   "weapon": "Karma",
    "x": false
   },
   {
