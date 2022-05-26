@@ -31,7 +31,7 @@
         "ON": "An",
         "OFF": "Aus",
         "UNHIDE": "Zeigen",
-        "HIDE": "Verdecken",
+        "HIDE": "Verstecken",
         "HIDDEN_ROOM_CODE": "?????",
         "JOIN": "Beitreten",
         "PLAY": "Spielen",
@@ -89,7 +89,7 @@
 
         "GLOBAL_ROOM_CODE_LABEL": "Raum Code",
         "GLOBAL_ROOM_CODE_CODE_LABEL": "Raum<br/>Code",
-        "GLOBAL_ROOM_CODE_AUDIENCE_LABEL": "Publiku",
+        "GLOBAL_ROOM_CODE_AUDIENCE_LABEL": "Publikum",
         "GLOBAL_ROOM_CODE_REMINDER_LABEL": "jack<br/>box<br/>.gg",
 
         "AUDIENCE_SOUNDBOARD_PROMPT": "Tippe wiederholt auf eine Schaltfläche, um auszuwählen, wo der Blitz einschlagen soll",
@@ -212,7 +212,7 @@
         "VERDICT_REVEAL_INNOCENT_DETECTIVE": "Solltest du richtig gelegen haben, hast du einen Detektivpunkt erhalten. Aber das wirst du jetzt noch nicht erfahren.",
         "VERDICT_REVEAL_COLDCASE_MURDERER": "Du hast %d Detektive getäuscht.",
 
-        "REMAINING_CASES_TEXT": "VERBLEIBENDE FÄLLE",
+        "REMAINING_CASES_TEXT": "OFFENE FÄLLE",
 
         "COLDCASE_BUMPER_LEFT_TEXT": "Kalte",
         "COLDCASE_BUMPER_RIGHT_TEXT": "Fälle",
