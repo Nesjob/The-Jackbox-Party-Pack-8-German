@@ -97,7 +97,7 @@
         
         "GUESSING_PROMPT": "Wovon denkst du, spricht das Rad?",
         
-        "TRIVIA_TYPE_TAPPING_LIST_INSTRUCTIONS": "Tippe auf die Antworten, die zur Aufgabe passen",
+        "TRIVIA_TYPE_TAPPING_LIST_INSTRUCTIONS": "Tippe auf die Antworten, die zur Frage passen",
         "TRIVIA_TYPE_SUBJECTIVE_LIST_INSTRUCTIONS": "Errate so viele Antworten wie möglich, bevor die Zeit abläuft",
         "TRIVIA_TYPE_TYPING_LIST_INSTRUCTIONS": "Gib so viele Antworten wie möglich ein, bevor die Zeit abläuft",
         "TRIVIA_TYPE_NUMBER_TARGET_INSTRUCTIONS": "Gib eine Zahl ein, die der richtigen Antwort möglichst nahe kommt",
