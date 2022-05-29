@@ -31,8 +31,9 @@
         "ON": "An",
         "OFF": "Aus",
         "UNHIDE": "Zeigen",
+        "HIDE": "Verstecken",
         "HIDDEN_ROOM_CODE": "?????",
-        "JOIN": "Beitreten",
+        "JOIN": "Los!",
         "PLAY": "Spielen",
         "SETTINGS": "Optionen",
         "BACK_TO_PACK": "Zurück",
@@ -91,7 +92,7 @@
         "GLOBAL_ROOM_CODE_AUDIENCE_LABEL": "Publikum",
         "GLOBAL_ROOM_CODE_REMINDER_LABEL": "jack<br/>box<br/>.gg",
 
-        "AUDIENCE_SOUNDBOARD_PROMPT": "Tippe wiederholt auf eine Schaltfläche, um auszuwählen, wo der Blitz einschlagen soll.",
+        "AUDIENCE_SOUNDBOARD_PROMPT": "Tippe wiederholt auf eine Schaltfläche, um auszuwählen, wo der Blitz einschlagen soll",
         "AUDIENCE_SOUNDBOARD_COMPLETED_PREAMBLE": "eingeschlagen ",
         "AUDIENCE_SOUNDBOARD_OPTIONS": [
           "neben einer Katze",
@@ -127,8 +128,8 @@
         "CHOOSING_GUEST_PROMPT_TEXT": "Wähle einen Gast zum Töten",
         "CHOOSING_CREATOR_PROMPT_TEXT": "Welcher Detektiv hat %s mitgebracht?",
         "SMALL_PLAYER_MURDER_HINT": "[header]FALSCH[/header]",
-        "INCLUSIVE_MURDER_HINT": "[header]FALSCH[/header][line]Es war nicht %s.[/line][header]CLUE[/header][line]%s ist ein Gast von einem Spieler mit %s im Namen.[/line]",
-        "EXCLUSIVE_MURDER_HINT": "[header]FALSCH[/header][line]Es war nicht %s.[/line][header]CLUE[/header][line]%s ist ein Gast von einem Spieler, der keine %s's im Namen hat.[/line]",
+        "INCLUSIVE_MURDER_HINT": "[header]FALSCH[/header][line]Es war nicht %s.[/line][header]TIPP:[/header][line]%s ist ein Gast von einem Spieler mit %s im Namen.[/line]",
+        "EXCLUSIVE_MURDER_HINT": "[header]FALSCH[/header][line]Es war nicht %s.[/line][header]TIPP:[/header][line]%s ist ein Gast von einem Spieler ohne %s im Namen.[/line]",
         "COOLING_DOWN_PROMPT_TEXT": "[section]Versuch es nochmal in %d Sekunden...[/section]",
 
         "MURDERING_SUCCESSFUL_TEXT": "[line]RICHTIG![/line][line]Du hast %s getötet (und einen Mörderpunkt erhalten).[/line][line]Aber verrate es niemandem![/line]",
@@ -137,7 +138,7 @@
         "MURDER_ATTEMPT_NOTIFICATION": "%d Mordversuch an %s",
         "MURDER_ATTEMPTS_NOTIFICATION": "%d Mordversuche an %s",
 
-        "AUDIENCE_STABBING_PROMPT_TEXT": "[header]Stich in die Dunkelheit,[/header][line]während die Detektive morden[/line]",
+        "AUDIENCE_STABBING_PROMPT_TEXT": "[line]Stich in die Dunkelheit,[/line][line]während die Detektive morden[/line]",
         "AUDIENCE_STABBING_BUTTON_TEXT": "ZUSTECHEN",
         "AUDIENCE_STABBING_MISS_MESSAGES": [
           "Daneben!",
@@ -208,10 +209,10 @@
 
         "VERDICT_REVEAL_GUILTY_DETECTIVE": "Richtig! Du hast einen Detektivpunkt erhalten!",
         "VERDICT_REVEAL_GUILTY_MURDERER": "Du hast immer noch deinen Mörderpunkt.",
-        "VERDICT_REVEAL_INNOCENT_DETECTIVE": "Hast du das richtig gemacht, hast du einen Detektivpunkt erhalten. Aber das wirst du jetzt noch nicht erfahren.",
-        "VERDICT_REVEAL_COLDCASE_MURDERER": "Du hast %d Detektive getäuscht",
+        "VERDICT_REVEAL_INNOCENT_DETECTIVE": "Solltest du richtig gelegen haben, hast du einen Detektivpunkt erhalten. Aber das wirst du jetzt noch nicht erfahren.",
+        "VERDICT_REVEAL_COLDCASE_MURDERER": "Du hast %d Detektive getäuscht.",
 
-        "REMAINING_CASES_TEXT": "VERBLEIBENDE FÄLLE",
+        "REMAINING_CASES_TEXT": "OFFENE FÄLLE",
 
         "COLDCASE_BUMPER_LEFT_TEXT": "Kalte",
         "COLDCASE_BUMPER_RIGHT_TEXT": "Fälle",
