@@ -29,7 +29,7 @@
 	"joinUrl":"jackbox.gg",
 	"supportsMouse":"true",
 	"connectingDurationTrouble":"15000",
-	"dev-console":"true",
+	"dev-console":"false",
 	"buildTimeStamp":"2021-12-01 05:37:50",
 	"buildVersion":"437"
 }
