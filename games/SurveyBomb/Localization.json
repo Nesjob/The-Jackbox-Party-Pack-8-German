@@ -115,8 +115,8 @@
 
             "DOOR_CHOICE_RANKING": "Nr: %s",
 
-            "RULESET_PROMPT_0_0": "Top 3 Antwort",
-            "RULESET_PROMPT_1_0": "Antwort 2, 3, 4",
+            "RULESET_PROMPT_0_0": "Top 3 Antworten",
+            "RULESET_PROMPT_1_0": "Antworten\n2, 3, 4",
             "RULESET_PROMPT_2": "Umgekehrt\n(8 bis 1)",
 
             "SKIP_TUTORIAL_INTERACTION_TEXT": "Tutorial überspringen?",
