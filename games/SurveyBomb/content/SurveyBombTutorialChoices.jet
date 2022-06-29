@@ -1,0 +1,166 @@
+{
+ "content": [
+    {
+    "prompt": "Deine bevorzugte Begrüßung",
+    "choices" : [
+           "Umarmung",
+           "Handschlag",
+           "High-Five",
+           "Kopfnicken",
+           "Wangenkuss"
+       ]
+    },
+    {
+    "prompt": "Die beste Ergänzung zu Kakao",
+    "choices" : [
+           "Orangenschale",
+           "Schlagsahne",
+           "Zimt",
+           "Zuckerstange",
+           "Marshmallows"
+       ]
+    },
+    {
+    "prompt": "Die schicksten Kopfbedeckungen",
+    "choices" : [
+           "Zylinder",
+           "Beanie",
+           "Melone",
+           "Barett",
+           "Krone"
+       ]
+    },
+    {
+    "prompt": "Die beste Art, eine Hose zuzumachen",
+    "choices" : [
+           "Knopf",
+           "Reißverschluss",
+           "Sicherheitsnadel",
+           "Tesafilm",
+           "Seil"
+       ]
+    },
+    {
+    "prompt": "Deine liebste Haarfarbe",
+    "choices" : [
+           "Blond",
+           "Braun",
+           "Schwarz",
+           "Grau",
+           "Glatze"
+       ]
+    },
+    {
+    "prompt": "Die besten Gartengeräte",
+    "choices" : [
+           "Harke",
+           "Schaufel",
+           "Heckenschere",
+           "Hacke",
+           "Rasenmäher"
+       ]
+    },
+    {
+    "prompt": "Die besten Spielzeuge für Babys",
+    "choices" : [
+           "Rassel",
+           "Bausteine",
+           "Teddybär",
+           "Schlüssel",
+           "Spitzer Stein"
+       ]
+    },
+    {
+    "prompt": "Die gemütlichsten Sitzgelegenheiten",
+    "choices" : [
+           "Ledersessel",
+           "Barhocker",
+           "Gymnastikball",
+           "Holzbank",
+           "Sitzsack"
+       ]
+    },
+    {
+    "prompt": "Was ist klebriger?",
+    "choices" : [
+           "Bastelkleber",
+           "Honig",
+           "Teer",
+           "Ahornsirup",
+           "Kaugummi"
+       ]
+    },
+    {
+    "prompt": "Die vertrauenswürdigsten Ärzte",
+    "choices" : [
+           "Dr. Oz",
+           "Dr. Bibber",
+           "Dr. Strange",
+           "Dr. Evil",
+           "Dr. Hirschhausen"
+       ]
+    },
+    {
+    "prompt": "Die heldenhaftesten Superhelden",
+    "choices" : [
+           "Captain America",
+           "Mathemann",
+           "Spider-Man",
+           "Batman",
+           "Captain Marvel"
+       ]
+    },
+    {
+    "prompt": "Was bringt dich zum Lachen?",
+    "choices" : [
+           "Furzwitz",
+           "Tortenschlacht",
+           "Abstruses Meme",
+           "Lustiges Tier",
+           "1A Wortspiel"
+       ]
+    },
+    {
+    "prompt": "Dinge, die man gut grillen kann",
+    "choices" : [
+           "Spieße",
+           "Steaks",
+           "Käse",
+           "Tofu",
+           "Freunde"
+       ]
+    },
+    {
+    "prompt": "Die besten Dinge, um sie in Brand zu stecken",
+    "choices" : [
+           "Kerzen",
+           "Feuerholz",
+           "Böller",
+           "Crêpes",
+           "Weihrauch"
+       ]
+    },
+    {
+    "prompt": "Die schlechteste Verwendung für scharfe Soße",
+    "choices" : [
+           "Zahnpasta",
+           "Shampoo",
+           "Deo",
+           "Mundspülung",
+           "Sonnencreme"
+       ]
+    },
+    {
+    "prompt": "Das coolste am Weltraum",
+    "choices" : [
+           "Meteore",
+           "Schwarze Löcher",
+           "Sterne",
+           "Aliens?",
+           "Monde"
+       ]
+    }
+ ]
+}
+
+
