@@ -484,7 +484,7 @@
    "category": "Food & Drink",
    "id": "77630",
    "isValid": "",
-   "prompt": "Wie viele McDonalds Filialen gab es 2021 in Deutschland?",
+   "prompt": "Wie viele McDonalds-Filialen gab es 2021 in Deutschland?",
    "unit": "",
    "us": false,
    "value": "1450",
