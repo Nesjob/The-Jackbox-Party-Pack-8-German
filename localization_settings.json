@@ -3,7 +3,7 @@
     "en": {
         "BACK": "Zurück",
         "SELECT": "Bestätigen",
-        "SETTINGS_TITLE": "Einstellungen",
+        "SETTINGS_TITLE": "Optionen",
         
         "AUDIO_VIDEO_CATEGORY": "Audio/Video",
         "CONTENT_CONTROL_CATEGORY": "Inhalte",
@@ -16,79 +16,79 @@
         "VOLUME_HOST": "Moderator-Lautstärke",
         "VOLUME_HOST_DESCRIPTION": "Passt die Lautstärke des Moderators an.",
 
-        "VOLUME_SFX": "Effekte-Lautstärke",
+        "VOLUME_SFX": "Soundeffekt-Lautstärke",
         "VOLUME_SFX_DESCRIPTION": "Passt die Lautstärke der Soundeffekte an.",
 
         "VOLUME_MUSIC": "Musik-Lautstärke",
         "VOLUME_MUSIC_DESCRIPTION": "Passt die Lautstärke der Musik an.",
 
-        "FULL_SCREEN": "Vollbild-Modus",
-        "FULL_SCREEN_DESCRIPTION": "Setzt das Spiel in den Vollbild-Modus.",
+        "FULL_SCREEN": "Vollbildmodus",
+        "FULL_SCREEN_DESCRIPTION": "Schaltet das Spiel auf Vollbild.",
 
-        "FAMILY_FRIENDLY": "Familienfreundlich",
-        "FAMILY_FRIENDLY_DESCRIPTION": "Einschalten, um provokative Inhalte zu filtern.",
+        "FAMILY_FRIENDLY": "Familienmodus",
+        "FAMILY_FRIENDLY_DESCRIPTION": "Einschalten, um kontroverse Spielinhalte zu filtern.",
 
-        "PLAYER_CONTENT_FILTERING": "Schimpfwort-Filter",
-        "PLAYER_CONTENT_FILTERING_OFF_DESCRIPTION": "Alle Eingaben sind erlaubt.",
-        "PLAYER_CONTENT_FILTERING_HATE_SPEECH_DESCRIPTION": "Eingaben mit hasserfüllten Wörtern werden abgelehnt. Obszönitäten sind erlaubt.",
+        "PLAYER_CONTENT_FILTERING": "Obszönitäts-Filter",
+        "PLAYER_CONTENT_FILTERING_OFF_DESCRIPTION": "Spielereingaben werden nicht gefiltert.",
+        "PLAYER_CONTENT_FILTERING_HATE_SPEECH_DESCRIPTION": "Spielereingaben mit hasserfüllten Wörtern werden abgelehnt. Obszönitäten sind erlaubt.",
         "PLAYER_CONTENT_FILTERING_PROFANITY_DESCRIPTION": "Hasserfüllte und obszöne Wörter werden nicht akzeptiert.",
         "PLAYER_CONTENT_FILTERING_OFF": "Aus",
         "PLAYER_CONTENT_FILTERING_HATE_SPEECH": "Mild",
         "PLAYER_CONTENT_FILTERING_PROFANITY": "Streng",
 
         "MODERATION": "Moderation",
-        "MODERATION_DESCRIPTION": "Erlaubt es Moderatoren, Eingaben abzulehnen. Beitritt für Mods unter mod.jackbox.tv.",
-        "MODERATION_PASSWORD": "Moderator Passwort",
+        "MODERATION_DESCRIPTION": "Erlaubt es Moderatoren, Eingaben abzulehnen. Beitritt für Mods unter jackbox.gg/#/moderation",
+        "MODERATION_PASSWORD": "Moderator-Passwort",
 
         "FILTER_US_CENTRIC": "US-zentrierte Inhalte filtern",
         "FILTER_US_CENTRIC_DESCRIPTION": "Verringert die US-zentrierten Inhalte.",
 
-        "FILTER_PLAYERNAME": "Aufgaben mit Spielernamen filtern",
-        "FILTER_PLAYERNAME_DESCRIPTION": "Entferne Prompts, die die Namen der Spieler einbeziehen.",
+        "FILTER_PLAYERNAME": "Prompts mit Spielernamen filtern",
+        "FILTER_PLAYERNAME_DESCRIPTION": "Entfernt Prompts, welche die Namen der Spieler einbeziehen.",
 
         "SUBTITLES": "Untertitel",
-        "SUBTITLES_DESCRIPTION": "Zeigt Untertitel im Spiel.",
+        "SUBTITLES_DESCRIPTION": "Aktiviert Untertitel im Spiel.",
 
         "MOTION_SENSITIVITY": "Bewegungsempfindlichkeit",
-        "MOTION_SENSITIVITY_DESCRIPTION": "Reduziert die Bewegungsempfindlichkeit durch weniger animierte Hintergründe.",
+        "MOTION_SENSITIVITY_DESCRIPTION": "Weniger Bewegungsempfindlichkeit auslösende animierte Hintergründe.",
 
         "NO_TIMERS": "Keine Timer",
         "NO_TIMERS_DESCRIPTION": "Timer werden wenn möglich deaktiviert. Es wird auf die Eingabe aller Spieler gewartet.",
 
         "EXTENDED_TIMERS": "Längere Timer",
-        "EXTENDED_TIMERS_DESCRIPTION": "Aktiviert längere Timer. Nur für Streams geeignet.",
+        "EXTENDED_TIMERS_DESCRIPTION": "Längere Timer geben dir mehr Zeit zum Antworten. Geeignet für Livestreams.",
 
         "AUDIENCE_MODE": "Publikum",
-        "AUDIENCE_MODE_DESCRIPTION": "Einschalten, um ein Publikum zu erlauben, welches das Spiel beeinflussen kann.",
+        "AUDIENCE_MODE_DESCRIPTION": "Einschalten, damit Zuschauer das Spiel beeinflussen können.",
 
         "SKIP_TUTORIALS": "Tutorials überspringen",
-        "SKIP_TUTORIALS_DESCRIPTION": "Überspringt Tutorials.",
+        "SKIP_TUTORIALS_DESCRIPTION": "Überspringt die Tutorials.",
         
         "POSTGAME_SHARING": "Nachträgliches Teilen",
-        "POSTGAME_SHARING_DESCRIPTION": "Erlaubt es den Spielern, nach dem Spiel die Ergebnisse über Social Media zu teilen.",
+        "POSTGAME_SHARING_DESCRIPTION": "Erlaubt es den Spielern, nach dem Spiel ihre Werke über Social Media zu teilen.",
 
         "PASSWORD_PROTECTED": "Spiel mit Passwort",
         "PASSWORD_PROTECTED_DESCRIPTION": "Generiert ein Passwort, welches die Spieler beim Beitritt eingeben müssen.",
-        "PASSWORD_PROTECTED_LABEL": "Das Passwort",
+        "PASSWORD_PROTECTED_LABEL": "Spiel-Passwort",
 
         "TWITCH_REQUIRED": "Twitch voraussetzen",
-        "TWITCH_REQUIRED_DESCRIPTION": "Um mitzuspielen, müssen sich die Spieler mit Twitch einloggen.",
+        "TWITCH_REQUIRED_DESCRIPTION": "Spieler müssen sich mit Twitch anmelden.",
 
-        "START_GAMEPAD": "Das Spiel nur vom PC starten",
-        "START_GAMEPAD_DESCRIPTION": "Die Spiele müssen vom PC gestartet werden, anstatt vom Gerät des ersten Spielers.",
+        "START_GAMEPAD": "Spiel nur vom PC starten",
+        "START_GAMEPAD_DESCRIPTION": "Das Spiel muss am PC gestartet werden, anstatt vom VIP.",
 
-        "HIDE_ROOM_CODE": "Raum-Code verstecken erlauben",
-        "HIDE_ROOM_CODE_DESCRIPTION": "Der Raum-Code kann On-Screen versteckt werden.",
+        "HIDE_ROOM_CODE": "Raumcode verstecken",
+        "HIDE_ROOM_CODE_DESCRIPTION": "Erlaubt es, den Raumcode zu verstecken.",
 
-        "ALLOW_PLAYER_CONTENT_ON_SCREEN": "Erlaube nutzergenerierte Inhalte",
-        "ALLOW_PLAYER_CONTENT_ON_SCREEN_DESCRIPTION": "Spieler können ihre eigenen Fragen schreiben, welche dann im Spiel zu sehen sind.",
+        "ALLOW_PLAYER_CONTENT_ON_SCREEN": "Nutzergenerierte Inhalte erlauben",
+        "ALLOW_PLAYER_CONTENT_ON_SCREEN_DESCRIPTION": "Spieler können ihre eigenen Prompts schreiben, welche dann im Spiel zu sehen sind.",
 
         "MAX_PLAYERS": "Max. Spieler",
-        "MAX_PLAYERS_DESCRIPTION": "Die Anzahl der Spieler, die maximal beitreten können, bevor sie im Publikum landen.",
+        "MAX_PLAYERS_DESCRIPTION": "Die maximale Spieleranzahl, bevor neue Spieler ins Publikum weitergeleitet werden.",
         
         "SETTINGS_WARNING_MENU": "",
-        "SETTINGS_WARNING_LOBBY": "Einige Einstellungen können nicht geändert werden, nachdem ein Raum erstellt wurde.",
-        "SETTINGS_WARNING_PAUSE": "Einige Einstellungen können nicht geändert werden, nachdem ein Spiel gestartet wurde."
+        "SETTINGS_WARNING_LOBBY": "Einige Optionen können im Raum nicht mehr geändert werden.",
+        "SETTINGS_WARNING_PAUSE": "Einige Optionen können im Spiel nicht mehr geändert werden."
     }
     }
 }
