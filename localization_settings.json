@@ -37,7 +37,7 @@
         "PLAYER_CONTENT_FILTERING_PROFANITY": "Streng",
 
         "MODERATION": "Moderation",
-        "MODERATION_DESCRIPTION": "Erlaubt es Moderatoren, Eingaben abzulehnen. Beitritt für Mods unter jackbox.gg/#/moderation",
+        "MODERATION_DESCRIPTION": "Erlaubt es Moderatoren, Eingaben abzulehnen. Beitritt für Mods unter mod.jackbox.gg",
         "MODERATION_PASSWORD": "Moderator-Passwort",
 
         "FILTER_US_CENTRIC": "US-zentrierte Inhalte filtern",
